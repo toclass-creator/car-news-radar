@@ -27,6 +27,11 @@ Default public sources:
 - OPML RSS when configured locally or through `FOLLOW_OPML_B64`
 - TopHub and NewsNow as limited broad supplements after strict car-topic filtering
 
+Each output item includes `topic_tags` for downstream topic selection. Current
+tags include EV, smart driving, charging/battery, sales/market, price war,
+recall/safety, automaker competition, supply chain, purchase decision, and new
+car launch themes.
+
 Disabled as default:
 
 - Buzzing, TechURLs, Iris, BestBlogs, Follow Builders, AI Breakfast, Zeli, and

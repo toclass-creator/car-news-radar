@@ -64,6 +64,7 @@ The public site should directly track these high-signal vertical sources:
 - 盖世汽车新能源 RSS
 - 盖世汽车智能网联 RSS
 - 盖世汽车供应链 RSS
+- 盖世汽车新车 / 行业 / 车企 / 销量 / 新技术 / 上市公司 RSS
 - CnEVPost China EV / Self Driving / Battery RSS
 - CarNewsChina EV RSS
 

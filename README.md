@@ -20,9 +20,15 @@
 
 内置垂类源：
 
+- 盖世汽车-新车
+- 盖世汽车-行业
+- 盖世汽车-车企
+- 盖世汽车-销量
+- 盖世汽车-新技术
 - 盖世汽车-新能源
 - 盖世汽车-智能网联
 - 盖世汽车-供应链
+- 盖世汽车-上市公司
 - CnEVPost China EV
 - CnEVPost Self Driving
 - CnEVPost Battery
@@ -91,6 +97,19 @@ https://toclass-creator.github.io/car-news-radar/
 - `data/archive.json`：归档缓存
 - `data/source-status.json`：源健康状态
 - `data/title-zh-cache.json`：英文标题翻译缓存
+
+每条内容会输出 `topic_tags`，用于前台筛选和下游小红书选题：
+
+- 新能源
+- 智能驾驶
+- 补能电池
+- 销量市场
+- 价格战
+- 召回安全
+- 车企竞争
+- 供应链
+- 购车决策
+- 新车上市
 
 ## 后续接 automation-2
 

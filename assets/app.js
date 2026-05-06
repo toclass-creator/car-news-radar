@@ -11,6 +11,7 @@ const state = {
   allDataUrl: "data/latest-24h-all.json",
   allDataPromise: null,
   siteFilter: "",
+  tagFilter: "",
   query: "",
   mode: "ai",
   sourceStatus: null,
@@ -19,6 +20,7 @@ const state = {
 
 const statsEl = document.getElementById("stats");
 const siteSelectEl = document.getElementById("siteSelect");
+const tagSelectEl = document.getElementById("tagSelect");
 const sitePillsEl = document.getElementById("sitePills");
 const newsListEl = document.getElementById("newsList");
 const updatedAtEl = document.getElementById("updatedAt");
@@ -114,6 +116,7 @@ function renderCoverageStrip(errorMessage = "") {
   const allCount = Number(state.sourceStatus?.items_before_topic_filter || state.totalAllMode || state.itemsAll.length || 0);
   const coverageCount = Number(state.sourceStatus?.fetched_raw_items || state.totalRaw || allCount || 0);
   const officialCount = Number(siteRow("official_auto")?.item_count || 0);
+  const officialSelectedCount = Number((state.statsAi || []).find((row) => row.site_id === "official_auto")?.count || 0);
   const opmlCount = Number(siteRow("opmlrss")?.item_count || 0);
   const totalSites = rows.length;
   const okSites = Number(state.sourceStatus?.successful_sites || 0);
@@ -124,7 +127,7 @@ function renderCoverageStrip(errorMessage = "") {
     ["源健康", totalSites ? `${fmtNumber(okSites)}/${fmtNumber(totalSites)}` : "加载中", failedSites.length ? `${fmtNumber(failedSites.length)} 个失败源` : (errorMessage || "内置源正常"), failedSites.length ? "warn" : "ok"],
     ["今日覆盖池", `${fmtNumber(coverageCount)} 条`, allCount ? `全网抓取原始信号 · ${fmtNumber(allCount)} 条入池` : "全网抓取原始信号", "signal"],
     ["车圈精选", `${fmtNumber(state.totalAi)} 条`, "24小时强相关信号", "signal"],
-    ["垂类源池", `${fmtNumber(officialCount)} 条`, "盖世汽车 + CnEVPost + CarNewsChina", "official"],
+    ["垂类源池", `${fmtNumber(officialCount)} 条抓取`, `24小时入选 ${fmtNumber(officialSelectedCount)} 条`, "official"],
     ["订阅源池", `${fmtNumber(opmlCount)} 条`, "OPML / 自定义 RSS", "builders"],
     ["私人扩展", opmlValue, opmlMeta, "private"],
   ];
@@ -163,9 +166,43 @@ function computeSiteStats(items) {
   return Array.from(m.values()).sort((a, b) => b.count - a.count || a.site_name.localeCompare(b.site_name, "zh-CN"));
 }
 
+function computeTopicTagStats(items) {
+  const counts = new Map();
+  items.forEach((item) => {
+    (item.topic_tags || []).forEach((tag) => {
+      counts.set(tag, (counts.get(tag) || 0) + 1);
+    });
+  });
+  return Array.from(counts.entries())
+    .map(([tag, count]) => ({ tag, count }))
+    .sort((a, b) => b.count - a.count || a.tag.localeCompare(b.tag, "zh-CN"));
+}
+
 function currentSiteStats() {
   if (state.mode === "ai") return state.statsAi || [];
   return computeSiteStats(state.allDedup ? (state.itemsAll || []) : (state.itemsAllRaw || []));
+}
+
+function currentTopicTagStats() {
+  return computeTopicTagStats(modeItems());
+}
+
+function renderTagFilters() {
+  if (!tagSelectEl) return;
+  const stats = currentTopicTagStats();
+  const activeExists = stats.some((row) => row.tag === state.tagFilter);
+  if (state.tagFilter && !activeExists) {
+    state.tagFilter = "";
+  }
+
+  tagSelectEl.innerHTML = '<option value="">全部主题</option>';
+  stats.forEach((row) => {
+    const opt = document.createElement("option");
+    opt.value = row.tag;
+    opt.textContent = `${row.tag} (${fmtNumber(row.count)})`;
+    tagSelectEl.appendChild(opt);
+  });
+  tagSelectEl.value = state.tagFilter;
 }
 
 function renderSiteFilters() {
@@ -237,8 +274,9 @@ function getFilteredItems() {
   const q = state.query.trim().toLowerCase();
   return modeItems().filter((item) => {
     if (state.siteFilter && item.site_id !== state.siteFilter) return false;
+    if (state.tagFilter && !(item.topic_tags || []).includes(state.tagFilter)) return false;
     if (!q) return true;
-    const hay = `${item.title || ""} ${item.title_zh || ""} ${item.title_en || ""} ${item.site_name || ""} ${item.source || ""}`.toLowerCase();
+    const hay = `${item.title || ""} ${item.title_zh || ""} ${item.title_en || ""} ${item.site_name || ""} ${item.source || ""} ${(item.topic_tags || []).join(" ")}`.toLowerCase();
     return hay.includes(q);
   });
 }
@@ -269,6 +307,20 @@ function renderItemNode(item) {
     titleEl.textContent = item.title || zh || en;
   }
   titleEl.href = item.url;
+
+  const tagsEl = node.querySelector(".topic-tags");
+  const tags = Array.isArray(item.topic_tags) ? item.topic_tags : [];
+  tagsEl.innerHTML = "";
+  if (!tags.length) {
+    tagsEl.remove();
+  } else {
+    tags.forEach((tag) => {
+      const tagEl = document.createElement("span");
+      tagEl.className = "topic-tag";
+      tagEl.textContent = tag;
+      tagsEl.appendChild(tagEl);
+    });
+  }
   return node;
 }
 
@@ -521,6 +573,7 @@ async function init() {
     renderModeSwitch();
     renderCoverageStrip();
     renderSiteFilters();
+    renderTagFilters();
     renderList();
     updatedAtEl.textContent = `更新时间：${fmtTime(state.generatedAt)}`;
   } else {
@@ -550,10 +603,19 @@ siteSelectEl.addEventListener("change", (e) => {
   renderList();
 });
 
+if (tagSelectEl) {
+  tagSelectEl.addEventListener("change", (e) => {
+    state.tagFilter = e.target.value;
+    renderTagFilters();
+    renderList();
+  });
+}
+
 modeAiBtnEl.addEventListener("click", () => {
   state.mode = "ai";
   renderModeSwitch();
   renderSiteFilters();
+  renderTagFilters();
   renderList();
 });
 
@@ -568,6 +630,7 @@ modeAllBtnEl.addEventListener("click", async () => {
   try {
     await loadAllModeData();
     renderSiteFilters();
+    renderTagFilters();
     renderList();
   } catch (err) {
     newsListEl.innerHTML = "";
@@ -583,6 +646,7 @@ if (allDedupeToggleEl) {
     state.allDedup = Boolean(e.target.checked);
     renderModeSwitch();
     renderSiteFilters();
+    renderTagFilters();
     renderList();
   });
 }

@@ -300,7 +300,7 @@ summary:focus-visible {
 
 .advanced-controls {
   display: grid;
-  grid-template-columns: minmax(180px, 0.8fr) auto auto;
+  grid-template-columns: minmax(180px, 0.8fr) minmax(160px, 0.7fr) auto auto;
   gap: 10px;
   align-items: end;
   padding-top: 14px;
@@ -662,6 +662,25 @@ summary:focus-visible {
   font-size: 12px;
   line-height: 1.35;
   font-weight: 400;
+}
+
+.topic-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 9px;
+}
+
+.topic-tag {
+  max-width: 100%;
+  padding: 3px 7px;
+  border: 1px solid rgba(18, 106, 115, 0.24);
+  border-radius: 999px;
+  background: rgba(18, 106, 115, 0.07);
+  color: var(--accent);
+  font-size: 11px;
+  line-height: 1.2;
+  overflow-wrap: anywhere;
 }
 
 .title:hover {

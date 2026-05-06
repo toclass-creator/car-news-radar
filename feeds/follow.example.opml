@@ -6,11 +6,67 @@
   <body>
     <outline text="Auto RSS Example">
       <outline
+        text="盖世汽车-新车"
+        title="盖世汽车-新车"
+        type="rss"
+        xmlUrl="https://auto.gasgoo.com/Rss/ClassRss.aspx?ClassId=107"
+        htmlUrl="https://auto.gasgoo.com/new-cars"
+      />
+      <outline
+        text="盖世汽车-行业"
+        title="盖世汽车-行业"
+        type="rss"
+        xmlUrl="https://auto.gasgoo.com/Rss/ClassRss.aspx?ClassId=108"
+        htmlUrl="https://auto.gasgoo.com/industry"
+      />
+      <outline
+        text="盖世汽车-车企"
+        title="盖世汽车-车企"
+        type="rss"
+        xmlUrl="https://auto.gasgoo.com/Rss/ClassRss.aspx?ClassId=109"
+        htmlUrl="https://auto.gasgoo.com/automaker"
+      />
+      <outline
+        text="盖世汽车-销量"
+        title="盖世汽车-销量"
+        type="rss"
+        xmlUrl="https://auto.gasgoo.com/Rss/ClassRss.aspx?ClassId=110"
+        htmlUrl="https://auto.gasgoo.com/sales"
+      />
+      <outline
+        text="盖世汽车-新技术"
+        title="盖世汽车-新技术"
+        type="rss"
+        xmlUrl="https://auto.gasgoo.com/Rss/ClassRss.aspx?ClassId=409"
+        htmlUrl="https://auto.gasgoo.com/new-tech"
+      />
+      <outline
         text="盖世汽车-新能源"
         title="盖世汽车-新能源"
         type="rss"
         xmlUrl="https://auto.gasgoo.com/Rss/ClassRss.aspx?ClassId=501"
         htmlUrl="https://auto.gasgoo.com/"
+      />
+      <outline
+        text="盖世汽车-智能网联"
+        title="盖世汽车-智能网联"
+        type="rss"
+        xmlUrl="https://auto.gasgoo.com/Rss/ClassRss.aspx?ClassId=601"
+        htmlUrl="https://auto.gasgoo.com/smart-connected"
+      />
+      <outline
+        text="盖世汽车-供应链"
+        title="盖世汽车-供应链"
+        type="rss"
+        xmlUrl="https://auto.gasgoo.com/Rss/ClassRss.aspx?ClassId=103"
+        htmlUrl="https://auto.gasgoo.com/parts-news"
+      />
+      <outline
+        text="盖世汽车-上市公司"
+        title="盖世汽车-上市公司"
+        type="rss"
+        xmlUrl="https://auto.gasgoo.com/Rss/ClassRss.aspx?ClassId=901"
+        htmlUrl="https://auto.gasgoo.com/listed-company"
       />
       <outline
         text="CnEVPost China EV"

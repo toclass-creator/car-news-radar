@@ -5,6 +5,7 @@ from scripts.update_news import (
     build_agentmail_digest_payload,
     build_latest_payloads,
     dedupe_items_by_title_url,
+    extract_topic_tags,
     fetch_agentmail_digest,
     is_ai_related_record,
     is_hubtoday_generic_anchor_title,
@@ -232,6 +233,45 @@ class TopicFilterTests(unittest.TestCase):
             "url": "https://example.com/byd-charging",
         }
         self.assertTrue(is_ai_related_record(rec))
+
+    def test_extracts_topic_tags_for_ev_charging_and_price(self):
+        tags = extract_topic_tags(
+            {
+                "title": "比亚迪发布 900V 新车，支持闪充，限时价 19.98 万元起",
+                "source": "盖世汽车-新能源",
+                "site_name": "Official Auto Updates",
+                "url": "https://example.com/byd",
+            }
+        )
+        self.assertIn("新能源", tags)
+        self.assertIn("补能电池", tags)
+        self.assertIn("价格战", tags)
+        self.assertIn("车企竞争", tags)
+        self.assertIn("新车上市", tags)
+
+    def test_extracts_topic_tags_with_english_boundaries(self):
+        tags = extract_topic_tags(
+            {
+                "title": "Xpeng ADAS supplier expands lidar capacity",
+                "source": "CnEVPost Self Driving",
+                "site_name": "OPML RSS",
+                "url": "https://example.com/xpeng-adas",
+            }
+        )
+        self.assertIn("智能驾驶", tags)
+        self.assertIn("供应链", tags)
+        self.assertIn("车企竞争", tags)
+
+    def test_topic_tags_do_not_match_substrings(self):
+        tags = extract_topic_tags(
+            {
+                "title": "Google Chrome silently installs a model on your device",
+                "source": "hackernews",
+                "site_name": "NewsNow",
+                "url": "https://example.com/device",
+            }
+        )
+        self.assertNotIn("新能源", tags)
 
     def test_redacts_email_like_public_text(self):
         self.assertEqual(redact_public_text("Contact editor@example.com for access"), "Contact [redacted-email] for access")

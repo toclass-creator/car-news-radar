@@ -73,6 +73,31 @@ RSS_FEED_SKIP_EXACT: set[str] = {
 
 OFFICIAL_AUTO_FEEDS: tuple[dict[str, str], ...] = (
     {
+        "title": "盖世汽车-新车",
+        "xml_url": "https://auto.gasgoo.com/Rss/ClassRss.aspx?ClassId=107",
+        "html_url": "https://auto.gasgoo.com/new-cars",
+    },
+    {
+        "title": "盖世汽车-行业",
+        "xml_url": "https://auto.gasgoo.com/Rss/ClassRss.aspx?ClassId=108",
+        "html_url": "https://auto.gasgoo.com/industry",
+    },
+    {
+        "title": "盖世汽车-车企",
+        "xml_url": "https://auto.gasgoo.com/Rss/ClassRss.aspx?ClassId=109",
+        "html_url": "https://auto.gasgoo.com/automaker",
+    },
+    {
+        "title": "盖世汽车-销量",
+        "xml_url": "https://auto.gasgoo.com/Rss/ClassRss.aspx?ClassId=110",
+        "html_url": "https://auto.gasgoo.com/sales",
+    },
+    {
+        "title": "盖世汽车-新技术",
+        "xml_url": "https://auto.gasgoo.com/Rss/ClassRss.aspx?ClassId=409",
+        "html_url": "https://auto.gasgoo.com/new-tech",
+    },
+    {
         "title": "盖世汽车-新能源",
         "xml_url": "https://auto.gasgoo.com/Rss/ClassRss.aspx?ClassId=501",
         "html_url": "https://auto.gasgoo.com/news",
@@ -86,6 +111,11 @@ OFFICIAL_AUTO_FEEDS: tuple[dict[str, str], ...] = (
         "title": "盖世汽车-供应链",
         "xml_url": "https://auto.gasgoo.com/Rss/ClassRss.aspx?ClassId=103",
         "html_url": "https://auto.gasgoo.com/news",
+    },
+    {
+        "title": "盖世汽车-上市公司",
+        "xml_url": "https://auto.gasgoo.com/Rss/ClassRss.aspx?ClassId=901",
+        "html_url": "https://auto.gasgoo.com/listed-company",
     },
     {
         "title": "CnEVPost-China EV",
@@ -1174,7 +1204,7 @@ def fetch_feed_as_official_items(
     now: datetime,
 ) -> list[RawItem]:
     site_id = "official_auto"
-    site_name = "Official Auto Updates"
+    site_name = "车圈垂类 RSS"
     feed_url = feed["xml_url"]
     feed_title = feed["title"]
 
@@ -1805,7 +1835,7 @@ def fetch_newsnow(session: requests.Session, now: datetime) -> list[RawItem]:
 
 def collect_all(session: requests.Session, now: datetime) -> tuple[list[RawItem], list[dict[str, Any]]]:
     tasks = [
-        ("official_auto", "Official Auto Updates", fetch_official_auto_updates),
+        ("official_auto", "车圈垂类 RSS", fetch_official_auto_updates),
         ("tophub", "TopHub", fetch_tophub),
         ("newsnow", "NewsNow", fetch_newsnow),
     ]
@@ -2253,6 +2283,211 @@ EMAIL_RE = re.compile(r"\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}\b")
 SECRET_LIKE_RE = re.compile(r"\b(sk-(?!hynix\b)[A-Za-z0-9_-]{12,}|(?:api[_-]?key|secret|token)=([^\s&]{6,}))\b", re.I)
 BROAD_AI_TERMS = {"汽车", "车", "新能源", "事故", "安全", "供应链"}
 
+TOPIC_TAG_RULES: tuple[tuple[str, tuple[str, ...]], ...] = (
+    (
+        "新能源",
+        (
+            "新能源",
+            "新能源汽车",
+            "电动车",
+            "电车",
+            "纯电",
+            "混动",
+            "插混",
+            "增程",
+            "ev",
+            "bev",
+            "phev",
+            "erev",
+            "electric vehicle",
+        ),
+    ),
+    (
+        "智能驾驶",
+        (
+            "智驾",
+            "智能驾驶",
+            "辅助驾驶",
+            "自动驾驶",
+            "无人驾驶",
+            "adas",
+            "robotaxi",
+            "self-driving",
+            "autonomous driving",
+            "激光雷达",
+            "毫米波雷达",
+            "城区领航",
+            "高速领航",
+        ),
+    ),
+    (
+        "补能电池",
+        (
+            "电池",
+            "电芯",
+            "充电",
+            "快充",
+            "闪充",
+            "超充",
+            "换电",
+            "补能",
+            "续航",
+            "固态电池",
+            "钠电",
+            "磷酸铁锂",
+            "三元锂",
+            "宁德时代",
+            "charging",
+            "battery",
+        ),
+    ),
+    (
+        "销量市场",
+        (
+            "销量",
+            "交付",
+            "订单",
+            "上险",
+            "市场",
+            "份额",
+            "出口",
+            "渗透率",
+            "同比",
+            "环比",
+            "排名",
+            "榜单",
+        ),
+    ),
+    (
+        "价格战",
+        (
+            "价格战",
+            "降价",
+            "涨价",
+            "售价",
+            "定价",
+            "优惠",
+            "补贴",
+            "直降",
+            "限时价",
+            "起售",
+            "万元起",
+            "性价比",
+        ),
+    ),
+    (
+        "召回安全",
+        (
+            "召回",
+            "事故",
+            "安全",
+            "碰撞",
+            "起火",
+            "自燃",
+            "失控",
+            "刹车",
+            "投诉",
+            "质量",
+            "隐患",
+            "测试",
+        ),
+    ),
+    (
+        "车企竞争",
+        (
+            "车企",
+            "竞争",
+            "对标",
+            "竞品",
+            "阵营",
+            "比亚迪",
+            "特斯拉",
+            "小米汽车",
+            "理想",
+            "蔚来",
+            "小鹏",
+            "问界",
+            "鸿蒙智行",
+            "极氪",
+            "吉利",
+            "长城",
+            "奇瑞",
+            "长安",
+            "零跑",
+            "奔驰",
+            "宝马",
+            "奥迪",
+            "大众",
+            "福特",
+            "tesla",
+            "byd",
+            "xiaomi",
+            "xpeng",
+            "nio",
+            "li auto",
+            "zeekr",
+            "geely",
+            "volkswagen",
+            "ford",
+        ),
+    ),
+    (
+        "供应链",
+        (
+            "供应链",
+            "零部件",
+            "芯片",
+            "电机",
+            "电控",
+            "底盘",
+            "产能",
+            "工厂",
+            "制造",
+            "采购",
+            "supplier",
+            "supply chain",
+            "software-defined vehicle",
+        ),
+    ),
+    (
+        "购车决策",
+        (
+            "购车",
+            "预算",
+            "试驾",
+            "用车",
+            "家用",
+            "车主",
+            "提车",
+            "保值",
+            "售后",
+            "哪款",
+            "适合",
+            "体验",
+            "评测",
+            "测评",
+        ),
+    ),
+    (
+        "新车上市",
+        (
+            "新车",
+            "上市",
+            "预售",
+            "发布",
+            "亮相",
+            "首发",
+            "申报",
+            "车型",
+            "换代",
+            "车展",
+            "suv",
+            "sedan",
+            "mpv",
+        ),
+    ),
+)
+
 
 def contains_any_keyword(haystack: str, keywords: list[str]) -> bool:
     h = haystack.lower()
@@ -2264,6 +2499,41 @@ def contains_meaningful_ai_signal(haystack: str) -> bool:
     if MEANINGFUL_EN_SIGNAL_RE.search(h):
         return True
     return any(k in h for k in AI_KEYWORDS if k not in BROAD_AI_TERMS and not k.isascii())
+
+
+def topic_term_matches(haystack: str, term: str) -> bool:
+    term_l = term.lower()
+    if not term_l:
+        return False
+    if term_l.isascii():
+        return re.search(rf"(?<![a-z0-9]){re.escape(term_l)}(?![a-z0-9])", haystack) is not None
+    return term_l in haystack
+
+
+def extract_topic_tags(record: dict[str, Any]) -> list[str]:
+    text = " ".join(
+        str(record.get(key) or "")
+        for key in ("title", "title_zh", "title_en", "source", "site_name", "url")
+    ).lower()
+    tags: list[str] = []
+    for tag, terms in TOPIC_TAG_RULES:
+        if any(topic_term_matches(text, term) for term in terms):
+            tags.append(tag)
+    return tags
+
+
+def add_topic_tags(records: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    for record in records:
+        record["topic_tags"] = extract_topic_tags(record)
+    return records
+
+
+def build_topic_tag_stats(records: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    counts: dict[str, int] = {}
+    for record in records:
+        for tag in record.get("topic_tags") or []:
+            counts[str(tag)] = counts.get(str(tag), 0) + 1
+    return [{"tag": tag, "count": count} for tag, count in sorted(counts.items(), key=lambda x: (-x[1], x[0]))]
 
 
 def redact_public_text(text: str) -> str:
@@ -2786,6 +3056,8 @@ def main() -> int:
         title_cache,
         max_new_translations=max(0, args.translate_max_new),
     )
+    add_topic_tags(latest_items_all)
+    add_topic_tags(latest_items)
     latest_items_ai_dedup = dedupe_items_by_title_url(latest_items, random_pick=False)
     latest_items_all_dedup = dedupe_items_by_title_url(latest_items_all, random_pick=True)
 
@@ -2837,6 +3109,7 @@ def main() -> int:
         "site_count": len(site_stat),
         "source_count": len({f"{i['site_id']}::{i['source']}" for i in latest_items_ai_dedup}),
         "site_stats": sorted(site_stat.values(), key=lambda x: x["count"], reverse=True),
+        "topic_tag_stats": build_topic_tag_stats(latest_items_ai_dedup),
         "items": latest_items_ai_dedup,
         "items_ai": latest_items_ai_dedup,
         "items_all_raw": latest_items_all,
