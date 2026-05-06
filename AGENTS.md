@@ -1,10 +1,12 @@
-# AI News Radar Agent Notes
+# Car News Radar Agent Notes
 
 ## Scope
 
-This repo powers the public AI Signal Board / AI News Radar static site.
-Use it for high-signal AI/tech news aggregation, OPML-based custom feeds,
-GitHub Actions refresh jobs, and GitHub Pages publishing.
+This repo powers the public Car Signal Board / Car News Radar static site.
+Use it for high-signal auto, EV, smart-driving, automaker competition,
+charging, battery, supply-chain, and purchase-decision news aggregation,
+OPML-based custom feeds, GitHub Actions refresh jobs, and GitHub Pages
+publishing.
 
 ## Working Rules
 
@@ -21,9 +23,9 @@ Read `docs/SOURCE_COVERAGE.md` before adding or removing sources.
 
 Default source priority:
 
-1. Official RSS/Atom feeds and OPML collections.
-2. Stable public JSON APIs or static pages with timestamps.
-3. Curated newsletters or changelogs with public feeds.
+1. Stable auto vertical RSS/Atom feeds and OPML collections.
+2. Auto sections of broad news products with usable timestamps.
+3. Public hot lists only when the filter is strict enough to avoid generic news.
 4. Manual/custom adapters only when the source is high-signal and stable.
 
 Avoid account-bound timelines, broad personal social feeds, login-gated pages,

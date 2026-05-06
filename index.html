@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>AI Signal Board</title>
+    <title>Car Signal Board</title>
     <link rel="icon" href="./assets/logo.svg" type="image/svg+xml" />
     <link rel="stylesheet" href="./assets/styles.css" />
   </head>
@@ -12,14 +12,14 @@
       <header class="hero">
         <div class="hero-main">
           <div class="hero-headline">
-            <img class="hero-logo" src="./assets/logo.svg" alt="AI Signal Board Logo" />
+            <img class="hero-logo" src="./assets/logo.svg" alt="Car Signal Board Logo" />
             <div>
-              <p class="hero-tag">AI NEWS INTELLIGENCE</p>
-              <h1>24 小时 AI 更新雷达</h1>
+              <p class="hero-tag">AUTO NEWS INTELLIGENCE</p>
+              <h1>24 小时车圈更新雷达</h1>
             </div>
           </div>
           <p class="hero-sub">
-            高信号 AI/科技更新，附 WaytoAGI 近 7 日变化。
+            聚合新能源、智能驾驶、车企竞争、补能与购车风险信号。
           </p>
         </div>
         <div class="hero-meta">
@@ -33,8 +33,8 @@
       </header>
 
       <section class="primary-controls">
-        <input id="searchInput" type="search" placeholder="搜索 AI 信号 / 来源" />
-        <div class="mode-hint" id="modeHint">AI强相关</div>
+        <input id="searchInput" type="search" placeholder="搜索车圈信号 / 来源 / 品牌" />
+        <div class="mode-hint" id="modeHint">车圈精选</div>
       </section>
 
       <details class="advanced-panel">
@@ -53,7 +53,7 @@
             <div class="field">
               <span>视图</span>
               <div class="mode-switch">
-                <button id="modeAiBtn" class="mode-btn active" type="button">AI强相关</button>
+                <button id="modeAiBtn" class="mode-btn active" type="button">车圈精选</button>
                 <button id="modeAllBtn" class="mode-btn" type="button">全量</button>
               </div>
             </div>
@@ -68,24 +68,9 @@
         </div>
       </details>
 
-      <section class="waytoagi-wrap">
-        <div class="waytoagi-head">
-          <h2>WaytoAGI 更新日志</h2>
-          <div class="waytoagi-tools">
-            <div class="waytoagi-switch">
-              <button id="waytoagiTodayBtn" class="waytoagi-btn active" type="button">最近更新日</button>
-              <button id="waytoagi7dBtn" class="waytoagi-btn" type="button">近7日</button>
-            </div>
-            <span id="waytoagiUpdatedAt">加载中...</span>
-          </div>
-        </div>
-        <div id="waytoagiMeta" class="waytoagi-meta"></div>
-        <div id="waytoagiList" class="waytoagi-list"></div>
-      </section>
-
       <section class="list-wrap">
         <div class="list-head">
-          <h2 id="listTitle">AI 信号流</h2>
+          <h2 id="listTitle">车圈信号流</h2>
           <span id="resultCount">0 条</span>
         </div>
         <div id="newsList" class="news-list"></div>

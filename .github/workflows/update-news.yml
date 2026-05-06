@@ -1,4 +1,4 @@
-name: Update AI News Snapshot
+name: Update Car News Snapshot
 
 on:
   workflow_dispatch:
@@ -6,7 +6,7 @@ on:
     - cron: "*/30 * * * *"
 
 concurrency:
-  group: update-ai-news-${{ github.ref }}
+  group: update-car-news-${{ github.ref }}
   cancel-in-progress: true
 
 permissions:
@@ -72,5 +72,5 @@ jobs:
             echo "No changes to commit"
             exit 0
           fi
-          git commit -m "chore: update ai news snapshot"
+          git commit -m "chore: update car news snapshot"
           git push

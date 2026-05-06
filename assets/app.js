@@ -13,8 +13,6 @@ const state = {
   siteFilter: "",
   query: "",
   mode: "ai",
-  waytoagiMode: "today",
-  waytoagiData: null,
   sourceStatus: null,
   generatedAt: null,
 };
@@ -37,26 +35,13 @@ const allDedupeLabelEl = document.getElementById("allDedupeLabel");
 const advancedSummaryEl = document.getElementById("advancedSummary");
 const sourceHealthEl = document.getElementById("sourceHealth");
 
-const waytoagiUpdatedAtEl = document.getElementById("waytoagiUpdatedAt");
-const waytoagiMetaEl = document.getElementById("waytoagiMeta");
-const waytoagiListEl = document.getElementById("waytoagiList");
-const waytoagiTodayBtnEl = document.getElementById("waytoagiTodayBtn");
-const waytoagi7dBtnEl = document.getElementById("waytoagi7dBtn");
 const coverageStripEl = document.getElementById("coverageStrip");
 
 const SOURCE_KINDS = {
-  official_ai: { label: "官方", tone: "official" },
-  aibreakfast: { label: "日报", tone: "newsletter" },
-  followbuilders: { label: "Builders/X", tone: "builders" },
-  techurls: { label: "聚合", tone: "aggregate" },
-  buzzing: { label: "聚合", tone: "aggregate" },
-  iris: { label: "聚合", tone: "aggregate" },
-  bestblogs: { label: "博客", tone: "blogs" },
+  official_auto: { label: "车圈垂类", tone: "official" },
   tophub: { label: "聚合", tone: "aggregate" },
-  zeli: { label: "聚合", tone: "aggregate" },
-  aihubtoday: { label: "AI站点", tone: "aihub" },
-  aibase: { label: "AI站点", tone: "aihub" },
   newsnow: { label: "聚合", tone: "aggregate" },
+  opmlrss: { label: "订阅源", tone: "private" },
 };
 
 function fmtNumber(n) {
@@ -75,19 +60,9 @@ function fmtTime(iso) {
   }).format(d);
 }
 
-function fmtDate(iso) {
-  if (!iso) return "未知日期";
-  const d = new Date(`${iso}T00:00:00`);
-  if (Number.isNaN(d.getTime())) return iso;
-  return new Intl.DateTimeFormat("zh-CN", {
-    month: "2-digit",
-    day: "2-digit",
-  }).format(d);
-}
-
 function setStats(payload) {
   const cards = [
-    ["AI 信号", fmtNumber(payload.total_items)],
+    ["车圈信号", fmtNumber(payload.total_items)],
     ["站点数", fmtNumber(payload.site_count)],
     ["来源分组", fmtNumber(payload.source_count)],
     ["归档", fmtNumber(payload.archive_total || 0)]
@@ -138,9 +113,8 @@ function renderCoverageStrip(errorMessage = "") {
   const rss = state.sourceStatus?.rss_opml || {};
   const allCount = Number(state.sourceStatus?.items_before_topic_filter || state.totalAllMode || state.itemsAll.length || 0);
   const coverageCount = Number(state.sourceStatus?.fetched_raw_items || state.totalRaw || allCount || 0);
-  const officialCount = Number(siteRow("official_ai")?.item_count || 0);
-  const newsletterCount = Number(siteRow("aibreakfast")?.item_count || 0);
-  const buildersCount = Number(siteRow("followbuilders")?.item_count || 0);
+  const officialCount = Number(siteRow("official_auto")?.item_count || 0);
+  const opmlCount = Number(siteRow("opmlrss")?.item_count || 0);
   const totalSites = rows.length;
   const okSites = Number(state.sourceStatus?.successful_sites || 0);
   const opmlValue = rss.enabled ? `${fmtNumber(rss.ok_feeds || 0)}/${fmtNumber(rss.effective_feed_total || 0)}` : "OPML";
@@ -149,9 +123,9 @@ function renderCoverageStrip(errorMessage = "") {
   const cards = [
     ["源健康", totalSites ? `${fmtNumber(okSites)}/${fmtNumber(totalSites)}` : "加载中", failedSites.length ? `${fmtNumber(failedSites.length)} 个失败源` : (errorMessage || "内置源正常"), failedSites.length ? "warn" : "ok"],
     ["今日覆盖池", `${fmtNumber(coverageCount)} 条`, allCount ? `全网抓取原始信号 · ${fmtNumber(allCount)} 条入池` : "全网抓取原始信号", "signal"],
-    ["AI精选", `${fmtNumber(state.totalAi)} 条`, "24小时强相关信号", "signal"],
-    ["官方/日报源池", `${fmtNumber(officialCount + newsletterCount)} 条`, "官方节点 + AI Breakfast", "official"],
-    ["Builders/X源池", `${fmtNumber(buildersCount)} 条`, "Follow Builders公开feed", "builders"],
+    ["车圈精选", `${fmtNumber(state.totalAi)} 条`, "24小时强相关信号", "signal"],
+    ["垂类源池", `${fmtNumber(officialCount)} 条`, "盖世汽车 + CnEVPost + CarNewsChina", "official"],
+    ["订阅源池", `${fmtNumber(opmlCount)} 条`, "OPML / 自定义 RSS", "builders"],
     ["私人扩展", opmlValue, opmlMeta, "private"],
   ];
 
@@ -239,8 +213,8 @@ function renderModeSwitch() {
   if (allDedupeToggleEl) allDedupeToggleEl.checked = state.allDedup;
   if (allDedupeLabelEl) allDedupeLabelEl.textContent = state.allDedup ? "去重开" : "去重关";
   if (state.mode === "ai") {
-    modeHintEl.textContent = `AI强相关 · ${fmtNumber(state.totalAi)} 条`;
-    if (listTitleEl) listTitleEl.textContent = "AI 信号流";
+    modeHintEl.textContent = `车圈精选 · ${fmtNumber(state.totalAi)} 条`;
+    if (listTitleEl) listTitleEl.textContent = "车圈信号流";
   } else {
     const allCount = state.allDedup
       ? (state.totalAllMode || state.itemsAll.length)
@@ -404,83 +378,6 @@ function renderList() {
   renderGroupedBySiteAndSource(filtered);
 }
 
-function waytoagiViews(waytoagi) {
-  const updates7d = Array.isArray(waytoagi?.updates_7d) ? waytoagi.updates_7d : [];
-  const latestDate = waytoagi?.latest_date || (updates7d.length ? updates7d[0].date : null);
-  const updatesToday = Array.isArray(waytoagi?.updates_today) && waytoagi.updates_today.length
-    ? waytoagi.updates_today
-    : (latestDate ? updates7d.filter((u) => u.date === latestDate) : []);
-  return { updates7d, updatesToday, latestDate };
-}
-
-function renderWaytoagi(waytoagi) {
-  const { updates7d, updatesToday, latestDate } = waytoagiViews(waytoagi);
-  if (waytoagiTodayBtnEl) waytoagiTodayBtnEl.classList.toggle("active", state.waytoagiMode === "today");
-  if (waytoagi7dBtnEl) waytoagi7dBtnEl.classList.toggle("active", state.waytoagiMode === "7d");
-  waytoagiUpdatedAtEl.textContent = `更新时间：${fmtTime(waytoagi.generated_at)}`;
-
-  waytoagiMetaEl.innerHTML = "";
-  const rootLink = document.createElement("a");
-  rootLink.href = waytoagi.root_url || "#";
-  rootLink.target = "_blank";
-  rootLink.rel = "noopener noreferrer";
-  rootLink.textContent = "主页面";
-  const historyLink = document.createElement("a");
-  historyLink.href = waytoagi.history_url || "#";
-  historyLink.target = "_blank";
-  historyLink.rel = "noopener noreferrer";
-  historyLink.textContent = "历史更新页";
-  const todayCount = document.createElement("span");
-  todayCount.textContent = `最近更新日(${latestDate || "--"})：${fmtNumber(waytoagi.count_today || updatesToday.length)} 条`;
-  const weekCount = document.createElement("span");
-  weekCount.textContent = `近 7 日：${fmtNumber(waytoagi.count_7d || updates7d.length)} 条`;
-  [rootLink, "·", historyLink, "·", todayCount, "·", weekCount].forEach((part) => {
-    if (typeof part === "string") {
-      const sep = document.createElement("span");
-      sep.textContent = part;
-      waytoagiMetaEl.appendChild(sep);
-    } else {
-      waytoagiMetaEl.appendChild(part);
-    }
-  });
-
-  waytoagiListEl.innerHTML = "";
-  if (waytoagi.has_error) {
-    const div = document.createElement("div");
-    div.className = "waytoagi-error";
-    div.textContent = waytoagi.error || "WaytoAGI 数据加载失败";
-    waytoagiListEl.appendChild(div);
-    return;
-  }
-
-  const updates = state.waytoagiMode === "today" ? updatesToday : updates7d;
-  if (!updates.length) {
-    const div = document.createElement("div");
-    div.className = "waytoagi-empty";
-    div.textContent = state.waytoagiMode === "today"
-      ? "最近更新日没有更新，可切换到近7日查看。"
-      : (waytoagi.warning || "近 7 日没有更新");
-    waytoagiListEl.appendChild(div);
-    return;
-  }
-
-  updates.forEach((u) => {
-    const row = document.createElement("a");
-    row.className = "waytoagi-item";
-    row.href = u.url || "#";
-    row.target = "_blank";
-    row.rel = "noopener noreferrer";
-    const dateEl = document.createElement("span");
-    dateEl.className = "d";
-    dateEl.textContent = fmtDate(u.date);
-    const titleEl = document.createElement("span");
-    titleEl.className = "t";
-    titleEl.textContent = u.title;
-    row.append(dateEl, titleEl);
-    waytoagiListEl.appendChild(row);
-  });
-}
-
 function renderMetric(label, value, tone = "") {
   const node = document.createElement("div");
   node.className = `health-metric ${tone}`.trim();
@@ -595,12 +492,6 @@ async function loadAllModeData() {
   return state.allDataPromise;
 }
 
-async function loadWaytoagiData() {
-  const res = await fetch(`./data/waytoagi-7d.json?t=${Date.now()}`);
-  if (!res.ok) throw new Error(`加载 waytoagi-7d.json 失败: ${res.status}`);
-  return res.json();
-}
-
 async function loadSourceStatusData() {
   const res = await fetch(`./data/source-status.json?t=${Date.now()}`);
   if (!res.ok) throw new Error(`加载 source-status.json 失败: ${res.status}`);
@@ -608,9 +499,8 @@ async function loadSourceStatusData() {
 }
 
 async function init() {
-  const [newsResult, waytoagiResult, statusResult] = await Promise.allSettled([
+  const [newsResult, statusResult] = await Promise.allSettled([
     loadNewsData(),
-    loadWaytoagiData(),
     loadSourceStatusData(),
   ]);
 
@@ -646,14 +536,6 @@ async function init() {
   } else {
     renderSourceHealth(statusResult.reason.message);
     renderCoverageStrip(statusResult.reason.message);
-  }
-
-  if (waytoagiResult.status === "fulfilled") {
-    state.waytoagiData = waytoagiResult.value;
-    renderWaytoagi(state.waytoagiData);
-  } else {
-    waytoagiUpdatedAtEl.textContent = "加载失败";
-    waytoagiListEl.innerHTML = `<div class="waytoagi-error">${waytoagiResult.reason.message}</div>`;
   }
 }
 
@@ -702,20 +584,6 @@ if (allDedupeToggleEl) {
     renderModeSwitch();
     renderSiteFilters();
     renderList();
-  });
-}
-
-if (waytoagiTodayBtnEl) {
-  waytoagiTodayBtnEl.addEventListener("click", () => {
-    state.waytoagiMode = "today";
-    if (state.waytoagiData) renderWaytoagi(state.waytoagiData);
-  });
-}
-
-if (waytoagi7dBtnEl) {
-  waytoagi7dBtnEl.addEventListener("click", () => {
-    state.waytoagiMode = "7d";
-    if (state.waytoagiData) renderWaytoagi(state.waytoagiData);
   });
 }
 

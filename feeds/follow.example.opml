@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opml version="2.0">
   <head>
-    <title>AI Signal Board RSS Example</title>
+    <title>Car Signal Board RSS Example</title>
   </head>
   <body>
-    <outline text="RSS Example">
+    <outline text="Auto RSS Example">
       <outline
-        text="OpenAI News"
-        title="OpenAI News"
+        text="盖世汽车-新能源"
+        title="盖世汽车-新能源"
         type="rss"
-        xmlUrl="https://openai.com/news/rss.xml"
-        htmlUrl="https://openai.com/news"
+        xmlUrl="https://auto.gasgoo.com/Rss/ClassRss.aspx?ClassId=501"
+        htmlUrl="https://auto.gasgoo.com/"
       />
       <outline
-        text="Hugging Face Blog"
-        title="Hugging Face Blog"
+        text="CnEVPost China EV"
+        title="CnEVPost China EV"
         type="rss"
-        xmlUrl="https://huggingface.co/blog/feed.xml"
-        htmlUrl="https://huggingface.co/blog"
+        xmlUrl="https://cnevpost.com/feed/"
+        htmlUrl="https://cnevpost.com/"
       />
       <outline
-        text="InfoQ CN"
-        title="InfoQ CN"
+        text="CarNewsChina EV"
+        title="CarNewsChina EV"
         type="rss"
-        xmlUrl="https://www.infoq.cn/feed"
-        htmlUrl="https://www.infoq.cn/"
+        xmlUrl="https://carnewschina.com/category/electric-vehicles/feed/"
+        htmlUrl="https://carnewschina.com/category/electric-vehicles/"
       />
     </outline>
   </body>

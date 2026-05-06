@@ -22,43 +22,33 @@ from scripts.update_news import (
 
 
 class TopicFilterTests(unittest.TestCase):
-    def test_accepts_ai_keyword(self):
+    def test_accepts_auto_keyword(self):
         rec = {
             "site_id": "techurls",
             "site_name": "TechURLs",
-            "source": "Hacker News",
-            "title": "OpenAI releases new GPT model",
-            "url": "https://example.com/ai",
+            "source": "CarNewsChina",
+            "title": "BYD expands fast charging network for EV owners",
+            "url": "https://example.com/ev",
         }
         self.assertTrue(is_ai_related_record(rec))
 
-    def test_accepts_copilot_keyword(self):
+    def test_accepts_smart_driving_keyword(self):
         rec = {
-            "site_id": "official_ai",
-            "site_name": "Official AI Updates",
-            "source": "GitHub Changelog",
-            "title": "GitHub Copilot adds a new coding agent",
-            "url": "https://example.com/copilot",
+            "site_id": "official_auto",
+            "site_name": "Official Auto Updates",
+            "source": "盖世汽车-智能网联",
+            "title": "智能驾驶方案进入 15 万级车型",
+            "url": "https://example.com/adas",
         }
         self.assertTrue(is_ai_related_record(rec))
 
-    def test_accepts_robotics_keyword(self):
+    def test_accepts_brand_keyword(self):
         rec = {
             "site_id": "newsnow",
             "site_name": "NewsNow",
             "source": "technology",
-            "title": "Embodied robotics gets new funding",
-            "url": "https://example.com/robotics",
-        }
-        self.assertTrue(is_ai_related_record(rec))
-
-    def test_accepts_follow_builders_curated_feed(self):
-        rec = {
-            "site_id": "followbuilders",
-            "site_name": "Follow Builders",
-            "source": "Follow Builders · X · Andrej Karpathy",
-            "title": "A terse but useful Codex builder note",
-            "url": "https://x.com/karpathy/status/1",
+            "title": "Xiaomi EV prepares new SUV launch",
+            "url": "https://example.com/xiaomi-ev",
         }
         self.assertTrue(is_ai_related_record(rec))
 
@@ -81,24 +71,6 @@ class TopicFilterTests(unittest.TestCase):
             "url": "https://example.com/shop",
         }
         self.assertFalse(is_ai_related_record(rec))
-
-    def test_zeli_only_24h_hot(self):
-        keep = {
-            "site_id": "zeli",
-            "site_name": "Zeli",
-            "source": "Hacker News · 24h最热",
-            "title": "AI Agent for code search",
-            "url": "https://example.com/a",
-        }
-        drop = {
-            "site_id": "zeli",
-            "site_name": "Zeli",
-            "source": "HN New",
-            "title": "AI Agent for code search",
-            "url": "https://example.com/b",
-        }
-        self.assertTrue(is_ai_related_record(keep))
-        self.assertFalse(is_ai_related_record(drop))
 
     def test_buzzing_source_fallback_to_host(self):
         source = normalize_source_for_display("buzzing", "Buzzing", "https://news.ycombinator.com/item?id=1")
@@ -241,23 +213,23 @@ class TopicFilterTests(unittest.TestCase):
         self.assertEqual(len(out), 1)
         self.assertEqual(out[0]["id"], "2")
 
-    def test_rejects_broad_agent_noise_without_ai_context(self):
+    def test_rejects_broad_car_noise_without_auto_context(self):
         rec = {
             "site_id": "buzzing",
             "site_name": "Buzzing",
-            "source": "github.com",
-            "title": "New travel agent marketplace launches in Europe",
-            "url": "https://example.com/travel-agent",
+            "source": "shopping.example",
+            "title": "儿童玩具汽车模型上新",
+            "url": "https://example.com/toy-car",
         }
         self.assertFalse(is_ai_related_record(rec))
 
-    def test_accepts_chinese_model_news_after_noise_tightening(self):
+    def test_accepts_chinese_ev_news_after_noise_tightening(self):
         rec = {
             "site_id": "tophub",
             "site_name": "TopHub",
-            "source": "机器之心",
-            "title": "新一代推理模型刷新多模态数学基准",
-            "url": "https://example.com/reasoning-model",
+            "source": "36氪 · 汽车",
+            "title": "比亚迪闪充网络进入偏远自驾场景",
+            "url": "https://example.com/byd-charging",
         }
         self.assertTrue(is_ai_related_record(rec))
 

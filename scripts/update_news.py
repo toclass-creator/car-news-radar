@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Aggregate updates from multiple AI news sites and produce 24h snapshot data."""
+"""Aggregate updates from multiple auto/EV news sites and produce 24h snapshot data."""
 
 from __future__ import annotations
 
@@ -71,45 +71,44 @@ RSS_FEED_SKIP_EXACT: set[str] = {
     "https://flak.tedunangst.com/rss",
 }
 
-OFFICIAL_AI_FEEDS: tuple[dict[str, str], ...] = (
+OFFICIAL_AUTO_FEEDS: tuple[dict[str, str], ...] = (
     {
-        "title": "OpenAI News",
-        "xml_url": "https://openai.com/news/rss.xml",
-        "html_url": "https://openai.com/news",
+        "title": "盖世汽车-新能源",
+        "xml_url": "https://auto.gasgoo.com/Rss/ClassRss.aspx?ClassId=501",
+        "html_url": "https://auto.gasgoo.com/news",
     },
     {
-        "title": "Google DeepMind",
-        "xml_url": "https://deepmind.google/blog/rss.xml",
-        "html_url": "https://deepmind.google/blog",
+        "title": "盖世汽车-智能网联",
+        "xml_url": "https://auto.gasgoo.com/Rss/ClassRss.aspx?ClassId=601",
+        "html_url": "https://auto.gasgoo.com/news",
     },
     {
-        "title": "Google AI Blog",
-        "xml_url": "https://blog.google/innovation-and-ai/technology/ai/rss/",
-        "html_url": "https://blog.google/innovation-and-ai/technology/ai/",
+        "title": "盖世汽车-供应链",
+        "xml_url": "https://auto.gasgoo.com/Rss/ClassRss.aspx?ClassId=103",
+        "html_url": "https://auto.gasgoo.com/news",
     },
     {
-        "title": "Hugging Face Blog",
-        "xml_url": "https://huggingface.co/blog/feed.xml",
-        "html_url": "https://huggingface.co/blog",
+        "title": "CnEVPost-China EV",
+        "xml_url": "https://cnevpost.com/feed/",
+        "html_url": "https://cnevpost.com",
     },
     {
-        "title": "GitHub AI & ML",
-        "xml_url": "https://github.blog/ai-and-ml/feed/",
-        "html_url": "https://github.blog/ai-and-ml/",
+        "title": "CnEVPost-Self Driving",
+        "xml_url": "https://cnevpost.com/self-driving/feed/",
+        "html_url": "https://cnevpost.com/self-driving/",
     },
     {
-        "title": "GitHub Changelog",
-        "xml_url": "https://github.blog/changelog/feed/",
-        "html_url": "https://github.blog/changelog/",
+        "title": "CnEVPost-Battery",
+        "xml_url": "https://cnevpost.com/battery/feed/",
+        "html_url": "https://cnevpost.com/battery/",
     },
     {
-        "title": "OpenAI Skills",
-        "xml_url": "https://github.com/openai/skills/commits/main.atom",
-        "html_url": "https://github.com/openai/skills",
-        "include_keywords": "hatch,pet,migrate-to-codex",
+        "title": "CarNewsChina-EV",
+        "xml_url": "https://carnewschina.com/category/electric-vehicles/feed/",
+        "html_url": "https://carnewschina.com/category/electric-vehicles/",
     },
 )
-OFFICIAL_AI_MAX_AGE_DAYS = 45
+OFFICIAL_AUTO_MAX_AGE_DAYS = 45
 AIBREAKFAST_JINA_URL = "https://r.jina.ai/https://aibreakfast.beehiiv.com/"
 FOLLOW_BUILDERS_FEED_BASE = "https://raw.githubusercontent.com/zarazhangrui/follow-builders/main"
 AGENTMAIL_API_BASE_DEFAULT = "https://api.agentmail.to"
@@ -1111,7 +1110,7 @@ def parse_anthropic_news_items(page_html: str, now: datetime) -> list[RawItem]:
             published = parse_date_any(time_tag.get("datetime") or time_tag.get_text(" ", strip=True), now)
         if not published:
             continue
-        if now and published < now - timedelta(days=OFFICIAL_AI_MAX_AGE_DAYS):
+        if now and published < now - timedelta(days=OFFICIAL_AUTO_MAX_AGE_DAYS):
             continue
 
         out.append(
@@ -1150,7 +1149,7 @@ def parse_openai_codex_changelog_items(page_html: str, now: datetime) -> list[Ra
         published = parse_date_any(time_tag.get("datetime") or time_tag.get_text(" ", strip=True), now)
         if not title or not published:
             continue
-        if now and published < now - timedelta(days=OFFICIAL_AI_MAX_AGE_DAYS):
+        if now and published < now - timedelta(days=OFFICIAL_AUTO_MAX_AGE_DAYS):
             continue
 
         seen.add(item_id)
@@ -1174,8 +1173,8 @@ def fetch_feed_as_official_items(
     feed: dict[str, str],
     now: datetime,
 ) -> list[RawItem]:
-    site_id = "official_ai"
-    site_name = "Official AI Updates"
+    site_id = "official_auto"
+    site_name = "Official Auto Updates"
     feed_url = feed["xml_url"]
     feed_title = feed["title"]
 
@@ -1219,7 +1218,7 @@ def fetch_feed_as_official_items(
         )
         if not published:
             continue
-        if published < now - timedelta(days=OFFICIAL_AI_MAX_AGE_DAYS):
+        if published < now - timedelta(days=OFFICIAL_AUTO_MAX_AGE_DAYS):
             continue
 
         out.append(
@@ -1240,31 +1239,17 @@ def fetch_feed_as_official_items(
     return out
 
 
-def fetch_official_ai_updates(session: requests.Session, now: datetime) -> list[RawItem]:
+def fetch_official_auto_updates(session: requests.Session, now: datetime) -> list[RawItem]:
     out: list[RawItem] = []
 
-    for feed in OFFICIAL_AI_FEEDS:
+    for feed in OFFICIAL_AUTO_FEEDS:
         try:
             out.extend(fetch_feed_as_official_items(session, feed, now))
         except Exception:
             continue
 
-    try:
-        r = session.get("https://www.anthropic.com/news", timeout=20)
-        r.raise_for_status()
-        out.extend(parse_anthropic_news_items(r.text, now))
-    except Exception:
-        pass
-
-    try:
-        r = session.get("https://developers.openai.com/codex/changelog", timeout=20)
-        r.raise_for_status()
-        out.extend(parse_openai_codex_changelog_items(r.text, now))
-    except Exception:
-        pass
-
     if not out:
-        raise ValueError("No official AI update sources returned items")
+        raise ValueError("No official auto update sources returned items")
 
     return out
 
@@ -1287,7 +1272,7 @@ def parse_ai_breakfast_items(markdown_text: str, now: datetime) -> list[RawItem]
         published = parse_date_any(date_text, now)
         if not published:
             continue
-        if now and published < now - timedelta(days=OFFICIAL_AI_MAX_AGE_DAYS):
+        if now and published < now - timedelta(days=OFFICIAL_AUTO_MAX_AGE_DAYS):
             continue
 
         seen.add(url)
@@ -1820,17 +1805,8 @@ def fetch_newsnow(session: requests.Session, now: datetime) -> list[RawItem]:
 
 def collect_all(session: requests.Session, now: datetime) -> tuple[list[RawItem], list[dict[str, Any]]]:
     tasks = [
-        ("official_ai", "Official AI Updates", fetch_official_ai_updates),
-        ("aibreakfast", "AI Breakfast", fetch_ai_breakfast),
-        ("followbuilders", "Follow Builders", fetch_follow_builders),
-        ("techurls", "TechURLs", fetch_techurls),
-        ("buzzing", "Buzzing", fetch_buzzing),
-        ("iris", "Info Flow", fetch_iris),
-        ("bestblogs", "BestBlogs", fetch_bestblogs),
+        ("official_auto", "Official Auto Updates", fetch_official_auto_updates),
         ("tophub", "TopHub", fetch_tophub),
-        ("zeli", "Zeli", fetch_zeli),
-        ("aihubtoday", "AI HubToday", fetch_ai_hubtoday),
-        ("aibase", "AIbase", fetch_aibase),
         ("newsnow", "NewsNow", fetch_newsnow),
     ]
 
@@ -2108,55 +2084,108 @@ def event_time(record: dict[str, Any]) -> datetime | None:
 
 
 AI_KEYWORDS = [
-    "aigc",
-    "llm",
-    "gpt",
-    "claude",
-    "gemini",
-    "deepseek",
-    "openai",
-    "anthropic",
-    "copilot",
-    "codex",
-    "mcp",
-    "hugging face",
-    "huggingface",
-    "transformer",
-    "prompt",
-    "diffusion",
-    "agent",
-    "多模态",
-    "大模型",
-    "模型",
-    "人工智能",
-    "机器学习",
-    "深度学习",
-    "智能体",
-    "算力",
-    "推理",
-    "微调",
+    "ev",
+    "bev",
+    "phev",
+    "erev",
+    "adas",
+    "robotaxi",
+    "autonomous driving",
+    "self-driving",
+    "electric vehicle",
+    "battery",
+    "charging",
+    "fast charging",
+    "supercharging",
+    "tesla",
+    "byd",
+    "xiaomi",
+    "xpeng",
+    "nio",
+    "li auto",
+    "huawei",
+    "zeekr",
+    "geely",
+    "volkswagen",
+    "porsche",
+    "新能源",
+    "新能源汽车",
+    "电动车",
+    "电车",
+    "纯电",
+    "混动",
+    "增程",
+    "智驾",
+    "智能驾驶",
+    "辅助驾驶",
+    "自动驾驶",
+    "无人驾驶",
+    "车企",
+    "车市",
+    "汽车",
+    "电池",
+    "充电",
+    "快充",
+    "闪充",
+    "换电",
+    "补能",
+    "续航",
+    "价格战",
+    "交付",
+    "销量",
+    "出口",
+    "供应链",
+    "召回",
+    "事故",
+    "安全",
+    "座舱",
+    "底盘",
+    "比亚迪",
+    "特斯拉",
+    "小米汽车",
+    "理想",
+    "小鹏",
+    "蔚来",
+    "问界",
+    "鸿蒙智行",
+    "极氪",
+    "吉利",
+    "长城",
+    "奇瑞",
+    "长安",
+    "零跑",
+    "宁德时代",
 ]
 
 TECH_KEYWORDS = [
-    "robot",
-    "robotics",
-    "embodied",
-    "autonomous",
-    "vision",
+    "automotive",
+    "vehicle",
+    "car",
+    "suv",
+    "sedan",
+    "mpv",
+    "truck",
+    "mobility",
+    "software-defined vehicle",
     "chip",
-    "semiconductor",
-    "cuda",
-    "npu",
-    "gpu",
-    "cloud",
-    "developer",
-    "开源",
-    "技术",
-    "编程",
-    "软件",
+    "lidar",
+    "radar",
+    "camera",
+    "智能化",
+    "电动化",
     "芯片",
-    "机器人",
-    "具身",
+    "激光雷达",
+    "毫米波雷达",
+    "车机",
+    "智能座舱",
+    "悬架",
+    "电机",
+    "电控",
+    "车展",
+    "购车",
+    "试驾",
+    "保值",
+    "售后",
 ]
 
 NOISE_KEYWORDS = [
@@ -2169,6 +2198,7 @@ NOISE_KEYWORDS = [
     "情感",
     "旅游",
     "美食",
+    "玩具",
 ]
 
 COMMERCE_NOISE_KEYWORDS = [
@@ -2186,25 +2216,23 @@ COMMERCE_NOISE_KEYWORDS = [
 ]
 
 EN_SIGNAL_RE = re.compile(
-    r"(?i)(?<![a-z0-9])(ai|aigc|llm|gpt|openai|anthropic|deepseek|gemini|claude|robot|robotics|embodied|autonomous|machine learning|artificial intelligence|transformer|diffusion|agent)(?![a-z0-9])"
+    r"(?i)(?<![a-z0-9])(ev|bev|phev|erev|adas|robotaxi|autonomous driving|self-driving|electric vehicle|battery|charging|tesla|byd|xiaomi|xpeng|nio|li auto|huawei|zeekr|geely|volkswagen|porsche)(?![a-z0-9])"
 )
 
 TOPHUB_ALLOW_KEYWORDS = [
-    "readhub · ai",
-    "hacker news",
-    "github",
-    "product hunt",
-    "v2ex",
-    "少数派",
-    "infoq",
-    "36氪",
-    "机器之心",
-    "量子位",
-    "科技",
-    "人工智能",
-    "机器人",
-    "具身",
-    "开源",
+    "汽车",
+    "新能源",
+    "电动车",
+    "车企",
+    "智能驾驶",
+    "懂车帝",
+    "易车",
+    "汽车之家",
+    "太平洋汽车",
+    "盖世汽车",
+    "车东西",
+    "autohome",
+    "car",
 ]
 
 TOPHUB_BLOCK_KEYWORDS = [
@@ -2215,17 +2243,15 @@ TOPHUB_BLOCK_KEYWORDS = [
     "拼多多",
     "抖音",
     "快手",
-    "微博",
-    "小红书",
 ]
 
 
 MEANINGFUL_EN_SIGNAL_RE = re.compile(
-    r"(?i)(?<![a-z0-9])(ai|aigc|llm|gpt|openai|anthropic|deepseek|gemini|claude|robot|robotics|embodied|autonomous|machine learning|artificial intelligence|transformer|diffusion)(?![a-z0-9])"
+    r"(?i)(?<![a-z0-9])(ev|bev|phev|erev|adas|robotaxi|autonomous driving|self-driving|electric vehicle|battery|charging|tesla|byd|xiaomi|xpeng|nio|li auto|huawei|zeekr|geely|volkswagen|porsche)(?![a-z0-9])"
 )
 EMAIL_RE = re.compile(r"\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}\b")
 SECRET_LIKE_RE = re.compile(r"\b(sk-(?!hynix\b)[A-Za-z0-9_-]{12,}|(?:api[_-]?key|secret|token)=([^\s&]{6,}))\b", re.I)
-BROAD_AI_TERMS = {"agent", "模型", "推理"}
+BROAD_AI_TERMS = {"汽车", "车", "新能源", "事故", "安全", "供应链"}
 
 
 def contains_any_keyword(haystack: str, keywords: list[str]) -> bool:
@@ -2237,7 +2263,7 @@ def contains_meaningful_ai_signal(haystack: str) -> bool:
     h = haystack.lower()
     if MEANINGFUL_EN_SIGNAL_RE.search(h):
         return True
-    return any(k in h for k in AI_KEYWORDS if k not in BROAD_AI_TERMS)
+    return any(k in h for k in AI_KEYWORDS if k not in BROAD_AI_TERMS and not k.isascii())
 
 
 def redact_public_text(text: str) -> str:
@@ -2438,10 +2464,6 @@ def is_ai_related_record(record: dict[str, Any]) -> bool:
     url = str(record.get("url") or "")
     text = f"{title} {source} {site_name} {url}".lower()
 
-    # zeli 按需求只保留 Hacker News 24h 最热。
-    if site_id == "zeli":
-        return "24h" in source.lower() or "24h最热" in source
-
     if site_id == "tophub":
         source_l = source.lower()
         if has_mojibake_noise(source) or has_mojibake_noise(title):
@@ -2451,8 +2473,8 @@ def is_ai_related_record(record: dict[str, Any]) -> bool:
         if not contains_any_keyword(source_l, TOPHUB_ALLOW_KEYWORDS):
             return False
 
-    # AI/热点聚合站默认保留，避免误杀。
-    if site_id in {"aibase", "aihot", "aihubtoday"}:
+    # 车圈垂类源默认保留，避免误杀。
+    if site_id in {"official_auto", "opmlrss"}:
         return True
 
     has_ai = contains_meaningful_ai_signal(text)
@@ -2465,7 +2487,7 @@ def is_ai_related_record(record: dict[str, Any]) -> bool:
     if contains_any_keyword(text, COMMERCE_NOISE_KEYWORDS) and not has_ai:
         return False
 
-    # 如果是明显噪声且没有明确 AI 信号，则丢弃。
+    # 如果是明显噪声且没有明确车圈信号，则丢弃。
     if contains_any_keyword(text, NOISE_KEYWORDS) and not has_ai:
         return False
 
@@ -2603,7 +2625,7 @@ def dedupe_items_by_title_url(items: list[dict[str, Any]], random_pick: bool = T
 
 
 def build_latest_payloads(latest_payload: dict[str, Any]) -> tuple[dict[str, Any], dict[str, Any]]:
-    """Split initial AI payload from bulky all-mode lists for lazy browser loading."""
+    """Split initial focused payload from bulky all-mode lists for lazy browser loading."""
     slim_payload = dict(latest_payload)
     all_payload = {
         "generated_at": latest_payload.get("generated_at"),
@@ -2621,7 +2643,7 @@ def build_latest_payloads(latest_payload: dict[str, Any]) -> tuple[dict[str, Any
 
 
 def main() -> int:
-    parser = argparse.ArgumentParser(description="Aggregate AI news updates from multiple sources")
+    parser = argparse.ArgumentParser(description="Aggregate auto/EV news updates from multiple sources")
     parser.add_argument("--output-dir", default="data", help="Directory for output JSON files")
     parser.add_argument("--window-hours", type=int, default=24, help="24h window size")
     parser.add_argument("--archive-days", type=int, default=21, help="Keep archive for N days")
@@ -2810,7 +2832,7 @@ def main() -> int:
         "total_items_ai_raw": len(latest_items),
         "total_items_raw": len(latest_items_all),
         "total_items_all_mode": len(latest_items_all_dedup),
-        "topic_filter": "ai_tech_robotics",
+        "topic_filter": "auto_ev_smart_driving",
         "archive_total": len(archive),
         "site_count": len(site_stat),
         "source_count": len({f"{i['site_id']}::{i['source']}" for i in latest_items_ai_dedup}),
@@ -2867,21 +2889,18 @@ def main() -> int:
         "agentmail": agentmail_status,
     }
 
-    try:
-        waytoagi_payload = fetch_waytoagi_recent_7d(session, now, WAYTOAGI_DEFAULT)
-    except Exception as exc:
-        waytoagi_payload = {
-            "generated_at": iso(now),
-            "timezone": "Asia/Shanghai",
-            "root_url": WAYTOAGI_DEFAULT,
-            "history_url": None,
-            "window_days": 7,
-            "count_7d": 0,
-            "updates_7d": [],
-            "warning": "WaytoAGI 近7日更新抓取失败",
-            "has_error": True,
-            "error": str(exc),
-        }
+    waytoagi_payload = {
+        "generated_at": iso(now),
+        "timezone": "Asia/Shanghai",
+        "root_url": None,
+        "history_url": None,
+        "window_days": 7,
+        "count_7d": 0,
+        "updates_7d": [],
+        "warning": "WaytoAGI is disabled for Car Signal Board",
+        "has_error": False,
+        "disabled": True,
+    }
 
     latest_payload, latest_all_payload = build_latest_payloads(latest_payload)
 

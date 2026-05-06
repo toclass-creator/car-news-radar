@@ -1,59 +1,61 @@
-# AI News Radar V2 Product Brief
-
-Generated from an Office Hours style product diagnostic plus a Superpowers style
-implementation loop.
+# Car News Radar Product Brief
 
 ## Problem Statement
 
-Ordinary AI enthusiasts want a high-signal AI update page they can open without
-building a personal RSS/X/email pipeline. Maintainers and agent users need a
-clear path to add their own sources without breaking the public default.
+Car-content operators need a high-signal page for auto, EV, smart-driving, and
+automaker competition updates without manually visiting many vertical sites,
+RSS readers, hot lists, and social feeds every day.
 
 ## Demand Evidence
 
-- The user asked for broad distribution, not just a personal dashboard.
-- Too many source choices were called out as a problem for newcomers.
-- X and email were discussed as valuable but unreliable as defaults.
-- GitHub-generated public feeds such as Follow Builders were preferred because
-  they centralize unstable API work and expose stable public outputs.
+- The account direction is more vertical and focused on car-related content.
+- XiaoHongShu topic production needs a raw material pool before judgment,
+  candidate selection, and final writing.
+- Broad AI/news aggregators produce too much off-topic noise for car-content use.
 
 ## Status Quo
 
-People currently mix manual site visits, noisy X timelines, newsletter inboxes,
-RSS readers, and aggregator sites. Each path covers part of the signal, but none
-is both low-noise and easy to fork.
+Useful signals are split across vertical auto media, company announcements,
+financial/news aggregators, RSS readers, and platform hot lists. Broad
+aggregators can look rich but often import politics, crypto, generic finance,
+and generic supply-chain stories that do not help car-topic selection.
 
 ## Narrowest Useful Wedge
 
-Keep the default page as a simple 24h signal board, but make the source model
-visible: source health, AI signal density, official/newsletter coverage,
-builders/X coverage, aggregator breadth, and private extension readiness.
+Keep the default page as a simple 24h car signal board:
+
+- vertical auto RSS as the baseline
+- OPML for private/custom source expansion
+- a small hot-list layer after strict car-topic filtering
+- visible source health so bad feeds are easy to spot
 
 ## Approaches Considered
 
-### A: Add More Sources
+### A: Reuse The AI Radar Source Mix
 
-Fast to make the feed look richer, but risks noise and does not explain the
-coverage model.
+Fast, but it keeps too many AI and generic tech/news sources. The result is not
+reliable enough for car-topic production.
 
-### B: Surface Coverage As Product Signal
+### B: Convert To A Vertical Car Source Model
 
-Adds first-viewport trust without adding controls. It helps users understand why
-the project is more than another aggregator.
+Use stable auto RSS first, then add broad hot-list sources only when the topic
+filter is strict enough. This is the current approach.
 
-### C: Build Full Self-Hosted X/Email Adapters
+### C: Build A Full Social/Platform Crawler
 
-Powerful for private forks, but too credential-heavy and fragile for the public
-default.
+Useful later for XiaoHongShu, Dongchedi, Weibo, and automaker account tracking,
+but it adds login, anti-bot, and maintenance cost. Keep this as a later private
+adapter path.
 
 ## Recommended Approach
 
-Use Approach B now. Keep Approach C as advanced/private integration guidance.
+Use Approach B now. Treat the public site as the upstream car-news material pool.
+Use platform-specific crawling and publishing workflows outside this repo until
+they are stable enough to productize.
 
 ## Success Criteria
 
-- First viewport answers: what is covered, whether sources are healthy, and how
-  private extensions fit.
-- No extra default choices are required from ordinary readers.
-- X/email remain optional and secret-backed, not public defaults.
-- Future agents can route a new source into public default vs advanced/private.
+- First viewport clearly says this is a car-news signal board.
+- Default data is mostly auto/EV/smart-driving/automaker content.
+- Private OPML and credentials stay out of git.
+- Future agents can route a new source into public default vs private/advanced.
