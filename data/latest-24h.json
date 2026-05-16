@@ -1,42 +1,42 @@
 {
-  "generated_at": "2026-05-16T02:43:25.282384Z",
+  "generated_at": "2026-05-16T05:52:53.189529Z",
   "window_hours": 24,
-  "total_items": 39,
-  "total_items_ai_raw": 45,
-  "total_items_raw": 3611,
-  "total_items_all_mode": 3297,
+  "total_items": 52,
+  "total_items_ai_raw": 62,
+  "total_items_raw": 3516,
+  "total_items_all_mode": 3234,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 37475,
+  "archive_total": 37975,
   "site_count": 3,
-  "source_count": 9,
+  "source_count": 12,
   "site_stats": [
     {
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "count": 26,
-      "raw_count": 32
+      "count": 40,
+      "raw_count": 50
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "count": 9,
-      "raw_count": 3374
+      "raw_count": 3267
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
-      "count": 4,
-      "raw_count": 205
+      "count": 3,
+      "raw_count": 199
     }
   ],
   "topic_tag_stats": [
     {
-      "tag": "新能源",
-      "count": 19
+      "tag": "车企竞争",
+      "count": 25
     },
     {
-      "tag": "车企竞争",
-      "count": 19
+      "tag": "新能源",
+      "count": 21
     },
     {
       "tag": "新车上市",
@@ -44,30 +44,70 @@
     },
     {
       "tag": "补能电池",
-      "count": 8
+      "count": 10
     },
     {
       "tag": "销量市场",
-      "count": 7
+      "count": 8
     },
     {
       "tag": "供应链",
-      "count": 4
+      "count": 5
+    },
+    {
+      "tag": "智能驾驶",
+      "count": 3
+    },
+    {
+      "tag": "价格战",
+      "count": 2
     },
     {
       "tag": "购车决策",
       "count": 2
-    },
-    {
-      "tag": "价格战",
-      "count": 1
-    },
-    {
-      "tag": "智能驾驶",
-      "count": 1
     }
   ],
   "items": [
+    {
+      "id": "0c418d49c5fa887752852b5c47f8ad644616d04b",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "BYD Song Ultra EV kicks off 4,244 km cross‑China drive, flash network hits 5,979 stations",
+      "url": "https://carnewschina.com/2026/05/16/byd-song-ultra-ev-kicks-off-4244-km-cross-china-drive-flash-network-hits-5979-stations",
+      "published_at": "2026-05-16T04:34:18Z",
+      "first_seen_at": "2026-05-16T05:52:53.189529Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
+      "title_original": "BYD Song Ultra EV kicks off 4,244 km cross‑China drive, flash network hits 5,979 stations",
+      "title_en": "BYD Song Ultra EV kicks off 4,244 km cross‑China drive, flash network hits 5,979 stations",
+      "title_zh": "比亚迪宋Ultra EV跨界行驶4,244公里 闪充网络达5,979个站点",
+      "title_bilingual": "比亚迪宋Ultra EV跨界行驶4,244公里 闪充网络达5,979个站点 / BYD Song Ultra EV kicks off 4,244 km cross‑China drive, flash network hits 5,979 stations",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "2ddb087db6eee9961c06fcc33ea09ae0b7474899",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "BYD admits severe battery shortage as flash‑charge EV demand overwhelms production",
+      "url": "https://carnewschina.com/2026/05/16/byd-admits-severe-battery-shortage-as-flash-charge-ev-demand-overwhelms-production",
+      "published_at": "2026-05-16T02:44:46Z",
+      "first_seen_at": "2026-05-16T05:52:53.189529Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
+      "title_original": "BYD admits severe battery shortage as flash‑charge EV demand overwhelms production",
+      "title_en": "BYD admits severe battery shortage as flash‑charge EV demand overwhelms production",
+      "title_zh": "比亚迪承认电池严重短缺，因为闪充电动汽车的需求超过了产量",
+      "title_bilingual": "比亚迪承认电池严重短缺，因为闪充电动汽车的需求超过了产量 / BYD admits severe battery shortage as flash‑charge EV demand overwhelms production",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争"
+      ]
+    },
     {
       "id": "6f8391779193d19a429493bae61fbd93422188d0",
       "site_id": "tophub",
@@ -77,7 +117,7 @@
       "url": "http://vc.yiche.com/vplay/11134841.html",
       "published_at": null,
       "first_seen_at": "2026-05-15T19:59:11.010222Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
       "title_original": "续航2000km，配1米8大床，这台车能睡下一家三口去拉萨",
       "title_en": null,
       "title_zh": "续航2000km，配1米8大床，这台车能睡下一家三口去拉萨",
@@ -95,7 +135,7 @@
       "url": "http://vc.yiche.com/vplay/11141806.html",
       "published_at": null,
       "first_seen_at": "2026-05-15T19:59:11.010222Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
       "title_original": "奇瑞全新QQ3｜国民神车回归 A0级小车版本答案 为什么是它？",
       "title_en": null,
       "title_zh": "奇瑞全新QQ3｜国民神车回归 A0级小车版本答案 为什么是它？",
@@ -113,7 +153,7 @@
       "url": "http://vc.yiche.com/vplay/11134801.html",
       "published_at": null,
       "first_seen_at": "2026-05-15T19:59:11.010222Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
       "title_original": "理想L6大改款要来了 续航猛增 可选四激光雷达？",
       "title_en": null,
       "title_zh": "理想L6大改款要来了 续航猛增 可选四激光雷达？",
@@ -133,7 +173,7 @@
       "url": "http://vc.yiche.com/vplay/11137448.html",
       "published_at": null,
       "first_seen_at": "2026-05-15T19:59:11.010222Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
       "title_original": "实测见高低，零跑D19高速亏电油耗省不省？",
       "title_en": null,
       "title_zh": "实测见高低，零跑D19高速亏电油耗省不省？",
@@ -151,7 +191,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/2d5293832ea666d7/115074318-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-15T18:02:26.377192Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
       "title_original": "与续航衰减和解 大众ID.4 X用车心路",
       "title_en": null,
       "title_zh": "与续航衰减和解 大众ID.4 X用车心路",
@@ -171,7 +211,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/8475ddf252fe25ea/115008774-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-15T18:02:26.377192Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
       "title_original": "北京车展 猛士M817Ultimate实拍体验",
       "title_en": null,
       "title_zh": "北京车展 猛士M817Ultimate实拍体验",
@@ -190,7 +230,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/86635eaa28cd52e5/115006054-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-15T18:02:26.377192Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
       "title_original": "北京车展实拍 方程豹 钛7EV闪充版",
       "title_en": null,
       "title_zh": "北京车展实拍 方程豹 钛7EV闪充版",
@@ -209,7 +249,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/6eb70d73775a4cdb/114981010-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-15T16:18:51.363057Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
       "title_original": "北京车展首发 锋坦PHEV沙影骑士版",
       "title_en": null,
       "title_zh": "北京车展首发 锋坦PHEV沙影骑士版",
@@ -228,7 +268,7 @@
       "url": "https://cnevpost.com/2026/05/15/onvo-l80-hits-market",
       "published_at": "2026-05-15T14:10:26Z",
       "first_seen_at": "2026-05-15T16:18:51.363057Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
       "title_original": "Nio expands mass-market lineup with official launch of Onvo L80",
       "title_en": "Nio expands mass-market lineup with official launch of Onvo L80",
       "title_zh": "蔚来正式推出Onvo L80，扩大大众市场阵容",
@@ -240,6 +280,24 @@
       ]
     },
     {
+      "id": "d07162187e41ae801bf43015d376edd10688dade",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-供应链",
+      "title": "极智嘉AMR进驻一汽丰田华南仓，中快流零件拣选自动化率提升至48%",
+      "url": "https://auto.gasgoo.com/news/202605/15I70457949C601.shtml",
+      "published_at": "2026-05-15T13:39:12Z",
+      "first_seen_at": "2026-05-16T05:52:53.189529Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
+      "title_original": "极智嘉AMR进驻一汽丰田华南仓，中快流零件拣选自动化率提升至48%",
+      "title_en": null,
+      "title_zh": "极智嘉AMR进驻一汽丰田华南仓，中快流零件拣选自动化率提升至48%",
+      "title_bilingual": "极智嘉AMR进驻一汽丰田华南仓，中快流零件拣选自动化率提升至48%",
+      "topic_tags": [
+        "供应链"
+      ]
+    },
+    {
       "id": "f9bc7bc19b40184a192ed9b093a32dae253492df",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -248,7 +306,7 @@
       "url": "https://cnevpost.com/2026/05/15/leapmotor-confirms-second-brand-plans",
       "published_at": "2026-05-15T13:13:42Z",
       "first_seen_at": "2026-05-15T14:02:20.810452Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
       "title_original": "Leapmotor confirms second brand plans",
       "title_en": "Leapmotor confirms second brand plans",
       "title_zh": "零跑确认第二品牌计划",
@@ -256,6 +314,170 @@
       "topic_tags": [
         "新能源",
         "车企竞争"
+      ]
+    },
+    {
+      "id": "2fabe7d135a3f3df73c44968eec5828bf3919c97",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "Seeds | 博世和银河通用的合资公司，刚融了近3亿",
+      "url": "https://auto.gasgoo.com/news/202605/15I70457948C601.shtml",
+      "published_at": "2026-05-15T13:11:29Z",
+      "first_seen_at": "2026-05-16T05:52:53.189529Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
+      "title_original": "Seeds | 博世和银河通用的合资公司，刚融了近3亿",
+      "title_en": null,
+      "title_zh": "Seeds | 博世和银河通用的合资公司，刚融了近3亿",
+      "title_bilingual": "Seeds | 博世和银河通用的合资公司，刚融了近3亿",
+      "topic_tags": []
+    },
+    {
+      "id": "0d690f4ec68b6c58e6d91de1c8bce0e513e00811",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "神龙汽车将投产标致、Jeep全球新能源车型",
+      "url": "https://auto.gasgoo.com/news/202605/15I70457946C109.shtml",
+      "published_at": "2026-05-15T13:06:51Z",
+      "first_seen_at": "2026-05-16T05:52:53.189529Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
+      "title_original": "神龙汽车将投产标致、Jeep全球新能源车型",
+      "title_en": null,
+      "title_zh": "神龙汽车将投产标致、Jeep全球新能源车型",
+      "title_bilingual": "神龙汽车将投产标致、Jeep全球新能源车型",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "43b8b5db93c2b00ac43f2dfc0c10b891ae0b3b86",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "本田宣布放弃2040年禁售燃油车目标",
+      "url": "https://auto.gasgoo.com/news/202605/15I70457893C109.shtml",
+      "published_at": "2026-05-15T13:01:17Z",
+      "first_seen_at": "2026-05-16T05:52:53.189529Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
+      "title_original": "本田宣布放弃2040年禁售燃油车目标",
+      "title_en": null,
+      "title_zh": "本田宣布放弃2040年禁售燃油车目标",
+      "title_bilingual": "本田宣布放弃2040年禁售燃油车目标",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "5f4ddad8195b3507369ab0953e348940e2eaf170",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "福特汽车两日股价飙升近20%",
+      "url": "https://auto.gasgoo.com/news/202605/15I70457933C109.shtml",
+      "published_at": "2026-05-15T13:00:27Z",
+      "first_seen_at": "2026-05-16T05:52:53.189529Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
+      "title_original": "福特汽车两日股价飙升近20%",
+      "title_en": null,
+      "title_zh": "福特汽车两日股价飙升近20%",
+      "title_bilingual": "福特汽车两日股价飙升近20%",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "295d317fac49f1bd52d06b3e0d8e0089222e3924",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新能源",
+      "title": "路特斯CEO称固态电池量产仍需三至十年",
+      "url": "https://auto.gasgoo.com/news/202605/15I70457934C501.shtml",
+      "published_at": "2026-05-15T12:59:51Z",
+      "first_seen_at": "2026-05-16T05:52:53.189529Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
+      "title_original": "路特斯CEO称固态电池量产仍需三至十年",
+      "title_en": null,
+      "title_zh": "路特斯CEO称固态电池量产仍需三至十年",
+      "title_bilingual": "路特斯CEO称固态电池量产仍需三至十年",
+      "topic_tags": [
+        "新能源",
+        "补能电池"
+      ]
+    },
+    {
+      "id": "e2c1e22ef5791c995d5967b141d970e47df1d824",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "特斯拉强制FSD用户干预后必须提交反馈",
+      "url": "https://auto.gasgoo.com/news/202605/15I70457937C601.shtml",
+      "published_at": "2026-05-15T12:59:18Z",
+      "first_seen_at": "2026-05-16T05:52:53.189529Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
+      "title_original": "特斯拉强制FSD用户干预后必须提交反馈",
+      "title_en": null,
+      "title_zh": "特斯拉强制FSD用户干预后必须提交反馈",
+      "title_bilingual": "特斯拉强制FSD用户干预后必须提交反馈",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "b318548585d8fb236e84d9ff47efb074923308da",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "英国政府与自动驾驶公司Wayve签署合作备忘录",
+      "url": "https://auto.gasgoo.com/news/202605/15I70457941C601.shtml",
+      "published_at": "2026-05-15T12:57:37Z",
+      "first_seen_at": "2026-05-16T05:52:53.189529Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
+      "title_original": "英国政府与自动驾驶公司Wayve签署合作备忘录",
+      "title_en": null,
+      "title_zh": "英国政府与自动驾驶公司Wayve签署合作备忘录",
+      "title_bilingual": "英国政府与自动驾驶公司Wayve签署合作备忘录",
+      "topic_tags": [
+        "智能驾驶"
+      ]
+    },
+    {
+      "id": "9f28f1e791f4e969d1d7312bda0313db914e9dfc",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "何小鹏谈和大众合作：拆解研究后才谈合作",
+      "url": "https://auto.gasgoo.com/news/202605/15I70457944C501.shtml",
+      "published_at": "2026-05-15T12:54:35Z",
+      "first_seen_at": "2026-05-16T05:52:53.189529Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
+      "title_original": "何小鹏谈和大众合作：拆解研究后才谈合作",
+      "title_en": null,
+      "title_zh": "何小鹏谈和大众合作：拆解研究后才谈合作",
+      "title_bilingual": "何小鹏谈和大众合作：拆解研究后才谈合作",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "9172a48e3638b0cf5f8030a7228b81365fb7d6c5",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "何小鹏：小鹏GX新科技旗舰下周三上市",
+      "url": "https://auto.gasgoo.com/news/202605/15I70457943C109.shtml",
+      "published_at": "2026-05-15T12:47:01Z",
+      "first_seen_at": "2026-05-16T05:52:53.189529Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
+      "title_original": "何小鹏：小鹏GX新科技旗舰下周三上市",
+      "title_en": null,
+      "title_zh": "何小鹏：小鹏GX新科技旗舰下周三上市",
+      "title_bilingual": "何小鹏：小鹏GX新科技旗舰下周三上市",
+      "topic_tags": [
+        "车企竞争",
+        "新车上市"
       ]
     },
     {
@@ -267,7 +489,7 @@
       "url": "https://cnevpost.com/2026/05/15/onvo-to-start-pre-sales-updated-l60-shenzhen-auto-show",
       "published_at": "2026-05-15T12:45:08Z",
       "first_seen_at": "2026-05-15T14:02:20.810452Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
       "title_original": "Nio Onvo to start pre-sales of updated L60 at Shenzhen Auto Show later this month",
       "title_en": "Nio Onvo to start pre-sales of updated L60 at Shenzhen Auto Show later this month",
       "title_zh": "Nio Onvo更新版L60将于本月晚些时候在深圳车展开始预售",
@@ -277,6 +499,96 @@
         "车企竞争",
         "新车上市"
       ]
+    },
+    {
+      "id": "e60bd64ff07dfdb245d2dfe6709011c75d9e43a4",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-销量",
+      "title": "油价重返2022年高点！中东战火催化，欧洲电动车销量大幅走高",
+      "url": "https://auto.gasgoo.com/news/202605/15I70457920C501.shtml",
+      "published_at": "2026-05-15T11:55:51Z",
+      "first_seen_at": "2026-05-16T05:52:53.189529Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
+      "title_original": "油价重返2022年高点！中东战火催化，欧洲电动车销量大幅走高",
+      "title_en": null,
+      "title_zh": "油价重返2022年高点！中东战火催化，欧洲电动车销量大幅走高",
+      "title_bilingual": "油价重返2022年高点！中东战火催化，欧洲电动车销量大幅走高",
+      "topic_tags": [
+        "新能源",
+        "销量市场"
+      ]
+    },
+    {
+      "id": "3a13cdae0369f6c11b47265ea1fa85f328d462c3",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "何小鹏：L5级自动驾驶雏形有望在2030年左右出现",
+      "url": "https://auto.gasgoo.com/news/202605/15I70457919C109.shtml",
+      "published_at": "2026-05-15T11:29:33Z",
+      "first_seen_at": "2026-05-16T05:52:53.189529Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
+      "title_original": "何小鹏：L5级自动驾驶雏形有望在2030年左右出现",
+      "title_en": null,
+      "title_zh": "何小鹏：L5级自动驾驶雏形有望在2030年左右出现",
+      "title_bilingual": "何小鹏：L5级自动驾驶雏形有望在2030年左右出现",
+      "topic_tags": [
+        "智能驾驶",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "de89653ec0e46b03c1d4de3048b59ba21b580194",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "荣耀Robot Phone将在三季度上市",
+      "url": "https://auto.gasgoo.com/news/202605/15I70457918C601.shtml",
+      "published_at": "2026-05-15T11:26:01Z",
+      "first_seen_at": "2026-05-16T05:52:53.189529Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
+      "title_original": "荣耀Robot Phone将在三季度上市",
+      "title_en": null,
+      "title_zh": "荣耀Robot Phone将在三季度上市",
+      "title_bilingual": "荣耀Robot Phone将在三季度上市",
+      "topic_tags": [
+        "新车上市"
+      ]
+    },
+    {
+      "id": "849270a2f4c6da4e62513ac8fe3c44fa445c1c13",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "汽车“涨价潮”，来了？",
+      "url": "https://auto.gasgoo.com/news/202605/15I70457475C108.shtml",
+      "published_at": "2026-05-15T11:15:43Z",
+      "first_seen_at": "2026-05-16T05:52:53.189529Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
+      "title_original": "汽车“涨价潮”，来了？",
+      "title_en": null,
+      "title_zh": "汽车“涨价潮”，来了？",
+      "title_bilingual": "汽车“涨价潮”，来了？",
+      "topic_tags": [
+        "价格战"
+      ]
+    },
+    {
+      "id": "0d43c15861ed9e7b7ad363a32c2b6e9b31dcaf2d",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "曹操出行与上海国际汽车城达成战略合作",
+      "url": "https://auto.gasgoo.com/news/202605/15I70457917C601.shtml",
+      "published_at": "2026-05-15T11:13:32Z",
+      "first_seen_at": "2026-05-16T05:52:53.189529Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
+      "title_original": "曹操出行与上海国际汽车城达成战略合作",
+      "title_en": null,
+      "title_zh": "曹操出行与上海国际汽车城达成战略合作",
+      "title_bilingual": "曹操出行与上海国际汽车城达成战略合作",
+      "topic_tags": []
     },
     {
       "id": "945a1fa612e6a995194400691adea4df49d281be",
@@ -305,7 +617,7 @@
       "url": "https://cnevpost.com/2026/05/15/byd-sees-sales-climbing-on-battery-ramp-up",
       "published_at": "2026-05-15T11:09:02Z",
       "first_seen_at": "2026-05-15T11:54:13.956974Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
       "title_original": "BYD sees monthly sales climbing on battery capacity ramp-up",
       "title_en": "BYD sees monthly sales climbing on battery capacity ramp-up",
       "title_zh": "比亚迪预计月度销量将因电池产能提升而攀升",
@@ -327,7 +639,7 @@
       "url": "https://cnevpost.com/2026/05/15/leapmotor-q1-net-loss-widen-sales-growth",
       "published_at": "2026-05-15T10:44:31Z",
       "first_seen_at": "2026-05-15T11:54:13.956974Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
       "title_original": "Leapmotor sees Q1 net loss widen despite sales growth",
       "title_en": "Leapmotor sees Q1 net loss widen despite sales growth",
       "title_zh": "尽管销量增长，零跑汽车一季度净亏损扩大",
@@ -347,7 +659,7 @@
       "url": "https://auto.gasgoo.com/news/202605/15I70457914C112.shtml",
       "published_at": "2026-05-15T10:15:48Z",
       "first_seen_at": "2026-05-16T02:43:25.282384Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
       "title_original": "Seeds | “清华系”重卡新势力，刚融了10个亿",
       "title_en": null,
       "title_zh": "Seeds | “清华系”重卡新势力，刚融了10个亿",
@@ -363,7 +675,7 @@
       "url": "https://cnevpost.com/2026/05/15/huawei-hima-launches-luxeed-v9-mpv",
       "published_at": "2026-05-15T10:02:34Z",
       "first_seen_at": "2026-05-15T11:54:13.956974Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
       "title_original": "Huawei HIMA alliance adds Luxeed V9 MPV to growing EV lineup",
       "title_en": "Huawei HIMA alliance adds Luxeed V9 MPV to growing EV lineup",
       "title_zh": "华为 HIMA 联盟将 Luxeed V9 MPV 添加到不断增长的电动汽车阵容中",
@@ -382,7 +694,7 @@
       "url": "https://auto.gasgoo.com/news/202605/15I70457839C501.shtml",
       "published_at": "2026-05-15T10:00:00Z",
       "first_seen_at": "2026-05-16T02:43:25.282384Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
       "title_original": "超充，进入两轮车行业",
       "title_en": null,
       "title_zh": "超充，进入两轮车行业",
@@ -401,7 +713,7 @@
       "url": "https://cnevpost.com/2026/05/15/li-auto-launches-updated-l9",
       "published_at": "2026-05-15T09:55:39Z",
       "first_seen_at": "2026-05-15T11:54:13.956974Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
       "title_original": "Li Auto launches updated L9 to revive flagship SUV sales, international version to roll out in Q3",
       "title_en": "Li Auto launches updated L9 to revive flagship SUV sales, international version to roll out in Q3",
       "title_zh": "理想汽车推出更新版L9重振旗舰SUV销量 国际版将于第三季度推出",
@@ -422,7 +734,7 @@
       "url": "https://auto.gasgoo.com/news/202605/15I70457913C601.shtml",
       "published_at": "2026-05-15T09:52:40Z",
       "first_seen_at": "2026-05-16T02:43:25.282384Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
       "title_original": "FF上调2026机器人出货目标至1500台",
       "title_en": null,
       "title_zh": "FF上调2026机器人出货目标至1500台",
@@ -495,7 +807,7 @@
       "url": "https://carnewschina.com/2026/05/15/jeep-back-in-china-stellantis-dongfeng-invest-1-18-billion-usd-production-starts-in-2027-for-global-markets",
       "published_at": "2026-05-15T08:33:28Z",
       "first_seen_at": "2026-05-15T09:46:35.745430Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
       "title_original": "Jeep back in China: Stellantis, Dongfeng invest 1.18 billion USD, production starts in 2027 for global markets",
       "title_en": "Jeep back in China: Stellantis, Dongfeng invest 1.18 billion USD, production starts in 2027 for global markets",
       "title_zh": "Jeep重返中国：Stellantis、东风投资11.8亿美元，2027年开始生产面向全球市场",
@@ -514,7 +826,7 @@
       "url": "https://auto.gasgoo.com/news/202605/15I70457858C110.shtml",
       "published_at": "2026-05-15T08:00:09Z",
       "first_seen_at": "2026-05-16T02:43:25.282384Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
       "title_original": "【国际快讯】本田汽车出现上市以来首次净亏损；丰田拟在美国得州新建整车组装工厂；铃木有望超越本田成为日本第二大车企",
       "title_en": null,
       "title_zh": "【国际快讯】本田汽车出现上市以来首次净亏损；丰田拟在美国得州新建整车组装工厂；铃木有望超越本田成为日本第二大车企",
@@ -534,7 +846,7 @@
       "url": "https://cnevpost.com/2026/05/15/saic-audi-to-drop-fuel-cars-audi-reshuffles-china-jvs",
       "published_at": "2026-05-15T07:54:25Z",
       "first_seen_at": "2026-05-15T09:46:35.745430Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
       "title_original": "SAIC Audi reportedly to drop fuel cars as German carmaker reshuffles China JVs",
       "title_en": "SAIC Audi reportedly to drop fuel cars as German carmaker reshuffles China JVs",
       "title_zh": "据报道，德国汽车制造商重组中国合资企业，上汽奥迪将放弃燃油车",
@@ -554,7 +866,7 @@
       "url": "https://auto.gasgoo.com/news/202605/15I70457833C409.shtml",
       "published_at": "2026-05-15T07:51:45Z",
       "first_seen_at": "2026-05-16T02:43:25.282384Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
       "title_original": "哈曼推出AI驱动的车载卡拉OK平台Sing Drive",
       "title_en": null,
       "title_zh": "哈曼推出AI驱动的车载卡拉OK平台Sing Drive",
@@ -570,7 +882,7 @@
       "url": "https://auto.gasgoo.com/news/202605/15I70457835C409.shtml",
       "published_at": "2026-05-15T07:40:31Z",
       "first_seen_at": "2026-05-16T02:43:25.282384Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
       "title_original": "现代摩比斯开发出适用于所有电动汽车车型的PE系统",
       "title_en": null,
       "title_zh": "现代摩比斯开发出适用于所有电动汽车车型的PE系统",
@@ -588,7 +900,7 @@
       "url": "https://auto.gasgoo.com/news/202605/15I70457831C409.shtml",
       "published_at": "2026-05-15T07:38:18Z",
       "first_seen_at": "2026-05-16T02:43:25.282384Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
       "title_original": "西班牙研究人员开发出新型碳纳米管纤维 或将重塑EV、无人机和飞机的布线方式",
       "title_en": null,
       "title_zh": "西班牙研究人员开发出新型碳纳米管纤维 或将重塑EV、无人机和飞机的布线方式",
@@ -606,7 +918,7 @@
       "url": "https://auto.gasgoo.com/news/202605/15I70457834C409.shtml",
       "published_at": "2026-05-15T07:35:08Z",
       "first_seen_at": "2026-05-16T02:43:25.282384Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
       "title_original": "通用汽车申请头枕兼扶手专利",
       "title_en": null,
       "title_zh": "通用汽车申请头枕兼扶手专利",
@@ -622,7 +934,7 @@
       "url": "https://auto.gasgoo.com/news/202605/15I70457830C409.shtml",
       "published_at": "2026-05-15T07:34:05Z",
       "first_seen_at": "2026-05-16T02:43:25.282384Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
       "title_original": "专为儿童设计 通用汽车申请可调节坐垫专利",
       "title_en": null,
       "title_zh": "专为儿童设计 通用汽车申请可调节坐垫专利",
@@ -638,7 +950,7 @@
       "url": "https://auto.gasgoo.com/news/202605/15I70457832C409.shtml",
       "published_at": "2026-05-15T07:31:54Z",
       "first_seen_at": "2026-05-16T02:43:25.282384Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
       "title_original": "新加坡国立大学开发新系统 让机器人利用“第六感”进行无摄像头导航",
       "title_en": null,
       "title_zh": "新加坡国立大学开发新系统 让机器人利用“第六感”进行无摄像头导航",
@@ -654,7 +966,7 @@
       "url": "https://cnevpost.com/2026/05/15/nio-launches-program-recruit-top-ai-talent",
       "published_at": "2026-05-15T07:18:52Z",
       "first_seen_at": "2026-05-15T09:46:35.745430Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
       "title_original": "Nio launches AGI super star program to recruit top global AI talent",
       "title_en": "Nio launches AGI super star program to recruit top global AI talent",
       "title_zh": "蔚来推出AGI超级明星计划，招募全球顶尖AI人才",
@@ -673,7 +985,7 @@
       "url": "https://auto.gasgoo.com/news/202605/15I70457802C501.shtml",
       "published_at": "2026-05-15T07:00:12Z",
       "first_seen_at": "2026-05-15T23:30:38.337710Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
       "title_original": "【盖世快讯】比亚迪鲨鱼皮卡划入方程豹序列；传华为、江淮与斯特兰蒂斯洽谈合作",
       "title_en": null,
       "title_zh": "【盖世快讯】比亚迪鲨鱼皮卡划入方程豹序列；传华为、江淮与斯特兰蒂斯洽谈合作",
@@ -692,7 +1004,7 @@
       "url": "https://auto.gasgoo.com/news/202605/15I70457772C501.shtml",
       "published_at": "2026-05-15T07:00:00Z",
       "first_seen_at": "2026-05-15T23:30:38.337710Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
       "title_original": "谁“偷走”了你的电车续航？",
       "title_en": null,
       "title_zh": "谁“偷走”了你的电车续航？",
@@ -711,7 +1023,7 @@
       "url": "https://carnewschina.com/2026/05/15/chinas-nev-sector-sees-price-hikes-as-supply-chain-costs-bite",
       "published_at": "2026-05-15T06:35:41Z",
       "first_seen_at": "2026-05-15T06:53:39.455481Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
       "title_original": "China’s NEV sector sees price hikes as supply chain costs bite",
       "title_en": "China’s NEV sector sees price hikes as supply chain costs bite",
       "title_zh": "由于供应链成本下降，中国新能源汽车行业价格上涨",
@@ -719,89 +1031,51 @@
       "topic_tags": [
         "新能源",
         "供应链"
-      ]
-    },
-    {
-      "id": "ed681a416fe4d9c4d85ca01e83fe72b1d16594f1",
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "36kr",
-      "title": "长续航Model Y价格上调1.8万元？特斯拉中国：假消息",
-      "url": "https://www.36kr.com/newsflashes/3810132067229186",
-      "published_at": "2026-05-15T05:47:34.790000Z",
-      "first_seen_at": "2026-05-15T06:53:39.455481Z",
-      "last_seen_at": "2026-05-15T06:53:39.455481Z",
-      "title_original": "长续航Model Y价格上调1.8万元？特斯拉中国：假消息",
-      "title_en": null,
-      "title_zh": "长续航Model Y价格上调1.8万元？特斯拉中国：假消息",
-      "title_bilingual": "长续航Model Y价格上调1.8万元？特斯拉中国：假消息",
-      "topic_tags": [
-        "补能电池",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "aa74716f41544213d1e5bd0ce3d0e3376343d623",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Stellantis, Dongfeng strike $1.18 billion deal to produce Peugeot and Jeep models in China",
-      "url": "https://cnevpost.com/2026/05/15/stellantis-dongfeng-strike-deal-peugeot-jeep-models-in-china",
-      "published_at": "2026-05-15T04:50:36Z",
-      "first_seen_at": "2026-05-15T06:53:39.455481Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
-      "title_original": "Stellantis, Dongfeng strike $1.18 billion deal to produce Peugeot and Jeep models in China",
-      "title_en": "Stellantis, Dongfeng strike $1.18 billion deal to produce Peugeot and Jeep models in China",
-      "title_zh": "Stellantis与东风达成价值11.8亿美元的协议，在中国生产标致和吉普车型",
-      "title_bilingual": "Stellantis与东风达成价值11.8亿美元的协议，在中国生产标致和吉普车型 / Stellantis, Dongfeng strike $1.18 billion deal to produce Peugeot and Jeep models in China",
-      "topic_tags": [
-        "新能源",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "b2207571d0b63988883d87ceb5f40578d186bade",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Nio sub-brand Onvo turns two, to launch new L80 SUV in hours",
-      "url": "https://cnevpost.com/2026/05/15/onvo-turns-two-to-launch-l80-in-hours",
-      "published_at": "2026-05-15T03:37:08Z",
-      "first_seen_at": "2026-05-15T06:53:39.455481Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
-      "title_original": "Nio sub-brand Onvo turns two, to launch new L80 SUV in hours",
-      "title_en": "Nio sub-brand Onvo turns two, to launch new L80 SUV in hours",
-      "title_zh": "蔚来子品牌Onvo两周岁，将在数小时内推出新款L80 SUV",
-      "title_bilingual": "蔚来子品牌Onvo两周岁，将在数小时内推出新款L80 SUV / Nio sub-brand Onvo turns two, to launch new L80 SUV in hours",
-      "topic_tags": [
-        "新能源",
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "d22b18d19f7a4719471d6fbbcb545da9b2644279",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "BYD and Huawei show off three‑wheel driving systems in China’s SUV tech war",
-      "url": "https://carnewschina.com/2026/05/15/byd-and-huawei-show-off-three-wheel-driving-systems-in-chinas-suv-tech-war",
-      "published_at": "2026-05-15T03:36:12Z",
-      "first_seen_at": "2026-05-15T06:53:39.455481Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
-      "title_original": "BYD and Huawei show off three‑wheel driving systems in China’s SUV tech war",
-      "title_en": "BYD and Huawei show off three‑wheel driving systems in China’s SUV tech war",
-      "title_zh": "比亚迪和华为在中国SUV技术战中展示三轮驱动系统",
-      "title_bilingual": "比亚迪和华为在中国SUV技术战中展示三轮驱动系统 / BYD and Huawei show off three‑wheel driving systems in China’s SUV tech war",
-      "topic_tags": [
-        "新能源",
-        "车企竞争",
-        "新车上市"
       ]
     }
   ],
   "items_ai": [
     {
+      "id": "0c418d49c5fa887752852b5c47f8ad644616d04b",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "BYD Song Ultra EV kicks off 4,244 km cross‑China drive, flash network hits 5,979 stations",
+      "url": "https://carnewschina.com/2026/05/16/byd-song-ultra-ev-kicks-off-4244-km-cross-china-drive-flash-network-hits-5979-stations",
+      "published_at": "2026-05-16T04:34:18Z",
+      "first_seen_at": "2026-05-16T05:52:53.189529Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
+      "title_original": "BYD Song Ultra EV kicks off 4,244 km cross‑China drive, flash network hits 5,979 stations",
+      "title_en": "BYD Song Ultra EV kicks off 4,244 km cross‑China drive, flash network hits 5,979 stations",
+      "title_zh": "比亚迪宋Ultra EV跨界行驶4,244公里 闪充网络达5,979个站点",
+      "title_bilingual": "比亚迪宋Ultra EV跨界行驶4,244公里 闪充网络达5,979个站点 / BYD Song Ultra EV kicks off 4,244 km cross‑China drive, flash network hits 5,979 stations",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "2ddb087db6eee9961c06fcc33ea09ae0b7474899",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "BYD admits severe battery shortage as flash‑charge EV demand overwhelms production",
+      "url": "https://carnewschina.com/2026/05/16/byd-admits-severe-battery-shortage-as-flash-charge-ev-demand-overwhelms-production",
+      "published_at": "2026-05-16T02:44:46Z",
+      "first_seen_at": "2026-05-16T05:52:53.189529Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
+      "title_original": "BYD admits severe battery shortage as flash‑charge EV demand overwhelms production",
+      "title_en": "BYD admits severe battery shortage as flash‑charge EV demand overwhelms production",
+      "title_zh": "比亚迪承认电池严重短缺，因为闪充电动汽车的需求超过了产量",
+      "title_bilingual": "比亚迪承认电池严重短缺，因为闪充电动汽车的需求超过了产量 / BYD admits severe battery shortage as flash‑charge EV demand overwhelms production",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争"
+      ]
+    },
+    {
       "id": "6f8391779193d19a429493bae61fbd93422188d0",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -810,7 +1084,7 @@
       "url": "http://vc.yiche.com/vplay/11134841.html",
       "published_at": null,
       "first_seen_at": "2026-05-15T19:59:11.010222Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
       "title_original": "续航2000km，配1米8大床，这台车能睡下一家三口去拉萨",
       "title_en": null,
       "title_zh": "续航2000km，配1米8大床，这台车能睡下一家三口去拉萨",
@@ -828,7 +1102,7 @@
       "url": "http://vc.yiche.com/vplay/11141806.html",
       "published_at": null,
       "first_seen_at": "2026-05-15T19:59:11.010222Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
       "title_original": "奇瑞全新QQ3｜国民神车回归 A0级小车版本答案 为什么是它？",
       "title_en": null,
       "title_zh": "奇瑞全新QQ3｜国民神车回归 A0级小车版本答案 为什么是它？",
@@ -846,7 +1120,7 @@
       "url": "http://vc.yiche.com/vplay/11134801.html",
       "published_at": null,
       "first_seen_at": "2026-05-15T19:59:11.010222Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
       "title_original": "理想L6大改款要来了 续航猛增 可选四激光雷达？",
       "title_en": null,
       "title_zh": "理想L6大改款要来了 续航猛增 可选四激光雷达？",
@@ -866,7 +1140,7 @@
       "url": "http://vc.yiche.com/vplay/11137448.html",
       "published_at": null,
       "first_seen_at": "2026-05-15T19:59:11.010222Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
       "title_original": "实测见高低，零跑D19高速亏电油耗省不省？",
       "title_en": null,
       "title_zh": "实测见高低，零跑D19高速亏电油耗省不省？",
@@ -884,7 +1158,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/2d5293832ea666d7/115074318-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-15T18:02:26.377192Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
       "title_original": "与续航衰减和解 大众ID.4 X用车心路",
       "title_en": null,
       "title_zh": "与续航衰减和解 大众ID.4 X用车心路",
@@ -904,7 +1178,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/8475ddf252fe25ea/115008774-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-15T18:02:26.377192Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
       "title_original": "北京车展 猛士M817Ultimate实拍体验",
       "title_en": null,
       "title_zh": "北京车展 猛士M817Ultimate实拍体验",
@@ -923,7 +1197,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/86635eaa28cd52e5/115006054-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-15T18:02:26.377192Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
       "title_original": "北京车展实拍 方程豹 钛7EV闪充版",
       "title_en": null,
       "title_zh": "北京车展实拍 方程豹 钛7EV闪充版",
@@ -942,7 +1216,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/6eb70d73775a4cdb/114981010-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-15T16:18:51.363057Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
       "title_original": "北京车展首发 锋坦PHEV沙影骑士版",
       "title_en": null,
       "title_zh": "北京车展首发 锋坦PHEV沙影骑士版",
@@ -961,7 +1235,7 @@
       "url": "https://cnevpost.com/2026/05/15/onvo-l80-hits-market",
       "published_at": "2026-05-15T14:10:26Z",
       "first_seen_at": "2026-05-15T16:18:51.363057Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
       "title_original": "Nio expands mass-market lineup with official launch of Onvo L80",
       "title_en": "Nio expands mass-market lineup with official launch of Onvo L80",
       "title_zh": "蔚来正式推出Onvo L80，扩大大众市场阵容",
@@ -973,6 +1247,24 @@
       ]
     },
     {
+      "id": "d07162187e41ae801bf43015d376edd10688dade",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-供应链",
+      "title": "极智嘉AMR进驻一汽丰田华南仓，中快流零件拣选自动化率提升至48%",
+      "url": "https://auto.gasgoo.com/news/202605/15I70457949C601.shtml",
+      "published_at": "2026-05-15T13:39:12Z",
+      "first_seen_at": "2026-05-16T05:52:53.189529Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
+      "title_original": "极智嘉AMR进驻一汽丰田华南仓，中快流零件拣选自动化率提升至48%",
+      "title_en": null,
+      "title_zh": "极智嘉AMR进驻一汽丰田华南仓，中快流零件拣选自动化率提升至48%",
+      "title_bilingual": "极智嘉AMR进驻一汽丰田华南仓，中快流零件拣选自动化率提升至48%",
+      "topic_tags": [
+        "供应链"
+      ]
+    },
+    {
       "id": "f9bc7bc19b40184a192ed9b093a32dae253492df",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -981,7 +1273,7 @@
       "url": "https://cnevpost.com/2026/05/15/leapmotor-confirms-second-brand-plans",
       "published_at": "2026-05-15T13:13:42Z",
       "first_seen_at": "2026-05-15T14:02:20.810452Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
       "title_original": "Leapmotor confirms second brand plans",
       "title_en": "Leapmotor confirms second brand plans",
       "title_zh": "零跑确认第二品牌计划",
@@ -989,6 +1281,170 @@
       "topic_tags": [
         "新能源",
         "车企竞争"
+      ]
+    },
+    {
+      "id": "2fabe7d135a3f3df73c44968eec5828bf3919c97",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "Seeds | 博世和银河通用的合资公司，刚融了近3亿",
+      "url": "https://auto.gasgoo.com/news/202605/15I70457948C601.shtml",
+      "published_at": "2026-05-15T13:11:29Z",
+      "first_seen_at": "2026-05-16T05:52:53.189529Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
+      "title_original": "Seeds | 博世和银河通用的合资公司，刚融了近3亿",
+      "title_en": null,
+      "title_zh": "Seeds | 博世和银河通用的合资公司，刚融了近3亿",
+      "title_bilingual": "Seeds | 博世和银河通用的合资公司，刚融了近3亿",
+      "topic_tags": []
+    },
+    {
+      "id": "0d690f4ec68b6c58e6d91de1c8bce0e513e00811",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "神龙汽车将投产标致、Jeep全球新能源车型",
+      "url": "https://auto.gasgoo.com/news/202605/15I70457946C109.shtml",
+      "published_at": "2026-05-15T13:06:51Z",
+      "first_seen_at": "2026-05-16T05:52:53.189529Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
+      "title_original": "神龙汽车将投产标致、Jeep全球新能源车型",
+      "title_en": null,
+      "title_zh": "神龙汽车将投产标致、Jeep全球新能源车型",
+      "title_bilingual": "神龙汽车将投产标致、Jeep全球新能源车型",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "43b8b5db93c2b00ac43f2dfc0c10b891ae0b3b86",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "本田宣布放弃2040年禁售燃油车目标",
+      "url": "https://auto.gasgoo.com/news/202605/15I70457893C109.shtml",
+      "published_at": "2026-05-15T13:01:17Z",
+      "first_seen_at": "2026-05-16T05:52:53.189529Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
+      "title_original": "本田宣布放弃2040年禁售燃油车目标",
+      "title_en": null,
+      "title_zh": "本田宣布放弃2040年禁售燃油车目标",
+      "title_bilingual": "本田宣布放弃2040年禁售燃油车目标",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "5f4ddad8195b3507369ab0953e348940e2eaf170",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "福特汽车两日股价飙升近20%",
+      "url": "https://auto.gasgoo.com/news/202605/15I70457933C109.shtml",
+      "published_at": "2026-05-15T13:00:27Z",
+      "first_seen_at": "2026-05-16T05:52:53.189529Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
+      "title_original": "福特汽车两日股价飙升近20%",
+      "title_en": null,
+      "title_zh": "福特汽车两日股价飙升近20%",
+      "title_bilingual": "福特汽车两日股价飙升近20%",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "295d317fac49f1bd52d06b3e0d8e0089222e3924",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新能源",
+      "title": "路特斯CEO称固态电池量产仍需三至十年",
+      "url": "https://auto.gasgoo.com/news/202605/15I70457934C501.shtml",
+      "published_at": "2026-05-15T12:59:51Z",
+      "first_seen_at": "2026-05-16T05:52:53.189529Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
+      "title_original": "路特斯CEO称固态电池量产仍需三至十年",
+      "title_en": null,
+      "title_zh": "路特斯CEO称固态电池量产仍需三至十年",
+      "title_bilingual": "路特斯CEO称固态电池量产仍需三至十年",
+      "topic_tags": [
+        "新能源",
+        "补能电池"
+      ]
+    },
+    {
+      "id": "e2c1e22ef5791c995d5967b141d970e47df1d824",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "特斯拉强制FSD用户干预后必须提交反馈",
+      "url": "https://auto.gasgoo.com/news/202605/15I70457937C601.shtml",
+      "published_at": "2026-05-15T12:59:18Z",
+      "first_seen_at": "2026-05-16T05:52:53.189529Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
+      "title_original": "特斯拉强制FSD用户干预后必须提交反馈",
+      "title_en": null,
+      "title_zh": "特斯拉强制FSD用户干预后必须提交反馈",
+      "title_bilingual": "特斯拉强制FSD用户干预后必须提交反馈",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "b318548585d8fb236e84d9ff47efb074923308da",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "英国政府与自动驾驶公司Wayve签署合作备忘录",
+      "url": "https://auto.gasgoo.com/news/202605/15I70457941C601.shtml",
+      "published_at": "2026-05-15T12:57:37Z",
+      "first_seen_at": "2026-05-16T05:52:53.189529Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
+      "title_original": "英国政府与自动驾驶公司Wayve签署合作备忘录",
+      "title_en": null,
+      "title_zh": "英国政府与自动驾驶公司Wayve签署合作备忘录",
+      "title_bilingual": "英国政府与自动驾驶公司Wayve签署合作备忘录",
+      "topic_tags": [
+        "智能驾驶"
+      ]
+    },
+    {
+      "id": "9f28f1e791f4e969d1d7312bda0313db914e9dfc",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "何小鹏谈和大众合作：拆解研究后才谈合作",
+      "url": "https://auto.gasgoo.com/news/202605/15I70457944C501.shtml",
+      "published_at": "2026-05-15T12:54:35Z",
+      "first_seen_at": "2026-05-16T05:52:53.189529Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
+      "title_original": "何小鹏谈和大众合作：拆解研究后才谈合作",
+      "title_en": null,
+      "title_zh": "何小鹏谈和大众合作：拆解研究后才谈合作",
+      "title_bilingual": "何小鹏谈和大众合作：拆解研究后才谈合作",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "9172a48e3638b0cf5f8030a7228b81365fb7d6c5",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "何小鹏：小鹏GX新科技旗舰下周三上市",
+      "url": "https://auto.gasgoo.com/news/202605/15I70457943C109.shtml",
+      "published_at": "2026-05-15T12:47:01Z",
+      "first_seen_at": "2026-05-16T05:52:53.189529Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
+      "title_original": "何小鹏：小鹏GX新科技旗舰下周三上市",
+      "title_en": null,
+      "title_zh": "何小鹏：小鹏GX新科技旗舰下周三上市",
+      "title_bilingual": "何小鹏：小鹏GX新科技旗舰下周三上市",
+      "topic_tags": [
+        "车企竞争",
+        "新车上市"
       ]
     },
     {
@@ -1000,7 +1456,7 @@
       "url": "https://cnevpost.com/2026/05/15/onvo-to-start-pre-sales-updated-l60-shenzhen-auto-show",
       "published_at": "2026-05-15T12:45:08Z",
       "first_seen_at": "2026-05-15T14:02:20.810452Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
       "title_original": "Nio Onvo to start pre-sales of updated L60 at Shenzhen Auto Show later this month",
       "title_en": "Nio Onvo to start pre-sales of updated L60 at Shenzhen Auto Show later this month",
       "title_zh": "Nio Onvo更新版L60将于本月晚些时候在深圳车展开始预售",
@@ -1010,6 +1466,96 @@
         "车企竞争",
         "新车上市"
       ]
+    },
+    {
+      "id": "e60bd64ff07dfdb245d2dfe6709011c75d9e43a4",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-销量",
+      "title": "油价重返2022年高点！中东战火催化，欧洲电动车销量大幅走高",
+      "url": "https://auto.gasgoo.com/news/202605/15I70457920C501.shtml",
+      "published_at": "2026-05-15T11:55:51Z",
+      "first_seen_at": "2026-05-16T05:52:53.189529Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
+      "title_original": "油价重返2022年高点！中东战火催化，欧洲电动车销量大幅走高",
+      "title_en": null,
+      "title_zh": "油价重返2022年高点！中东战火催化，欧洲电动车销量大幅走高",
+      "title_bilingual": "油价重返2022年高点！中东战火催化，欧洲电动车销量大幅走高",
+      "topic_tags": [
+        "新能源",
+        "销量市场"
+      ]
+    },
+    {
+      "id": "3a13cdae0369f6c11b47265ea1fa85f328d462c3",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "何小鹏：L5级自动驾驶雏形有望在2030年左右出现",
+      "url": "https://auto.gasgoo.com/news/202605/15I70457919C109.shtml",
+      "published_at": "2026-05-15T11:29:33Z",
+      "first_seen_at": "2026-05-16T05:52:53.189529Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
+      "title_original": "何小鹏：L5级自动驾驶雏形有望在2030年左右出现",
+      "title_en": null,
+      "title_zh": "何小鹏：L5级自动驾驶雏形有望在2030年左右出现",
+      "title_bilingual": "何小鹏：L5级自动驾驶雏形有望在2030年左右出现",
+      "topic_tags": [
+        "智能驾驶",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "de89653ec0e46b03c1d4de3048b59ba21b580194",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "荣耀Robot Phone将在三季度上市",
+      "url": "https://auto.gasgoo.com/news/202605/15I70457918C601.shtml",
+      "published_at": "2026-05-15T11:26:01Z",
+      "first_seen_at": "2026-05-16T05:52:53.189529Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
+      "title_original": "荣耀Robot Phone将在三季度上市",
+      "title_en": null,
+      "title_zh": "荣耀Robot Phone将在三季度上市",
+      "title_bilingual": "荣耀Robot Phone将在三季度上市",
+      "topic_tags": [
+        "新车上市"
+      ]
+    },
+    {
+      "id": "849270a2f4c6da4e62513ac8fe3c44fa445c1c13",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "汽车“涨价潮”，来了？",
+      "url": "https://auto.gasgoo.com/news/202605/15I70457475C108.shtml",
+      "published_at": "2026-05-15T11:15:43Z",
+      "first_seen_at": "2026-05-16T05:52:53.189529Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
+      "title_original": "汽车“涨价潮”，来了？",
+      "title_en": null,
+      "title_zh": "汽车“涨价潮”，来了？",
+      "title_bilingual": "汽车“涨价潮”，来了？",
+      "topic_tags": [
+        "价格战"
+      ]
+    },
+    {
+      "id": "0d43c15861ed9e7b7ad363a32c2b6e9b31dcaf2d",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "曹操出行与上海国际汽车城达成战略合作",
+      "url": "https://auto.gasgoo.com/news/202605/15I70457917C601.shtml",
+      "published_at": "2026-05-15T11:13:32Z",
+      "first_seen_at": "2026-05-16T05:52:53.189529Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
+      "title_original": "曹操出行与上海国际汽车城达成战略合作",
+      "title_en": null,
+      "title_zh": "曹操出行与上海国际汽车城达成战略合作",
+      "title_bilingual": "曹操出行与上海国际汽车城达成战略合作",
+      "topic_tags": []
     },
     {
       "id": "945a1fa612e6a995194400691adea4df49d281be",
@@ -1038,7 +1584,7 @@
       "url": "https://cnevpost.com/2026/05/15/byd-sees-sales-climbing-on-battery-ramp-up",
       "published_at": "2026-05-15T11:09:02Z",
       "first_seen_at": "2026-05-15T11:54:13.956974Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
       "title_original": "BYD sees monthly sales climbing on battery capacity ramp-up",
       "title_en": "BYD sees monthly sales climbing on battery capacity ramp-up",
       "title_zh": "比亚迪预计月度销量将因电池产能提升而攀升",
@@ -1060,7 +1606,7 @@
       "url": "https://cnevpost.com/2026/05/15/leapmotor-q1-net-loss-widen-sales-growth",
       "published_at": "2026-05-15T10:44:31Z",
       "first_seen_at": "2026-05-15T11:54:13.956974Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
       "title_original": "Leapmotor sees Q1 net loss widen despite sales growth",
       "title_en": "Leapmotor sees Q1 net loss widen despite sales growth",
       "title_zh": "尽管销量增长，零跑汽车一季度净亏损扩大",
@@ -1080,7 +1626,7 @@
       "url": "https://auto.gasgoo.com/news/202605/15I70457914C112.shtml",
       "published_at": "2026-05-15T10:15:48Z",
       "first_seen_at": "2026-05-16T02:43:25.282384Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
       "title_original": "Seeds | “清华系”重卡新势力，刚融了10个亿",
       "title_en": null,
       "title_zh": "Seeds | “清华系”重卡新势力，刚融了10个亿",
@@ -1096,7 +1642,7 @@
       "url": "https://cnevpost.com/2026/05/15/huawei-hima-launches-luxeed-v9-mpv",
       "published_at": "2026-05-15T10:02:34Z",
       "first_seen_at": "2026-05-15T11:54:13.956974Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
       "title_original": "Huawei HIMA alliance adds Luxeed V9 MPV to growing EV lineup",
       "title_en": "Huawei HIMA alliance adds Luxeed V9 MPV to growing EV lineup",
       "title_zh": "华为 HIMA 联盟将 Luxeed V9 MPV 添加到不断增长的电动汽车阵容中",
@@ -1115,7 +1661,7 @@
       "url": "https://auto.gasgoo.com/news/202605/15I70457839C501.shtml",
       "published_at": "2026-05-15T10:00:00Z",
       "first_seen_at": "2026-05-16T02:43:25.282384Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
       "title_original": "超充，进入两轮车行业",
       "title_en": null,
       "title_zh": "超充，进入两轮车行业",
@@ -1134,7 +1680,7 @@
       "url": "https://cnevpost.com/2026/05/15/li-auto-launches-updated-l9",
       "published_at": "2026-05-15T09:55:39Z",
       "first_seen_at": "2026-05-15T11:54:13.956974Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
       "title_original": "Li Auto launches updated L9 to revive flagship SUV sales, international version to roll out in Q3",
       "title_en": "Li Auto launches updated L9 to revive flagship SUV sales, international version to roll out in Q3",
       "title_zh": "理想汽车推出更新版L9重振旗舰SUV销量 国际版将于第三季度推出",
@@ -1155,7 +1701,7 @@
       "url": "https://auto.gasgoo.com/news/202605/15I70457913C601.shtml",
       "published_at": "2026-05-15T09:52:40Z",
       "first_seen_at": "2026-05-16T02:43:25.282384Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
       "title_original": "FF上调2026机器人出货目标至1500台",
       "title_en": null,
       "title_zh": "FF上调2026机器人出货目标至1500台",
@@ -1228,7 +1774,7 @@
       "url": "https://carnewschina.com/2026/05/15/jeep-back-in-china-stellantis-dongfeng-invest-1-18-billion-usd-production-starts-in-2027-for-global-markets",
       "published_at": "2026-05-15T08:33:28Z",
       "first_seen_at": "2026-05-15T09:46:35.745430Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
       "title_original": "Jeep back in China: Stellantis, Dongfeng invest 1.18 billion USD, production starts in 2027 for global markets",
       "title_en": "Jeep back in China: Stellantis, Dongfeng invest 1.18 billion USD, production starts in 2027 for global markets",
       "title_zh": "Jeep重返中国：Stellantis、东风投资11.8亿美元，2027年开始生产面向全球市场",
@@ -1247,7 +1793,7 @@
       "url": "https://auto.gasgoo.com/news/202605/15I70457858C110.shtml",
       "published_at": "2026-05-15T08:00:09Z",
       "first_seen_at": "2026-05-16T02:43:25.282384Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
       "title_original": "【国际快讯】本田汽车出现上市以来首次净亏损；丰田拟在美国得州新建整车组装工厂；铃木有望超越本田成为日本第二大车企",
       "title_en": null,
       "title_zh": "【国际快讯】本田汽车出现上市以来首次净亏损；丰田拟在美国得州新建整车组装工厂；铃木有望超越本田成为日本第二大车企",
@@ -1267,7 +1813,7 @@
       "url": "https://cnevpost.com/2026/05/15/saic-audi-to-drop-fuel-cars-audi-reshuffles-china-jvs",
       "published_at": "2026-05-15T07:54:25Z",
       "first_seen_at": "2026-05-15T09:46:35.745430Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
       "title_original": "SAIC Audi reportedly to drop fuel cars as German carmaker reshuffles China JVs",
       "title_en": "SAIC Audi reportedly to drop fuel cars as German carmaker reshuffles China JVs",
       "title_zh": "据报道，德国汽车制造商重组中国合资企业，上汽奥迪将放弃燃油车",
@@ -1287,7 +1833,7 @@
       "url": "https://auto.gasgoo.com/news/202605/15I70457833C409.shtml",
       "published_at": "2026-05-15T07:51:45Z",
       "first_seen_at": "2026-05-16T02:43:25.282384Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
       "title_original": "哈曼推出AI驱动的车载卡拉OK平台Sing Drive",
       "title_en": null,
       "title_zh": "哈曼推出AI驱动的车载卡拉OK平台Sing Drive",
@@ -1303,7 +1849,7 @@
       "url": "https://auto.gasgoo.com/news/202605/15I70457835C409.shtml",
       "published_at": "2026-05-15T07:40:31Z",
       "first_seen_at": "2026-05-16T02:43:25.282384Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
       "title_original": "现代摩比斯开发出适用于所有电动汽车车型的PE系统",
       "title_en": null,
       "title_zh": "现代摩比斯开发出适用于所有电动汽车车型的PE系统",
@@ -1321,7 +1867,7 @@
       "url": "https://auto.gasgoo.com/news/202605/15I70457831C409.shtml",
       "published_at": "2026-05-15T07:38:18Z",
       "first_seen_at": "2026-05-16T02:43:25.282384Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
       "title_original": "西班牙研究人员开发出新型碳纳米管纤维 或将重塑EV、无人机和飞机的布线方式",
       "title_en": null,
       "title_zh": "西班牙研究人员开发出新型碳纳米管纤维 或将重塑EV、无人机和飞机的布线方式",
@@ -1339,7 +1885,7 @@
       "url": "https://auto.gasgoo.com/news/202605/15I70457834C409.shtml",
       "published_at": "2026-05-15T07:35:08Z",
       "first_seen_at": "2026-05-16T02:43:25.282384Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
       "title_original": "通用汽车申请头枕兼扶手专利",
       "title_en": null,
       "title_zh": "通用汽车申请头枕兼扶手专利",
@@ -1355,7 +1901,7 @@
       "url": "https://auto.gasgoo.com/news/202605/15I70457830C409.shtml",
       "published_at": "2026-05-15T07:34:05Z",
       "first_seen_at": "2026-05-16T02:43:25.282384Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
       "title_original": "专为儿童设计 通用汽车申请可调节坐垫专利",
       "title_en": null,
       "title_zh": "专为儿童设计 通用汽车申请可调节坐垫专利",
@@ -1371,7 +1917,7 @@
       "url": "https://auto.gasgoo.com/news/202605/15I70457832C409.shtml",
       "published_at": "2026-05-15T07:31:54Z",
       "first_seen_at": "2026-05-16T02:43:25.282384Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
       "title_original": "新加坡国立大学开发新系统 让机器人利用“第六感”进行无摄像头导航",
       "title_en": null,
       "title_zh": "新加坡国立大学开发新系统 让机器人利用“第六感”进行无摄像头导航",
@@ -1387,7 +1933,7 @@
       "url": "https://cnevpost.com/2026/05/15/nio-launches-program-recruit-top-ai-talent",
       "published_at": "2026-05-15T07:18:52Z",
       "first_seen_at": "2026-05-15T09:46:35.745430Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
       "title_original": "Nio launches AGI super star program to recruit top global AI talent",
       "title_en": "Nio launches AGI super star program to recruit top global AI talent",
       "title_zh": "蔚来推出AGI超级明星计划，招募全球顶尖AI人才",
@@ -1406,7 +1952,7 @@
       "url": "https://auto.gasgoo.com/news/202605/15I70457802C501.shtml",
       "published_at": "2026-05-15T07:00:12Z",
       "first_seen_at": "2026-05-15T23:30:38.337710Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
       "title_original": "【盖世快讯】比亚迪鲨鱼皮卡划入方程豹序列；传华为、江淮与斯特兰蒂斯洽谈合作",
       "title_en": null,
       "title_zh": "【盖世快讯】比亚迪鲨鱼皮卡划入方程豹序列；传华为、江淮与斯特兰蒂斯洽谈合作",
@@ -1425,7 +1971,7 @@
       "url": "https://auto.gasgoo.com/news/202605/15I70457772C501.shtml",
       "published_at": "2026-05-15T07:00:00Z",
       "first_seen_at": "2026-05-15T23:30:38.337710Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
       "title_original": "谁“偷走”了你的电车续航？",
       "title_en": null,
       "title_zh": "谁“偷走”了你的电车续航？",
@@ -1444,7 +1990,7 @@
       "url": "https://carnewschina.com/2026/05/15/chinas-nev-sector-sees-price-hikes-as-supply-chain-costs-bite",
       "published_at": "2026-05-15T06:35:41Z",
       "first_seen_at": "2026-05-15T06:53:39.455481Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
+      "last_seen_at": "2026-05-16T05:52:53.189529Z",
       "title_original": "China’s NEV sector sees price hikes as supply chain costs bite",
       "title_en": "China’s NEV sector sees price hikes as supply chain costs bite",
       "title_zh": "由于供应链成本下降，中国新能源汽车行业价格上涨",
@@ -1452,84 +1998,6 @@
       "topic_tags": [
         "新能源",
         "供应链"
-      ]
-    },
-    {
-      "id": "ed681a416fe4d9c4d85ca01e83fe72b1d16594f1",
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "36kr",
-      "title": "长续航Model Y价格上调1.8万元？特斯拉中国：假消息",
-      "url": "https://www.36kr.com/newsflashes/3810132067229186",
-      "published_at": "2026-05-15T05:47:34.790000Z",
-      "first_seen_at": "2026-05-15T06:53:39.455481Z",
-      "last_seen_at": "2026-05-15T06:53:39.455481Z",
-      "title_original": "长续航Model Y价格上调1.8万元？特斯拉中国：假消息",
-      "title_en": null,
-      "title_zh": "长续航Model Y价格上调1.8万元？特斯拉中国：假消息",
-      "title_bilingual": "长续航Model Y价格上调1.8万元？特斯拉中国：假消息",
-      "topic_tags": [
-        "补能电池",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "aa74716f41544213d1e5bd0ce3d0e3376343d623",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Stellantis, Dongfeng strike $1.18 billion deal to produce Peugeot and Jeep models in China",
-      "url": "https://cnevpost.com/2026/05/15/stellantis-dongfeng-strike-deal-peugeot-jeep-models-in-china",
-      "published_at": "2026-05-15T04:50:36Z",
-      "first_seen_at": "2026-05-15T06:53:39.455481Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
-      "title_original": "Stellantis, Dongfeng strike $1.18 billion deal to produce Peugeot and Jeep models in China",
-      "title_en": "Stellantis, Dongfeng strike $1.18 billion deal to produce Peugeot and Jeep models in China",
-      "title_zh": "Stellantis与东风达成价值11.8亿美元的协议，在中国生产标致和吉普车型",
-      "title_bilingual": "Stellantis与东风达成价值11.8亿美元的协议，在中国生产标致和吉普车型 / Stellantis, Dongfeng strike $1.18 billion deal to produce Peugeot and Jeep models in China",
-      "topic_tags": [
-        "新能源",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "b2207571d0b63988883d87ceb5f40578d186bade",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Nio sub-brand Onvo turns two, to launch new L80 SUV in hours",
-      "url": "https://cnevpost.com/2026/05/15/onvo-turns-two-to-launch-l80-in-hours",
-      "published_at": "2026-05-15T03:37:08Z",
-      "first_seen_at": "2026-05-15T06:53:39.455481Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
-      "title_original": "Nio sub-brand Onvo turns two, to launch new L80 SUV in hours",
-      "title_en": "Nio sub-brand Onvo turns two, to launch new L80 SUV in hours",
-      "title_zh": "蔚来子品牌Onvo两周岁，将在数小时内推出新款L80 SUV",
-      "title_bilingual": "蔚来子品牌Onvo两周岁，将在数小时内推出新款L80 SUV / Nio sub-brand Onvo turns two, to launch new L80 SUV in hours",
-      "topic_tags": [
-        "新能源",
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "d22b18d19f7a4719471d6fbbcb545da9b2644279",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "BYD and Huawei show off three‑wheel driving systems in China’s SUV tech war",
-      "url": "https://carnewschina.com/2026/05/15/byd-and-huawei-show-off-three-wheel-driving-systems-in-chinas-suv-tech-war",
-      "published_at": "2026-05-15T03:36:12Z",
-      "first_seen_at": "2026-05-15T06:53:39.455481Z",
-      "last_seen_at": "2026-05-16T02:43:25.282384Z",
-      "title_original": "BYD and Huawei show off three‑wheel driving systems in China’s SUV tech war",
-      "title_en": "BYD and Huawei show off three‑wheel driving systems in China’s SUV tech war",
-      "title_zh": "比亚迪和华为在中国SUV技术战中展示三轮驱动系统",
-      "title_bilingual": "比亚迪和华为在中国SUV技术战中展示三轮驱动系统 / BYD and Huawei show off three‑wheel driving systems in China’s SUV tech war",
-      "topic_tags": [
-        "新能源",
-        "车企竞争",
-        "新车上市"
       ]
     }
   ],
