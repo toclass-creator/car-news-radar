@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-05-17T07:54:52.837047Z",
+  "generated_at": "2026-05-17T09:45:06.329430Z",
   "window_hours": 24,
   "total_items": 22,
   "total_items_ai_raw": 23,
-  "total_items_raw": 3342,
-  "total_items_all_mode": 3132,
+  "total_items_raw": 3256,
+  "total_items_all_mode": 3049,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 41344,
+  "archive_total": 41609,
   "site_count": 3,
   "source_count": 7,
   "site_stats": [
@@ -14,41 +14,41 @@
       "site_id": "tophub",
       "site_name": "TopHub",
       "count": 11,
-      "raw_count": 3192
-    },
-    {
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "count": 6,
-      "raw_count": 7
+      "raw_count": 3092
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
+      "count": 6,
+      "raw_count": 158
+    },
+    {
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
       "count": 5,
-      "raw_count": 143
+      "raw_count": 6
     }
   ],
   "topic_tag_stats": [
     {
       "tag": "车企竞争",
-      "count": 17
+      "count": 16
     },
     {
       "tag": "购车决策",
       "count": 8
     },
     {
-      "tag": "新能源",
+      "tag": "补能电池",
       "count": 6
+    },
+    {
+      "tag": "新能源",
+      "count": 5
     },
     {
       "tag": "新车上市",
-      "count": 6
-    },
-    {
-      "tag": "补能电池",
-      "count": 6
+      "count": 5
     },
     {
       "tag": "价格战",
@@ -57,6 +57,10 @@
     {
       "tag": "智能驾驶",
       "count": 2
+    },
+    {
+      "tag": "供应链",
+      "count": 1
     },
     {
       "tag": "召回安全",
@@ -69,6 +73,44 @@
   ],
   "items": [
     {
+      "id": "ece36c4598e4f5dbbdfe48654bf1d73193b8c165",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "36kr",
+      "title": "国轩高科：预计2030年将建成10万吨/年固态电解质产能，可满足100GWh固态电池需求",
+      "url": "https://www.36kr.com/newsflashes/3813049075244802",
+      "published_at": "2026-05-17T09:18:14.708000Z",
+      "first_seen_at": "2026-05-17T09:45:06.329430Z",
+      "last_seen_at": "2026-05-17T09:45:06.329430Z",
+      "title_original": "国轩高科：预计2030年将建成10万吨/年固态电解质产能，可满足100GWh固态电池需求",
+      "title_en": null,
+      "title_zh": "国轩高科：预计2030年将建成10万吨/年固态电解质产能，可满足100GWh固态电池需求",
+      "title_bilingual": "国轩高科：预计2030年将建成10万吨/年固态电解质产能，可满足100GWh固态电池需求",
+      "topic_tags": [
+        "补能电池",
+        "供应链"
+      ]
+    },
+    {
+      "id": "8d1f23340fab7142c4163674720bd8df5322aac9",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "BYD Blade 2.0 survives 8‑hour violent teardown: bloggers grind, saw, hammer with no fire",
+      "url": "https://carnewschina.com/2026/05/17/byd-blade-2-0-survives-8-hour-violent-teardown-bloggers-grind-saw-hammer-with-no-fire",
+      "published_at": "2026-05-17T08:42:35Z",
+      "first_seen_at": "2026-05-17T09:45:06.329430Z",
+      "last_seen_at": "2026-05-17T09:45:06.329430Z",
+      "title_original": "BYD Blade 2.0 survives 8‑hour violent teardown: bloggers grind, saw, hammer with no fire",
+      "title_en": "BYD Blade 2.0 survives 8‑hour violent teardown: bloggers grind, saw, hammer with no fire",
+      "title_zh": "比亚迪Blade 2.0历经8小时暴力拆解：博主不开火地磨、锯、锤",
+      "title_bilingual": "比亚迪Blade 2.0历经8小时暴力拆解：博主不开火地磨、锯、锤 / BYD Blade 2.0 survives 8‑hour violent teardown: bloggers grind, saw, hammer with no fire",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
       "id": "2dfee7ded54a0489964f3e40b44c6efe40c84b93",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -77,7 +119,7 @@
       "url": "https://carnewschina.com/2026/05/17/byd-crushes-blogger-in-court-second-instance-ruling-forces-apology-after-293000-usd-verdict",
       "published_at": "2026-05-17T07:53:15Z",
       "first_seen_at": "2026-05-17T07:54:52.837047Z",
-      "last_seen_at": "2026-05-17T07:54:52.837047Z",
+      "last_seen_at": "2026-05-17T09:45:06.329430Z",
       "title_original": "BYD crushes blogger in Court: second-instance ruling forces apology after 293,000 USD verdict",
       "title_en": "BYD crushes blogger in Court: second-instance ruling forces apology after 293,000 USD verdict",
       "title_zh": "比亚迪当庭打压博主：二审判决赔付29.3万美元迫使其道歉",
@@ -171,7 +213,7 @@
       "url": "http://vc.yiche.com/vplay/11142299.html",
       "published_at": null,
       "first_seen_at": "2026-05-16T20:10:52.316091Z",
-      "last_seen_at": "2026-05-17T07:54:52.837047Z",
+      "last_seen_at": "2026-05-17T09:45:06.329430Z",
       "title_original": "配后驱+智驾+闪充，第三代元PLUS会涨价还是加量不加价？",
       "title_en": null,
       "title_zh": "配后驱+智驾+闪充，第三代元PLUS会涨价还是加量不加价？",
@@ -191,7 +233,7 @@
       "url": "http://vc.yiche.com/vplay/11148463.html",
       "published_at": null,
       "first_seen_at": "2026-05-16T20:10:52.316091Z",
-      "last_seen_at": "2026-05-17T07:54:52.837047Z",
+      "last_seen_at": "2026-05-17T09:45:06.329430Z",
       "title_original": "初晓敏：MPV中的MVP？抢先试驾智界V9",
       "title_en": null,
       "title_zh": "初晓敏：MPV中的MVP？抢先试驾智界V9",
@@ -210,7 +252,7 @@
       "url": "http://vc.yiche.com/vplay/11137354.html",
       "published_at": null,
       "first_seen_at": "2026-05-16T20:10:52.316091Z",
-      "last_seen_at": "2026-05-17T07:54:52.837047Z",
+      "last_seen_at": "2026-05-17T09:45:06.329430Z",
       "title_original": "花15万买30万的体验，零跑C11探店值不值得冲",
       "title_en": null,
       "title_zh": "花15万买30万的体验，零跑C11探店值不值得冲",
@@ -229,7 +271,7 @@
       "url": "http://vc.yiche.com/vplay/11138546.html",
       "published_at": null,
       "first_seen_at": "2026-05-16T20:10:52.316091Z",
-      "last_seen_at": "2026-05-17T07:54:52.837047Z",
+      "last_seen_at": "2026-05-17T09:45:06.329430Z",
       "title_original": "纯电续航最高900公里 比亚迪海狮08新车申报",
       "title_en": null,
       "title_zh": "纯电续航最高900公里 比亚迪海狮08新车申报",
@@ -250,7 +292,7 @@
       "url": "http://vc.yiche.com/vplay/11147602.html",
       "published_at": null,
       "first_seen_at": "2026-05-16T20:10:52.316091Z",
-      "last_seen_at": "2026-05-17T07:54:52.837047Z",
+      "last_seen_at": "2026-05-17T09:45:06.329430Z",
       "title_original": "在丽江，与小鹏GX共赴一场“心有山海，从容而行”的成长之旅",
       "title_en": null,
       "title_zh": "在丽江，与小鹏GX共赴一场“心有山海，从容而行”的成长之旅",
@@ -268,7 +310,7 @@
       "url": "http://vc.yiche.com/vplay/11150474.html",
       "published_at": null,
       "first_seen_at": "2026-05-16T20:10:52.316091Z",
-      "last_seen_at": "2026-05-17T07:54:52.837047Z",
+      "last_seen_at": "2026-05-17T09:45:06.329430Z",
       "title_original": "家用“硬派”方盒子长城猛龙PLUS上市！限时换新价16.18万起！",
       "title_en": null,
       "title_zh": "家用“硬派”方盒子长城猛龙PLUS上市！限时换新价16.18万起！",
@@ -288,7 +330,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/c286173d04b7e97c/115055238-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-16T16:56:53.175425Z",
-      "last_seen_at": "2026-05-17T07:54:52.837047Z",
+      "last_seen_at": "2026-05-17T09:45:06.329430Z",
       "title_original": "没让我失望 问界M7提车作业分享",
       "title_en": null,
       "title_zh": "没让我失望 问界M7提车作业分享",
@@ -307,7 +349,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/136b9bc1ddd09c5b/115049582-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-16T16:56:53.175425Z",
-      "last_seen_at": "2026-05-17T07:54:52.837047Z",
+      "last_seen_at": "2026-05-17T09:45:06.329430Z",
       "title_original": "家用二胎神车 理想i6提车避坑指南",
       "title_en": null,
       "title_zh": "家用二胎神车 理想i6提车避坑指南",
@@ -326,7 +368,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/47c75a1119dde86b/115055829-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-16T16:56:53.175425Z",
-      "last_seen_at": "2026-05-17T07:54:52.837047Z",
+      "last_seen_at": "2026-05-17T09:45:06.329430Z",
       "title_original": "满足我的需求 iCAR V27提车作业分享",
       "title_en": null,
       "title_zh": "满足我的需求 iCAR V27提车作业分享",
@@ -344,7 +386,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/642b71978003cb26/114994915-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-16T16:56:53.175425Z",
-      "last_seen_at": "2026-05-17T07:54:52.837047Z",
+      "last_seen_at": "2026-05-17T09:45:06.329430Z",
       "title_original": "北京车展体验腾势D9 商务豪华感十足",
       "title_en": null,
       "title_zh": "北京车展体验腾势D9 商务豪华感十足",
@@ -363,7 +405,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/2e00c8526f6d44f3/114988701-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-16T16:56:53.175425Z",
-      "last_seen_at": "2026-05-17T07:54:52.837047Z",
+      "last_seen_at": "2026-05-17T09:45:06.329430Z",
       "title_original": "北京车展实拍 海豹08静态体验分享",
       "title_en": null,
       "title_zh": "北京车展实拍 海豹08静态体验分享",
@@ -402,7 +444,7 @@
       "url": "https://cnevpost.com/2026/05/16/byd-denza-hits-500000-vehicle-production-milestone",
       "published_at": "2026-05-16T12:55:33Z",
       "first_seen_at": "2026-05-16T14:04:34.336236Z",
-      "last_seen_at": "2026-05-17T07:54:52.837047Z",
+      "last_seen_at": "2026-05-17T09:45:06.329430Z",
       "title_original": "BYD Denza hits 500,000-vehicle production milestone with N9 flash charging edition",
       "title_en": "BYD Denza hits 500,000-vehicle production milestone with N9 flash charging edition",
       "title_zh": "比亚迪腾势N9闪充版产量突破50万辆",
@@ -422,7 +464,7 @@
       "url": "https://cnevpost.com/2026/05/16/onvo-begins-l80-deliveries",
       "published_at": "2026-05-16T12:36:35Z",
       "first_seen_at": "2026-05-16T14:04:34.336236Z",
-      "last_seen_at": "2026-05-17T07:54:52.837047Z",
+      "last_seen_at": "2026-05-17T09:45:06.329430Z",
       "title_original": "Nio Onvo begins L80 deliveries in China",
       "title_en": "Nio Onvo begins L80 deliveries in China",
       "title_zh": "Nio Onvo L80开始在中国交付",
@@ -442,58 +484,56 @@
       "url": "https://auto.gasgoo.com/news/202605/16I70457998C501.shtml",
       "published_at": "2026-05-16T12:25:20Z",
       "first_seen_at": "2026-05-17T05:08:27.677568Z",
-      "last_seen_at": "2026-05-17T07:54:52.837047Z",
+      "last_seen_at": "2026-05-17T09:45:06.329430Z",
       "title_original": "80亿注资，神龙能否迎来“第二春”？",
       "title_en": null,
       "title_zh": "80亿注资，神龙能否迎来“第二春”？",
       "title_bilingual": "80亿注资，神龙能否迎来“第二春”？",
       "topic_tags": [
         "车企竞争"
-      ]
-    },
-    {
-      "id": "9503fdfe0bb14bd0064e717b7b768c7471d51cf1",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "CATL, BYD headline China’s inaugural Golden Lithium Awards with next‑gen battery wins",
-      "url": "https://carnewschina.com/2026/05/16/catl-byd-headline-chinas-inaugural-golden-lithium-awards-with-next-gen-battery-wins",
-      "published_at": "2026-05-16T09:30:03Z",
-      "first_seen_at": "2026-05-16T09:55:48.569589Z",
-      "last_seen_at": "2026-05-17T07:54:52.837047Z",
-      "title_original": "CATL, BYD headline China’s inaugural Golden Lithium Awards with next‑gen battery wins",
-      "title_en": "CATL, BYD headline China’s inaugural Golden Lithium Awards with next‑gen battery wins",
-      "title_zh": "宁德时代、比亚迪凭借新一代电池荣获中国首届金锂奖",
-      "title_bilingual": "宁德时代、比亚迪凭借新一代电池荣获中国首届金锂奖 / CATL, BYD headline China’s inaugural Golden Lithium Awards with next‑gen battery wins",
-      "topic_tags": [
-        "新能源",
-        "补能电池",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "409be46167c5660ca09c56f2c9e7600165d923e6",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Xiaomi YU7 GT arrives at dealerships: a 990 hp performance SUV set for late May launch",
-      "url": "https://carnewschina.com/2026/05/16/xiaomi-yu7-gt-arrives-at-dealerships-a-990-hp-performance-suv-set-for-late-may-launch",
-      "published_at": "2026-05-16T08:03:25Z",
-      "first_seen_at": "2026-05-16T09:55:48.569589Z",
-      "last_seen_at": "2026-05-17T07:54:52.837047Z",
-      "title_original": "Xiaomi YU7 GT arrives at dealerships: a 990 hp performance SUV set for late May launch",
-      "title_en": "Xiaomi YU7 GT arrives at dealerships: a 990 hp performance SUV set for late May launch",
-      "title_zh": "小米 YU7 GT 抵达经销店：一款 990 马力的高性能 SUV 将于 5 月底推出",
-      "title_bilingual": "小米 YU7 GT 抵达经销店：一款 990 马力的高性能 SUV 将于 5 月底推出 / Xiaomi YU7 GT arrives at dealerships: a 990 hp performance SUV set for late May launch",
-      "topic_tags": [
-        "新能源",
-        "车企竞争",
-        "新车上市"
       ]
     }
   ],
   "items_ai": [
     {
+      "id": "ece36c4598e4f5dbbdfe48654bf1d73193b8c165",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "36kr",
+      "title": "国轩高科：预计2030年将建成10万吨/年固态电解质产能，可满足100GWh固态电池需求",
+      "url": "https://www.36kr.com/newsflashes/3813049075244802",
+      "published_at": "2026-05-17T09:18:14.708000Z",
+      "first_seen_at": "2026-05-17T09:45:06.329430Z",
+      "last_seen_at": "2026-05-17T09:45:06.329430Z",
+      "title_original": "国轩高科：预计2030年将建成10万吨/年固态电解质产能，可满足100GWh固态电池需求",
+      "title_en": null,
+      "title_zh": "国轩高科：预计2030年将建成10万吨/年固态电解质产能，可满足100GWh固态电池需求",
+      "title_bilingual": "国轩高科：预计2030年将建成10万吨/年固态电解质产能，可满足100GWh固态电池需求",
+      "topic_tags": [
+        "补能电池",
+        "供应链"
+      ]
+    },
+    {
+      "id": "8d1f23340fab7142c4163674720bd8df5322aac9",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "BYD Blade 2.0 survives 8‑hour violent teardown: bloggers grind, saw, hammer with no fire",
+      "url": "https://carnewschina.com/2026/05/17/byd-blade-2-0-survives-8-hour-violent-teardown-bloggers-grind-saw-hammer-with-no-fire",
+      "published_at": "2026-05-17T08:42:35Z",
+      "first_seen_at": "2026-05-17T09:45:06.329430Z",
+      "last_seen_at": "2026-05-17T09:45:06.329430Z",
+      "title_original": "BYD Blade 2.0 survives 8‑hour violent teardown: bloggers grind, saw, hammer with no fire",
+      "title_en": "BYD Blade 2.0 survives 8‑hour violent teardown: bloggers grind, saw, hammer with no fire",
+      "title_zh": "比亚迪Blade 2.0历经8小时暴力拆解：博主不开火地磨、锯、锤",
+      "title_bilingual": "比亚迪Blade 2.0历经8小时暴力拆解：博主不开火地磨、锯、锤 / BYD Blade 2.0 survives 8‑hour violent teardown: bloggers grind, saw, hammer with no fire",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
       "id": "2dfee7ded54a0489964f3e40b44c6efe40c84b93",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -502,7 +542,7 @@
       "url": "https://carnewschina.com/2026/05/17/byd-crushes-blogger-in-court-second-instance-ruling-forces-apology-after-293000-usd-verdict",
       "published_at": "2026-05-17T07:53:15Z",
       "first_seen_at": "2026-05-17T07:54:52.837047Z",
-      "last_seen_at": "2026-05-17T07:54:52.837047Z",
+      "last_seen_at": "2026-05-17T09:45:06.329430Z",
       "title_original": "BYD crushes blogger in Court: second-instance ruling forces apology after 293,000 USD verdict",
       "title_en": "BYD crushes blogger in Court: second-instance ruling forces apology after 293,000 USD verdict",
       "title_zh": "比亚迪当庭打压博主：二审判决赔付29.3万美元迫使其道歉",
@@ -596,7 +636,7 @@
       "url": "http://vc.yiche.com/vplay/11142299.html",
       "published_at": null,
       "first_seen_at": "2026-05-16T20:10:52.316091Z",
-      "last_seen_at": "2026-05-17T07:54:52.837047Z",
+      "last_seen_at": "2026-05-17T09:45:06.329430Z",
       "title_original": "配后驱+智驾+闪充，第三代元PLUS会涨价还是加量不加价？",
       "title_en": null,
       "title_zh": "配后驱+智驾+闪充，第三代元PLUS会涨价还是加量不加价？",
@@ -616,7 +656,7 @@
       "url": "http://vc.yiche.com/vplay/11148463.html",
       "published_at": null,
       "first_seen_at": "2026-05-16T20:10:52.316091Z",
-      "last_seen_at": "2026-05-17T07:54:52.837047Z",
+      "last_seen_at": "2026-05-17T09:45:06.329430Z",
       "title_original": "初晓敏：MPV中的MVP？抢先试驾智界V9",
       "title_en": null,
       "title_zh": "初晓敏：MPV中的MVP？抢先试驾智界V9",
@@ -635,7 +675,7 @@
       "url": "http://vc.yiche.com/vplay/11137354.html",
       "published_at": null,
       "first_seen_at": "2026-05-16T20:10:52.316091Z",
-      "last_seen_at": "2026-05-17T07:54:52.837047Z",
+      "last_seen_at": "2026-05-17T09:45:06.329430Z",
       "title_original": "花15万买30万的体验，零跑C11探店值不值得冲",
       "title_en": null,
       "title_zh": "花15万买30万的体验，零跑C11探店值不值得冲",
@@ -654,7 +694,7 @@
       "url": "http://vc.yiche.com/vplay/11138546.html",
       "published_at": null,
       "first_seen_at": "2026-05-16T20:10:52.316091Z",
-      "last_seen_at": "2026-05-17T07:54:52.837047Z",
+      "last_seen_at": "2026-05-17T09:45:06.329430Z",
       "title_original": "纯电续航最高900公里 比亚迪海狮08新车申报",
       "title_en": null,
       "title_zh": "纯电续航最高900公里 比亚迪海狮08新车申报",
@@ -675,7 +715,7 @@
       "url": "http://vc.yiche.com/vplay/11147602.html",
       "published_at": null,
       "first_seen_at": "2026-05-16T20:10:52.316091Z",
-      "last_seen_at": "2026-05-17T07:54:52.837047Z",
+      "last_seen_at": "2026-05-17T09:45:06.329430Z",
       "title_original": "在丽江，与小鹏GX共赴一场“心有山海，从容而行”的成长之旅",
       "title_en": null,
       "title_zh": "在丽江，与小鹏GX共赴一场“心有山海，从容而行”的成长之旅",
@@ -693,7 +733,7 @@
       "url": "http://vc.yiche.com/vplay/11150474.html",
       "published_at": null,
       "first_seen_at": "2026-05-16T20:10:52.316091Z",
-      "last_seen_at": "2026-05-17T07:54:52.837047Z",
+      "last_seen_at": "2026-05-17T09:45:06.329430Z",
       "title_original": "家用“硬派”方盒子长城猛龙PLUS上市！限时换新价16.18万起！",
       "title_en": null,
       "title_zh": "家用“硬派”方盒子长城猛龙PLUS上市！限时换新价16.18万起！",
@@ -713,7 +753,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/c286173d04b7e97c/115055238-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-16T16:56:53.175425Z",
-      "last_seen_at": "2026-05-17T07:54:52.837047Z",
+      "last_seen_at": "2026-05-17T09:45:06.329430Z",
       "title_original": "没让我失望 问界M7提车作业分享",
       "title_en": null,
       "title_zh": "没让我失望 问界M7提车作业分享",
@@ -732,7 +772,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/136b9bc1ddd09c5b/115049582-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-16T16:56:53.175425Z",
-      "last_seen_at": "2026-05-17T07:54:52.837047Z",
+      "last_seen_at": "2026-05-17T09:45:06.329430Z",
       "title_original": "家用二胎神车 理想i6提车避坑指南",
       "title_en": null,
       "title_zh": "家用二胎神车 理想i6提车避坑指南",
@@ -751,7 +791,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/47c75a1119dde86b/115055829-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-16T16:56:53.175425Z",
-      "last_seen_at": "2026-05-17T07:54:52.837047Z",
+      "last_seen_at": "2026-05-17T09:45:06.329430Z",
       "title_original": "满足我的需求 iCAR V27提车作业分享",
       "title_en": null,
       "title_zh": "满足我的需求 iCAR V27提车作业分享",
@@ -769,7 +809,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/642b71978003cb26/114994915-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-16T16:56:53.175425Z",
-      "last_seen_at": "2026-05-17T07:54:52.837047Z",
+      "last_seen_at": "2026-05-17T09:45:06.329430Z",
       "title_original": "北京车展体验腾势D9 商务豪华感十足",
       "title_en": null,
       "title_zh": "北京车展体验腾势D9 商务豪华感十足",
@@ -788,7 +828,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/2e00c8526f6d44f3/114988701-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-16T16:56:53.175425Z",
-      "last_seen_at": "2026-05-17T07:54:52.837047Z",
+      "last_seen_at": "2026-05-17T09:45:06.329430Z",
       "title_original": "北京车展实拍 海豹08静态体验分享",
       "title_en": null,
       "title_zh": "北京车展实拍 海豹08静态体验分享",
@@ -827,7 +867,7 @@
       "url": "https://cnevpost.com/2026/05/16/byd-denza-hits-500000-vehicle-production-milestone",
       "published_at": "2026-05-16T12:55:33Z",
       "first_seen_at": "2026-05-16T14:04:34.336236Z",
-      "last_seen_at": "2026-05-17T07:54:52.837047Z",
+      "last_seen_at": "2026-05-17T09:45:06.329430Z",
       "title_original": "BYD Denza hits 500,000-vehicle production milestone with N9 flash charging edition",
       "title_en": "BYD Denza hits 500,000-vehicle production milestone with N9 flash charging edition",
       "title_zh": "比亚迪腾势N9闪充版产量突破50万辆",
@@ -847,7 +887,7 @@
       "url": "https://cnevpost.com/2026/05/16/onvo-begins-l80-deliveries",
       "published_at": "2026-05-16T12:36:35Z",
       "first_seen_at": "2026-05-16T14:04:34.336236Z",
-      "last_seen_at": "2026-05-17T07:54:52.837047Z",
+      "last_seen_at": "2026-05-17T09:45:06.329430Z",
       "title_original": "Nio Onvo begins L80 deliveries in China",
       "title_en": "Nio Onvo begins L80 deliveries in China",
       "title_zh": "Nio Onvo L80开始在中国交付",
@@ -867,53 +907,13 @@
       "url": "https://auto.gasgoo.com/news/202605/16I70457998C501.shtml",
       "published_at": "2026-05-16T12:25:20Z",
       "first_seen_at": "2026-05-17T05:08:27.677568Z",
-      "last_seen_at": "2026-05-17T07:54:52.837047Z",
+      "last_seen_at": "2026-05-17T09:45:06.329430Z",
       "title_original": "80亿注资，神龙能否迎来“第二春”？",
       "title_en": null,
       "title_zh": "80亿注资，神龙能否迎来“第二春”？",
       "title_bilingual": "80亿注资，神龙能否迎来“第二春”？",
       "topic_tags": [
         "车企竞争"
-      ]
-    },
-    {
-      "id": "9503fdfe0bb14bd0064e717b7b768c7471d51cf1",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "CATL, BYD headline China’s inaugural Golden Lithium Awards with next‑gen battery wins",
-      "url": "https://carnewschina.com/2026/05/16/catl-byd-headline-chinas-inaugural-golden-lithium-awards-with-next-gen-battery-wins",
-      "published_at": "2026-05-16T09:30:03Z",
-      "first_seen_at": "2026-05-16T09:55:48.569589Z",
-      "last_seen_at": "2026-05-17T07:54:52.837047Z",
-      "title_original": "CATL, BYD headline China’s inaugural Golden Lithium Awards with next‑gen battery wins",
-      "title_en": "CATL, BYD headline China’s inaugural Golden Lithium Awards with next‑gen battery wins",
-      "title_zh": "宁德时代、比亚迪凭借新一代电池荣获中国首届金锂奖",
-      "title_bilingual": "宁德时代、比亚迪凭借新一代电池荣获中国首届金锂奖 / CATL, BYD headline China’s inaugural Golden Lithium Awards with next‑gen battery wins",
-      "topic_tags": [
-        "新能源",
-        "补能电池",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "409be46167c5660ca09c56f2c9e7600165d923e6",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Xiaomi YU7 GT arrives at dealerships: a 990 hp performance SUV set for late May launch",
-      "url": "https://carnewschina.com/2026/05/16/xiaomi-yu7-gt-arrives-at-dealerships-a-990-hp-performance-suv-set-for-late-may-launch",
-      "published_at": "2026-05-16T08:03:25Z",
-      "first_seen_at": "2026-05-16T09:55:48.569589Z",
-      "last_seen_at": "2026-05-17T07:54:52.837047Z",
-      "title_original": "Xiaomi YU7 GT arrives at dealerships: a 990 hp performance SUV set for late May launch",
-      "title_en": "Xiaomi YU7 GT arrives at dealerships: a 990 hp performance SUV set for late May launch",
-      "title_zh": "小米 YU7 GT 抵达经销店：一款 990 马力的高性能 SUV 将于 5 月底推出",
-      "title_bilingual": "小米 YU7 GT 抵达经销店：一款 990 马力的高性能 SUV 将于 5 月底推出 / Xiaomi YU7 GT arrives at dealerships: a 990 hp performance SUV set for late May launch",
-      "topic_tags": [
-        "新能源",
-        "车企竞争",
-        "新车上市"
       ]
     }
   ],
