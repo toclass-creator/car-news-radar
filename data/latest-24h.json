@@ -1,46 +1,42 @@
 {
-  "generated_at": "2026-05-17T01:23:00.580774Z",
+  "generated_at": "2026-05-17T05:08:27.677568Z",
   "window_hours": 24,
-  "total_items": 22,
-  "total_items_ai_raw": 22,
-  "total_items_raw": 3540,
-  "total_items_all_mode": 3271,
+  "total_items": 24,
+  "total_items_ai_raw": 25,
+  "total_items_raw": 3505,
+  "total_items_all_mode": 3248,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 40505,
+  "archive_total": 41024,
   "site_count": 3,
-  "source_count": 6,
+  "source_count": 7,
   "site_stats": [
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "count": 11,
-      "raw_count": 3391
-    },
-    {
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "count": 6,
-      "raw_count": 6
+      "raw_count": 3350
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
+      "count": 8,
+      "raw_count": 149
+    },
+    {
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
       "count": 5,
-      "raw_count": 143
+      "raw_count": 6
     }
   ],
   "topic_tag_stats": [
     {
       "tag": "车企竞争",
-      "count": 14
+      "count": 16
     },
     {
       "tag": "购车决策",
       "count": 8
-    },
-    {
-      "tag": "新能源",
-      "count": 7
     },
     {
       "tag": "新车上市",
@@ -49,6 +45,10 @@
     {
       "tag": "补能电池",
       "count": 7
+    },
+    {
+      "tag": "新能源",
+      "count": 5
     },
     {
       "tag": "智能驾驶",
@@ -73,6 +73,62 @@
   ],
   "items": [
     {
+      "id": "e8fb0b1c68b61ab1e8aef049cdd8a18d62f6d0ff",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "hackernews",
+      "title": "Tesla Solar Roof is on life support as it pivot to panels",
+      "url": "https://news.ycombinator.com/item?id=48165980",
+      "published_at": "2026-05-17T05:08:38.655000Z",
+      "first_seen_at": "2026-05-17T05:08:27.677568Z",
+      "last_seen_at": "2026-05-17T05:08:27.677568Z",
+      "title_original": "Tesla Solar Roof is on life support as it pivot to panels",
+      "title_en": "Tesla Solar Roof is on life support as it pivot to panels",
+      "title_zh": "特斯拉太阳能屋顶因转向电池板而处于生命维持状态",
+      "title_bilingual": "特斯拉太阳能屋顶因转向电池板而处于生命维持状态 / Tesla Solar Roof is on life support as it pivot to panels",
+      "topic_tags": [
+        "补能电池",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "c18550b08744c581afa9962ec928a11a24231895",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "36kr",
+      "title": "长安汽车否认与千里科技合作",
+      "url": "https://www.36kr.com/newsflashes/3812843633991425",
+      "published_at": "2026-05-17T03:56:03.236000Z",
+      "first_seen_at": "2026-05-17T05:08:27.677568Z",
+      "last_seen_at": "2026-05-17T05:08:27.677568Z",
+      "title_original": "长安汽车否认与千里科技合作",
+      "title_en": null,
+      "title_zh": "长安汽车否认与千里科技合作",
+      "title_bilingual": "长安汽车否认与千里科技合作",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "851d7264dc4b6ffce57958686035976997728508",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "36kr",
+      "title": "蔚来：已在全国建成8870座充换电站",
+      "url": "https://www.36kr.com/newsflashes/3812695911816707",
+      "published_at": "2026-05-17T01:56:03.236000Z",
+      "first_seen_at": "2026-05-17T05:08:27.677568Z",
+      "last_seen_at": "2026-05-17T05:08:27.677568Z",
+      "title_original": "蔚来：已在全国建成8870座充换电站",
+      "title_en": null,
+      "title_zh": "蔚来：已在全国建成8870座充换电站",
+      "title_bilingual": "蔚来：已在全国建成8870座充换电站",
+      "topic_tags": [
+        "补能电池",
+        "车企竞争"
+      ]
+    },
+    {
       "id": "71e3230b26228a0b62e2b767e5ed4d918ae4d75d",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -81,7 +137,7 @@
       "url": "http://vc.yiche.com/vplay/11142299.html",
       "published_at": null,
       "first_seen_at": "2026-05-16T20:10:52.316091Z",
-      "last_seen_at": "2026-05-17T01:23:00.580774Z",
+      "last_seen_at": "2026-05-17T05:08:27.677568Z",
       "title_original": "配后驱+智驾+闪充，第三代元PLUS会涨价还是加量不加价？",
       "title_en": null,
       "title_zh": "配后驱+智驾+闪充，第三代元PLUS会涨价还是加量不加价？",
@@ -101,7 +157,7 @@
       "url": "http://vc.yiche.com/vplay/11148463.html",
       "published_at": null,
       "first_seen_at": "2026-05-16T20:10:52.316091Z",
-      "last_seen_at": "2026-05-17T01:23:00.580774Z",
+      "last_seen_at": "2026-05-17T05:08:27.677568Z",
       "title_original": "初晓敏：MPV中的MVP？抢先试驾智界V9",
       "title_en": null,
       "title_zh": "初晓敏：MPV中的MVP？抢先试驾智界V9",
@@ -120,7 +176,7 @@
       "url": "http://vc.yiche.com/vplay/11137354.html",
       "published_at": null,
       "first_seen_at": "2026-05-16T20:10:52.316091Z",
-      "last_seen_at": "2026-05-17T01:23:00.580774Z",
+      "last_seen_at": "2026-05-17T05:08:27.677568Z",
       "title_original": "花15万买30万的体验，零跑C11探店值不值得冲",
       "title_en": null,
       "title_zh": "花15万买30万的体验，零跑C11探店值不值得冲",
@@ -139,7 +195,7 @@
       "url": "http://vc.yiche.com/vplay/11138546.html",
       "published_at": null,
       "first_seen_at": "2026-05-16T20:10:52.316091Z",
-      "last_seen_at": "2026-05-17T01:23:00.580774Z",
+      "last_seen_at": "2026-05-17T05:08:27.677568Z",
       "title_original": "纯电续航最高900公里 比亚迪海狮08新车申报",
       "title_en": null,
       "title_zh": "纯电续航最高900公里 比亚迪海狮08新车申报",
@@ -160,7 +216,7 @@
       "url": "http://vc.yiche.com/vplay/11147602.html",
       "published_at": null,
       "first_seen_at": "2026-05-16T20:10:52.316091Z",
-      "last_seen_at": "2026-05-17T01:23:00.580774Z",
+      "last_seen_at": "2026-05-17T05:08:27.677568Z",
       "title_original": "在丽江，与小鹏GX共赴一场“心有山海，从容而行”的成长之旅",
       "title_en": null,
       "title_zh": "在丽江，与小鹏GX共赴一场“心有山海，从容而行”的成长之旅",
@@ -178,7 +234,7 @@
       "url": "http://vc.yiche.com/vplay/11150474.html",
       "published_at": null,
       "first_seen_at": "2026-05-16T20:10:52.316091Z",
-      "last_seen_at": "2026-05-17T01:23:00.580774Z",
+      "last_seen_at": "2026-05-17T05:08:27.677568Z",
       "title_original": "家用“硬派”方盒子长城猛龙PLUS上市！限时换新价16.18万起！",
       "title_en": null,
       "title_zh": "家用“硬派”方盒子长城猛龙PLUS上市！限时换新价16.18万起！",
@@ -198,7 +254,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/c286173d04b7e97c/115055238-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-16T16:56:53.175425Z",
-      "last_seen_at": "2026-05-17T01:23:00.580774Z",
+      "last_seen_at": "2026-05-17T05:08:27.677568Z",
       "title_original": "没让我失望 问界M7提车作业分享",
       "title_en": null,
       "title_zh": "没让我失望 问界M7提车作业分享",
@@ -217,7 +273,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/136b9bc1ddd09c5b/115049582-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-16T16:56:53.175425Z",
-      "last_seen_at": "2026-05-17T01:23:00.580774Z",
+      "last_seen_at": "2026-05-17T05:08:27.677568Z",
       "title_original": "家用二胎神车 理想i6提车避坑指南",
       "title_en": null,
       "title_zh": "家用二胎神车 理想i6提车避坑指南",
@@ -236,7 +292,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/47c75a1119dde86b/115055829-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-16T16:56:53.175425Z",
-      "last_seen_at": "2026-05-17T01:23:00.580774Z",
+      "last_seen_at": "2026-05-17T05:08:27.677568Z",
       "title_original": "满足我的需求 iCAR V27提车作业分享",
       "title_en": null,
       "title_zh": "满足我的需求 iCAR V27提车作业分享",
@@ -254,7 +310,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/642b71978003cb26/114994915-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-16T16:56:53.175425Z",
-      "last_seen_at": "2026-05-17T01:23:00.580774Z",
+      "last_seen_at": "2026-05-17T05:08:27.677568Z",
       "title_original": "北京车展体验腾势D9 商务豪华感十足",
       "title_en": null,
       "title_zh": "北京车展体验腾势D9 商务豪华感十足",
@@ -273,7 +329,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/2e00c8526f6d44f3/114988701-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-16T16:56:53.175425Z",
-      "last_seen_at": "2026-05-17T01:23:00.580774Z",
+      "last_seen_at": "2026-05-17T05:08:27.677568Z",
       "title_original": "北京车展实拍 海豹08静态体验分享",
       "title_en": null,
       "title_zh": "北京车展实拍 海豹08静态体验分享",
@@ -312,7 +368,7 @@
       "url": "https://cnevpost.com/2026/05/16/byd-denza-hits-500000-vehicle-production-milestone",
       "published_at": "2026-05-16T12:55:33Z",
       "first_seen_at": "2026-05-16T14:04:34.336236Z",
-      "last_seen_at": "2026-05-17T01:23:00.580774Z",
+      "last_seen_at": "2026-05-17T05:08:27.677568Z",
       "title_original": "BYD Denza hits 500,000-vehicle production milestone with N9 flash charging edition",
       "title_en": "BYD Denza hits 500,000-vehicle production milestone with N9 flash charging edition",
       "title_zh": "比亚迪腾势N9闪充版产量突破50万辆",
@@ -332,7 +388,7 @@
       "url": "https://cnevpost.com/2026/05/16/onvo-begins-l80-deliveries",
       "published_at": "2026-05-16T12:36:35Z",
       "first_seen_at": "2026-05-16T14:04:34.336236Z",
-      "last_seen_at": "2026-05-17T01:23:00.580774Z",
+      "last_seen_at": "2026-05-17T05:08:27.677568Z",
       "title_original": "Nio Onvo begins L80 deliveries in China",
       "title_en": "Nio Onvo begins L80 deliveries in China",
       "title_zh": "Nio Onvo L80开始在中国交付",
@@ -340,6 +396,24 @@
       "topic_tags": [
         "新能源",
         "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "705791be5204dff75d7b11a5c82bcfd50a188afb",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "80亿注资，神龙能否迎来“第二春”？",
+      "url": "https://auto.gasgoo.com/news/202605/16I70457998C501.shtml",
+      "published_at": "2026-05-16T12:25:20Z",
+      "first_seen_at": "2026-05-17T05:08:27.677568Z",
+      "last_seen_at": "2026-05-17T05:08:27.677568Z",
+      "title_original": "80亿注资，神龙能否迎来“第二春”？",
+      "title_en": null,
+      "title_zh": "80亿注资，神龙能否迎来“第二春”？",
+      "title_bilingual": "80亿注资，神龙能否迎来“第二春”？",
+      "topic_tags": [
         "车企竞争"
       ]
     },
@@ -352,7 +426,7 @@
       "url": "https://carnewschina.com/2026/05/16/catl-byd-headline-chinas-inaugural-golden-lithium-awards-with-next-gen-battery-wins",
       "published_at": "2026-05-16T09:30:03Z",
       "first_seen_at": "2026-05-16T09:55:48.569589Z",
-      "last_seen_at": "2026-05-17T01:23:00.580774Z",
+      "last_seen_at": "2026-05-17T05:08:27.677568Z",
       "title_original": "CATL, BYD headline China’s inaugural Golden Lithium Awards with next‑gen battery wins",
       "title_en": "CATL, BYD headline China’s inaugural Golden Lithium Awards with next‑gen battery wins",
       "title_zh": "宁德时代、比亚迪凭借新一代电池荣获中国首届金锂奖",
@@ -372,7 +446,7 @@
       "url": "https://carnewschina.com/2026/05/16/xiaomi-yu7-gt-arrives-at-dealerships-a-990-hp-performance-suv-set-for-late-may-launch",
       "published_at": "2026-05-16T08:03:25Z",
       "first_seen_at": "2026-05-16T09:55:48.569589Z",
-      "last_seen_at": "2026-05-17T01:23:00.580774Z",
+      "last_seen_at": "2026-05-17T05:08:27.677568Z",
       "title_original": "Xiaomi YU7 GT arrives at dealerships: a 990 hp performance SUV set for late May launch",
       "title_en": "Xiaomi YU7 GT arrives at dealerships: a 990 hp performance SUV set for late May launch",
       "title_zh": "小米 YU7 GT 抵达经销店：一款 990 马力的高性能 SUV 将于 5 月底推出",
@@ -454,51 +528,67 @@
       "topic_tags": [
         "车企竞争",
         "新车上市"
-      ]
-    },
-    {
-      "id": "0c418d49c5fa887752852b5c47f8ad644616d04b",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "BYD Song Ultra EV kicks off 4,244 km cross‑China drive, flash network hits 5,979 stations",
-      "url": "https://carnewschina.com/2026/05/16/byd-song-ultra-ev-kicks-off-4244-km-cross-china-drive-flash-network-hits-5979-stations",
-      "published_at": "2026-05-16T04:34:18Z",
-      "first_seen_at": "2026-05-16T05:52:53.189529Z",
-      "last_seen_at": "2026-05-17T01:23:00.580774Z",
-      "title_original": "BYD Song Ultra EV kicks off 4,244 km cross‑China drive, flash network hits 5,979 stations",
-      "title_en": "BYD Song Ultra EV kicks off 4,244 km cross‑China drive, flash network hits 5,979 stations",
-      "title_zh": "比亚迪宋Ultra EV跨界行驶4,244公里 闪充网络达5,979个站点",
-      "title_bilingual": "比亚迪宋Ultra EV跨界行驶4,244公里 闪充网络达5,979个站点 / BYD Song Ultra EV kicks off 4,244 km cross‑China drive, flash network hits 5,979 stations",
-      "topic_tags": [
-        "新能源",
-        "补能电池",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "2ddb087db6eee9961c06fcc33ea09ae0b7474899",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "BYD admits severe battery shortage as flash‑charge EV demand overwhelms production",
-      "url": "https://carnewschina.com/2026/05/16/byd-admits-severe-battery-shortage-as-flash-charge-ev-demand-overwhelms-production",
-      "published_at": "2026-05-16T02:44:46Z",
-      "first_seen_at": "2026-05-16T05:52:53.189529Z",
-      "last_seen_at": "2026-05-17T01:23:00.580774Z",
-      "title_original": "BYD admits severe battery shortage as flash‑charge EV demand overwhelms production",
-      "title_en": "BYD admits severe battery shortage as flash‑charge EV demand overwhelms production",
-      "title_zh": "比亚迪承认电池严重短缺，因为闪充电动汽车的需求超过了产量",
-      "title_bilingual": "比亚迪承认电池严重短缺，因为闪充电动汽车的需求超过了产量 / BYD admits severe battery shortage as flash‑charge EV demand overwhelms production",
-      "topic_tags": [
-        "新能源",
-        "补能电池",
-        "车企竞争"
       ]
     }
   ],
   "items_ai": [
     {
+      "id": "e8fb0b1c68b61ab1e8aef049cdd8a18d62f6d0ff",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "hackernews",
+      "title": "Tesla Solar Roof is on life support as it pivot to panels",
+      "url": "https://news.ycombinator.com/item?id=48165980",
+      "published_at": "2026-05-17T05:08:38.655000Z",
+      "first_seen_at": "2026-05-17T05:08:27.677568Z",
+      "last_seen_at": "2026-05-17T05:08:27.677568Z",
+      "title_original": "Tesla Solar Roof is on life support as it pivot to panels",
+      "title_en": "Tesla Solar Roof is on life support as it pivot to panels",
+      "title_zh": "特斯拉太阳能屋顶因转向电池板而处于生命维持状态",
+      "title_bilingual": "特斯拉太阳能屋顶因转向电池板而处于生命维持状态 / Tesla Solar Roof is on life support as it pivot to panels",
+      "topic_tags": [
+        "补能电池",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "c18550b08744c581afa9962ec928a11a24231895",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "36kr",
+      "title": "长安汽车否认与千里科技合作",
+      "url": "https://www.36kr.com/newsflashes/3812843633991425",
+      "published_at": "2026-05-17T03:56:03.236000Z",
+      "first_seen_at": "2026-05-17T05:08:27.677568Z",
+      "last_seen_at": "2026-05-17T05:08:27.677568Z",
+      "title_original": "长安汽车否认与千里科技合作",
+      "title_en": null,
+      "title_zh": "长安汽车否认与千里科技合作",
+      "title_bilingual": "长安汽车否认与千里科技合作",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "851d7264dc4b6ffce57958686035976997728508",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "36kr",
+      "title": "蔚来：已在全国建成8870座充换电站",
+      "url": "https://www.36kr.com/newsflashes/3812695911816707",
+      "published_at": "2026-05-17T01:56:03.236000Z",
+      "first_seen_at": "2026-05-17T05:08:27.677568Z",
+      "last_seen_at": "2026-05-17T05:08:27.677568Z",
+      "title_original": "蔚来：已在全国建成8870座充换电站",
+      "title_en": null,
+      "title_zh": "蔚来：已在全国建成8870座充换电站",
+      "title_bilingual": "蔚来：已在全国建成8870座充换电站",
+      "topic_tags": [
+        "补能电池",
+        "车企竞争"
+      ]
+    },
+    {
       "id": "71e3230b26228a0b62e2b767e5ed4d918ae4d75d",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -507,7 +597,7 @@
       "url": "http://vc.yiche.com/vplay/11142299.html",
       "published_at": null,
       "first_seen_at": "2026-05-16T20:10:52.316091Z",
-      "last_seen_at": "2026-05-17T01:23:00.580774Z",
+      "last_seen_at": "2026-05-17T05:08:27.677568Z",
       "title_original": "配后驱+智驾+闪充，第三代元PLUS会涨价还是加量不加价？",
       "title_en": null,
       "title_zh": "配后驱+智驾+闪充，第三代元PLUS会涨价还是加量不加价？",
@@ -527,7 +617,7 @@
       "url": "http://vc.yiche.com/vplay/11148463.html",
       "published_at": null,
       "first_seen_at": "2026-05-16T20:10:52.316091Z",
-      "last_seen_at": "2026-05-17T01:23:00.580774Z",
+      "last_seen_at": "2026-05-17T05:08:27.677568Z",
       "title_original": "初晓敏：MPV中的MVP？抢先试驾智界V9",
       "title_en": null,
       "title_zh": "初晓敏：MPV中的MVP？抢先试驾智界V9",
@@ -546,7 +636,7 @@
       "url": "http://vc.yiche.com/vplay/11137354.html",
       "published_at": null,
       "first_seen_at": "2026-05-16T20:10:52.316091Z",
-      "last_seen_at": "2026-05-17T01:23:00.580774Z",
+      "last_seen_at": "2026-05-17T05:08:27.677568Z",
       "title_original": "花15万买30万的体验，零跑C11探店值不值得冲",
       "title_en": null,
       "title_zh": "花15万买30万的体验，零跑C11探店值不值得冲",
@@ -565,7 +655,7 @@
       "url": "http://vc.yiche.com/vplay/11138546.html",
       "published_at": null,
       "first_seen_at": "2026-05-16T20:10:52.316091Z",
-      "last_seen_at": "2026-05-17T01:23:00.580774Z",
+      "last_seen_at": "2026-05-17T05:08:27.677568Z",
       "title_original": "纯电续航最高900公里 比亚迪海狮08新车申报",
       "title_en": null,
       "title_zh": "纯电续航最高900公里 比亚迪海狮08新车申报",
@@ -586,7 +676,7 @@
       "url": "http://vc.yiche.com/vplay/11147602.html",
       "published_at": null,
       "first_seen_at": "2026-05-16T20:10:52.316091Z",
-      "last_seen_at": "2026-05-17T01:23:00.580774Z",
+      "last_seen_at": "2026-05-17T05:08:27.677568Z",
       "title_original": "在丽江，与小鹏GX共赴一场“心有山海，从容而行”的成长之旅",
       "title_en": null,
       "title_zh": "在丽江，与小鹏GX共赴一场“心有山海，从容而行”的成长之旅",
@@ -604,7 +694,7 @@
       "url": "http://vc.yiche.com/vplay/11150474.html",
       "published_at": null,
       "first_seen_at": "2026-05-16T20:10:52.316091Z",
-      "last_seen_at": "2026-05-17T01:23:00.580774Z",
+      "last_seen_at": "2026-05-17T05:08:27.677568Z",
       "title_original": "家用“硬派”方盒子长城猛龙PLUS上市！限时换新价16.18万起！",
       "title_en": null,
       "title_zh": "家用“硬派”方盒子长城猛龙PLUS上市！限时换新价16.18万起！",
@@ -624,7 +714,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/c286173d04b7e97c/115055238-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-16T16:56:53.175425Z",
-      "last_seen_at": "2026-05-17T01:23:00.580774Z",
+      "last_seen_at": "2026-05-17T05:08:27.677568Z",
       "title_original": "没让我失望 问界M7提车作业分享",
       "title_en": null,
       "title_zh": "没让我失望 问界M7提车作业分享",
@@ -643,7 +733,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/136b9bc1ddd09c5b/115049582-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-16T16:56:53.175425Z",
-      "last_seen_at": "2026-05-17T01:23:00.580774Z",
+      "last_seen_at": "2026-05-17T05:08:27.677568Z",
       "title_original": "家用二胎神车 理想i6提车避坑指南",
       "title_en": null,
       "title_zh": "家用二胎神车 理想i6提车避坑指南",
@@ -662,7 +752,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/47c75a1119dde86b/115055829-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-16T16:56:53.175425Z",
-      "last_seen_at": "2026-05-17T01:23:00.580774Z",
+      "last_seen_at": "2026-05-17T05:08:27.677568Z",
       "title_original": "满足我的需求 iCAR V27提车作业分享",
       "title_en": null,
       "title_zh": "满足我的需求 iCAR V27提车作业分享",
@@ -680,7 +770,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/642b71978003cb26/114994915-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-16T16:56:53.175425Z",
-      "last_seen_at": "2026-05-17T01:23:00.580774Z",
+      "last_seen_at": "2026-05-17T05:08:27.677568Z",
       "title_original": "北京车展体验腾势D9 商务豪华感十足",
       "title_en": null,
       "title_zh": "北京车展体验腾势D9 商务豪华感十足",
@@ -699,7 +789,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/2e00c8526f6d44f3/114988701-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-16T16:56:53.175425Z",
-      "last_seen_at": "2026-05-17T01:23:00.580774Z",
+      "last_seen_at": "2026-05-17T05:08:27.677568Z",
       "title_original": "北京车展实拍 海豹08静态体验分享",
       "title_en": null,
       "title_zh": "北京车展实拍 海豹08静态体验分享",
@@ -738,7 +828,7 @@
       "url": "https://cnevpost.com/2026/05/16/byd-denza-hits-500000-vehicle-production-milestone",
       "published_at": "2026-05-16T12:55:33Z",
       "first_seen_at": "2026-05-16T14:04:34.336236Z",
-      "last_seen_at": "2026-05-17T01:23:00.580774Z",
+      "last_seen_at": "2026-05-17T05:08:27.677568Z",
       "title_original": "BYD Denza hits 500,000-vehicle production milestone with N9 flash charging edition",
       "title_en": "BYD Denza hits 500,000-vehicle production milestone with N9 flash charging edition",
       "title_zh": "比亚迪腾势N9闪充版产量突破50万辆",
@@ -758,7 +848,7 @@
       "url": "https://cnevpost.com/2026/05/16/onvo-begins-l80-deliveries",
       "published_at": "2026-05-16T12:36:35Z",
       "first_seen_at": "2026-05-16T14:04:34.336236Z",
-      "last_seen_at": "2026-05-17T01:23:00.580774Z",
+      "last_seen_at": "2026-05-17T05:08:27.677568Z",
       "title_original": "Nio Onvo begins L80 deliveries in China",
       "title_en": "Nio Onvo begins L80 deliveries in China",
       "title_zh": "Nio Onvo L80开始在中国交付",
@@ -766,6 +856,24 @@
       "topic_tags": [
         "新能源",
         "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "705791be5204dff75d7b11a5c82bcfd50a188afb",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "80亿注资，神龙能否迎来“第二春”？",
+      "url": "https://auto.gasgoo.com/news/202605/16I70457998C501.shtml",
+      "published_at": "2026-05-16T12:25:20Z",
+      "first_seen_at": "2026-05-17T05:08:27.677568Z",
+      "last_seen_at": "2026-05-17T05:08:27.677568Z",
+      "title_original": "80亿注资，神龙能否迎来“第二春”？",
+      "title_en": null,
+      "title_zh": "80亿注资，神龙能否迎来“第二春”？",
+      "title_bilingual": "80亿注资，神龙能否迎来“第二春”？",
+      "topic_tags": [
         "车企竞争"
       ]
     },
@@ -778,7 +886,7 @@
       "url": "https://carnewschina.com/2026/05/16/catl-byd-headline-chinas-inaugural-golden-lithium-awards-with-next-gen-battery-wins",
       "published_at": "2026-05-16T09:30:03Z",
       "first_seen_at": "2026-05-16T09:55:48.569589Z",
-      "last_seen_at": "2026-05-17T01:23:00.580774Z",
+      "last_seen_at": "2026-05-17T05:08:27.677568Z",
       "title_original": "CATL, BYD headline China’s inaugural Golden Lithium Awards with next‑gen battery wins",
       "title_en": "CATL, BYD headline China’s inaugural Golden Lithium Awards with next‑gen battery wins",
       "title_zh": "宁德时代、比亚迪凭借新一代电池荣获中国首届金锂奖",
@@ -798,7 +906,7 @@
       "url": "https://carnewschina.com/2026/05/16/xiaomi-yu7-gt-arrives-at-dealerships-a-990-hp-performance-suv-set-for-late-may-launch",
       "published_at": "2026-05-16T08:03:25Z",
       "first_seen_at": "2026-05-16T09:55:48.569589Z",
-      "last_seen_at": "2026-05-17T01:23:00.580774Z",
+      "last_seen_at": "2026-05-17T05:08:27.677568Z",
       "title_original": "Xiaomi YU7 GT arrives at dealerships: a 990 hp performance SUV set for late May launch",
       "title_en": "Xiaomi YU7 GT arrives at dealerships: a 990 hp performance SUV set for late May launch",
       "title_zh": "小米 YU7 GT 抵达经销店：一款 990 马力的高性能 SUV 将于 5 月底推出",
@@ -880,46 +988,6 @@
       "topic_tags": [
         "车企竞争",
         "新车上市"
-      ]
-    },
-    {
-      "id": "0c418d49c5fa887752852b5c47f8ad644616d04b",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "BYD Song Ultra EV kicks off 4,244 km cross‑China drive, flash network hits 5,979 stations",
-      "url": "https://carnewschina.com/2026/05/16/byd-song-ultra-ev-kicks-off-4244-km-cross-china-drive-flash-network-hits-5979-stations",
-      "published_at": "2026-05-16T04:34:18Z",
-      "first_seen_at": "2026-05-16T05:52:53.189529Z",
-      "last_seen_at": "2026-05-17T01:23:00.580774Z",
-      "title_original": "BYD Song Ultra EV kicks off 4,244 km cross‑China drive, flash network hits 5,979 stations",
-      "title_en": "BYD Song Ultra EV kicks off 4,244 km cross‑China drive, flash network hits 5,979 stations",
-      "title_zh": "比亚迪宋Ultra EV跨界行驶4,244公里 闪充网络达5,979个站点",
-      "title_bilingual": "比亚迪宋Ultra EV跨界行驶4,244公里 闪充网络达5,979个站点 / BYD Song Ultra EV kicks off 4,244 km cross‑China drive, flash network hits 5,979 stations",
-      "topic_tags": [
-        "新能源",
-        "补能电池",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "2ddb087db6eee9961c06fcc33ea09ae0b7474899",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "BYD admits severe battery shortage as flash‑charge EV demand overwhelms production",
-      "url": "https://carnewschina.com/2026/05/16/byd-admits-severe-battery-shortage-as-flash-charge-ev-demand-overwhelms-production",
-      "published_at": "2026-05-16T02:44:46Z",
-      "first_seen_at": "2026-05-16T05:52:53.189529Z",
-      "last_seen_at": "2026-05-17T01:23:00.580774Z",
-      "title_original": "BYD admits severe battery shortage as flash‑charge EV demand overwhelms production",
-      "title_en": "BYD admits severe battery shortage as flash‑charge EV demand overwhelms production",
-      "title_zh": "比亚迪承认电池严重短缺，因为闪充电动汽车的需求超过了产量",
-      "title_bilingual": "比亚迪承认电池严重短缺，因为闪充电动汽车的需求超过了产量 / BYD admits severe battery shortage as flash‑charge EV demand overwhelms production",
-      "topic_tags": [
-        "新能源",
-        "补能电池",
-        "车企竞争"
       ]
     }
   ],
