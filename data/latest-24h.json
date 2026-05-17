@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-05-17T05:08:27.677568Z",
+  "generated_at": "2026-05-17T07:54:52.837047Z",
   "window_hours": 24,
-  "total_items": 24,
-  "total_items_ai_raw": 25,
-  "total_items_raw": 3505,
-  "total_items_all_mode": 3248,
+  "total_items": 22,
+  "total_items_ai_raw": 23,
+  "total_items_raw": 3342,
+  "total_items_all_mode": 3132,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 41024,
+  "archive_total": 41344,
   "site_count": 3,
   "source_count": 7,
   "site_stats": [
@@ -14,64 +14,98 @@
       "site_id": "tophub",
       "site_name": "TopHub",
       "count": 11,
-      "raw_count": 3350
-    },
-    {
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "count": 8,
-      "raw_count": 149
+      "raw_count": 3192
     },
     {
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
+      "count": 6,
+      "raw_count": 7
+    },
+    {
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
       "count": 5,
-      "raw_count": 6
+      "raw_count": 143
     }
   ],
   "topic_tag_stats": [
     {
       "tag": "车企竞争",
-      "count": 16
+      "count": 17
     },
     {
       "tag": "购车决策",
       "count": 8
     },
     {
+      "tag": "新能源",
+      "count": 6
+    },
+    {
       "tag": "新车上市",
-      "count": 7
+      "count": 6
     },
     {
       "tag": "补能电池",
-      "count": 7
+      "count": 6
     },
     {
-      "tag": "新能源",
-      "count": 5
+      "tag": "价格战",
+      "count": 2
     },
     {
       "tag": "智能驾驶",
       "count": 2
     },
     {
-      "tag": "销量市场",
-      "count": 2
-    },
-    {
-      "tag": "价格战",
-      "count": 1
-    },
-    {
-      "tag": "供应链",
-      "count": 1
-    },
-    {
       "tag": "召回安全",
+      "count": 1
+    },
+    {
+      "tag": "销量市场",
       "count": 1
     }
   ],
   "items": [
+    {
+      "id": "2dfee7ded54a0489964f3e40b44c6efe40c84b93",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "BYD crushes blogger in Court: second-instance ruling forces apology after 293,000 USD verdict",
+      "url": "https://carnewschina.com/2026/05/17/byd-crushes-blogger-in-court-second-instance-ruling-forces-apology-after-293000-usd-verdict",
+      "published_at": "2026-05-17T07:53:15Z",
+      "first_seen_at": "2026-05-17T07:54:52.837047Z",
+      "last_seen_at": "2026-05-17T07:54:52.837047Z",
+      "title_original": "BYD crushes blogger in Court: second-instance ruling forces apology after 293,000 USD verdict",
+      "title_en": "BYD crushes blogger in Court: second-instance ruling forces apology after 293,000 USD verdict",
+      "title_zh": "比亚迪当庭打压博主：二审判决赔付29.3万美元迫使其道歉",
+      "title_bilingual": "比亚迪当庭打压博主：二审判决赔付29.3万美元迫使其道歉 / BYD crushes blogger in Court: second-instance ruling forces apology after 293,000 USD verdict",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "ff597225537c554ef8e19d9a16876a01ee30836b",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "36kr",
+      "title": "特斯拉两年来首次上调Model Y美国售价",
+      "url": "https://www.36kr.com/newsflashes/3812950639927048",
+      "published_at": "2026-05-17T06:26:48.269000Z",
+      "first_seen_at": "2026-05-17T07:54:52.837047Z",
+      "last_seen_at": "2026-05-17T07:54:52.837047Z",
+      "title_original": "特斯拉两年来首次上调Model Y美国售价",
+      "title_en": null,
+      "title_zh": "特斯拉两年来首次上调Model Y美国售价",
+      "title_bilingual": "特斯拉两年来首次上调Model Y美国售价",
+      "topic_tags": [
+        "价格战",
+        "车企竞争"
+      ]
+    },
     {
       "id": "e8fb0b1c68b61ab1e8aef049cdd8a18d62f6d0ff",
       "site_id": "newsnow",
@@ -81,7 +115,7 @@
       "url": "https://news.ycombinator.com/item?id=48165980",
       "published_at": "2026-05-17T05:08:38.655000Z",
       "first_seen_at": "2026-05-17T05:08:27.677568Z",
-      "last_seen_at": "2026-05-17T05:08:27.677568Z",
+      "last_seen_at": "2026-05-17T07:54:52.837047Z",
       "title_original": "Tesla Solar Roof is on life support as it pivot to panels",
       "title_en": "Tesla Solar Roof is on life support as it pivot to panels",
       "title_zh": "特斯拉太阳能屋顶因转向电池板而处于生命维持状态",
@@ -100,7 +134,7 @@
       "url": "https://www.36kr.com/newsflashes/3812843633991425",
       "published_at": "2026-05-17T03:56:03.236000Z",
       "first_seen_at": "2026-05-17T05:08:27.677568Z",
-      "last_seen_at": "2026-05-17T05:08:27.677568Z",
+      "last_seen_at": "2026-05-17T07:54:52.837047Z",
       "title_original": "长安汽车否认与千里科技合作",
       "title_en": null,
       "title_zh": "长安汽车否认与千里科技合作",
@@ -137,7 +171,7 @@
       "url": "http://vc.yiche.com/vplay/11142299.html",
       "published_at": null,
       "first_seen_at": "2026-05-16T20:10:52.316091Z",
-      "last_seen_at": "2026-05-17T05:08:27.677568Z",
+      "last_seen_at": "2026-05-17T07:54:52.837047Z",
       "title_original": "配后驱+智驾+闪充，第三代元PLUS会涨价还是加量不加价？",
       "title_en": null,
       "title_zh": "配后驱+智驾+闪充，第三代元PLUS会涨价还是加量不加价？",
@@ -157,7 +191,7 @@
       "url": "http://vc.yiche.com/vplay/11148463.html",
       "published_at": null,
       "first_seen_at": "2026-05-16T20:10:52.316091Z",
-      "last_seen_at": "2026-05-17T05:08:27.677568Z",
+      "last_seen_at": "2026-05-17T07:54:52.837047Z",
       "title_original": "初晓敏：MPV中的MVP？抢先试驾智界V9",
       "title_en": null,
       "title_zh": "初晓敏：MPV中的MVP？抢先试驾智界V9",
@@ -176,7 +210,7 @@
       "url": "http://vc.yiche.com/vplay/11137354.html",
       "published_at": null,
       "first_seen_at": "2026-05-16T20:10:52.316091Z",
-      "last_seen_at": "2026-05-17T05:08:27.677568Z",
+      "last_seen_at": "2026-05-17T07:54:52.837047Z",
       "title_original": "花15万买30万的体验，零跑C11探店值不值得冲",
       "title_en": null,
       "title_zh": "花15万买30万的体验，零跑C11探店值不值得冲",
@@ -195,7 +229,7 @@
       "url": "http://vc.yiche.com/vplay/11138546.html",
       "published_at": null,
       "first_seen_at": "2026-05-16T20:10:52.316091Z",
-      "last_seen_at": "2026-05-17T05:08:27.677568Z",
+      "last_seen_at": "2026-05-17T07:54:52.837047Z",
       "title_original": "纯电续航最高900公里 比亚迪海狮08新车申报",
       "title_en": null,
       "title_zh": "纯电续航最高900公里 比亚迪海狮08新车申报",
@@ -216,7 +250,7 @@
       "url": "http://vc.yiche.com/vplay/11147602.html",
       "published_at": null,
       "first_seen_at": "2026-05-16T20:10:52.316091Z",
-      "last_seen_at": "2026-05-17T05:08:27.677568Z",
+      "last_seen_at": "2026-05-17T07:54:52.837047Z",
       "title_original": "在丽江，与小鹏GX共赴一场“心有山海，从容而行”的成长之旅",
       "title_en": null,
       "title_zh": "在丽江，与小鹏GX共赴一场“心有山海，从容而行”的成长之旅",
@@ -234,7 +268,7 @@
       "url": "http://vc.yiche.com/vplay/11150474.html",
       "published_at": null,
       "first_seen_at": "2026-05-16T20:10:52.316091Z",
-      "last_seen_at": "2026-05-17T05:08:27.677568Z",
+      "last_seen_at": "2026-05-17T07:54:52.837047Z",
       "title_original": "家用“硬派”方盒子长城猛龙PLUS上市！限时换新价16.18万起！",
       "title_en": null,
       "title_zh": "家用“硬派”方盒子长城猛龙PLUS上市！限时换新价16.18万起！",
@@ -254,7 +288,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/c286173d04b7e97c/115055238-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-16T16:56:53.175425Z",
-      "last_seen_at": "2026-05-17T05:08:27.677568Z",
+      "last_seen_at": "2026-05-17T07:54:52.837047Z",
       "title_original": "没让我失望 问界M7提车作业分享",
       "title_en": null,
       "title_zh": "没让我失望 问界M7提车作业分享",
@@ -273,7 +307,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/136b9bc1ddd09c5b/115049582-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-16T16:56:53.175425Z",
-      "last_seen_at": "2026-05-17T05:08:27.677568Z",
+      "last_seen_at": "2026-05-17T07:54:52.837047Z",
       "title_original": "家用二胎神车 理想i6提车避坑指南",
       "title_en": null,
       "title_zh": "家用二胎神车 理想i6提车避坑指南",
@@ -292,7 +326,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/47c75a1119dde86b/115055829-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-16T16:56:53.175425Z",
-      "last_seen_at": "2026-05-17T05:08:27.677568Z",
+      "last_seen_at": "2026-05-17T07:54:52.837047Z",
       "title_original": "满足我的需求 iCAR V27提车作业分享",
       "title_en": null,
       "title_zh": "满足我的需求 iCAR V27提车作业分享",
@@ -310,7 +344,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/642b71978003cb26/114994915-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-16T16:56:53.175425Z",
-      "last_seen_at": "2026-05-17T05:08:27.677568Z",
+      "last_seen_at": "2026-05-17T07:54:52.837047Z",
       "title_original": "北京车展体验腾势D9 商务豪华感十足",
       "title_en": null,
       "title_zh": "北京车展体验腾势D9 商务豪华感十足",
@@ -329,7 +363,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/2e00c8526f6d44f3/114988701-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-16T16:56:53.175425Z",
-      "last_seen_at": "2026-05-17T05:08:27.677568Z",
+      "last_seen_at": "2026-05-17T07:54:52.837047Z",
       "title_original": "北京车展实拍 海豹08静态体验分享",
       "title_en": null,
       "title_zh": "北京车展实拍 海豹08静态体验分享",
@@ -368,7 +402,7 @@
       "url": "https://cnevpost.com/2026/05/16/byd-denza-hits-500000-vehicle-production-milestone",
       "published_at": "2026-05-16T12:55:33Z",
       "first_seen_at": "2026-05-16T14:04:34.336236Z",
-      "last_seen_at": "2026-05-17T05:08:27.677568Z",
+      "last_seen_at": "2026-05-17T07:54:52.837047Z",
       "title_original": "BYD Denza hits 500,000-vehicle production milestone with N9 flash charging edition",
       "title_en": "BYD Denza hits 500,000-vehicle production milestone with N9 flash charging edition",
       "title_zh": "比亚迪腾势N9闪充版产量突破50万辆",
@@ -388,7 +422,7 @@
       "url": "https://cnevpost.com/2026/05/16/onvo-begins-l80-deliveries",
       "published_at": "2026-05-16T12:36:35Z",
       "first_seen_at": "2026-05-16T14:04:34.336236Z",
-      "last_seen_at": "2026-05-17T05:08:27.677568Z",
+      "last_seen_at": "2026-05-17T07:54:52.837047Z",
       "title_original": "Nio Onvo begins L80 deliveries in China",
       "title_en": "Nio Onvo begins L80 deliveries in China",
       "title_zh": "Nio Onvo L80开始在中国交付",
@@ -408,7 +442,7 @@
       "url": "https://auto.gasgoo.com/news/202605/16I70457998C501.shtml",
       "published_at": "2026-05-16T12:25:20Z",
       "first_seen_at": "2026-05-17T05:08:27.677568Z",
-      "last_seen_at": "2026-05-17T05:08:27.677568Z",
+      "last_seen_at": "2026-05-17T07:54:52.837047Z",
       "title_original": "80亿注资，神龙能否迎来“第二春”？",
       "title_en": null,
       "title_zh": "80亿注资，神龙能否迎来“第二春”？",
@@ -426,7 +460,7 @@
       "url": "https://carnewschina.com/2026/05/16/catl-byd-headline-chinas-inaugural-golden-lithium-awards-with-next-gen-battery-wins",
       "published_at": "2026-05-16T09:30:03Z",
       "first_seen_at": "2026-05-16T09:55:48.569589Z",
-      "last_seen_at": "2026-05-17T05:08:27.677568Z",
+      "last_seen_at": "2026-05-17T07:54:52.837047Z",
       "title_original": "CATL, BYD headline China’s inaugural Golden Lithium Awards with next‑gen battery wins",
       "title_en": "CATL, BYD headline China’s inaugural Golden Lithium Awards with next‑gen battery wins",
       "title_zh": "宁德时代、比亚迪凭借新一代电池荣获中国首届金锂奖",
@@ -446,86 +480,13 @@
       "url": "https://carnewschina.com/2026/05/16/xiaomi-yu7-gt-arrives-at-dealerships-a-990-hp-performance-suv-set-for-late-may-launch",
       "published_at": "2026-05-16T08:03:25Z",
       "first_seen_at": "2026-05-16T09:55:48.569589Z",
-      "last_seen_at": "2026-05-17T05:08:27.677568Z",
+      "last_seen_at": "2026-05-17T07:54:52.837047Z",
       "title_original": "Xiaomi YU7 GT arrives at dealerships: a 990 hp performance SUV set for late May launch",
       "title_en": "Xiaomi YU7 GT arrives at dealerships: a 990 hp performance SUV set for late May launch",
       "title_zh": "小米 YU7 GT 抵达经销店：一款 990 马力的高性能 SUV 将于 5 月底推出",
       "title_bilingual": "小米 YU7 GT 抵达经销店：一款 990 马力的高性能 SUV 将于 5 月底推出 / Xiaomi YU7 GT arrives at dealerships: a 990 hp performance SUV set for late May launch",
       "topic_tags": [
         "新能源",
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "a40b339daab54f1a6625f32c25511bf172a140a9",
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "hackernews",
-      "title": "California's Battery Array Is as Powerful as 12 Nuclear Power Plants",
-      "url": "https://news.ycombinator.com/item?id=48156628",
-      "published_at": "2026-05-16T07:40:18.746000Z",
-      "first_seen_at": "2026-05-16T08:01:35.749513Z",
-      "last_seen_at": "2026-05-16T08:01:35.749513Z",
-      "title_original": "California's Battery Array Is as Powerful as 12 Nuclear Power Plants",
-      "title_en": "California's Battery Array Is as Powerful as 12 Nuclear Power Plants",
-      "title_zh": "加州电池阵列的功率相当于 12 座核电站",
-      "title_bilingual": "加州电池阵列的功率相当于 12 座核电站 / California's Battery Array Is as Powerful as 12 Nuclear Power Plants",
-      "topic_tags": [
-        "补能电池"
-      ]
-    },
-    {
-      "id": "51b08dc9a8d6394944f316e2c5ae50744b2d1ae4",
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "36kr",
-      "title": "蜜雪冰城：蜜桃四季春销量环比前日增长接近140%",
-      "url": "https://www.36kr.com/newsflashes/3811568732790272",
-      "published_at": "2026-05-16T06:49:05.487000Z",
-      "first_seen_at": "2026-05-16T08:01:35.749513Z",
-      "last_seen_at": "2026-05-17T01:23:00.580774Z",
-      "title_original": "蜜雪冰城：蜜桃四季春销量环比前日增长接近140%",
-      "title_en": null,
-      "title_zh": "蜜雪冰城：蜜桃四季春销量环比前日增长接近140%",
-      "title_bilingual": "蜜雪冰城：蜜桃四季春销量环比前日增长接近140%",
-      "topic_tags": [
-        "销量市场"
-      ]
-    },
-    {
-      "id": "84ad13c8097093eed12b8838e63f7c368c2ab7d5",
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "36kr",
-      "title": "秦力洪： 高内存带宽、真实算力、高效协同、稳定量产，是衡量先进车载芯片的四大硬核标准。",
-      "url": "https://www.36kr.com/newsflashes/3811510125010434",
-      "published_at": "2026-05-16T06:49:05.487000Z",
-      "first_seen_at": "2026-05-16T08:01:35.749513Z",
-      "last_seen_at": "2026-05-17T01:23:00.580774Z",
-      "title_original": "秦力洪： 高内存带宽、真实算力、高效协同、稳定量产，是衡量先进车载芯片的四大硬核标准。",
-      "title_en": null,
-      "title_zh": "秦力洪： 高内存带宽、真实算力、高效协同、稳定量产，是衡量先进车载芯片的四大硬核标准。",
-      "title_bilingual": "秦力洪： 高内存带宽、真实算力、高效协同、稳定量产，是衡量先进车载芯片的四大硬核标准。",
-      "topic_tags": [
-        "供应链"
-      ]
-    },
-    {
-      "id": "f54f6cd57bd3f11f87691dfd9d6cbf8c6074f3cf",
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "36kr",
-      "title": "华为鸿蒙智行首款旗舰级MPV智界V9上市",
-      "url": "https://www.36kr.com/newsflashes/3811563087798025",
-      "published_at": "2026-05-16T06:49:05.487000Z",
-      "first_seen_at": "2026-05-16T08:01:35.749513Z",
-      "last_seen_at": "2026-05-17T01:23:00.580774Z",
-      "title_original": "华为鸿蒙智行首款旗舰级MPV智界V9上市",
-      "title_en": null,
-      "title_zh": "华为鸿蒙智行首款旗舰级MPV智界V9上市",
-      "title_bilingual": "华为鸿蒙智行首款旗舰级MPV智界V9上市",
-      "topic_tags": [
         "车企竞争",
         "新车上市"
       ]
@@ -533,6 +494,44 @@
   ],
   "items_ai": [
     {
+      "id": "2dfee7ded54a0489964f3e40b44c6efe40c84b93",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "BYD crushes blogger in Court: second-instance ruling forces apology after 293,000 USD verdict",
+      "url": "https://carnewschina.com/2026/05/17/byd-crushes-blogger-in-court-second-instance-ruling-forces-apology-after-293000-usd-verdict",
+      "published_at": "2026-05-17T07:53:15Z",
+      "first_seen_at": "2026-05-17T07:54:52.837047Z",
+      "last_seen_at": "2026-05-17T07:54:52.837047Z",
+      "title_original": "BYD crushes blogger in Court: second-instance ruling forces apology after 293,000 USD verdict",
+      "title_en": "BYD crushes blogger in Court: second-instance ruling forces apology after 293,000 USD verdict",
+      "title_zh": "比亚迪当庭打压博主：二审判决赔付29.3万美元迫使其道歉",
+      "title_bilingual": "比亚迪当庭打压博主：二审判决赔付29.3万美元迫使其道歉 / BYD crushes blogger in Court: second-instance ruling forces apology after 293,000 USD verdict",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "ff597225537c554ef8e19d9a16876a01ee30836b",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "36kr",
+      "title": "特斯拉两年来首次上调Model Y美国售价",
+      "url": "https://www.36kr.com/newsflashes/3812950639927048",
+      "published_at": "2026-05-17T06:26:48.269000Z",
+      "first_seen_at": "2026-05-17T07:54:52.837047Z",
+      "last_seen_at": "2026-05-17T07:54:52.837047Z",
+      "title_original": "特斯拉两年来首次上调Model Y美国售价",
+      "title_en": null,
+      "title_zh": "特斯拉两年来首次上调Model Y美国售价",
+      "title_bilingual": "特斯拉两年来首次上调Model Y美国售价",
+      "topic_tags": [
+        "价格战",
+        "车企竞争"
+      ]
+    },
+    {
       "id": "e8fb0b1c68b61ab1e8aef049cdd8a18d62f6d0ff",
       "site_id": "newsnow",
       "site_name": "NewsNow",
@@ -541,7 +540,7 @@
       "url": "https://news.ycombinator.com/item?id=48165980",
       "published_at": "2026-05-17T05:08:38.655000Z",
       "first_seen_at": "2026-05-17T05:08:27.677568Z",
-      "last_seen_at": "2026-05-17T05:08:27.677568Z",
+      "last_seen_at": "2026-05-17T07:54:52.837047Z",
       "title_original": "Tesla Solar Roof is on life support as it pivot to panels",
       "title_en": "Tesla Solar Roof is on life support as it pivot to panels",
       "title_zh": "特斯拉太阳能屋顶因转向电池板而处于生命维持状态",
@@ -560,7 +559,7 @@
       "url": "https://www.36kr.com/newsflashes/3812843633991425",
       "published_at": "2026-05-17T03:56:03.236000Z",
       "first_seen_at": "2026-05-17T05:08:27.677568Z",
-      "last_seen_at": "2026-05-17T05:08:27.677568Z",
+      "last_seen_at": "2026-05-17T07:54:52.837047Z",
       "title_original": "长安汽车否认与千里科技合作",
       "title_en": null,
       "title_zh": "长安汽车否认与千里科技合作",
@@ -597,7 +596,7 @@
       "url": "http://vc.yiche.com/vplay/11142299.html",
       "published_at": null,
       "first_seen_at": "2026-05-16T20:10:52.316091Z",
-      "last_seen_at": "2026-05-17T05:08:27.677568Z",
+      "last_seen_at": "2026-05-17T07:54:52.837047Z",
       "title_original": "配后驱+智驾+闪充，第三代元PLUS会涨价还是加量不加价？",
       "title_en": null,
       "title_zh": "配后驱+智驾+闪充，第三代元PLUS会涨价还是加量不加价？",
@@ -617,7 +616,7 @@
       "url": "http://vc.yiche.com/vplay/11148463.html",
       "published_at": null,
       "first_seen_at": "2026-05-16T20:10:52.316091Z",
-      "last_seen_at": "2026-05-17T05:08:27.677568Z",
+      "last_seen_at": "2026-05-17T07:54:52.837047Z",
       "title_original": "初晓敏：MPV中的MVP？抢先试驾智界V9",
       "title_en": null,
       "title_zh": "初晓敏：MPV中的MVP？抢先试驾智界V9",
@@ -636,7 +635,7 @@
       "url": "http://vc.yiche.com/vplay/11137354.html",
       "published_at": null,
       "first_seen_at": "2026-05-16T20:10:52.316091Z",
-      "last_seen_at": "2026-05-17T05:08:27.677568Z",
+      "last_seen_at": "2026-05-17T07:54:52.837047Z",
       "title_original": "花15万买30万的体验，零跑C11探店值不值得冲",
       "title_en": null,
       "title_zh": "花15万买30万的体验，零跑C11探店值不值得冲",
@@ -655,7 +654,7 @@
       "url": "http://vc.yiche.com/vplay/11138546.html",
       "published_at": null,
       "first_seen_at": "2026-05-16T20:10:52.316091Z",
-      "last_seen_at": "2026-05-17T05:08:27.677568Z",
+      "last_seen_at": "2026-05-17T07:54:52.837047Z",
       "title_original": "纯电续航最高900公里 比亚迪海狮08新车申报",
       "title_en": null,
       "title_zh": "纯电续航最高900公里 比亚迪海狮08新车申报",
@@ -676,7 +675,7 @@
       "url": "http://vc.yiche.com/vplay/11147602.html",
       "published_at": null,
       "first_seen_at": "2026-05-16T20:10:52.316091Z",
-      "last_seen_at": "2026-05-17T05:08:27.677568Z",
+      "last_seen_at": "2026-05-17T07:54:52.837047Z",
       "title_original": "在丽江，与小鹏GX共赴一场“心有山海，从容而行”的成长之旅",
       "title_en": null,
       "title_zh": "在丽江，与小鹏GX共赴一场“心有山海，从容而行”的成长之旅",
@@ -694,7 +693,7 @@
       "url": "http://vc.yiche.com/vplay/11150474.html",
       "published_at": null,
       "first_seen_at": "2026-05-16T20:10:52.316091Z",
-      "last_seen_at": "2026-05-17T05:08:27.677568Z",
+      "last_seen_at": "2026-05-17T07:54:52.837047Z",
       "title_original": "家用“硬派”方盒子长城猛龙PLUS上市！限时换新价16.18万起！",
       "title_en": null,
       "title_zh": "家用“硬派”方盒子长城猛龙PLUS上市！限时换新价16.18万起！",
@@ -714,7 +713,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/c286173d04b7e97c/115055238-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-16T16:56:53.175425Z",
-      "last_seen_at": "2026-05-17T05:08:27.677568Z",
+      "last_seen_at": "2026-05-17T07:54:52.837047Z",
       "title_original": "没让我失望 问界M7提车作业分享",
       "title_en": null,
       "title_zh": "没让我失望 问界M7提车作业分享",
@@ -733,7 +732,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/136b9bc1ddd09c5b/115049582-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-16T16:56:53.175425Z",
-      "last_seen_at": "2026-05-17T05:08:27.677568Z",
+      "last_seen_at": "2026-05-17T07:54:52.837047Z",
       "title_original": "家用二胎神车 理想i6提车避坑指南",
       "title_en": null,
       "title_zh": "家用二胎神车 理想i6提车避坑指南",
@@ -752,7 +751,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/47c75a1119dde86b/115055829-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-16T16:56:53.175425Z",
-      "last_seen_at": "2026-05-17T05:08:27.677568Z",
+      "last_seen_at": "2026-05-17T07:54:52.837047Z",
       "title_original": "满足我的需求 iCAR V27提车作业分享",
       "title_en": null,
       "title_zh": "满足我的需求 iCAR V27提车作业分享",
@@ -770,7 +769,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/642b71978003cb26/114994915-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-16T16:56:53.175425Z",
-      "last_seen_at": "2026-05-17T05:08:27.677568Z",
+      "last_seen_at": "2026-05-17T07:54:52.837047Z",
       "title_original": "北京车展体验腾势D9 商务豪华感十足",
       "title_en": null,
       "title_zh": "北京车展体验腾势D9 商务豪华感十足",
@@ -789,7 +788,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/2e00c8526f6d44f3/114988701-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-16T16:56:53.175425Z",
-      "last_seen_at": "2026-05-17T05:08:27.677568Z",
+      "last_seen_at": "2026-05-17T07:54:52.837047Z",
       "title_original": "北京车展实拍 海豹08静态体验分享",
       "title_en": null,
       "title_zh": "北京车展实拍 海豹08静态体验分享",
@@ -828,7 +827,7 @@
       "url": "https://cnevpost.com/2026/05/16/byd-denza-hits-500000-vehicle-production-milestone",
       "published_at": "2026-05-16T12:55:33Z",
       "first_seen_at": "2026-05-16T14:04:34.336236Z",
-      "last_seen_at": "2026-05-17T05:08:27.677568Z",
+      "last_seen_at": "2026-05-17T07:54:52.837047Z",
       "title_original": "BYD Denza hits 500,000-vehicle production milestone with N9 flash charging edition",
       "title_en": "BYD Denza hits 500,000-vehicle production milestone with N9 flash charging edition",
       "title_zh": "比亚迪腾势N9闪充版产量突破50万辆",
@@ -848,7 +847,7 @@
       "url": "https://cnevpost.com/2026/05/16/onvo-begins-l80-deliveries",
       "published_at": "2026-05-16T12:36:35Z",
       "first_seen_at": "2026-05-16T14:04:34.336236Z",
-      "last_seen_at": "2026-05-17T05:08:27.677568Z",
+      "last_seen_at": "2026-05-17T07:54:52.837047Z",
       "title_original": "Nio Onvo begins L80 deliveries in China",
       "title_en": "Nio Onvo begins L80 deliveries in China",
       "title_zh": "Nio Onvo L80开始在中国交付",
@@ -868,7 +867,7 @@
       "url": "https://auto.gasgoo.com/news/202605/16I70457998C501.shtml",
       "published_at": "2026-05-16T12:25:20Z",
       "first_seen_at": "2026-05-17T05:08:27.677568Z",
-      "last_seen_at": "2026-05-17T05:08:27.677568Z",
+      "last_seen_at": "2026-05-17T07:54:52.837047Z",
       "title_original": "80亿注资，神龙能否迎来“第二春”？",
       "title_en": null,
       "title_zh": "80亿注资，神龙能否迎来“第二春”？",
@@ -886,7 +885,7 @@
       "url": "https://carnewschina.com/2026/05/16/catl-byd-headline-chinas-inaugural-golden-lithium-awards-with-next-gen-battery-wins",
       "published_at": "2026-05-16T09:30:03Z",
       "first_seen_at": "2026-05-16T09:55:48.569589Z",
-      "last_seen_at": "2026-05-17T05:08:27.677568Z",
+      "last_seen_at": "2026-05-17T07:54:52.837047Z",
       "title_original": "CATL, BYD headline China’s inaugural Golden Lithium Awards with next‑gen battery wins",
       "title_en": "CATL, BYD headline China’s inaugural Golden Lithium Awards with next‑gen battery wins",
       "title_zh": "宁德时代、比亚迪凭借新一代电池荣获中国首届金锂奖",
@@ -906,86 +905,13 @@
       "url": "https://carnewschina.com/2026/05/16/xiaomi-yu7-gt-arrives-at-dealerships-a-990-hp-performance-suv-set-for-late-may-launch",
       "published_at": "2026-05-16T08:03:25Z",
       "first_seen_at": "2026-05-16T09:55:48.569589Z",
-      "last_seen_at": "2026-05-17T05:08:27.677568Z",
+      "last_seen_at": "2026-05-17T07:54:52.837047Z",
       "title_original": "Xiaomi YU7 GT arrives at dealerships: a 990 hp performance SUV set for late May launch",
       "title_en": "Xiaomi YU7 GT arrives at dealerships: a 990 hp performance SUV set for late May launch",
       "title_zh": "小米 YU7 GT 抵达经销店：一款 990 马力的高性能 SUV 将于 5 月底推出",
       "title_bilingual": "小米 YU7 GT 抵达经销店：一款 990 马力的高性能 SUV 将于 5 月底推出 / Xiaomi YU7 GT arrives at dealerships: a 990 hp performance SUV set for late May launch",
       "topic_tags": [
         "新能源",
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "a40b339daab54f1a6625f32c25511bf172a140a9",
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "hackernews",
-      "title": "California's Battery Array Is as Powerful as 12 Nuclear Power Plants",
-      "url": "https://news.ycombinator.com/item?id=48156628",
-      "published_at": "2026-05-16T07:40:18.746000Z",
-      "first_seen_at": "2026-05-16T08:01:35.749513Z",
-      "last_seen_at": "2026-05-16T08:01:35.749513Z",
-      "title_original": "California's Battery Array Is as Powerful as 12 Nuclear Power Plants",
-      "title_en": "California's Battery Array Is as Powerful as 12 Nuclear Power Plants",
-      "title_zh": "加州电池阵列的功率相当于 12 座核电站",
-      "title_bilingual": "加州电池阵列的功率相当于 12 座核电站 / California's Battery Array Is as Powerful as 12 Nuclear Power Plants",
-      "topic_tags": [
-        "补能电池"
-      ]
-    },
-    {
-      "id": "51b08dc9a8d6394944f316e2c5ae50744b2d1ae4",
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "36kr",
-      "title": "蜜雪冰城：蜜桃四季春销量环比前日增长接近140%",
-      "url": "https://www.36kr.com/newsflashes/3811568732790272",
-      "published_at": "2026-05-16T06:49:05.487000Z",
-      "first_seen_at": "2026-05-16T08:01:35.749513Z",
-      "last_seen_at": "2026-05-17T01:23:00.580774Z",
-      "title_original": "蜜雪冰城：蜜桃四季春销量环比前日增长接近140%",
-      "title_en": null,
-      "title_zh": "蜜雪冰城：蜜桃四季春销量环比前日增长接近140%",
-      "title_bilingual": "蜜雪冰城：蜜桃四季春销量环比前日增长接近140%",
-      "topic_tags": [
-        "销量市场"
-      ]
-    },
-    {
-      "id": "84ad13c8097093eed12b8838e63f7c368c2ab7d5",
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "36kr",
-      "title": "秦力洪： 高内存带宽、真实算力、高效协同、稳定量产，是衡量先进车载芯片的四大硬核标准。",
-      "url": "https://www.36kr.com/newsflashes/3811510125010434",
-      "published_at": "2026-05-16T06:49:05.487000Z",
-      "first_seen_at": "2026-05-16T08:01:35.749513Z",
-      "last_seen_at": "2026-05-17T01:23:00.580774Z",
-      "title_original": "秦力洪： 高内存带宽、真实算力、高效协同、稳定量产，是衡量先进车载芯片的四大硬核标准。",
-      "title_en": null,
-      "title_zh": "秦力洪： 高内存带宽、真实算力、高效协同、稳定量产，是衡量先进车载芯片的四大硬核标准。",
-      "title_bilingual": "秦力洪： 高内存带宽、真实算力、高效协同、稳定量产，是衡量先进车载芯片的四大硬核标准。",
-      "topic_tags": [
-        "供应链"
-      ]
-    },
-    {
-      "id": "f54f6cd57bd3f11f87691dfd9d6cbf8c6074f3cf",
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "36kr",
-      "title": "华为鸿蒙智行首款旗舰级MPV智界V9上市",
-      "url": "https://www.36kr.com/newsflashes/3811563087798025",
-      "published_at": "2026-05-16T06:49:05.487000Z",
-      "first_seen_at": "2026-05-16T08:01:35.749513Z",
-      "last_seen_at": "2026-05-17T01:23:00.580774Z",
-      "title_original": "华为鸿蒙智行首款旗舰级MPV智界V9上市",
-      "title_en": null,
-      "title_zh": "华为鸿蒙智行首款旗舰级MPV智界V9上市",
-      "title_bilingual": "华为鸿蒙智行首款旗舰级MPV智界V9上市",
-      "topic_tags": [
         "车企竞争",
         "新车上市"
       ]
