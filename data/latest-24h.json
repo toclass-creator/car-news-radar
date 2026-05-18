@@ -1,69 +1,304 @@
 {
-  "generated_at": "2026-05-18T01:30:02.232916Z",
+  "generated_at": "2026-05-18T05:50:28.087387Z",
   "window_hours": 24,
-  "total_items": 25,
-  "total_items_ai_raw": 26,
-  "total_items_raw": 2863,
-  "total_items_all_mode": 2715,
+  "total_items": 34,
+  "total_items_ai_raw": 35,
+  "total_items_raw": 3017,
+  "total_items_all_mode": 2857,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 43371,
+  "archive_total": 44044,
   "site_count": 3,
-  "source_count": 6,
+  "source_count": 7,
   "site_stats": [
+    {
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "count": 17,
+      "raw_count": 18
+    },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
-      "count": 12,
-      "raw_count": 2670
+      "count": 13,
+      "raw_count": 2810
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
-      "count": 7,
-      "raw_count": 186
-    },
-    {
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "count": 6,
-      "raw_count": 7
+      "count": 4,
+      "raw_count": 189
     }
   ],
   "topic_tag_stats": [
     {
       "tag": "车企竞争",
-      "count": 15
+      "count": 21
     },
     {
       "tag": "新能源",
-      "count": 8
+      "count": 19
     },
     {
       "tag": "补能电池",
-      "count": 8
+      "count": 9
+    },
+    {
+      "tag": "新车上市",
+      "count": 7
     },
     {
       "tag": "供应链",
-      "count": 5
+      "count": 6
     },
     {
       "tag": "购车决策",
       "count": 5
     },
     {
-      "tag": "新车上市",
-      "count": 3
+      "tag": "销量市场",
+      "count": 4
     },
     {
       "tag": "价格战",
       "count": 2
-    },
-    {
-      "tag": "销量市场",
-      "count": 1
     }
   ],
   "items": [
+    {
+      "id": "0e7ece9cc56e745a07a0c7fc7f0c2b20408709f9",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "探店智己LS8！25万级满配旗舰SUV",
+      "url": "https://club.autohome.com.cn/bbs/thread/76ab8fac387b945f/115063210-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-05-18T05:50:28.087387Z",
+      "last_seen_at": "2026-05-18T05:50:28.087387Z",
+      "title_original": "探店智己LS8！25万级满配旗舰SUV",
+      "title_en": null,
+      "title_zh": "探店智己LS8！25万级满配旗舰SUV",
+      "title_bilingual": "探店智己LS8！25万级满配旗舰SUV",
+      "topic_tags": [
+        "新车上市"
+      ]
+    },
+    {
+      "id": "95c3517979af6a8b18041caa388e3a4b57b075e4",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Huawei-backed Maextro to launch S800 Grand Design in June",
+      "url": "https://cnevpost.com/2026/05/18/maextro-to-launch-s800-grand-design-jun",
+      "published_at": "2026-05-18T05:33:13Z",
+      "first_seen_at": "2026-05-18T05:50:28.087387Z",
+      "last_seen_at": "2026-05-18T05:50:28.087387Z",
+      "title_original": "Huawei-backed Maextro to launch S800 Grand Design in June",
+      "title_en": "Huawei-backed Maextro to launch S800 Grand Design in June",
+      "title_zh": "华为支持的 Maextro 将于 6 月推出 S800 Grand Design",
+      "title_bilingual": "华为支持的 Maextro 将于 6 月推出 S800 Grand Design / Huawei-backed Maextro to launch S800 Grand Design in June",
+      "topic_tags": [
+        "新能源"
+      ]
+    },
+    {
+      "id": "bd790b06d8ec5fdbc8d783d4c5d6a2f286382edc",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "BYD hired Nissan K‑Car veteran to crack Japan’s Racco EV market",
+      "url": "https://carnewschina.com/2026/05/18/byd-hired-nissan-k-car-veteran-to-crack-japans-racco-ev-market",
+      "published_at": "2026-05-18T04:38:12Z",
+      "first_seen_at": "2026-05-18T05:50:28.087387Z",
+      "last_seen_at": "2026-05-18T05:50:28.087387Z",
+      "title_original": "BYD hired Nissan K‑Car veteran to crack Japan’s Racco EV market",
+      "title_en": "BYD hired Nissan K‑Car veteran to crack Japan’s Racco EV market",
+      "title_zh": "比亚迪聘请日产 K‑Car 资深人士进军日本 Racco 电动汽车市场",
+      "title_bilingual": "比亚迪聘请日产 K‑Car 资深人士进军日本 Racco 电动汽车市场 / BYD hired Nissan K‑Car veteran to crack Japan’s Racco EV market",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "123b9c8726e420aadcfb9414f5e67f6ec17ac673",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Leapmotor’s minivan D99 interior images released: featuring rotating seats",
+      "url": "https://carnewschina.com/2026/05/18/leapmotors-minivan-d99-interior-images-released-featuring-rotating-seats",
+      "published_at": "2026-05-18T04:33:39Z",
+      "first_seen_at": "2026-05-18T05:50:28.087387Z",
+      "last_seen_at": "2026-05-18T05:50:28.087387Z",
+      "title_original": "Leapmotor’s minivan D99 interior images released: featuring rotating seats",
+      "title_en": "Leapmotor’s minivan D99 interior images released: featuring rotating seats",
+      "title_zh": "零跑微客D99内饰图曝光：配备旋转座椅",
+      "title_bilingual": "零跑微客D99内饰图曝光：配备旋转座椅 / Leapmotor’s minivan D99 interior images released: featuring rotating seats",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "d7cc14584f8b1994d1a367e6041d1c902ae8ca6c",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Analysts expect Onvo L80 monthly sales trajectory to mirror L90",
+      "url": "https://cnevpost.com/2026/05/18/analysts-expect-onvo-l80-sales-trajectory-mirror-l90",
+      "published_at": "2026-05-18T03:56:43Z",
+      "first_seen_at": "2026-05-18T05:50:28.087387Z",
+      "last_seen_at": "2026-05-18T05:50:28.087387Z",
+      "title_original": "Analysts expect Onvo L80 monthly sales trajectory to mirror L90",
+      "title_en": "Analysts expect Onvo L80 monthly sales trajectory to mirror L90",
+      "title_zh": "分析师预计 Onvo L80 月度销量轨迹将与 L90 类似",
+      "title_bilingual": "分析师预计 Onvo L80 月度销量轨迹将与 L90 类似 / Analysts expect Onvo L80 monthly sales trajectory to mirror L90",
+      "topic_tags": [
+        "新能源",
+        "销量市场"
+      ]
+    },
+    {
+      "id": "b3b8d4ba2180ef87755e197da5cfd17b76a347d7",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Beyond CATL and BYD: China’s massive battery fair reveals shift from EV hype to manufacturing dominance",
+      "url": "https://carnewschina.com/2026/05/18/beyond-catl-and-byd-chinas-massive-battery-fair-reveals-shift-from-ev-hype-to-manufacturing-dominance",
+      "published_at": "2026-05-18T03:24:02Z",
+      "first_seen_at": "2026-05-18T05:50:28.087387Z",
+      "last_seen_at": "2026-05-18T05:50:28.087387Z",
+      "title_original": "Beyond CATL and BYD: China’s massive battery fair reveals shift from EV hype to manufacturing dominance",
+      "title_en": "Beyond CATL and BYD: China’s massive battery fair reveals shift from EV hype to manufacturing dominance",
+      "title_zh": "超越宁德时代和比亚迪：中国大型电池展揭示了从电动汽车炒作到制造主导地位的转变",
+      "title_bilingual": "超越宁德时代和比亚迪：中国大型电池展揭示了从电动汽车炒作到制造主导地位的转变 / Beyond CATL and BYD: China’s massive battery fair reveals shift from EV hype to manufacturing dominance",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争",
+        "供应链"
+      ]
+    },
+    {
+      "id": "3d992dc20d6eeac4083056026dac0658e0f8b1e1",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Leapmotor Hong Kong shares plunge to 2-month low as Q1 loss widens",
+      "url": "https://cnevpost.com/2026/05/18/leapmotor-hk-shares-plunge-q1-loss-widens",
+      "published_at": "2026-05-18T03:17:16Z",
+      "first_seen_at": "2026-05-18T05:50:28.087387Z",
+      "last_seen_at": "2026-05-18T05:50:28.087387Z",
+      "title_original": "Leapmotor Hong Kong shares plunge to 2-month low as Q1 loss widens",
+      "title_en": "Leapmotor Hong Kong shares plunge to 2-month low as Q1 loss widens",
+      "title_zh": "一季度亏损扩大 零跑港股跌至两个月低位",
+      "title_bilingual": "一季度亏损扩大 零跑港股跌至两个月低位 / Leapmotor Hong Kong shares plunge to 2-month low as Q1 loss widens",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "ee566be63719688de7e7f0fde4ac1f316dfbcc25",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Li Auto shares plunge in Hong Kong after updated L9 SUV launch",
+      "url": "https://cnevpost.com/2026/05/18/li-auto-shares-plunge-hk-after-updated-l9-launch",
+      "published_at": "2026-05-18T02:42:30Z",
+      "first_seen_at": "2026-05-18T05:50:28.087387Z",
+      "last_seen_at": "2026-05-18T05:50:28.087387Z",
+      "title_original": "Li Auto shares plunge in Hong Kong after updated L9 SUV launch",
+      "title_en": "Li Auto shares plunge in Hong Kong after updated L9 SUV launch",
+      "title_zh": "更新版L9 SUV推出后，理想汽车股价在香港暴跌",
+      "title_bilingual": "更新版L9 SUV推出后，理想汽车股价在香港暴跌 / Li Auto shares plunge in Hong Kong after updated L9 SUV launch",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "8978344082e9ef64a2a38b11f6511b3ef1c51b4c",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Xiaomi YU7 GT to launch on May 21 with 300 km/h top speed and 705 km range",
+      "url": "https://carnewschina.com/2026/05/18/xiaomi-yu7-gt-to-launch-on-may-21-with-300-km-h-top-speed-and-705-km-range",
+      "published_at": "2026-05-18T02:29:38Z",
+      "first_seen_at": "2026-05-18T05:50:28.087387Z",
+      "last_seen_at": "2026-05-18T05:50:28.087387Z",
+      "title_original": "Xiaomi YU7 GT to launch on May 21 with 300 km/h top speed and 705 km range",
+      "title_en": "Xiaomi YU7 GT to launch on May 21 with 300 km/h top speed and 705 km range",
+      "title_zh": "小米 YU7 GT 将于 5 月 21 日上市，最高时速 300 公里，续航里程 705 公里",
+      "title_bilingual": "小米 YU7 GT 将于 5 月 21 日上市，最高时速 300 公里，续航里程 705 公里 / Xiaomi YU7 GT to launch on May 21 with 300 km/h top speed and 705 km range",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "9420d3aed43e9d96321ab853455f3429ec0b7e8d",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Nio's third-gen ES8 deliveries approach 110,000 units",
+      "url": "https://cnevpost.com/2026/05/18/nio-third-gen-es8-deliveries-approach-110000",
+      "published_at": "2026-05-18T02:07:31Z",
+      "first_seen_at": "2026-05-18T05:50:28.087387Z",
+      "last_seen_at": "2026-05-18T05:50:28.087387Z",
+      "title_original": "Nio's third-gen ES8 deliveries approach 110,000 units",
+      "title_en": "Nio's third-gen ES8 deliveries approach 110,000 units",
+      "title_zh": "蔚来第三代ES8交付量逼近11万辆",
+      "title_bilingual": "蔚来第三代ES8交付量逼近11万辆 / Nio's third-gen ES8 deliveries approach 110,000 units",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "4a872dfa5d59d05f4ccb5f67a3ca34ad54e17c55",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "BYD Blade Battery teardown reveals 170-cell pack after 40-hour freeze, team defends 8-hour dismantling",
+      "url": "https://carnewschina.com/2026/05/18/byd-blade-battery-teardown-reveals-170-cell-pack-after-40-hour-freeze-team-defends-8-hour-dismantling",
+      "published_at": "2026-05-18T02:00:00Z",
+      "first_seen_at": "2026-05-18T05:50:28.087387Z",
+      "last_seen_at": "2026-05-18T05:50:28.087387Z",
+      "title_original": "BYD Blade Battery teardown reveals 170-cell pack after 40-hour freeze, team defends 8-hour dismantling",
+      "title_en": "BYD Blade Battery teardown reveals 170-cell pack after 40-hour freeze, team defends 8-hour dismantling",
+      "title_zh": "比亚迪刀片电池拆解揭示170电芯冷冻40小时后团队捍卫8小时拆解",
+      "title_bilingual": "比亚迪刀片电池拆解揭示170电芯冷冻40小时后团队捍卫8小时拆解 / BYD Blade Battery teardown reveals 170-cell pack after 40-hour freeze, team defends 8-hour dismantling",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "bcd60521d820c35434fb165523ed4ea6bc5704f6",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Xiaomi sets May 21 launch for high-performance YU7 GT SUV",
+      "url": "https://cnevpost.com/2026/05/18/xiaomi-sets-may-21-launch-for-yu7-gt-suv",
+      "published_at": "2026-05-18T01:33:37Z",
+      "first_seen_at": "2026-05-18T05:50:28.087387Z",
+      "last_seen_at": "2026-05-18T05:50:28.087387Z",
+      "title_original": "Xiaomi sets May 21 launch for high-performance YU7 GT SUV",
+      "title_en": "Xiaomi sets May 21 launch for high-performance YU7 GT SUV",
+      "title_zh": "小米高性能SUV YU7 GT将于5月21日上市",
+      "title_bilingual": "小米高性能SUV YU7 GT将于5月21日上市 / Xiaomi sets May 21 launch for high-performance YU7 GT SUV",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
     {
       "id": "1846459f3e780c534d18328fdd229e8a08a5bc38",
       "site_id": "newsnow",
@@ -92,7 +327,7 @@
       "url": "http://vc.yiche.com/vplay/11141341.html",
       "published_at": null,
       "first_seen_at": "2026-05-17T20:12:26.255787Z",
-      "last_seen_at": "2026-05-18T01:30:02.232916Z",
+      "last_seen_at": "2026-05-18T05:50:28.087387Z",
       "title_original": "充电快、空间大 方程豹钛7闪充版还有啥优缺点？推荐755km后驱闪充版！",
       "title_en": null,
       "title_zh": "充电快、空间大 方程豹钛7闪充版还有啥优缺点？推荐755km后驱闪充版！",
@@ -110,7 +345,7 @@
       "url": "http://vc.yiche.com/vplay/11150038.html",
       "published_at": null,
       "first_seen_at": "2026-05-17T20:12:26.255787Z",
-      "last_seen_at": "2026-05-18T01:30:02.232916Z",
+      "last_seen_at": "2026-05-18T05:50:28.087387Z",
       "title_original": "中国最大纯电SUV！蔚来ES9重新定义智能旗舰",
       "title_en": null,
       "title_zh": "中国最大纯电SUV！蔚来ES9重新定义智能旗舰",
@@ -130,7 +365,7 @@
       "url": "http://vc.yiche.com/vplay/11140477.html",
       "published_at": null,
       "first_seen_at": "2026-05-17T20:12:26.255787Z",
-      "last_seen_at": "2026-05-18T01:30:02.232916Z",
+      "last_seen_at": "2026-05-18T05:50:28.087387Z",
       "title_original": "预算12万，比亚迪元PLUS和丰田铂智3X，选谁更值？",
       "title_en": null,
       "title_zh": "预算12万，比亚迪元PLUS和丰田铂智3X，选谁更值？",
@@ -149,7 +384,7 @@
       "url": "http://vc.yiche.com/vplay/11140791.html",
       "published_at": null,
       "first_seen_at": "2026-05-17T20:12:26.255787Z",
-      "last_seen_at": "2026-05-18T01:30:02.232916Z",
+      "last_seen_at": "2026-05-18T05:50:28.087387Z",
       "title_original": "15万买新能源SUV？这五款千万别错过",
       "title_en": null,
       "title_zh": "15万买新能源SUV？这五款千万别错过",
@@ -168,7 +403,7 @@
       "url": "https://carnewschina.com/2026/05/17/denza-hits-500000-units-as-n9-flash-charging-refresh-launches-may-18",
       "published_at": "2026-05-17T19:17:58Z",
       "first_seen_at": "2026-05-17T20:12:26.255787Z",
-      "last_seen_at": "2026-05-18T01:30:02.232916Z",
+      "last_seen_at": "2026-05-18T05:50:28.087387Z",
       "title_original": "Denza hits 500,000 units as N9 Flash Charging refresh launches May 18",
       "title_en": "Denza hits 500,000 units as N9 Flash Charging refresh launches May 18",
       "title_zh": "腾势 N9 闪充更新版 5 月 18 日上市，销量突破 50 万台",
@@ -208,7 +443,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/e9066a61f78fe60a/115038883-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-17T16:56:00.198970Z",
-      "last_seen_at": "2026-05-18T01:30:02.232916Z",
+      "last_seen_at": "2026-05-18T05:50:28.087387Z",
       "title_original": "真实个人观点 理想L6优缺点分享",
       "title_en": null,
       "title_zh": "真实个人观点 理想L6优缺点分享",
@@ -226,7 +461,7 @@
       "url": "https://i.autohome.com.cn/211570813",
       "published_at": null,
       "first_seen_at": "2026-05-17T16:56:00.198970Z",
-      "last_seen_at": "2026-05-18T01:30:02.232916Z",
+      "last_seen_at": "2026-05-18T05:50:28.087387Z",
       "title_original": "补齐电控短板 新升仕703RR降价增配",
       "title_en": null,
       "title_zh": "补齐电控短板 新升仕703RR降价增配",
@@ -245,7 +480,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/23f428318ae58463/115095151-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-17T16:56:00.198970Z",
-      "last_seen_at": "2026-05-18T01:30:02.232916Z",
+      "last_seen_at": "2026-05-18T05:50:28.087387Z",
       "title_original": "奇瑞经典一款新能源 小蚂蚁模型欣赏",
       "title_en": null,
       "title_zh": "奇瑞经典一款新能源 小蚂蚁模型欣赏",
@@ -264,7 +499,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/22f091c5b1b30a19/115093249-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-17T16:56:00.198970Z",
-      "last_seen_at": "2026-05-18T01:30:02.232916Z",
+      "last_seen_at": "2026-05-18T05:50:28.087387Z",
       "title_original": "一辈子的梦想 长城炮闯川藏南线318",
       "title_en": null,
       "title_zh": "一辈子的梦想 长城炮闯川藏南线318",
@@ -282,7 +517,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/61ba72d53c44f076/115089534-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-17T16:56:00.198970Z",
-      "last_seen_at": "2026-05-18T01:30:02.232916Z",
+      "last_seen_at": "2026-05-18T05:50:28.087387Z",
       "title_original": "北京自驾承德 打卡长城古寺湖光山色",
       "title_en": null,
       "title_zh": "北京自驾承德 打卡长城古寺湖光山色",
@@ -300,7 +535,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/89f9df7ba512960f/115055544-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-17T16:56:00.198970Z",
-      "last_seen_at": "2026-05-18T01:30:02.232916Z",
+      "last_seen_at": "2026-05-18T05:50:28.087387Z",
       "title_original": "外观很帅气 iCAR V27提车作业分享",
       "title_en": null,
       "title_zh": "外观很帅气 iCAR V27提车作业分享",
@@ -318,7 +553,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/09dced88420372f8/115115204-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-17T16:56:00.198970Z",
-      "last_seen_at": "2026-05-18T01:30:02.232916Z",
+      "last_seen_at": "2026-05-18T05:50:28.087387Z",
       "title_original": "底盘调校偏舒适 瑞虎9提车作业分享",
       "title_en": null,
       "title_zh": "底盘调校偏舒适 瑞虎9提车作业分享",
@@ -337,7 +572,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/f5ce9ff76acedfea/115038299-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-17T16:56:00.198970Z",
-      "last_seen_at": "2026-05-18T01:30:02.232916Z",
+      "last_seen_at": "2026-05-18T05:50:28.087387Z",
       "title_original": "“底盘复新”记 根治理想L8空气悬架",
       "title_en": null,
       "title_zh": "“底盘复新”记 根治理想L8空气悬架",
@@ -356,7 +591,7 @@
       "url": "https://carnewschina.com/2026/05/17/volkswagen-backed-gotion-launches-gnascent-sodium-ion-battery-up-to-261-wh-kg-with-mass-production-ready",
       "published_at": "2026-05-17T11:42:58Z",
       "first_seen_at": "2026-05-17T12:10:52.068259Z",
-      "last_seen_at": "2026-05-18T01:30:02.232916Z",
+      "last_seen_at": "2026-05-18T05:50:28.087387Z",
       "title_original": "Volkswagen-backed Gotion launches “Gnascent” sodium-ion battery: up to 261 Wh/kg with mass production ready",
       "title_en": "Volkswagen-backed Gotion launches “Gnascent” sodium-ion battery: up to 261 Wh/kg with mass production ready",
       "title_zh": "大众支持的国轩推出“Gnascent”钠离子电池：高达261 Wh/kg，可量产",
@@ -395,7 +630,7 @@
       "url": "https://carnewschina.com/2026/05/17/byd-blade-2-0-survives-8-hour-violent-teardown-bloggers-grind-saw-hammer-with-no-fire",
       "published_at": "2026-05-17T08:42:35Z",
       "first_seen_at": "2026-05-17T09:45:06.329430Z",
-      "last_seen_at": "2026-05-18T01:30:02.232916Z",
+      "last_seen_at": "2026-05-18T05:50:28.087387Z",
       "title_original": "BYD Blade 2.0 survives 8‑hour violent teardown: bloggers grind, saw, hammer with no fire",
       "title_en": "BYD Blade 2.0 survives 8‑hour violent teardown: bloggers grind, saw, hammer with no fire",
       "title_zh": "比亚迪Blade 2.0历经8小时暴力拆解：博主不开火地磨、锯、锤",
@@ -414,7 +649,7 @@
       "url": "https://carnewschina.com/2026/05/17/byd-crushes-blogger-in-court-second-instance-ruling-forces-apology-after-293000-usd-verdict",
       "published_at": "2026-05-17T07:53:15Z",
       "first_seen_at": "2026-05-17T11:03:45.415766Z",
-      "last_seen_at": "2026-05-18T01:30:02.232916Z",
+      "last_seen_at": "2026-05-18T05:50:28.087387Z",
       "title_original": "BYD wins appeal against blogger, court orders apology after 293,000 USD verdict",
       "title_en": "BYD wins appeal against blogger, court orders apology after 293,000 USD verdict",
       "title_zh": "比亚迪赢得对博主的上诉，法院在判决 293,000 美元后下令道歉",
@@ -452,7 +687,7 @@
       "url": "https://auto.gasgoo.com/news/202605/17I70457977C109.shtml",
       "published_at": "2026-05-17T07:14:03Z",
       "first_seen_at": "2026-05-17T23:29:45.727275Z",
-      "last_seen_at": "2026-05-18T01:30:02.232916Z",
+      "last_seen_at": "2026-05-18T05:50:28.087387Z",
       "title_original": "盖世周报 | 特朗普完成访华；立讯精密拟收购京西重工59.5%股份",
       "title_en": null,
       "title_zh": "盖世周报 | 特朗普完成访华；立讯精密拟收购京西重工59.5%股份",
@@ -477,68 +712,247 @@
       "title_bilingual": "特斯拉两年来首次上调Model Y美国售价",
       "topic_tags": [
         "价格战",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "e8fb0b1c68b61ab1e8aef049cdd8a18d62f6d0ff",
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "hackernews",
-      "title": "Tesla Solar Roof is on life support as it pivot to panels",
-      "url": "https://news.ycombinator.com/item?id=48165980",
-      "published_at": "2026-05-17T05:08:38.655000Z",
-      "first_seen_at": "2026-05-17T05:08:27.677568Z",
-      "last_seen_at": "2026-05-18T01:30:02.232916Z",
-      "title_original": "Tesla Solar Roof is on life support as it pivot to panels",
-      "title_en": "Tesla Solar Roof is on life support as it pivot to panels",
-      "title_zh": "特斯拉太阳能屋顶因转向电池板而处于生命维持状态",
-      "title_bilingual": "特斯拉太阳能屋顶因转向电池板而处于生命维持状态 / Tesla Solar Roof is on life support as it pivot to panels",
-      "topic_tags": [
-        "补能电池",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "c18550b08744c581afa9962ec928a11a24231895",
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "36kr",
-      "title": "长安汽车否认与千里科技合作",
-      "url": "https://www.36kr.com/newsflashes/3812843633991425",
-      "published_at": "2026-05-17T03:56:03.236000Z",
-      "first_seen_at": "2026-05-17T05:08:27.677568Z",
-      "last_seen_at": "2026-05-17T07:54:52.837047Z",
-      "title_original": "长安汽车否认与千里科技合作",
-      "title_en": null,
-      "title_zh": "长安汽车否认与千里科技合作",
-      "title_bilingual": "长安汽车否认与千里科技合作",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "851d7264dc4b6ffce57958686035976997728508",
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "36kr",
-      "title": "蔚来：已在全国建成8870座充换电站",
-      "url": "https://www.36kr.com/newsflashes/3812695911816707",
-      "published_at": "2026-05-17T01:56:03.236000Z",
-      "first_seen_at": "2026-05-17T05:08:27.677568Z",
-      "last_seen_at": "2026-05-17T05:08:27.677568Z",
-      "title_original": "蔚来：已在全国建成8870座充换电站",
-      "title_en": null,
-      "title_zh": "蔚来：已在全国建成8870座充换电站",
-      "title_bilingual": "蔚来：已在全国建成8870座充换电站",
-      "topic_tags": [
-        "补能电池",
         "车企竞争"
       ]
     }
   ],
   "items_ai": [
     {
+      "id": "0e7ece9cc56e745a07a0c7fc7f0c2b20408709f9",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "探店智己LS8！25万级满配旗舰SUV",
+      "url": "https://club.autohome.com.cn/bbs/thread/76ab8fac387b945f/115063210-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-05-18T05:50:28.087387Z",
+      "last_seen_at": "2026-05-18T05:50:28.087387Z",
+      "title_original": "探店智己LS8！25万级满配旗舰SUV",
+      "title_en": null,
+      "title_zh": "探店智己LS8！25万级满配旗舰SUV",
+      "title_bilingual": "探店智己LS8！25万级满配旗舰SUV",
+      "topic_tags": [
+        "新车上市"
+      ]
+    },
+    {
+      "id": "95c3517979af6a8b18041caa388e3a4b57b075e4",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Huawei-backed Maextro to launch S800 Grand Design in June",
+      "url": "https://cnevpost.com/2026/05/18/maextro-to-launch-s800-grand-design-jun",
+      "published_at": "2026-05-18T05:33:13Z",
+      "first_seen_at": "2026-05-18T05:50:28.087387Z",
+      "last_seen_at": "2026-05-18T05:50:28.087387Z",
+      "title_original": "Huawei-backed Maextro to launch S800 Grand Design in June",
+      "title_en": "Huawei-backed Maextro to launch S800 Grand Design in June",
+      "title_zh": "华为支持的 Maextro 将于 6 月推出 S800 Grand Design",
+      "title_bilingual": "华为支持的 Maextro 将于 6 月推出 S800 Grand Design / Huawei-backed Maextro to launch S800 Grand Design in June",
+      "topic_tags": [
+        "新能源"
+      ]
+    },
+    {
+      "id": "bd790b06d8ec5fdbc8d783d4c5d6a2f286382edc",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "BYD hired Nissan K‑Car veteran to crack Japan’s Racco EV market",
+      "url": "https://carnewschina.com/2026/05/18/byd-hired-nissan-k-car-veteran-to-crack-japans-racco-ev-market",
+      "published_at": "2026-05-18T04:38:12Z",
+      "first_seen_at": "2026-05-18T05:50:28.087387Z",
+      "last_seen_at": "2026-05-18T05:50:28.087387Z",
+      "title_original": "BYD hired Nissan K‑Car veteran to crack Japan’s Racco EV market",
+      "title_en": "BYD hired Nissan K‑Car veteran to crack Japan’s Racco EV market",
+      "title_zh": "比亚迪聘请日产 K‑Car 资深人士进军日本 Racco 电动汽车市场",
+      "title_bilingual": "比亚迪聘请日产 K‑Car 资深人士进军日本 Racco 电动汽车市场 / BYD hired Nissan K‑Car veteran to crack Japan’s Racco EV market",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "123b9c8726e420aadcfb9414f5e67f6ec17ac673",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Leapmotor’s minivan D99 interior images released: featuring rotating seats",
+      "url": "https://carnewschina.com/2026/05/18/leapmotors-minivan-d99-interior-images-released-featuring-rotating-seats",
+      "published_at": "2026-05-18T04:33:39Z",
+      "first_seen_at": "2026-05-18T05:50:28.087387Z",
+      "last_seen_at": "2026-05-18T05:50:28.087387Z",
+      "title_original": "Leapmotor’s minivan D99 interior images released: featuring rotating seats",
+      "title_en": "Leapmotor’s minivan D99 interior images released: featuring rotating seats",
+      "title_zh": "零跑微客D99内饰图曝光：配备旋转座椅",
+      "title_bilingual": "零跑微客D99内饰图曝光：配备旋转座椅 / Leapmotor’s minivan D99 interior images released: featuring rotating seats",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "d7cc14584f8b1994d1a367e6041d1c902ae8ca6c",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Analysts expect Onvo L80 monthly sales trajectory to mirror L90",
+      "url": "https://cnevpost.com/2026/05/18/analysts-expect-onvo-l80-sales-trajectory-mirror-l90",
+      "published_at": "2026-05-18T03:56:43Z",
+      "first_seen_at": "2026-05-18T05:50:28.087387Z",
+      "last_seen_at": "2026-05-18T05:50:28.087387Z",
+      "title_original": "Analysts expect Onvo L80 monthly sales trajectory to mirror L90",
+      "title_en": "Analysts expect Onvo L80 monthly sales trajectory to mirror L90",
+      "title_zh": "分析师预计 Onvo L80 月度销量轨迹将与 L90 类似",
+      "title_bilingual": "分析师预计 Onvo L80 月度销量轨迹将与 L90 类似 / Analysts expect Onvo L80 monthly sales trajectory to mirror L90",
+      "topic_tags": [
+        "新能源",
+        "销量市场"
+      ]
+    },
+    {
+      "id": "b3b8d4ba2180ef87755e197da5cfd17b76a347d7",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Beyond CATL and BYD: China’s massive battery fair reveals shift from EV hype to manufacturing dominance",
+      "url": "https://carnewschina.com/2026/05/18/beyond-catl-and-byd-chinas-massive-battery-fair-reveals-shift-from-ev-hype-to-manufacturing-dominance",
+      "published_at": "2026-05-18T03:24:02Z",
+      "first_seen_at": "2026-05-18T05:50:28.087387Z",
+      "last_seen_at": "2026-05-18T05:50:28.087387Z",
+      "title_original": "Beyond CATL and BYD: China’s massive battery fair reveals shift from EV hype to manufacturing dominance",
+      "title_en": "Beyond CATL and BYD: China’s massive battery fair reveals shift from EV hype to manufacturing dominance",
+      "title_zh": "超越宁德时代和比亚迪：中国大型电池展揭示了从电动汽车炒作到制造主导地位的转变",
+      "title_bilingual": "超越宁德时代和比亚迪：中国大型电池展揭示了从电动汽车炒作到制造主导地位的转变 / Beyond CATL and BYD: China’s massive battery fair reveals shift from EV hype to manufacturing dominance",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争",
+        "供应链"
+      ]
+    },
+    {
+      "id": "3d992dc20d6eeac4083056026dac0658e0f8b1e1",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Leapmotor Hong Kong shares plunge to 2-month low as Q1 loss widens",
+      "url": "https://cnevpost.com/2026/05/18/leapmotor-hk-shares-plunge-q1-loss-widens",
+      "published_at": "2026-05-18T03:17:16Z",
+      "first_seen_at": "2026-05-18T05:50:28.087387Z",
+      "last_seen_at": "2026-05-18T05:50:28.087387Z",
+      "title_original": "Leapmotor Hong Kong shares plunge to 2-month low as Q1 loss widens",
+      "title_en": "Leapmotor Hong Kong shares plunge to 2-month low as Q1 loss widens",
+      "title_zh": "一季度亏损扩大 零跑港股跌至两个月低位",
+      "title_bilingual": "一季度亏损扩大 零跑港股跌至两个月低位 / Leapmotor Hong Kong shares plunge to 2-month low as Q1 loss widens",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "ee566be63719688de7e7f0fde4ac1f316dfbcc25",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Li Auto shares plunge in Hong Kong after updated L9 SUV launch",
+      "url": "https://cnevpost.com/2026/05/18/li-auto-shares-plunge-hk-after-updated-l9-launch",
+      "published_at": "2026-05-18T02:42:30Z",
+      "first_seen_at": "2026-05-18T05:50:28.087387Z",
+      "last_seen_at": "2026-05-18T05:50:28.087387Z",
+      "title_original": "Li Auto shares plunge in Hong Kong after updated L9 SUV launch",
+      "title_en": "Li Auto shares plunge in Hong Kong after updated L9 SUV launch",
+      "title_zh": "更新版L9 SUV推出后，理想汽车股价在香港暴跌",
+      "title_bilingual": "更新版L9 SUV推出后，理想汽车股价在香港暴跌 / Li Auto shares plunge in Hong Kong after updated L9 SUV launch",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "8978344082e9ef64a2a38b11f6511b3ef1c51b4c",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Xiaomi YU7 GT to launch on May 21 with 300 km/h top speed and 705 km range",
+      "url": "https://carnewschina.com/2026/05/18/xiaomi-yu7-gt-to-launch-on-may-21-with-300-km-h-top-speed-and-705-km-range",
+      "published_at": "2026-05-18T02:29:38Z",
+      "first_seen_at": "2026-05-18T05:50:28.087387Z",
+      "last_seen_at": "2026-05-18T05:50:28.087387Z",
+      "title_original": "Xiaomi YU7 GT to launch on May 21 with 300 km/h top speed and 705 km range",
+      "title_en": "Xiaomi YU7 GT to launch on May 21 with 300 km/h top speed and 705 km range",
+      "title_zh": "小米 YU7 GT 将于 5 月 21 日上市，最高时速 300 公里，续航里程 705 公里",
+      "title_bilingual": "小米 YU7 GT 将于 5 月 21 日上市，最高时速 300 公里，续航里程 705 公里 / Xiaomi YU7 GT to launch on May 21 with 300 km/h top speed and 705 km range",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "9420d3aed43e9d96321ab853455f3429ec0b7e8d",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Nio's third-gen ES8 deliveries approach 110,000 units",
+      "url": "https://cnevpost.com/2026/05/18/nio-third-gen-es8-deliveries-approach-110000",
+      "published_at": "2026-05-18T02:07:31Z",
+      "first_seen_at": "2026-05-18T05:50:28.087387Z",
+      "last_seen_at": "2026-05-18T05:50:28.087387Z",
+      "title_original": "Nio's third-gen ES8 deliveries approach 110,000 units",
+      "title_en": "Nio's third-gen ES8 deliveries approach 110,000 units",
+      "title_zh": "蔚来第三代ES8交付量逼近11万辆",
+      "title_bilingual": "蔚来第三代ES8交付量逼近11万辆 / Nio's third-gen ES8 deliveries approach 110,000 units",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "4a872dfa5d59d05f4ccb5f67a3ca34ad54e17c55",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "BYD Blade Battery teardown reveals 170-cell pack after 40-hour freeze, team defends 8-hour dismantling",
+      "url": "https://carnewschina.com/2026/05/18/byd-blade-battery-teardown-reveals-170-cell-pack-after-40-hour-freeze-team-defends-8-hour-dismantling",
+      "published_at": "2026-05-18T02:00:00Z",
+      "first_seen_at": "2026-05-18T05:50:28.087387Z",
+      "last_seen_at": "2026-05-18T05:50:28.087387Z",
+      "title_original": "BYD Blade Battery teardown reveals 170-cell pack after 40-hour freeze, team defends 8-hour dismantling",
+      "title_en": "BYD Blade Battery teardown reveals 170-cell pack after 40-hour freeze, team defends 8-hour dismantling",
+      "title_zh": "比亚迪刀片电池拆解揭示170电芯冷冻40小时后团队捍卫8小时拆解",
+      "title_bilingual": "比亚迪刀片电池拆解揭示170电芯冷冻40小时后团队捍卫8小时拆解 / BYD Blade Battery teardown reveals 170-cell pack after 40-hour freeze, team defends 8-hour dismantling",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "bcd60521d820c35434fb165523ed4ea6bc5704f6",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Xiaomi sets May 21 launch for high-performance YU7 GT SUV",
+      "url": "https://cnevpost.com/2026/05/18/xiaomi-sets-may-21-launch-for-yu7-gt-suv",
+      "published_at": "2026-05-18T01:33:37Z",
+      "first_seen_at": "2026-05-18T05:50:28.087387Z",
+      "last_seen_at": "2026-05-18T05:50:28.087387Z",
+      "title_original": "Xiaomi sets May 21 launch for high-performance YU7 GT SUV",
+      "title_en": "Xiaomi sets May 21 launch for high-performance YU7 GT SUV",
+      "title_zh": "小米高性能SUV YU7 GT将于5月21日上市",
+      "title_bilingual": "小米高性能SUV YU7 GT将于5月21日上市 / Xiaomi sets May 21 launch for high-performance YU7 GT SUV",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
       "id": "1846459f3e780c534d18328fdd229e8a08a5bc38",
       "site_id": "newsnow",
       "site_name": "NewsNow",
@@ -566,7 +980,7 @@
       "url": "http://vc.yiche.com/vplay/11141341.html",
       "published_at": null,
       "first_seen_at": "2026-05-17T20:12:26.255787Z",
-      "last_seen_at": "2026-05-18T01:30:02.232916Z",
+      "last_seen_at": "2026-05-18T05:50:28.087387Z",
       "title_original": "充电快、空间大 方程豹钛7闪充版还有啥优缺点？推荐755km后驱闪充版！",
       "title_en": null,
       "title_zh": "充电快、空间大 方程豹钛7闪充版还有啥优缺点？推荐755km后驱闪充版！",
@@ -584,7 +998,7 @@
       "url": "http://vc.yiche.com/vplay/11150038.html",
       "published_at": null,
       "first_seen_at": "2026-05-17T20:12:26.255787Z",
-      "last_seen_at": "2026-05-18T01:30:02.232916Z",
+      "last_seen_at": "2026-05-18T05:50:28.087387Z",
       "title_original": "中国最大纯电SUV！蔚来ES9重新定义智能旗舰",
       "title_en": null,
       "title_zh": "中国最大纯电SUV！蔚来ES9重新定义智能旗舰",
@@ -604,7 +1018,7 @@
       "url": "http://vc.yiche.com/vplay/11140477.html",
       "published_at": null,
       "first_seen_at": "2026-05-17T20:12:26.255787Z",
-      "last_seen_at": "2026-05-18T01:30:02.232916Z",
+      "last_seen_at": "2026-05-18T05:50:28.087387Z",
       "title_original": "预算12万，比亚迪元PLUS和丰田铂智3X，选谁更值？",
       "title_en": null,
       "title_zh": "预算12万，比亚迪元PLUS和丰田铂智3X，选谁更值？",
@@ -623,7 +1037,7 @@
       "url": "http://vc.yiche.com/vplay/11140791.html",
       "published_at": null,
       "first_seen_at": "2026-05-17T20:12:26.255787Z",
-      "last_seen_at": "2026-05-18T01:30:02.232916Z",
+      "last_seen_at": "2026-05-18T05:50:28.087387Z",
       "title_original": "15万买新能源SUV？这五款千万别错过",
       "title_en": null,
       "title_zh": "15万买新能源SUV？这五款千万别错过",
@@ -642,7 +1056,7 @@
       "url": "https://carnewschina.com/2026/05/17/denza-hits-500000-units-as-n9-flash-charging-refresh-launches-may-18",
       "published_at": "2026-05-17T19:17:58Z",
       "first_seen_at": "2026-05-17T20:12:26.255787Z",
-      "last_seen_at": "2026-05-18T01:30:02.232916Z",
+      "last_seen_at": "2026-05-18T05:50:28.087387Z",
       "title_original": "Denza hits 500,000 units as N9 Flash Charging refresh launches May 18",
       "title_en": "Denza hits 500,000 units as N9 Flash Charging refresh launches May 18",
       "title_zh": "腾势 N9 闪充更新版 5 月 18 日上市，销量突破 50 万台",
@@ -682,7 +1096,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/e9066a61f78fe60a/115038883-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-17T16:56:00.198970Z",
-      "last_seen_at": "2026-05-18T01:30:02.232916Z",
+      "last_seen_at": "2026-05-18T05:50:28.087387Z",
       "title_original": "真实个人观点 理想L6优缺点分享",
       "title_en": null,
       "title_zh": "真实个人观点 理想L6优缺点分享",
@@ -700,7 +1114,7 @@
       "url": "https://i.autohome.com.cn/211570813",
       "published_at": null,
       "first_seen_at": "2026-05-17T16:56:00.198970Z",
-      "last_seen_at": "2026-05-18T01:30:02.232916Z",
+      "last_seen_at": "2026-05-18T05:50:28.087387Z",
       "title_original": "补齐电控短板 新升仕703RR降价增配",
       "title_en": null,
       "title_zh": "补齐电控短板 新升仕703RR降价增配",
@@ -719,7 +1133,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/23f428318ae58463/115095151-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-17T16:56:00.198970Z",
-      "last_seen_at": "2026-05-18T01:30:02.232916Z",
+      "last_seen_at": "2026-05-18T05:50:28.087387Z",
       "title_original": "奇瑞经典一款新能源 小蚂蚁模型欣赏",
       "title_en": null,
       "title_zh": "奇瑞经典一款新能源 小蚂蚁模型欣赏",
@@ -738,7 +1152,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/22f091c5b1b30a19/115093249-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-17T16:56:00.198970Z",
-      "last_seen_at": "2026-05-18T01:30:02.232916Z",
+      "last_seen_at": "2026-05-18T05:50:28.087387Z",
       "title_original": "一辈子的梦想 长城炮闯川藏南线318",
       "title_en": null,
       "title_zh": "一辈子的梦想 长城炮闯川藏南线318",
@@ -756,7 +1170,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/61ba72d53c44f076/115089534-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-17T16:56:00.198970Z",
-      "last_seen_at": "2026-05-18T01:30:02.232916Z",
+      "last_seen_at": "2026-05-18T05:50:28.087387Z",
       "title_original": "北京自驾承德 打卡长城古寺湖光山色",
       "title_en": null,
       "title_zh": "北京自驾承德 打卡长城古寺湖光山色",
@@ -774,7 +1188,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/89f9df7ba512960f/115055544-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-17T16:56:00.198970Z",
-      "last_seen_at": "2026-05-18T01:30:02.232916Z",
+      "last_seen_at": "2026-05-18T05:50:28.087387Z",
       "title_original": "外观很帅气 iCAR V27提车作业分享",
       "title_en": null,
       "title_zh": "外观很帅气 iCAR V27提车作业分享",
@@ -792,7 +1206,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/09dced88420372f8/115115204-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-17T16:56:00.198970Z",
-      "last_seen_at": "2026-05-18T01:30:02.232916Z",
+      "last_seen_at": "2026-05-18T05:50:28.087387Z",
       "title_original": "底盘调校偏舒适 瑞虎9提车作业分享",
       "title_en": null,
       "title_zh": "底盘调校偏舒适 瑞虎9提车作业分享",
@@ -811,7 +1225,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/f5ce9ff76acedfea/115038299-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-17T16:56:00.198970Z",
-      "last_seen_at": "2026-05-18T01:30:02.232916Z",
+      "last_seen_at": "2026-05-18T05:50:28.087387Z",
       "title_original": "“底盘复新”记 根治理想L8空气悬架",
       "title_en": null,
       "title_zh": "“底盘复新”记 根治理想L8空气悬架",
@@ -830,7 +1244,7 @@
       "url": "https://carnewschina.com/2026/05/17/volkswagen-backed-gotion-launches-gnascent-sodium-ion-battery-up-to-261-wh-kg-with-mass-production-ready",
       "published_at": "2026-05-17T11:42:58Z",
       "first_seen_at": "2026-05-17T12:10:52.068259Z",
-      "last_seen_at": "2026-05-18T01:30:02.232916Z",
+      "last_seen_at": "2026-05-18T05:50:28.087387Z",
       "title_original": "Volkswagen-backed Gotion launches “Gnascent” sodium-ion battery: up to 261 Wh/kg with mass production ready",
       "title_en": "Volkswagen-backed Gotion launches “Gnascent” sodium-ion battery: up to 261 Wh/kg with mass production ready",
       "title_zh": "大众支持的国轩推出“Gnascent”钠离子电池：高达261 Wh/kg，可量产",
@@ -869,7 +1283,7 @@
       "url": "https://carnewschina.com/2026/05/17/byd-blade-2-0-survives-8-hour-violent-teardown-bloggers-grind-saw-hammer-with-no-fire",
       "published_at": "2026-05-17T08:42:35Z",
       "first_seen_at": "2026-05-17T09:45:06.329430Z",
-      "last_seen_at": "2026-05-18T01:30:02.232916Z",
+      "last_seen_at": "2026-05-18T05:50:28.087387Z",
       "title_original": "BYD Blade 2.0 survives 8‑hour violent teardown: bloggers grind, saw, hammer with no fire",
       "title_en": "BYD Blade 2.0 survives 8‑hour violent teardown: bloggers grind, saw, hammer with no fire",
       "title_zh": "比亚迪Blade 2.0历经8小时暴力拆解：博主不开火地磨、锯、锤",
@@ -888,7 +1302,7 @@
       "url": "https://carnewschina.com/2026/05/17/byd-crushes-blogger-in-court-second-instance-ruling-forces-apology-after-293000-usd-verdict",
       "published_at": "2026-05-17T07:53:15Z",
       "first_seen_at": "2026-05-17T11:03:45.415766Z",
-      "last_seen_at": "2026-05-18T01:30:02.232916Z",
+      "last_seen_at": "2026-05-18T05:50:28.087387Z",
       "title_original": "BYD wins appeal against blogger, court orders apology after 293,000 USD verdict",
       "title_en": "BYD wins appeal against blogger, court orders apology after 293,000 USD verdict",
       "title_zh": "比亚迪赢得对博主的上诉，法院在判决 293,000 美元后下令道歉",
@@ -926,7 +1340,7 @@
       "url": "https://auto.gasgoo.com/news/202605/17I70457977C109.shtml",
       "published_at": "2026-05-17T07:14:03Z",
       "first_seen_at": "2026-05-17T23:29:45.727275Z",
-      "last_seen_at": "2026-05-18T01:30:02.232916Z",
+      "last_seen_at": "2026-05-18T05:50:28.087387Z",
       "title_original": "盖世周报 | 特朗普完成访华；立讯精密拟收购京西重工59.5%股份",
       "title_en": null,
       "title_zh": "盖世周报 | 特朗普完成访华；立讯精密拟收购京西重工59.5%股份",
@@ -951,62 +1365,6 @@
       "title_bilingual": "特斯拉两年来首次上调Model Y美国售价",
       "topic_tags": [
         "价格战",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "e8fb0b1c68b61ab1e8aef049cdd8a18d62f6d0ff",
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "hackernews",
-      "title": "Tesla Solar Roof is on life support as it pivot to panels",
-      "url": "https://news.ycombinator.com/item?id=48165980",
-      "published_at": "2026-05-17T05:08:38.655000Z",
-      "first_seen_at": "2026-05-17T05:08:27.677568Z",
-      "last_seen_at": "2026-05-18T01:30:02.232916Z",
-      "title_original": "Tesla Solar Roof is on life support as it pivot to panels",
-      "title_en": "Tesla Solar Roof is on life support as it pivot to panels",
-      "title_zh": "特斯拉太阳能屋顶因转向电池板而处于生命维持状态",
-      "title_bilingual": "特斯拉太阳能屋顶因转向电池板而处于生命维持状态 / Tesla Solar Roof is on life support as it pivot to panels",
-      "topic_tags": [
-        "补能电池",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "c18550b08744c581afa9962ec928a11a24231895",
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "36kr",
-      "title": "长安汽车否认与千里科技合作",
-      "url": "https://www.36kr.com/newsflashes/3812843633991425",
-      "published_at": "2026-05-17T03:56:03.236000Z",
-      "first_seen_at": "2026-05-17T05:08:27.677568Z",
-      "last_seen_at": "2026-05-17T07:54:52.837047Z",
-      "title_original": "长安汽车否认与千里科技合作",
-      "title_en": null,
-      "title_zh": "长安汽车否认与千里科技合作",
-      "title_bilingual": "长安汽车否认与千里科技合作",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "851d7264dc4b6ffce57958686035976997728508",
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "36kr",
-      "title": "蔚来：已在全国建成8870座充换电站",
-      "url": "https://www.36kr.com/newsflashes/3812695911816707",
-      "published_at": "2026-05-17T01:56:03.236000Z",
-      "first_seen_at": "2026-05-17T05:08:27.677568Z",
-      "last_seen_at": "2026-05-17T05:08:27.677568Z",
-      "title_original": "蔚来：已在全国建成8870座充换电站",
-      "title_en": null,
-      "title_zh": "蔚来：已在全国建成8870座充换电站",
-      "title_bilingual": "蔚来：已在全国建成8870座充换电站",
-      "topic_tags": [
-        "补能电池",
         "车企竞争"
       ]
     }
