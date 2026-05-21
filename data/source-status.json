@@ -1,37 +1,39 @@
 {
-  "generated_at": "2026-05-20T23:47:58.527222Z",
+  "generated_at": "2026-05-21T03:28:33.725316Z",
   "sites": [
     {
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
       "ok": true,
       "item_count": 886,
-      "duration_ms": 9750,
+      "duration_ms": 8846,
       "error": null
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
-      "ok": true,
-      "item_count": 2920,
-      "duration_ms": 1526,
-      "error": null
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 125174,
+      "error": "HTTPSConnectionPool(host='tophub.today', port=443): Max retries exceeded with url: / (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='tophub.today', port=443): Read timed out. (read timeout=30)\"))"
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "ok": true,
       "item_count": 147,
-      "duration_ms": 455,
+      "duration_ms": 942,
       "error": null
     }
   ],
-  "successful_sites": 3,
-  "failed_sites": [],
+  "successful_sites": 2,
+  "failed_sites": [
+    "tophub"
+  ],
   "zero_item_sites": [],
-  "fetched_raw_items": 3953,
-  "items_before_topic_filter": 3247,
-  "items_in_24h": 40,
+  "fetched_raw_items": 1033,
+  "items_before_topic_filter": 3133,
+  "items_in_24h": 61,
   "rss_opml": {
     "enabled": false,
     "path": null,
