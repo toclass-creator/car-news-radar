@@ -1,77 +1,134 @@
 {
-  "generated_at": "2026-05-23T00:09:08.670057Z",
+  "generated_at": "2026-05-23T04:23:41.549929Z",
   "window_hours": 24,
-  "total_items": 40,
-  "total_items_ai_raw": 44,
-  "total_items_raw": 3175,
-  "total_items_all_mode": 2920,
+  "total_items": 44,
+  "total_items_ai_raw": 48,
+  "total_items_raw": 3755,
+  "total_items_all_mode": 3420,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 58502,
+  "archive_total": 59114,
   "site_count": 3,
-  "source_count": 8,
+  "source_count": 11,
   "site_stats": [
     {
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "count": 19,
-      "raw_count": 23
+      "count": 22,
+      "raw_count": 26
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "count": 18,
-      "raw_count": 2977
+      "raw_count": 3553
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
-      "count": 3,
-      "raw_count": 175
+      "count": 4,
+      "raw_count": 176
     }
   ],
   "topic_tag_stats": [
     {
       "tag": "车企竞争",
-      "count": 23
-    },
-    {
-      "tag": "新能源",
       "count": 20
     },
     {
+      "tag": "新能源",
+      "count": 18
+    },
+    {
       "tag": "新车上市",
-      "count": 16
+      "count": 14
     },
     {
       "tag": "补能电池",
-      "count": 5
+      "count": 9
+    },
+    {
+      "tag": "召回安全",
+      "count": 4
     },
     {
       "tag": "购车决策",
       "count": 4
     },
     {
-      "tag": "召回安全",
-      "count": 3
-    },
-    {
       "tag": "智能驾驶",
       "count": 3
     },
     {
-      "tag": "供应链",
-      "count": 2
-    },
-    {
       "tag": "销量市场",
-      "count": 2
+      "count": 3
     },
     {
       "tag": "价格战",
-      "count": 1
+      "count": 2
+    },
+    {
+      "tag": "供应链",
+      "count": 2
     }
   ],
   "items": [
+    {
+      "id": "e34a8b5b9ef009ce4dd7a40b2d1efe7ced13c1ec",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Arcfox Beta S3 launches in China: leveraging CATL’s battery-swapping network with entry-level BaaS pricing of 8,800 USD",
+      "url": "https://carnewschina.com/2026/05/23/arcfox-beta-s3-launches-in-china-leveraging-catls-battery-swapping-network-with-entry-level-baas-pricing-of-8800-usd",
+      "published_at": "2026-05-23T02:01:03Z",
+      "first_seen_at": "2026-05-23T04:23:41.549929Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
+      "title_original": "Arcfox Beta S3 launches in China: leveraging CATL’s battery-swapping network with entry-level BaaS pricing of 8,800 USD",
+      "title_en": "Arcfox Beta S3 launches in China: leveraging CATL’s battery-swapping network with entry-level BaaS pricing of 8,800 USD",
+      "title_zh": "Arcfox Beta S3在中国推出：利用CATL的电池交换网络，入门级BaaS定价为8,800美元",
+      "title_bilingual": "Arcfox Beta S3在中国推出：利用CATL的电池交换网络，入门级BaaS定价为8,800美元 / Arcfox Beta S3 launches in China: leveraging CATL’s battery-swapping network with entry-level BaaS pricing of 8,800 USD",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "价格战"
+      ]
+    },
+    {
+      "id": "66d4754207c22a0938f2aff9aec2631cfea51c82",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Nissan recalls nearly 70,000 N7 and N6 vehicles in China over accelerator pedal defect",
+      "url": "https://carnewschina.com/2026/05/23/nissan-recalls-nearly-70000-n7-and-n6-vehicles-in-china-over-accelerator-pedal-defect",
+      "published_at": "2026-05-23T01:31:23Z",
+      "first_seen_at": "2026-05-23T04:23:41.549929Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
+      "title_original": "Nissan recalls nearly 70,000 N7 and N6 vehicles in China over accelerator pedal defect",
+      "title_en": "Nissan recalls nearly 70,000 N7 and N6 vehicles in China over accelerator pedal defect",
+      "title_zh": "日产因油门踏板缺陷在中国召回近7万辆N7和N6汽车",
+      "title_bilingual": "日产因油门踏板缺陷在中国召回近7万辆N7和N6汽车 / Nissan recalls nearly 70,000 N7 and N6 vehicles in China over accelerator pedal defect",
+      "topic_tags": [
+        "新能源",
+        "召回安全"
+      ]
+    },
+    {
+      "id": "1a552d1c5e957ae7f9ef5f07d2bedccffcee3854",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "36kr",
+      "title": "美股三大指数集体收涨，蔚来跌超7%",
+      "url": "https://www.36kr.com/newsflashes/3821168952004741",
+      "published_at": "2026-05-23T01:04:54.931000Z",
+      "first_seen_at": "2026-05-23T04:23:41.549929Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
+      "title_original": "美股三大指数集体收涨，蔚来跌超7%",
+      "title_en": null,
+      "title_zh": "美股三大指数集体收涨，蔚来跌超7%",
+      "title_bilingual": "美股三大指数集体收涨，蔚来跌超7%",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
     {
       "id": "31ab1841c6072c278f3e14a0cf4aa0f7e9c169e7",
       "site_id": "tophub",
@@ -81,7 +138,7 @@
       "url": "http://vc.yiche.com/vplay/11165688.html",
       "published_at": null,
       "first_seen_at": "2026-05-22T20:19:01.664914Z",
-      "last_seen_at": "2026-05-23T00:09:08.670057Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
       "title_original": "长城H10来了！全新旗舰SUV有多能打？",
       "title_en": null,
       "title_zh": "长城H10来了！全新旗舰SUV有多能打？",
@@ -100,7 +157,7 @@
       "url": "http://vc.yiche.com/vplay/11159770.html",
       "published_at": null,
       "first_seen_at": "2026-05-22T20:19:01.664914Z",
-      "last_seen_at": "2026-05-23T00:09:08.670057Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
       "title_original": "大六座+华为智驾，15万级家用神车！华境S太香了",
       "title_en": null,
       "title_zh": "大六座+华为智驾，15万级家用神车！华境S太香了",
@@ -119,7 +176,7 @@
       "url": "http://vc.yiche.com/vplay/11168160.html",
       "published_at": null,
       "first_seen_at": "2026-05-22T20:19:01.664914Z",
-      "last_seen_at": "2026-05-23T00:09:08.670057Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
       "title_original": "比亚迪再爆“王炸”车型，第三代元plus纯电续航630km！",
       "title_en": null,
       "title_zh": "比亚迪再爆“王炸”车型，第三代元plus纯电续航630km！",
@@ -140,7 +197,7 @@
       "url": "http://vc.yiche.com/vplay/11163102.html",
       "published_at": null,
       "first_seen_at": "2026-05-22T20:19:01.664914Z",
-      "last_seen_at": "2026-05-23T00:09:08.670057Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
       "title_original": "吉利星瑞i-HEV，城区油耗实测，真2字头？",
       "title_en": null,
       "title_zh": "吉利星瑞i-HEV，城区油耗实测，真2字头？",
@@ -158,7 +215,7 @@
       "url": "http://vc.yiche.com/vplay/11160311.html",
       "published_at": null,
       "first_seen_at": "2026-05-22T20:19:01.664914Z",
-      "last_seen_at": "2026-05-23T00:09:08.670057Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
       "title_original": "不到10w买7座MPV？2026款传祺M6 MAX性价比有多高？",
       "title_en": null,
       "title_zh": "不到10w买7座MPV？2026款传祺M6 MAX性价比有多高？",
@@ -177,7 +234,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/cb4d00eed1168293/115049698-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-22T18:14:49.247037Z",
-      "last_seen_at": "2026-05-23T00:09:08.670057Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
       "title_original": "适合家用代步 极氪7X提车作业分享",
       "title_en": null,
       "title_zh": "适合家用代步 极氪7X提车作业分享",
@@ -196,7 +253,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/ed3782b3677ed491/115096734-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-22T18:14:49.247037Z",
-      "last_seen_at": "2026-05-23T00:09:08.670057Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
       "title_original": "18款五菱荣光小卡 底盘维修作业",
       "title_en": null,
       "title_zh": "18款五菱荣光小卡 底盘维修作业",
@@ -214,7 +271,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/ebeb0cfbccaaa1bf/115093935-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-22T18:14:49.247037Z",
-      "last_seen_at": "2026-05-23T00:09:08.670057Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
       "title_original": "父母都说好 理想i8用车心得分享",
       "title_en": null,
       "title_zh": "父母都说好 理想i8用车心得分享",
@@ -233,7 +290,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/65011a8132b6ff5a/115092476-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-22T18:14:49.247037Z",
-      "last_seen_at": "2026-05-23T00:09:08.670057Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
       "title_original": "能带全家翻山越岭的SUV 探险者用车",
       "title_en": null,
       "title_zh": "能带全家翻山越岭的SUV 探险者用车",
@@ -252,7 +309,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/09fe3b6d394a5de5/115144031-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-22T18:14:49.247037Z",
-      "last_seen_at": "2026-05-23T00:09:08.670057Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
       "title_original": "iCAR V27方盒子很懂城市氛围感",
       "title_en": null,
       "title_zh": "iCAR V27方盒子很懂城市氛围感",
@@ -268,7 +325,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/ad55e032b8b39fc7/115089918-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-22T18:14:49.247037Z",
-      "last_seen_at": "2026-05-23T00:09:08.670057Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
       "title_original": "6万级纯电代步车 我为何选择极狐T1",
       "title_en": null,
       "title_zh": "6万级纯电代步车 我为何选择极狐T1",
@@ -305,7 +362,7 @@
       "url": "https://cnevpost.com/2026/05/22/tesla-renames-fsd-again-in-china",
       "published_at": "2026-05-22T14:37:34Z",
       "first_seen_at": "2026-05-22T16:24:10.929753Z",
-      "last_seen_at": "2026-05-23T00:09:08.670057Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
       "title_original": "Tesla renames FSD again in China ahead of software roll-out",
       "title_en": "Tesla renames FSD again in China ahead of software roll-out",
       "title_zh": "特斯拉在软件推出之前在中国再次更名为 FSD",
@@ -324,7 +381,7 @@
       "url": "https://cnevpost.com/2026/05/22/byd-to-hold-event-may-28-adas-push",
       "published_at": "2026-05-22T13:32:47Z",
       "first_seen_at": "2026-05-22T13:42:47.926524Z",
-      "last_seen_at": "2026-05-23T00:09:08.670057Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
       "title_original": "BYD to hold smart tech strategy event on May 28 amid ADAS push",
       "title_en": "BYD to hold smart tech strategy event on May 28 amid ADAS push",
       "title_zh": "比亚迪5月28日举办智能科技战略发布会 力推ADAS",
@@ -345,7 +402,7 @@
       "url": "https://cnevpost.com/2026/05/22/catl-plans-to-invest-in-deepseek",
       "published_at": "2026-05-22T12:45:52Z",
       "first_seen_at": "2026-05-22T13:42:47.926524Z",
-      "last_seen_at": "2026-05-23T00:09:08.670057Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
       "title_original": "CATL reportedly plans to invest in Chinese AI star DeepSeek",
       "title_en": "CATL reportedly plans to invest in Chinese AI star DeepSeek",
       "title_zh": "据报道宁德时代拟投资中国人工智能明星DeepSeek",
@@ -363,7 +420,7 @@
       "url": "https://carnewschina.com/2026/05/22/byd-may-28-intelligent-driving-strategy-event-sparks-speculation-over-new-gods-eye-rollout",
       "published_at": "2026-05-22T12:22:07Z",
       "first_seen_at": "2026-05-22T13:42:47.926524Z",
-      "last_seen_at": "2026-05-23T00:09:08.670057Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
       "title_original": "BYD May 28 intelligent driving strategy event sparks speculation over new God’s Eye rollout",
       "title_en": "BYD May 28 intelligent driving strategy event sparks speculation over new God’s Eye rollout",
       "title_zh": "比亚迪5月28日智能驾驶战略发布会引发新神眼发布猜测",
@@ -384,7 +441,7 @@
       "url": "https://cnevpost.com/2026/05/22/nio-reports-online-smear-campaigns-to-police",
       "published_at": "2026-05-22T12:21:52Z",
       "first_seen_at": "2026-05-22T13:42:47.926524Z",
-      "last_seen_at": "2026-05-23T00:09:08.670057Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
       "title_original": "Nio reports online smear campaigns to police amid new model launches",
       "title_en": "Nio reports online smear campaigns to police amid new model launches",
       "title_zh": "蔚来汽车在新车型发布期间向警方报告网络抹黑活动",
@@ -396,6 +453,24 @@
       ]
     },
     {
+      "id": "fc70afbbb2da12b22bf3273302b4b532f19dc524",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "【国际快讯】Stellantis公布700亿美元战略转型规划；日本韩国4月对中东汽车出口大跌",
+      "url": "https://auto.gasgoo.com/news/202605/22I70458908C108.shtml",
+      "published_at": "2026-05-22T12:05:33Z",
+      "first_seen_at": "2026-05-23T04:23:41.549929Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
+      "title_original": "【国际快讯】Stellantis公布700亿美元战略转型规划；日本韩国4月对中东汽车出口大跌",
+      "title_en": null,
+      "title_zh": "【国际快讯】Stellantis公布700亿美元战略转型规划；日本韩国4月对中东汽车出口大跌",
+      "title_bilingual": "【国际快讯】Stellantis公布700亿美元战略转型规划；日本韩国4月对中东汽车出口大跌",
+      "topic_tags": [
+        "销量市场"
+      ]
+    },
+    {
       "id": "242cf880b7570c2360e62e1ef8a72e599d5d6abf",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -404,7 +479,7 @@
       "url": "https://carnewschina.com/2026/05/22/byd-great-han-spotted-a-new-flagship-sibling-to-the-great-tang",
       "published_at": "2026-05-22T11:54:23Z",
       "first_seen_at": "2026-05-22T13:42:47.926524Z",
-      "last_seen_at": "2026-05-23T00:09:08.670057Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
       "title_original": "BYD Great Han spotted: a new flagship sibling to the Great Tang",
       "title_en": "BYD Great Han spotted: a new flagship sibling to the Great Tang",
       "title_zh": "比亚迪大汉亮相：大唐的新旗舰兄弟",
@@ -424,7 +499,7 @@
       "url": "https://cnevpost.com/2026/05/22/cpca-forecasts-950000-nev-retail-china-may",
       "published_at": "2026-05-22T11:20:26Z",
       "first_seen_at": "2026-05-22T11:23:09.854544Z",
-      "last_seen_at": "2026-05-23T00:09:08.670057Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
       "title_original": "CPCA forecasts 950,000 NEV retail sales in China for May amid mild recovery",
       "title_en": "CPCA forecasts 950,000 NEV retail sales in China for May amid mild recovery",
       "title_zh": "CPCA预计5月中国新能源汽车零售量将温和复苏，预计将达到95万辆",
@@ -432,6 +507,22 @@
       "topic_tags": [
         "新能源"
       ]
+    },
+    {
+      "id": "a03350894ac011f6d56ea13fb70e73aef38e0626",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "擎天租与京东集团达成战略合作",
+      "url": "https://auto.gasgoo.com/news/202605/22I70458889C601.shtml",
+      "published_at": "2026-05-22T10:52:39Z",
+      "first_seen_at": "2026-05-23T04:23:41.549929Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
+      "title_original": "擎天租与京东集团达成战略合作",
+      "title_en": null,
+      "title_zh": "擎天租与京东集团达成战略合作",
+      "title_bilingual": "擎天租与京东集团达成战略合作",
+      "topic_tags": []
     },
     {
       "id": "c8203dc2af3b4b68b204a17d3b58f75bc45d466d",
@@ -442,7 +533,7 @@
       "url": "https://cnevpost.com/2026/05/22/xiaomi-to-showcase-full-lineup-shenzhen-auto-show",
       "published_at": "2026-05-22T10:32:15Z",
       "first_seen_at": "2026-05-22T11:23:09.854544Z",
-      "last_seen_at": "2026-05-23T00:09:08.670057Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
       "title_original": "Xiaomi EV to showcase full lineup at upcoming Shenzhen Auto Show",
       "title_en": "Xiaomi EV to showcase full lineup at upcoming Shenzhen Auto Show",
       "title_zh": "小米电动车全阵容亮相深圳车展",
@@ -472,6 +563,42 @@
       ]
     },
     {
+      "id": "3480f462893b1f83a5e23a2ea2e186424f49cfe2",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新技术",
+      "title": "莫纳什大学制备出新型氢燃料电池膜 可在250°C高温下无水运行",
+      "url": "https://auto.gasgoo.com/news/202605/22I70458814C409.shtml",
+      "published_at": "2026-05-22T10:09:40Z",
+      "first_seen_at": "2026-05-23T04:23:41.549929Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
+      "title_original": "莫纳什大学制备出新型氢燃料电池膜 可在250°C高温下无水运行",
+      "title_en": null,
+      "title_zh": "莫纳什大学制备出新型氢燃料电池膜 可在250°C高温下无水运行",
+      "title_bilingual": "莫纳什大学制备出新型氢燃料电池膜 可在250°C高温下无水运行",
+      "topic_tags": [
+        "补能电池"
+      ]
+    },
+    {
+      "id": "da3c6351078bfac9b75c9153411420b4ee7e48ee",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新技术",
+      "title": "汉阳大学研究出固态电池阴极保护层的最小有效厚度",
+      "url": "https://auto.gasgoo.com/news/202605/22I70458813C409.shtml",
+      "published_at": "2026-05-22T10:02:58Z",
+      "first_seen_at": "2026-05-23T04:23:41.549929Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
+      "title_original": "汉阳大学研究出固态电池阴极保护层的最小有效厚度",
+      "title_en": null,
+      "title_zh": "汉阳大学研究出固态电池阴极保护层的最小有效厚度",
+      "title_bilingual": "汉阳大学研究出固态电池阴极保护层的最小有效厚度",
+      "topic_tags": [
+        "补能电池"
+      ]
+    },
+    {
       "id": "97ce193da44fa4defb13f339c05e6b566268eb39",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -480,7 +607,7 @@
       "url": "https://cnevpost.com/2026/05/22/voyah-launches-taishan-x8-5-seat-suv",
       "published_at": "2026-05-22T10:00:26Z",
       "first_seen_at": "2026-05-22T11:23:09.854544Z",
-      "last_seen_at": "2026-05-23T00:09:08.670057Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
       "title_original": "Voyah launches Taishan X8 5-seat SUV with Huawei tech to expand EV lineup",
       "title_en": "Voyah launches Taishan X8 5-seat SUV with Huawei tech to expand EV lineup",
       "title_zh": "Voyah推出采用华为技术的泰山X8 5座SUV，扩大电动车阵容",
@@ -488,6 +615,24 @@
       "topic_tags": [
         "新能源",
         "新车上市"
+      ]
+    },
+    {
+      "id": "020c25f4affdfc6fedfd7eb284144b0053ce0f2f",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新技术",
+      "title": "盛禧奥‌推出新款SBR粘结剂 赋能快速充电电池",
+      "url": "https://auto.gasgoo.com/news/202605/22I70458811C409.shtml",
+      "published_at": "2026-05-22T09:59:51Z",
+      "first_seen_at": "2026-05-23T04:23:41.549929Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
+      "title_original": "盛禧奥‌推出新款SBR粘结剂 赋能快速充电电池",
+      "title_en": null,
+      "title_zh": "盛禧奥‌推出新款SBR粘结剂 赋能快速充电电池",
+      "title_bilingual": "盛禧奥‌推出新款SBR粘结剂 赋能快速充电电池",
+      "topic_tags": [
+        "补能电池"
       ]
     },
     {
@@ -499,7 +644,7 @@
       "url": "https://cnevpost.com/2026/05/22/custom-byd-denza-z9gt-auctions-for-700000-euros-france",
       "published_at": "2026-05-22T09:30:38Z",
       "first_seen_at": "2026-05-22T11:23:09.854544Z",
-      "last_seen_at": "2026-05-23T00:09:08.670057Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
       "title_original": "Custom BYD Denza Z9GT electric shooting brake auctions for 700,000 euros in France",
       "title_en": "Custom BYD Denza Z9GT electric shooting brake auctions for 700,000 euros in France",
       "title_zh": "定制比亚迪腾势Z9GT电动射击刹车在法国拍卖70万欧元",
@@ -519,7 +664,7 @@
       "url": "https://carnewschina.com/2026/05/22/voyah-taishan-x8-five-seater-suv-officially-launches-in-china-starting-from-43100-usd",
       "published_at": "2026-05-22T09:28:12Z",
       "first_seen_at": "2026-05-22T11:23:09.854544Z",
-      "last_seen_at": "2026-05-23T00:09:08.670057Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
       "title_original": "Voyah Taishan X8 five-seater SUV officially launches in China, starting from 43,100 USD",
       "title_en": "Voyah Taishan X8 five-seater SUV officially launches in China, starting from 43,100 USD",
       "title_zh": "Voyah泰山X8五座SUV在中国正式上市，起价43,100美元",
@@ -538,7 +683,7 @@
       "url": "https://auto.gasgoo.com/news/202605/22I70458809C108.shtml",
       "published_at": "2026-05-22T07:30:00Z",
       "first_seen_at": "2026-05-23T00:09:08.670057Z",
-      "last_seen_at": "2026-05-23T00:09:08.670057Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
       "title_original": "告别“卖车思维”，如何破局“体系出海”生死局？",
       "title_en": null,
       "title_zh": "告别“卖车思维”，如何破局“体系出海”生死局？",
@@ -593,7 +738,7 @@
       "url": "https://auto.gasgoo.com/news/202605/22I70458737C109.shtml",
       "published_at": "2026-05-22T07:00:31Z",
       "first_seen_at": "2026-05-23T00:09:08.670057Z",
-      "last_seen_at": "2026-05-23T00:09:08.670057Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
       "title_original": "特斯拉监督版FSD入华，只是个“幌子”？",
       "title_en": null,
       "title_zh": "特斯拉监督版FSD入华，只是个“幌子”？",
@@ -611,7 +756,7 @@
       "url": "https://auto.gasgoo.com/news/202605/22I70458751C601.shtml",
       "published_at": "2026-05-22T07:00:06Z",
       "first_seen_at": "2026-05-23T00:09:08.670057Z",
-      "last_seen_at": "2026-05-23T00:09:08.670057Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
       "title_original": "【盖世快讯】特斯拉监督版FSD官宣入华；英伟达净利润暴涨211%；油价上调",
       "title_en": null,
       "title_zh": "【盖世快讯】特斯拉监督版FSD官宣入华；英伟达净利润暴涨211%；油价上调",
@@ -629,7 +774,7 @@
       "url": "https://cnevpost.com/2026/05/22/saic-100-million-vehicle-delivery-milestone-end-may",
       "published_at": "2026-05-22T06:33:52Z",
       "first_seen_at": "2026-05-22T08:20:48.554791Z",
-      "last_seen_at": "2026-05-23T00:09:08.670057Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
       "title_original": "SAIC to hit 100 million vehicle delivery milestone by end of May",
       "title_en": "SAIC to hit 100 million vehicle delivery milestone by end of May",
       "title_zh": "上汽集团5月底交付汽车1亿辆",
@@ -750,89 +895,68 @@
       "topic_tags": [
         "新能源",
         "补能电池"
-      ]
-    },
-    {
-      "id": "877428e84d7aad1079831843cdd1a6f53fa11165",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Voyah previews Passion S sports SUV to compete with Xiaomi YU7",
-      "url": "https://cnevpost.com/2026/05/22/voyah-previews-passion-s-sports-suv",
-      "published_at": "2026-05-22T03:34:01Z",
-      "first_seen_at": "2026-05-22T04:43:37.805441Z",
-      "last_seen_at": "2026-05-23T00:09:08.670057Z",
-      "title_original": "Voyah previews Passion S sports SUV to compete with Xiaomi YU7",
-      "title_en": "Voyah previews Passion S sports SUV to compete with Xiaomi YU7",
-      "title_zh": "Voyah预览Passion S运动SUV 与小米YU7竞争",
-      "title_bilingual": "Voyah预览Passion S运动SUV 与小米YU7竞争 / Voyah previews Passion S sports SUV to compete with Xiaomi YU7",
-      "topic_tags": [
-        "新能源",
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "ee5e4e1395bd4d23e1b08524b4669b79b7beaa8b",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "BYD tops China EV “lawsuit leaderboard” with 1.02 million USD in blogger claims",
-      "url": "https://carnewschina.com/2026/05/22/byd-tops-china-ev-lawsuit-leaderboard-with-1-02-million-usd-in-blogger-claims",
-      "published_at": "2026-05-22T03:06:19Z",
-      "first_seen_at": "2026-05-22T04:43:37.805441Z",
-      "last_seen_at": "2026-05-23T00:09:08.670057Z",
-      "title_original": "BYD tops China EV “lawsuit leaderboard” with 1.02 million USD in blogger claims",
-      "title_en": "BYD tops China EV “lawsuit leaderboard” with 1.02 million USD in blogger claims",
-      "title_zh": "比亚迪博主索赔102万美元，位居中国电动汽车“诉讼排行榜”榜首",
-      "title_bilingual": "比亚迪博主索赔102万美元，位居中国电动汽车“诉讼排行榜”榜首 / BYD tops China EV “lawsuit leaderboard” with 1.02 million USD in blogger claims",
-      "topic_tags": [
-        "新能源",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "226a1a428ee79527db49cb9576ecfc951314aee2",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Nio shares rise in Hong Kong after reporting upbeat Q1 earnings",
-      "url": "https://cnevpost.com/2026/05/22/nio-shares-rise-hk-after-q1-earnings",
-      "published_at": "2026-05-22T02:12:36Z",
-      "first_seen_at": "2026-05-22T04:43:37.805441Z",
-      "last_seen_at": "2026-05-23T00:09:08.670057Z",
-      "title_original": "Nio shares rise in Hong Kong after reporting upbeat Q1 earnings",
-      "title_en": "Nio shares rise in Hong Kong after reporting upbeat Q1 earnings",
-      "title_zh": "报告乐观的第一季度盈利后，蔚来股价在香港上涨",
-      "title_bilingual": "报告乐观的第一季度盈利后，蔚来股价在香港上涨 / Nio shares rise in Hong Kong after reporting upbeat Q1 earnings",
-      "topic_tags": [
-        "新能源",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "430065db0a3a436fc2674b19bc870c2173402205",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Voyah Passion S official images released: a Xiaomi YU7 challenger with 637 hp",
-      "url": "https://carnewschina.com/2026/05/22/voyah-passion-s-official-images-released-a-xiaomi-yu7-challenger-with-637-hp",
-      "published_at": "2026-05-22T01:12:50Z",
-      "first_seen_at": "2026-05-22T04:43:37.805441Z",
-      "last_seen_at": "2026-05-23T00:09:08.670057Z",
-      "title_original": "Voyah Passion S official images released: a Xiaomi YU7 challenger with 637 hp",
-      "title_en": "Voyah Passion S official images released: a Xiaomi YU7 challenger with 637 hp",
-      "title_zh": "Voyah Passion S官方图片发布：小米YU7挑战者，637马力",
-      "title_bilingual": "Voyah Passion S官方图片发布：小米YU7挑战者，637马力 / Voyah Passion S official images released: a Xiaomi YU7 challenger with 637 hp",
-      "topic_tags": [
-        "新能源",
-        "车企竞争",
-        "新车上市"
       ]
     }
   ],
   "items_ai": [
     {
+      "id": "e34a8b5b9ef009ce4dd7a40b2d1efe7ced13c1ec",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Arcfox Beta S3 launches in China: leveraging CATL’s battery-swapping network with entry-level BaaS pricing of 8,800 USD",
+      "url": "https://carnewschina.com/2026/05/23/arcfox-beta-s3-launches-in-china-leveraging-catls-battery-swapping-network-with-entry-level-baas-pricing-of-8800-usd",
+      "published_at": "2026-05-23T02:01:03Z",
+      "first_seen_at": "2026-05-23T04:23:41.549929Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
+      "title_original": "Arcfox Beta S3 launches in China: leveraging CATL’s battery-swapping network with entry-level BaaS pricing of 8,800 USD",
+      "title_en": "Arcfox Beta S3 launches in China: leveraging CATL’s battery-swapping network with entry-level BaaS pricing of 8,800 USD",
+      "title_zh": "Arcfox Beta S3在中国推出：利用CATL的电池交换网络，入门级BaaS定价为8,800美元",
+      "title_bilingual": "Arcfox Beta S3在中国推出：利用CATL的电池交换网络，入门级BaaS定价为8,800美元 / Arcfox Beta S3 launches in China: leveraging CATL’s battery-swapping network with entry-level BaaS pricing of 8,800 USD",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "价格战"
+      ]
+    },
+    {
+      "id": "66d4754207c22a0938f2aff9aec2631cfea51c82",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Nissan recalls nearly 70,000 N7 and N6 vehicles in China over accelerator pedal defect",
+      "url": "https://carnewschina.com/2026/05/23/nissan-recalls-nearly-70000-n7-and-n6-vehicles-in-china-over-accelerator-pedal-defect",
+      "published_at": "2026-05-23T01:31:23Z",
+      "first_seen_at": "2026-05-23T04:23:41.549929Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
+      "title_original": "Nissan recalls nearly 70,000 N7 and N6 vehicles in China over accelerator pedal defect",
+      "title_en": "Nissan recalls nearly 70,000 N7 and N6 vehicles in China over accelerator pedal defect",
+      "title_zh": "日产因油门踏板缺陷在中国召回近7万辆N7和N6汽车",
+      "title_bilingual": "日产因油门踏板缺陷在中国召回近7万辆N7和N6汽车 / Nissan recalls nearly 70,000 N7 and N6 vehicles in China over accelerator pedal defect",
+      "topic_tags": [
+        "新能源",
+        "召回安全"
+      ]
+    },
+    {
+      "id": "1a552d1c5e957ae7f9ef5f07d2bedccffcee3854",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "36kr",
+      "title": "美股三大指数集体收涨，蔚来跌超7%",
+      "url": "https://www.36kr.com/newsflashes/3821168952004741",
+      "published_at": "2026-05-23T01:04:54.931000Z",
+      "first_seen_at": "2026-05-23T04:23:41.549929Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
+      "title_original": "美股三大指数集体收涨，蔚来跌超7%",
+      "title_en": null,
+      "title_zh": "美股三大指数集体收涨，蔚来跌超7%",
+      "title_bilingual": "美股三大指数集体收涨，蔚来跌超7%",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
       "id": "31ab1841c6072c278f3e14a0cf4aa0f7e9c169e7",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -841,7 +965,7 @@
       "url": "http://vc.yiche.com/vplay/11165688.html",
       "published_at": null,
       "first_seen_at": "2026-05-22T20:19:01.664914Z",
-      "last_seen_at": "2026-05-23T00:09:08.670057Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
       "title_original": "长城H10来了！全新旗舰SUV有多能打？",
       "title_en": null,
       "title_zh": "长城H10来了！全新旗舰SUV有多能打？",
@@ -860,7 +984,7 @@
       "url": "http://vc.yiche.com/vplay/11159770.html",
       "published_at": null,
       "first_seen_at": "2026-05-22T20:19:01.664914Z",
-      "last_seen_at": "2026-05-23T00:09:08.670057Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
       "title_original": "大六座+华为智驾，15万级家用神车！华境S太香了",
       "title_en": null,
       "title_zh": "大六座+华为智驾，15万级家用神车！华境S太香了",
@@ -879,7 +1003,7 @@
       "url": "http://vc.yiche.com/vplay/11168160.html",
       "published_at": null,
       "first_seen_at": "2026-05-22T20:19:01.664914Z",
-      "last_seen_at": "2026-05-23T00:09:08.670057Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
       "title_original": "比亚迪再爆“王炸”车型，第三代元plus纯电续航630km！",
       "title_en": null,
       "title_zh": "比亚迪再爆“王炸”车型，第三代元plus纯电续航630km！",
@@ -900,7 +1024,7 @@
       "url": "http://vc.yiche.com/vplay/11163102.html",
       "published_at": null,
       "first_seen_at": "2026-05-22T20:19:01.664914Z",
-      "last_seen_at": "2026-05-23T00:09:08.670057Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
       "title_original": "吉利星瑞i-HEV，城区油耗实测，真2字头？",
       "title_en": null,
       "title_zh": "吉利星瑞i-HEV，城区油耗实测，真2字头？",
@@ -918,7 +1042,7 @@
       "url": "http://vc.yiche.com/vplay/11160311.html",
       "published_at": null,
       "first_seen_at": "2026-05-22T20:19:01.664914Z",
-      "last_seen_at": "2026-05-23T00:09:08.670057Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
       "title_original": "不到10w买7座MPV？2026款传祺M6 MAX性价比有多高？",
       "title_en": null,
       "title_zh": "不到10w买7座MPV？2026款传祺M6 MAX性价比有多高？",
@@ -937,7 +1061,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/cb4d00eed1168293/115049698-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-22T18:14:49.247037Z",
-      "last_seen_at": "2026-05-23T00:09:08.670057Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
       "title_original": "适合家用代步 极氪7X提车作业分享",
       "title_en": null,
       "title_zh": "适合家用代步 极氪7X提车作业分享",
@@ -956,7 +1080,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/ed3782b3677ed491/115096734-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-22T18:14:49.247037Z",
-      "last_seen_at": "2026-05-23T00:09:08.670057Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
       "title_original": "18款五菱荣光小卡 底盘维修作业",
       "title_en": null,
       "title_zh": "18款五菱荣光小卡 底盘维修作业",
@@ -974,7 +1098,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/ebeb0cfbccaaa1bf/115093935-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-22T18:14:49.247037Z",
-      "last_seen_at": "2026-05-23T00:09:08.670057Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
       "title_original": "父母都说好 理想i8用车心得分享",
       "title_en": null,
       "title_zh": "父母都说好 理想i8用车心得分享",
@@ -993,7 +1117,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/65011a8132b6ff5a/115092476-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-22T18:14:49.247037Z",
-      "last_seen_at": "2026-05-23T00:09:08.670057Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
       "title_original": "能带全家翻山越岭的SUV 探险者用车",
       "title_en": null,
       "title_zh": "能带全家翻山越岭的SUV 探险者用车",
@@ -1012,7 +1136,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/09fe3b6d394a5de5/115144031-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-22T18:14:49.247037Z",
-      "last_seen_at": "2026-05-23T00:09:08.670057Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
       "title_original": "iCAR V27方盒子很懂城市氛围感",
       "title_en": null,
       "title_zh": "iCAR V27方盒子很懂城市氛围感",
@@ -1028,7 +1152,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/ad55e032b8b39fc7/115089918-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-22T18:14:49.247037Z",
-      "last_seen_at": "2026-05-23T00:09:08.670057Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
       "title_original": "6万级纯电代步车 我为何选择极狐T1",
       "title_en": null,
       "title_zh": "6万级纯电代步车 我为何选择极狐T1",
@@ -1065,7 +1189,7 @@
       "url": "https://cnevpost.com/2026/05/22/tesla-renames-fsd-again-in-china",
       "published_at": "2026-05-22T14:37:34Z",
       "first_seen_at": "2026-05-22T16:24:10.929753Z",
-      "last_seen_at": "2026-05-23T00:09:08.670057Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
       "title_original": "Tesla renames FSD again in China ahead of software roll-out",
       "title_en": "Tesla renames FSD again in China ahead of software roll-out",
       "title_zh": "特斯拉在软件推出之前在中国再次更名为 FSD",
@@ -1084,7 +1208,7 @@
       "url": "https://cnevpost.com/2026/05/22/byd-to-hold-event-may-28-adas-push",
       "published_at": "2026-05-22T13:32:47Z",
       "first_seen_at": "2026-05-22T13:42:47.926524Z",
-      "last_seen_at": "2026-05-23T00:09:08.670057Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
       "title_original": "BYD to hold smart tech strategy event on May 28 amid ADAS push",
       "title_en": "BYD to hold smart tech strategy event on May 28 amid ADAS push",
       "title_zh": "比亚迪5月28日举办智能科技战略发布会 力推ADAS",
@@ -1105,7 +1229,7 @@
       "url": "https://cnevpost.com/2026/05/22/catl-plans-to-invest-in-deepseek",
       "published_at": "2026-05-22T12:45:52Z",
       "first_seen_at": "2026-05-22T13:42:47.926524Z",
-      "last_seen_at": "2026-05-23T00:09:08.670057Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
       "title_original": "CATL reportedly plans to invest in Chinese AI star DeepSeek",
       "title_en": "CATL reportedly plans to invest in Chinese AI star DeepSeek",
       "title_zh": "据报道宁德时代拟投资中国人工智能明星DeepSeek",
@@ -1123,7 +1247,7 @@
       "url": "https://carnewschina.com/2026/05/22/byd-may-28-intelligent-driving-strategy-event-sparks-speculation-over-new-gods-eye-rollout",
       "published_at": "2026-05-22T12:22:07Z",
       "first_seen_at": "2026-05-22T13:42:47.926524Z",
-      "last_seen_at": "2026-05-23T00:09:08.670057Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
       "title_original": "BYD May 28 intelligent driving strategy event sparks speculation over new God’s Eye rollout",
       "title_en": "BYD May 28 intelligent driving strategy event sparks speculation over new God’s Eye rollout",
       "title_zh": "比亚迪5月28日智能驾驶战略发布会引发新神眼发布猜测",
@@ -1144,7 +1268,7 @@
       "url": "https://cnevpost.com/2026/05/22/nio-reports-online-smear-campaigns-to-police",
       "published_at": "2026-05-22T12:21:52Z",
       "first_seen_at": "2026-05-22T13:42:47.926524Z",
-      "last_seen_at": "2026-05-23T00:09:08.670057Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
       "title_original": "Nio reports online smear campaigns to police amid new model launches",
       "title_en": "Nio reports online smear campaigns to police amid new model launches",
       "title_zh": "蔚来汽车在新车型发布期间向警方报告网络抹黑活动",
@@ -1156,6 +1280,24 @@
       ]
     },
     {
+      "id": "fc70afbbb2da12b22bf3273302b4b532f19dc524",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "【国际快讯】Stellantis公布700亿美元战略转型规划；日本韩国4月对中东汽车出口大跌",
+      "url": "https://auto.gasgoo.com/news/202605/22I70458908C108.shtml",
+      "published_at": "2026-05-22T12:05:33Z",
+      "first_seen_at": "2026-05-23T04:23:41.549929Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
+      "title_original": "【国际快讯】Stellantis公布700亿美元战略转型规划；日本韩国4月对中东汽车出口大跌",
+      "title_en": null,
+      "title_zh": "【国际快讯】Stellantis公布700亿美元战略转型规划；日本韩国4月对中东汽车出口大跌",
+      "title_bilingual": "【国际快讯】Stellantis公布700亿美元战略转型规划；日本韩国4月对中东汽车出口大跌",
+      "topic_tags": [
+        "销量市场"
+      ]
+    },
+    {
       "id": "242cf880b7570c2360e62e1ef8a72e599d5d6abf",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -1164,7 +1306,7 @@
       "url": "https://carnewschina.com/2026/05/22/byd-great-han-spotted-a-new-flagship-sibling-to-the-great-tang",
       "published_at": "2026-05-22T11:54:23Z",
       "first_seen_at": "2026-05-22T13:42:47.926524Z",
-      "last_seen_at": "2026-05-23T00:09:08.670057Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
       "title_original": "BYD Great Han spotted: a new flagship sibling to the Great Tang",
       "title_en": "BYD Great Han spotted: a new flagship sibling to the Great Tang",
       "title_zh": "比亚迪大汉亮相：大唐的新旗舰兄弟",
@@ -1184,7 +1326,7 @@
       "url": "https://cnevpost.com/2026/05/22/cpca-forecasts-950000-nev-retail-china-may",
       "published_at": "2026-05-22T11:20:26Z",
       "first_seen_at": "2026-05-22T11:23:09.854544Z",
-      "last_seen_at": "2026-05-23T00:09:08.670057Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
       "title_original": "CPCA forecasts 950,000 NEV retail sales in China for May amid mild recovery",
       "title_en": "CPCA forecasts 950,000 NEV retail sales in China for May amid mild recovery",
       "title_zh": "CPCA预计5月中国新能源汽车零售量将温和复苏，预计将达到95万辆",
@@ -1192,6 +1334,22 @@
       "topic_tags": [
         "新能源"
       ]
+    },
+    {
+      "id": "a03350894ac011f6d56ea13fb70e73aef38e0626",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "擎天租与京东集团达成战略合作",
+      "url": "https://auto.gasgoo.com/news/202605/22I70458889C601.shtml",
+      "published_at": "2026-05-22T10:52:39Z",
+      "first_seen_at": "2026-05-23T04:23:41.549929Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
+      "title_original": "擎天租与京东集团达成战略合作",
+      "title_en": null,
+      "title_zh": "擎天租与京东集团达成战略合作",
+      "title_bilingual": "擎天租与京东集团达成战略合作",
+      "topic_tags": []
     },
     {
       "id": "c8203dc2af3b4b68b204a17d3b58f75bc45d466d",
@@ -1202,7 +1360,7 @@
       "url": "https://cnevpost.com/2026/05/22/xiaomi-to-showcase-full-lineup-shenzhen-auto-show",
       "published_at": "2026-05-22T10:32:15Z",
       "first_seen_at": "2026-05-22T11:23:09.854544Z",
-      "last_seen_at": "2026-05-23T00:09:08.670057Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
       "title_original": "Xiaomi EV to showcase full lineup at upcoming Shenzhen Auto Show",
       "title_en": "Xiaomi EV to showcase full lineup at upcoming Shenzhen Auto Show",
       "title_zh": "小米电动车全阵容亮相深圳车展",
@@ -1232,6 +1390,42 @@
       ]
     },
     {
+      "id": "3480f462893b1f83a5e23a2ea2e186424f49cfe2",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新技术",
+      "title": "莫纳什大学制备出新型氢燃料电池膜 可在250°C高温下无水运行",
+      "url": "https://auto.gasgoo.com/news/202605/22I70458814C409.shtml",
+      "published_at": "2026-05-22T10:09:40Z",
+      "first_seen_at": "2026-05-23T04:23:41.549929Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
+      "title_original": "莫纳什大学制备出新型氢燃料电池膜 可在250°C高温下无水运行",
+      "title_en": null,
+      "title_zh": "莫纳什大学制备出新型氢燃料电池膜 可在250°C高温下无水运行",
+      "title_bilingual": "莫纳什大学制备出新型氢燃料电池膜 可在250°C高温下无水运行",
+      "topic_tags": [
+        "补能电池"
+      ]
+    },
+    {
+      "id": "da3c6351078bfac9b75c9153411420b4ee7e48ee",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新技术",
+      "title": "汉阳大学研究出固态电池阴极保护层的最小有效厚度",
+      "url": "https://auto.gasgoo.com/news/202605/22I70458813C409.shtml",
+      "published_at": "2026-05-22T10:02:58Z",
+      "first_seen_at": "2026-05-23T04:23:41.549929Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
+      "title_original": "汉阳大学研究出固态电池阴极保护层的最小有效厚度",
+      "title_en": null,
+      "title_zh": "汉阳大学研究出固态电池阴极保护层的最小有效厚度",
+      "title_bilingual": "汉阳大学研究出固态电池阴极保护层的最小有效厚度",
+      "topic_tags": [
+        "补能电池"
+      ]
+    },
+    {
       "id": "97ce193da44fa4defb13f339c05e6b566268eb39",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -1240,7 +1434,7 @@
       "url": "https://cnevpost.com/2026/05/22/voyah-launches-taishan-x8-5-seat-suv",
       "published_at": "2026-05-22T10:00:26Z",
       "first_seen_at": "2026-05-22T11:23:09.854544Z",
-      "last_seen_at": "2026-05-23T00:09:08.670057Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
       "title_original": "Voyah launches Taishan X8 5-seat SUV with Huawei tech to expand EV lineup",
       "title_en": "Voyah launches Taishan X8 5-seat SUV with Huawei tech to expand EV lineup",
       "title_zh": "Voyah推出采用华为技术的泰山X8 5座SUV，扩大电动车阵容",
@@ -1248,6 +1442,24 @@
       "topic_tags": [
         "新能源",
         "新车上市"
+      ]
+    },
+    {
+      "id": "020c25f4affdfc6fedfd7eb284144b0053ce0f2f",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新技术",
+      "title": "盛禧奥‌推出新款SBR粘结剂 赋能快速充电电池",
+      "url": "https://auto.gasgoo.com/news/202605/22I70458811C409.shtml",
+      "published_at": "2026-05-22T09:59:51Z",
+      "first_seen_at": "2026-05-23T04:23:41.549929Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
+      "title_original": "盛禧奥‌推出新款SBR粘结剂 赋能快速充电电池",
+      "title_en": null,
+      "title_zh": "盛禧奥‌推出新款SBR粘结剂 赋能快速充电电池",
+      "title_bilingual": "盛禧奥‌推出新款SBR粘结剂 赋能快速充电电池",
+      "topic_tags": [
+        "补能电池"
       ]
     },
     {
@@ -1259,7 +1471,7 @@
       "url": "https://cnevpost.com/2026/05/22/custom-byd-denza-z9gt-auctions-for-700000-euros-france",
       "published_at": "2026-05-22T09:30:38Z",
       "first_seen_at": "2026-05-22T11:23:09.854544Z",
-      "last_seen_at": "2026-05-23T00:09:08.670057Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
       "title_original": "Custom BYD Denza Z9GT electric shooting brake auctions for 700,000 euros in France",
       "title_en": "Custom BYD Denza Z9GT electric shooting brake auctions for 700,000 euros in France",
       "title_zh": "定制比亚迪腾势Z9GT电动射击刹车在法国拍卖70万欧元",
@@ -1279,7 +1491,7 @@
       "url": "https://carnewschina.com/2026/05/22/voyah-taishan-x8-five-seater-suv-officially-launches-in-china-starting-from-43100-usd",
       "published_at": "2026-05-22T09:28:12Z",
       "first_seen_at": "2026-05-22T11:23:09.854544Z",
-      "last_seen_at": "2026-05-23T00:09:08.670057Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
       "title_original": "Voyah Taishan X8 five-seater SUV officially launches in China, starting from 43,100 USD",
       "title_en": "Voyah Taishan X8 five-seater SUV officially launches in China, starting from 43,100 USD",
       "title_zh": "Voyah泰山X8五座SUV在中国正式上市，起价43,100美元",
@@ -1298,7 +1510,7 @@
       "url": "https://auto.gasgoo.com/news/202605/22I70458809C108.shtml",
       "published_at": "2026-05-22T07:30:00Z",
       "first_seen_at": "2026-05-23T00:09:08.670057Z",
-      "last_seen_at": "2026-05-23T00:09:08.670057Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
       "title_original": "告别“卖车思维”，如何破局“体系出海”生死局？",
       "title_en": null,
       "title_zh": "告别“卖车思维”，如何破局“体系出海”生死局？",
@@ -1353,7 +1565,7 @@
       "url": "https://auto.gasgoo.com/news/202605/22I70458737C109.shtml",
       "published_at": "2026-05-22T07:00:31Z",
       "first_seen_at": "2026-05-23T00:09:08.670057Z",
-      "last_seen_at": "2026-05-23T00:09:08.670057Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
       "title_original": "特斯拉监督版FSD入华，只是个“幌子”？",
       "title_en": null,
       "title_zh": "特斯拉监督版FSD入华，只是个“幌子”？",
@@ -1371,7 +1583,7 @@
       "url": "https://auto.gasgoo.com/news/202605/22I70458751C601.shtml",
       "published_at": "2026-05-22T07:00:06Z",
       "first_seen_at": "2026-05-23T00:09:08.670057Z",
-      "last_seen_at": "2026-05-23T00:09:08.670057Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
       "title_original": "【盖世快讯】特斯拉监督版FSD官宣入华；英伟达净利润暴涨211%；油价上调",
       "title_en": null,
       "title_zh": "【盖世快讯】特斯拉监督版FSD官宣入华；英伟达净利润暴涨211%；油价上调",
@@ -1389,7 +1601,7 @@
       "url": "https://cnevpost.com/2026/05/22/saic-100-million-vehicle-delivery-milestone-end-may",
       "published_at": "2026-05-22T06:33:52Z",
       "first_seen_at": "2026-05-22T08:20:48.554791Z",
-      "last_seen_at": "2026-05-23T00:09:08.670057Z",
+      "last_seen_at": "2026-05-23T04:23:41.549929Z",
       "title_original": "SAIC to hit 100 million vehicle delivery milestone by end of May",
       "title_en": "SAIC to hit 100 million vehicle delivery milestone by end of May",
       "title_zh": "上汽集团5月底交付汽车1亿辆",
@@ -1510,84 +1722,6 @@
       "topic_tags": [
         "新能源",
         "补能电池"
-      ]
-    },
-    {
-      "id": "877428e84d7aad1079831843cdd1a6f53fa11165",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Voyah previews Passion S sports SUV to compete with Xiaomi YU7",
-      "url": "https://cnevpost.com/2026/05/22/voyah-previews-passion-s-sports-suv",
-      "published_at": "2026-05-22T03:34:01Z",
-      "first_seen_at": "2026-05-22T04:43:37.805441Z",
-      "last_seen_at": "2026-05-23T00:09:08.670057Z",
-      "title_original": "Voyah previews Passion S sports SUV to compete with Xiaomi YU7",
-      "title_en": "Voyah previews Passion S sports SUV to compete with Xiaomi YU7",
-      "title_zh": "Voyah预览Passion S运动SUV 与小米YU7竞争",
-      "title_bilingual": "Voyah预览Passion S运动SUV 与小米YU7竞争 / Voyah previews Passion S sports SUV to compete with Xiaomi YU7",
-      "topic_tags": [
-        "新能源",
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "ee5e4e1395bd4d23e1b08524b4669b79b7beaa8b",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "BYD tops China EV “lawsuit leaderboard” with 1.02 million USD in blogger claims",
-      "url": "https://carnewschina.com/2026/05/22/byd-tops-china-ev-lawsuit-leaderboard-with-1-02-million-usd-in-blogger-claims",
-      "published_at": "2026-05-22T03:06:19Z",
-      "first_seen_at": "2026-05-22T04:43:37.805441Z",
-      "last_seen_at": "2026-05-23T00:09:08.670057Z",
-      "title_original": "BYD tops China EV “lawsuit leaderboard” with 1.02 million USD in blogger claims",
-      "title_en": "BYD tops China EV “lawsuit leaderboard” with 1.02 million USD in blogger claims",
-      "title_zh": "比亚迪博主索赔102万美元，位居中国电动汽车“诉讼排行榜”榜首",
-      "title_bilingual": "比亚迪博主索赔102万美元，位居中国电动汽车“诉讼排行榜”榜首 / BYD tops China EV “lawsuit leaderboard” with 1.02 million USD in blogger claims",
-      "topic_tags": [
-        "新能源",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "226a1a428ee79527db49cb9576ecfc951314aee2",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Nio shares rise in Hong Kong after reporting upbeat Q1 earnings",
-      "url": "https://cnevpost.com/2026/05/22/nio-shares-rise-hk-after-q1-earnings",
-      "published_at": "2026-05-22T02:12:36Z",
-      "first_seen_at": "2026-05-22T04:43:37.805441Z",
-      "last_seen_at": "2026-05-23T00:09:08.670057Z",
-      "title_original": "Nio shares rise in Hong Kong after reporting upbeat Q1 earnings",
-      "title_en": "Nio shares rise in Hong Kong after reporting upbeat Q1 earnings",
-      "title_zh": "报告乐观的第一季度盈利后，蔚来股价在香港上涨",
-      "title_bilingual": "报告乐观的第一季度盈利后，蔚来股价在香港上涨 / Nio shares rise in Hong Kong after reporting upbeat Q1 earnings",
-      "topic_tags": [
-        "新能源",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "430065db0a3a436fc2674b19bc870c2173402205",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Voyah Passion S official images released: a Xiaomi YU7 challenger with 637 hp",
-      "url": "https://carnewschina.com/2026/05/22/voyah-passion-s-official-images-released-a-xiaomi-yu7-challenger-with-637-hp",
-      "published_at": "2026-05-22T01:12:50Z",
-      "first_seen_at": "2026-05-22T04:43:37.805441Z",
-      "last_seen_at": "2026-05-23T00:09:08.670057Z",
-      "title_original": "Voyah Passion S official images released: a Xiaomi YU7 challenger with 637 hp",
-      "title_en": "Voyah Passion S official images released: a Xiaomi YU7 challenger with 637 hp",
-      "title_zh": "Voyah Passion S官方图片发布：小米YU7挑战者，637马力",
-      "title_bilingual": "Voyah Passion S官方图片发布：小米YU7挑战者，637马力 / Voyah Passion S official images released: a Xiaomi YU7 challenger with 637 hp",
-      "topic_tags": [
-        "新能源",
-        "车企竞争",
-        "新车上市"
       ]
     }
   ],
