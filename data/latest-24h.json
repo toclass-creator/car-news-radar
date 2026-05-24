@@ -1,42 +1,42 @@
 {
-  "generated_at": "2026-05-24T06:00:08.933531Z",
+  "generated_at": "2026-05-24T08:42:24.452954Z",
   "window_hours": 24,
-  "total_items": 18,
-  "total_items_ai_raw": 18,
-  "total_items_raw": 3086,
-  "total_items_all_mode": 2888,
+  "total_items": 17,
+  "total_items_ai_raw": 17,
+  "total_items_raw": 3059,
+  "total_items_all_mode": 2877,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 62240,
+  "archive_total": 62566,
   "site_count": 3,
-  "source_count": 6,
+  "source_count": 5,
   "site_stats": [
-    {
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "count": 8,
-      "raw_count": 8
-    },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "count": 8,
-      "raw_count": 2939
+      "raw_count": 2915
+    },
+    {
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "count": 5,
+      "raw_count": 5
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
-      "count": 2,
+      "count": 4,
       "raw_count": 139
     }
   ],
   "topic_tag_stats": [
     {
       "tag": "车企竞争",
-      "count": 11
+      "count": 9
     },
     {
       "tag": "新能源",
-      "count": 10
+      "count": 8
     },
     {
       "tag": "购车决策",
@@ -44,18 +44,18 @@
     },
     {
       "tag": "销量市场",
-      "count": 4
-    },
-    {
-      "tag": "新车上市",
-      "count": 3
+      "count": 5
     },
     {
       "tag": "召回安全",
       "count": 2
     },
     {
-      "tag": "补能电池",
+      "tag": "新车上市",
+      "count": 2
+    },
+    {
+      "tag": "智能驾驶",
       "count": 2
     },
     {
@@ -67,12 +67,49 @@
       "count": 1
     },
     {
-      "tag": "智能驾驶",
+      "tag": "补能电池",
       "count": 1
     }
   ],
   "items": [
     {
+      "id": "f8eba81a1309df9d6ab17d059193d361a0042d40",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "36kr",
+      "title": "韩国：三星电子、SK海力士等前五大企业出口额占整体出口比重超四成",
+      "url": "https://www.36kr.com/newsflashes/3822857046364295",
+      "published_at": "2026-05-24T07:15:32.362000Z",
+      "first_seen_at": "2026-05-24T08:42:24.452954Z",
+      "last_seen_at": "2026-05-24T08:42:24.452954Z",
+      "title_original": "韩国：三星电子、SK海力士等前五大企业出口额占整体出口比重超四成",
+      "title_en": null,
+      "title_zh": "韩国：三星电子、SK海力士等前五大企业出口额占整体出口比重超四成",
+      "title_bilingual": "韩国：三星电子、SK海力士等前五大企业出口额占整体出口比重超四成",
+      "topic_tags": [
+        "销量市场"
+      ]
+    },
+    {
+      "id": "a94fa2af84f878794904d570294f363965667988",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "36kr",
+      "title": "特斯拉FSD中文名调整为“特斯拉辅助驾驶”：价格依旧为6.4万元",
+      "url": "https://www.36kr.com/newsflashes/3822856592085379",
+      "published_at": "2026-05-24T07:13:32.362000Z",
+      "first_seen_at": "2026-05-24T08:42:24.452954Z",
+      "last_seen_at": "2026-05-24T08:42:24.452954Z",
+      "title_original": "特斯拉FSD中文名调整为“特斯拉辅助驾驶”：价格依旧为6.4万元",
+      "title_en": null,
+      "title_zh": "特斯拉FSD中文名调整为“特斯拉辅助驾驶”：价格依旧为6.4万元",
+      "title_bilingual": "特斯拉FSD中文名调整为“特斯拉辅助驾驶”：价格依旧为6.4万元",
+      "topic_tags": [
+        "智能驾驶",
+        "车企竞争"
+      ]
+    },
+    {
       "id": "3b89221bf05ed54b6318b19f04710fd1bb0ddb38",
       "site_id": "newsnow",
       "site_name": "NewsNow",
@@ -81,7 +118,7 @@
       "url": "https://www.36kr.com/newsflashes/3822778731368838",
       "published_at": "2026-05-24T05:30:46.768000Z",
       "first_seen_at": "2026-05-24T06:00:08.933531Z",
-      "last_seen_at": "2026-05-24T06:00:08.933531Z",
+      "last_seen_at": "2026-05-24T08:42:24.452954Z",
       "title_original": "一季度韩国前五大企业出口占比达44%",
       "title_en": null,
       "title_zh": "一季度韩国前五大企业出口占比达44%",
@@ -99,7 +136,7 @@
       "url": "https://carnewschina.com/2026/05/24/byds-denza-z9-gt-chopard-edition-sold-for-811000-usd-most-expensive-denza-ever",
       "published_at": "2026-05-24T03:01:54Z",
       "first_seen_at": "2026-05-24T06:00:08.933531Z",
-      "last_seen_at": "2026-05-24T06:00:08.933531Z",
+      "last_seen_at": "2026-05-24T08:42:24.452954Z",
       "title_original": "BYD’s Denza Z9 GT Chopard edition sold for 811,000 USD, most expensive Denza ever",
       "title_en": "BYD’s Denza Z9 GT Chopard edition sold for 811,000 USD, most expensive Denza ever",
       "title_zh": "比亚迪腾势Z9 GT萧邦版售价81.1万美元，创腾势史上最贵价格",
@@ -119,7 +156,7 @@
       "url": "https://carnewschina.com/2026/05/23/byd-assisted-driving-slashes-severe-accident-rate-to-one-sixth-across-3-million-vehicles",
       "published_at": "2026-05-23T20:43:41Z",
       "first_seen_at": "2026-05-23T21:25:43.264135Z",
-      "last_seen_at": "2026-05-24T06:00:08.933531Z",
+      "last_seen_at": "2026-05-24T08:42:24.452954Z",
       "title_original": "BYD: assisted driving slashes severe accident rate to one-sixth across 3 million vehicles",
       "title_en": "BYD: assisted driving slashes severe accident rate to one-sixth across 3 million vehicles",
       "title_zh": "比亚迪：辅助驾驶将300万辆汽车严重事故率降至六分之一",
@@ -140,7 +177,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/ebee8aa92e444898/115049283-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-23T19:06:28.932326Z",
-      "last_seen_at": "2026-05-24T06:00:08.933531Z",
+      "last_seen_at": "2026-05-24T08:42:24.452954Z",
       "title_original": "底盘很扎实 奥迪A4L提车作业分享",
       "title_en": null,
       "title_zh": "底盘很扎实 奥迪A4L提车作业分享",
@@ -160,7 +197,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/a1d14aff65149aea/115106410-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-23T19:06:28.932326Z",
-      "last_seen_at": "2026-05-24T06:00:08.933531Z",
+      "last_seen_at": "2026-05-24T08:42:24.452954Z",
       "title_original": "接地气的参考 eπ008增程版能耗实测",
       "title_en": null,
       "title_zh": "接地气的参考 eπ008增程版能耗实测",
@@ -178,7 +215,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/6e55a166087215c2/115102778-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-23T19:06:28.932326Z",
-      "last_seen_at": "2026-05-24T06:00:08.933531Z",
+      "last_seen_at": "2026-05-24T08:42:24.452954Z",
       "title_original": "表现很稳定 极氪7X用车感受分享",
       "title_en": null,
       "title_zh": "表现很稳定 极氪7X用车感受分享",
@@ -197,7 +234,7 @@
       "url": "http://vc.yiche.com/vplay/11167365.html",
       "published_at": null,
       "first_seen_at": "2026-05-23T19:06:28.932326Z",
-      "last_seen_at": "2026-05-24T06:00:08.933531Z",
+      "last_seen_at": "2026-05-24T08:42:24.452954Z",
       "title_original": "城区道路实测，试驾星越L i-HEV，油耗到底多低？",
       "title_en": null,
       "title_zh": "城区道路实测，试驾星越L i-HEV，油耗到底多低？",
@@ -215,7 +252,7 @@
       "url": "http://vc.yiche.com/vplay/11164421.html",
       "published_at": null,
       "first_seen_at": "2026-05-23T19:06:28.932326Z",
-      "last_seen_at": "2026-05-24T06:00:08.933531Z",
+      "last_seen_at": "2026-05-24T08:42:24.452954Z",
       "title_original": "体验大唐EV：全尺寸、闪充、3.9秒破百，订单破10万不意外！",
       "title_en": null,
       "title_zh": "体验大唐EV：全尺寸、闪充、3.9秒破百，订单破10万不意外！",
@@ -236,7 +273,7 @@
       "url": "http://vc.yiche.com/vplay/11229584.html",
       "published_at": null,
       "first_seen_at": "2026-05-23T19:06:28.932326Z",
-      "last_seen_at": "2026-05-24T06:00:08.933531Z",
+      "last_seen_at": "2026-05-24T08:42:24.452954Z",
       "title_original": "极狐再出新车 这台产品力不错？试驾极狐贝塔S3",
       "title_en": null,
       "title_zh": "极狐再出新车 这台产品力不错？试驾极狐贝塔S3",
@@ -255,7 +292,7 @@
       "url": "http://vc.yiche.com/vplay/11167435.html",
       "published_at": null,
       "first_seen_at": "2026-05-23T19:06:28.932326Z",
-      "last_seen_at": "2026-05-24T06:00:08.933531Z",
+      "last_seen_at": "2026-05-24T08:42:24.452954Z",
       "title_original": "国产公路之王？实车试驾极氪8X千里浩瀚",
       "title_en": null,
       "title_zh": "国产公路之王？实车试驾极氪8X千里浩瀚",
@@ -274,7 +311,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/3f5ef078c5260b93/115048571-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-23T16:06:26.000316Z",
-      "last_seen_at": "2026-05-24T06:00:08.933531Z",
+      "last_seen_at": "2026-05-24T08:42:24.452954Z",
       "title_original": "适合日常通勤 QQ3 EV提车作业分享",
       "title_en": null,
       "title_zh": "适合日常通勤 QQ3 EV提车作业分享",
@@ -293,7 +330,7 @@
       "url": "https://cnevpost.com/2026/05/23/vw-launches-id-unyx-07-06-china",
       "published_at": "2026-05-23T13:24:25Z",
       "first_seen_at": "2026-05-23T13:55:02.982240Z",
-      "last_seen_at": "2026-05-24T06:00:08.933531Z",
+      "last_seen_at": "2026-05-24T08:42:24.452954Z",
       "title_original": "VW expands China EV lineup with new ID. UNYX 07 sedan and upgraded 06 SUV",
       "title_en": "VW expands China EV lineup with new ID. UNYX 07 sedan and upgraded 06 SUV",
       "title_zh": "大众凭借新ID扩大了中国电动汽车产品线。 UNYX 07轿车和升级版06 SUV",
@@ -313,7 +350,7 @@
       "url": "https://cnevpost.com/2026/05/23/nio-slows-overseas-expansion-focus-domestic-market",
       "published_at": "2026-05-23T12:14:28Z",
       "first_seen_at": "2026-05-23T13:55:02.982240Z",
-      "last_seen_at": "2026-05-24T06:00:08.933531Z",
+      "last_seen_at": "2026-05-24T08:42:24.452954Z",
       "title_original": "Nio slows overseas expansion to focus on domestic market and profitability",
       "title_en": "Nio slows overseas expansion to focus on domestic market and profitability",
       "title_zh": "蔚来放缓海外扩张，专注于国内市场和盈利能力",
@@ -333,7 +370,7 @@
       "url": "https://cnevpost.com/2026/05/23/nio-firefly-60000-delivery-milestone",
       "published_at": "2026-05-23T11:46:16Z",
       "first_seen_at": "2026-05-23T11:59:00.522847Z",
-      "last_seen_at": "2026-05-24T06:00:08.933531Z",
+      "last_seen_at": "2026-05-24T08:42:24.452954Z",
       "title_original": "Nio's Firefly brand reaches 60,000 delivery milestone",
       "title_en": "Nio's Firefly brand reaches 60,000 delivery milestone",
       "title_zh": "蔚来Firefly品牌交付量突破6万辆里程碑",
@@ -360,69 +397,48 @@
       "title_bilingual": "丰田汽车公司向美国国家公路交通安全管理局提交召回申请，涉及43566辆美国在售车辆",
       "topic_tags": [
         "召回安全"
-      ]
-    },
-    {
-      "id": "e95d5559181760a1cef95e82913a8e1be3e552b8",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Volkswagen launches ID. Unyx 07 in China: co-developed with Xpeng, starting at 16,200 USD",
-      "url": "https://carnewschina.com/2026/05/23/volkswagen-launches-id-unyx-07-in-china-co-developed-with-xpeng-starting-at-16200-usd",
-      "published_at": "2026-05-23T07:48:39Z",
-      "first_seen_at": "2026-05-23T09:19:56.128168Z",
-      "last_seen_at": "2026-05-24T06:00:08.933531Z",
-      "title_original": "Volkswagen launches ID. Unyx 07 in China: co-developed with Xpeng, starting at 16,200 USD",
-      "title_en": "Volkswagen launches ID. Unyx 07 in China: co-developed with Xpeng, starting at 16,200 USD",
-      "title_zh": "大众汽车推出ID. Unyx 07在中国：与小鹏汽车共同开发，起价16,200美元",
-      "title_bilingual": "大众汽车推出ID. Unyx 07在中国：与小鹏汽车共同开发，起价16,200美元 / Volkswagen launches ID. Unyx 07 in China: co-developed with Xpeng, starting at 16,200 USD",
-      "topic_tags": [
-        "新能源",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "6947d86595193e5f7c7e90d020ec9f951df95a17",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "小米YU7，再战Model Y",
-      "url": "https://auto.gasgoo.com/news/202605/23I70458968C109.shtml",
-      "published_at": "2026-05-23T07:05:28Z",
-      "first_seen_at": "2026-05-23T23:29:22.649973Z",
-      "last_seen_at": "2026-05-24T06:00:08.933531Z",
-      "title_original": "小米YU7，再战Model Y",
-      "title_en": null,
-      "title_zh": "小米YU7，再战Model Y",
-      "title_bilingual": "小米YU7，再战Model Y",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "9283a65648de30aec9027d6804f03da776d3578f",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "China’s best seller gets refreshed, Geely EX2 with max 460km range launches on May 28",
-      "url": "https://carnewschina.com/2026/05/23/chinas-best-seller-gets-refreshed-geely-ex2-with-max-460km-range-launches-on-may-28",
-      "published_at": "2026-05-23T06:29:17Z",
-      "first_seen_at": "2026-05-23T07:14:23.001576Z",
-      "last_seen_at": "2026-05-24T06:00:08.933531Z",
-      "title_original": "China’s best seller gets refreshed, Geely EX2 with max 460km range launches on May 28",
-      "title_en": "China’s best seller gets refreshed, Geely EX2 with max 460km range launches on May 28",
-      "title_zh": "国内畅销车型焕然一新，续航里程460公里吉利EX25月28日上市",
-      "title_bilingual": "国内畅销车型焕然一新，续航里程460公里吉利EX25月28日上市 / China’s best seller gets refreshed, Geely EX2 with max 460km range launches on May 28",
-      "topic_tags": [
-        "新能源",
-        "补能电池",
-        "车企竞争",
-        "新车上市"
       ]
     }
   ],
   "items_ai": [
     {
+      "id": "f8eba81a1309df9d6ab17d059193d361a0042d40",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "36kr",
+      "title": "韩国：三星电子、SK海力士等前五大企业出口额占整体出口比重超四成",
+      "url": "https://www.36kr.com/newsflashes/3822857046364295",
+      "published_at": "2026-05-24T07:15:32.362000Z",
+      "first_seen_at": "2026-05-24T08:42:24.452954Z",
+      "last_seen_at": "2026-05-24T08:42:24.452954Z",
+      "title_original": "韩国：三星电子、SK海力士等前五大企业出口额占整体出口比重超四成",
+      "title_en": null,
+      "title_zh": "韩国：三星电子、SK海力士等前五大企业出口额占整体出口比重超四成",
+      "title_bilingual": "韩国：三星电子、SK海力士等前五大企业出口额占整体出口比重超四成",
+      "topic_tags": [
+        "销量市场"
+      ]
+    },
+    {
+      "id": "a94fa2af84f878794904d570294f363965667988",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "36kr",
+      "title": "特斯拉FSD中文名调整为“特斯拉辅助驾驶”：价格依旧为6.4万元",
+      "url": "https://www.36kr.com/newsflashes/3822856592085379",
+      "published_at": "2026-05-24T07:13:32.362000Z",
+      "first_seen_at": "2026-05-24T08:42:24.452954Z",
+      "last_seen_at": "2026-05-24T08:42:24.452954Z",
+      "title_original": "特斯拉FSD中文名调整为“特斯拉辅助驾驶”：价格依旧为6.4万元",
+      "title_en": null,
+      "title_zh": "特斯拉FSD中文名调整为“特斯拉辅助驾驶”：价格依旧为6.4万元",
+      "title_bilingual": "特斯拉FSD中文名调整为“特斯拉辅助驾驶”：价格依旧为6.4万元",
+      "topic_tags": [
+        "智能驾驶",
+        "车企竞争"
+      ]
+    },
+    {
       "id": "3b89221bf05ed54b6318b19f04710fd1bb0ddb38",
       "site_id": "newsnow",
       "site_name": "NewsNow",
@@ -431,7 +447,7 @@
       "url": "https://www.36kr.com/newsflashes/3822778731368838",
       "published_at": "2026-05-24T05:30:46.768000Z",
       "first_seen_at": "2026-05-24T06:00:08.933531Z",
-      "last_seen_at": "2026-05-24T06:00:08.933531Z",
+      "last_seen_at": "2026-05-24T08:42:24.452954Z",
       "title_original": "一季度韩国前五大企业出口占比达44%",
       "title_en": null,
       "title_zh": "一季度韩国前五大企业出口占比达44%",
@@ -449,7 +465,7 @@
       "url": "https://carnewschina.com/2026/05/24/byds-denza-z9-gt-chopard-edition-sold-for-811000-usd-most-expensive-denza-ever",
       "published_at": "2026-05-24T03:01:54Z",
       "first_seen_at": "2026-05-24T06:00:08.933531Z",
-      "last_seen_at": "2026-05-24T06:00:08.933531Z",
+      "last_seen_at": "2026-05-24T08:42:24.452954Z",
       "title_original": "BYD’s Denza Z9 GT Chopard edition sold for 811,000 USD, most expensive Denza ever",
       "title_en": "BYD’s Denza Z9 GT Chopard edition sold for 811,000 USD, most expensive Denza ever",
       "title_zh": "比亚迪腾势Z9 GT萧邦版售价81.1万美元，创腾势史上最贵价格",
@@ -469,7 +485,7 @@
       "url": "https://carnewschina.com/2026/05/23/byd-assisted-driving-slashes-severe-accident-rate-to-one-sixth-across-3-million-vehicles",
       "published_at": "2026-05-23T20:43:41Z",
       "first_seen_at": "2026-05-23T21:25:43.264135Z",
-      "last_seen_at": "2026-05-24T06:00:08.933531Z",
+      "last_seen_at": "2026-05-24T08:42:24.452954Z",
       "title_original": "BYD: assisted driving slashes severe accident rate to one-sixth across 3 million vehicles",
       "title_en": "BYD: assisted driving slashes severe accident rate to one-sixth across 3 million vehicles",
       "title_zh": "比亚迪：辅助驾驶将300万辆汽车严重事故率降至六分之一",
@@ -490,7 +506,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/ebee8aa92e444898/115049283-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-23T19:06:28.932326Z",
-      "last_seen_at": "2026-05-24T06:00:08.933531Z",
+      "last_seen_at": "2026-05-24T08:42:24.452954Z",
       "title_original": "底盘很扎实 奥迪A4L提车作业分享",
       "title_en": null,
       "title_zh": "底盘很扎实 奥迪A4L提车作业分享",
@@ -510,7 +526,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/a1d14aff65149aea/115106410-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-23T19:06:28.932326Z",
-      "last_seen_at": "2026-05-24T06:00:08.933531Z",
+      "last_seen_at": "2026-05-24T08:42:24.452954Z",
       "title_original": "接地气的参考 eπ008增程版能耗实测",
       "title_en": null,
       "title_zh": "接地气的参考 eπ008增程版能耗实测",
@@ -528,7 +544,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/6e55a166087215c2/115102778-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-23T19:06:28.932326Z",
-      "last_seen_at": "2026-05-24T06:00:08.933531Z",
+      "last_seen_at": "2026-05-24T08:42:24.452954Z",
       "title_original": "表现很稳定 极氪7X用车感受分享",
       "title_en": null,
       "title_zh": "表现很稳定 极氪7X用车感受分享",
@@ -547,7 +563,7 @@
       "url": "http://vc.yiche.com/vplay/11167365.html",
       "published_at": null,
       "first_seen_at": "2026-05-23T19:06:28.932326Z",
-      "last_seen_at": "2026-05-24T06:00:08.933531Z",
+      "last_seen_at": "2026-05-24T08:42:24.452954Z",
       "title_original": "城区道路实测，试驾星越L i-HEV，油耗到底多低？",
       "title_en": null,
       "title_zh": "城区道路实测，试驾星越L i-HEV，油耗到底多低？",
@@ -565,7 +581,7 @@
       "url": "http://vc.yiche.com/vplay/11164421.html",
       "published_at": null,
       "first_seen_at": "2026-05-23T19:06:28.932326Z",
-      "last_seen_at": "2026-05-24T06:00:08.933531Z",
+      "last_seen_at": "2026-05-24T08:42:24.452954Z",
       "title_original": "体验大唐EV：全尺寸、闪充、3.9秒破百，订单破10万不意外！",
       "title_en": null,
       "title_zh": "体验大唐EV：全尺寸、闪充、3.9秒破百，订单破10万不意外！",
@@ -586,7 +602,7 @@
       "url": "http://vc.yiche.com/vplay/11229584.html",
       "published_at": null,
       "first_seen_at": "2026-05-23T19:06:28.932326Z",
-      "last_seen_at": "2026-05-24T06:00:08.933531Z",
+      "last_seen_at": "2026-05-24T08:42:24.452954Z",
       "title_original": "极狐再出新车 这台产品力不错？试驾极狐贝塔S3",
       "title_en": null,
       "title_zh": "极狐再出新车 这台产品力不错？试驾极狐贝塔S3",
@@ -605,7 +621,7 @@
       "url": "http://vc.yiche.com/vplay/11167435.html",
       "published_at": null,
       "first_seen_at": "2026-05-23T19:06:28.932326Z",
-      "last_seen_at": "2026-05-24T06:00:08.933531Z",
+      "last_seen_at": "2026-05-24T08:42:24.452954Z",
       "title_original": "国产公路之王？实车试驾极氪8X千里浩瀚",
       "title_en": null,
       "title_zh": "国产公路之王？实车试驾极氪8X千里浩瀚",
@@ -624,7 +640,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/3f5ef078c5260b93/115048571-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-23T16:06:26.000316Z",
-      "last_seen_at": "2026-05-24T06:00:08.933531Z",
+      "last_seen_at": "2026-05-24T08:42:24.452954Z",
       "title_original": "适合日常通勤 QQ3 EV提车作业分享",
       "title_en": null,
       "title_zh": "适合日常通勤 QQ3 EV提车作业分享",
@@ -643,7 +659,7 @@
       "url": "https://cnevpost.com/2026/05/23/vw-launches-id-unyx-07-06-china",
       "published_at": "2026-05-23T13:24:25Z",
       "first_seen_at": "2026-05-23T13:55:02.982240Z",
-      "last_seen_at": "2026-05-24T06:00:08.933531Z",
+      "last_seen_at": "2026-05-24T08:42:24.452954Z",
       "title_original": "VW expands China EV lineup with new ID. UNYX 07 sedan and upgraded 06 SUV",
       "title_en": "VW expands China EV lineup with new ID. UNYX 07 sedan and upgraded 06 SUV",
       "title_zh": "大众凭借新ID扩大了中国电动汽车产品线。 UNYX 07轿车和升级版06 SUV",
@@ -663,7 +679,7 @@
       "url": "https://cnevpost.com/2026/05/23/nio-slows-overseas-expansion-focus-domestic-market",
       "published_at": "2026-05-23T12:14:28Z",
       "first_seen_at": "2026-05-23T13:55:02.982240Z",
-      "last_seen_at": "2026-05-24T06:00:08.933531Z",
+      "last_seen_at": "2026-05-24T08:42:24.452954Z",
       "title_original": "Nio slows overseas expansion to focus on domestic market and profitability",
       "title_en": "Nio slows overseas expansion to focus on domestic market and profitability",
       "title_zh": "蔚来放缓海外扩张，专注于国内市场和盈利能力",
@@ -683,7 +699,7 @@
       "url": "https://cnevpost.com/2026/05/23/nio-firefly-60000-delivery-milestone",
       "published_at": "2026-05-23T11:46:16Z",
       "first_seen_at": "2026-05-23T11:59:00.522847Z",
-      "last_seen_at": "2026-05-24T06:00:08.933531Z",
+      "last_seen_at": "2026-05-24T08:42:24.452954Z",
       "title_original": "Nio's Firefly brand reaches 60,000 delivery milestone",
       "title_en": "Nio's Firefly brand reaches 60,000 delivery milestone",
       "title_zh": "蔚来Firefly品牌交付量突破6万辆里程碑",
@@ -710,64 +726,6 @@
       "title_bilingual": "丰田汽车公司向美国国家公路交通安全管理局提交召回申请，涉及43566辆美国在售车辆",
       "topic_tags": [
         "召回安全"
-      ]
-    },
-    {
-      "id": "e95d5559181760a1cef95e82913a8e1be3e552b8",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Volkswagen launches ID. Unyx 07 in China: co-developed with Xpeng, starting at 16,200 USD",
-      "url": "https://carnewschina.com/2026/05/23/volkswagen-launches-id-unyx-07-in-china-co-developed-with-xpeng-starting-at-16200-usd",
-      "published_at": "2026-05-23T07:48:39Z",
-      "first_seen_at": "2026-05-23T09:19:56.128168Z",
-      "last_seen_at": "2026-05-24T06:00:08.933531Z",
-      "title_original": "Volkswagen launches ID. Unyx 07 in China: co-developed with Xpeng, starting at 16,200 USD",
-      "title_en": "Volkswagen launches ID. Unyx 07 in China: co-developed with Xpeng, starting at 16,200 USD",
-      "title_zh": "大众汽车推出ID. Unyx 07在中国：与小鹏汽车共同开发，起价16,200美元",
-      "title_bilingual": "大众汽车推出ID. Unyx 07在中国：与小鹏汽车共同开发，起价16,200美元 / Volkswagen launches ID. Unyx 07 in China: co-developed with Xpeng, starting at 16,200 USD",
-      "topic_tags": [
-        "新能源",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "6947d86595193e5f7c7e90d020ec9f951df95a17",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "小米YU7，再战Model Y",
-      "url": "https://auto.gasgoo.com/news/202605/23I70458968C109.shtml",
-      "published_at": "2026-05-23T07:05:28Z",
-      "first_seen_at": "2026-05-23T23:29:22.649973Z",
-      "last_seen_at": "2026-05-24T06:00:08.933531Z",
-      "title_original": "小米YU7，再战Model Y",
-      "title_en": null,
-      "title_zh": "小米YU7，再战Model Y",
-      "title_bilingual": "小米YU7，再战Model Y",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "9283a65648de30aec9027d6804f03da776d3578f",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "China’s best seller gets refreshed, Geely EX2 with max 460km range launches on May 28",
-      "url": "https://carnewschina.com/2026/05/23/chinas-best-seller-gets-refreshed-geely-ex2-with-max-460km-range-launches-on-may-28",
-      "published_at": "2026-05-23T06:29:17Z",
-      "first_seen_at": "2026-05-23T07:14:23.001576Z",
-      "last_seen_at": "2026-05-24T06:00:08.933531Z",
-      "title_original": "China’s best seller gets refreshed, Geely EX2 with max 460km range launches on May 28",
-      "title_en": "China’s best seller gets refreshed, Geely EX2 with max 460km range launches on May 28",
-      "title_zh": "国内畅销车型焕然一新，续航里程460公里吉利EX25月28日上市",
-      "title_bilingual": "国内畅销车型焕然一新，续航里程460公里吉利EX25月28日上市 / China’s best seller gets refreshed, Geely EX2 with max 460km range launches on May 28",
-      "topic_tags": [
-        "新能源",
-        "补能电池",
-        "车企竞争",
-        "新车上市"
       ]
     }
   ],
