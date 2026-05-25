@@ -1,38 +1,42 @@
 {
-  "generated_at": "2026-05-25T04:20:17.755804Z",
+  "generated_at": "2026-05-25T08:45:10.480169Z",
   "window_hours": 24,
-  "total_items": 19,
-  "total_items_ai_raw": 20,
-  "total_items_raw": 3407,
-  "total_items_all_mode": 3162,
+  "total_items": 21,
+  "total_items_ai_raw": 23,
+  "total_items_raw": 3136,
+  "total_items_all_mode": 2912,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 65126,
+  "archive_total": 65710,
   "site_count": 3,
-  "source_count": 7,
+  "source_count": 9,
   "site_stats": [
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "count": 10,
-      "raw_count": 3250
+      "raw_count": 2981
     },
     {
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "count": 6,
-      "raw_count": 7
+      "count": 9,
+      "raw_count": 11
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
-      "count": 3,
-      "raw_count": 150
+      "count": 2,
+      "raw_count": 144
     }
   ],
   "topic_tag_stats": [
     {
       "tag": "车企竞争",
-      "count": 13
+      "count": 15
+    },
+    {
+      "tag": "补能电池",
+      "count": 6
     },
     {
       "tag": "购车决策",
@@ -40,27 +44,19 @@
     },
     {
       "tag": "新能源",
-      "count": 4
+      "count": 5
     },
     {
       "tag": "新车上市",
       "count": 4
     },
     {
-      "tag": "补能电池",
-      "count": 4
-    },
-    {
-      "tag": "销量市场",
-      "count": 3
-    },
-    {
       "tag": "价格战",
       "count": 2
     },
     {
-      "tag": "供应链",
-      "count": 1
+      "tag": "销量市场",
+      "count": 2
     },
     {
       "tag": "智能驾驶",
@@ -69,6 +65,80 @@
   ],
   "items": [
     {
+      "id": "e6926a491fe182ab69dff9f1a9743028581b191a",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-Battery",
+      "title": "CATL launches China's first standardized light truck battery swap ecosystem",
+      "url": "https://cnevpost.com/2026/05/25/catl-launches-chinas-first-standardized-light-truck-battery-swap-ecosystem",
+      "published_at": "2026-05-25T08:06:50Z",
+      "first_seen_at": "2026-05-25T08:45:10.480169Z",
+      "last_seen_at": "2026-05-25T08:45:10.480169Z",
+      "title_original": "CATL launches China's first standardized light truck battery swap ecosystem",
+      "title_en": "CATL launches China's first standardized light truck battery swap ecosystem",
+      "title_zh": "宁德时代推出中国首个标准化轻卡换电生态系统",
+      "title_bilingual": "宁德时代推出中国首个标准化轻卡换电生态系统 / CATL launches China's first standardized light truck battery swap ecosystem",
+      "topic_tags": [
+        "补能电池"
+      ]
+    },
+    {
+      "id": "ce72be1795822ba83c423a552a8b83b91d306e31",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "36kr",
+      "title": "吉利汽车在湖州成立新汽车部件有限公司，注册资本1亿",
+      "url": "https://www.36kr.com/newsflashes/3824412485537927",
+      "published_at": "2026-05-25T07:53:39.180000Z",
+      "first_seen_at": "2026-05-25T08:45:10.480169Z",
+      "last_seen_at": "2026-05-25T08:45:10.480169Z",
+      "title_original": "吉利汽车在湖州成立新汽车部件有限公司，注册资本1亿",
+      "title_en": null,
+      "title_zh": "吉利汽车在湖州成立新汽车部件有限公司，注册资本1亿",
+      "title_bilingual": "吉利汽车在湖州成立新汽车部件有限公司，注册资本1亿",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "734e5229ade64a268328ecd19ba1e155c9f2b159",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "36kr",
+      "title": "市场监管总局无条件批准长安汽车与江铃集团收购江铃控股股权案等",
+      "url": "https://www.36kr.com/newsflashes/3824355984494980",
+      "published_at": "2026-05-25T07:20:39.180000Z",
+      "first_seen_at": "2026-05-25T08:45:10.480169Z",
+      "last_seen_at": "2026-05-25T08:45:10.480169Z",
+      "title_original": "市场监管总局无条件批准长安汽车与江铃集团收购江铃控股股权案等",
+      "title_en": null,
+      "title_zh": "市场监管总局无条件批准长安汽车与江铃集团收购江铃控股股权案等",
+      "title_bilingual": "市场监管总局无条件批准长安汽车与江铃集团收购江铃控股股权案等",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "8d920fede9fde46ca0e9a221d6d6c78e19afd2ae",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Over 90% of initial Onvo L80 buyers opt for BaaS battery rental",
+      "url": "https://cnevpost.com/2026/05/25/over-90-onvo-l80-buyers-opt-for-baas",
+      "published_at": "2026-05-25T06:28:22Z",
+      "first_seen_at": "2026-05-25T08:45:10.480169Z",
+      "last_seen_at": "2026-05-25T08:45:10.480169Z",
+      "title_original": "Over 90% of initial Onvo L80 buyers opt for BaaS battery rental",
+      "title_en": "Over 90% of initial Onvo L80 buyers opt for BaaS battery rental",
+      "title_zh": "超过 90% 的 Onvo L80 初始购买者选择 BaaS 电池租赁",
+      "title_bilingual": "超过 90% 的 Onvo L80 初始购买者选择 BaaS 电池租赁 / Over 90% of initial Onvo L80 buyers opt for BaaS battery rental",
+      "topic_tags": [
+        "新能源",
+        "补能电池"
+      ]
+    },
+    {
       "id": "78c991bccd8223137f80664643a933f703687251",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -77,7 +147,7 @@
       "url": "https://carnewschina.com/2026/05/25/byd-files-new-sulfide-solid-state-battery-patent-as-china-targets-2027-pilot-production",
       "published_at": "2026-05-25T03:25:50Z",
       "first_seen_at": "2026-05-25T04:20:17.755804Z",
-      "last_seen_at": "2026-05-25T04:20:17.755804Z",
+      "last_seen_at": "2026-05-25T08:45:10.480169Z",
       "title_original": "BYD files sulfide solid‑state battery patent as China targets 2027 pilot production",
       "title_en": "BYD files sulfide solid‑state battery patent as China targets 2027 pilot production",
       "title_zh": "比亚迪申请硫化物固态电池专利，中国计划2027年试生产",
@@ -97,7 +167,7 @@
       "url": "https://cnevpost.com/2026/05/25/xpeng-gx-top-trim-wait-time-29-weeks",
       "published_at": "2026-05-25T03:19:50Z",
       "first_seen_at": "2026-05-25T04:20:17.755804Z",
-      "last_seen_at": "2026-05-25T04:20:17.755804Z",
+      "last_seen_at": "2026-05-25T08:45:10.480169Z",
       "title_original": "Aggressive pricing drives Xpeng GX top-trim wait times to up to 29 weeks",
       "title_en": "Aggressive pricing drives Xpeng GX top-trim wait times to up to 29 weeks",
       "title_zh": "激进的定价导致小鹏GX顶配等待时间长达29周",
@@ -117,7 +187,7 @@
       "url": "https://carnewschina.com/2026/05/25/solid-state-battery-race-china-leads-patents-but-warns-of-losing-global-advantage",
       "published_at": "2026-05-25T02:57:55Z",
       "first_seen_at": "2026-05-25T04:20:17.755804Z",
-      "last_seen_at": "2026-05-25T04:20:17.755804Z",
+      "last_seen_at": "2026-05-25T08:45:10.480169Z",
       "title_original": "Solid‑state battery race: China leads patents but warns of losing global advantage",
       "title_en": "Solid‑state battery race: China leads patents but warns of losing global advantage",
       "title_zh": "固态电池竞赛：中国在专利方面领先，但警告称将失去全球优势",
@@ -136,7 +206,7 @@
       "url": "https://cnevpost.com/2026/05/25/nio-schedules-es9-launch-event-may-27-evening",
       "published_at": "2026-05-25T02:43:05Z",
       "first_seen_at": "2026-05-25T04:20:17.755804Z",
-      "last_seen_at": "2026-05-25T04:20:17.755804Z",
+      "last_seen_at": "2026-05-25T08:45:10.480169Z",
       "title_original": "Nio schedules ES9 launch event for May 27 evening, rapid delivery ready",
       "title_en": "Nio schedules ES9 launch event for May 27 evening, rapid delivery ready",
       "title_zh": "蔚来ES9发布会定于5月27日晚，快速交付已做好准备",
@@ -157,7 +227,7 @@
       "url": "http://vc.yiche.com/vplay/11186534.html",
       "published_at": null,
       "first_seen_at": "2026-05-24T20:03:09.735078Z",
-      "last_seen_at": "2026-05-25T04:20:17.755804Z",
+      "last_seen_at": "2026-05-25T08:45:10.480169Z",
       "title_original": "小鹏GX指导价大幅下探，大型SUV大六座，配置选哪款？",
       "title_en": null,
       "title_zh": "小鹏GX指导价大幅下探，大型SUV大六座，配置选哪款？",
@@ -177,7 +247,7 @@
       "url": "http://vc.yiche.com/vplay/11224691.html",
       "published_at": null,
       "first_seen_at": "2026-05-24T20:03:09.735078Z",
-      "last_seen_at": "2026-05-25T04:20:17.755804Z",
+      "last_seen_at": "2026-05-25T08:45:10.480169Z",
       "title_original": "极狐贝塔S3抢先试驾！5.98万起，给你大空间，长续航！",
       "title_en": null,
       "title_zh": "极狐贝塔S3抢先试驾！5.98万起，给你大空间，长续航！",
@@ -196,7 +266,7 @@
       "url": "http://vc.yiche.com/vplay/11216200.html",
       "published_at": null,
       "first_seen_at": "2026-05-24T20:03:09.735078Z",
-      "last_seen_at": "2026-05-25T04:20:17.755804Z",
+      "last_seen_at": "2026-05-25T08:45:10.480169Z",
       "title_original": "真犯难！小鹏GX还是比亚迪大唐？看完不纠结",
       "title_en": null,
       "title_zh": "真犯难！小鹏GX还是比亚迪大唐？看完不纠结",
@@ -214,7 +284,7 @@
       "url": "http://vc.yiche.com/vplay/11198539.html",
       "published_at": null,
       "first_seen_at": "2026-05-24T20:03:09.735078Z",
-      "last_seen_at": "2026-05-25T04:20:17.755804Z",
+      "last_seen_at": "2026-05-25T08:45:10.480169Z",
       "title_original": "人民的真7系！吉利银河星耀7实至名归",
       "title_en": null,
       "title_zh": "人民的真7系！吉利银河星耀7实至名归",
@@ -232,7 +302,7 @@
       "url": "http://vc.yiche.com/vplay/11183783.html",
       "published_at": null,
       "first_seen_at": "2026-05-24T20:03:09.735078Z",
-      "last_seen_at": "2026-05-25T04:20:17.755804Z",
+      "last_seen_at": "2026-05-25T08:45:10.480169Z",
       "title_original": "零跑首款MPV要来了 二排180度旋转加三排钓鱼座 这谁顶得住",
       "title_en": null,
       "title_zh": "零跑首款MPV要来了 二排180度旋转加三排钓鱼座 这谁顶得住",
@@ -251,7 +321,7 @@
       "url": "http://vc.yiche.com/vplay/11169915.html",
       "published_at": null,
       "first_seen_at": "2026-05-24T20:03:09.735078Z",
-      "last_seen_at": "2026-05-25T04:20:17.755804Z",
+      "last_seen_at": "2026-05-25T08:45:10.480169Z",
       "title_original": "旗舰硬派新选择，方程豹豹8闪充版实力到底有多强？",
       "title_en": null,
       "title_zh": "旗舰硬派新选择，方程豹豹8闪充版实力到底有多强？",
@@ -269,7 +339,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/0768b46c8025d7cd/115086585-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-24T17:12:28.987030Z",
-      "last_seen_at": "2026-05-25T04:20:17.755804Z",
+      "last_seen_at": "2026-05-25T08:45:10.480169Z",
       "title_original": "外观还是保守 探店体验比亚迪 大唐",
       "title_en": null,
       "title_zh": "外观还是保守 探店体验比亚迪 大唐",
@@ -288,7 +358,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/3b6f5cd935d376a2/115142007-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-24T17:12:28.987030Z",
-      "last_seen_at": "2026-05-25T04:20:17.755804Z",
+      "last_seen_at": "2026-05-25T08:45:10.480169Z",
       "title_original": "昊铂S600EV试驾体验性能配置详解",
       "title_en": null,
       "title_zh": "昊铂S600EV试驾体验性能配置详解",
@@ -306,7 +376,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/a69c9c27770a1d8a/115052588-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-24T17:12:28.987030Z",
-      "last_seen_at": "2026-05-25T04:20:17.755804Z",
+      "last_seen_at": "2026-05-25T08:45:10.480169Z",
       "title_original": "性价很比高 零跑A10提车作业分享",
       "title_en": null,
       "title_zh": "性价很比高 零跑A10提车作业分享",
@@ -325,7 +395,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/7cd32a132a7d74c1/115052520-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-24T17:12:28.987030Z",
-      "last_seen_at": "2026-05-25T04:20:17.755804Z",
+      "last_seen_at": "2026-05-25T08:45:10.480169Z",
       "title_original": "适合家用代步 长安启源Q05提车分享",
       "title_en": null,
       "title_zh": "适合家用代步 长安启源Q05提车分享",
@@ -333,6 +403,43 @@
       "topic_tags": [
         "车企竞争",
         "购车决策"
+      ]
+    },
+    {
+      "id": "ce0c1226f4f37e845f5d4d40d3049aa5e574c058",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "小智一周要闻 | 特斯拉产线转产人形机器人；小鹏Robotaxi量产下线",
+      "url": "https://auto.gasgoo.com/news/202605/24I70458943C601.shtml",
+      "published_at": "2026-05-24T16:43:18Z",
+      "first_seen_at": "2026-05-25T08:45:10.480169Z",
+      "last_seen_at": "2026-05-25T08:45:10.480169Z",
+      "title_original": "小智一周要闻 | 特斯拉产线转产人形机器人；小鹏Robotaxi量产下线",
+      "title_en": null,
+      "title_zh": "小智一周要闻 | 特斯拉产线转产人形机器人；小鹏Robotaxi量产下线",
+      "title_bilingual": "小智一周要闻 | 特斯拉产线转产人形机器人；小鹏Robotaxi量产下线",
+      "topic_tags": [
+        "智能驾驶",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "efaa4cbc5815d2a0654fb53011521c331e0c5330",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "E周看点 | 东风汽车将与Stellantis在欧洲成立合资企业；蔚来连续两个季度盈利",
+      "url": "https://auto.gasgoo.com/news/202605/24I70459129C501.shtml",
+      "published_at": "2026-05-24T16:31:05Z",
+      "first_seen_at": "2026-05-25T08:45:10.480169Z",
+      "last_seen_at": "2026-05-25T08:45:10.480169Z",
+      "title_original": "E周看点 | 东风汽车将与Stellantis在欧洲成立合资企业；蔚来连续两个季度盈利",
+      "title_en": null,
+      "title_zh": "E周看点 | 东风汽车将与Stellantis在欧洲成立合资企业；蔚来连续两个季度盈利",
+      "title_bilingual": "E周看点 | 东风汽车将与Stellantis在欧洲成立合资企业；蔚来连续两个季度盈利",
+      "topic_tags": [
+        "车企竞争"
       ]
     },
     {
@@ -344,7 +451,7 @@
       "url": "https://auto.gasgoo.com/news/202605/24I70459124C107.shtml",
       "published_at": "2026-05-24T11:43:33Z",
       "first_seen_at": "2026-05-25T04:20:17.755804Z",
-      "last_seen_at": "2026-05-25T04:20:17.755804Z",
+      "last_seen_at": "2026-05-25T08:45:10.480169Z",
       "title_original": "长安蓝鲸超擎双车上市 售价7.99万-13.19万元",
       "title_en": null,
       "title_zh": "长安蓝鲸超擎双车上市 售价7.99万-13.19万元",
@@ -353,85 +460,85 @@
         "价格战",
         "车企竞争",
         "新车上市"
-      ]
-    },
-    {
-      "id": "f8eba81a1309df9d6ab17d059193d361a0042d40",
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "36kr",
-      "title": "韩国：三星电子、SK海力士等前五大企业出口额占整体出口比重超四成",
-      "url": "https://www.36kr.com/newsflashes/3822857046364295",
-      "published_at": "2026-05-24T07:15:32.362000Z",
-      "first_seen_at": "2026-05-24T08:42:24.452954Z",
-      "last_seen_at": "2026-05-24T22:30:47.523717Z",
-      "title_original": "韩国：三星电子、SK海力士等前五大企业出口额占整体出口比重超四成",
-      "title_en": null,
-      "title_zh": "韩国：三星电子、SK海力士等前五大企业出口额占整体出口比重超四成",
-      "title_bilingual": "韩国：三星电子、SK海力士等前五大企业出口额占整体出口比重超四成",
-      "topic_tags": [
-        "销量市场"
-      ]
-    },
-    {
-      "id": "a94fa2af84f878794904d570294f363965667988",
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "36kr",
-      "title": "特斯拉FSD中文名调整为“特斯拉辅助驾驶”：价格依旧为6.4万元",
-      "url": "https://www.36kr.com/newsflashes/3822856592085379",
-      "published_at": "2026-05-24T07:13:32.362000Z",
-      "first_seen_at": "2026-05-24T08:42:24.452954Z",
-      "last_seen_at": "2026-05-24T22:30:47.523717Z",
-      "title_original": "特斯拉FSD中文名调整为“特斯拉辅助驾驶”：价格依旧为6.4万元",
-      "title_en": null,
-      "title_zh": "特斯拉FSD中文名调整为“特斯拉辅助驾驶”：价格依旧为6.4万元",
-      "title_bilingual": "特斯拉FSD中文名调整为“特斯拉辅助驾驶”：价格依旧为6.4万元",
-      "topic_tags": [
-        "智能驾驶",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "d4b068d651154716dc0c7f105e488e785edb3f04",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-供应链",
-      "title": "盖世周报 | 博世拿下奔驰电机供应大单；英伟达净利暴涨211%",
-      "url": "https://auto.gasgoo.com/news/202605/24I70458888C109.shtml",
-      "published_at": "2026-05-24T07:00:00Z",
-      "first_seen_at": "2026-05-24T23:58:04.204277Z",
-      "last_seen_at": "2026-05-25T04:20:17.755804Z",
-      "title_original": "盖世周报 | 博世拿下奔驰电机供应大单；英伟达净利暴涨211%",
-      "title_en": null,
-      "title_zh": "盖世周报 | 博世拿下奔驰电机供应大单；英伟达净利暴涨211%",
-      "title_bilingual": "盖世周报 | 博世拿下奔驰电机供应大单；英伟达净利暴涨211%",
-      "topic_tags": [
-        "车企竞争",
-        "供应链"
-      ]
-    },
-    {
-      "id": "3b89221bf05ed54b6318b19f04710fd1bb0ddb38",
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "36kr",
-      "title": "一季度韩国前五大企业出口占比达44%",
-      "url": "https://www.36kr.com/newsflashes/3822778731368838",
-      "published_at": "2026-05-24T05:30:46.768000Z",
-      "first_seen_at": "2026-05-24T06:00:08.933531Z",
-      "last_seen_at": "2026-05-24T22:30:47.523717Z",
-      "title_original": "一季度韩国前五大企业出口占比达44%",
-      "title_en": null,
-      "title_zh": "一季度韩国前五大企业出口占比达44%",
-      "title_bilingual": "一季度韩国前五大企业出口占比达44%",
-      "topic_tags": [
-        "销量市场"
       ]
     }
   ],
   "items_ai": [
     {
+      "id": "e6926a491fe182ab69dff9f1a9743028581b191a",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-Battery",
+      "title": "CATL launches China's first standardized light truck battery swap ecosystem",
+      "url": "https://cnevpost.com/2026/05/25/catl-launches-chinas-first-standardized-light-truck-battery-swap-ecosystem",
+      "published_at": "2026-05-25T08:06:50Z",
+      "first_seen_at": "2026-05-25T08:45:10.480169Z",
+      "last_seen_at": "2026-05-25T08:45:10.480169Z",
+      "title_original": "CATL launches China's first standardized light truck battery swap ecosystem",
+      "title_en": "CATL launches China's first standardized light truck battery swap ecosystem",
+      "title_zh": "宁德时代推出中国首个标准化轻卡换电生态系统",
+      "title_bilingual": "宁德时代推出中国首个标准化轻卡换电生态系统 / CATL launches China's first standardized light truck battery swap ecosystem",
+      "topic_tags": [
+        "补能电池"
+      ]
+    },
+    {
+      "id": "ce72be1795822ba83c423a552a8b83b91d306e31",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "36kr",
+      "title": "吉利汽车在湖州成立新汽车部件有限公司，注册资本1亿",
+      "url": "https://www.36kr.com/newsflashes/3824412485537927",
+      "published_at": "2026-05-25T07:53:39.180000Z",
+      "first_seen_at": "2026-05-25T08:45:10.480169Z",
+      "last_seen_at": "2026-05-25T08:45:10.480169Z",
+      "title_original": "吉利汽车在湖州成立新汽车部件有限公司，注册资本1亿",
+      "title_en": null,
+      "title_zh": "吉利汽车在湖州成立新汽车部件有限公司，注册资本1亿",
+      "title_bilingual": "吉利汽车在湖州成立新汽车部件有限公司，注册资本1亿",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "734e5229ade64a268328ecd19ba1e155c9f2b159",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "36kr",
+      "title": "市场监管总局无条件批准长安汽车与江铃集团收购江铃控股股权案等",
+      "url": "https://www.36kr.com/newsflashes/3824355984494980",
+      "published_at": "2026-05-25T07:20:39.180000Z",
+      "first_seen_at": "2026-05-25T08:45:10.480169Z",
+      "last_seen_at": "2026-05-25T08:45:10.480169Z",
+      "title_original": "市场监管总局无条件批准长安汽车与江铃集团收购江铃控股股权案等",
+      "title_en": null,
+      "title_zh": "市场监管总局无条件批准长安汽车与江铃集团收购江铃控股股权案等",
+      "title_bilingual": "市场监管总局无条件批准长安汽车与江铃集团收购江铃控股股权案等",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "8d920fede9fde46ca0e9a221d6d6c78e19afd2ae",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Over 90% of initial Onvo L80 buyers opt for BaaS battery rental",
+      "url": "https://cnevpost.com/2026/05/25/over-90-onvo-l80-buyers-opt-for-baas",
+      "published_at": "2026-05-25T06:28:22Z",
+      "first_seen_at": "2026-05-25T08:45:10.480169Z",
+      "last_seen_at": "2026-05-25T08:45:10.480169Z",
+      "title_original": "Over 90% of initial Onvo L80 buyers opt for BaaS battery rental",
+      "title_en": "Over 90% of initial Onvo L80 buyers opt for BaaS battery rental",
+      "title_zh": "超过 90% 的 Onvo L80 初始购买者选择 BaaS 电池租赁",
+      "title_bilingual": "超过 90% 的 Onvo L80 初始购买者选择 BaaS 电池租赁 / Over 90% of initial Onvo L80 buyers opt for BaaS battery rental",
+      "topic_tags": [
+        "新能源",
+        "补能电池"
+      ]
+    },
+    {
       "id": "78c991bccd8223137f80664643a933f703687251",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -440,7 +547,7 @@
       "url": "https://carnewschina.com/2026/05/25/byd-files-new-sulfide-solid-state-battery-patent-as-china-targets-2027-pilot-production",
       "published_at": "2026-05-25T03:25:50Z",
       "first_seen_at": "2026-05-25T04:20:17.755804Z",
-      "last_seen_at": "2026-05-25T04:20:17.755804Z",
+      "last_seen_at": "2026-05-25T08:45:10.480169Z",
       "title_original": "BYD files sulfide solid‑state battery patent as China targets 2027 pilot production",
       "title_en": "BYD files sulfide solid‑state battery patent as China targets 2027 pilot production",
       "title_zh": "比亚迪申请硫化物固态电池专利，中国计划2027年试生产",
@@ -460,7 +567,7 @@
       "url": "https://cnevpost.com/2026/05/25/xpeng-gx-top-trim-wait-time-29-weeks",
       "published_at": "2026-05-25T03:19:50Z",
       "first_seen_at": "2026-05-25T04:20:17.755804Z",
-      "last_seen_at": "2026-05-25T04:20:17.755804Z",
+      "last_seen_at": "2026-05-25T08:45:10.480169Z",
       "title_original": "Aggressive pricing drives Xpeng GX top-trim wait times to up to 29 weeks",
       "title_en": "Aggressive pricing drives Xpeng GX top-trim wait times to up to 29 weeks",
       "title_zh": "激进的定价导致小鹏GX顶配等待时间长达29周",
@@ -480,7 +587,7 @@
       "url": "https://carnewschina.com/2026/05/25/solid-state-battery-race-china-leads-patents-but-warns-of-losing-global-advantage",
       "published_at": "2026-05-25T02:57:55Z",
       "first_seen_at": "2026-05-25T04:20:17.755804Z",
-      "last_seen_at": "2026-05-25T04:20:17.755804Z",
+      "last_seen_at": "2026-05-25T08:45:10.480169Z",
       "title_original": "Solid‑state battery race: China leads patents but warns of losing global advantage",
       "title_en": "Solid‑state battery race: China leads patents but warns of losing global advantage",
       "title_zh": "固态电池竞赛：中国在专利方面领先，但警告称将失去全球优势",
@@ -499,7 +606,7 @@
       "url": "https://cnevpost.com/2026/05/25/nio-schedules-es9-launch-event-may-27-evening",
       "published_at": "2026-05-25T02:43:05Z",
       "first_seen_at": "2026-05-25T04:20:17.755804Z",
-      "last_seen_at": "2026-05-25T04:20:17.755804Z",
+      "last_seen_at": "2026-05-25T08:45:10.480169Z",
       "title_original": "Nio schedules ES9 launch event for May 27 evening, rapid delivery ready",
       "title_en": "Nio schedules ES9 launch event for May 27 evening, rapid delivery ready",
       "title_zh": "蔚来ES9发布会定于5月27日晚，快速交付已做好准备",
@@ -520,7 +627,7 @@
       "url": "http://vc.yiche.com/vplay/11186534.html",
       "published_at": null,
       "first_seen_at": "2026-05-24T20:03:09.735078Z",
-      "last_seen_at": "2026-05-25T04:20:17.755804Z",
+      "last_seen_at": "2026-05-25T08:45:10.480169Z",
       "title_original": "小鹏GX指导价大幅下探，大型SUV大六座，配置选哪款？",
       "title_en": null,
       "title_zh": "小鹏GX指导价大幅下探，大型SUV大六座，配置选哪款？",
@@ -540,7 +647,7 @@
       "url": "http://vc.yiche.com/vplay/11224691.html",
       "published_at": null,
       "first_seen_at": "2026-05-24T20:03:09.735078Z",
-      "last_seen_at": "2026-05-25T04:20:17.755804Z",
+      "last_seen_at": "2026-05-25T08:45:10.480169Z",
       "title_original": "极狐贝塔S3抢先试驾！5.98万起，给你大空间，长续航！",
       "title_en": null,
       "title_zh": "极狐贝塔S3抢先试驾！5.98万起，给你大空间，长续航！",
@@ -559,7 +666,7 @@
       "url": "http://vc.yiche.com/vplay/11216200.html",
       "published_at": null,
       "first_seen_at": "2026-05-24T20:03:09.735078Z",
-      "last_seen_at": "2026-05-25T04:20:17.755804Z",
+      "last_seen_at": "2026-05-25T08:45:10.480169Z",
       "title_original": "真犯难！小鹏GX还是比亚迪大唐？看完不纠结",
       "title_en": null,
       "title_zh": "真犯难！小鹏GX还是比亚迪大唐？看完不纠结",
@@ -577,7 +684,7 @@
       "url": "http://vc.yiche.com/vplay/11198539.html",
       "published_at": null,
       "first_seen_at": "2026-05-24T20:03:09.735078Z",
-      "last_seen_at": "2026-05-25T04:20:17.755804Z",
+      "last_seen_at": "2026-05-25T08:45:10.480169Z",
       "title_original": "人民的真7系！吉利银河星耀7实至名归",
       "title_en": null,
       "title_zh": "人民的真7系！吉利银河星耀7实至名归",
@@ -595,7 +702,7 @@
       "url": "http://vc.yiche.com/vplay/11183783.html",
       "published_at": null,
       "first_seen_at": "2026-05-24T20:03:09.735078Z",
-      "last_seen_at": "2026-05-25T04:20:17.755804Z",
+      "last_seen_at": "2026-05-25T08:45:10.480169Z",
       "title_original": "零跑首款MPV要来了 二排180度旋转加三排钓鱼座 这谁顶得住",
       "title_en": null,
       "title_zh": "零跑首款MPV要来了 二排180度旋转加三排钓鱼座 这谁顶得住",
@@ -614,7 +721,7 @@
       "url": "http://vc.yiche.com/vplay/11169915.html",
       "published_at": null,
       "first_seen_at": "2026-05-24T20:03:09.735078Z",
-      "last_seen_at": "2026-05-25T04:20:17.755804Z",
+      "last_seen_at": "2026-05-25T08:45:10.480169Z",
       "title_original": "旗舰硬派新选择，方程豹豹8闪充版实力到底有多强？",
       "title_en": null,
       "title_zh": "旗舰硬派新选择，方程豹豹8闪充版实力到底有多强？",
@@ -632,7 +739,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/0768b46c8025d7cd/115086585-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-24T17:12:28.987030Z",
-      "last_seen_at": "2026-05-25T04:20:17.755804Z",
+      "last_seen_at": "2026-05-25T08:45:10.480169Z",
       "title_original": "外观还是保守 探店体验比亚迪 大唐",
       "title_en": null,
       "title_zh": "外观还是保守 探店体验比亚迪 大唐",
@@ -651,7 +758,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/3b6f5cd935d376a2/115142007-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-24T17:12:28.987030Z",
-      "last_seen_at": "2026-05-25T04:20:17.755804Z",
+      "last_seen_at": "2026-05-25T08:45:10.480169Z",
       "title_original": "昊铂S600EV试驾体验性能配置详解",
       "title_en": null,
       "title_zh": "昊铂S600EV试驾体验性能配置详解",
@@ -669,7 +776,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/a69c9c27770a1d8a/115052588-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-24T17:12:28.987030Z",
-      "last_seen_at": "2026-05-25T04:20:17.755804Z",
+      "last_seen_at": "2026-05-25T08:45:10.480169Z",
       "title_original": "性价很比高 零跑A10提车作业分享",
       "title_en": null,
       "title_zh": "性价很比高 零跑A10提车作业分享",
@@ -688,7 +795,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/7cd32a132a7d74c1/115052520-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-24T17:12:28.987030Z",
-      "last_seen_at": "2026-05-25T04:20:17.755804Z",
+      "last_seen_at": "2026-05-25T08:45:10.480169Z",
       "title_original": "适合家用代步 长安启源Q05提车分享",
       "title_en": null,
       "title_zh": "适合家用代步 长安启源Q05提车分享",
@@ -696,6 +803,43 @@
       "topic_tags": [
         "车企竞争",
         "购车决策"
+      ]
+    },
+    {
+      "id": "ce0c1226f4f37e845f5d4d40d3049aa5e574c058",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "小智一周要闻 | 特斯拉产线转产人形机器人；小鹏Robotaxi量产下线",
+      "url": "https://auto.gasgoo.com/news/202605/24I70458943C601.shtml",
+      "published_at": "2026-05-24T16:43:18Z",
+      "first_seen_at": "2026-05-25T08:45:10.480169Z",
+      "last_seen_at": "2026-05-25T08:45:10.480169Z",
+      "title_original": "小智一周要闻 | 特斯拉产线转产人形机器人；小鹏Robotaxi量产下线",
+      "title_en": null,
+      "title_zh": "小智一周要闻 | 特斯拉产线转产人形机器人；小鹏Robotaxi量产下线",
+      "title_bilingual": "小智一周要闻 | 特斯拉产线转产人形机器人；小鹏Robotaxi量产下线",
+      "topic_tags": [
+        "智能驾驶",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "efaa4cbc5815d2a0654fb53011521c331e0c5330",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "E周看点 | 东风汽车将与Stellantis在欧洲成立合资企业；蔚来连续两个季度盈利",
+      "url": "https://auto.gasgoo.com/news/202605/24I70459129C501.shtml",
+      "published_at": "2026-05-24T16:31:05Z",
+      "first_seen_at": "2026-05-25T08:45:10.480169Z",
+      "last_seen_at": "2026-05-25T08:45:10.480169Z",
+      "title_original": "E周看点 | 东风汽车将与Stellantis在欧洲成立合资企业；蔚来连续两个季度盈利",
+      "title_en": null,
+      "title_zh": "E周看点 | 东风汽车将与Stellantis在欧洲成立合资企业；蔚来连续两个季度盈利",
+      "title_bilingual": "E周看点 | 东风汽车将与Stellantis在欧洲成立合资企业；蔚来连续两个季度盈利",
+      "topic_tags": [
+        "车企竞争"
       ]
     },
     {
@@ -707,7 +851,7 @@
       "url": "https://auto.gasgoo.com/news/202605/24I70459124C107.shtml",
       "published_at": "2026-05-24T11:43:33Z",
       "first_seen_at": "2026-05-25T04:20:17.755804Z",
-      "last_seen_at": "2026-05-25T04:20:17.755804Z",
+      "last_seen_at": "2026-05-25T08:45:10.480169Z",
       "title_original": "长安蓝鲸超擎双车上市 售价7.99万-13.19万元",
       "title_en": null,
       "title_zh": "长安蓝鲸超擎双车上市 售价7.99万-13.19万元",
@@ -716,80 +860,6 @@
         "价格战",
         "车企竞争",
         "新车上市"
-      ]
-    },
-    {
-      "id": "f8eba81a1309df9d6ab17d059193d361a0042d40",
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "36kr",
-      "title": "韩国：三星电子、SK海力士等前五大企业出口额占整体出口比重超四成",
-      "url": "https://www.36kr.com/newsflashes/3822857046364295",
-      "published_at": "2026-05-24T07:15:32.362000Z",
-      "first_seen_at": "2026-05-24T08:42:24.452954Z",
-      "last_seen_at": "2026-05-24T22:30:47.523717Z",
-      "title_original": "韩国：三星电子、SK海力士等前五大企业出口额占整体出口比重超四成",
-      "title_en": null,
-      "title_zh": "韩国：三星电子、SK海力士等前五大企业出口额占整体出口比重超四成",
-      "title_bilingual": "韩国：三星电子、SK海力士等前五大企业出口额占整体出口比重超四成",
-      "topic_tags": [
-        "销量市场"
-      ]
-    },
-    {
-      "id": "a94fa2af84f878794904d570294f363965667988",
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "36kr",
-      "title": "特斯拉FSD中文名调整为“特斯拉辅助驾驶”：价格依旧为6.4万元",
-      "url": "https://www.36kr.com/newsflashes/3822856592085379",
-      "published_at": "2026-05-24T07:13:32.362000Z",
-      "first_seen_at": "2026-05-24T08:42:24.452954Z",
-      "last_seen_at": "2026-05-24T22:30:47.523717Z",
-      "title_original": "特斯拉FSD中文名调整为“特斯拉辅助驾驶”：价格依旧为6.4万元",
-      "title_en": null,
-      "title_zh": "特斯拉FSD中文名调整为“特斯拉辅助驾驶”：价格依旧为6.4万元",
-      "title_bilingual": "特斯拉FSD中文名调整为“特斯拉辅助驾驶”：价格依旧为6.4万元",
-      "topic_tags": [
-        "智能驾驶",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "d4b068d651154716dc0c7f105e488e785edb3f04",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-供应链",
-      "title": "盖世周报 | 博世拿下奔驰电机供应大单；英伟达净利暴涨211%",
-      "url": "https://auto.gasgoo.com/news/202605/24I70458888C109.shtml",
-      "published_at": "2026-05-24T07:00:00Z",
-      "first_seen_at": "2026-05-24T23:58:04.204277Z",
-      "last_seen_at": "2026-05-25T04:20:17.755804Z",
-      "title_original": "盖世周报 | 博世拿下奔驰电机供应大单；英伟达净利暴涨211%",
-      "title_en": null,
-      "title_zh": "盖世周报 | 博世拿下奔驰电机供应大单；英伟达净利暴涨211%",
-      "title_bilingual": "盖世周报 | 博世拿下奔驰电机供应大单；英伟达净利暴涨211%",
-      "topic_tags": [
-        "车企竞争",
-        "供应链"
-      ]
-    },
-    {
-      "id": "3b89221bf05ed54b6318b19f04710fd1bb0ddb38",
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "36kr",
-      "title": "一季度韩国前五大企业出口占比达44%",
-      "url": "https://www.36kr.com/newsflashes/3822778731368838",
-      "published_at": "2026-05-24T05:30:46.768000Z",
-      "first_seen_at": "2026-05-24T06:00:08.933531Z",
-      "last_seen_at": "2026-05-24T22:30:47.523717Z",
-      "title_original": "一季度韩国前五大企业出口占比达44%",
-      "title_en": null,
-      "title_zh": "一季度韩国前五大企业出口占比达44%",
-      "title_bilingual": "一季度韩国前五大企业出口占比达44%",
-      "topic_tags": [
-        "销量市场"
       ]
     }
   ],
