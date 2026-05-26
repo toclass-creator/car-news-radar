@@ -1,61 +1,53 @@
 {
-  "generated_at": "2026-05-26T13:52:47.667126Z",
+  "generated_at": "2026-05-26T17:25:01.761250Z",
   "window_hours": 24,
-  "total_items": 38,
-  "total_items_ai_raw": 44,
-  "total_items_raw": 2800,
-  "total_items_all_mode": 2601,
+  "total_items": 39,
+  "total_items_ai_raw": 42,
+  "total_items_raw": 2828,
+  "total_items_all_mode": 2639,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 69007,
+  "archive_total": 69333,
   "site_count": 3,
-  "source_count": 12,
+  "source_count": 9,
   "site_stats": [
-    {
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "count": 21,
-      "raw_count": 27
-    },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
-      "count": 10,
-      "raw_count": 2594
+      "count": 17,
+      "raw_count": 2640
+    },
+    {
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "count": 14,
+      "raw_count": 17
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
-      "count": 7,
-      "raw_count": 179
+      "count": 8,
+      "raw_count": 171
     }
   ],
   "topic_tag_stats": [
     {
       "tag": "车企竞争",
-      "count": 19
+      "count": 24
     },
     {
       "tag": "新能源",
-      "count": 15
+      "count": 17
     },
     {
       "tag": "购车决策",
-      "count": 9
-    },
-    {
-      "tag": "新车上市",
-      "count": 7
+      "count": 13
     },
     {
       "tag": "销量市场",
-      "count": 7
-    },
-    {
-      "tag": "补能电池",
       "count": 5
     },
     {
-      "tag": "价格战",
+      "tag": "新车上市",
       "count": 4
     },
     {
@@ -63,15 +55,196 @@
       "count": 4
     },
     {
+      "tag": "补能电池",
+      "count": 4
+    },
+    {
+      "tag": "价格战",
+      "count": 3
+    },
+    {
       "tag": "供应链",
-      "count": 1
+      "count": 2
     },
     {
       "tag": "召回安全",
-      "count": 1
+      "count": 2
     }
   ],
   "items": [
+    {
+      "id": "7efc093816fb33ec53212add6879f6ec1a83bafe",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "hackernews",
+      "title": "Ferrari shares fall after launch of first EV as Jony Ive design proves divisive",
+      "url": "https://news.ycombinator.com/item?id=48282034",
+      "published_at": "2026-05-26T17:25:12.220000Z",
+      "first_seen_at": "2026-05-26T17:25:01.761250Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
+      "title_original": "Ferrari shares fall after launch of first EV as Jony Ive design proves divisive",
+      "title_en": "Ferrari shares fall after launch of first EV as Jony Ive design proves divisive",
+      "title_zh": "首款电动汽车推出后，乔尼·艾维 (Jony Ive) 的设计存在分歧，法拉利股价下跌",
+      "title_bilingual": "首款电动汽车推出后，乔尼·艾维 (Jony Ive) 的设计存在分歧，法拉利股价下跌 / Ferrari shares fall after launch of first EV as Jony Ive design proves divisive",
+      "topic_tags": [
+        "新能源"
+      ]
+    },
+    {
+      "id": "e2bcd1efda456ebe05d0c53e0813dec6d5e26b60",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "性价比拉满 长安启源Q07提车分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/68bc3e52078f9afb/115126658-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-05-26T17:25:01.761250Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
+      "title_original": "性价比拉满 长安启源Q07提车分享",
+      "title_en": null,
+      "title_zh": "性价比拉满 长安启源Q07提车分享",
+      "title_bilingual": "性价比拉满 长安启源Q07提车分享",
+      "topic_tags": [
+        "价格战",
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "37850809de73875e157ce7ddc86c10aeda969c25",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "抬发动机 宝马1250ADV换发电机",
+      "url": "https://club.autohome.com.cn/bbs/thread/751bfd02b41c52fd/115151365-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-05-26T17:25:01.761250Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
+      "title_original": "抬发动机 宝马1250ADV换发电机",
+      "title_en": null,
+      "title_zh": "抬发动机 宝马1250ADV换发电机",
+      "title_bilingual": "抬发动机 宝马1250ADV换发电机",
+      "topic_tags": [
+        "车企竞争",
+        "供应链"
+      ]
+    },
+    {
+      "id": "273c42e59a059524845c2b4a81279d28fe226e57",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "确实很轻松 小鹏MONA M03体验分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/0c44c305ae114802/115170166-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-05-26T17:25:01.761250Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
+      "title_original": "确实很轻松 小鹏MONA M03体验分享",
+      "title_en": null,
+      "title_zh": "确实很轻松 小鹏MONA M03体验分享",
+      "title_bilingual": "确实很轻松 小鹏MONA M03体验分享",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "60987e9845c857898c02c27e0639f71024794a9e",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "纠结小半年 选定理想i6两驱提车作业",
+      "url": "https://club.autohome.com.cn/bbs/thread/77c4e8b9e10954e8/115164575-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-05-26T17:25:01.761250Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
+      "title_original": "纠结小半年 选定理想i6两驱提车作业",
+      "title_en": null,
+      "title_zh": "纠结小半年 选定理想i6两驱提车作业",
+      "title_bilingual": "纠结小半年 选定理想i6两驱提车作业",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "8e682fa0de4eef83332a5a997fbe029049d6a2d9",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "更加的平衡更稳 理想L9 Livis体验",
+      "url": "https://club.autohome.com.cn/bbs/thread/4723ec13b2a615d2/115126760-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-05-26T17:25:01.761250Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
+      "title_original": "更加的平衡更稳 理想L9 Livis体验",
+      "title_en": null,
+      "title_zh": "更加的平衡更稳 理想L9 Livis体验",
+      "title_bilingual": "更加的平衡更稳 理想L9 Livis体验",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "7829dd30a70f5ef3e8bfda2e1043d0befb1e12ca",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "适合城市通勤 QQ3 EV提车作业分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/d5c049d7eb66b03e/115124553-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-05-26T17:25:01.761250Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
+      "title_original": "适合城市通勤 QQ3 EV提车作业分享",
+      "title_en": null,
+      "title_zh": "适合城市通勤 QQ3 EV提车作业分享",
+      "title_bilingual": "适合城市通勤 QQ3 EV提车作业分享",
+      "topic_tags": [
+        "新能源",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "daf5b439df1a4d308d0fbeda1997ac88f8992df3",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "适合家用代步 零跑A10提车作业分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/40fc0f3a4f69e4b4/115120453-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-05-26T17:25:01.761250Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
+      "title_original": "适合家用代步 零跑A10提车作业分享",
+      "title_en": null,
+      "title_zh": "适合家用代步 零跑A10提车作业分享",
+      "title_bilingual": "适合家用代步 零跑A10提车作业分享",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "ff29ffe98b337198b8147d9803f46ceac7f5a0a7",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Nio highlights flagship ES9 SUV's safety features in national broadcast",
+      "url": "https://cnevpost.com/2026/05/26/nio-highlights-es9-safety-cctv",
+      "published_at": "2026-05-26T14:18:41Z",
+      "first_seen_at": "2026-05-26T17:25:01.761250Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
+      "title_original": "Nio highlights flagship ES9 SUV's safety features in national broadcast",
+      "title_en": "Nio highlights flagship ES9 SUV's safety features in national broadcast",
+      "title_zh": "蔚来在全国广播中强调旗舰ES9 SUV的安全特性",
+      "title_bilingual": "蔚来在全国广播中强调旗舰ES9 SUV的安全特性 / Nio highlights flagship ES9 SUV's safety features in national broadcast",
+      "topic_tags": [
+        "新能源",
+        "召回安全",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
     {
       "id": "57f2904687b874fb9c87c89a4c8563384f67db7c",
       "site_id": "newsnow",
@@ -81,7 +254,7 @@
       "url": "https://juejin.cn/post/7643033880698421300",
       "published_at": "2026-05-26T13:42:52.346000Z",
       "first_seen_at": "2026-05-26T13:52:47.667126Z",
-      "last_seen_at": "2026-05-26T13:52:47.667126Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
       "title_original": "从 Figma 走查到 AI 可验证产物：我如何重构客户端 UI 交付链路",
       "title_en": null,
       "title_zh": "从 Figma 走查到 AI 可验证产物：我如何重构客户端 UI 交付链路",
@@ -99,7 +272,7 @@
       "url": "https://www.36kr.com/newsflashes/3826125913396097",
       "published_at": "2026-05-26T12:57:27.015000Z",
       "first_seen_at": "2026-05-26T13:52:47.667126Z",
-      "last_seen_at": "2026-05-26T13:52:47.667126Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
       "title_original": "热门中概股美股盘前涨跌不一，小鹏集团涨超5%",
       "title_en": null,
       "title_zh": "热门中概股美股盘前涨跌不一，小鹏集团涨超5%",
@@ -117,7 +290,7 @@
       "url": "https://www.36kr.com/newsflashes/3826118844470146",
       "published_at": "2026-05-26T12:49:27.015000Z",
       "first_seen_at": "2026-05-26T13:52:47.667126Z",
-      "last_seen_at": "2026-05-26T13:52:47.667126Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
       "title_original": "宁德时代：与Solarpro Holding合作的大型储能项目在保加利亚成功并网投运",
       "title_en": null,
       "title_zh": "宁德时代：与Solarpro Holding合作的大型储能项目在保加利亚成功并网投运",
@@ -135,7 +308,7 @@
       "url": "https://www.36kr.com/newsflashes/3826112506647171",
       "published_at": "2026-05-26T12:43:27.015000Z",
       "first_seen_at": "2026-05-26T13:52:47.667126Z",
-      "last_seen_at": "2026-05-26T13:52:47.667126Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
       "title_original": "全球最大铝土矿生产国拟管控出口，铝土矿价格近乎腰斩",
       "title_en": null,
       "title_zh": "全球最大铝土矿生产国拟管控出口，铝土矿价格近乎腰斩",
@@ -153,7 +326,7 @@
       "url": "https://carnewschina.com/2026/05/26/xiaomi-loses-5600-usd-for-every-car-sold-in-the-first-quarter-of-2026",
       "published_at": "2026-05-26T11:35:53Z",
       "first_seen_at": "2026-05-26T13:52:47.667126Z",
-      "last_seen_at": "2026-05-26T13:52:47.667126Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
       "title_original": "Xiaomi loses 5,600 USD for every car sold in the first quarter of 2026",
       "title_en": "Xiaomi loses 5,600 USD for every car sold in the first quarter of 2026",
       "title_zh": "2026年第一季度小米每售出一辆车就损失5600美元",
@@ -172,7 +345,7 @@
       "url": "https://carnewschina.com/2026/05/26/byd-dolphin-g-plug-in-hybrid-hatchback-broke-cover-ahead-of-european-launch",
       "published_at": "2026-05-26T11:10:23Z",
       "first_seen_at": "2026-05-26T13:52:47.667126Z",
-      "last_seen_at": "2026-05-26T13:52:47.667126Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
       "title_original": "BYD Dolphin G plug-in hybrid hatchback broke cover ahead of European launch",
       "title_en": "BYD Dolphin G plug-in hybrid hatchback broke cover ahead of European launch",
       "title_zh": "比亚迪海豚G插电式混合动力掀背车在欧洲上市前亮相",
@@ -192,7 +365,7 @@
       "url": "https://cnevpost.com/2026/05/26/xiaomi-ev-business-posts-operating-loss",
       "published_at": "2026-05-26T10:06:06Z",
       "first_seen_at": "2026-05-26T13:52:47.667126Z",
-      "last_seen_at": "2026-05-26T13:52:47.667126Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
       "title_original": "Xiaomi's EV business posts Q1 operating loss despite delivery growth",
       "title_en": "Xiaomi's EV business posts Q1 operating loss despite delivery growth",
       "title_zh": "尽管交付量增长，小米电动汽车业务第一季度运营亏损",
@@ -212,7 +385,7 @@
       "url": "https://cnevpost.com/2026/05/26/pony-ai-raises-2026-robotaxi-revenue-target",
       "published_at": "2026-05-26T09:34:04Z",
       "first_seen_at": "2026-05-26T13:52:47.667126Z",
-      "last_seen_at": "2026-05-26T13:52:47.667126Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
       "title_original": "Pony AI raises 2026 robotaxi revenue target to 3.5 times of 2025 level",
       "title_en": "Pony AI raises 2026 robotaxi revenue target to 3.5 times of 2025 level",
       "title_zh": "小马AI将2026年Robotaxi收入目标提高至2025年水平的3.5倍",
@@ -230,7 +403,7 @@
       "url": "https://cnevpost.com/2026/05/26/analysts-aggressive-pricing-gx-boosts-xpeng-may-orders-50000",
       "published_at": "2026-05-26T07:47:32Z",
       "first_seen_at": "2026-05-26T13:52:47.667126Z",
-      "last_seen_at": "2026-05-26T13:52:47.667126Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
       "title_original": "Analysts say aggressive pricing of GX boosts Xpeng's May orders to 50,000",
       "title_en": "Analysts say aggressive pricing of GX boosts Xpeng's May orders to 50,000",
       "title_zh": "分析师表示，GX 激进的定价使小鹏汽车 5 月份订单增至 5 万辆",
@@ -251,7 +424,7 @@
       "url": "https://cnevpost.com/2026/05/26/xiaomi-ev-introduces-world-model",
       "published_at": "2026-05-26T06:53:05Z",
       "first_seen_at": "2026-05-26T13:52:47.667126Z",
-      "last_seen_at": "2026-05-26T13:52:47.667126Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
       "title_original": "Xiaomi EV introduces world model to advance autonomous driving tech",
       "title_en": "Xiaomi EV introduces world model to advance autonomous driving tech",
       "title_zh": "小米电动车推出世界模型推进自动驾驶技术",
@@ -271,7 +444,7 @@
       "url": "https://cnevpost.com/2026/05/26/zeron-raises-200-million-b2-round",
       "published_at": "2026-05-26T06:04:04Z",
       "first_seen_at": "2026-05-26T06:45:10.503124Z",
-      "last_seen_at": "2026-05-26T13:52:47.667126Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
       "title_original": "Chinese EV truck startup Zeron raises $200 million in B2 round to fuel autonomous truck push",
       "title_en": "Chinese EV truck startup Zeron raises $200 million in B2 round to fuel autonomous truck push",
       "title_zh": "中国电动卡车初创公司Zeron在B2轮融资中筹集了2亿美元，以推动自动驾驶卡车的发展",
@@ -290,7 +463,7 @@
       "url": "https://cnevpost.com/2026/05/26/byd-launches-2026-sealion-06-dm-i",
       "published_at": "2026-05-26T05:02:57Z",
       "first_seen_at": "2026-05-26T06:45:10.503124Z",
-      "last_seen_at": "2026-05-26T13:52:47.667126Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
       "title_original": "BYD launches 2026 Sealion 06 DM-i to strengthen plug-in hybrid lineup",
       "title_en": "BYD launches 2026 Sealion 06 DM-i to strengthen plug-in hybrid lineup",
       "title_zh": "比亚迪推出2026款Sealion 06 DM-i，强化插电式混合动力阵容",
@@ -309,7 +482,7 @@
       "url": "https://carnewschina.com/2026/05/26/huawei-unveils-tau-scaling-law-a-new-semiconductor-roadmap-to-succeed-moores-law",
       "published_at": "2026-05-26T04:51:59Z",
       "first_seen_at": "2026-05-26T06:45:10.503124Z",
-      "last_seen_at": "2026-05-26T13:52:47.667126Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
       "title_original": "Huawei unveils Tau Scaling Law: a new semiconductor roadmap to succeed Moore’s Law",
       "title_en": "Huawei unveils Tau Scaling Law: a new semiconductor roadmap to succeed Moore’s Law",
       "title_zh": "华为推出Tau缩放定律：继承摩尔定律的新半导体路线图",
@@ -327,7 +500,7 @@
       "url": "https://carnewschina.com/2026/05/26/low-cost-xiaomi-yu7-trim-started-deliveries-in-china-at-34660-usd",
       "published_at": "2026-05-26T03:49:34Z",
       "first_seen_at": "2026-05-26T06:45:10.503124Z",
-      "last_seen_at": "2026-05-26T13:52:47.667126Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
       "title_original": "Low-cost Xiaomi YU7 trim started deliveries in China at 34,660 USD",
       "title_en": "Low-cost Xiaomi YU7 trim started deliveries in China at 34,660 USD",
       "title_zh": "低成本小米YU7内饰开始在中国发货，售价34,660美元",
@@ -347,7 +520,7 @@
       "url": "https://cnevpost.com/2026/05/26/xiaomi-begins-deliveries-cheaper-yu7-standard",
       "published_at": "2026-05-26T02:54:29Z",
       "first_seen_at": "2026-05-26T02:55:13.762675Z",
-      "last_seen_at": "2026-05-26T13:52:47.667126Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
       "title_original": "Xiaomi begins deliveries of cheaper YU7 standard edition to rival Tesla",
       "title_en": "Xiaomi begins deliveries of cheaper YU7 standard edition to rival Tesla",
       "title_zh": "小米开始向特斯拉竞争对手交付更便宜的 YU7 标准版",
@@ -421,7 +594,7 @@
       "url": "http://vc.yiche.com/vplay/11217579.html",
       "published_at": null,
       "first_seen_at": "2026-05-25T19:26:34.949998Z",
-      "last_seen_at": "2026-05-26T13:52:47.667126Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
       "title_original": "长安CS75Plus蓝鲸超擎版百公里油耗实测！",
       "title_en": null,
       "title_zh": "长安CS75Plus蓝鲸超擎版百公里油耗实测！",
@@ -439,7 +612,7 @@
       "url": "http://vc.yiche.com/vplay/11170165.html",
       "published_at": null,
       "first_seen_at": "2026-05-25T19:26:34.949998Z",
-      "last_seen_at": "2026-05-26T13:52:47.667126Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
       "title_original": "7万内买大空间可换电运动轿车？极狐S3到店实拍体验",
       "title_en": null,
       "title_zh": "7万内买大空间可换电运动轿车？极狐S3到店实拍体验",
@@ -458,7 +631,7 @@
       "url": "http://vc.yiche.com/vplay/11215535.html",
       "published_at": null,
       "first_seen_at": "2026-05-25T19:26:34.949998Z",
-      "last_seen_at": "2026-05-26T13:52:47.667126Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
       "title_original": "比亚迪大唐高配车型实拍！广受关注的比亚迪旗舰SUV",
       "title_en": null,
       "title_zh": "比亚迪大唐高配车型实拍！广受关注的比亚迪旗舰SUV",
@@ -477,7 +650,7 @@
       "url": "http://vc.yiche.com/vplay/11270905.html",
       "published_at": null,
       "first_seen_at": "2026-05-25T19:26:34.949998Z",
-      "last_seen_at": "2026-05-26T13:52:47.667126Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
       "title_original": "试驾小鹏GX第二代VLA 解锁园区地库无导航漫游",
       "title_en": null,
       "title_zh": "试驾小鹏GX第二代VLA 解锁园区地库无导航漫游",
@@ -496,7 +669,7 @@
       "url": "http://vc.yiche.com/vplay/11271073.html",
       "published_at": null,
       "first_seen_at": "2026-05-25T19:26:34.949998Z",
-      "last_seen_at": "2026-05-26T13:52:47.667126Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
       "title_original": "全员安全不妥协全家出行不将就 抢先试驾新红旗HQ9高速通勤泊车全程省心",
       "title_en": null,
       "title_zh": "全员安全不妥协全家出行不将就 抢先试驾新红旗HQ9高速通勤泊车全程省心",
@@ -515,7 +688,7 @@
       "url": "http://vc.yiche.com/vplay/11196817.html",
       "published_at": null,
       "first_seen_at": "2026-05-25T19:26:34.949998Z",
-      "last_seen_at": "2026-05-26T13:52:47.667126Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
       "title_original": "试驾第二代腾势D9，大车能好开吗？",
       "title_en": null,
       "title_zh": "试驾第二代腾势D9，大车能好开吗？",
@@ -533,7 +706,7 @@
       "url": "https://auto.gasgoo.com/news/202605/25I70459210C501.shtml",
       "published_at": "2026-05-25T18:15:09Z",
       "first_seen_at": "2026-05-26T13:52:47.667126Z",
-      "last_seen_at": "2026-05-26T13:52:47.667126Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
       "title_original": "2026年Q1全球电动汽车电池装机量：增速放缓至9.1%，中企持续领跑",
       "title_en": null,
       "title_zh": "2026年Q1全球电动汽车电池装机量：增速放缓至9.1%，中企持续领跑",
@@ -552,7 +725,7 @@
       "url": "https://auto.gasgoo.com/news/202605/25I70459208C501.shtml",
       "published_at": "2026-05-25T17:55:31Z",
       "first_seen_at": "2026-05-26T13:52:47.667126Z",
-      "last_seen_at": "2026-05-26T13:52:47.667126Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
       "title_original": "蔚来换电的长期主义：不急着盈利",
       "title_en": null,
       "title_zh": "蔚来换电的长期主义：不急着盈利",
@@ -572,7 +745,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/dc728819eea66a0a/115119961-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-25T17:41:57.392922Z",
-      "last_seen_at": "2026-05-26T13:52:47.667126Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
       "title_original": "符合我的预算 QQ3 EV提车作业分享",
       "title_en": null,
       "title_zh": "符合我的预算 QQ3 EV提车作业分享",
@@ -591,7 +764,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/5e25636587a14d9a/115162323-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-25T17:41:57.392922Z",
-      "last_seen_at": "2026-05-26T13:52:47.667126Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
       "title_original": "宝马1250adv更换发电机之详解",
       "title_en": null,
       "title_zh": "宝马1250adv更换发电机之详解",
@@ -637,161 +810,184 @@
       "topic_tags": [
         "车企竞争",
         "购车决策"
-      ]
-    },
-    {
-      "id": "cc5abb045176af90ec386cd0ba53f42605565fd7",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新车",
-      "title": "雪铁龙确认将推出电动版2CV 起售价低于1.8万美元",
-      "url": "https://auto.gasgoo.com/news/202605/25I70459109C107.shtml",
-      "published_at": "2026-05-25T16:40:04Z",
-      "first_seen_at": "2026-05-26T13:52:47.667126Z",
-      "last_seen_at": "2026-05-26T13:52:47.667126Z",
-      "title_original": "雪铁龙确认将推出电动版2CV 起售价低于1.8万美元",
-      "title_en": null,
-      "title_zh": "雪铁龙确认将推出电动版2CV 起售价低于1.8万美元",
-      "title_bilingual": "雪铁龙确认将推出电动版2CV 起售价低于1.8万美元",
-      "topic_tags": [
-        "价格战",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "27cd44abc8211e6750b763aa95f576eba2241f9d",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新车",
-      "title": "马自达CX-5时隔9年换代，能否撬动中国市场？",
-      "url": "https://auto.gasgoo.com/news/202605/25I70459196C107.shtml",
-      "published_at": "2026-05-25T15:49:04Z",
-      "first_seen_at": "2026-05-26T13:52:47.667126Z",
-      "last_seen_at": "2026-05-26T13:52:47.667126Z",
-      "title_original": "马自达CX-5时隔9年换代，能否撬动中国市场？",
-      "title_en": null,
-      "title_zh": "马自达CX-5时隔9年换代，能否撬动中国市场？",
-      "title_bilingual": "马自达CX-5时隔9年换代，能否撬动中国市场？",
-      "topic_tags": [
-        "销量市场",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "d56e3b09b7f55849155b02c7652e1f5ca9b97e3a",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新能源",
-      "title": "华为全家桶、3秒破百，岚图追光S叫板YU7？",
-      "url": "https://auto.gasgoo.com/news/202605/25I70459199C501.shtml",
-      "published_at": "2026-05-25T14:56:10Z",
-      "first_seen_at": "2026-05-26T13:52:47.667126Z",
-      "last_seen_at": "2026-05-26T13:52:47.667126Z",
-      "title_original": "华为全家桶、3秒破百，岚图追光S叫板YU7？",
-      "title_en": null,
-      "title_zh": "华为全家桶、3秒破百，岚图追光S叫板YU7？",
-      "title_bilingual": "华为全家桶、3秒破百，岚图追光S叫板YU7？",
-      "topic_tags": [
-        "新能源"
-      ]
-    },
-    {
-      "id": "ed12dab50f9499531d8029de4acda7c3623b6250",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-销量",
-      "title": "2026年4月乘用车自主品牌销量榜：银河跻身前三，零跑7.1万辆创新高丨盖世汽车研究院",
-      "url": "https://auto.gasgoo.com/news/202605/25I70459198C110.shtml",
-      "published_at": "2026-05-25T14:54:21Z",
-      "first_seen_at": "2026-05-26T13:52:47.667126Z",
-      "last_seen_at": "2026-05-26T13:52:47.667126Z",
-      "title_original": "2026年4月乘用车自主品牌销量榜：银河跻身前三，零跑7.1万辆创新高丨盖世汽车研究院",
-      "title_en": null,
-      "title_zh": "2026年4月乘用车自主品牌销量榜：银河跻身前三，零跑7.1万辆创新高丨盖世汽车研究院",
-      "title_bilingual": "2026年4月乘用车自主品牌销量榜：银河跻身前三，零跑7.1万辆创新高丨盖世汽车研究院",
-      "topic_tags": [
-        "销量市场",
-        "车企竞争",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "e797e4524e0143606f312e4368a728e384acc1d0",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新车",
-      "title": "乐道L80首批车主数据：九成选BaaS租电，静岳黑成最热门车色",
-      "url": "https://auto.gasgoo.com/news/202605/25I70459195C107.shtml",
-      "published_at": "2026-05-25T14:41:11Z",
-      "first_seen_at": "2026-05-26T06:45:10.503124Z",
-      "last_seen_at": "2026-05-26T13:52:47.667126Z",
-      "title_original": "乐道L80首批车主数据：九成选BaaS租电，静岳黑成最热门车色",
-      "title_en": null,
-      "title_zh": "乐道L80首批车主数据：九成选BaaS租电，静岳黑成最热门车色",
-      "title_bilingual": "乐道L80首批车主数据：九成选BaaS租电，静岳黑成最热门车色",
-      "topic_tags": [
-        "购车决策",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "67e762295e40cc84a44ee8df5ee8c095feddae3c",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新车",
-      "title": "斯巴鲁为Forester新增Touring版，起售价385万日元以扩大用户群体",
-      "url": "https://auto.gasgoo.com/news/202605/25I70459154C107.shtml",
-      "published_at": "2026-05-25T14:19:36Z",
-      "first_seen_at": "2026-05-26T06:45:10.503124Z",
-      "last_seen_at": "2026-05-26T13:52:47.667126Z",
-      "title_original": "斯巴鲁为Forester新增Touring版，起售价385万日元以扩大用户群体",
-      "title_en": null,
-      "title_zh": "斯巴鲁为Forester新增Touring版，起售价385万日元以扩大用户群体",
-      "title_bilingual": "斯巴鲁为Forester新增Touring版，起售价385万日元以扩大用户群体",
-      "topic_tags": [
-        "价格战",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "e63ab9ea7fd704bdfe0c09aad72bcd9e9bbe283c",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "印度安得拉邦加速建设电动公交充电设施，计划6月20日前完成五座充电站",
-      "url": "https://auto.gasgoo.com/news/202605/25I70459160C108.shtml",
-      "published_at": "2026-05-25T14:18:28Z",
-      "first_seen_at": "2026-05-26T06:45:10.503124Z",
-      "last_seen_at": "2026-05-26T13:52:47.667126Z",
-      "title_original": "印度安得拉邦加速建设电动公交充电设施，计划6月20日前完成五座充电站",
-      "title_en": null,
-      "title_zh": "印度安得拉邦加速建设电动公交充电设施，计划6月20日前完成五座充电站",
-      "title_bilingual": "印度安得拉邦加速建设电动公交充电设施，计划6月20日前完成五座充电站",
-      "topic_tags": [
-        "补能电池"
-      ]
-    },
-    {
-      "id": "e5c0a85797a0fec328b97a908e0e838051f2bb0f",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "小鹏副总裁：小鹏可能是唯一一个欢迎特斯拉FSD入华的车企",
-      "url": "https://auto.gasgoo.com/news/202605/25I70459194C109.shtml",
-      "published_at": "2026-05-25T14:15:46Z",
-      "first_seen_at": "2026-05-26T06:45:10.503124Z",
-      "last_seen_at": "2026-05-26T13:52:47.667126Z",
-      "title_original": "小鹏副总裁：小鹏可能是唯一一个欢迎特斯拉FSD入华的车企",
-      "title_en": null,
-      "title_zh": "小鹏副总裁：小鹏可能是唯一一个欢迎特斯拉FSD入华的车企",
-      "title_bilingual": "小鹏副总裁：小鹏可能是唯一一个欢迎特斯拉FSD入华的车企",
-      "topic_tags": [
-        "车企竞争"
       ]
     }
   ],
   "items_ai": [
     {
+      "id": "7efc093816fb33ec53212add6879f6ec1a83bafe",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "hackernews",
+      "title": "Ferrari shares fall after launch of first EV as Jony Ive design proves divisive",
+      "url": "https://news.ycombinator.com/item?id=48282034",
+      "published_at": "2026-05-26T17:25:12.220000Z",
+      "first_seen_at": "2026-05-26T17:25:01.761250Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
+      "title_original": "Ferrari shares fall after launch of first EV as Jony Ive design proves divisive",
+      "title_en": "Ferrari shares fall after launch of first EV as Jony Ive design proves divisive",
+      "title_zh": "首款电动汽车推出后，乔尼·艾维 (Jony Ive) 的设计存在分歧，法拉利股价下跌",
+      "title_bilingual": "首款电动汽车推出后，乔尼·艾维 (Jony Ive) 的设计存在分歧，法拉利股价下跌 / Ferrari shares fall after launch of first EV as Jony Ive design proves divisive",
+      "topic_tags": [
+        "新能源"
+      ]
+    },
+    {
+      "id": "e2bcd1efda456ebe05d0c53e0813dec6d5e26b60",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "性价比拉满 长安启源Q07提车分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/68bc3e52078f9afb/115126658-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-05-26T17:25:01.761250Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
+      "title_original": "性价比拉满 长安启源Q07提车分享",
+      "title_en": null,
+      "title_zh": "性价比拉满 长安启源Q07提车分享",
+      "title_bilingual": "性价比拉满 长安启源Q07提车分享",
+      "topic_tags": [
+        "价格战",
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "37850809de73875e157ce7ddc86c10aeda969c25",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "抬发动机 宝马1250ADV换发电机",
+      "url": "https://club.autohome.com.cn/bbs/thread/751bfd02b41c52fd/115151365-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-05-26T17:25:01.761250Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
+      "title_original": "抬发动机 宝马1250ADV换发电机",
+      "title_en": null,
+      "title_zh": "抬发动机 宝马1250ADV换发电机",
+      "title_bilingual": "抬发动机 宝马1250ADV换发电机",
+      "topic_tags": [
+        "车企竞争",
+        "供应链"
+      ]
+    },
+    {
+      "id": "273c42e59a059524845c2b4a81279d28fe226e57",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "确实很轻松 小鹏MONA M03体验分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/0c44c305ae114802/115170166-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-05-26T17:25:01.761250Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
+      "title_original": "确实很轻松 小鹏MONA M03体验分享",
+      "title_en": null,
+      "title_zh": "确实很轻松 小鹏MONA M03体验分享",
+      "title_bilingual": "确实很轻松 小鹏MONA M03体验分享",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "60987e9845c857898c02c27e0639f71024794a9e",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "纠结小半年 选定理想i6两驱提车作业",
+      "url": "https://club.autohome.com.cn/bbs/thread/77c4e8b9e10954e8/115164575-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-05-26T17:25:01.761250Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
+      "title_original": "纠结小半年 选定理想i6两驱提车作业",
+      "title_en": null,
+      "title_zh": "纠结小半年 选定理想i6两驱提车作业",
+      "title_bilingual": "纠结小半年 选定理想i6两驱提车作业",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "8e682fa0de4eef83332a5a997fbe029049d6a2d9",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "更加的平衡更稳 理想L9 Livis体验",
+      "url": "https://club.autohome.com.cn/bbs/thread/4723ec13b2a615d2/115126760-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-05-26T17:25:01.761250Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
+      "title_original": "更加的平衡更稳 理想L9 Livis体验",
+      "title_en": null,
+      "title_zh": "更加的平衡更稳 理想L9 Livis体验",
+      "title_bilingual": "更加的平衡更稳 理想L9 Livis体验",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "7829dd30a70f5ef3e8bfda2e1043d0befb1e12ca",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "适合城市通勤 QQ3 EV提车作业分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/d5c049d7eb66b03e/115124553-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-05-26T17:25:01.761250Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
+      "title_original": "适合城市通勤 QQ3 EV提车作业分享",
+      "title_en": null,
+      "title_zh": "适合城市通勤 QQ3 EV提车作业分享",
+      "title_bilingual": "适合城市通勤 QQ3 EV提车作业分享",
+      "topic_tags": [
+        "新能源",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "daf5b439df1a4d308d0fbeda1997ac88f8992df3",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "适合家用代步 零跑A10提车作业分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/40fc0f3a4f69e4b4/115120453-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-05-26T17:25:01.761250Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
+      "title_original": "适合家用代步 零跑A10提车作业分享",
+      "title_en": null,
+      "title_zh": "适合家用代步 零跑A10提车作业分享",
+      "title_bilingual": "适合家用代步 零跑A10提车作业分享",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "ff29ffe98b337198b8147d9803f46ceac7f5a0a7",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Nio highlights flagship ES9 SUV's safety features in national broadcast",
+      "url": "https://cnevpost.com/2026/05/26/nio-highlights-es9-safety-cctv",
+      "published_at": "2026-05-26T14:18:41Z",
+      "first_seen_at": "2026-05-26T17:25:01.761250Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
+      "title_original": "Nio highlights flagship ES9 SUV's safety features in national broadcast",
+      "title_en": "Nio highlights flagship ES9 SUV's safety features in national broadcast",
+      "title_zh": "蔚来在全国广播中强调旗舰ES9 SUV的安全特性",
+      "title_bilingual": "蔚来在全国广播中强调旗舰ES9 SUV的安全特性 / Nio highlights flagship ES9 SUV's safety features in national broadcast",
+      "topic_tags": [
+        "新能源",
+        "召回安全",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
       "id": "57f2904687b874fb9c87c89a4c8563384f67db7c",
       "site_id": "newsnow",
       "site_name": "NewsNow",
@@ -800,7 +996,7 @@
       "url": "https://juejin.cn/post/7643033880698421300",
       "published_at": "2026-05-26T13:42:52.346000Z",
       "first_seen_at": "2026-05-26T13:52:47.667126Z",
-      "last_seen_at": "2026-05-26T13:52:47.667126Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
       "title_original": "从 Figma 走查到 AI 可验证产物：我如何重构客户端 UI 交付链路",
       "title_en": null,
       "title_zh": "从 Figma 走查到 AI 可验证产物：我如何重构客户端 UI 交付链路",
@@ -818,7 +1014,7 @@
       "url": "https://www.36kr.com/newsflashes/3826125913396097",
       "published_at": "2026-05-26T12:57:27.015000Z",
       "first_seen_at": "2026-05-26T13:52:47.667126Z",
-      "last_seen_at": "2026-05-26T13:52:47.667126Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
       "title_original": "热门中概股美股盘前涨跌不一，小鹏集团涨超5%",
       "title_en": null,
       "title_zh": "热门中概股美股盘前涨跌不一，小鹏集团涨超5%",
@@ -836,7 +1032,7 @@
       "url": "https://www.36kr.com/newsflashes/3826118844470146",
       "published_at": "2026-05-26T12:49:27.015000Z",
       "first_seen_at": "2026-05-26T13:52:47.667126Z",
-      "last_seen_at": "2026-05-26T13:52:47.667126Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
       "title_original": "宁德时代：与Solarpro Holding合作的大型储能项目在保加利亚成功并网投运",
       "title_en": null,
       "title_zh": "宁德时代：与Solarpro Holding合作的大型储能项目在保加利亚成功并网投运",
@@ -854,7 +1050,7 @@
       "url": "https://www.36kr.com/newsflashes/3826112506647171",
       "published_at": "2026-05-26T12:43:27.015000Z",
       "first_seen_at": "2026-05-26T13:52:47.667126Z",
-      "last_seen_at": "2026-05-26T13:52:47.667126Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
       "title_original": "全球最大铝土矿生产国拟管控出口，铝土矿价格近乎腰斩",
       "title_en": null,
       "title_zh": "全球最大铝土矿生产国拟管控出口，铝土矿价格近乎腰斩",
@@ -872,7 +1068,7 @@
       "url": "https://carnewschina.com/2026/05/26/xiaomi-loses-5600-usd-for-every-car-sold-in-the-first-quarter-of-2026",
       "published_at": "2026-05-26T11:35:53Z",
       "first_seen_at": "2026-05-26T13:52:47.667126Z",
-      "last_seen_at": "2026-05-26T13:52:47.667126Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
       "title_original": "Xiaomi loses 5,600 USD for every car sold in the first quarter of 2026",
       "title_en": "Xiaomi loses 5,600 USD for every car sold in the first quarter of 2026",
       "title_zh": "2026年第一季度小米每售出一辆车就损失5600美元",
@@ -891,7 +1087,7 @@
       "url": "https://carnewschina.com/2026/05/26/byd-dolphin-g-plug-in-hybrid-hatchback-broke-cover-ahead-of-european-launch",
       "published_at": "2026-05-26T11:10:23Z",
       "first_seen_at": "2026-05-26T13:52:47.667126Z",
-      "last_seen_at": "2026-05-26T13:52:47.667126Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
       "title_original": "BYD Dolphin G plug-in hybrid hatchback broke cover ahead of European launch",
       "title_en": "BYD Dolphin G plug-in hybrid hatchback broke cover ahead of European launch",
       "title_zh": "比亚迪海豚G插电式混合动力掀背车在欧洲上市前亮相",
@@ -911,7 +1107,7 @@
       "url": "https://cnevpost.com/2026/05/26/xiaomi-ev-business-posts-operating-loss",
       "published_at": "2026-05-26T10:06:06Z",
       "first_seen_at": "2026-05-26T13:52:47.667126Z",
-      "last_seen_at": "2026-05-26T13:52:47.667126Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
       "title_original": "Xiaomi's EV business posts Q1 operating loss despite delivery growth",
       "title_en": "Xiaomi's EV business posts Q1 operating loss despite delivery growth",
       "title_zh": "尽管交付量增长，小米电动汽车业务第一季度运营亏损",
@@ -931,7 +1127,7 @@
       "url": "https://cnevpost.com/2026/05/26/pony-ai-raises-2026-robotaxi-revenue-target",
       "published_at": "2026-05-26T09:34:04Z",
       "first_seen_at": "2026-05-26T13:52:47.667126Z",
-      "last_seen_at": "2026-05-26T13:52:47.667126Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
       "title_original": "Pony AI raises 2026 robotaxi revenue target to 3.5 times of 2025 level",
       "title_en": "Pony AI raises 2026 robotaxi revenue target to 3.5 times of 2025 level",
       "title_zh": "小马AI将2026年Robotaxi收入目标提高至2025年水平的3.5倍",
@@ -949,7 +1145,7 @@
       "url": "https://cnevpost.com/2026/05/26/analysts-aggressive-pricing-gx-boosts-xpeng-may-orders-50000",
       "published_at": "2026-05-26T07:47:32Z",
       "first_seen_at": "2026-05-26T13:52:47.667126Z",
-      "last_seen_at": "2026-05-26T13:52:47.667126Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
       "title_original": "Analysts say aggressive pricing of GX boosts Xpeng's May orders to 50,000",
       "title_en": "Analysts say aggressive pricing of GX boosts Xpeng's May orders to 50,000",
       "title_zh": "分析师表示，GX 激进的定价使小鹏汽车 5 月份订单增至 5 万辆",
@@ -970,7 +1166,7 @@
       "url": "https://cnevpost.com/2026/05/26/xiaomi-ev-introduces-world-model",
       "published_at": "2026-05-26T06:53:05Z",
       "first_seen_at": "2026-05-26T13:52:47.667126Z",
-      "last_seen_at": "2026-05-26T13:52:47.667126Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
       "title_original": "Xiaomi EV introduces world model to advance autonomous driving tech",
       "title_en": "Xiaomi EV introduces world model to advance autonomous driving tech",
       "title_zh": "小米电动车推出世界模型推进自动驾驶技术",
@@ -990,7 +1186,7 @@
       "url": "https://cnevpost.com/2026/05/26/zeron-raises-200-million-b2-round",
       "published_at": "2026-05-26T06:04:04Z",
       "first_seen_at": "2026-05-26T06:45:10.503124Z",
-      "last_seen_at": "2026-05-26T13:52:47.667126Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
       "title_original": "Chinese EV truck startup Zeron raises $200 million in B2 round to fuel autonomous truck push",
       "title_en": "Chinese EV truck startup Zeron raises $200 million in B2 round to fuel autonomous truck push",
       "title_zh": "中国电动卡车初创公司Zeron在B2轮融资中筹集了2亿美元，以推动自动驾驶卡车的发展",
@@ -1009,7 +1205,7 @@
       "url": "https://cnevpost.com/2026/05/26/byd-launches-2026-sealion-06-dm-i",
       "published_at": "2026-05-26T05:02:57Z",
       "first_seen_at": "2026-05-26T06:45:10.503124Z",
-      "last_seen_at": "2026-05-26T13:52:47.667126Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
       "title_original": "BYD launches 2026 Sealion 06 DM-i to strengthen plug-in hybrid lineup",
       "title_en": "BYD launches 2026 Sealion 06 DM-i to strengthen plug-in hybrid lineup",
       "title_zh": "比亚迪推出2026款Sealion 06 DM-i，强化插电式混合动力阵容",
@@ -1028,7 +1224,7 @@
       "url": "https://carnewschina.com/2026/05/26/huawei-unveils-tau-scaling-law-a-new-semiconductor-roadmap-to-succeed-moores-law",
       "published_at": "2026-05-26T04:51:59Z",
       "first_seen_at": "2026-05-26T06:45:10.503124Z",
-      "last_seen_at": "2026-05-26T13:52:47.667126Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
       "title_original": "Huawei unveils Tau Scaling Law: a new semiconductor roadmap to succeed Moore’s Law",
       "title_en": "Huawei unveils Tau Scaling Law: a new semiconductor roadmap to succeed Moore’s Law",
       "title_zh": "华为推出Tau缩放定律：继承摩尔定律的新半导体路线图",
@@ -1046,7 +1242,7 @@
       "url": "https://carnewschina.com/2026/05/26/low-cost-xiaomi-yu7-trim-started-deliveries-in-china-at-34660-usd",
       "published_at": "2026-05-26T03:49:34Z",
       "first_seen_at": "2026-05-26T06:45:10.503124Z",
-      "last_seen_at": "2026-05-26T13:52:47.667126Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
       "title_original": "Low-cost Xiaomi YU7 trim started deliveries in China at 34,660 USD",
       "title_en": "Low-cost Xiaomi YU7 trim started deliveries in China at 34,660 USD",
       "title_zh": "低成本小米YU7内饰开始在中国发货，售价34,660美元",
@@ -1066,7 +1262,7 @@
       "url": "https://cnevpost.com/2026/05/26/xiaomi-begins-deliveries-cheaper-yu7-standard",
       "published_at": "2026-05-26T02:54:29Z",
       "first_seen_at": "2026-05-26T02:55:13.762675Z",
-      "last_seen_at": "2026-05-26T13:52:47.667126Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
       "title_original": "Xiaomi begins deliveries of cheaper YU7 standard edition to rival Tesla",
       "title_en": "Xiaomi begins deliveries of cheaper YU7 standard edition to rival Tesla",
       "title_zh": "小米开始向特斯拉竞争对手交付更便宜的 YU7 标准版",
@@ -1140,7 +1336,7 @@
       "url": "http://vc.yiche.com/vplay/11217579.html",
       "published_at": null,
       "first_seen_at": "2026-05-25T19:26:34.949998Z",
-      "last_seen_at": "2026-05-26T13:52:47.667126Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
       "title_original": "长安CS75Plus蓝鲸超擎版百公里油耗实测！",
       "title_en": null,
       "title_zh": "长安CS75Plus蓝鲸超擎版百公里油耗实测！",
@@ -1158,7 +1354,7 @@
       "url": "http://vc.yiche.com/vplay/11170165.html",
       "published_at": null,
       "first_seen_at": "2026-05-25T19:26:34.949998Z",
-      "last_seen_at": "2026-05-26T13:52:47.667126Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
       "title_original": "7万内买大空间可换电运动轿车？极狐S3到店实拍体验",
       "title_en": null,
       "title_zh": "7万内买大空间可换电运动轿车？极狐S3到店实拍体验",
@@ -1177,7 +1373,7 @@
       "url": "http://vc.yiche.com/vplay/11215535.html",
       "published_at": null,
       "first_seen_at": "2026-05-25T19:26:34.949998Z",
-      "last_seen_at": "2026-05-26T13:52:47.667126Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
       "title_original": "比亚迪大唐高配车型实拍！广受关注的比亚迪旗舰SUV",
       "title_en": null,
       "title_zh": "比亚迪大唐高配车型实拍！广受关注的比亚迪旗舰SUV",
@@ -1196,7 +1392,7 @@
       "url": "http://vc.yiche.com/vplay/11270905.html",
       "published_at": null,
       "first_seen_at": "2026-05-25T19:26:34.949998Z",
-      "last_seen_at": "2026-05-26T13:52:47.667126Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
       "title_original": "试驾小鹏GX第二代VLA 解锁园区地库无导航漫游",
       "title_en": null,
       "title_zh": "试驾小鹏GX第二代VLA 解锁园区地库无导航漫游",
@@ -1215,7 +1411,7 @@
       "url": "http://vc.yiche.com/vplay/11271073.html",
       "published_at": null,
       "first_seen_at": "2026-05-25T19:26:34.949998Z",
-      "last_seen_at": "2026-05-26T13:52:47.667126Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
       "title_original": "全员安全不妥协全家出行不将就 抢先试驾新红旗HQ9高速通勤泊车全程省心",
       "title_en": null,
       "title_zh": "全员安全不妥协全家出行不将就 抢先试驾新红旗HQ9高速通勤泊车全程省心",
@@ -1234,7 +1430,7 @@
       "url": "http://vc.yiche.com/vplay/11196817.html",
       "published_at": null,
       "first_seen_at": "2026-05-25T19:26:34.949998Z",
-      "last_seen_at": "2026-05-26T13:52:47.667126Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
       "title_original": "试驾第二代腾势D9，大车能好开吗？",
       "title_en": null,
       "title_zh": "试驾第二代腾势D9，大车能好开吗？",
@@ -1252,7 +1448,7 @@
       "url": "https://auto.gasgoo.com/news/202605/25I70459210C501.shtml",
       "published_at": "2026-05-25T18:15:09Z",
       "first_seen_at": "2026-05-26T13:52:47.667126Z",
-      "last_seen_at": "2026-05-26T13:52:47.667126Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
       "title_original": "2026年Q1全球电动汽车电池装机量：增速放缓至9.1%，中企持续领跑",
       "title_en": null,
       "title_zh": "2026年Q1全球电动汽车电池装机量：增速放缓至9.1%，中企持续领跑",
@@ -1271,7 +1467,7 @@
       "url": "https://auto.gasgoo.com/news/202605/25I70459208C501.shtml",
       "published_at": "2026-05-25T17:55:31Z",
       "first_seen_at": "2026-05-26T13:52:47.667126Z",
-      "last_seen_at": "2026-05-26T13:52:47.667126Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
       "title_original": "蔚来换电的长期主义：不急着盈利",
       "title_en": null,
       "title_zh": "蔚来换电的长期主义：不急着盈利",
@@ -1291,7 +1487,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/dc728819eea66a0a/115119961-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-25T17:41:57.392922Z",
-      "last_seen_at": "2026-05-26T13:52:47.667126Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
       "title_original": "符合我的预算 QQ3 EV提车作业分享",
       "title_en": null,
       "title_zh": "符合我的预算 QQ3 EV提车作业分享",
@@ -1310,7 +1506,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/5e25636587a14d9a/115162323-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-25T17:41:57.392922Z",
-      "last_seen_at": "2026-05-26T13:52:47.667126Z",
+      "last_seen_at": "2026-05-26T17:25:01.761250Z",
       "title_original": "宝马1250adv更换发电机之详解",
       "title_en": null,
       "title_zh": "宝马1250adv更换发电机之详解",
@@ -1356,156 +1552,6 @@
       "topic_tags": [
         "车企竞争",
         "购车决策"
-      ]
-    },
-    {
-      "id": "cc5abb045176af90ec386cd0ba53f42605565fd7",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新车",
-      "title": "雪铁龙确认将推出电动版2CV 起售价低于1.8万美元",
-      "url": "https://auto.gasgoo.com/news/202605/25I70459109C107.shtml",
-      "published_at": "2026-05-25T16:40:04Z",
-      "first_seen_at": "2026-05-26T13:52:47.667126Z",
-      "last_seen_at": "2026-05-26T13:52:47.667126Z",
-      "title_original": "雪铁龙确认将推出电动版2CV 起售价低于1.8万美元",
-      "title_en": null,
-      "title_zh": "雪铁龙确认将推出电动版2CV 起售价低于1.8万美元",
-      "title_bilingual": "雪铁龙确认将推出电动版2CV 起售价低于1.8万美元",
-      "topic_tags": [
-        "价格战",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "27cd44abc8211e6750b763aa95f576eba2241f9d",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新车",
-      "title": "马自达CX-5时隔9年换代，能否撬动中国市场？",
-      "url": "https://auto.gasgoo.com/news/202605/25I70459196C107.shtml",
-      "published_at": "2026-05-25T15:49:04Z",
-      "first_seen_at": "2026-05-26T13:52:47.667126Z",
-      "last_seen_at": "2026-05-26T13:52:47.667126Z",
-      "title_original": "马自达CX-5时隔9年换代，能否撬动中国市场？",
-      "title_en": null,
-      "title_zh": "马自达CX-5时隔9年换代，能否撬动中国市场？",
-      "title_bilingual": "马自达CX-5时隔9年换代，能否撬动中国市场？",
-      "topic_tags": [
-        "销量市场",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "d56e3b09b7f55849155b02c7652e1f5ca9b97e3a",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新能源",
-      "title": "华为全家桶、3秒破百，岚图追光S叫板YU7？",
-      "url": "https://auto.gasgoo.com/news/202605/25I70459199C501.shtml",
-      "published_at": "2026-05-25T14:56:10Z",
-      "first_seen_at": "2026-05-26T13:52:47.667126Z",
-      "last_seen_at": "2026-05-26T13:52:47.667126Z",
-      "title_original": "华为全家桶、3秒破百，岚图追光S叫板YU7？",
-      "title_en": null,
-      "title_zh": "华为全家桶、3秒破百，岚图追光S叫板YU7？",
-      "title_bilingual": "华为全家桶、3秒破百，岚图追光S叫板YU7？",
-      "topic_tags": [
-        "新能源"
-      ]
-    },
-    {
-      "id": "ed12dab50f9499531d8029de4acda7c3623b6250",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-销量",
-      "title": "2026年4月乘用车自主品牌销量榜：银河跻身前三，零跑7.1万辆创新高丨盖世汽车研究院",
-      "url": "https://auto.gasgoo.com/news/202605/25I70459198C110.shtml",
-      "published_at": "2026-05-25T14:54:21Z",
-      "first_seen_at": "2026-05-26T13:52:47.667126Z",
-      "last_seen_at": "2026-05-26T13:52:47.667126Z",
-      "title_original": "2026年4月乘用车自主品牌销量榜：银河跻身前三，零跑7.1万辆创新高丨盖世汽车研究院",
-      "title_en": null,
-      "title_zh": "2026年4月乘用车自主品牌销量榜：银河跻身前三，零跑7.1万辆创新高丨盖世汽车研究院",
-      "title_bilingual": "2026年4月乘用车自主品牌销量榜：银河跻身前三，零跑7.1万辆创新高丨盖世汽车研究院",
-      "topic_tags": [
-        "销量市场",
-        "车企竞争",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "e797e4524e0143606f312e4368a728e384acc1d0",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新车",
-      "title": "乐道L80首批车主数据：九成选BaaS租电，静岳黑成最热门车色",
-      "url": "https://auto.gasgoo.com/news/202605/25I70459195C107.shtml",
-      "published_at": "2026-05-25T14:41:11Z",
-      "first_seen_at": "2026-05-26T06:45:10.503124Z",
-      "last_seen_at": "2026-05-26T13:52:47.667126Z",
-      "title_original": "乐道L80首批车主数据：九成选BaaS租电，静岳黑成最热门车色",
-      "title_en": null,
-      "title_zh": "乐道L80首批车主数据：九成选BaaS租电，静岳黑成最热门车色",
-      "title_bilingual": "乐道L80首批车主数据：九成选BaaS租电，静岳黑成最热门车色",
-      "topic_tags": [
-        "购车决策",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "67e762295e40cc84a44ee8df5ee8c095feddae3c",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新车",
-      "title": "斯巴鲁为Forester新增Touring版，起售价385万日元以扩大用户群体",
-      "url": "https://auto.gasgoo.com/news/202605/25I70459154C107.shtml",
-      "published_at": "2026-05-25T14:19:36Z",
-      "first_seen_at": "2026-05-26T06:45:10.503124Z",
-      "last_seen_at": "2026-05-26T13:52:47.667126Z",
-      "title_original": "斯巴鲁为Forester新增Touring版，起售价385万日元以扩大用户群体",
-      "title_en": null,
-      "title_zh": "斯巴鲁为Forester新增Touring版，起售价385万日元以扩大用户群体",
-      "title_bilingual": "斯巴鲁为Forester新增Touring版，起售价385万日元以扩大用户群体",
-      "topic_tags": [
-        "价格战",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "e63ab9ea7fd704bdfe0c09aad72bcd9e9bbe283c",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "印度安得拉邦加速建设电动公交充电设施，计划6月20日前完成五座充电站",
-      "url": "https://auto.gasgoo.com/news/202605/25I70459160C108.shtml",
-      "published_at": "2026-05-25T14:18:28Z",
-      "first_seen_at": "2026-05-26T06:45:10.503124Z",
-      "last_seen_at": "2026-05-26T13:52:47.667126Z",
-      "title_original": "印度安得拉邦加速建设电动公交充电设施，计划6月20日前完成五座充电站",
-      "title_en": null,
-      "title_zh": "印度安得拉邦加速建设电动公交充电设施，计划6月20日前完成五座充电站",
-      "title_bilingual": "印度安得拉邦加速建设电动公交充电设施，计划6月20日前完成五座充电站",
-      "topic_tags": [
-        "补能电池"
-      ]
-    },
-    {
-      "id": "e5c0a85797a0fec328b97a908e0e838051f2bb0f",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "小鹏副总裁：小鹏可能是唯一一个欢迎特斯拉FSD入华的车企",
-      "url": "https://auto.gasgoo.com/news/202605/25I70459194C109.shtml",
-      "published_at": "2026-05-25T14:15:46Z",
-      "first_seen_at": "2026-05-26T06:45:10.503124Z",
-      "last_seen_at": "2026-05-26T13:52:47.667126Z",
-      "title_original": "小鹏副总裁：小鹏可能是唯一一个欢迎特斯拉FSD入华的车企",
-      "title_en": null,
-      "title_zh": "小鹏副总裁：小鹏可能是唯一一个欢迎特斯拉FSD入华的车企",
-      "title_bilingual": "小鹏副总裁：小鹏可能是唯一一个欢迎特斯拉FSD入华的车企",
-      "topic_tags": [
-        "车企竞争"
       ]
     }
   ],
