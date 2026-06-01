@@ -1,53 +1,53 @@
 {
-  "generated_at": "2026-06-01T05:24:43.334017Z",
+  "generated_at": "2026-06-01T10:37:24.220963Z",
   "window_hours": 24,
-  "total_items": 23,
-  "total_items_ai_raw": 25,
-  "total_items_raw": 3147,
-  "total_items_all_mode": 2923,
+  "total_items": 32,
+  "total_items_ai_raw": 32,
+  "total_items_raw": 3097,
+  "total_items_all_mode": 2867,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 68293,
+  "archive_total": 68520,
   "site_count": 3,
-  "source_count": 6,
+  "source_count": 7,
   "site_stats": [
-    {
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "count": 12,
-      "raw_count": 2977
-    },
     {
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "count": 6,
-      "raw_count": 8
+      "count": 14,
+      "raw_count": 14
+    },
+    {
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "count": 11,
+      "raw_count": 2923
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
-      "count": 5,
-      "raw_count": 162
+      "count": 7,
+      "raw_count": 160
     }
   ],
   "topic_tag_stats": [
     {
       "tag": "车企竞争",
-      "count": 13
+      "count": 21
     },
     {
       "tag": "销量市场",
-      "count": 8
+      "count": 17
     },
     {
       "tag": "新能源",
-      "count": 7
-    },
-    {
-      "tag": "购车决策",
-      "count": 6
+      "count": 15
     },
     {
       "tag": "新车上市",
+      "count": 8
+    },
+    {
+      "tag": "购车决策",
       "count": 5
     },
     {
@@ -60,11 +60,171 @@
     },
     {
       "tag": "补能电池",
-      "count": 2
+      "count": 3
     }
   ],
   "items": [
     {
+      "id": "ccaad2d2652cf3d8ddcdb6511a7f528f2b0a753f",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Geely's May sales edge up as exports hit another record",
+      "url": "https://cnevpost.com/2026/06/01/geely-may-2026-sales-edge-up-exports-record",
+      "published_at": "2026-06-01T10:19:12Z",
+      "first_seen_at": "2026-06-01T10:37:24.220963Z",
+      "last_seen_at": "2026-06-01T10:37:24.220963Z",
+      "title_original": "Geely's May sales edge up as exports hit another record",
+      "title_en": "Geely's May sales edge up as exports hit another record",
+      "title_zh": "吉利5月销量小幅增长 出口再创新高",
+      "title_bilingual": "吉利5月销量小幅增长 出口再创新高 / Geely's May sales edge up as exports hit another record",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "9be5a789cf7601a4733064fea4ca541327fe6bd0",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "36kr",
+      "title": "吉利汽车：5月汽车总销量为237637部，同比增长约1%",
+      "url": "https://www.36kr.com/newsflashes/3834428394055303",
+      "published_at": "2026-06-01T09:42:44.727000Z",
+      "first_seen_at": "2026-06-01T10:37:24.220963Z",
+      "last_seen_at": "2026-06-01T10:37:24.220963Z",
+      "title_original": "吉利汽车：5月汽车总销量为237637部，同比增长约1%",
+      "title_en": null,
+      "title_zh": "吉利汽车：5月汽车总销量为237637部，同比增长约1%",
+      "title_bilingual": "吉利汽车：5月汽车总销量为237637部，同比增长约1%",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "605e5884f2bc82f16999fcff8aac85ae45ab24f1",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "36kr",
+      "title": "北汽蓝谷：5月销量21871辆，同比增长27.75%",
+      "url": "https://www.36kr.com/newsflashes/3834418979202947",
+      "published_at": "2026-06-01T09:32:44.727000Z",
+      "first_seen_at": "2026-06-01T10:37:24.220963Z",
+      "last_seen_at": "2026-06-01T10:37:24.220963Z",
+      "title_original": "北汽蓝谷：5月销量21871辆，同比增长27.75%",
+      "title_en": null,
+      "title_zh": "北汽蓝谷：5月销量21871辆，同比增长27.75%",
+      "title_bilingual": "北汽蓝谷：5月销量21871辆，同比增长27.75%",
+      "topic_tags": [
+        "销量市场"
+      ]
+    },
+    {
+      "id": "00572c277ac7bdb0225d8845aeb9ed5c574b4f50",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Li Auto's May deliveries fall 18% as it pins hopes on new 5-seat flagship SUV to revive sales",
+      "url": "https://cnevpost.com/2026/06/01/li-auto-may-2026-deliveries",
+      "published_at": "2026-06-01T08:46:14Z",
+      "first_seen_at": "2026-06-01T10:37:24.220963Z",
+      "last_seen_at": "2026-06-01T10:37:24.220963Z",
+      "title_original": "Li Auto's May deliveries fall 18% as it pins hopes on new 5-seat flagship SUV to revive sales",
+      "title_en": "Li Auto's May deliveries fall 18% as it pins hopes on new 5-seat flagship SUV to revive sales",
+      "title_zh": "理想汽车5月交付量下降18%，寄希望于新款5座旗舰SUV重振销量",
+      "title_bilingual": "理想汽车5月交付量下降18%，寄希望于新款5座旗舰SUV重振销量 / Li Auto's May deliveries fall 18% as it pins hopes on new 5-seat flagship SUV to revive sales",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "c63c99a3b3b7494c9ed9b39c37bab41fdb875aaa",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Zeekr's May deliveries hit record high as premium models drive growth",
+      "url": "https://cnevpost.com/2026/06/01/zeekrs-may-2026-deliveries",
+      "published_at": "2026-06-01T07:33:43Z",
+      "first_seen_at": "2026-06-01T10:37:24.220963Z",
+      "last_seen_at": "2026-06-01T10:37:24.220963Z",
+      "title_original": "Zeekr's May deliveries hit record high as premium models drive growth",
+      "title_en": "Zeekr's May deliveries hit record high as premium models drive growth",
+      "title_zh": "Zeekr 5 月交付量创历史新高，高端车型推动增长",
+      "title_bilingual": "Zeekr 5 月交付量创历史新高，高端车型推动增长 / Zeekr's May deliveries hit record high as premium models drive growth",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "bad3c95ca318c4343d3a874b40b8effa1af612f2",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Leapmotor May deliveries surge 81% to hit new high",
+      "url": "https://cnevpost.com/2026/06/01/leapmotor-may-2026-deliveries",
+      "published_at": "2026-06-01T07:02:25Z",
+      "first_seen_at": "2026-06-01T10:37:24.220963Z",
+      "last_seen_at": "2026-06-01T10:37:24.220963Z",
+      "title_original": "Leapmotor May deliveries surge 81% to hit new high",
+      "title_en": "Leapmotor May deliveries surge 81% to hit new high",
+      "title_zh": "零跑汽车5月交付量猛增81%再创新高",
+      "title_bilingual": "零跑汽车5月交付量猛增81%再创新高 / Leapmotor May deliveries surge 81% to hit new high",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "275dc4f8bd97298a63c15249416cf7fa0be6d76c",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "New BYD Atto 3 gains more than 30,000 orders in first week on market in China",
+      "url": "https://carnewschina.com/2026/06/01/new-byd-atto-3-gains-more-than-30000-orders-in-first-week-on-market-in-china",
+      "published_at": "2026-06-01T06:56:27Z",
+      "first_seen_at": "2026-06-01T10:37:24.220963Z",
+      "last_seen_at": "2026-06-01T10:37:24.220963Z",
+      "title_original": "New BYD Atto 3 gains more than 30,000 orders in first week on market in China",
+      "title_en": "New BYD Atto 3 gains more than 30,000 orders in first week on market in China",
+      "title_zh": "比亚迪新款Atto 3上市首周订单超3万辆",
+      "title_bilingual": "比亚迪新款Atto 3上市首周订单超3万辆 / New BYD Atto 3 gains more than 30,000 orders in first week on market in China",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "9c79c4f9a472a9af2f89f5477067b48dd2265e97",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Nio ES8 delivers 11,475 units in May, topping 10,000 for 7th consecutive month",
+      "url": "https://cnevpost.com/2026/06/01/nio-es8-delivers-11475-units-may-2026",
+      "published_at": "2026-06-01T06:34:12Z",
+      "first_seen_at": "2026-06-01T10:37:24.220963Z",
+      "last_seen_at": "2026-06-01T10:37:24.220963Z",
+      "title_original": "Nio ES8 delivers 11,475 units in May, topping 10,000 for 7th consecutive month",
+      "title_en": "Nio ES8 delivers 11,475 units in May, topping 10,000 for 7th consecutive month",
+      "title_zh": "蔚来ES8 5月销量11,475辆，连续7个月突破万辆",
+      "title_bilingual": "蔚来ES8 5月销量11,475辆，连续7个月突破万辆 / Nio ES8 delivers 11,475 units in May, topping 10,000 for 7th consecutive month",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
       "id": "8b5711f733b6d2cc39dd28002031f9c4e27223d6",
       "site_id": "newsnow",
       "site_name": "NewsNow",
@@ -103,6 +263,27 @@
       ]
     },
     {
+      "id": "bcaabd632ccc52955d0913ca9c90509e96b49bac",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Xpeng delivers 32,158 cars in May, down 4% year-on-year as new GX SUV contribution remains limited",
+      "url": "https://cnevpost.com/2026/06/01/xpeng-deliveries-may-2026",
+      "published_at": "2026-06-01T04:25:24Z",
+      "first_seen_at": "2026-06-01T10:37:24.220963Z",
+      "last_seen_at": "2026-06-01T10:37:24.220963Z",
+      "title_original": "Xpeng delivers 32,158 cars in May, down 4% year-on-year as new GX SUV contribution remains limited",
+      "title_en": "Xpeng delivers 32,158 cars in May, down 4% year-on-year as new GX SUV contribution remains limited",
+      "title_zh": "小鹏汽车5月交付32,158辆汽车，同比下降4%，新款GX SUV贡献仍然有限",
+      "title_bilingual": "小鹏汽车5月交付32,158辆汽车，同比下降4%，新款GX SUV贡献仍然有限 / Xpeng delivers 32,158 cars in May, down 4% year-on-year as new GX SUV contribution remains limited",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
       "id": "373c6c7e9c51cf383323a514b542924ad017ad24",
       "site_id": "newsnow",
       "site_name": "NewsNow",
@@ -131,7 +312,7 @@
       "url": "https://cnevpost.com/2026/06/01/nio-deliveries-may-2026",
       "published_at": "2026-06-01T04:11:05Z",
       "first_seen_at": "2026-06-01T05:24:43.334017Z",
-      "last_seen_at": "2026-06-01T05:24:43.334017Z",
+      "last_seen_at": "2026-06-01T10:37:24.220963Z",
       "title_original": "Nio delivers 37,705 vehicles in May, highest this year",
       "title_en": "Nio delivers 37,705 vehicles in May, highest this year",
       "title_zh": "蔚来5月交付37,705辆汽车，创今年最高",
@@ -188,7 +369,7 @@
       "url": "https://cnevpost.com/2026/06/01/china-auto-deliveries-may-2026",
       "published_at": "2026-06-01T04:02:15Z",
       "first_seen_at": "2026-06-01T05:24:43.334017Z",
-      "last_seen_at": "2026-06-01T05:24:43.334017Z",
+      "last_seen_at": "2026-06-01T10:37:24.220963Z",
       "title_original": "Live updates: May 2026 deliveries for major Chinese automakers",
       "title_en": "Live updates: May 2026 deliveries for major Chinese automakers",
       "title_zh": "实时更新：2026 年 5 月中国主要汽车制造商的交付情况",
@@ -208,7 +389,7 @@
       "url": "https://cnevpost.com/2026/06/01/huawei-hima-delivers-46122-vehicles-may-2026",
       "published_at": "2026-06-01T02:41:49Z",
       "first_seen_at": "2026-06-01T05:24:43.334017Z",
-      "last_seen_at": "2026-06-01T05:24:43.334017Z",
+      "last_seen_at": "2026-06-01T10:37:24.220963Z",
       "title_original": "Huawei HIMA delivers 46,122 vehicles in May, marking second consecutive month of sequential growth",
       "title_en": "Huawei HIMA delivers 46,122 vehicles in May, marking second consecutive month of sequential growth",
       "title_zh": "华为HIMA 5月交付车辆46,122辆，连续第二个月环比增长",
@@ -227,7 +408,7 @@
       "url": "https://cnevpost.com/2026/06/01/xiaomi-ev-delivers-over-30000-cars-may-2026",
       "published_at": "2026-06-01T01:22:28Z",
       "first_seen_at": "2026-06-01T05:24:43.334017Z",
-      "last_seen_at": "2026-06-01T05:24:43.334017Z",
+      "last_seen_at": "2026-06-01T10:37:24.220963Z",
       "title_original": "Xiaomi EV delivers over 30,000 cars in May as lineup expands",
       "title_en": "Xiaomi EV delivers over 30,000 cars in May as lineup expands",
       "title_zh": "小米电动车5月交付超3万辆 阵容扩大",
@@ -266,7 +447,7 @@
       "url": "http://vc.yiche.com/vplay/11384214.html",
       "published_at": null,
       "first_seen_at": "2026-05-31T20:05:43.374488Z",
-      "last_seen_at": "2026-06-01T05:24:43.334017Z",
+      "last_seen_at": "2026-06-01T10:37:24.220963Z",
       "title_original": "比亚迪宋Ultra DM-i上市，B级插混SUV纯电续航310公里首次进入13万级",
       "title_en": null,
       "title_zh": "比亚迪宋Ultra DM-i上市，B级插混SUV纯电续航310公里首次进入13万级",
@@ -287,7 +468,7 @@
       "url": "http://vc.yiche.com/vplay/11352833.html",
       "published_at": null,
       "first_seen_at": "2026-05-31T20:05:43.374488Z",
-      "last_seen_at": "2026-06-01T05:24:43.334017Z",
+      "last_seen_at": "2026-06-01T10:37:24.220963Z",
       "title_original": "新问界M9上市 加长+标配6颗激光雷达+全主动悬架",
       "title_en": null,
       "title_zh": "新问界M9上市 加长+标配6颗激光雷达+全主动悬架",
@@ -307,7 +488,7 @@
       "url": "http://vc.yiche.com/vplay/11377410.html",
       "published_at": null,
       "first_seen_at": "2026-05-31T20:05:43.374488Z",
-      "last_seen_at": "2026-06-01T05:24:43.334017Z",
+      "last_seen_at": "2026-06-01T10:37:24.220963Z",
       "title_original": "新款吉利星愿限时6.18万起  加量不加价 能守住销冠吗？",
       "title_en": null,
       "title_zh": "新款吉利星愿限时6.18万起  加量不加价 能守住销冠吗？",
@@ -325,7 +506,7 @@
       "url": "http://vc.yiche.com/vplay/11357922.html",
       "published_at": null,
       "first_seen_at": "2026-05-31T20:05:43.374488Z",
-      "last_seen_at": "2026-06-01T05:24:43.334017Z",
+      "last_seen_at": "2026-06-01T10:37:24.220963Z",
       "title_original": "同级唯一2+2+3布局，大唐坐出了MPV的舒适感？",
       "title_en": null,
       "title_zh": "同级唯一2+2+3布局，大唐坐出了MPV的舒适感？",
@@ -343,7 +524,7 @@
       "url": "http://vc.yiche.com/vplay/11367617.html",
       "published_at": null,
       "first_seen_at": "2026-05-31T20:05:43.374488Z",
-      "last_seen_at": "2026-06-01T05:24:43.334017Z",
+      "last_seen_at": "2026-06-01T10:37:24.220963Z",
       "title_original": "14.99万落地，激光雷达上车，试驾风云T9L",
       "title_en": null,
       "title_zh": "14.99万落地，激光雷达上车，试驾风云T9L",
@@ -351,6 +532,43 @@
       "topic_tags": [
         "智能驾驶",
         "购车决策"
+      ]
+    },
+    {
+      "id": "ca0a1bad610b62e6da09b979106577e65be3556e",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "小智一周要闻 | 小鹏机器人进入量产冲刺阶段；灵心巧手并购京灵智康",
+      "url": "https://auto.gasgoo.com/news/202605/31I70459849C601.shtml",
+      "published_at": "2026-05-31T17:51:43Z",
+      "first_seen_at": "2026-06-01T10:37:24.220963Z",
+      "last_seen_at": "2026-06-01T10:37:24.220963Z",
+      "title_original": "小智一周要闻 | 小鹏机器人进入量产冲刺阶段；灵心巧手并购京灵智康",
+      "title_en": null,
+      "title_zh": "小智一周要闻 | 小鹏机器人进入量产冲刺阶段；灵心巧手并购京灵智康",
+      "title_bilingual": "小智一周要闻 | 小鹏机器人进入量产冲刺阶段；灵心巧手并购京灵智康",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "64b7ff16e39934d1b3dc1ae00295c9da4a781345",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新能源",
+      "title": "E周看点｜李斌称整车成本已涨1万多元；宁德时代再融50亿",
+      "url": "https://auto.gasgoo.com/news/202605/31I70459954C501.shtml",
+      "published_at": "2026-05-31T17:30:00Z",
+      "first_seen_at": "2026-06-01T10:37:24.220963Z",
+      "last_seen_at": "2026-06-01T10:37:24.220963Z",
+      "title_original": "E周看点｜李斌称整车成本已涨1万多元；宁德时代再融50亿",
+      "title_en": null,
+      "title_zh": "E周看点｜李斌称整车成本已涨1万多元；宁德时代再融50亿",
+      "title_bilingual": "E周看点｜李斌称整车成本已涨1万多元；宁德时代再融50亿",
+      "topic_tags": [
+        "新能源",
+        "补能电池"
       ]
     },
     {
@@ -362,7 +580,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/2c8cf3beb5ee815a/115163328-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-31T17:03:56.493763Z",
-      "last_seen_at": "2026-06-01T05:24:43.334017Z",
+      "last_seen_at": "2026-06-01T10:37:24.220963Z",
       "title_original": "圆梦硬派混动 方程豹豹5提车分享",
       "title_en": null,
       "title_zh": "圆梦硬派混动 方程豹豹5提车分享",
@@ -381,7 +599,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/2f224b079e81e442/115151710-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-31T17:03:56.493763Z",
-      "last_seen_at": "2026-06-01T05:24:43.334017Z",
+      "last_seen_at": "2026-06-01T10:37:24.220963Z",
       "title_original": "800V主动悬架！体验下理想L9 Livis",
       "title_en": null,
       "title_zh": "800V主动悬架！体验下理想L9 Livis",
@@ -400,7 +618,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/43b8dbd96bf32cea/115207733-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-31T17:03:56.493763Z",
-      "last_seen_at": "2026-06-01T05:24:43.334017Z",
+      "last_seen_at": "2026-06-01T10:37:24.220963Z",
       "title_original": "宝马1250adv 发电机更换圆满收官",
       "title_en": null,
       "title_zh": "宝马1250adv 发电机更换圆满收官",
@@ -419,7 +637,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/0e3b8b8908a916a7/115150939-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-31T17:03:56.493763Z",
-      "last_seen_at": "2026-06-01T05:24:43.334017Z",
+      "last_seen_at": "2026-06-01T10:37:24.220963Z",
       "title_original": "适合市区通勤 零跑C10提车作业分享",
       "title_en": null,
       "title_zh": "适合市区通勤 零跑C10提车作业分享",
@@ -438,7 +656,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/c613a71294ff70e4/115122102-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-31T17:03:56.493763Z",
-      "last_seen_at": "2026-06-01T05:24:43.334017Z",
+      "last_seen_at": "2026-06-01T10:37:24.220963Z",
       "title_original": "外观稳重大气 比亚迪汉提车记分享",
       "title_en": null,
       "title_zh": "外观稳重大气 比亚迪汉提车记分享",
@@ -457,7 +675,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/09be845e40724f43/115161807-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-31T17:03:56.493763Z",
-      "last_seen_at": "2026-06-01T05:24:43.334017Z",
+      "last_seen_at": "2026-06-01T10:37:24.220963Z",
       "title_original": "双电机四驱组合 925匹强悍马力",
       "title_en": null,
       "title_zh": "双电机四驱组合 925匹强悍马力",
@@ -465,46 +683,170 @@
       "topic_tags": [
         "供应链"
       ]
-    },
-    {
-      "id": "383bb40e94d732a96d2c15a7ce73c3667ca59ce3",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "懂车帝 · 文章排行榜",
-      "title": "体验零跑D99：七座MPV还有什么花样？花30万的钱，买50万的配置",
-      "url": "https://www.dongchedi.com/article/7645564245926003225",
-      "published_at": null,
-      "first_seen_at": "2026-05-31T08:19:18.831659Z",
-      "last_seen_at": "2026-06-01T05:24:43.334017Z",
-      "title_original": "体验零跑D99：七座MPV还有什么花样？花30万的钱，买50万的配置",
-      "title_en": null,
-      "title_zh": "体验零跑D99：七座MPV还有什么花样？花30万的钱，买50万的配置",
-      "title_bilingual": "体验零跑D99：七座MPV还有什么花样？花30万的钱，买50万的配置",
-      "topic_tags": [
-        "车企竞争",
-        "购车决策",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "e5993078be5dba737783b3121d7088773adca09d",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "盖世周报 | 华为发表“韬（τ）定律”；李斌透露整车成本已涨1万元",
-      "url": "https://auto.gasgoo.com/news/202605/31I70459815C109.shtml",
-      "published_at": "2026-05-31T07:05:32Z",
-      "first_seen_at": "2026-06-01T00:11:16.030075Z",
-      "last_seen_at": "2026-06-01T05:24:43.334017Z",
-      "title_original": "盖世周报 | 华为发表“韬（τ）定律”；李斌透露整车成本已涨1万元",
-      "title_en": null,
-      "title_zh": "盖世周报 | 华为发表“韬（τ）定律”；李斌透露整车成本已涨1万元",
-      "title_bilingual": "盖世周报 | 华为发表“韬（τ）定律”；李斌透露整车成本已涨1万元",
-      "topic_tags": []
     }
   ],
   "items_ai": [
     {
+      "id": "ccaad2d2652cf3d8ddcdb6511a7f528f2b0a753f",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Geely's May sales edge up as exports hit another record",
+      "url": "https://cnevpost.com/2026/06/01/geely-may-2026-sales-edge-up-exports-record",
+      "published_at": "2026-06-01T10:19:12Z",
+      "first_seen_at": "2026-06-01T10:37:24.220963Z",
+      "last_seen_at": "2026-06-01T10:37:24.220963Z",
+      "title_original": "Geely's May sales edge up as exports hit another record",
+      "title_en": "Geely's May sales edge up as exports hit another record",
+      "title_zh": "吉利5月销量小幅增长 出口再创新高",
+      "title_bilingual": "吉利5月销量小幅增长 出口再创新高 / Geely's May sales edge up as exports hit another record",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "9be5a789cf7601a4733064fea4ca541327fe6bd0",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "36kr",
+      "title": "吉利汽车：5月汽车总销量为237637部，同比增长约1%",
+      "url": "https://www.36kr.com/newsflashes/3834428394055303",
+      "published_at": "2026-06-01T09:42:44.727000Z",
+      "first_seen_at": "2026-06-01T10:37:24.220963Z",
+      "last_seen_at": "2026-06-01T10:37:24.220963Z",
+      "title_original": "吉利汽车：5月汽车总销量为237637部，同比增长约1%",
+      "title_en": null,
+      "title_zh": "吉利汽车：5月汽车总销量为237637部，同比增长约1%",
+      "title_bilingual": "吉利汽车：5月汽车总销量为237637部，同比增长约1%",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "605e5884f2bc82f16999fcff8aac85ae45ab24f1",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "36kr",
+      "title": "北汽蓝谷：5月销量21871辆，同比增长27.75%",
+      "url": "https://www.36kr.com/newsflashes/3834418979202947",
+      "published_at": "2026-06-01T09:32:44.727000Z",
+      "first_seen_at": "2026-06-01T10:37:24.220963Z",
+      "last_seen_at": "2026-06-01T10:37:24.220963Z",
+      "title_original": "北汽蓝谷：5月销量21871辆，同比增长27.75%",
+      "title_en": null,
+      "title_zh": "北汽蓝谷：5月销量21871辆，同比增长27.75%",
+      "title_bilingual": "北汽蓝谷：5月销量21871辆，同比增长27.75%",
+      "topic_tags": [
+        "销量市场"
+      ]
+    },
+    {
+      "id": "00572c277ac7bdb0225d8845aeb9ed5c574b4f50",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Li Auto's May deliveries fall 18% as it pins hopes on new 5-seat flagship SUV to revive sales",
+      "url": "https://cnevpost.com/2026/06/01/li-auto-may-2026-deliveries",
+      "published_at": "2026-06-01T08:46:14Z",
+      "first_seen_at": "2026-06-01T10:37:24.220963Z",
+      "last_seen_at": "2026-06-01T10:37:24.220963Z",
+      "title_original": "Li Auto's May deliveries fall 18% as it pins hopes on new 5-seat flagship SUV to revive sales",
+      "title_en": "Li Auto's May deliveries fall 18% as it pins hopes on new 5-seat flagship SUV to revive sales",
+      "title_zh": "理想汽车5月交付量下降18%，寄希望于新款5座旗舰SUV重振销量",
+      "title_bilingual": "理想汽车5月交付量下降18%，寄希望于新款5座旗舰SUV重振销量 / Li Auto's May deliveries fall 18% as it pins hopes on new 5-seat flagship SUV to revive sales",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "c63c99a3b3b7494c9ed9b39c37bab41fdb875aaa",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Zeekr's May deliveries hit record high as premium models drive growth",
+      "url": "https://cnevpost.com/2026/06/01/zeekrs-may-2026-deliveries",
+      "published_at": "2026-06-01T07:33:43Z",
+      "first_seen_at": "2026-06-01T10:37:24.220963Z",
+      "last_seen_at": "2026-06-01T10:37:24.220963Z",
+      "title_original": "Zeekr's May deliveries hit record high as premium models drive growth",
+      "title_en": "Zeekr's May deliveries hit record high as premium models drive growth",
+      "title_zh": "Zeekr 5 月交付量创历史新高，高端车型推动增长",
+      "title_bilingual": "Zeekr 5 月交付量创历史新高，高端车型推动增长 / Zeekr's May deliveries hit record high as premium models drive growth",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "bad3c95ca318c4343d3a874b40b8effa1af612f2",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Leapmotor May deliveries surge 81% to hit new high",
+      "url": "https://cnevpost.com/2026/06/01/leapmotor-may-2026-deliveries",
+      "published_at": "2026-06-01T07:02:25Z",
+      "first_seen_at": "2026-06-01T10:37:24.220963Z",
+      "last_seen_at": "2026-06-01T10:37:24.220963Z",
+      "title_original": "Leapmotor May deliveries surge 81% to hit new high",
+      "title_en": "Leapmotor May deliveries surge 81% to hit new high",
+      "title_zh": "零跑汽车5月交付量猛增81%再创新高",
+      "title_bilingual": "零跑汽车5月交付量猛增81%再创新高 / Leapmotor May deliveries surge 81% to hit new high",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "275dc4f8bd97298a63c15249416cf7fa0be6d76c",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "New BYD Atto 3 gains more than 30,000 orders in first week on market in China",
+      "url": "https://carnewschina.com/2026/06/01/new-byd-atto-3-gains-more-than-30000-orders-in-first-week-on-market-in-china",
+      "published_at": "2026-06-01T06:56:27Z",
+      "first_seen_at": "2026-06-01T10:37:24.220963Z",
+      "last_seen_at": "2026-06-01T10:37:24.220963Z",
+      "title_original": "New BYD Atto 3 gains more than 30,000 orders in first week on market in China",
+      "title_en": "New BYD Atto 3 gains more than 30,000 orders in first week on market in China",
+      "title_zh": "比亚迪新款Atto 3上市首周订单超3万辆",
+      "title_bilingual": "比亚迪新款Atto 3上市首周订单超3万辆 / New BYD Atto 3 gains more than 30,000 orders in first week on market in China",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "9c79c4f9a472a9af2f89f5477067b48dd2265e97",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Nio ES8 delivers 11,475 units in May, topping 10,000 for 7th consecutive month",
+      "url": "https://cnevpost.com/2026/06/01/nio-es8-delivers-11475-units-may-2026",
+      "published_at": "2026-06-01T06:34:12Z",
+      "first_seen_at": "2026-06-01T10:37:24.220963Z",
+      "last_seen_at": "2026-06-01T10:37:24.220963Z",
+      "title_original": "Nio ES8 delivers 11,475 units in May, topping 10,000 for 7th consecutive month",
+      "title_en": "Nio ES8 delivers 11,475 units in May, topping 10,000 for 7th consecutive month",
+      "title_zh": "蔚来ES8 5月销量11,475辆，连续7个月突破万辆",
+      "title_bilingual": "蔚来ES8 5月销量11,475辆，连续7个月突破万辆 / Nio ES8 delivers 11,475 units in May, topping 10,000 for 7th consecutive month",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
       "id": "8b5711f733b6d2cc39dd28002031f9c4e27223d6",
       "site_id": "newsnow",
       "site_name": "NewsNow",
@@ -543,6 +885,27 @@
       ]
     },
     {
+      "id": "bcaabd632ccc52955d0913ca9c90509e96b49bac",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Xpeng delivers 32,158 cars in May, down 4% year-on-year as new GX SUV contribution remains limited",
+      "url": "https://cnevpost.com/2026/06/01/xpeng-deliveries-may-2026",
+      "published_at": "2026-06-01T04:25:24Z",
+      "first_seen_at": "2026-06-01T10:37:24.220963Z",
+      "last_seen_at": "2026-06-01T10:37:24.220963Z",
+      "title_original": "Xpeng delivers 32,158 cars in May, down 4% year-on-year as new GX SUV contribution remains limited",
+      "title_en": "Xpeng delivers 32,158 cars in May, down 4% year-on-year as new GX SUV contribution remains limited",
+      "title_zh": "小鹏汽车5月交付32,158辆汽车，同比下降4%，新款GX SUV贡献仍然有限",
+      "title_bilingual": "小鹏汽车5月交付32,158辆汽车，同比下降4%，新款GX SUV贡献仍然有限 / Xpeng delivers 32,158 cars in May, down 4% year-on-year as new GX SUV contribution remains limited",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
       "id": "373c6c7e9c51cf383323a514b542924ad017ad24",
       "site_id": "newsnow",
       "site_name": "NewsNow",
@@ -571,7 +934,7 @@
       "url": "https://cnevpost.com/2026/06/01/nio-deliveries-may-2026",
       "published_at": "2026-06-01T04:11:05Z",
       "first_seen_at": "2026-06-01T05:24:43.334017Z",
-      "last_seen_at": "2026-06-01T05:24:43.334017Z",
+      "last_seen_at": "2026-06-01T10:37:24.220963Z",
       "title_original": "Nio delivers 37,705 vehicles in May, highest this year",
       "title_en": "Nio delivers 37,705 vehicles in May, highest this year",
       "title_zh": "蔚来5月交付37,705辆汽车，创今年最高",
@@ -628,7 +991,7 @@
       "url": "https://cnevpost.com/2026/06/01/china-auto-deliveries-may-2026",
       "published_at": "2026-06-01T04:02:15Z",
       "first_seen_at": "2026-06-01T05:24:43.334017Z",
-      "last_seen_at": "2026-06-01T05:24:43.334017Z",
+      "last_seen_at": "2026-06-01T10:37:24.220963Z",
       "title_original": "Live updates: May 2026 deliveries for major Chinese automakers",
       "title_en": "Live updates: May 2026 deliveries for major Chinese automakers",
       "title_zh": "实时更新：2026 年 5 月中国主要汽车制造商的交付情况",
@@ -648,7 +1011,7 @@
       "url": "https://cnevpost.com/2026/06/01/huawei-hima-delivers-46122-vehicles-may-2026",
       "published_at": "2026-06-01T02:41:49Z",
       "first_seen_at": "2026-06-01T05:24:43.334017Z",
-      "last_seen_at": "2026-06-01T05:24:43.334017Z",
+      "last_seen_at": "2026-06-01T10:37:24.220963Z",
       "title_original": "Huawei HIMA delivers 46,122 vehicles in May, marking second consecutive month of sequential growth",
       "title_en": "Huawei HIMA delivers 46,122 vehicles in May, marking second consecutive month of sequential growth",
       "title_zh": "华为HIMA 5月交付车辆46,122辆，连续第二个月环比增长",
@@ -667,7 +1030,7 @@
       "url": "https://cnevpost.com/2026/06/01/xiaomi-ev-delivers-over-30000-cars-may-2026",
       "published_at": "2026-06-01T01:22:28Z",
       "first_seen_at": "2026-06-01T05:24:43.334017Z",
-      "last_seen_at": "2026-06-01T05:24:43.334017Z",
+      "last_seen_at": "2026-06-01T10:37:24.220963Z",
       "title_original": "Xiaomi EV delivers over 30,000 cars in May as lineup expands",
       "title_en": "Xiaomi EV delivers over 30,000 cars in May as lineup expands",
       "title_zh": "小米电动车5月交付超3万辆 阵容扩大",
@@ -706,7 +1069,7 @@
       "url": "http://vc.yiche.com/vplay/11384214.html",
       "published_at": null,
       "first_seen_at": "2026-05-31T20:05:43.374488Z",
-      "last_seen_at": "2026-06-01T05:24:43.334017Z",
+      "last_seen_at": "2026-06-01T10:37:24.220963Z",
       "title_original": "比亚迪宋Ultra DM-i上市，B级插混SUV纯电续航310公里首次进入13万级",
       "title_en": null,
       "title_zh": "比亚迪宋Ultra DM-i上市，B级插混SUV纯电续航310公里首次进入13万级",
@@ -727,7 +1090,7 @@
       "url": "http://vc.yiche.com/vplay/11352833.html",
       "published_at": null,
       "first_seen_at": "2026-05-31T20:05:43.374488Z",
-      "last_seen_at": "2026-06-01T05:24:43.334017Z",
+      "last_seen_at": "2026-06-01T10:37:24.220963Z",
       "title_original": "新问界M9上市 加长+标配6颗激光雷达+全主动悬架",
       "title_en": null,
       "title_zh": "新问界M9上市 加长+标配6颗激光雷达+全主动悬架",
@@ -747,7 +1110,7 @@
       "url": "http://vc.yiche.com/vplay/11377410.html",
       "published_at": null,
       "first_seen_at": "2026-05-31T20:05:43.374488Z",
-      "last_seen_at": "2026-06-01T05:24:43.334017Z",
+      "last_seen_at": "2026-06-01T10:37:24.220963Z",
       "title_original": "新款吉利星愿限时6.18万起  加量不加价 能守住销冠吗？",
       "title_en": null,
       "title_zh": "新款吉利星愿限时6.18万起  加量不加价 能守住销冠吗？",
@@ -765,7 +1128,7 @@
       "url": "http://vc.yiche.com/vplay/11357922.html",
       "published_at": null,
       "first_seen_at": "2026-05-31T20:05:43.374488Z",
-      "last_seen_at": "2026-06-01T05:24:43.334017Z",
+      "last_seen_at": "2026-06-01T10:37:24.220963Z",
       "title_original": "同级唯一2+2+3布局，大唐坐出了MPV的舒适感？",
       "title_en": null,
       "title_zh": "同级唯一2+2+3布局，大唐坐出了MPV的舒适感？",
@@ -783,7 +1146,7 @@
       "url": "http://vc.yiche.com/vplay/11367617.html",
       "published_at": null,
       "first_seen_at": "2026-05-31T20:05:43.374488Z",
-      "last_seen_at": "2026-06-01T05:24:43.334017Z",
+      "last_seen_at": "2026-06-01T10:37:24.220963Z",
       "title_original": "14.99万落地，激光雷达上车，试驾风云T9L",
       "title_en": null,
       "title_zh": "14.99万落地，激光雷达上车，试驾风云T9L",
@@ -791,6 +1154,43 @@
       "topic_tags": [
         "智能驾驶",
         "购车决策"
+      ]
+    },
+    {
+      "id": "ca0a1bad610b62e6da09b979106577e65be3556e",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "小智一周要闻 | 小鹏机器人进入量产冲刺阶段；灵心巧手并购京灵智康",
+      "url": "https://auto.gasgoo.com/news/202605/31I70459849C601.shtml",
+      "published_at": "2026-05-31T17:51:43Z",
+      "first_seen_at": "2026-06-01T10:37:24.220963Z",
+      "last_seen_at": "2026-06-01T10:37:24.220963Z",
+      "title_original": "小智一周要闻 | 小鹏机器人进入量产冲刺阶段；灵心巧手并购京灵智康",
+      "title_en": null,
+      "title_zh": "小智一周要闻 | 小鹏机器人进入量产冲刺阶段；灵心巧手并购京灵智康",
+      "title_bilingual": "小智一周要闻 | 小鹏机器人进入量产冲刺阶段；灵心巧手并购京灵智康",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "64b7ff16e39934d1b3dc1ae00295c9da4a781345",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新能源",
+      "title": "E周看点｜李斌称整车成本已涨1万多元；宁德时代再融50亿",
+      "url": "https://auto.gasgoo.com/news/202605/31I70459954C501.shtml",
+      "published_at": "2026-05-31T17:30:00Z",
+      "first_seen_at": "2026-06-01T10:37:24.220963Z",
+      "last_seen_at": "2026-06-01T10:37:24.220963Z",
+      "title_original": "E周看点｜李斌称整车成本已涨1万多元；宁德时代再融50亿",
+      "title_en": null,
+      "title_zh": "E周看点｜李斌称整车成本已涨1万多元；宁德时代再融50亿",
+      "title_bilingual": "E周看点｜李斌称整车成本已涨1万多元；宁德时代再融50亿",
+      "topic_tags": [
+        "新能源",
+        "补能电池"
       ]
     },
     {
@@ -802,7 +1202,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/2c8cf3beb5ee815a/115163328-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-31T17:03:56.493763Z",
-      "last_seen_at": "2026-06-01T05:24:43.334017Z",
+      "last_seen_at": "2026-06-01T10:37:24.220963Z",
       "title_original": "圆梦硬派混动 方程豹豹5提车分享",
       "title_en": null,
       "title_zh": "圆梦硬派混动 方程豹豹5提车分享",
@@ -821,7 +1221,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/2f224b079e81e442/115151710-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-31T17:03:56.493763Z",
-      "last_seen_at": "2026-06-01T05:24:43.334017Z",
+      "last_seen_at": "2026-06-01T10:37:24.220963Z",
       "title_original": "800V主动悬架！体验下理想L9 Livis",
       "title_en": null,
       "title_zh": "800V主动悬架！体验下理想L9 Livis",
@@ -840,7 +1240,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/43b8dbd96bf32cea/115207733-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-31T17:03:56.493763Z",
-      "last_seen_at": "2026-06-01T05:24:43.334017Z",
+      "last_seen_at": "2026-06-01T10:37:24.220963Z",
       "title_original": "宝马1250adv 发电机更换圆满收官",
       "title_en": null,
       "title_zh": "宝马1250adv 发电机更换圆满收官",
@@ -859,7 +1259,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/0e3b8b8908a916a7/115150939-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-31T17:03:56.493763Z",
-      "last_seen_at": "2026-06-01T05:24:43.334017Z",
+      "last_seen_at": "2026-06-01T10:37:24.220963Z",
       "title_original": "适合市区通勤 零跑C10提车作业分享",
       "title_en": null,
       "title_zh": "适合市区通勤 零跑C10提车作业分享",
@@ -878,7 +1278,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/c613a71294ff70e4/115122102-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-31T17:03:56.493763Z",
-      "last_seen_at": "2026-06-01T05:24:43.334017Z",
+      "last_seen_at": "2026-06-01T10:37:24.220963Z",
       "title_original": "外观稳重大气 比亚迪汉提车记分享",
       "title_en": null,
       "title_zh": "外观稳重大气 比亚迪汉提车记分享",
@@ -897,7 +1297,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/09be845e40724f43/115161807-1.html",
       "published_at": null,
       "first_seen_at": "2026-05-31T17:03:56.493763Z",
-      "last_seen_at": "2026-06-01T05:24:43.334017Z",
+      "last_seen_at": "2026-06-01T10:37:24.220963Z",
       "title_original": "双电机四驱组合 925匹强悍马力",
       "title_en": null,
       "title_zh": "双电机四驱组合 925匹强悍马力",
@@ -905,42 +1305,6 @@
       "topic_tags": [
         "供应链"
       ]
-    },
-    {
-      "id": "383bb40e94d732a96d2c15a7ce73c3667ca59ce3",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "懂车帝 · 文章排行榜",
-      "title": "体验零跑D99：七座MPV还有什么花样？花30万的钱，买50万的配置",
-      "url": "https://www.dongchedi.com/article/7645564245926003225",
-      "published_at": null,
-      "first_seen_at": "2026-05-31T08:19:18.831659Z",
-      "last_seen_at": "2026-06-01T05:24:43.334017Z",
-      "title_original": "体验零跑D99：七座MPV还有什么花样？花30万的钱，买50万的配置",
-      "title_en": null,
-      "title_zh": "体验零跑D99：七座MPV还有什么花样？花30万的钱，买50万的配置",
-      "title_bilingual": "体验零跑D99：七座MPV还有什么花样？花30万的钱，买50万的配置",
-      "topic_tags": [
-        "车企竞争",
-        "购车决策",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "e5993078be5dba737783b3121d7088773adca09d",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "盖世周报 | 华为发表“韬（τ）定律”；李斌透露整车成本已涨1万元",
-      "url": "https://auto.gasgoo.com/news/202605/31I70459815C109.shtml",
-      "published_at": "2026-05-31T07:05:32Z",
-      "first_seen_at": "2026-06-01T00:11:16.030075Z",
-      "last_seen_at": "2026-06-01T05:24:43.334017Z",
-      "title_original": "盖世周报 | 华为发表“韬（τ）定律”；李斌透露整车成本已涨1万元",
-      "title_en": null,
-      "title_zh": "盖世周报 | 华为发表“韬（τ）定律”；李斌透露整车成本已涨1万元",
-      "title_bilingual": "盖世周报 | 华为发表“韬（τ）定律”；李斌透露整车成本已涨1万元",
-      "topic_tags": []
     }
   ],
   "all_mode_data_url": "data/latest-24h-all.json"
