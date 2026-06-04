@@ -1,73 +1,260 @@
 {
-  "generated_at": "2026-06-04T15:58:27.310315Z",
+  "generated_at": "2026-06-04T18:24:28.885827Z",
   "window_hours": 24,
-  "total_items": 38,
+  "total_items": 41,
   "total_items_ai_raw": 42,
-  "total_items_raw": 2564,
-  "total_items_all_mode": 2436,
+  "total_items_raw": 2785,
+  "total_items_all_mode": 2658,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 67058,
+  "archive_total": 66861,
   "site_count": 3,
-  "source_count": 11,
+  "source_count": 8,
   "site_stats": [
-    {
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "count": 18,
-      "raw_count": 22
-    },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
-      "count": 15,
-      "raw_count": 2312
+      "count": 24,
+      "raw_count": 2531
+    },
+    {
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "count": 11,
+      "raw_count": 12
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
-      "count": 5,
-      "raw_count": 230
+      "count": 6,
+      "raw_count": 242
     }
   ],
   "topic_tag_stats": [
     {
       "tag": "车企竞争",
-      "count": 23
-    },
-    {
-      "tag": "新能源",
-      "count": 13
+      "count": 28
     },
     {
       "tag": "购车决策",
-      "count": 10
+      "count": 18
+    },
+    {
+      "tag": "新能源",
+      "count": 12
     },
     {
       "tag": "新车上市",
-      "count": 8
+      "count": 6
     },
     {
       "tag": "销量市场",
-      "count": 4
+      "count": 3
+    },
+    {
+      "tag": "价格战",
+      "count": 2
     },
     {
       "tag": "供应链",
       "count": 2
     },
     {
-      "tag": "智能驾驶",
+      "tag": "召回安全",
       "count": 2
     },
     {
-      "tag": "价格战",
-      "count": 1
-    },
-    {
-      "tag": "召回安全",
-      "count": 1
+      "tag": "智能驾驶",
+      "count": 2
     }
   ],
   "items": [
+    {
+      "id": "1cedbe7051e41e8f49a7041f5d47f73f7dbd5f7f",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "试驾熊猫mini 灵活安全性价比拉满",
+      "url": "https://club.autohome.com.cn/bbs/thread/77e669f36a111f50/115278730-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-06-04T18:24:28.885827Z",
+      "last_seen_at": "2026-06-04T18:24:28.885827Z",
+      "title_original": "试驾熊猫mini 灵活安全性价比拉满",
+      "title_en": null,
+      "title_zh": "试驾熊猫mini 灵活安全性价比拉满",
+      "title_bilingual": "试驾熊猫mini 灵活安全性价比拉满",
+      "topic_tags": [
+        "价格战",
+        "召回安全",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "e03648e0964ca554efea7cfa2776da1f5899a6bc",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "优缺点大爆料 问界M7用车感受分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/75fa808429843399/115214978-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-06-04T18:24:28.885827Z",
+      "last_seen_at": "2026-06-04T18:24:28.885827Z",
+      "title_original": "优缺点大爆料 问界M7用车感受分享",
+      "title_en": null,
+      "title_zh": "优缺点大爆料 问界M7用车感受分享",
+      "title_bilingual": "优缺点大爆料 问界M7用车感受分享",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "6fd4847f1019272901134a12910afe1a4d1b2c13",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "奇瑞风云T9用车半年 真实优缺点分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/fb2c62e1804356d7/115215832-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-06-04T18:24:28.885827Z",
+      "last_seen_at": "2026-06-04T18:24:28.885827Z",
+      "title_original": "奇瑞风云T9用车半年 真实优缺点分享",
+      "title_en": null,
+      "title_zh": "奇瑞风云T9用车半年 真实优缺点分享",
+      "title_bilingual": "奇瑞风云T9用车半年 真实优缺点分享",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "d612b174d6329e55224827cfd6e4c811988043a1",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "满足出行需求 长安启源Q07提车分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/f7ed4728e35343d0/115215633-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-06-04T18:24:28.885827Z",
+      "last_seen_at": "2026-06-04T18:24:28.885827Z",
+      "title_original": "满足出行需求 长安启源Q07提车分享",
+      "title_en": null,
+      "title_zh": "满足出行需求 长安启源Q07提车分享",
+      "title_bilingual": "满足出行需求 长安启源Q07提车分享",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "a8bc3c2987c5af91dd6d1bd12b34fc8c85a0f6a3",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "华为辅助驾驶 深蓝S07提车分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/925b6d8d87bf4f65/115210636-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-06-04T18:24:28.885827Z",
+      "last_seen_at": "2026-06-04T18:24:28.885827Z",
+      "title_original": "华为辅助驾驶 深蓝S07提车分享",
+      "title_en": null,
+      "title_zh": "华为辅助驾驶 深蓝S07提车分享",
+      "title_bilingual": "华为辅助驾驶 深蓝S07提车分享",
+      "topic_tags": [
+        "智能驾驶",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "09238002bd72cde6c8a3eccf800b63cebb592d31",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "真实用车报告 iCAR 03的优缺点分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/087005470146e51b/115241692-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-06-04T18:24:28.885827Z",
+      "last_seen_at": "2026-06-04T18:24:28.885827Z",
+      "title_original": "真实用车报告 iCAR 03的优缺点分享",
+      "title_en": null,
+      "title_zh": "真实用车报告 iCAR 03的优缺点分享",
+      "title_bilingual": "真实用车报告 iCAR 03的优缺点分享",
+      "topic_tags": [
+        "购车决策"
+      ]
+    },
+    {
+      "id": "ec1a032c86cd475d37d5a822ad7de03c79d7af15",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "刷遍测评与口碑 我与理想L8结缘故事",
+      "url": "https://club.autohome.com.cn/bbs/thread/8c0609b1faa5fe78/115050967-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-06-04T18:24:28.885827Z",
+      "last_seen_at": "2026-06-04T18:24:28.885827Z",
+      "title_original": "刷遍测评与口碑 我与理想L8结缘故事",
+      "title_en": null,
+      "title_zh": "刷遍测评与口碑 我与理想L8结缘故事",
+      "title_bilingual": "刷遍测评与口碑 我与理想L8结缘故事",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "87d16ce4c2e2286b091eb64ae66c2e295c15a172",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "舒适度拉满 零跑D19提车作业分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/b98c27e362aa7d3d/115182736-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-06-04T18:24:28.885827Z",
+      "last_seen_at": "2026-06-04T18:24:28.885827Z",
+      "title_original": "舒适度拉满 零跑D19提车作业分享",
+      "title_en": null,
+      "title_zh": "舒适度拉满 零跑D19提车作业分享",
+      "title_bilingual": "舒适度拉满 零跑D19提车作业分享",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "b1f49609c047d00a3b1de1dabce42ae3ecc0e317",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "被低估的经典 14款长安CS35用车记录",
+      "url": "https://club.autohome.com.cn/bbs/thread/7c2573a8a556a3aa/115201229-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-06-04T18:24:28.885827Z",
+      "last_seen_at": "2026-06-04T18:24:28.885827Z",
+      "title_original": "被低估的经典 14款长安CS35用车记录",
+      "title_en": null,
+      "title_zh": "被低估的经典 14款长安CS35用车记录",
+      "title_bilingual": "被低估的经典 14款长安CS35用车记录",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "3ca4cd9cdb38116a623a8011ba6dcaf85c9c8996",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "hackernews",
+      "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
+      "url": "https://news.ycombinator.com/item?id=48399974",
+      "published_at": "2026-06-04T18:08:41.233000Z",
+      "first_seen_at": "2026-06-04T18:24:28.885827Z",
+      "last_seen_at": "2026-06-04T18:24:28.885827Z",
+      "title_original": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
+      "title_en": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
+      "title_zh": "KVarN：华为用于 KV 缓存量化的原生 vLLM 后端",
+      "title_bilingual": "KVarN：华为用于 KV 缓存量化的原生 vLLM 后端 / KVarN: Native vLLM backend for KV-cache quantization by Huawei",
+      "topic_tags": []
+    },
     {
       "id": "969d7da82f0fd06e4b17263cba7eec11df433edf",
       "site_id": "newsnow",
@@ -77,7 +264,7 @@
       "url": "https://www.36kr.com/newsflashes/3838863373469956",
       "published_at": "2026-06-04T13:30:42.425000Z",
       "first_seen_at": "2026-06-04T15:58:27.310315Z",
-      "last_seen_at": "2026-06-04T15:58:27.310315Z",
+      "last_seen_at": "2026-06-04T18:24:28.885827Z",
       "title_original": "热门中概股美股盘前多数下跌，小鹏集团跌超3%",
       "title_en": null,
       "title_zh": "热门中概股美股盘前多数下跌，小鹏集团跌超3%",
@@ -95,7 +282,7 @@
       "url": "https://carnewschina.com/2026/06/04/byd-asked-netizens-to-choose-the-name-of-its-flagship-sedan",
       "published_at": "2026-06-04T09:52:51Z",
       "first_seen_at": "2026-06-04T12:26:41.804318Z",
-      "last_seen_at": "2026-06-04T15:58:27.310315Z",
+      "last_seen_at": "2026-06-04T18:24:28.885827Z",
       "title_original": "BYD asked netizens to choose the name of its flagship sedan",
       "title_en": "BYD asked netizens to choose the name of its flagship sedan",
       "title_zh": "比亚迪请网友为其旗舰轿车命名",
@@ -115,7 +302,7 @@
       "url": "https://cnevpost.com/2026/06/04/leapmotor-sixth-management-stake-increase-two-years",
       "published_at": "2026-06-04T09:35:01Z",
       "first_seen_at": "2026-06-04T12:26:41.804318Z",
-      "last_seen_at": "2026-06-04T15:58:27.310315Z",
+      "last_seen_at": "2026-06-04T18:24:28.885827Z",
       "title_original": "Leapmotor sees sixth management stake increase in two years",
       "title_en": "Leapmotor sees sixth management stake increase in two years",
       "title_zh": "零跑汽车管理层两年内第六次增持股份",
@@ -152,7 +339,7 @@
       "url": "https://cnevpost.com/2026/06/04/xpeng-scrambles-gx-production-wait-35-weeks",
       "published_at": "2026-06-04T04:31:31Z",
       "first_seen_at": "2026-06-04T05:20:21.656773Z",
-      "last_seen_at": "2026-06-04T15:58:27.310315Z",
+      "last_seen_at": "2026-06-04T18:24:28.885827Z",
       "title_original": "Xpeng scrambles to boost GX SUV production as wait times hit 35 weeks",
       "title_en": "Xpeng scrambles to boost GX SUV production as wait times hit 35 weeks",
       "title_zh": "小鹏汽车急于提高 GX SUV 的产量，等待时间长达 35 周",
@@ -208,7 +395,7 @@
       "url": "https://carnewschina.com/2026/06/04/hyundai-ioniq-v-spotted-in-china-4-9-m-fastback-ev-with-frameless-doors-and-800v-system",
       "published_at": "2026-06-04T02:48:49Z",
       "first_seen_at": "2026-06-04T05:20:21.656773Z",
-      "last_seen_at": "2026-06-04T15:58:27.310315Z",
+      "last_seen_at": "2026-06-04T18:24:28.885827Z",
       "title_original": "Hyundai Ioniq V spotted in China: 4.9 m fastback EV with frameless doors and 800V system",
       "title_en": "Hyundai Ioniq V spotted in China: 4.9 m fastback EV with frameless doors and 800V system",
       "title_zh": "现代 Ioniq V 亮相中国：4.9 m 溜背式电动车，配备无框车门和 800V 系统",
@@ -227,7 +414,7 @@
       "url": "https://cnevpost.com/2026/06/04/gac-partners-sinopec-sell-cars-gas-stations",
       "published_at": "2026-06-04T02:18:34Z",
       "first_seen_at": "2026-06-04T05:20:21.656773Z",
-      "last_seen_at": "2026-06-04T15:58:27.310315Z",
+      "last_seen_at": "2026-06-04T18:24:28.885827Z",
       "title_original": "GAC partners with Sinopec to sell cars at gas stations",
       "title_en": "GAC partners with Sinopec to sell cars at gas stations",
       "title_zh": "广汽集团与中石化合作在加油站销售汽车",
@@ -245,7 +432,7 @@
       "url": "https://cnevpost.com/2026/06/04/chery-nissan-uk-manufacturing-deal",
       "published_at": "2026-06-04T01:50:20Z",
       "first_seen_at": "2026-06-04T05:20:21.656773Z",
-      "last_seen_at": "2026-06-04T15:58:27.310315Z",
+      "last_seen_at": "2026-06-04T18:24:28.885827Z",
       "title_original": "Chery expands European footprint with Nissan UK manufacturing deal",
       "title_en": "Chery expands European footprint with Nissan UK manufacturing deal",
       "title_zh": "奇瑞与日产英国制造协议扩大欧洲足迹",
@@ -265,7 +452,7 @@
       "url": "https://carnewschina.com/2026/06/04/chery-to-produce-vehicles-at-nissans-sunderland-plant-starting-in-2027",
       "published_at": "2026-06-04T01:12:16Z",
       "first_seen_at": "2026-06-04T05:20:21.656773Z",
-      "last_seen_at": "2026-06-04T15:58:27.310315Z",
+      "last_seen_at": "2026-06-04T18:24:28.885827Z",
       "title_original": "Chery to produce vehicles at Nissan’s Sunderland plant starting in 2027",
       "title_en": "Chery to produce vehicles at Nissan’s Sunderland plant starting in 2027",
       "title_zh": "奇瑞将于 2027 年在日产桑德兰工厂生产汽车",
@@ -285,7 +472,7 @@
       "url": "https://carnewschina.com/2026/06/04/byd-confirms-humanoid-robot-development-says-future-sales-could-use-dealer-network",
       "published_at": "2026-06-04T00:56:40Z",
       "first_seen_at": "2026-06-04T05:20:21.656773Z",
-      "last_seen_at": "2026-06-04T15:58:27.310315Z",
+      "last_seen_at": "2026-06-04T18:24:28.885827Z",
       "title_original": "BYD confirms humanoid robot development, says future sales could use dealer network",
       "title_en": "BYD confirms humanoid robot development, says future sales could use dealer network",
       "title_zh": "比亚迪确认开发人形机器人，称未来销售可利用经销商网络",
@@ -304,7 +491,7 @@
       "url": "https://carnewschina.com/2026/06/04/chery-denies-executive-dealer-fight-rumours-files-police-report-in-china",
       "published_at": "2026-06-04T00:16:56Z",
       "first_seen_at": "2026-06-04T05:20:21.656773Z",
-      "last_seen_at": "2026-06-04T15:58:27.310315Z",
+      "last_seen_at": "2026-06-04T18:24:28.885827Z",
       "title_original": "Chery denies executive-dealer fight rumours, files police report in China",
       "title_en": "Chery denies executive-dealer fight rumours, files police report in China",
       "title_zh": "奇瑞否认执行经销商打架传闻，向中国警方报案",
@@ -342,7 +529,7 @@
       "url": "http://vc.yiche.com/vplay/11452996.html",
       "published_at": null,
       "first_seen_at": "2026-06-03T22:10:13.548534Z",
-      "last_seen_at": "2026-06-04T15:58:27.310315Z",
+      "last_seen_at": "2026-06-04T18:24:28.885827Z",
       "title_original": "20多万比问界M9还大 比亚迪大唐有何优缺点",
       "title_en": null,
       "title_zh": "20多万比问界M9还大 比亚迪大唐有何优缺点",
@@ -360,7 +547,7 @@
       "url": "http://vc.yiche.com/vplay/11416960.html",
       "published_at": null,
       "first_seen_at": "2026-06-03T22:10:13.548534Z",
-      "last_seen_at": "2026-06-04T15:58:27.310315Z",
+      "last_seen_at": "2026-06-04T18:24:28.885827Z",
       "title_original": "混动MPV顶配不到12万？L2辅助驾驶+电动侧滑门，星光730靠谱么？",
       "title_en": null,
       "title_zh": "混动MPV顶配不到12万？L2辅助驾驶+电动侧滑门，星光730靠谱么？",
@@ -380,7 +567,7 @@
       "url": "http://vc.yiche.com/vplay/11485875.html",
       "published_at": null,
       "first_seen_at": "2026-06-03T22:10:13.548534Z",
-      "last_seen_at": "2026-06-04T15:58:27.310315Z",
+      "last_seen_at": "2026-06-04T18:24:28.885827Z",
       "title_original": "实用升级 零跑C系列SUV家族迎来改款",
       "title_en": null,
       "title_zh": "实用升级 零跑C系列SUV家族迎来改款",
@@ -399,7 +586,7 @@
       "url": "http://vc.yiche.com/vplay/11434306.html",
       "published_at": null,
       "first_seen_at": "2026-06-03T22:10:13.548534Z",
-      "last_seen_at": "2026-06-04T15:58:27.310315Z",
+      "last_seen_at": "2026-06-04T18:24:28.885827Z",
       "title_original": "零跑D19后排空间到底怎么样？",
       "title_en": null,
       "title_zh": "零跑D19后排空间到底怎么样？",
@@ -417,7 +604,7 @@
       "url": "http://vc.yiche.com/vplay/11420817.html",
       "published_at": null,
       "first_seen_at": "2026-06-03T22:10:13.548534Z",
-      "last_seen_at": "2026-06-04T15:58:27.310315Z",
+      "last_seen_at": "2026-06-04T18:24:28.885827Z",
       "title_original": "小鹏GX之所以能卖爆，原因其实很简单...",
       "title_en": null,
       "title_zh": "小鹏GX之所以能卖爆，原因其实很简单...",
@@ -435,7 +622,7 @@
       "url": "https://auto.gasgoo.com/news/202606/3I70460467C501.shtml",
       "published_at": "2026-06-03T20:04:03Z",
       "first_seen_at": "2026-06-04T12:26:41.804318Z",
-      "last_seen_at": "2026-06-04T15:58:27.310315Z",
+      "last_seen_at": "2026-06-04T18:24:28.885827Z",
       "title_original": "问界回应M9台州事故：撞击前车掉落金属件致起火",
       "title_en": null,
       "title_zh": "问界回应M9台州事故：撞击前车掉落金属件致起火",
@@ -455,7 +642,7 @@
       "url": "https://auto.gasgoo.com/news/202606/3I70460458C109.shtml",
       "published_at": "2026-06-03T19:56:02Z",
       "first_seen_at": "2026-06-04T12:26:41.804318Z",
-      "last_seen_at": "2026-06-04T15:58:27.310315Z",
+      "last_seen_at": "2026-06-04T18:24:28.885827Z",
       "title_original": "奇瑞集团法务部“打假”高管斗殴传闻，否认与恒信压库冲突",
       "title_en": null,
       "title_zh": "奇瑞集团法务部“打假”高管斗殴传闻，否认与恒信压库冲突",
@@ -473,7 +660,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/43b1024b571b77b0/115274618-1.html",
       "published_at": null,
       "first_seen_at": "2026-06-03T19:05:37.386151Z",
-      "last_seen_at": "2026-06-04T15:58:27.310315Z",
+      "last_seen_at": "2026-06-04T18:24:28.885827Z",
       "title_original": "新车概念车一次看够 实拍粤港澳车展",
       "title_en": null,
       "title_zh": "新车概念车一次看够 实拍粤港澳车展",
@@ -491,7 +678,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/930eea561aa9a899/115238313-1.html",
       "published_at": null,
       "first_seen_at": "2026-06-03T19:05:37.386151Z",
-      "last_seen_at": "2026-06-04T15:58:27.310315Z",
+      "last_seen_at": "2026-06-04T18:24:28.885827Z",
       "title_original": "租电千万别乱选 试驾体验乐道L80",
       "title_en": null,
       "title_zh": "租电千万别乱选 试驾体验乐道L80",
@@ -650,136 +837,198 @@
       "title_bilingual": "看中耐用性 汉兰达购车经历分享",
       "topic_tags": [
         "购车决策"
-      ]
-    },
-    {
-      "id": "c6a4942ec5be839f8086a00d87980ac5f1cd9e76",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-智能网联",
-      "title": "港科大联手天瞳威视攻坚物理AI 自动驾驶驶入“世界模型”新赛道",
-      "url": "https://auto.gasgoo.com/news/202606/3I70460457C601.shtml",
-      "published_at": "2026-06-03T18:08:38Z",
-      "first_seen_at": "2026-06-04T12:26:41.804318Z",
-      "last_seen_at": "2026-06-04T15:58:27.310315Z",
-      "title_original": "港科大联手天瞳威视攻坚物理AI 自动驾驶驶入“世界模型”新赛道",
-      "title_en": null,
-      "title_zh": "港科大联手天瞳威视攻坚物理AI 自动驾驶驶入“世界模型”新赛道",
-      "title_bilingual": "港科大联手天瞳威视攻坚物理AI 自动驾驶驶入“世界模型”新赛道",
-      "topic_tags": [
-        "智能驾驶"
-      ]
-    },
-    {
-      "id": "96e4ae9bca680457f91456edc195069179304cb2",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-智能网联",
-      "title": "福瑞泰克获国内头部自主品牌量产新定点",
-      "url": "https://auto.gasgoo.com/news/202606/3I70460456C601.shtml",
-      "published_at": "2026-06-03T17:48:04Z",
-      "first_seen_at": "2026-06-04T12:26:41.804318Z",
-      "last_seen_at": "2026-06-04T15:58:27.310315Z",
-      "title_original": "福瑞泰克获国内头部自主品牌量产新定点",
-      "title_en": null,
-      "title_zh": "福瑞泰克获国内头部自主品牌量产新定点",
-      "title_bilingual": "福瑞泰克获国内头部自主品牌量产新定点",
-      "topic_tags": []
-    },
-    {
-      "id": "bd40364163acdde96f056277166635938fd8da1a",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "5月汽车保值率：车源多了，但价格跌了",
-      "url": "https://auto.gasgoo.com/news/202606/3I70460455C108.shtml",
-      "published_at": "2026-06-03T17:38:29Z",
-      "first_seen_at": "2026-06-04T12:26:41.804318Z",
-      "last_seen_at": "2026-06-04T15:58:27.310315Z",
-      "title_original": "5月汽车保值率：车源多了，但价格跌了",
-      "title_en": null,
-      "title_zh": "5月汽车保值率：车源多了，但价格跌了",
-      "title_bilingual": "5月汽车保值率：车源多了，但价格跌了",
-      "topic_tags": [
-        "购车决策"
-      ]
-    },
-    {
-      "id": "c6f15943d586e4f6cf656a3b279acae322f4d718",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-销量",
-      "title": "广汽5月销量增8.18%，自主与海外成双引擎",
-      "url": "https://auto.gasgoo.com/news/202606/3I70460454C501.shtml",
-      "published_at": "2026-06-03T17:37:02Z",
-      "first_seen_at": "2026-06-04T12:26:41.804318Z",
-      "last_seen_at": "2026-06-04T15:58:27.310315Z",
-      "title_original": "广汽5月销量增8.18%，自主与海外成双引擎",
-      "title_en": null,
-      "title_zh": "广汽5月销量增8.18%，自主与海外成双引擎",
-      "title_bilingual": "广汽5月销量增8.18%，自主与海外成双引擎",
-      "topic_tags": [
-        "销量市场"
-      ]
-    },
-    {
-      "id": "876832bc4f047ee99806f439644dbedea5ca7727",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-智能网联",
-      "title": "东风股份将发布无人物流车品牌",
-      "url": "https://auto.gasgoo.com/news/202606/3I70460453C601.shtml",
-      "published_at": "2026-06-03T17:25:28Z",
-      "first_seen_at": "2026-06-04T12:26:41.804318Z",
-      "last_seen_at": "2026-06-04T15:58:27.310315Z",
-      "title_original": "东风股份将发布无人物流车品牌",
-      "title_en": null,
-      "title_zh": "东风股份将发布无人物流车品牌",
-      "title_bilingual": "东风股份将发布无人物流车品牌",
-      "topic_tags": [
-        "新车上市"
-      ]
-    },
-    {
-      "id": "d852055aaf2afd783a6e06becb505d3db3e6fc56",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新技术",
-      "title": "英伟达发布面向物理AI的世界基础模型Cosmos 3",
-      "url": "https://auto.gasgoo.com/news/202606/3I70460450C409.shtml",
-      "published_at": "2026-06-03T16:56:42Z",
-      "first_seen_at": "2026-06-04T09:10:43.495203Z",
-      "last_seen_at": "2026-06-04T15:58:27.310315Z",
-      "title_original": "英伟达发布面向物理AI的世界基础模型Cosmos 3",
-      "title_en": null,
-      "title_zh": "英伟达发布面向物理AI的世界基础模型Cosmos 3",
-      "title_bilingual": "英伟达发布面向物理AI的世界基础模型Cosmos 3",
-      "topic_tags": [
-        "新车上市"
-      ]
-    },
-    {
-      "id": "14cb44397ba2bc2cd86d1dce9b6b42cdfafc2b0d",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "比亚迪、奇瑞相继入局，日本纯电微型车赛道升温",
-      "url": "https://auto.gasgoo.com/news/202606/3I70460448C501.shtml",
-      "published_at": "2026-06-03T16:08:11Z",
-      "first_seen_at": "2026-06-04T09:10:43.495203Z",
-      "last_seen_at": "2026-06-04T15:58:27.310315Z",
-      "title_original": "比亚迪、奇瑞相继入局，日本纯电微型车赛道升温",
-      "title_en": null,
-      "title_zh": "比亚迪、奇瑞相继入局，日本纯电微型车赛道升温",
-      "title_bilingual": "比亚迪、奇瑞相继入局，日本纯电微型车赛道升温",
-      "topic_tags": [
-        "新能源",
-        "车企竞争"
       ]
     }
   ],
   "items_ai": [
     {
+      "id": "1cedbe7051e41e8f49a7041f5d47f73f7dbd5f7f",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "试驾熊猫mini 灵活安全性价比拉满",
+      "url": "https://club.autohome.com.cn/bbs/thread/77e669f36a111f50/115278730-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-06-04T18:24:28.885827Z",
+      "last_seen_at": "2026-06-04T18:24:28.885827Z",
+      "title_original": "试驾熊猫mini 灵活安全性价比拉满",
+      "title_en": null,
+      "title_zh": "试驾熊猫mini 灵活安全性价比拉满",
+      "title_bilingual": "试驾熊猫mini 灵活安全性价比拉满",
+      "topic_tags": [
+        "价格战",
+        "召回安全",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "e03648e0964ca554efea7cfa2776da1f5899a6bc",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "优缺点大爆料 问界M7用车感受分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/75fa808429843399/115214978-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-06-04T18:24:28.885827Z",
+      "last_seen_at": "2026-06-04T18:24:28.885827Z",
+      "title_original": "优缺点大爆料 问界M7用车感受分享",
+      "title_en": null,
+      "title_zh": "优缺点大爆料 问界M7用车感受分享",
+      "title_bilingual": "优缺点大爆料 问界M7用车感受分享",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "6fd4847f1019272901134a12910afe1a4d1b2c13",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "奇瑞风云T9用车半年 真实优缺点分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/fb2c62e1804356d7/115215832-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-06-04T18:24:28.885827Z",
+      "last_seen_at": "2026-06-04T18:24:28.885827Z",
+      "title_original": "奇瑞风云T9用车半年 真实优缺点分享",
+      "title_en": null,
+      "title_zh": "奇瑞风云T9用车半年 真实优缺点分享",
+      "title_bilingual": "奇瑞风云T9用车半年 真实优缺点分享",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "d612b174d6329e55224827cfd6e4c811988043a1",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "满足出行需求 长安启源Q07提车分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/f7ed4728e35343d0/115215633-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-06-04T18:24:28.885827Z",
+      "last_seen_at": "2026-06-04T18:24:28.885827Z",
+      "title_original": "满足出行需求 长安启源Q07提车分享",
+      "title_en": null,
+      "title_zh": "满足出行需求 长安启源Q07提车分享",
+      "title_bilingual": "满足出行需求 长安启源Q07提车分享",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "a8bc3c2987c5af91dd6d1bd12b34fc8c85a0f6a3",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "华为辅助驾驶 深蓝S07提车分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/925b6d8d87bf4f65/115210636-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-06-04T18:24:28.885827Z",
+      "last_seen_at": "2026-06-04T18:24:28.885827Z",
+      "title_original": "华为辅助驾驶 深蓝S07提车分享",
+      "title_en": null,
+      "title_zh": "华为辅助驾驶 深蓝S07提车分享",
+      "title_bilingual": "华为辅助驾驶 深蓝S07提车分享",
+      "topic_tags": [
+        "智能驾驶",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "09238002bd72cde6c8a3eccf800b63cebb592d31",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "真实用车报告 iCAR 03的优缺点分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/087005470146e51b/115241692-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-06-04T18:24:28.885827Z",
+      "last_seen_at": "2026-06-04T18:24:28.885827Z",
+      "title_original": "真实用车报告 iCAR 03的优缺点分享",
+      "title_en": null,
+      "title_zh": "真实用车报告 iCAR 03的优缺点分享",
+      "title_bilingual": "真实用车报告 iCAR 03的优缺点分享",
+      "topic_tags": [
+        "购车决策"
+      ]
+    },
+    {
+      "id": "ec1a032c86cd475d37d5a822ad7de03c79d7af15",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "刷遍测评与口碑 我与理想L8结缘故事",
+      "url": "https://club.autohome.com.cn/bbs/thread/8c0609b1faa5fe78/115050967-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-06-04T18:24:28.885827Z",
+      "last_seen_at": "2026-06-04T18:24:28.885827Z",
+      "title_original": "刷遍测评与口碑 我与理想L8结缘故事",
+      "title_en": null,
+      "title_zh": "刷遍测评与口碑 我与理想L8结缘故事",
+      "title_bilingual": "刷遍测评与口碑 我与理想L8结缘故事",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "87d16ce4c2e2286b091eb64ae66c2e295c15a172",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "舒适度拉满 零跑D19提车作业分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/b98c27e362aa7d3d/115182736-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-06-04T18:24:28.885827Z",
+      "last_seen_at": "2026-06-04T18:24:28.885827Z",
+      "title_original": "舒适度拉满 零跑D19提车作业分享",
+      "title_en": null,
+      "title_zh": "舒适度拉满 零跑D19提车作业分享",
+      "title_bilingual": "舒适度拉满 零跑D19提车作业分享",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "b1f49609c047d00a3b1de1dabce42ae3ecc0e317",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "被低估的经典 14款长安CS35用车记录",
+      "url": "https://club.autohome.com.cn/bbs/thread/7c2573a8a556a3aa/115201229-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-06-04T18:24:28.885827Z",
+      "last_seen_at": "2026-06-04T18:24:28.885827Z",
+      "title_original": "被低估的经典 14款长安CS35用车记录",
+      "title_en": null,
+      "title_zh": "被低估的经典 14款长安CS35用车记录",
+      "title_bilingual": "被低估的经典 14款长安CS35用车记录",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "3ca4cd9cdb38116a623a8011ba6dcaf85c9c8996",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "hackernews",
+      "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
+      "url": "https://news.ycombinator.com/item?id=48399974",
+      "published_at": "2026-06-04T18:08:41.233000Z",
+      "first_seen_at": "2026-06-04T18:24:28.885827Z",
+      "last_seen_at": "2026-06-04T18:24:28.885827Z",
+      "title_original": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
+      "title_en": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
+      "title_zh": "KVarN：华为用于 KV 缓存量化的原生 vLLM 后端",
+      "title_bilingual": "KVarN：华为用于 KV 缓存量化的原生 vLLM 后端 / KVarN: Native vLLM backend for KV-cache quantization by Huawei",
+      "topic_tags": []
+    },
+    {
       "id": "969d7da82f0fd06e4b17263cba7eec11df433edf",
       "site_id": "newsnow",
       "site_name": "NewsNow",
@@ -788,7 +1037,7 @@
       "url": "https://www.36kr.com/newsflashes/3838863373469956",
       "published_at": "2026-06-04T13:30:42.425000Z",
       "first_seen_at": "2026-06-04T15:58:27.310315Z",
-      "last_seen_at": "2026-06-04T15:58:27.310315Z",
+      "last_seen_at": "2026-06-04T18:24:28.885827Z",
       "title_original": "热门中概股美股盘前多数下跌，小鹏集团跌超3%",
       "title_en": null,
       "title_zh": "热门中概股美股盘前多数下跌，小鹏集团跌超3%",
@@ -806,7 +1055,7 @@
       "url": "https://carnewschina.com/2026/06/04/byd-asked-netizens-to-choose-the-name-of-its-flagship-sedan",
       "published_at": "2026-06-04T09:52:51Z",
       "first_seen_at": "2026-06-04T12:26:41.804318Z",
-      "last_seen_at": "2026-06-04T15:58:27.310315Z",
+      "last_seen_at": "2026-06-04T18:24:28.885827Z",
       "title_original": "BYD asked netizens to choose the name of its flagship sedan",
       "title_en": "BYD asked netizens to choose the name of its flagship sedan",
       "title_zh": "比亚迪请网友为其旗舰轿车命名",
@@ -826,7 +1075,7 @@
       "url": "https://cnevpost.com/2026/06/04/leapmotor-sixth-management-stake-increase-two-years",
       "published_at": "2026-06-04T09:35:01Z",
       "first_seen_at": "2026-06-04T12:26:41.804318Z",
-      "last_seen_at": "2026-06-04T15:58:27.310315Z",
+      "last_seen_at": "2026-06-04T18:24:28.885827Z",
       "title_original": "Leapmotor sees sixth management stake increase in two years",
       "title_en": "Leapmotor sees sixth management stake increase in two years",
       "title_zh": "零跑汽车管理层两年内第六次增持股份",
@@ -863,7 +1112,7 @@
       "url": "https://cnevpost.com/2026/06/04/xpeng-scrambles-gx-production-wait-35-weeks",
       "published_at": "2026-06-04T04:31:31Z",
       "first_seen_at": "2026-06-04T05:20:21.656773Z",
-      "last_seen_at": "2026-06-04T15:58:27.310315Z",
+      "last_seen_at": "2026-06-04T18:24:28.885827Z",
       "title_original": "Xpeng scrambles to boost GX SUV production as wait times hit 35 weeks",
       "title_en": "Xpeng scrambles to boost GX SUV production as wait times hit 35 weeks",
       "title_zh": "小鹏汽车急于提高 GX SUV 的产量，等待时间长达 35 周",
@@ -919,7 +1168,7 @@
       "url": "https://carnewschina.com/2026/06/04/hyundai-ioniq-v-spotted-in-china-4-9-m-fastback-ev-with-frameless-doors-and-800v-system",
       "published_at": "2026-06-04T02:48:49Z",
       "first_seen_at": "2026-06-04T05:20:21.656773Z",
-      "last_seen_at": "2026-06-04T15:58:27.310315Z",
+      "last_seen_at": "2026-06-04T18:24:28.885827Z",
       "title_original": "Hyundai Ioniq V spotted in China: 4.9 m fastback EV with frameless doors and 800V system",
       "title_en": "Hyundai Ioniq V spotted in China: 4.9 m fastback EV with frameless doors and 800V system",
       "title_zh": "现代 Ioniq V 亮相中国：4.9 m 溜背式电动车，配备无框车门和 800V 系统",
@@ -938,7 +1187,7 @@
       "url": "https://cnevpost.com/2026/06/04/gac-partners-sinopec-sell-cars-gas-stations",
       "published_at": "2026-06-04T02:18:34Z",
       "first_seen_at": "2026-06-04T05:20:21.656773Z",
-      "last_seen_at": "2026-06-04T15:58:27.310315Z",
+      "last_seen_at": "2026-06-04T18:24:28.885827Z",
       "title_original": "GAC partners with Sinopec to sell cars at gas stations",
       "title_en": "GAC partners with Sinopec to sell cars at gas stations",
       "title_zh": "广汽集团与中石化合作在加油站销售汽车",
@@ -956,7 +1205,7 @@
       "url": "https://cnevpost.com/2026/06/04/chery-nissan-uk-manufacturing-deal",
       "published_at": "2026-06-04T01:50:20Z",
       "first_seen_at": "2026-06-04T05:20:21.656773Z",
-      "last_seen_at": "2026-06-04T15:58:27.310315Z",
+      "last_seen_at": "2026-06-04T18:24:28.885827Z",
       "title_original": "Chery expands European footprint with Nissan UK manufacturing deal",
       "title_en": "Chery expands European footprint with Nissan UK manufacturing deal",
       "title_zh": "奇瑞与日产英国制造协议扩大欧洲足迹",
@@ -976,7 +1225,7 @@
       "url": "https://carnewschina.com/2026/06/04/chery-to-produce-vehicles-at-nissans-sunderland-plant-starting-in-2027",
       "published_at": "2026-06-04T01:12:16Z",
       "first_seen_at": "2026-06-04T05:20:21.656773Z",
-      "last_seen_at": "2026-06-04T15:58:27.310315Z",
+      "last_seen_at": "2026-06-04T18:24:28.885827Z",
       "title_original": "Chery to produce vehicles at Nissan’s Sunderland plant starting in 2027",
       "title_en": "Chery to produce vehicles at Nissan’s Sunderland plant starting in 2027",
       "title_zh": "奇瑞将于 2027 年在日产桑德兰工厂生产汽车",
@@ -996,7 +1245,7 @@
       "url": "https://carnewschina.com/2026/06/04/byd-confirms-humanoid-robot-development-says-future-sales-could-use-dealer-network",
       "published_at": "2026-06-04T00:56:40Z",
       "first_seen_at": "2026-06-04T05:20:21.656773Z",
-      "last_seen_at": "2026-06-04T15:58:27.310315Z",
+      "last_seen_at": "2026-06-04T18:24:28.885827Z",
       "title_original": "BYD confirms humanoid robot development, says future sales could use dealer network",
       "title_en": "BYD confirms humanoid robot development, says future sales could use dealer network",
       "title_zh": "比亚迪确认开发人形机器人，称未来销售可利用经销商网络",
@@ -1015,7 +1264,7 @@
       "url": "https://carnewschina.com/2026/06/04/chery-denies-executive-dealer-fight-rumours-files-police-report-in-china",
       "published_at": "2026-06-04T00:16:56Z",
       "first_seen_at": "2026-06-04T05:20:21.656773Z",
-      "last_seen_at": "2026-06-04T15:58:27.310315Z",
+      "last_seen_at": "2026-06-04T18:24:28.885827Z",
       "title_original": "Chery denies executive-dealer fight rumours, files police report in China",
       "title_en": "Chery denies executive-dealer fight rumours, files police report in China",
       "title_zh": "奇瑞否认执行经销商打架传闻，向中国警方报案",
@@ -1053,7 +1302,7 @@
       "url": "http://vc.yiche.com/vplay/11452996.html",
       "published_at": null,
       "first_seen_at": "2026-06-03T22:10:13.548534Z",
-      "last_seen_at": "2026-06-04T15:58:27.310315Z",
+      "last_seen_at": "2026-06-04T18:24:28.885827Z",
       "title_original": "20多万比问界M9还大 比亚迪大唐有何优缺点",
       "title_en": null,
       "title_zh": "20多万比问界M9还大 比亚迪大唐有何优缺点",
@@ -1071,7 +1320,7 @@
       "url": "http://vc.yiche.com/vplay/11416960.html",
       "published_at": null,
       "first_seen_at": "2026-06-03T22:10:13.548534Z",
-      "last_seen_at": "2026-06-04T15:58:27.310315Z",
+      "last_seen_at": "2026-06-04T18:24:28.885827Z",
       "title_original": "混动MPV顶配不到12万？L2辅助驾驶+电动侧滑门，星光730靠谱么？",
       "title_en": null,
       "title_zh": "混动MPV顶配不到12万？L2辅助驾驶+电动侧滑门，星光730靠谱么？",
@@ -1091,7 +1340,7 @@
       "url": "http://vc.yiche.com/vplay/11485875.html",
       "published_at": null,
       "first_seen_at": "2026-06-03T22:10:13.548534Z",
-      "last_seen_at": "2026-06-04T15:58:27.310315Z",
+      "last_seen_at": "2026-06-04T18:24:28.885827Z",
       "title_original": "实用升级 零跑C系列SUV家族迎来改款",
       "title_en": null,
       "title_zh": "实用升级 零跑C系列SUV家族迎来改款",
@@ -1110,7 +1359,7 @@
       "url": "http://vc.yiche.com/vplay/11434306.html",
       "published_at": null,
       "first_seen_at": "2026-06-03T22:10:13.548534Z",
-      "last_seen_at": "2026-06-04T15:58:27.310315Z",
+      "last_seen_at": "2026-06-04T18:24:28.885827Z",
       "title_original": "零跑D19后排空间到底怎么样？",
       "title_en": null,
       "title_zh": "零跑D19后排空间到底怎么样？",
@@ -1128,7 +1377,7 @@
       "url": "http://vc.yiche.com/vplay/11420817.html",
       "published_at": null,
       "first_seen_at": "2026-06-03T22:10:13.548534Z",
-      "last_seen_at": "2026-06-04T15:58:27.310315Z",
+      "last_seen_at": "2026-06-04T18:24:28.885827Z",
       "title_original": "小鹏GX之所以能卖爆，原因其实很简单...",
       "title_en": null,
       "title_zh": "小鹏GX之所以能卖爆，原因其实很简单...",
@@ -1146,7 +1395,7 @@
       "url": "https://auto.gasgoo.com/news/202606/3I70460467C501.shtml",
       "published_at": "2026-06-03T20:04:03Z",
       "first_seen_at": "2026-06-04T12:26:41.804318Z",
-      "last_seen_at": "2026-06-04T15:58:27.310315Z",
+      "last_seen_at": "2026-06-04T18:24:28.885827Z",
       "title_original": "问界回应M9台州事故：撞击前车掉落金属件致起火",
       "title_en": null,
       "title_zh": "问界回应M9台州事故：撞击前车掉落金属件致起火",
@@ -1166,7 +1415,7 @@
       "url": "https://auto.gasgoo.com/news/202606/3I70460458C109.shtml",
       "published_at": "2026-06-03T19:56:02Z",
       "first_seen_at": "2026-06-04T12:26:41.804318Z",
-      "last_seen_at": "2026-06-04T15:58:27.310315Z",
+      "last_seen_at": "2026-06-04T18:24:28.885827Z",
       "title_original": "奇瑞集团法务部“打假”高管斗殴传闻，否认与恒信压库冲突",
       "title_en": null,
       "title_zh": "奇瑞集团法务部“打假”高管斗殴传闻，否认与恒信压库冲突",
@@ -1184,7 +1433,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/43b1024b571b77b0/115274618-1.html",
       "published_at": null,
       "first_seen_at": "2026-06-03T19:05:37.386151Z",
-      "last_seen_at": "2026-06-04T15:58:27.310315Z",
+      "last_seen_at": "2026-06-04T18:24:28.885827Z",
       "title_original": "新车概念车一次看够 实拍粤港澳车展",
       "title_en": null,
       "title_zh": "新车概念车一次看够 实拍粤港澳车展",
@@ -1202,7 +1451,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/930eea561aa9a899/115238313-1.html",
       "published_at": null,
       "first_seen_at": "2026-06-03T19:05:37.386151Z",
-      "last_seen_at": "2026-06-04T15:58:27.310315Z",
+      "last_seen_at": "2026-06-04T18:24:28.885827Z",
       "title_original": "租电千万别乱选 试驾体验乐道L80",
       "title_en": null,
       "title_zh": "租电千万别乱选 试驾体验乐道L80",
@@ -1361,131 +1610,6 @@
       "title_bilingual": "看中耐用性 汉兰达购车经历分享",
       "topic_tags": [
         "购车决策"
-      ]
-    },
-    {
-      "id": "c6a4942ec5be839f8086a00d87980ac5f1cd9e76",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-智能网联",
-      "title": "港科大联手天瞳威视攻坚物理AI 自动驾驶驶入“世界模型”新赛道",
-      "url": "https://auto.gasgoo.com/news/202606/3I70460457C601.shtml",
-      "published_at": "2026-06-03T18:08:38Z",
-      "first_seen_at": "2026-06-04T12:26:41.804318Z",
-      "last_seen_at": "2026-06-04T15:58:27.310315Z",
-      "title_original": "港科大联手天瞳威视攻坚物理AI 自动驾驶驶入“世界模型”新赛道",
-      "title_en": null,
-      "title_zh": "港科大联手天瞳威视攻坚物理AI 自动驾驶驶入“世界模型”新赛道",
-      "title_bilingual": "港科大联手天瞳威视攻坚物理AI 自动驾驶驶入“世界模型”新赛道",
-      "topic_tags": [
-        "智能驾驶"
-      ]
-    },
-    {
-      "id": "96e4ae9bca680457f91456edc195069179304cb2",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-智能网联",
-      "title": "福瑞泰克获国内头部自主品牌量产新定点",
-      "url": "https://auto.gasgoo.com/news/202606/3I70460456C601.shtml",
-      "published_at": "2026-06-03T17:48:04Z",
-      "first_seen_at": "2026-06-04T12:26:41.804318Z",
-      "last_seen_at": "2026-06-04T15:58:27.310315Z",
-      "title_original": "福瑞泰克获国内头部自主品牌量产新定点",
-      "title_en": null,
-      "title_zh": "福瑞泰克获国内头部自主品牌量产新定点",
-      "title_bilingual": "福瑞泰克获国内头部自主品牌量产新定点",
-      "topic_tags": []
-    },
-    {
-      "id": "bd40364163acdde96f056277166635938fd8da1a",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "5月汽车保值率：车源多了，但价格跌了",
-      "url": "https://auto.gasgoo.com/news/202606/3I70460455C108.shtml",
-      "published_at": "2026-06-03T17:38:29Z",
-      "first_seen_at": "2026-06-04T12:26:41.804318Z",
-      "last_seen_at": "2026-06-04T15:58:27.310315Z",
-      "title_original": "5月汽车保值率：车源多了，但价格跌了",
-      "title_en": null,
-      "title_zh": "5月汽车保值率：车源多了，但价格跌了",
-      "title_bilingual": "5月汽车保值率：车源多了，但价格跌了",
-      "topic_tags": [
-        "购车决策"
-      ]
-    },
-    {
-      "id": "c6f15943d586e4f6cf656a3b279acae322f4d718",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-销量",
-      "title": "广汽5月销量增8.18%，自主与海外成双引擎",
-      "url": "https://auto.gasgoo.com/news/202606/3I70460454C501.shtml",
-      "published_at": "2026-06-03T17:37:02Z",
-      "first_seen_at": "2026-06-04T12:26:41.804318Z",
-      "last_seen_at": "2026-06-04T15:58:27.310315Z",
-      "title_original": "广汽5月销量增8.18%，自主与海外成双引擎",
-      "title_en": null,
-      "title_zh": "广汽5月销量增8.18%，自主与海外成双引擎",
-      "title_bilingual": "广汽5月销量增8.18%，自主与海外成双引擎",
-      "topic_tags": [
-        "销量市场"
-      ]
-    },
-    {
-      "id": "876832bc4f047ee99806f439644dbedea5ca7727",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-智能网联",
-      "title": "东风股份将发布无人物流车品牌",
-      "url": "https://auto.gasgoo.com/news/202606/3I70460453C601.shtml",
-      "published_at": "2026-06-03T17:25:28Z",
-      "first_seen_at": "2026-06-04T12:26:41.804318Z",
-      "last_seen_at": "2026-06-04T15:58:27.310315Z",
-      "title_original": "东风股份将发布无人物流车品牌",
-      "title_en": null,
-      "title_zh": "东风股份将发布无人物流车品牌",
-      "title_bilingual": "东风股份将发布无人物流车品牌",
-      "topic_tags": [
-        "新车上市"
-      ]
-    },
-    {
-      "id": "d852055aaf2afd783a6e06becb505d3db3e6fc56",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新技术",
-      "title": "英伟达发布面向物理AI的世界基础模型Cosmos 3",
-      "url": "https://auto.gasgoo.com/news/202606/3I70460450C409.shtml",
-      "published_at": "2026-06-03T16:56:42Z",
-      "first_seen_at": "2026-06-04T09:10:43.495203Z",
-      "last_seen_at": "2026-06-04T15:58:27.310315Z",
-      "title_original": "英伟达发布面向物理AI的世界基础模型Cosmos 3",
-      "title_en": null,
-      "title_zh": "英伟达发布面向物理AI的世界基础模型Cosmos 3",
-      "title_bilingual": "英伟达发布面向物理AI的世界基础模型Cosmos 3",
-      "topic_tags": [
-        "新车上市"
-      ]
-    },
-    {
-      "id": "14cb44397ba2bc2cd86d1dce9b6b42cdfafc2b0d",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "比亚迪、奇瑞相继入局，日本纯电微型车赛道升温",
-      "url": "https://auto.gasgoo.com/news/202606/3I70460448C501.shtml",
-      "published_at": "2026-06-03T16:08:11Z",
-      "first_seen_at": "2026-06-04T09:10:43.495203Z",
-      "last_seen_at": "2026-06-04T15:58:27.310315Z",
-      "title_original": "比亚迪、奇瑞相继入局，日本纯电微型车赛道升温",
-      "title_en": null,
-      "title_zh": "比亚迪、奇瑞相继入局，日本纯电微型车赛道升温",
-      "title_bilingual": "比亚迪、奇瑞相继入局，日本纯电微型车赛道升温",
-      "topic_tags": [
-        "新能源",
-        "车企竞争"
       ]
     }
   ],
