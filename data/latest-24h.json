@@ -1,50 +1,50 @@
 {
-  "generated_at": "2026-06-08T06:41:28.115091Z",
+  "generated_at": "2026-06-08T11:55:37.222027Z",
   "window_hours": 24,
-  "total_items": 20,
-  "total_items_ai_raw": 21,
-  "total_items_raw": 3354,
-  "total_items_all_mode": 3152,
+  "total_items": 26,
+  "total_items_ai_raw": 26,
+  "total_items_raw": 3198,
+  "total_items_all_mode": 3006,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 65969,
+  "archive_total": 66223,
   "site_count": 3,
-  "source_count": 9,
+  "source_count": 8,
   "site_stats": [
     {
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "count": 10,
-      "raw_count": 11
+      "count": 16,
+      "raw_count": 16
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "count": 7,
-      "raw_count": 3112
+      "raw_count": 2986
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "count": 3,
-      "raw_count": 231
+      "raw_count": 196
     }
   ],
   "topic_tag_stats": [
     {
       "tag": "车企竞争",
-      "count": 13
+      "count": 18
     },
     {
       "tag": "新能源",
-      "count": 8
+      "count": 15
     },
     {
       "tag": "新车上市",
-      "count": 6
+      "count": 7
     },
     {
       "tag": "补能电池",
-      "count": 3
+      "count": 6
     },
     {
       "tag": "购车决策",
@@ -59,16 +59,165 @@
       "count": 2
     },
     {
-      "tag": "价格战",
-      "count": 1
-    },
-    {
       "tag": "智能驾驶",
       "count": 1
     }
   ],
   "items": [
     {
+      "id": "7ab67e8141e60a789576fabbf8ac3ecb67dad5c3",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "BYD reportedly to launch Datang EV on June 17",
+      "url": "https://cnevpost.com/2026/06/08/byd-to-launch-datang-jun-17",
+      "published_at": "2026-06-08T11:20:30Z",
+      "first_seen_at": "2026-06-08T11:55:37.222027Z",
+      "last_seen_at": "2026-06-08T11:55:37.222027Z",
+      "title_original": "BYD reportedly to launch Datang EV on June 17",
+      "title_en": "BYD reportedly to launch Datang EV on June 17",
+      "title_zh": "据报道，比亚迪将于6月17日推出大唐EV",
+      "title_bilingual": "据报道，比亚迪将于6月17日推出大唐EV / BYD reportedly to launch Datang EV on June 17",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "5cf1343da31a60eeaabce0cd79e0a9e44c3455ac",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "36kr",
+      "title": "永太科技：子公司与宁德时代签订电解液合作协议，预计2026-2028年采购量合计47万吨",
+      "url": "https://www.36kr.com/newsflashes/3844418271005192",
+      "published_at": "2026-06-08T11:13:21.428000Z",
+      "first_seen_at": "2026-06-08T11:55:37.222027Z",
+      "last_seen_at": "2026-06-08T11:55:37.222027Z",
+      "title_original": "永太科技：子公司与宁德时代签订电解液合作协议，预计2026-2028年采购量合计47万吨",
+      "title_en": null,
+      "title_zh": "永太科技：子公司与宁德时代签订电解液合作协议，预计2026-2028年采购量合计47万吨",
+      "title_bilingual": "永太科技：子公司与宁德时代签订电解液合作协议，预计2026-2028年采购量合计47万吨",
+      "topic_tags": [
+        "补能电池",
+        "供应链"
+      ]
+    },
+    {
+      "id": "d3fc67596380857bc14fafedec1fbec281918b21",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "36kr",
+      "title": "中恒电气：宁德时代拟41亿元认购控股股东中恒科技投资新增注册资本",
+      "url": "https://www.36kr.com/newsflashes/3844390489328132",
+      "published_at": "2026-06-08T10:54:21.428000Z",
+      "first_seen_at": "2026-06-08T11:55:37.222027Z",
+      "last_seen_at": "2026-06-08T11:55:37.222027Z",
+      "title_original": "中恒电气：宁德时代拟41亿元认购控股股东中恒科技投资新增注册资本",
+      "title_en": null,
+      "title_zh": "中恒电气：宁德时代拟41亿元认购控股股东中恒科技投资新增注册资本",
+      "title_bilingual": "中恒电气：宁德时代拟41亿元认购控股股东中恒科技投资新增注册资本",
+      "topic_tags": [
+        "补能电池"
+      ]
+    },
+    {
+      "id": "8231bc9d354acc2a31889f7f7117ec5807f0780c",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Nio exec hints average transaction price of main brand vehicles rising rapidly",
+      "url": "https://cnevpost.com/2026/06/08/nio-exec-hints-average-transaction-price-rising-rapidly",
+      "published_at": "2026-06-08T10:36:04Z",
+      "first_seen_at": "2026-06-08T11:55:37.222027Z",
+      "last_seen_at": "2026-06-08T11:55:37.222027Z",
+      "title_original": "Nio exec hints average transaction price of main brand vehicles rising rapidly",
+      "title_en": "Nio exec hints average transaction price of main brand vehicles rising rapidly",
+      "title_zh": "蔚来高管暗示主品牌汽车平均交易价格快速上涨",
+      "title_bilingual": "蔚来高管暗示主品牌汽车平均交易价格快速上涨 / Nio exec hints average transaction price of main brand vehicles rising rapidly",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "88f6b26dceec344603aa9a443154e18a2f8e9c75",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Solid-state batteries power 22-km cross-strait eVTOL flight as China eyes commercial scale-up",
+      "url": "https://carnewschina.com/2026/06/08/solid-state-batteries-power-22-km-cross-strait-evtol-flight-as-china-eyes-commercial-scale-up",
+      "published_at": "2026-06-08T10:30:57Z",
+      "first_seen_at": "2026-06-08T11:55:37.222027Z",
+      "last_seen_at": "2026-06-08T11:55:37.222027Z",
+      "title_original": "Solid-state batteries power 22-km cross-strait eVTOL flight as China eyes commercial scale-up",
+      "title_en": "Solid-state batteries power 22-km cross-strait eVTOL flight as China eyes commercial scale-up",
+      "title_zh": "中国着眼商业规模扩大，固态电池为22公里海峡两岸电动垂直起降飞行提供动力",
+      "title_bilingual": "中国着眼商业规模扩大，固态电池为22公里海峡两岸电动垂直起降飞行提供动力 / Solid-state batteries power 22-km cross-strait eVTOL flight as China eyes commercial scale-up",
+      "topic_tags": [
+        "新能源",
+        "补能电池"
+      ]
+    },
+    {
+      "id": "20e007b6288704351d2dc7b7dd28ec0e7ef7a26d",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "China's May NEV penetration hits record high despite continued retail sales decline",
+      "url": "https://cnevpost.com/2026/06/08/china-may-nev-penetration-record-high-retail-decline",
+      "published_at": "2026-06-08T09:45:24Z",
+      "first_seen_at": "2026-06-08T11:55:37.222027Z",
+      "last_seen_at": "2026-06-08T11:55:37.222027Z",
+      "title_original": "China's May NEV penetration hits record high despite continued retail sales decline",
+      "title_en": "China's May NEV penetration hits record high despite continued retail sales decline",
+      "title_zh": "尽管零售额持续下降，中国5月新能源汽车渗透率仍创历史新高",
+      "title_bilingual": "尽管零售额持续下降，中国5月新能源汽车渗透率仍创历史新高 / China's May NEV penetration hits record high despite continued retail sales decline",
+      "topic_tags": [
+        "新能源",
+        "销量市场"
+      ]
+    },
+    {
+      "id": "01be38c83d915fffc4e239a0eb94af53d219277c",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "BYD Great Tang to launch on June 17 with 950 km range, 3.9-second acceleration and flash charging",
+      "url": "https://carnewschina.com/2026/06/08/byd-great-tang-to-launch-on-june-17-with-950-km-range-3-9-second-acceleration-and-flash-charging",
+      "published_at": "2026-06-08T09:09:41Z",
+      "first_seen_at": "2026-06-08T11:55:37.222027Z",
+      "last_seen_at": "2026-06-08T11:55:37.222027Z",
+      "title_original": "BYD Great Tang to launch on June 17 with 950 km range, 3.9-second acceleration and flash charging",
+      "title_en": "BYD Great Tang to launch on June 17 with 950 km range, 3.9-second acceleration and flash charging",
+      "title_zh": "比亚迪大唐将于6月17日上市，续航950公里，加速3.9秒，闪充",
+      "title_bilingual": "比亚迪大唐将于6月17日上市，续航950公里，加速3.9秒，闪充 / BYD Great Tang to launch on June 17 with 950 km range, 3.9-second acceleration and flash charging",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "849f59f2a0f3eb3f0ad2b2e67979d331324b08ff",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Tesla ends two-month retail slump in China with strong May performance",
+      "url": "https://cnevpost.com/2026/06/08/tesla-ends-two-month-retail-slump-china-may-2026",
+      "published_at": "2026-06-08T08:35:58Z",
+      "first_seen_at": "2026-06-08T11:55:37.222027Z",
+      "last_seen_at": "2026-06-08T11:55:37.222027Z",
+      "title_original": "Tesla ends two-month retail slump in China with strong May performance",
+      "title_en": "Tesla ends two-month retail slump in China with strong May performance",
+      "title_zh": "特斯拉五月表现强劲，结束了中国零售业两个月的低迷",
+      "title_bilingual": "特斯拉五月表现强劲，结束了中国零售业两个月的低迷 / Tesla ends two-month retail slump in China with strong May performance",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
       "id": "0e93b37bbb230c17e2b6ca3d7dacfe8125129ec5",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -77,7 +226,7 @@
       "url": "https://cnevpost.com/2026/06/08/leapmotor-opens-pre-orders-updated-c10-c11-c16",
       "published_at": "2026-06-08T05:14:43Z",
       "first_seen_at": "2026-06-08T06:41:28.115091Z",
-      "last_seen_at": "2026-06-08T06:41:28.115091Z",
+      "last_seen_at": "2026-06-08T11:55:37.222027Z",
       "title_original": "Leapmotor opens pre-orders for updated C-series SUVs ahead of June 16 launch",
       "title_en": "Leapmotor opens pre-orders for updated C-series SUVs ahead of June 16 launch",
       "title_zh": "零跑汽车更新版C系列SUV将于6月16日上市",
@@ -97,7 +246,7 @@
       "url": "https://carnewschina.com/2026/06/08/catl-reveals-one-shell-two-cells-design-as-15000-cycle-sodium-batteries-hit-20-year-target",
       "published_at": "2026-06-08T04:41:25Z",
       "first_seen_at": "2026-06-08T06:41:28.115091Z",
-      "last_seen_at": "2026-06-08T06:41:28.115091Z",
+      "last_seen_at": "2026-06-08T11:55:37.222027Z",
       "title_original": "CATL reveals ‘One Shell, Two Cells’ design to beat -25°C winter fade with sodium-ion batteries",
       "title_en": "CATL reveals ‘One Shell, Two Cells’ design to beat -25°C winter fade with sodium-ion batteries",
       "title_zh": "CATL推出“一个外壳、两个电池”设计，钠离子电池可抵御-25°C冬季褪色",
@@ -116,7 +265,7 @@
       "url": "https://cnevpost.com/2026/06/08/li-auto-schedules-software-ai-event-jun-15",
       "published_at": "2026-06-08T04:02:06Z",
       "first_seen_at": "2026-06-08T06:41:28.115091Z",
-      "last_seen_at": "2026-06-08T06:41:28.115091Z",
+      "last_seen_at": "2026-06-08T11:55:37.222027Z",
       "title_original": "Li Auto schedules software and AI event for June 15 to explore embodied intelligence",
       "title_en": "Li Auto schedules software and AI event for June 15 to explore embodied intelligence",
       "title_zh": "理想汽车定于 6 月 15 日举办软件和人工智能活动，探索实体智能",
@@ -135,7 +284,7 @@
       "url": "https://carnewschina.com/2026/06/08/cherys-new-exeed-exlantix-es-revealed-with-awd-and-4-9s-sprint-ahead-of-june-10-pre-sales",
       "published_at": "2026-06-08T03:36:16Z",
       "first_seen_at": "2026-06-08T06:41:28.115091Z",
-      "last_seen_at": "2026-06-08T06:41:28.115091Z",
+      "last_seen_at": "2026-06-08T11:55:37.222027Z",
       "title_original": "Chery’s new Exeed Exlantix ES revealed with AWD and 4.9s sprint ahead of June 10 pre-sales",
       "title_en": "Chery’s new Exeed Exlantix ES revealed with AWD and 4.9s sprint ahead of June 10 pre-sales",
       "title_zh": "奇瑞全新Exeed Exlantix ES亮相，配备全轮驱动和4.9s冲刺，将于6月10日预售",
@@ -155,7 +304,7 @@
       "url": "https://cnevpost.com/2026/06/08/byd-teases-new-flagship-sedan-premium-push",
       "published_at": "2026-06-08T03:30:36Z",
       "first_seen_at": "2026-06-08T06:41:28.115091Z",
-      "last_seen_at": "2026-06-08T06:41:28.115091Z",
+      "last_seen_at": "2026-06-08T11:55:37.222027Z",
       "title_original": "BYD teases new flagship sedan as premium market push accelerates",
       "title_en": "BYD teases new flagship sedan as premium market push accelerates",
       "title_zh": "随着高端市场加速推进，比亚迪推出新旗舰轿车",
@@ -176,7 +325,7 @@
       "url": "https://carnewschina.com/2026/06/08/byd-unveils-official-images-of-its-new-flagship-d-class-sedan-the-great-han",
       "published_at": "2026-06-08T03:16:23Z",
       "first_seen_at": "2026-06-08T06:41:28.115091Z",
-      "last_seen_at": "2026-06-08T06:41:28.115091Z",
+      "last_seen_at": "2026-06-08T11:55:37.222027Z",
       "title_original": "BYD unveils official images of its new flagship D-class sedan, the Great Han",
       "title_en": "BYD unveils official images of its new flagship D-class sedan, the Great Han",
       "title_zh": "比亚迪发布全新旗舰D级轿车大汉官方图片",
@@ -196,7 +345,7 @@
       "url": "https://cnevpost.com/2026/06/08/2026-shenzhen-auto-show-closes-next-edition-jun-5-2027",
       "published_at": "2026-06-08T02:57:42Z",
       "first_seen_at": "2026-06-08T06:41:28.115091Z",
-      "last_seen_at": "2026-06-08T06:41:28.115091Z",
+      "last_seen_at": "2026-06-08T11:55:37.222027Z",
       "title_original": "2026 Shenzhen Auto Show closes, next edition set to begin on June 5, 2027",
       "title_en": "2026 Shenzhen Auto Show closes, next edition set to begin on June 5, 2027",
       "title_zh": "2026深圳车展闭幕 下一届将于2027年6月5日开幕",
@@ -215,7 +364,7 @@
       "url": "https://cnevpost.com/2026/06/08/analysts-expect-nio-sustain-profitability-q2-strong-suv-deliveries",
       "published_at": "2026-06-08T02:23:31Z",
       "first_seen_at": "2026-06-08T06:41:28.115091Z",
-      "last_seen_at": "2026-06-08T06:41:28.115091Z",
+      "last_seen_at": "2026-06-08T11:55:37.222027Z",
       "title_original": "Analysts expect Nio to sustain non-GAAP profitability in Q2 on strong SUV deliveries",
       "title_en": "Analysts expect Nio to sustain non-GAAP profitability in Q2 on strong SUV deliveries",
       "title_zh": "分析师预计，蔚来汽车将因 SUV 交付量强劲而在第二季度维持非 GAAP 盈利能力",
@@ -236,7 +385,7 @@
       "url": "http://vc.yiche.com/vplay/11490383.html",
       "published_at": null,
       "first_seen_at": "2026-06-07T18:47:25.872535Z",
-      "last_seen_at": "2026-06-08T06:41:28.115091Z",
+      "last_seen_at": "2026-06-08T11:55:37.222027Z",
       "title_original": "27款零跑C16，年度改款升级这么多？",
       "title_en": null,
       "title_zh": "27款零跑C16，年度改款升级这么多？",
@@ -254,7 +403,7 @@
       "url": "http://vc.yiche.com/vplay/11494793.html",
       "published_at": null,
       "first_seen_at": "2026-06-07T18:47:25.872535Z",
-      "last_seen_at": "2026-06-08T06:41:28.115091Z",
+      "last_seen_at": "2026-06-08T11:55:37.222027Z",
       "title_original": "9字辈卷王，还得看它——零跑D19",
       "title_en": null,
       "title_zh": "9字辈卷王，还得看它——零跑D19",
@@ -272,7 +421,7 @@
       "url": "http://vc.yiche.com/vplay/11528974.html",
       "published_at": null,
       "first_seen_at": "2026-06-07T18:47:25.872535Z",
-      "last_seen_at": "2026-06-08T06:41:28.115091Z",
+      "last_seen_at": "2026-06-08T11:55:37.222027Z",
       "title_original": "V9X单屏版？长城H10内饰猜想",
       "title_en": null,
       "title_zh": "V9X单屏版？长城H10内饰猜想",
@@ -290,7 +439,7 @@
       "url": "http://vc.yiche.com/vplay/11514988.html",
       "published_at": null,
       "first_seen_at": "2026-06-07T18:47:25.872535Z",
-      "last_seen_at": "2026-06-08T06:41:28.115091Z",
+      "last_seen_at": "2026-06-08T11:55:37.222027Z",
       "title_original": "德系底盘+行云智驾，30万级六座绕不开ID.ERA9X",
       "title_en": null,
       "title_zh": "德系底盘+行云智驾，30万级六座绕不开ID.ERA9X",
@@ -309,7 +458,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/e8178d31146b0f64/115227507-1.html",
       "published_at": null,
       "first_seen_at": "2026-06-07T17:14:42.609487Z",
-      "last_seen_at": "2026-06-08T06:41:28.115091Z",
+      "last_seen_at": "2026-06-08T11:55:37.222027Z",
       "title_original": "家用很不错 长安启源Q07提车分享",
       "title_en": null,
       "title_zh": "家用很不错 长安启源Q07提车分享",
@@ -328,7 +477,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/fab3e0da2d88a8a8/115169181-1.html",
       "published_at": null,
       "first_seen_at": "2026-06-07T17:14:42.609487Z",
-      "last_seen_at": "2026-06-08T06:41:28.115091Z",
+      "last_seen_at": "2026-06-08T11:55:37.222027Z",
       "title_original": "符合我的审美 小鹏MONA M03提车分享",
       "title_en": null,
       "title_zh": "符合我的审美 小鹏MONA M03提车分享",
@@ -347,7 +496,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/adc366c248ea0e19/115163413-1.html",
       "published_at": null,
       "first_seen_at": "2026-06-07T17:14:42.609487Z",
-      "last_seen_at": "2026-06-08T06:41:28.115091Z",
+      "last_seen_at": "2026-06-08T11:55:37.222027Z",
       "title_original": "适合家用出行 零跑A10提车作业分享",
       "title_en": null,
       "title_zh": "适合家用出行 零跑A10提车作业分享",
@@ -376,81 +525,198 @@
       ]
     },
     {
-      "id": "ca00aedc8c1f0c1681c66020206807076c031f6b",
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "juejin",
-      "title": "kingbase备份与恢复实战（七）—— 恢复演练与验收：从“能恢复”到“可交付预案”",
-      "url": "https://juejin.cn/post/7648121330443812864",
-      "published_at": "2026-06-07T10:27:12.307000Z",
-      "first_seen_at": "2026-06-07T10:27:00.160392Z",
-      "last_seen_at": "2026-06-08T06:41:28.115091Z",
-      "title_original": "kingbase备份与恢复实战（七）—— 恢复演练与验收：从“能恢复”到“可交付预案”",
-      "title_en": null,
-      "title_zh": "kingbase备份与恢复实战（七）—— 恢复演练与验收：从“能恢复”到“可交付预案”",
-      "title_bilingual": "kingbase备份与恢复实战（七）—— 恢复演练与验收：从“能恢复”到“可交付预案”",
-      "topic_tags": [
-        "销量市场"
-      ]
-    },
-    {
-      "id": "c5c8da6f7b9cc52d155b15e4b179280504991e74",
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "36kr",
-      "title": "新宙邦：与宁德时代签订电解液合作协议 预计2026-2028年采购量合计30万吨",
-      "url": "https://www.36kr.com/newsflashes/3842865935796488",
-      "published_at": "2026-06-07T09:30:28.081000Z",
-      "first_seen_at": "2026-06-07T10:27:00.160392Z",
-      "last_seen_at": "2026-06-07T23:03:27.604609Z",
-      "title_original": "新宙邦：与宁德时代签订电解液合作协议 预计2026-2028年采购量合计30万吨",
-      "title_en": null,
-      "title_zh": "新宙邦：与宁德时代签订电解液合作协议 预计2026-2028年采购量合计30万吨",
-      "title_bilingual": "新宙邦：与宁德时代签订电解液合作协议 预计2026-2028年采购量合计30万吨",
-      "topic_tags": [
-        "补能电池",
-        "供应链"
-      ]
-    },
-    {
-      "id": "f099a8b326006d975e6d4677f61bbc94702e8e59",
+      "id": "779888b532e09fd8e1bd5023dc984d043e479abb",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "价格战的“回旋镖”，不止伤人，还伤己",
-      "url": "https://auto.gasgoo.com/news/202606/8I70460750C108.shtml",
-      "published_at": "2026-06-07T07:21:51Z",
-      "first_seen_at": "2026-06-08T06:41:28.115091Z",
-      "last_seen_at": "2026-06-08T06:41:28.115091Z",
-      "title_original": "价格战的“回旋镖”，不止伤人，还伤己",
+      "source": "盖世汽车-智能网联",
+      "title": "小智一周要闻 | 比亚迪正在研发人形机器人；宇树科创板IPO过会",
+      "url": "https://auto.gasgoo.com/news/202606/7I70460787C601.shtml",
+      "published_at": "2026-06-07T16:41:51Z",
+      "first_seen_at": "2026-06-08T11:55:37.222027Z",
+      "last_seen_at": "2026-06-08T11:55:37.222027Z",
+      "title_original": "小智一周要闻 | 比亚迪正在研发人形机器人；宇树科创板IPO过会",
       "title_en": null,
-      "title_zh": "价格战的“回旋镖”，不止伤人，还伤己",
-      "title_bilingual": "价格战的“回旋镖”，不止伤人，还伤己",
+      "title_zh": "小智一周要闻 | 比亚迪正在研发人形机器人；宇树科创板IPO过会",
+      "title_bilingual": "小智一周要闻 | 比亚迪正在研发人形机器人；宇树科创板IPO过会",
       "topic_tags": [
-        "价格战"
+        "车企竞争"
       ]
     },
     {
-      "id": "7b5584f272b02c322bd760eec70d88ac87689d92",
+      "id": "494191f72c2a9bb0efe44933b8c0de4f877b9a0e",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "盖世周报 | 莱茵金属出售汽车业务；延锋彼欧完成业务整合升级",
-      "url": "https://auto.gasgoo.com/news/202606/7I70460576C109.shtml",
-      "published_at": "2026-06-07T07:00:00Z",
-      "first_seen_at": "2026-06-07T23:03:27.604609Z",
-      "last_seen_at": "2026-06-08T06:41:28.115091Z",
-      "title_original": "盖世周报 | 莱茵金属出售汽车业务；延锋彼欧完成业务整合升级",
+      "source": "盖世汽车-新能源",
+      "title": "E周看点 | 雷克萨斯叫停纯电轿车项目；比亚迪与中国石化签署战略合作协议",
+      "url": "https://auto.gasgoo.com/news/202606/7I70460882C501.shtml",
+      "published_at": "2026-06-07T16:25:51Z",
+      "first_seen_at": "2026-06-08T11:55:37.222027Z",
+      "last_seen_at": "2026-06-08T11:55:37.222027Z",
+      "title_original": "E周看点 | 雷克萨斯叫停纯电轿车项目；比亚迪与中国石化签署战略合作协议",
       "title_en": null,
-      "title_zh": "盖世周报 | 莱茵金属出售汽车业务；延锋彼欧完成业务整合升级",
-      "title_bilingual": "盖世周报 | 莱茵金属出售汽车业务；延锋彼欧完成业务整合升级",
+      "title_zh": "E周看点 | 雷克萨斯叫停纯电轿车项目；比亚迪与中国石化签署战略合作协议",
+      "title_bilingual": "E周看点 | 雷克萨斯叫停纯电轿车项目；比亚迪与中国石化签署战略合作协议",
       "topic_tags": [
+        "新能源",
         "车企竞争"
       ]
     }
   ],
   "items_ai": [
     {
+      "id": "7ab67e8141e60a789576fabbf8ac3ecb67dad5c3",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "BYD reportedly to launch Datang EV on June 17",
+      "url": "https://cnevpost.com/2026/06/08/byd-to-launch-datang-jun-17",
+      "published_at": "2026-06-08T11:20:30Z",
+      "first_seen_at": "2026-06-08T11:55:37.222027Z",
+      "last_seen_at": "2026-06-08T11:55:37.222027Z",
+      "title_original": "BYD reportedly to launch Datang EV on June 17",
+      "title_en": "BYD reportedly to launch Datang EV on June 17",
+      "title_zh": "据报道，比亚迪将于6月17日推出大唐EV",
+      "title_bilingual": "据报道，比亚迪将于6月17日推出大唐EV / BYD reportedly to launch Datang EV on June 17",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "5cf1343da31a60eeaabce0cd79e0a9e44c3455ac",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "36kr",
+      "title": "永太科技：子公司与宁德时代签订电解液合作协议，预计2026-2028年采购量合计47万吨",
+      "url": "https://www.36kr.com/newsflashes/3844418271005192",
+      "published_at": "2026-06-08T11:13:21.428000Z",
+      "first_seen_at": "2026-06-08T11:55:37.222027Z",
+      "last_seen_at": "2026-06-08T11:55:37.222027Z",
+      "title_original": "永太科技：子公司与宁德时代签订电解液合作协议，预计2026-2028年采购量合计47万吨",
+      "title_en": null,
+      "title_zh": "永太科技：子公司与宁德时代签订电解液合作协议，预计2026-2028年采购量合计47万吨",
+      "title_bilingual": "永太科技：子公司与宁德时代签订电解液合作协议，预计2026-2028年采购量合计47万吨",
+      "topic_tags": [
+        "补能电池",
+        "供应链"
+      ]
+    },
+    {
+      "id": "d3fc67596380857bc14fafedec1fbec281918b21",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "36kr",
+      "title": "中恒电气：宁德时代拟41亿元认购控股股东中恒科技投资新增注册资本",
+      "url": "https://www.36kr.com/newsflashes/3844390489328132",
+      "published_at": "2026-06-08T10:54:21.428000Z",
+      "first_seen_at": "2026-06-08T11:55:37.222027Z",
+      "last_seen_at": "2026-06-08T11:55:37.222027Z",
+      "title_original": "中恒电气：宁德时代拟41亿元认购控股股东中恒科技投资新增注册资本",
+      "title_en": null,
+      "title_zh": "中恒电气：宁德时代拟41亿元认购控股股东中恒科技投资新增注册资本",
+      "title_bilingual": "中恒电气：宁德时代拟41亿元认购控股股东中恒科技投资新增注册资本",
+      "topic_tags": [
+        "补能电池"
+      ]
+    },
+    {
+      "id": "8231bc9d354acc2a31889f7f7117ec5807f0780c",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Nio exec hints average transaction price of main brand vehicles rising rapidly",
+      "url": "https://cnevpost.com/2026/06/08/nio-exec-hints-average-transaction-price-rising-rapidly",
+      "published_at": "2026-06-08T10:36:04Z",
+      "first_seen_at": "2026-06-08T11:55:37.222027Z",
+      "last_seen_at": "2026-06-08T11:55:37.222027Z",
+      "title_original": "Nio exec hints average transaction price of main brand vehicles rising rapidly",
+      "title_en": "Nio exec hints average transaction price of main brand vehicles rising rapidly",
+      "title_zh": "蔚来高管暗示主品牌汽车平均交易价格快速上涨",
+      "title_bilingual": "蔚来高管暗示主品牌汽车平均交易价格快速上涨 / Nio exec hints average transaction price of main brand vehicles rising rapidly",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "88f6b26dceec344603aa9a443154e18a2f8e9c75",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Solid-state batteries power 22-km cross-strait eVTOL flight as China eyes commercial scale-up",
+      "url": "https://carnewschina.com/2026/06/08/solid-state-batteries-power-22-km-cross-strait-evtol-flight-as-china-eyes-commercial-scale-up",
+      "published_at": "2026-06-08T10:30:57Z",
+      "first_seen_at": "2026-06-08T11:55:37.222027Z",
+      "last_seen_at": "2026-06-08T11:55:37.222027Z",
+      "title_original": "Solid-state batteries power 22-km cross-strait eVTOL flight as China eyes commercial scale-up",
+      "title_en": "Solid-state batteries power 22-km cross-strait eVTOL flight as China eyes commercial scale-up",
+      "title_zh": "中国着眼商业规模扩大，固态电池为22公里海峡两岸电动垂直起降飞行提供动力",
+      "title_bilingual": "中国着眼商业规模扩大，固态电池为22公里海峡两岸电动垂直起降飞行提供动力 / Solid-state batteries power 22-km cross-strait eVTOL flight as China eyes commercial scale-up",
+      "topic_tags": [
+        "新能源",
+        "补能电池"
+      ]
+    },
+    {
+      "id": "20e007b6288704351d2dc7b7dd28ec0e7ef7a26d",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "China's May NEV penetration hits record high despite continued retail sales decline",
+      "url": "https://cnevpost.com/2026/06/08/china-may-nev-penetration-record-high-retail-decline",
+      "published_at": "2026-06-08T09:45:24Z",
+      "first_seen_at": "2026-06-08T11:55:37.222027Z",
+      "last_seen_at": "2026-06-08T11:55:37.222027Z",
+      "title_original": "China's May NEV penetration hits record high despite continued retail sales decline",
+      "title_en": "China's May NEV penetration hits record high despite continued retail sales decline",
+      "title_zh": "尽管零售额持续下降，中国5月新能源汽车渗透率仍创历史新高",
+      "title_bilingual": "尽管零售额持续下降，中国5月新能源汽车渗透率仍创历史新高 / China's May NEV penetration hits record high despite continued retail sales decline",
+      "topic_tags": [
+        "新能源",
+        "销量市场"
+      ]
+    },
+    {
+      "id": "01be38c83d915fffc4e239a0eb94af53d219277c",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "BYD Great Tang to launch on June 17 with 950 km range, 3.9-second acceleration and flash charging",
+      "url": "https://carnewschina.com/2026/06/08/byd-great-tang-to-launch-on-june-17-with-950-km-range-3-9-second-acceleration-and-flash-charging",
+      "published_at": "2026-06-08T09:09:41Z",
+      "first_seen_at": "2026-06-08T11:55:37.222027Z",
+      "last_seen_at": "2026-06-08T11:55:37.222027Z",
+      "title_original": "BYD Great Tang to launch on June 17 with 950 km range, 3.9-second acceleration and flash charging",
+      "title_en": "BYD Great Tang to launch on June 17 with 950 km range, 3.9-second acceleration and flash charging",
+      "title_zh": "比亚迪大唐将于6月17日上市，续航950公里，加速3.9秒，闪充",
+      "title_bilingual": "比亚迪大唐将于6月17日上市，续航950公里，加速3.9秒，闪充 / BYD Great Tang to launch on June 17 with 950 km range, 3.9-second acceleration and flash charging",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "849f59f2a0f3eb3f0ad2b2e67979d331324b08ff",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Tesla ends two-month retail slump in China with strong May performance",
+      "url": "https://cnevpost.com/2026/06/08/tesla-ends-two-month-retail-slump-china-may-2026",
+      "published_at": "2026-06-08T08:35:58Z",
+      "first_seen_at": "2026-06-08T11:55:37.222027Z",
+      "last_seen_at": "2026-06-08T11:55:37.222027Z",
+      "title_original": "Tesla ends two-month retail slump in China with strong May performance",
+      "title_en": "Tesla ends two-month retail slump in China with strong May performance",
+      "title_zh": "特斯拉五月表现强劲，结束了中国零售业两个月的低迷",
+      "title_bilingual": "特斯拉五月表现强劲，结束了中国零售业两个月的低迷 / Tesla ends two-month retail slump in China with strong May performance",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
       "id": "0e93b37bbb230c17e2b6ca3d7dacfe8125129ec5",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -459,7 +725,7 @@
       "url": "https://cnevpost.com/2026/06/08/leapmotor-opens-pre-orders-updated-c10-c11-c16",
       "published_at": "2026-06-08T05:14:43Z",
       "first_seen_at": "2026-06-08T06:41:28.115091Z",
-      "last_seen_at": "2026-06-08T06:41:28.115091Z",
+      "last_seen_at": "2026-06-08T11:55:37.222027Z",
       "title_original": "Leapmotor opens pre-orders for updated C-series SUVs ahead of June 16 launch",
       "title_en": "Leapmotor opens pre-orders for updated C-series SUVs ahead of June 16 launch",
       "title_zh": "零跑汽车更新版C系列SUV将于6月16日上市",
@@ -479,7 +745,7 @@
       "url": "https://carnewschina.com/2026/06/08/catl-reveals-one-shell-two-cells-design-as-15000-cycle-sodium-batteries-hit-20-year-target",
       "published_at": "2026-06-08T04:41:25Z",
       "first_seen_at": "2026-06-08T06:41:28.115091Z",
-      "last_seen_at": "2026-06-08T06:41:28.115091Z",
+      "last_seen_at": "2026-06-08T11:55:37.222027Z",
       "title_original": "CATL reveals ‘One Shell, Two Cells’ design to beat -25°C winter fade with sodium-ion batteries",
       "title_en": "CATL reveals ‘One Shell, Two Cells’ design to beat -25°C winter fade with sodium-ion batteries",
       "title_zh": "CATL推出“一个外壳、两个电池”设计，钠离子电池可抵御-25°C冬季褪色",
@@ -498,7 +764,7 @@
       "url": "https://cnevpost.com/2026/06/08/li-auto-schedules-software-ai-event-jun-15",
       "published_at": "2026-06-08T04:02:06Z",
       "first_seen_at": "2026-06-08T06:41:28.115091Z",
-      "last_seen_at": "2026-06-08T06:41:28.115091Z",
+      "last_seen_at": "2026-06-08T11:55:37.222027Z",
       "title_original": "Li Auto schedules software and AI event for June 15 to explore embodied intelligence",
       "title_en": "Li Auto schedules software and AI event for June 15 to explore embodied intelligence",
       "title_zh": "理想汽车定于 6 月 15 日举办软件和人工智能活动，探索实体智能",
@@ -517,7 +783,7 @@
       "url": "https://carnewschina.com/2026/06/08/cherys-new-exeed-exlantix-es-revealed-with-awd-and-4-9s-sprint-ahead-of-june-10-pre-sales",
       "published_at": "2026-06-08T03:36:16Z",
       "first_seen_at": "2026-06-08T06:41:28.115091Z",
-      "last_seen_at": "2026-06-08T06:41:28.115091Z",
+      "last_seen_at": "2026-06-08T11:55:37.222027Z",
       "title_original": "Chery’s new Exeed Exlantix ES revealed with AWD and 4.9s sprint ahead of June 10 pre-sales",
       "title_en": "Chery’s new Exeed Exlantix ES revealed with AWD and 4.9s sprint ahead of June 10 pre-sales",
       "title_zh": "奇瑞全新Exeed Exlantix ES亮相，配备全轮驱动和4.9s冲刺，将于6月10日预售",
@@ -537,7 +803,7 @@
       "url": "https://cnevpost.com/2026/06/08/byd-teases-new-flagship-sedan-premium-push",
       "published_at": "2026-06-08T03:30:36Z",
       "first_seen_at": "2026-06-08T06:41:28.115091Z",
-      "last_seen_at": "2026-06-08T06:41:28.115091Z",
+      "last_seen_at": "2026-06-08T11:55:37.222027Z",
       "title_original": "BYD teases new flagship sedan as premium market push accelerates",
       "title_en": "BYD teases new flagship sedan as premium market push accelerates",
       "title_zh": "随着高端市场加速推进，比亚迪推出新旗舰轿车",
@@ -558,7 +824,7 @@
       "url": "https://carnewschina.com/2026/06/08/byd-unveils-official-images-of-its-new-flagship-d-class-sedan-the-great-han",
       "published_at": "2026-06-08T03:16:23Z",
       "first_seen_at": "2026-06-08T06:41:28.115091Z",
-      "last_seen_at": "2026-06-08T06:41:28.115091Z",
+      "last_seen_at": "2026-06-08T11:55:37.222027Z",
       "title_original": "BYD unveils official images of its new flagship D-class sedan, the Great Han",
       "title_en": "BYD unveils official images of its new flagship D-class sedan, the Great Han",
       "title_zh": "比亚迪发布全新旗舰D级轿车大汉官方图片",
@@ -578,7 +844,7 @@
       "url": "https://cnevpost.com/2026/06/08/2026-shenzhen-auto-show-closes-next-edition-jun-5-2027",
       "published_at": "2026-06-08T02:57:42Z",
       "first_seen_at": "2026-06-08T06:41:28.115091Z",
-      "last_seen_at": "2026-06-08T06:41:28.115091Z",
+      "last_seen_at": "2026-06-08T11:55:37.222027Z",
       "title_original": "2026 Shenzhen Auto Show closes, next edition set to begin on June 5, 2027",
       "title_en": "2026 Shenzhen Auto Show closes, next edition set to begin on June 5, 2027",
       "title_zh": "2026深圳车展闭幕 下一届将于2027年6月5日开幕",
@@ -597,7 +863,7 @@
       "url": "https://cnevpost.com/2026/06/08/analysts-expect-nio-sustain-profitability-q2-strong-suv-deliveries",
       "published_at": "2026-06-08T02:23:31Z",
       "first_seen_at": "2026-06-08T06:41:28.115091Z",
-      "last_seen_at": "2026-06-08T06:41:28.115091Z",
+      "last_seen_at": "2026-06-08T11:55:37.222027Z",
       "title_original": "Analysts expect Nio to sustain non-GAAP profitability in Q2 on strong SUV deliveries",
       "title_en": "Analysts expect Nio to sustain non-GAAP profitability in Q2 on strong SUV deliveries",
       "title_zh": "分析师预计，蔚来汽车将因 SUV 交付量强劲而在第二季度维持非 GAAP 盈利能力",
@@ -618,7 +884,7 @@
       "url": "http://vc.yiche.com/vplay/11490383.html",
       "published_at": null,
       "first_seen_at": "2026-06-07T18:47:25.872535Z",
-      "last_seen_at": "2026-06-08T06:41:28.115091Z",
+      "last_seen_at": "2026-06-08T11:55:37.222027Z",
       "title_original": "27款零跑C16，年度改款升级这么多？",
       "title_en": null,
       "title_zh": "27款零跑C16，年度改款升级这么多？",
@@ -636,7 +902,7 @@
       "url": "http://vc.yiche.com/vplay/11494793.html",
       "published_at": null,
       "first_seen_at": "2026-06-07T18:47:25.872535Z",
-      "last_seen_at": "2026-06-08T06:41:28.115091Z",
+      "last_seen_at": "2026-06-08T11:55:37.222027Z",
       "title_original": "9字辈卷王，还得看它——零跑D19",
       "title_en": null,
       "title_zh": "9字辈卷王，还得看它——零跑D19",
@@ -654,7 +920,7 @@
       "url": "http://vc.yiche.com/vplay/11528974.html",
       "published_at": null,
       "first_seen_at": "2026-06-07T18:47:25.872535Z",
-      "last_seen_at": "2026-06-08T06:41:28.115091Z",
+      "last_seen_at": "2026-06-08T11:55:37.222027Z",
       "title_original": "V9X单屏版？长城H10内饰猜想",
       "title_en": null,
       "title_zh": "V9X单屏版？长城H10内饰猜想",
@@ -672,7 +938,7 @@
       "url": "http://vc.yiche.com/vplay/11514988.html",
       "published_at": null,
       "first_seen_at": "2026-06-07T18:47:25.872535Z",
-      "last_seen_at": "2026-06-08T06:41:28.115091Z",
+      "last_seen_at": "2026-06-08T11:55:37.222027Z",
       "title_original": "德系底盘+行云智驾，30万级六座绕不开ID.ERA9X",
       "title_en": null,
       "title_zh": "德系底盘+行云智驾，30万级六座绕不开ID.ERA9X",
@@ -691,7 +957,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/e8178d31146b0f64/115227507-1.html",
       "published_at": null,
       "first_seen_at": "2026-06-07T17:14:42.609487Z",
-      "last_seen_at": "2026-06-08T06:41:28.115091Z",
+      "last_seen_at": "2026-06-08T11:55:37.222027Z",
       "title_original": "家用很不错 长安启源Q07提车分享",
       "title_en": null,
       "title_zh": "家用很不错 长安启源Q07提车分享",
@@ -710,7 +976,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/fab3e0da2d88a8a8/115169181-1.html",
       "published_at": null,
       "first_seen_at": "2026-06-07T17:14:42.609487Z",
-      "last_seen_at": "2026-06-08T06:41:28.115091Z",
+      "last_seen_at": "2026-06-08T11:55:37.222027Z",
       "title_original": "符合我的审美 小鹏MONA M03提车分享",
       "title_en": null,
       "title_zh": "符合我的审美 小鹏MONA M03提车分享",
@@ -729,7 +995,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/adc366c248ea0e19/115163413-1.html",
       "published_at": null,
       "first_seen_at": "2026-06-07T17:14:42.609487Z",
-      "last_seen_at": "2026-06-08T06:41:28.115091Z",
+      "last_seen_at": "2026-06-08T11:55:37.222027Z",
       "title_original": "适合家用出行 零跑A10提车作业分享",
       "title_en": null,
       "title_zh": "适合家用出行 零跑A10提车作业分享",
@@ -758,75 +1024,39 @@
       ]
     },
     {
-      "id": "ca00aedc8c1f0c1681c66020206807076c031f6b",
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "juejin",
-      "title": "kingbase备份与恢复实战（七）—— 恢复演练与验收：从“能恢复”到“可交付预案”",
-      "url": "https://juejin.cn/post/7648121330443812864",
-      "published_at": "2026-06-07T10:27:12.307000Z",
-      "first_seen_at": "2026-06-07T10:27:00.160392Z",
-      "last_seen_at": "2026-06-08T06:41:28.115091Z",
-      "title_original": "kingbase备份与恢复实战（七）—— 恢复演练与验收：从“能恢复”到“可交付预案”",
-      "title_en": null,
-      "title_zh": "kingbase备份与恢复实战（七）—— 恢复演练与验收：从“能恢复”到“可交付预案”",
-      "title_bilingual": "kingbase备份与恢复实战（七）—— 恢复演练与验收：从“能恢复”到“可交付预案”",
-      "topic_tags": [
-        "销量市场"
-      ]
-    },
-    {
-      "id": "c5c8da6f7b9cc52d155b15e4b179280504991e74",
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "36kr",
-      "title": "新宙邦：与宁德时代签订电解液合作协议 预计2026-2028年采购量合计30万吨",
-      "url": "https://www.36kr.com/newsflashes/3842865935796488",
-      "published_at": "2026-06-07T09:30:28.081000Z",
-      "first_seen_at": "2026-06-07T10:27:00.160392Z",
-      "last_seen_at": "2026-06-07T23:03:27.604609Z",
-      "title_original": "新宙邦：与宁德时代签订电解液合作协议 预计2026-2028年采购量合计30万吨",
-      "title_en": null,
-      "title_zh": "新宙邦：与宁德时代签订电解液合作协议 预计2026-2028年采购量合计30万吨",
-      "title_bilingual": "新宙邦：与宁德时代签订电解液合作协议 预计2026-2028年采购量合计30万吨",
-      "topic_tags": [
-        "补能电池",
-        "供应链"
-      ]
-    },
-    {
-      "id": "f099a8b326006d975e6d4677f61bbc94702e8e59",
+      "id": "779888b532e09fd8e1bd5023dc984d043e479abb",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "价格战的“回旋镖”，不止伤人，还伤己",
-      "url": "https://auto.gasgoo.com/news/202606/8I70460750C108.shtml",
-      "published_at": "2026-06-07T07:21:51Z",
-      "first_seen_at": "2026-06-08T06:41:28.115091Z",
-      "last_seen_at": "2026-06-08T06:41:28.115091Z",
-      "title_original": "价格战的“回旋镖”，不止伤人，还伤己",
+      "source": "盖世汽车-智能网联",
+      "title": "小智一周要闻 | 比亚迪正在研发人形机器人；宇树科创板IPO过会",
+      "url": "https://auto.gasgoo.com/news/202606/7I70460787C601.shtml",
+      "published_at": "2026-06-07T16:41:51Z",
+      "first_seen_at": "2026-06-08T11:55:37.222027Z",
+      "last_seen_at": "2026-06-08T11:55:37.222027Z",
+      "title_original": "小智一周要闻 | 比亚迪正在研发人形机器人；宇树科创板IPO过会",
       "title_en": null,
-      "title_zh": "价格战的“回旋镖”，不止伤人，还伤己",
-      "title_bilingual": "价格战的“回旋镖”，不止伤人，还伤己",
+      "title_zh": "小智一周要闻 | 比亚迪正在研发人形机器人；宇树科创板IPO过会",
+      "title_bilingual": "小智一周要闻 | 比亚迪正在研发人形机器人；宇树科创板IPO过会",
       "topic_tags": [
-        "价格战"
+        "车企竞争"
       ]
     },
     {
-      "id": "7b5584f272b02c322bd760eec70d88ac87689d92",
+      "id": "494191f72c2a9bb0efe44933b8c0de4f877b9a0e",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "盖世周报 | 莱茵金属出售汽车业务；延锋彼欧完成业务整合升级",
-      "url": "https://auto.gasgoo.com/news/202606/7I70460576C109.shtml",
-      "published_at": "2026-06-07T07:00:00Z",
-      "first_seen_at": "2026-06-07T23:03:27.604609Z",
-      "last_seen_at": "2026-06-08T06:41:28.115091Z",
-      "title_original": "盖世周报 | 莱茵金属出售汽车业务；延锋彼欧完成业务整合升级",
+      "source": "盖世汽车-新能源",
+      "title": "E周看点 | 雷克萨斯叫停纯电轿车项目；比亚迪与中国石化签署战略合作协议",
+      "url": "https://auto.gasgoo.com/news/202606/7I70460882C501.shtml",
+      "published_at": "2026-06-07T16:25:51Z",
+      "first_seen_at": "2026-06-08T11:55:37.222027Z",
+      "last_seen_at": "2026-06-08T11:55:37.222027Z",
+      "title_original": "E周看点 | 雷克萨斯叫停纯电轿车项目；比亚迪与中国石化签署战略合作协议",
       "title_en": null,
-      "title_zh": "盖世周报 | 莱茵金属出售汽车业务；延锋彼欧完成业务整合升级",
-      "title_bilingual": "盖世周报 | 莱茵金属出售汽车业务；延锋彼欧完成业务整合升级",
+      "title_zh": "E周看点 | 雷克萨斯叫停纯电轿车项目；比亚迪与中国石化签署战略合作协议",
+      "title_bilingual": "E周看点 | 雷克萨斯叫停纯电轿车项目；比亚迪与中国石化签署战略合作协议",
       "topic_tags": [
+        "新能源",
         "车企竞争"
       ]
     }
