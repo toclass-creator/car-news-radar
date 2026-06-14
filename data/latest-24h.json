@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-06-14T18:10:20.431834Z",
+  "generated_at": "2026-06-14T20:05:32.549812Z",
   "window_hours": 24,
-  "total_items": 16,
-  "total_items_ai_raw": 16,
-  "total_items_raw": 2884,
-  "total_items_all_mode": 2716,
+  "total_items": 23,
+  "total_items_ai_raw": 23,
+  "total_items_raw": 2880,
+  "total_items_all_mode": 2706,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 67014,
+  "archive_total": 66773,
   "site_count": 3,
   "source_count": 4,
   "site_stats": [
     {
       "site_id": "tophub",
       "site_name": "TopHub",
-      "count": 13,
-      "raw_count": 2709
+      "count": 20,
+      "raw_count": 2707
     },
     {
       "site_id": "official_auto",
@@ -26,25 +26,33 @@
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "count": 0,
-      "raw_count": 172
+      "raw_count": 170
     }
   ],
   "topic_tag_stats": [
     {
       "tag": "新能源",
-      "count": 7
-    },
-    {
-      "tag": "购车决策",
-      "count": 7
+      "count": 10
     },
     {
       "tag": "车企竞争",
-      "count": 7
+      "count": 10
+    },
+    {
+      "tag": "购车决策",
+      "count": 9
     },
     {
       "tag": "新车上市",
+      "count": 6
+    },
+    {
+      "tag": "销量市场",
       "count": 2
+    },
+    {
+      "tag": "价格战",
+      "count": 1
     },
     {
       "tag": "供应链",
@@ -53,13 +61,142 @@
     {
       "tag": "补能电池",
       "count": 1
-    },
-    {
-      "tag": "销量市场",
-      "count": 1
     }
   ],
   "items": [
+    {
+      "id": "3d880b5c1a99fb5c43d6bcd42a2946284f4f3dde",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "北京81 VJ版来了，增程+三把锁，真能平替G63",
+      "url": "http://vc.yiche.com/vplay/11628269.html",
+      "published_at": null,
+      "first_seen_at": "2026-06-14T20:05:32.549812Z",
+      "last_seen_at": "2026-06-14T20:05:32.549812Z",
+      "title_original": "北京81 VJ版来了，增程+三把锁，真能平替G63",
+      "title_en": null,
+      "title_zh": "北京81 VJ版来了，增程+三把锁，真能平替G63",
+      "title_bilingual": "北京81 VJ版来了，增程+三把锁，真能平替G63",
+      "topic_tags": [
+        "新能源"
+      ]
+    },
+    {
+      "id": "d2546ac06324a375d95b456cd9abad29293a7c67",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "试驾吉利星越L混动，1.5T智擎体验如何？首选哪个配置？",
+      "url": "http://vc.yiche.com/vplay/11600283.html",
+      "published_at": null,
+      "first_seen_at": "2026-06-14T20:05:32.549812Z",
+      "last_seen_at": "2026-06-14T20:05:32.549812Z",
+      "title_original": "试驾吉利星越L混动，1.5T智擎体验如何？首选哪个配置？",
+      "title_en": null,
+      "title_zh": "试驾吉利星越L混动，1.5T智擎体验如何？首选哪个配置？",
+      "title_bilingual": "试驾吉利星越L混动，1.5T智擎体验如何？首选哪个配置？",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "e0a4850c0d987eec6dc51707db25419de51092b8",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "供不应求，体验小鹏GX，它做对了什么？",
+      "url": "http://vc.yiche.com/vplay/11614570.html",
+      "published_at": null,
+      "first_seen_at": "2026-06-14T20:05:32.549812Z",
+      "last_seen_at": "2026-06-14T20:05:32.549812Z",
+      "title_original": "供不应求，体验小鹏GX，它做对了什么？",
+      "title_en": null,
+      "title_zh": "供不应求，体验小鹏GX，它做对了什么？",
+      "title_bilingual": "供不应求，体验小鹏GX，它做对了什么？",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "7a4c45a457e24310d338de76593cb9c9fc36eda6",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "余承东心心念的硬派SUV来了",
+      "url": "http://vc.yiche.com/vplay/11607374.html",
+      "published_at": null,
+      "first_seen_at": "2026-06-14T20:05:32.549812Z",
+      "last_seen_at": "2026-06-14T20:05:32.549812Z",
+      "title_original": "余承东心心念的硬派SUV来了",
+      "title_en": null,
+      "title_zh": "余承东心心念的硬派SUV来了",
+      "title_bilingual": "余承东心心念的硬派SUV来了",
+      "topic_tags": [
+        "新车上市"
+      ]
+    },
+    {
+      "id": "f9eb2592c27cd518d82463f621e6567a4de02796",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "吉利银河星舰7 EV远航家上市 A级纯电SUV新标杆！售9.98万元起！",
+      "url": "http://vc.yiche.com/vplay/11596629.html",
+      "published_at": null,
+      "first_seen_at": "2026-06-14T20:05:32.549812Z",
+      "last_seen_at": "2026-06-14T20:05:32.549812Z",
+      "title_original": "吉利银河星舰7 EV远航家上市 A级纯电SUV新标杆！售9.98万元起！",
+      "title_en": null,
+      "title_zh": "吉利银河星舰7 EV远航家上市 A级纯电SUV新标杆！售9.98万元起！",
+      "title_bilingual": "吉利银河星舰7 EV远航家上市 A级纯电SUV新标杆！售9.98万元起！",
+      "topic_tags": [
+        "新能源",
+        "价格战",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "26170775e8aec6281e5f5e68b8ee8b1fb2a6b8e9",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "2026重庆车展：蓝鲸超擎4车齐发 油耗真能打五折",
+      "url": "http://vc.yiche.com/vplay/11646014.html",
+      "published_at": null,
+      "first_seen_at": "2026-06-14T20:05:32.549812Z",
+      "last_seen_at": "2026-06-14T20:05:32.549812Z",
+      "title_original": "2026重庆车展：蓝鲸超擎4车齐发 油耗真能打五折",
+      "title_en": null,
+      "title_zh": "2026重庆车展：蓝鲸超擎4车齐发 油耗真能打五折",
+      "title_bilingual": "2026重庆车展：蓝鲸超擎4车齐发 油耗真能打五折",
+      "topic_tags": [
+        "新车上市"
+      ]
+    },
+    {
+      "id": "eac2cff2be264f787020abcb78ea774df3e4efbb",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "极狐贝塔T1官图首发！销量担当上市9个月焕新，空间再度加大",
+      "url": "http://vc.yiche.com/vplay/11611847.html",
+      "published_at": null,
+      "first_seen_at": "2026-06-14T20:05:32.549812Z",
+      "last_seen_at": "2026-06-14T20:05:32.549812Z",
+      "title_original": "极狐贝塔T1官图首发！销量担当上市9个月焕新，空间再度加大",
+      "title_en": null,
+      "title_zh": "极狐贝塔T1官图首发！销量担当上市9个月焕新，空间再度加大",
+      "title_bilingual": "极狐贝塔T1官图首发！销量担当上市9个月焕新，空间再度加大",
+      "topic_tags": [
+        "销量市场",
+        "新车上市"
+      ]
+    },
     {
       "id": "bd923b7b8e2827701179daf93aca4c5b7f1515fd",
       "site_id": "tophub",
@@ -69,7 +206,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/66fcbb6c49c29e88/115272949-1.html",
       "published_at": null,
       "first_seen_at": "2026-06-14T16:55:01.620017Z",
-      "last_seen_at": "2026-06-14T18:10:20.431834Z",
+      "last_seen_at": "2026-06-14T20:05:32.549812Z",
       "title_original": "符合自身预期 小鹏MONA M03提车分享",
       "title_en": null,
       "title_zh": "符合自身预期 小鹏MONA M03提车分享",
@@ -88,7 +225,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/2394b5027d39ca40/115272313-1.html",
       "published_at": null,
       "first_seen_at": "2026-06-14T16:55:01.620017Z",
-      "last_seen_at": "2026-06-14T18:10:20.431834Z",
+      "last_seen_at": "2026-06-14T20:05:32.549812Z",
       "title_original": "满足核心需求 QQ3 EV提车作业分享",
       "title_en": null,
       "title_zh": "满足核心需求 QQ3 EV提车作业分享",
@@ -107,7 +244,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/9a8285f1231f741e/115272083-1.html",
       "published_at": null,
       "first_seen_at": "2026-06-14T16:55:01.620017Z",
-      "last_seen_at": "2026-06-14T18:10:20.431834Z",
+      "last_seen_at": "2026-06-14T20:05:32.549812Z",
       "title_original": "让人欲罢不能 iCAR V27提车作业分享",
       "title_en": null,
       "title_zh": "让人欲罢不能 iCAR V27提车作业分享",
@@ -125,7 +262,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/da49732ad26137e9/115271716-1.html",
       "published_at": null,
       "first_seen_at": "2026-06-14T16:55:01.620017Z",
-      "last_seen_at": "2026-06-14T18:10:20.431834Z",
+      "last_seen_at": "2026-06-14T20:05:32.549812Z",
       "title_original": "家里人都满意 理想i6提车作业分享",
       "title_en": null,
       "title_zh": "家里人都满意 理想i6提车作业分享",
@@ -144,7 +281,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/1d42d1ea4ef659e5/115270286-1.html",
       "published_at": null,
       "first_seen_at": "2026-06-14T16:55:01.620017Z",
-      "last_seen_at": "2026-06-14T18:10:20.431834Z",
+      "last_seen_at": "2026-06-14T20:05:32.549812Z",
       "title_original": "越看越喜欢 长安启源Q05提车分享",
       "title_en": null,
       "title_zh": "越看越喜欢 长安启源Q05提车分享",
@@ -163,7 +300,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/db5d78a156ce2b2a/115152418-1.html",
       "published_at": null,
       "first_seen_at": "2026-06-14T16:55:01.620017Z",
-      "last_seen_at": "2026-06-14T18:10:20.431834Z",
+      "last_seen_at": "2026-06-14T20:05:32.549812Z",
       "title_original": "父亲很满意 宋Ultra EV提车记分享",
       "title_en": null,
       "title_zh": "父亲很满意 宋Ultra EV提车记分享",
@@ -182,7 +319,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/e7cbe7ba777716da/115336283-1.html",
       "published_at": null,
       "first_seen_at": "2026-06-14T16:55:01.620017Z",
-      "last_seen_at": "2026-06-14T18:10:20.431834Z",
+      "last_seen_at": "2026-06-14T20:05:32.549812Z",
       "title_original": "春风550clc试驾评测报告真实分享",
       "title_en": null,
       "title_zh": "春风550clc试驾评测报告真实分享",
@@ -200,7 +337,7 @@
       "url": "https://www.dongchedi.com/article/7650719797550711358",
       "published_at": null,
       "first_seen_at": "2026-06-14T08:14:39.794890Z",
-      "last_seen_at": "2026-06-14T18:10:20.431834Z",
+      "last_seen_at": "2026-06-14T20:05:32.549812Z",
       "title_original": "14.98 万起，2.0T+9HAT 插混，长城炮 Hi4-T 能成为爆款么？",
       "title_en": null,
       "title_zh": "14.98 万起，2.0T+9HAT 插混，长城炮 Hi4-T 能成为爆款么？",
@@ -219,7 +356,7 @@
       "url": "https://carnewschina.com/2026/06/14/why-byd-is-building-a-0-04-usd-sodium-battery-fortress-where-catl-isnt-looking",
       "published_at": "2026-06-14T08:12:58Z",
       "first_seen_at": "2026-06-14T08:14:39.794890Z",
-      "last_seen_at": "2026-06-14T18:10:20.431834Z",
+      "last_seen_at": "2026-06-14T20:05:32.549812Z",
       "title_original": "Why BYD is building a 0.04 USD sodium battery fortress where CATL isn’t looking",
       "title_en": "Why BYD is building a 0.04 USD sodium battery fortress where CATL isn’t looking",
       "title_zh": "为什么比亚迪要在宁德时代不注意的情况下建造0.04美元的钠电池堡垒",
@@ -239,7 +376,7 @@
       "url": "https://carnewschina.com/2026/06/14/nissan-president-we-are-learning-from-china-to-accelerate-our-development-speed",
       "published_at": "2026-06-14T07:49:09Z",
       "first_seen_at": "2026-06-14T08:14:39.794890Z",
-      "last_seen_at": "2026-06-14T18:10:20.431834Z",
+      "last_seen_at": "2026-06-14T20:05:32.549812Z",
       "title_original": "Nissan president: we are learning from China to accelerate our development speed",
       "title_en": "Nissan president: we are learning from China to accelerate our development speed",
       "title_zh": "日产总裁：我们正在向中国学习，加快发展速度",
@@ -257,7 +394,7 @@
       "url": "https://carnewschina.com/2026/06/14/changan-partners-with-portugals-football-team-one-goal-one-free-deepal-car-in-china-during-world-cup",
       "published_at": "2026-06-14T06:32:09Z",
       "first_seen_at": "2026-06-14T08:14:39.794890Z",
-      "last_seen_at": "2026-06-14T18:10:20.431834Z",
+      "last_seen_at": "2026-06-14T20:05:32.549812Z",
       "title_original": "Changan partners with Portugal’s football team, one goal = one “free” Deepal car in China during World Cup",
       "title_en": "Changan partners with Portugal’s football team, one goal = one “free” Deepal car in China during World Cup",
       "title_zh": "长安汽车与葡萄牙足球队合作，世界杯期间在中国“免费”一粒进球=一辆深宝汽车",
@@ -361,6 +498,139 @@
   ],
   "items_ai": [
     {
+      "id": "3d880b5c1a99fb5c43d6bcd42a2946284f4f3dde",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "北京81 VJ版来了，增程+三把锁，真能平替G63",
+      "url": "http://vc.yiche.com/vplay/11628269.html",
+      "published_at": null,
+      "first_seen_at": "2026-06-14T20:05:32.549812Z",
+      "last_seen_at": "2026-06-14T20:05:32.549812Z",
+      "title_original": "北京81 VJ版来了，增程+三把锁，真能平替G63",
+      "title_en": null,
+      "title_zh": "北京81 VJ版来了，增程+三把锁，真能平替G63",
+      "title_bilingual": "北京81 VJ版来了，增程+三把锁，真能平替G63",
+      "topic_tags": [
+        "新能源"
+      ]
+    },
+    {
+      "id": "d2546ac06324a375d95b456cd9abad29293a7c67",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "试驾吉利星越L混动，1.5T智擎体验如何？首选哪个配置？",
+      "url": "http://vc.yiche.com/vplay/11600283.html",
+      "published_at": null,
+      "first_seen_at": "2026-06-14T20:05:32.549812Z",
+      "last_seen_at": "2026-06-14T20:05:32.549812Z",
+      "title_original": "试驾吉利星越L混动，1.5T智擎体验如何？首选哪个配置？",
+      "title_en": null,
+      "title_zh": "试驾吉利星越L混动，1.5T智擎体验如何？首选哪个配置？",
+      "title_bilingual": "试驾吉利星越L混动，1.5T智擎体验如何？首选哪个配置？",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "e0a4850c0d987eec6dc51707db25419de51092b8",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "供不应求，体验小鹏GX，它做对了什么？",
+      "url": "http://vc.yiche.com/vplay/11614570.html",
+      "published_at": null,
+      "first_seen_at": "2026-06-14T20:05:32.549812Z",
+      "last_seen_at": "2026-06-14T20:05:32.549812Z",
+      "title_original": "供不应求，体验小鹏GX，它做对了什么？",
+      "title_en": null,
+      "title_zh": "供不应求，体验小鹏GX，它做对了什么？",
+      "title_bilingual": "供不应求，体验小鹏GX，它做对了什么？",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "7a4c45a457e24310d338de76593cb9c9fc36eda6",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "余承东心心念的硬派SUV来了",
+      "url": "http://vc.yiche.com/vplay/11607374.html",
+      "published_at": null,
+      "first_seen_at": "2026-06-14T20:05:32.549812Z",
+      "last_seen_at": "2026-06-14T20:05:32.549812Z",
+      "title_original": "余承东心心念的硬派SUV来了",
+      "title_en": null,
+      "title_zh": "余承东心心念的硬派SUV来了",
+      "title_bilingual": "余承东心心念的硬派SUV来了",
+      "topic_tags": [
+        "新车上市"
+      ]
+    },
+    {
+      "id": "f9eb2592c27cd518d82463f621e6567a4de02796",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "吉利银河星舰7 EV远航家上市 A级纯电SUV新标杆！售9.98万元起！",
+      "url": "http://vc.yiche.com/vplay/11596629.html",
+      "published_at": null,
+      "first_seen_at": "2026-06-14T20:05:32.549812Z",
+      "last_seen_at": "2026-06-14T20:05:32.549812Z",
+      "title_original": "吉利银河星舰7 EV远航家上市 A级纯电SUV新标杆！售9.98万元起！",
+      "title_en": null,
+      "title_zh": "吉利银河星舰7 EV远航家上市 A级纯电SUV新标杆！售9.98万元起！",
+      "title_bilingual": "吉利银河星舰7 EV远航家上市 A级纯电SUV新标杆！售9.98万元起！",
+      "topic_tags": [
+        "新能源",
+        "价格战",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "26170775e8aec6281e5f5e68b8ee8b1fb2a6b8e9",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "2026重庆车展：蓝鲸超擎4车齐发 油耗真能打五折",
+      "url": "http://vc.yiche.com/vplay/11646014.html",
+      "published_at": null,
+      "first_seen_at": "2026-06-14T20:05:32.549812Z",
+      "last_seen_at": "2026-06-14T20:05:32.549812Z",
+      "title_original": "2026重庆车展：蓝鲸超擎4车齐发 油耗真能打五折",
+      "title_en": null,
+      "title_zh": "2026重庆车展：蓝鲸超擎4车齐发 油耗真能打五折",
+      "title_bilingual": "2026重庆车展：蓝鲸超擎4车齐发 油耗真能打五折",
+      "topic_tags": [
+        "新车上市"
+      ]
+    },
+    {
+      "id": "eac2cff2be264f787020abcb78ea774df3e4efbb",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "极狐贝塔T1官图首发！销量担当上市9个月焕新，空间再度加大",
+      "url": "http://vc.yiche.com/vplay/11611847.html",
+      "published_at": null,
+      "first_seen_at": "2026-06-14T20:05:32.549812Z",
+      "last_seen_at": "2026-06-14T20:05:32.549812Z",
+      "title_original": "极狐贝塔T1官图首发！销量担当上市9个月焕新，空间再度加大",
+      "title_en": null,
+      "title_zh": "极狐贝塔T1官图首发！销量担当上市9个月焕新，空间再度加大",
+      "title_bilingual": "极狐贝塔T1官图首发！销量担当上市9个月焕新，空间再度加大",
+      "topic_tags": [
+        "销量市场",
+        "新车上市"
+      ]
+    },
+    {
       "id": "bd923b7b8e2827701179daf93aca4c5b7f1515fd",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -369,7 +639,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/66fcbb6c49c29e88/115272949-1.html",
       "published_at": null,
       "first_seen_at": "2026-06-14T16:55:01.620017Z",
-      "last_seen_at": "2026-06-14T18:10:20.431834Z",
+      "last_seen_at": "2026-06-14T20:05:32.549812Z",
       "title_original": "符合自身预期 小鹏MONA M03提车分享",
       "title_en": null,
       "title_zh": "符合自身预期 小鹏MONA M03提车分享",
@@ -388,7 +658,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/2394b5027d39ca40/115272313-1.html",
       "published_at": null,
       "first_seen_at": "2026-06-14T16:55:01.620017Z",
-      "last_seen_at": "2026-06-14T18:10:20.431834Z",
+      "last_seen_at": "2026-06-14T20:05:32.549812Z",
       "title_original": "满足核心需求 QQ3 EV提车作业分享",
       "title_en": null,
       "title_zh": "满足核心需求 QQ3 EV提车作业分享",
@@ -407,7 +677,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/9a8285f1231f741e/115272083-1.html",
       "published_at": null,
       "first_seen_at": "2026-06-14T16:55:01.620017Z",
-      "last_seen_at": "2026-06-14T18:10:20.431834Z",
+      "last_seen_at": "2026-06-14T20:05:32.549812Z",
       "title_original": "让人欲罢不能 iCAR V27提车作业分享",
       "title_en": null,
       "title_zh": "让人欲罢不能 iCAR V27提车作业分享",
@@ -425,7 +695,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/da49732ad26137e9/115271716-1.html",
       "published_at": null,
       "first_seen_at": "2026-06-14T16:55:01.620017Z",
-      "last_seen_at": "2026-06-14T18:10:20.431834Z",
+      "last_seen_at": "2026-06-14T20:05:32.549812Z",
       "title_original": "家里人都满意 理想i6提车作业分享",
       "title_en": null,
       "title_zh": "家里人都满意 理想i6提车作业分享",
@@ -444,7 +714,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/1d42d1ea4ef659e5/115270286-1.html",
       "published_at": null,
       "first_seen_at": "2026-06-14T16:55:01.620017Z",
-      "last_seen_at": "2026-06-14T18:10:20.431834Z",
+      "last_seen_at": "2026-06-14T20:05:32.549812Z",
       "title_original": "越看越喜欢 长安启源Q05提车分享",
       "title_en": null,
       "title_zh": "越看越喜欢 长安启源Q05提车分享",
@@ -463,7 +733,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/db5d78a156ce2b2a/115152418-1.html",
       "published_at": null,
       "first_seen_at": "2026-06-14T16:55:01.620017Z",
-      "last_seen_at": "2026-06-14T18:10:20.431834Z",
+      "last_seen_at": "2026-06-14T20:05:32.549812Z",
       "title_original": "父亲很满意 宋Ultra EV提车记分享",
       "title_en": null,
       "title_zh": "父亲很满意 宋Ultra EV提车记分享",
@@ -482,7 +752,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/e7cbe7ba777716da/115336283-1.html",
       "published_at": null,
       "first_seen_at": "2026-06-14T16:55:01.620017Z",
-      "last_seen_at": "2026-06-14T18:10:20.431834Z",
+      "last_seen_at": "2026-06-14T20:05:32.549812Z",
       "title_original": "春风550clc试驾评测报告真实分享",
       "title_en": null,
       "title_zh": "春风550clc试驾评测报告真实分享",
@@ -500,7 +770,7 @@
       "url": "https://www.dongchedi.com/article/7650719797550711358",
       "published_at": null,
       "first_seen_at": "2026-06-14T08:14:39.794890Z",
-      "last_seen_at": "2026-06-14T18:10:20.431834Z",
+      "last_seen_at": "2026-06-14T20:05:32.549812Z",
       "title_original": "14.98 万起，2.0T+9HAT 插混，长城炮 Hi4-T 能成为爆款么？",
       "title_en": null,
       "title_zh": "14.98 万起，2.0T+9HAT 插混，长城炮 Hi4-T 能成为爆款么？",
@@ -519,7 +789,7 @@
       "url": "https://carnewschina.com/2026/06/14/why-byd-is-building-a-0-04-usd-sodium-battery-fortress-where-catl-isnt-looking",
       "published_at": "2026-06-14T08:12:58Z",
       "first_seen_at": "2026-06-14T08:14:39.794890Z",
-      "last_seen_at": "2026-06-14T18:10:20.431834Z",
+      "last_seen_at": "2026-06-14T20:05:32.549812Z",
       "title_original": "Why BYD is building a 0.04 USD sodium battery fortress where CATL isn’t looking",
       "title_en": "Why BYD is building a 0.04 USD sodium battery fortress where CATL isn’t looking",
       "title_zh": "为什么比亚迪要在宁德时代不注意的情况下建造0.04美元的钠电池堡垒",
@@ -539,7 +809,7 @@
       "url": "https://carnewschina.com/2026/06/14/nissan-president-we-are-learning-from-china-to-accelerate-our-development-speed",
       "published_at": "2026-06-14T07:49:09Z",
       "first_seen_at": "2026-06-14T08:14:39.794890Z",
-      "last_seen_at": "2026-06-14T18:10:20.431834Z",
+      "last_seen_at": "2026-06-14T20:05:32.549812Z",
       "title_original": "Nissan president: we are learning from China to accelerate our development speed",
       "title_en": "Nissan president: we are learning from China to accelerate our development speed",
       "title_zh": "日产总裁：我们正在向中国学习，加快发展速度",
@@ -557,7 +827,7 @@
       "url": "https://carnewschina.com/2026/06/14/changan-partners-with-portugals-football-team-one-goal-one-free-deepal-car-in-china-during-world-cup",
       "published_at": "2026-06-14T06:32:09Z",
       "first_seen_at": "2026-06-14T08:14:39.794890Z",
-      "last_seen_at": "2026-06-14T18:10:20.431834Z",
+      "last_seen_at": "2026-06-14T20:05:32.549812Z",
       "title_original": "Changan partners with Portugal’s football team, one goal = one “free” Deepal car in China during World Cup",
       "title_en": "Changan partners with Portugal’s football team, one goal = one “free” Deepal car in China during World Cup",
       "title_zh": "长安汽车与葡萄牙足球队合作，世界杯期间在中国“免费”一粒进球=一辆深宝汽车",
