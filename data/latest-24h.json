@@ -1,62 +1,62 @@
 {
-  "generated_at": "2026-06-25T23:51:39.091931Z",
+  "generated_at": "2026-06-26T03:29:12.353189Z",
   "window_hours": 24,
-  "total_items": 28,
-  "total_items_ai_raw": 31,
-  "total_items_raw": 3319,
-  "total_items_all_mode": 3067,
+  "total_items": 43,
+  "total_items_ai_raw": 48,
+  "total_items_raw": 3793,
+  "total_items_all_mode": 3484,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 67770,
+  "archive_total": 68400,
   "site_count": 3,
-  "source_count": 8,
+  "source_count": 10,
   "site_stats": [
     {
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "count": 17,
-      "raw_count": 20
+      "count": 32,
+      "raw_count": 37
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "count": 11,
-      "raw_count": 3120
+      "raw_count": 3567
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "count": 0,
-      "raw_count": 179
+      "raw_count": 189
     }
   ],
   "topic_tag_stats": [
     {
-      "tag": "新能源",
-      "count": 17
-    },
-    {
       "tag": "车企竞争",
-      "count": 15
+      "count": 24
     },
     {
-      "tag": "补能电池",
-      "count": 10
+      "tag": "新能源",
+      "count": 19
     },
     {
       "tag": "新车上市",
-      "count": 7
+      "count": 9
+    },
+    {
+      "tag": "补能电池",
+      "count": 9
+    },
+    {
+      "tag": "供应链",
+      "count": 5
     },
     {
       "tag": "购车决策",
       "count": 5
     },
     {
-      "tag": "供应链",
-      "count": 2
-    },
-    {
       "tag": "销量市场",
-      "count": 2
+      "count": 5
     },
     {
       "tag": "价格战",
@@ -65,13 +65,70 @@
     {
       "tag": "召回安全",
       "count": 1
-    },
-    {
-      "tag": "智能驾驶",
-      "count": 1
     }
   ],
   "items": [
+    {
+      "id": "d8cbcd2cfc3668cacaceae6d19bd95ca8b635b28",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Nio's William Li sees China NEV penetration topping 90% by 2030",
+      "url": "https://cnevpost.com/2026/06/26/nio-li-china-nev-penetration-90-2030",
+      "published_at": "2026-06-26T03:09:39Z",
+      "first_seen_at": "2026-06-26T03:29:12.353189Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
+      "title_original": "Nio's William Li sees China NEV penetration topping 90% by 2030",
+      "title_en": "Nio's William Li sees China NEV penetration topping 90% by 2030",
+      "title_zh": "蔚来汽车创始人李斌预计，到2030年，中国新能源汽车渗透率将突破90%",
+      "title_bilingual": "蔚来汽车创始人李斌预计，到2030年，中国新能源汽车渗透率将突破90% / Nio's William Li sees China NEV penetration topping 90% by 2030",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "f0fc5b5970841a0359f440058280def7590dd99a",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "BYD sub-brand Linghui to launch M9 business MPV on June 29",
+      "url": "https://cnevpost.com/2026/06/26/byd-linghui-launch-m9-mpv-jun-29",
+      "published_at": "2026-06-26T02:45:17Z",
+      "first_seen_at": "2026-06-26T03:29:12.353189Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
+      "title_original": "BYD sub-brand Linghui to launch M9 business MPV on June 29",
+      "title_en": "BYD sub-brand Linghui to launch M9 business MPV on June 29",
+      "title_zh": "比亚迪子品牌领辉商务MPV M9将于6月29日上市",
+      "title_bilingual": "比亚迪子品牌领辉商务MPV M9将于6月29日上市 / BYD sub-brand Linghui to launch M9 business MPV on June 29",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "b574fd46a2b5a5d87c3a7cbf266abb5183610b7e",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Nio hits 10,000th ES9 delivery as flagship SUV gains traction",
+      "url": "https://cnevpost.com/2026/06/26/nio-hits-10000th-es9-delivery",
+      "published_at": "2026-06-26T01:12:17Z",
+      "first_seen_at": "2026-06-26T03:29:12.353189Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
+      "title_original": "Nio hits 10,000th ES9 delivery as flagship SUV gains traction",
+      "title_en": "Nio hits 10,000th ES9 delivery as flagship SUV gains traction",
+      "title_zh": "蔚来 ES9 交付量突破 10,000 辆，旗舰 SUV 备受关注",
+      "title_bilingual": "蔚来 ES9 交付量突破 10,000 辆，旗舰 SUV 备受关注 / Nio hits 10,000th ES9 delivery as flagship SUV gains traction",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
     {
       "id": "1049eff7044ccc6e214d8395fb6156a921ed9568",
       "site_id": "official_auto",
@@ -81,7 +138,7 @@
       "url": "https://carnewschina.com/2026/06/26/catl-says-sodium-batteries-are-ready-top-china-insider-at-davos-says-wait-5-years",
       "published_at": "2026-06-25T23:40:20Z",
       "first_seen_at": "2026-06-25T23:51:39.091931Z",
-      "last_seen_at": "2026-06-25T23:51:39.091931Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
       "title_original": "CATL says sodium batteries are ready, top China insider at Davos says wait 5 years",
       "title_en": "CATL says sodium batteries are ready, top China insider at Davos says wait 5 years",
       "title_zh": "宁德时代称钠电池已准备就绪，达沃斯中国高层人士称还要等5年",
@@ -100,7 +157,7 @@
       "url": "http://vc.yiche.com/vplay/11794155.html",
       "published_at": null,
       "first_seen_at": "2026-06-25T20:53:59.692533Z",
-      "last_seen_at": "2026-06-25T23:51:39.091931Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
       "title_original": "银河战舰700官图曝光 1128马力三电机四驱 AI全地形硬核SUV",
       "title_en": null,
       "title_zh": "银河战舰700官图曝光 1128马力三电机四驱 AI全地形硬核SUV",
@@ -119,7 +176,7 @@
       "url": "http://vc.yiche.com/vplay/11798481.html",
       "published_at": null,
       "first_seen_at": "2026-06-25T20:53:59.692533Z",
-      "last_seen_at": "2026-06-25T23:51:39.091931Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
       "title_original": "上市半年才爆火的紧凑级纯电SUV启源Q05，凭什么？",
       "title_en": null,
       "title_zh": "上市半年才爆火的紧凑级纯电SUV启源Q05，凭什么？",
@@ -138,7 +195,7 @@
       "url": "http://vc.yiche.com/vplay/11800021.html",
       "published_at": null,
       "first_seen_at": "2026-06-25T20:53:59.692533Z",
-      "last_seen_at": "2026-06-25T23:51:39.091931Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
       "title_original": "四万出头的方盒子，试驾吉利熊猫勇士，代步车界“显眼包”！",
       "title_en": null,
       "title_zh": "四万出头的方盒子，试驾吉利熊猫勇士，代步车界“显眼包”！",
@@ -157,7 +214,7 @@
       "url": "http://vc.yiche.com/vplay/11777558.html",
       "published_at": null,
       "first_seen_at": "2026-06-25T20:53:59.692533Z",
-      "last_seen_at": "2026-06-25T23:51:39.091931Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
       "title_original": "正经迪吹秦Max带着二代刀片电池要来了！手握13万，现在该不该买秦L EV？",
       "title_en": null,
       "title_zh": "正经迪吹秦Max带着二代刀片电池要来了！手握13万，现在该不该买秦L EV？",
@@ -176,7 +233,7 @@
       "url": "http://vc.yiche.com/vplay/11817178.html",
       "published_at": null,
       "first_seen_at": "2026-06-25T20:53:59.692533Z",
-      "last_seen_at": "2026-06-25T23:51:39.091931Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
       "title_original": "把颜值和豪华座舱及配置拉满 综合续航竟然接近2000公里 抢先实拍全新红旗H7",
       "title_en": null,
       "title_zh": "把颜值和豪华座舱及配置拉满 综合续航竟然接近2000公里 抢先实拍全新红旗H7",
@@ -194,7 +251,7 @@
       "url": "http://vc.yiche.com/vplay/11786266.html",
       "published_at": null,
       "first_seen_at": "2026-06-25T20:53:59.692533Z",
-      "last_seen_at": "2026-06-25T23:51:39.091931Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
       "title_original": "实测第5代帝豪混动版，油耗2.9L，首选哪个版本？",
       "title_en": null,
       "title_zh": "实测第5代帝豪混动版，油耗2.9L，首选哪个版本？",
@@ -212,7 +269,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/802f3efeeb40270f/115348990-1.html",
       "published_at": null,
       "first_seen_at": "2026-06-25T18:31:49.335565Z",
-      "last_seen_at": "2026-06-25T23:51:39.091931Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
       "title_original": "符合选车初衷 理想i6提车作业分享",
       "title_en": null,
       "title_zh": "符合选车初衷 理想i6提车作业分享",
@@ -231,7 +288,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/8043451b1807a30d/115346201-1.html",
       "published_at": null,
       "first_seen_at": "2026-06-25T18:31:49.335565Z",
-      "last_seen_at": "2026-06-25T23:51:39.091931Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
       "title_original": "回头率收割机 极氪007GT提车记分享",
       "title_en": null,
       "title_zh": "回头率收割机 极氪007GT提车记分享",
@@ -250,7 +307,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/7bd494649a956595/115335981-1.html",
       "published_at": null,
       "first_seen_at": "2026-06-25T18:31:49.335565Z",
-      "last_seen_at": "2026-06-25T23:51:39.091931Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
       "title_original": "外观很惊艳 零跑B01提车作业分享",
       "title_en": null,
       "title_zh": "外观很惊艳 零跑B01提车作业分享",
@@ -269,7 +326,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/b4b63a63d8008700/115335834-1.html",
       "published_at": null,
       "first_seen_at": "2026-06-25T16:21:52.271677Z",
-      "last_seen_at": "2026-06-25T23:51:39.091931Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
       "title_original": "家用很满意 小鹏G7提车作业分享",
       "title_en": null,
       "title_zh": "家用很满意 小鹏G7提车作业分享",
@@ -288,7 +345,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/0b985044ace562c4/115329744-1.html",
       "published_at": null,
       "first_seen_at": "2026-06-25T16:21:52.271677Z",
-      "last_seen_at": "2026-06-25T23:51:39.091931Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
       "title_original": "长安UNI-K踏板拆装 附沿海养护攻略",
       "title_en": null,
       "title_zh": "长安UNI-K踏板拆装 附沿海养护攻略",
@@ -306,7 +363,7 @@
       "url": "https://cnevpost.com/2026/06/25/maextro-unveils-v800-v680",
       "published_at": "2026-06-25T13:57:58Z",
       "first_seen_at": "2026-06-25T16:21:52.271677Z",
-      "last_seen_at": "2026-06-25T23:51:39.091931Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
       "title_original": "Maextro unveils two ultra-luxury MPVs, expanding premium lineup",
       "title_en": "Maextro unveils two ultra-luxury MPVs, expanding premium lineup",
       "title_zh": "Maextro 推出两款超豪华 MPV，扩大高端产品阵容",
@@ -325,7 +382,7 @@
       "url": "https://cnevpost.com/2026/06/25/maextro-launches-s800-grand-design",
       "published_at": "2026-06-25T13:19:54Z",
       "first_seen_at": "2026-06-25T13:34:51.114800Z",
-      "last_seen_at": "2026-06-25T23:51:39.091931Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
       "title_original": "Huawei-backed Maextro launches S800 Grand Design, deepening push into ultra-luxury market",
       "title_en": "Huawei-backed Maextro launches S800 Grand Design, deepening push into ultra-luxury market",
       "title_zh": "华为支持的Maextro推出S800 Grand Design，深入进军超豪华市场",
@@ -344,7 +401,7 @@
       "url": "https://cnevpost.com/2026/06/25/leapmotor-d99-launch",
       "published_at": "2026-06-25T12:37:35Z",
       "first_seen_at": "2026-06-25T13:34:51.114800Z",
-      "last_seen_at": "2026-06-25T23:51:39.091931Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
       "title_original": "Leapmotor enters MPV market with D99 launch",
       "title_en": "Leapmotor enters MPV market with D99 launch",
       "title_zh": "零跑进军MPV市场 D99上市",
@@ -365,7 +422,7 @@
       "url": "https://carnewschina.com/2026/06/25/leapmotor-launches-d99-mpv-in-china-115-kwh-battery-for-bev-and-80-3-kwh-for-erev-36700-usd",
       "published_at": "2026-06-25T12:35:37Z",
       "first_seen_at": "2026-06-25T13:34:51.114800Z",
-      "last_seen_at": "2026-06-25T23:51:39.091931Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
       "title_original": "Leapmotor launches D99 MPV in China: 115 kWh battery for BEV and 80.3 kWh for EREV, 36,700 USD",
       "title_en": "Leapmotor launches D99 MPV in China: 115 kWh battery for BEV and 80.3 kWh for EREV, 36,700 USD",
       "title_zh": "零跑在中国推出D99 MPV：纯电动115千瓦时电池、增程式电动80.3千瓦时，36,700美元",
@@ -386,7 +443,7 @@
       "url": "https://cnevpost.com/2026/06/25/byd-broadens-energy-storage-lineup-europe",
       "published_at": "2026-06-25T11:52:20Z",
       "first_seen_at": "2026-06-25T13:34:51.114800Z",
-      "last_seen_at": "2026-06-25T23:51:39.091931Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
       "title_original": "BYD broadens energy storage lineup in Europe, targeting homes and businesses",
       "title_en": "BYD broadens energy storage lineup in Europe, targeting homes and businesses",
       "title_zh": "比亚迪扩大欧洲储能产品线，瞄准家庭和企业",
@@ -394,6 +451,182 @@
       "topic_tags": [
         "补能电池",
         "车企竞争"
+      ]
+    },
+    {
+      "id": "d175602461b50a70609c18f60e31944cb284cc7e",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "小鹏X9全球累计交付突破6万台",
+      "url": "https://auto.gasgoo.com/news/202606/25I70463195C109.shtml",
+      "published_at": "2026-06-25T11:19:01Z",
+      "first_seen_at": "2026-06-26T03:29:12.353189Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
+      "title_original": "小鹏X9全球累计交付突破6万台",
+      "title_en": null,
+      "title_zh": "小鹏X9全球累计交付突破6万台",
+      "title_bilingual": "小鹏X9全球累计交付突破6万台",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "c5198de2d7ab9675efce89aa15f677c09385707b",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "雷诺计划在法国工程部门裁员800人",
+      "url": "https://auto.gasgoo.com/news/202606/25I70463194C109.shtml",
+      "published_at": "2026-06-25T11:04:51Z",
+      "first_seen_at": "2026-06-26T03:29:12.353189Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
+      "title_original": "雷诺计划在法国工程部门裁员800人",
+      "title_en": null,
+      "title_zh": "雷诺计划在法国工程部门裁员800人",
+      "title_bilingual": "雷诺计划在法国工程部门裁员800人",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "348efaa3fbf709feb73011d048dce60e460351fd",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "3.7亿存量车，是汽车消费的新“金矿”",
+      "url": "https://auto.gasgoo.com/news/202606/25I70463192C108.shtml",
+      "published_at": "2026-06-25T10:45:55Z",
+      "first_seen_at": "2026-06-26T03:29:12.353189Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
+      "title_original": "3.7亿存量车，是汽车消费的新“金矿”",
+      "title_en": null,
+      "title_zh": "3.7亿存量车，是汽车消费的新“金矿”",
+      "title_bilingual": "3.7亿存量车，是汽车消费的新“金矿”",
+      "topic_tags": []
+    },
+    {
+      "id": "19c94f32b648832415a69c7b55dd24acffc99438",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "【国际快讯】日本拟大举投资AI、半导体等产业；雷诺计划在法国裁减800个工程岗位；通用汽车向巴西追加6.75亿美元投资",
+      "url": "https://auto.gasgoo.com/news/202606/25I70463111C108.shtml",
+      "published_at": "2026-06-25T10:39:04Z",
+      "first_seen_at": "2026-06-26T03:29:12.353189Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
+      "title_original": "【国际快讯】日本拟大举投资AI、半导体等产业；雷诺计划在法国裁减800个工程岗位；通用汽车向巴西追加6.75亿美元投资",
+      "title_en": null,
+      "title_zh": "【国际快讯】日本拟大举投资AI、半导体等产业；雷诺计划在法国裁减800个工程岗位；通用汽车向巴西追加6.75亿美元投资",
+      "title_bilingual": "【国际快讯】日本拟大举投资AI、半导体等产业；雷诺计划在法国裁减800个工程岗位；通用汽车向巴西追加6.75亿美元投资",
+      "topic_tags": []
+    },
+    {
+      "id": "f94501e6a2ebaad55ff9d6fa99024aa91b8879a3",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "大众拟向贝恩资本出售船用发动机子公司Everllence 51%股权",
+      "url": "https://auto.gasgoo.com/news/202606/25I70463191C109.shtml",
+      "published_at": "2026-06-25T10:23:54Z",
+      "first_seen_at": "2026-06-26T03:29:12.353189Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
+      "title_original": "大众拟向贝恩资本出售船用发动机子公司Everllence 51%股权",
+      "title_en": null,
+      "title_zh": "大众拟向贝恩资本出售船用发动机子公司Everllence 51%股权",
+      "title_bilingual": "大众拟向贝恩资本出售船用发动机子公司Everllence 51%股权",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "ddbe28de7182538728a0e11f839350ea96265552",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新能源",
+      "title": "谁在定义纯电时代？",
+      "url": "https://auto.gasgoo.com/news/202606/25I70463189C501.shtml",
+      "published_at": "2026-06-25T10:11:02Z",
+      "first_seen_at": "2026-06-26T03:29:12.353189Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
+      "title_original": "谁在定义纯电时代？",
+      "title_en": null,
+      "title_zh": "谁在定义纯电时代？",
+      "title_bilingual": "谁在定义纯电时代？",
+      "topic_tags": [
+        "新能源"
+      ]
+    },
+    {
+      "id": "58c36aeb69b05ba68dde71296082cc69078fc8ed",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-供应链",
+      "title": "又一外资企业亚太区总部签约上海嘉定",
+      "url": "https://auto.gasgoo.com/news/202606/25I70463188C103.shtml",
+      "published_at": "2026-06-25T09:53:16Z",
+      "first_seen_at": "2026-06-26T03:29:12.353189Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
+      "title_original": "又一外资企业亚太区总部签约上海嘉定",
+      "title_en": null,
+      "title_zh": "又一外资企业亚太区总部签约上海嘉定",
+      "title_bilingual": "又一外资企业亚太区总部签约上海嘉定",
+      "topic_tags": [
+        "供应链"
+      ]
+    },
+    {
+      "id": "47ef6bf1015aaf256b490edc7ac89cde0c4cfac7",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "​岚图卢放：原材料普涨下汽车价格大概率上行",
+      "url": "https://auto.gasgoo.com/news/202606/25I70463186C109.shtml",
+      "published_at": "2026-06-25T09:43:21Z",
+      "first_seen_at": "2026-06-26T03:29:12.353189Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
+      "title_original": "​岚图卢放：原材料普涨下汽车价格大概率上行",
+      "title_en": null,
+      "title_zh": "​岚图卢放：原材料普涨下汽车价格大概率上行",
+      "title_bilingual": "​岚图卢放：原材料普涨下汽车价格大概率上行",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "378d6e69b861451ea9ea644dfdec0314b54c0e3e",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "曹操出行成立AI创新中心",
+      "url": "https://auto.gasgoo.com/news/202606/25I70463187C601.shtml",
+      "published_at": "2026-06-25T09:42:47Z",
+      "first_seen_at": "2026-06-26T03:29:12.353189Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
+      "title_original": "曹操出行成立AI创新中心",
+      "title_en": null,
+      "title_zh": "曹操出行成立AI创新中心",
+      "title_bilingual": "曹操出行成立AI创新中心",
+      "topic_tags": []
+    },
+    {
+      "id": "71d0fc8d2970da8bf2c62836e99cc17f3ded74f3",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "本田、日产、三菱计划统一新一代零部件标准，以此压缩成本",
+      "url": "https://auto.gasgoo.com/news/202606/25I70463185C109.shtml",
+      "published_at": "2026-06-25T09:40:36Z",
+      "first_seen_at": "2026-06-26T03:29:12.353189Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
+      "title_original": "本田、日产、三菱计划统一新一代零部件标准，以此压缩成本",
+      "title_en": null,
+      "title_zh": "本田、日产、三菱计划统一新一代零部件标准，以此压缩成本",
+      "title_bilingual": "本田、日产、三菱计划统一新一代零部件标准，以此压缩成本",
+      "topic_tags": [
+        "车企竞争",
+        "供应链"
       ]
     },
     {
@@ -405,13 +638,67 @@
       "url": "https://cnevpost.com/2026/06/25/china-unveils-plan-reshape-energy-system",
       "published_at": "2026-06-25T09:38:01Z",
       "first_seen_at": "2026-06-25T11:13:57.970476Z",
-      "last_seen_at": "2026-06-25T23:51:39.091931Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
       "title_original": "China unveils five-year plan to reshape its energy system",
       "title_en": "China unveils five-year plan to reshape its energy system",
       "title_zh": "中国公布重塑能源体系五年计划",
       "title_bilingual": "中国公布重塑能源体系五年计划 / China unveils five-year plan to reshape its energy system",
       "topic_tags": [
         "新能源"
+      ]
+    },
+    {
+      "id": "bdac7d997cdbb1f2a7546e0b99aae0ce6aa17c83",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-供应链",
+      "title": "总投资额约1亿美元，陶氏公司宣布扩产并增强创新能力",
+      "url": "https://auto.gasgoo.com/news/202606/25I70463184C103.shtml",
+      "published_at": "2026-06-25T09:34:01Z",
+      "first_seen_at": "2026-06-26T03:29:12.353189Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
+      "title_original": "总投资额约1亿美元，陶氏公司宣布扩产并增强创新能力",
+      "title_en": null,
+      "title_zh": "总投资额约1亿美元，陶氏公司宣布扩产并增强创新能力",
+      "title_bilingual": "总投资额约1亿美元，陶氏公司宣布扩产并增强创新能力",
+      "topic_tags": [
+        "供应链"
+      ]
+    },
+    {
+      "id": "e71dbcd9b01eb3b316be4a34fb6e8ac98947af18",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "长城汽车天津研发中心落地泰达",
+      "url": "https://auto.gasgoo.com/news/202606/25I70463183C109.shtml",
+      "published_at": "2026-06-25T09:23:03Z",
+      "first_seen_at": "2026-06-26T03:29:12.353189Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
+      "title_original": "长城汽车天津研发中心落地泰达",
+      "title_en": null,
+      "title_zh": "长城汽车天津研发中心落地泰达",
+      "title_bilingual": "长城汽车天津研发中心落地泰达",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "966c45e7864f4e6c88cf10777970f74372bdd5b8",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "银河通用Galbot S1，进入宁德时代打工",
+      "url": "https://auto.gasgoo.com/news/202606/25I70463182C601.shtml",
+      "published_at": "2026-06-25T09:19:10Z",
+      "first_seen_at": "2026-06-26T03:29:12.353189Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
+      "title_original": "银河通用Galbot S1，进入宁德时代打工",
+      "title_en": null,
+      "title_zh": "银河通用Galbot S1，进入宁德时代打工",
+      "title_bilingual": "银河通用Galbot S1，进入宁德时代打工",
+      "topic_tags": [
+        "补能电池"
       ]
     },
     {
@@ -423,7 +710,7 @@
       "url": "https://cnevpost.com/2026/06/25/catl-plans-36-battery-swap-stations-hk-2030",
       "published_at": "2026-06-25T09:00:40Z",
       "first_seen_at": "2026-06-25T11:13:57.970476Z",
-      "last_seen_at": "2026-06-25T23:51:39.091931Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
       "title_original": "CATL plans about 36 battery swap stations in Hong Kong by 2030",
       "title_en": "CATL plans about 36 battery swap stations in Hong Kong by 2030",
       "title_zh": "CATL计划到2030年在香港建立约36个电池更换站",
@@ -431,6 +718,41 @@
       "topic_tags": [
         "新能源",
         "补能电池"
+      ]
+    },
+    {
+      "id": "fb8ba1895921edf77744e7ba307423fc7a3670f0",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "京东与魔法原子达成战略合作",
+      "url": "https://auto.gasgoo.com/news/202606/25I70463094C601.shtml",
+      "published_at": "2026-06-25T07:55:42Z",
+      "first_seen_at": "2026-06-26T03:29:12.353189Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
+      "title_original": "京东与魔法原子达成战略合作",
+      "title_en": null,
+      "title_zh": "京东与魔法原子达成战略合作",
+      "title_bilingual": "京东与魔法原子达成战略合作",
+      "topic_tags": []
+    },
+    {
+      "id": "23cd21cb7ffac94367db1b651ab644c4ed0e08d7",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "三菱汽车称无力承担独立开发电动车的巨额投入",
+      "url": "https://auto.gasgoo.com/news/202606/25I70463031C109.shtml",
+      "published_at": "2026-06-25T07:53:32Z",
+      "first_seen_at": "2026-06-26T03:29:12.353189Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
+      "title_original": "三菱汽车称无力承担独立开发电动车的巨额投入",
+      "title_en": null,
+      "title_zh": "三菱汽车称无力承担独立开发电动车的巨额投入",
+      "title_bilingual": "三菱汽车称无力承担独立开发电动车的巨额投入",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
       ]
     },
     {
@@ -442,7 +764,7 @@
       "url": "https://cnevpost.com/2026/06/25/china-auto-mystery-will-beijing-auto-show-switch-to-annual",
       "published_at": "2026-06-25T07:42:41Z",
       "first_seen_at": "2026-06-25T08:21:18.809234Z",
-      "last_seen_at": "2026-06-25T23:51:39.091931Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
       "title_original": "China's biggest auto mystery: Will Beijing Auto Show switch from biennial to annual?",
       "title_en": "China's biggest auto mystery: Will Beijing Auto Show switch from biennial to annual?",
       "title_zh": "中国最大的汽车谜团：北京车展将从两年一度改为一年一度？",
@@ -461,7 +783,7 @@
       "url": "https://auto.gasgoo.com/news/202606/25I70463072C109.shtml",
       "published_at": "2026-06-25T07:41:22Z",
       "first_seen_at": "2026-06-25T23:51:39.091931Z",
-      "last_seen_at": "2026-06-25T23:51:39.091931Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
       "title_original": "日产年度股东大会否决社外董事永井素夫连任议案",
       "title_en": null,
       "title_zh": "日产年度股东大会否决社外董事永井素夫连任议案",
@@ -479,7 +801,7 @@
       "url": "https://auto.gasgoo.com/news/202606/25I70463079C501.shtml",
       "published_at": "2026-06-25T07:00:15Z",
       "first_seen_at": "2026-06-25T23:51:39.091931Z",
-      "last_seen_at": "2026-06-25T23:51:39.091931Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
       "title_original": "【盖世快讯】我国充电枪总数突破2249万个；特斯拉中国车机将接入豆包大模型",
       "title_en": null,
       "title_zh": "【盖世快讯】我国充电枪总数突破2249万个；特斯拉中国车机将接入豆包大模型",
@@ -499,7 +821,7 @@
       "url": "https://auto.gasgoo.com/news/202606/25I70463040C601.shtml",
       "published_at": "2026-06-25T07:00:00Z",
       "first_seen_at": "2026-06-25T23:51:39.091931Z",
-      "last_seen_at": "2026-06-25T23:51:39.091931Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
       "title_original": "存储涨价，车企还得再扛一年",
       "title_en": null,
       "title_zh": "存储涨价，车企还得再扛一年",
@@ -519,7 +841,7 @@
       "url": "https://cnevpost.com/2026/06/25/byd-to-launch-seal-08-jul-2",
       "published_at": "2026-06-25T05:56:11Z",
       "first_seen_at": "2026-06-25T08:21:18.809234Z",
-      "last_seen_at": "2026-06-25T23:51:39.091931Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
       "title_original": "BYD to launch Seal 08 sedan on July 2, bolstering Ocean lineup",
       "title_en": "BYD to launch Seal 08 sedan on July 2, bolstering Ocean lineup",
       "title_zh": "比亚迪将于7月2日推出Seal 08轿车，充实海洋阵容",
@@ -539,7 +861,7 @@
       "url": "https://cnevpost.com/2026/06/25/nio-firefly-beta-testing-fifth-gen-swap-stations",
       "published_at": "2026-06-25T04:32:43Z",
       "first_seen_at": "2026-06-25T04:44:14.546662Z",
-      "last_seen_at": "2026-06-25T23:51:39.091931Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
       "title_original": "Nio Firefly begins beta testing at fifth-gen swap stations in six Chinese cities",
       "title_en": "Nio Firefly begins beta testing at fifth-gen swap stations in six Chinese cities",
       "title_zh": "Nio Firefly开始在中国六个城市的第五代换电站进行Beta测试",
@@ -549,69 +871,72 @@
         "补能电池",
         "召回安全",
         "车企竞争"
-      ]
-    },
-    {
-      "id": "608cfd1116436ecbc68c0122ca288ac497b0fac0",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Nio partner beats CATL bottlenecks with 588Ah liquid solid state cells",
-      "url": "https://carnewschina.com/2026/06/25/nio-partner-beats-catl-bottlenecks-with-588ah-liquid-solid-state-cells",
-      "published_at": "2026-06-25T02:32:17Z",
-      "first_seen_at": "2026-06-25T04:44:14.546662Z",
-      "last_seen_at": "2026-06-25T23:51:39.091931Z",
-      "title_original": "Nio partner beats CATL bottlenecks with 588Ah liquid solid state cells",
-      "title_en": "Nio partner beats CATL bottlenecks with 588Ah liquid solid state cells",
-      "title_zh": "蔚来合作伙伴以588Ah液态固态电芯突破宁德时代瓶颈",
-      "title_bilingual": "蔚来合作伙伴以588Ah液态固态电芯突破宁德时代瓶颈 / Nio partner beats CATL bottlenecks with 588Ah liquid solid state cells",
-      "topic_tags": [
-        "新能源",
-        "补能电池",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "ef3e86735231c0a8d2d1d5980dbf0864821d2d9f",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "CATL expects up to 20,000 EVs to be euipped with sodium-ion batteries in 2026",
-      "url": "https://carnewschina.com/2026/06/25/catl-expects-up-to-20000-evs-to-be-euipped-with-sodium-ion-batteries-in-2026",
-      "published_at": "2026-06-25T02:28:09Z",
-      "first_seen_at": "2026-06-25T04:44:14.546662Z",
-      "last_seen_at": "2026-06-25T23:51:39.091931Z",
-      "title_original": "CATL expects up to 20,000 EVs to be euipped with sodium-ion batteries in 2026",
-      "title_en": "CATL expects up to 20,000 EVs to be euipped with sodium-ion batteries in 2026",
-      "title_zh": "CATL预计2026年将有多达2万辆电动汽车配备钠离子电池",
-      "title_bilingual": "CATL预计2026年将有多达2万辆电动汽车配备钠离子电池 / CATL expects up to 20,000 EVs to be euipped with sodium-ion batteries in 2026",
-      "topic_tags": [
-        "新能源",
-        "补能电池"
-      ]
-    },
-    {
-      "id": "fafc248d34f1b55579be173acce8f0ed779f1058",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Backed by global auto giants, Chinese autonomous driving startup Momenta files for HKEX IPO",
-      "url": "https://carnewschina.com/2026/06/25/backed-by-global-auto-giants-chinese-autonomous-driving-startup-momenta-files-for-hkex-ipo",
-      "published_at": "2026-06-25T01:32:27Z",
-      "first_seen_at": "2026-06-25T04:44:14.546662Z",
-      "last_seen_at": "2026-06-25T23:51:39.091931Z",
-      "title_original": "Backed by global auto giants, Chinese autonomous driving startup Momenta files for HKEX IPO",
-      "title_en": "Backed by global auto giants, Chinese autonomous driving startup Momenta files for HKEX IPO",
-      "title_zh": "获得全球汽车巨头支持的中国自动驾驶初创公司Momenta申请香港联交所IPO",
-      "title_bilingual": "获得全球汽车巨头支持的中国自动驾驶初创公司Momenta申请香港联交所IPO / Backed by global auto giants, Chinese autonomous driving startup Momenta files for HKEX IPO",
-      "topic_tags": [
-        "新能源",
-        "智能驾驶"
       ]
     }
   ],
   "items_ai": [
     {
+      "id": "d8cbcd2cfc3668cacaceae6d19bd95ca8b635b28",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Nio's William Li sees China NEV penetration topping 90% by 2030",
+      "url": "https://cnevpost.com/2026/06/26/nio-li-china-nev-penetration-90-2030",
+      "published_at": "2026-06-26T03:09:39Z",
+      "first_seen_at": "2026-06-26T03:29:12.353189Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
+      "title_original": "Nio's William Li sees China NEV penetration topping 90% by 2030",
+      "title_en": "Nio's William Li sees China NEV penetration topping 90% by 2030",
+      "title_zh": "蔚来汽车创始人李斌预计，到2030年，中国新能源汽车渗透率将突破90%",
+      "title_bilingual": "蔚来汽车创始人李斌预计，到2030年，中国新能源汽车渗透率将突破90% / Nio's William Li sees China NEV penetration topping 90% by 2030",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "f0fc5b5970841a0359f440058280def7590dd99a",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "BYD sub-brand Linghui to launch M9 business MPV on June 29",
+      "url": "https://cnevpost.com/2026/06/26/byd-linghui-launch-m9-mpv-jun-29",
+      "published_at": "2026-06-26T02:45:17Z",
+      "first_seen_at": "2026-06-26T03:29:12.353189Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
+      "title_original": "BYD sub-brand Linghui to launch M9 business MPV on June 29",
+      "title_en": "BYD sub-brand Linghui to launch M9 business MPV on June 29",
+      "title_zh": "比亚迪子品牌领辉商务MPV M9将于6月29日上市",
+      "title_bilingual": "比亚迪子品牌领辉商务MPV M9将于6月29日上市 / BYD sub-brand Linghui to launch M9 business MPV on June 29",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "b574fd46a2b5a5d87c3a7cbf266abb5183610b7e",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Nio hits 10,000th ES9 delivery as flagship SUV gains traction",
+      "url": "https://cnevpost.com/2026/06/26/nio-hits-10000th-es9-delivery",
+      "published_at": "2026-06-26T01:12:17Z",
+      "first_seen_at": "2026-06-26T03:29:12.353189Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
+      "title_original": "Nio hits 10,000th ES9 delivery as flagship SUV gains traction",
+      "title_en": "Nio hits 10,000th ES9 delivery as flagship SUV gains traction",
+      "title_zh": "蔚来 ES9 交付量突破 10,000 辆，旗舰 SUV 备受关注",
+      "title_bilingual": "蔚来 ES9 交付量突破 10,000 辆，旗舰 SUV 备受关注 / Nio hits 10,000th ES9 delivery as flagship SUV gains traction",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
       "id": "1049eff7044ccc6e214d8395fb6156a921ed9568",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -620,7 +945,7 @@
       "url": "https://carnewschina.com/2026/06/26/catl-says-sodium-batteries-are-ready-top-china-insider-at-davos-says-wait-5-years",
       "published_at": "2026-06-25T23:40:20Z",
       "first_seen_at": "2026-06-25T23:51:39.091931Z",
-      "last_seen_at": "2026-06-25T23:51:39.091931Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
       "title_original": "CATL says sodium batteries are ready, top China insider at Davos says wait 5 years",
       "title_en": "CATL says sodium batteries are ready, top China insider at Davos says wait 5 years",
       "title_zh": "宁德时代称钠电池已准备就绪，达沃斯中国高层人士称还要等5年",
@@ -639,7 +964,7 @@
       "url": "http://vc.yiche.com/vplay/11794155.html",
       "published_at": null,
       "first_seen_at": "2026-06-25T20:53:59.692533Z",
-      "last_seen_at": "2026-06-25T23:51:39.091931Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
       "title_original": "银河战舰700官图曝光 1128马力三电机四驱 AI全地形硬核SUV",
       "title_en": null,
       "title_zh": "银河战舰700官图曝光 1128马力三电机四驱 AI全地形硬核SUV",
@@ -658,7 +983,7 @@
       "url": "http://vc.yiche.com/vplay/11798481.html",
       "published_at": null,
       "first_seen_at": "2026-06-25T20:53:59.692533Z",
-      "last_seen_at": "2026-06-25T23:51:39.091931Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
       "title_original": "上市半年才爆火的紧凑级纯电SUV启源Q05，凭什么？",
       "title_en": null,
       "title_zh": "上市半年才爆火的紧凑级纯电SUV启源Q05，凭什么？",
@@ -677,7 +1002,7 @@
       "url": "http://vc.yiche.com/vplay/11800021.html",
       "published_at": null,
       "first_seen_at": "2026-06-25T20:53:59.692533Z",
-      "last_seen_at": "2026-06-25T23:51:39.091931Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
       "title_original": "四万出头的方盒子，试驾吉利熊猫勇士，代步车界“显眼包”！",
       "title_en": null,
       "title_zh": "四万出头的方盒子，试驾吉利熊猫勇士，代步车界“显眼包”！",
@@ -696,7 +1021,7 @@
       "url": "http://vc.yiche.com/vplay/11777558.html",
       "published_at": null,
       "first_seen_at": "2026-06-25T20:53:59.692533Z",
-      "last_seen_at": "2026-06-25T23:51:39.091931Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
       "title_original": "正经迪吹秦Max带着二代刀片电池要来了！手握13万，现在该不该买秦L EV？",
       "title_en": null,
       "title_zh": "正经迪吹秦Max带着二代刀片电池要来了！手握13万，现在该不该买秦L EV？",
@@ -715,7 +1040,7 @@
       "url": "http://vc.yiche.com/vplay/11817178.html",
       "published_at": null,
       "first_seen_at": "2026-06-25T20:53:59.692533Z",
-      "last_seen_at": "2026-06-25T23:51:39.091931Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
       "title_original": "把颜值和豪华座舱及配置拉满 综合续航竟然接近2000公里 抢先实拍全新红旗H7",
       "title_en": null,
       "title_zh": "把颜值和豪华座舱及配置拉满 综合续航竟然接近2000公里 抢先实拍全新红旗H7",
@@ -733,7 +1058,7 @@
       "url": "http://vc.yiche.com/vplay/11786266.html",
       "published_at": null,
       "first_seen_at": "2026-06-25T20:53:59.692533Z",
-      "last_seen_at": "2026-06-25T23:51:39.091931Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
       "title_original": "实测第5代帝豪混动版，油耗2.9L，首选哪个版本？",
       "title_en": null,
       "title_zh": "实测第5代帝豪混动版，油耗2.9L，首选哪个版本？",
@@ -751,7 +1076,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/802f3efeeb40270f/115348990-1.html",
       "published_at": null,
       "first_seen_at": "2026-06-25T18:31:49.335565Z",
-      "last_seen_at": "2026-06-25T23:51:39.091931Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
       "title_original": "符合选车初衷 理想i6提车作业分享",
       "title_en": null,
       "title_zh": "符合选车初衷 理想i6提车作业分享",
@@ -770,7 +1095,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/8043451b1807a30d/115346201-1.html",
       "published_at": null,
       "first_seen_at": "2026-06-25T18:31:49.335565Z",
-      "last_seen_at": "2026-06-25T23:51:39.091931Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
       "title_original": "回头率收割机 极氪007GT提车记分享",
       "title_en": null,
       "title_zh": "回头率收割机 极氪007GT提车记分享",
@@ -789,7 +1114,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/7bd494649a956595/115335981-1.html",
       "published_at": null,
       "first_seen_at": "2026-06-25T18:31:49.335565Z",
-      "last_seen_at": "2026-06-25T23:51:39.091931Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
       "title_original": "外观很惊艳 零跑B01提车作业分享",
       "title_en": null,
       "title_zh": "外观很惊艳 零跑B01提车作业分享",
@@ -808,7 +1133,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/b4b63a63d8008700/115335834-1.html",
       "published_at": null,
       "first_seen_at": "2026-06-25T16:21:52.271677Z",
-      "last_seen_at": "2026-06-25T23:51:39.091931Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
       "title_original": "家用很满意 小鹏G7提车作业分享",
       "title_en": null,
       "title_zh": "家用很满意 小鹏G7提车作业分享",
@@ -827,7 +1152,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/0b985044ace562c4/115329744-1.html",
       "published_at": null,
       "first_seen_at": "2026-06-25T16:21:52.271677Z",
-      "last_seen_at": "2026-06-25T23:51:39.091931Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
       "title_original": "长安UNI-K踏板拆装 附沿海养护攻略",
       "title_en": null,
       "title_zh": "长安UNI-K踏板拆装 附沿海养护攻略",
@@ -845,7 +1170,7 @@
       "url": "https://cnevpost.com/2026/06/25/maextro-unveils-v800-v680",
       "published_at": "2026-06-25T13:57:58Z",
       "first_seen_at": "2026-06-25T16:21:52.271677Z",
-      "last_seen_at": "2026-06-25T23:51:39.091931Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
       "title_original": "Maextro unveils two ultra-luxury MPVs, expanding premium lineup",
       "title_en": "Maextro unveils two ultra-luxury MPVs, expanding premium lineup",
       "title_zh": "Maextro 推出两款超豪华 MPV，扩大高端产品阵容",
@@ -864,7 +1189,7 @@
       "url": "https://cnevpost.com/2026/06/25/maextro-launches-s800-grand-design",
       "published_at": "2026-06-25T13:19:54Z",
       "first_seen_at": "2026-06-25T13:34:51.114800Z",
-      "last_seen_at": "2026-06-25T23:51:39.091931Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
       "title_original": "Huawei-backed Maextro launches S800 Grand Design, deepening push into ultra-luxury market",
       "title_en": "Huawei-backed Maextro launches S800 Grand Design, deepening push into ultra-luxury market",
       "title_zh": "华为支持的Maextro推出S800 Grand Design，深入进军超豪华市场",
@@ -883,7 +1208,7 @@
       "url": "https://cnevpost.com/2026/06/25/leapmotor-d99-launch",
       "published_at": "2026-06-25T12:37:35Z",
       "first_seen_at": "2026-06-25T13:34:51.114800Z",
-      "last_seen_at": "2026-06-25T23:51:39.091931Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
       "title_original": "Leapmotor enters MPV market with D99 launch",
       "title_en": "Leapmotor enters MPV market with D99 launch",
       "title_zh": "零跑进军MPV市场 D99上市",
@@ -904,7 +1229,7 @@
       "url": "https://carnewschina.com/2026/06/25/leapmotor-launches-d99-mpv-in-china-115-kwh-battery-for-bev-and-80-3-kwh-for-erev-36700-usd",
       "published_at": "2026-06-25T12:35:37Z",
       "first_seen_at": "2026-06-25T13:34:51.114800Z",
-      "last_seen_at": "2026-06-25T23:51:39.091931Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
       "title_original": "Leapmotor launches D99 MPV in China: 115 kWh battery for BEV and 80.3 kWh for EREV, 36,700 USD",
       "title_en": "Leapmotor launches D99 MPV in China: 115 kWh battery for BEV and 80.3 kWh for EREV, 36,700 USD",
       "title_zh": "零跑在中国推出D99 MPV：纯电动115千瓦时电池、增程式电动80.3千瓦时，36,700美元",
@@ -925,7 +1250,7 @@
       "url": "https://cnevpost.com/2026/06/25/byd-broadens-energy-storage-lineup-europe",
       "published_at": "2026-06-25T11:52:20Z",
       "first_seen_at": "2026-06-25T13:34:51.114800Z",
-      "last_seen_at": "2026-06-25T23:51:39.091931Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
       "title_original": "BYD broadens energy storage lineup in Europe, targeting homes and businesses",
       "title_en": "BYD broadens energy storage lineup in Europe, targeting homes and businesses",
       "title_zh": "比亚迪扩大欧洲储能产品线，瞄准家庭和企业",
@@ -933,6 +1258,182 @@
       "topic_tags": [
         "补能电池",
         "车企竞争"
+      ]
+    },
+    {
+      "id": "d175602461b50a70609c18f60e31944cb284cc7e",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "小鹏X9全球累计交付突破6万台",
+      "url": "https://auto.gasgoo.com/news/202606/25I70463195C109.shtml",
+      "published_at": "2026-06-25T11:19:01Z",
+      "first_seen_at": "2026-06-26T03:29:12.353189Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
+      "title_original": "小鹏X9全球累计交付突破6万台",
+      "title_en": null,
+      "title_zh": "小鹏X9全球累计交付突破6万台",
+      "title_bilingual": "小鹏X9全球累计交付突破6万台",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "c5198de2d7ab9675efce89aa15f677c09385707b",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "雷诺计划在法国工程部门裁员800人",
+      "url": "https://auto.gasgoo.com/news/202606/25I70463194C109.shtml",
+      "published_at": "2026-06-25T11:04:51Z",
+      "first_seen_at": "2026-06-26T03:29:12.353189Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
+      "title_original": "雷诺计划在法国工程部门裁员800人",
+      "title_en": null,
+      "title_zh": "雷诺计划在法国工程部门裁员800人",
+      "title_bilingual": "雷诺计划在法国工程部门裁员800人",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "348efaa3fbf709feb73011d048dce60e460351fd",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "3.7亿存量车，是汽车消费的新“金矿”",
+      "url": "https://auto.gasgoo.com/news/202606/25I70463192C108.shtml",
+      "published_at": "2026-06-25T10:45:55Z",
+      "first_seen_at": "2026-06-26T03:29:12.353189Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
+      "title_original": "3.7亿存量车，是汽车消费的新“金矿”",
+      "title_en": null,
+      "title_zh": "3.7亿存量车，是汽车消费的新“金矿”",
+      "title_bilingual": "3.7亿存量车，是汽车消费的新“金矿”",
+      "topic_tags": []
+    },
+    {
+      "id": "19c94f32b648832415a69c7b55dd24acffc99438",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "【国际快讯】日本拟大举投资AI、半导体等产业；雷诺计划在法国裁减800个工程岗位；通用汽车向巴西追加6.75亿美元投资",
+      "url": "https://auto.gasgoo.com/news/202606/25I70463111C108.shtml",
+      "published_at": "2026-06-25T10:39:04Z",
+      "first_seen_at": "2026-06-26T03:29:12.353189Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
+      "title_original": "【国际快讯】日本拟大举投资AI、半导体等产业；雷诺计划在法国裁减800个工程岗位；通用汽车向巴西追加6.75亿美元投资",
+      "title_en": null,
+      "title_zh": "【国际快讯】日本拟大举投资AI、半导体等产业；雷诺计划在法国裁减800个工程岗位；通用汽车向巴西追加6.75亿美元投资",
+      "title_bilingual": "【国际快讯】日本拟大举投资AI、半导体等产业；雷诺计划在法国裁减800个工程岗位；通用汽车向巴西追加6.75亿美元投资",
+      "topic_tags": []
+    },
+    {
+      "id": "f94501e6a2ebaad55ff9d6fa99024aa91b8879a3",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "大众拟向贝恩资本出售船用发动机子公司Everllence 51%股权",
+      "url": "https://auto.gasgoo.com/news/202606/25I70463191C109.shtml",
+      "published_at": "2026-06-25T10:23:54Z",
+      "first_seen_at": "2026-06-26T03:29:12.353189Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
+      "title_original": "大众拟向贝恩资本出售船用发动机子公司Everllence 51%股权",
+      "title_en": null,
+      "title_zh": "大众拟向贝恩资本出售船用发动机子公司Everllence 51%股权",
+      "title_bilingual": "大众拟向贝恩资本出售船用发动机子公司Everllence 51%股权",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "ddbe28de7182538728a0e11f839350ea96265552",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新能源",
+      "title": "谁在定义纯电时代？",
+      "url": "https://auto.gasgoo.com/news/202606/25I70463189C501.shtml",
+      "published_at": "2026-06-25T10:11:02Z",
+      "first_seen_at": "2026-06-26T03:29:12.353189Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
+      "title_original": "谁在定义纯电时代？",
+      "title_en": null,
+      "title_zh": "谁在定义纯电时代？",
+      "title_bilingual": "谁在定义纯电时代？",
+      "topic_tags": [
+        "新能源"
+      ]
+    },
+    {
+      "id": "58c36aeb69b05ba68dde71296082cc69078fc8ed",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-供应链",
+      "title": "又一外资企业亚太区总部签约上海嘉定",
+      "url": "https://auto.gasgoo.com/news/202606/25I70463188C103.shtml",
+      "published_at": "2026-06-25T09:53:16Z",
+      "first_seen_at": "2026-06-26T03:29:12.353189Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
+      "title_original": "又一外资企业亚太区总部签约上海嘉定",
+      "title_en": null,
+      "title_zh": "又一外资企业亚太区总部签约上海嘉定",
+      "title_bilingual": "又一外资企业亚太区总部签约上海嘉定",
+      "topic_tags": [
+        "供应链"
+      ]
+    },
+    {
+      "id": "47ef6bf1015aaf256b490edc7ac89cde0c4cfac7",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "​岚图卢放：原材料普涨下汽车价格大概率上行",
+      "url": "https://auto.gasgoo.com/news/202606/25I70463186C109.shtml",
+      "published_at": "2026-06-25T09:43:21Z",
+      "first_seen_at": "2026-06-26T03:29:12.353189Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
+      "title_original": "​岚图卢放：原材料普涨下汽车价格大概率上行",
+      "title_en": null,
+      "title_zh": "​岚图卢放：原材料普涨下汽车价格大概率上行",
+      "title_bilingual": "​岚图卢放：原材料普涨下汽车价格大概率上行",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "378d6e69b861451ea9ea644dfdec0314b54c0e3e",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "曹操出行成立AI创新中心",
+      "url": "https://auto.gasgoo.com/news/202606/25I70463187C601.shtml",
+      "published_at": "2026-06-25T09:42:47Z",
+      "first_seen_at": "2026-06-26T03:29:12.353189Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
+      "title_original": "曹操出行成立AI创新中心",
+      "title_en": null,
+      "title_zh": "曹操出行成立AI创新中心",
+      "title_bilingual": "曹操出行成立AI创新中心",
+      "topic_tags": []
+    },
+    {
+      "id": "71d0fc8d2970da8bf2c62836e99cc17f3ded74f3",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "本田、日产、三菱计划统一新一代零部件标准，以此压缩成本",
+      "url": "https://auto.gasgoo.com/news/202606/25I70463185C109.shtml",
+      "published_at": "2026-06-25T09:40:36Z",
+      "first_seen_at": "2026-06-26T03:29:12.353189Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
+      "title_original": "本田、日产、三菱计划统一新一代零部件标准，以此压缩成本",
+      "title_en": null,
+      "title_zh": "本田、日产、三菱计划统一新一代零部件标准，以此压缩成本",
+      "title_bilingual": "本田、日产、三菱计划统一新一代零部件标准，以此压缩成本",
+      "topic_tags": [
+        "车企竞争",
+        "供应链"
       ]
     },
     {
@@ -944,13 +1445,67 @@
       "url": "https://cnevpost.com/2026/06/25/china-unveils-plan-reshape-energy-system",
       "published_at": "2026-06-25T09:38:01Z",
       "first_seen_at": "2026-06-25T11:13:57.970476Z",
-      "last_seen_at": "2026-06-25T23:51:39.091931Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
       "title_original": "China unveils five-year plan to reshape its energy system",
       "title_en": "China unveils five-year plan to reshape its energy system",
       "title_zh": "中国公布重塑能源体系五年计划",
       "title_bilingual": "中国公布重塑能源体系五年计划 / China unveils five-year plan to reshape its energy system",
       "topic_tags": [
         "新能源"
+      ]
+    },
+    {
+      "id": "bdac7d997cdbb1f2a7546e0b99aae0ce6aa17c83",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-供应链",
+      "title": "总投资额约1亿美元，陶氏公司宣布扩产并增强创新能力",
+      "url": "https://auto.gasgoo.com/news/202606/25I70463184C103.shtml",
+      "published_at": "2026-06-25T09:34:01Z",
+      "first_seen_at": "2026-06-26T03:29:12.353189Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
+      "title_original": "总投资额约1亿美元，陶氏公司宣布扩产并增强创新能力",
+      "title_en": null,
+      "title_zh": "总投资额约1亿美元，陶氏公司宣布扩产并增强创新能力",
+      "title_bilingual": "总投资额约1亿美元，陶氏公司宣布扩产并增强创新能力",
+      "topic_tags": [
+        "供应链"
+      ]
+    },
+    {
+      "id": "e71dbcd9b01eb3b316be4a34fb6e8ac98947af18",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "长城汽车天津研发中心落地泰达",
+      "url": "https://auto.gasgoo.com/news/202606/25I70463183C109.shtml",
+      "published_at": "2026-06-25T09:23:03Z",
+      "first_seen_at": "2026-06-26T03:29:12.353189Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
+      "title_original": "长城汽车天津研发中心落地泰达",
+      "title_en": null,
+      "title_zh": "长城汽车天津研发中心落地泰达",
+      "title_bilingual": "长城汽车天津研发中心落地泰达",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "966c45e7864f4e6c88cf10777970f74372bdd5b8",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "银河通用Galbot S1，进入宁德时代打工",
+      "url": "https://auto.gasgoo.com/news/202606/25I70463182C601.shtml",
+      "published_at": "2026-06-25T09:19:10Z",
+      "first_seen_at": "2026-06-26T03:29:12.353189Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
+      "title_original": "银河通用Galbot S1，进入宁德时代打工",
+      "title_en": null,
+      "title_zh": "银河通用Galbot S1，进入宁德时代打工",
+      "title_bilingual": "银河通用Galbot S1，进入宁德时代打工",
+      "topic_tags": [
+        "补能电池"
       ]
     },
     {
@@ -962,7 +1517,7 @@
       "url": "https://cnevpost.com/2026/06/25/catl-plans-36-battery-swap-stations-hk-2030",
       "published_at": "2026-06-25T09:00:40Z",
       "first_seen_at": "2026-06-25T11:13:57.970476Z",
-      "last_seen_at": "2026-06-25T23:51:39.091931Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
       "title_original": "CATL plans about 36 battery swap stations in Hong Kong by 2030",
       "title_en": "CATL plans about 36 battery swap stations in Hong Kong by 2030",
       "title_zh": "CATL计划到2030年在香港建立约36个电池更换站",
@@ -970,6 +1525,41 @@
       "topic_tags": [
         "新能源",
         "补能电池"
+      ]
+    },
+    {
+      "id": "fb8ba1895921edf77744e7ba307423fc7a3670f0",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "京东与魔法原子达成战略合作",
+      "url": "https://auto.gasgoo.com/news/202606/25I70463094C601.shtml",
+      "published_at": "2026-06-25T07:55:42Z",
+      "first_seen_at": "2026-06-26T03:29:12.353189Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
+      "title_original": "京东与魔法原子达成战略合作",
+      "title_en": null,
+      "title_zh": "京东与魔法原子达成战略合作",
+      "title_bilingual": "京东与魔法原子达成战略合作",
+      "topic_tags": []
+    },
+    {
+      "id": "23cd21cb7ffac94367db1b651ab644c4ed0e08d7",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "三菱汽车称无力承担独立开发电动车的巨额投入",
+      "url": "https://auto.gasgoo.com/news/202606/25I70463031C109.shtml",
+      "published_at": "2026-06-25T07:53:32Z",
+      "first_seen_at": "2026-06-26T03:29:12.353189Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
+      "title_original": "三菱汽车称无力承担独立开发电动车的巨额投入",
+      "title_en": null,
+      "title_zh": "三菱汽车称无力承担独立开发电动车的巨额投入",
+      "title_bilingual": "三菱汽车称无力承担独立开发电动车的巨额投入",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
       ]
     },
     {
@@ -981,7 +1571,7 @@
       "url": "https://cnevpost.com/2026/06/25/china-auto-mystery-will-beijing-auto-show-switch-to-annual",
       "published_at": "2026-06-25T07:42:41Z",
       "first_seen_at": "2026-06-25T08:21:18.809234Z",
-      "last_seen_at": "2026-06-25T23:51:39.091931Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
       "title_original": "China's biggest auto mystery: Will Beijing Auto Show switch from biennial to annual?",
       "title_en": "China's biggest auto mystery: Will Beijing Auto Show switch from biennial to annual?",
       "title_zh": "中国最大的汽车谜团：北京车展将从两年一度改为一年一度？",
@@ -1000,7 +1590,7 @@
       "url": "https://auto.gasgoo.com/news/202606/25I70463072C109.shtml",
       "published_at": "2026-06-25T07:41:22Z",
       "first_seen_at": "2026-06-25T23:51:39.091931Z",
-      "last_seen_at": "2026-06-25T23:51:39.091931Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
       "title_original": "日产年度股东大会否决社外董事永井素夫连任议案",
       "title_en": null,
       "title_zh": "日产年度股东大会否决社外董事永井素夫连任议案",
@@ -1018,7 +1608,7 @@
       "url": "https://auto.gasgoo.com/news/202606/25I70463079C501.shtml",
       "published_at": "2026-06-25T07:00:15Z",
       "first_seen_at": "2026-06-25T23:51:39.091931Z",
-      "last_seen_at": "2026-06-25T23:51:39.091931Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
       "title_original": "【盖世快讯】我国充电枪总数突破2249万个；特斯拉中国车机将接入豆包大模型",
       "title_en": null,
       "title_zh": "【盖世快讯】我国充电枪总数突破2249万个；特斯拉中国车机将接入豆包大模型",
@@ -1038,7 +1628,7 @@
       "url": "https://auto.gasgoo.com/news/202606/25I70463040C601.shtml",
       "published_at": "2026-06-25T07:00:00Z",
       "first_seen_at": "2026-06-25T23:51:39.091931Z",
-      "last_seen_at": "2026-06-25T23:51:39.091931Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
       "title_original": "存储涨价，车企还得再扛一年",
       "title_en": null,
       "title_zh": "存储涨价，车企还得再扛一年",
@@ -1058,7 +1648,7 @@
       "url": "https://cnevpost.com/2026/06/25/byd-to-launch-seal-08-jul-2",
       "published_at": "2026-06-25T05:56:11Z",
       "first_seen_at": "2026-06-25T08:21:18.809234Z",
-      "last_seen_at": "2026-06-25T23:51:39.091931Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
       "title_original": "BYD to launch Seal 08 sedan on July 2, bolstering Ocean lineup",
       "title_en": "BYD to launch Seal 08 sedan on July 2, bolstering Ocean lineup",
       "title_zh": "比亚迪将于7月2日推出Seal 08轿车，充实海洋阵容",
@@ -1078,7 +1668,7 @@
       "url": "https://cnevpost.com/2026/06/25/nio-firefly-beta-testing-fifth-gen-swap-stations",
       "published_at": "2026-06-25T04:32:43Z",
       "first_seen_at": "2026-06-25T04:44:14.546662Z",
-      "last_seen_at": "2026-06-25T23:51:39.091931Z",
+      "last_seen_at": "2026-06-26T03:29:12.353189Z",
       "title_original": "Nio Firefly begins beta testing at fifth-gen swap stations in six Chinese cities",
       "title_en": "Nio Firefly begins beta testing at fifth-gen swap stations in six Chinese cities",
       "title_zh": "Nio Firefly开始在中国六个城市的第五代换电站进行Beta测试",
@@ -1088,64 +1678,6 @@
         "补能电池",
         "召回安全",
         "车企竞争"
-      ]
-    },
-    {
-      "id": "608cfd1116436ecbc68c0122ca288ac497b0fac0",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Nio partner beats CATL bottlenecks with 588Ah liquid solid state cells",
-      "url": "https://carnewschina.com/2026/06/25/nio-partner-beats-catl-bottlenecks-with-588ah-liquid-solid-state-cells",
-      "published_at": "2026-06-25T02:32:17Z",
-      "first_seen_at": "2026-06-25T04:44:14.546662Z",
-      "last_seen_at": "2026-06-25T23:51:39.091931Z",
-      "title_original": "Nio partner beats CATL bottlenecks with 588Ah liquid solid state cells",
-      "title_en": "Nio partner beats CATL bottlenecks with 588Ah liquid solid state cells",
-      "title_zh": "蔚来合作伙伴以588Ah液态固态电芯突破宁德时代瓶颈",
-      "title_bilingual": "蔚来合作伙伴以588Ah液态固态电芯突破宁德时代瓶颈 / Nio partner beats CATL bottlenecks with 588Ah liquid solid state cells",
-      "topic_tags": [
-        "新能源",
-        "补能电池",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "ef3e86735231c0a8d2d1d5980dbf0864821d2d9f",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "CATL expects up to 20,000 EVs to be euipped with sodium-ion batteries in 2026",
-      "url": "https://carnewschina.com/2026/06/25/catl-expects-up-to-20000-evs-to-be-euipped-with-sodium-ion-batteries-in-2026",
-      "published_at": "2026-06-25T02:28:09Z",
-      "first_seen_at": "2026-06-25T04:44:14.546662Z",
-      "last_seen_at": "2026-06-25T23:51:39.091931Z",
-      "title_original": "CATL expects up to 20,000 EVs to be euipped with sodium-ion batteries in 2026",
-      "title_en": "CATL expects up to 20,000 EVs to be euipped with sodium-ion batteries in 2026",
-      "title_zh": "CATL预计2026年将有多达2万辆电动汽车配备钠离子电池",
-      "title_bilingual": "CATL预计2026年将有多达2万辆电动汽车配备钠离子电池 / CATL expects up to 20,000 EVs to be euipped with sodium-ion batteries in 2026",
-      "topic_tags": [
-        "新能源",
-        "补能电池"
-      ]
-    },
-    {
-      "id": "fafc248d34f1b55579be173acce8f0ed779f1058",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Backed by global auto giants, Chinese autonomous driving startup Momenta files for HKEX IPO",
-      "url": "https://carnewschina.com/2026/06/25/backed-by-global-auto-giants-chinese-autonomous-driving-startup-momenta-files-for-hkex-ipo",
-      "published_at": "2026-06-25T01:32:27Z",
-      "first_seen_at": "2026-06-25T04:44:14.546662Z",
-      "last_seen_at": "2026-06-25T23:51:39.091931Z",
-      "title_original": "Backed by global auto giants, Chinese autonomous driving startup Momenta files for HKEX IPO",
-      "title_en": "Backed by global auto giants, Chinese autonomous driving startup Momenta files for HKEX IPO",
-      "title_zh": "获得全球汽车巨头支持的中国自动驾驶初创公司Momenta申请香港联交所IPO",
-      "title_bilingual": "获得全球汽车巨头支持的中国自动驾驶初创公司Momenta申请香港联交所IPO / Backed by global auto giants, Chinese autonomous driving startup Momenta files for HKEX IPO",
-      "topic_tags": [
-        "新能源",
-        "智能驾驶"
       ]
     }
   ],
