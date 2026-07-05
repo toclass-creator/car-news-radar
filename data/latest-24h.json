@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-05T06:38:53.776241Z",
+  "generated_at": "2026-07-05T09:40:13.428112Z",
   "window_hours": 24,
-  "total_items": 17,
-  "total_items_ai_raw": 17,
-  "total_items_raw": 2874,
-  "total_items_all_mode": 2733,
+  "total_items": 19,
+  "total_items_ai_raw": 19,
+  "total_items_raw": 2848,
+  "total_items_all_mode": 2723,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 68298,
+  "archive_total": 68365,
   "site_count": 3,
   "source_count": 6,
   "site_stats": [
@@ -14,19 +14,19 @@
       "site_id": "tophub",
       "site_name": "TopHub",
       "count": 12,
-      "raw_count": 2721
+      "raw_count": 2687
     },
     {
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "count": 5,
-      "raw_count": 5
+      "count": 6,
+      "raw_count": 6
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
-      "count": 0,
-      "raw_count": 148
+      "count": 1,
+      "raw_count": 155
     }
   ],
   "topic_tag_stats": [
@@ -36,23 +36,27 @@
     },
     {
       "tag": "购车决策",
-      "count": 7
+      "count": 9
     },
     {
       "tag": "新能源",
-      "count": 6
+      "count": 8
     },
     {
       "tag": "新车上市",
-      "count": 4
-    },
-    {
-      "tag": "价格战",
-      "count": 2
+      "count": 3
     },
     {
       "tag": "销量市场",
+      "count": 3
+    },
+    {
+      "tag": "补能电池",
       "count": 2
+    },
+    {
+      "tag": "价格战",
+      "count": 1
     },
     {
       "tag": "供应链",
@@ -65,6 +69,84 @@
   ],
   "items": [
     {
+      "id": "caf4979b3d6631c9fe898e2ff6e9a17929a3502d",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "hackernews",
+      "title": "EV Batteries Are Defying Expectations After Miles",
+      "url": "https://news.ycombinator.com/item?id=48791755",
+      "published_at": "2026-07-05T09:40:27.750000Z",
+      "first_seen_at": "2026-07-05T09:40:13.428112Z",
+      "last_seen_at": "2026-07-05T09:40:13.428112Z",
+      "title_original": "EV Batteries Are Defying Expectations After Miles",
+      "title_en": "EV Batteries Are Defying Expectations After Miles",
+      "title_zh": "电动汽车电池在行驶数英里后超出预期",
+      "title_bilingual": "电动汽车电池在行驶数英里后超出预期 / EV Batteries Are Defying Expectations After Miles",
+      "topic_tags": [
+        "新能源",
+        "补能电池"
+      ]
+    },
+    {
+      "id": "34658efabe315fb6036f7d7e24bd1e1b510127bc",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "懂车帝 · 文章排行榜",
+      "title": "L60车主试驾乐道L80，大车无笨感，易开好上手",
+      "url": "https://www.dongchedi.com/article/7658605890098971160",
+      "published_at": null,
+      "first_seen_at": "2026-07-05T09:40:13.428112Z",
+      "last_seen_at": "2026-07-05T09:40:13.428112Z",
+      "title_original": "L60车主试驾乐道L80，大车无笨感，易开好上手",
+      "title_en": null,
+      "title_zh": "L60车主试驾乐道L80，大车无笨感，易开好上手",
+      "title_bilingual": "L60车主试驾乐道L80，大车无笨感，易开好上手",
+      "topic_tags": [
+        "购车决策"
+      ]
+    },
+    {
+      "id": "d51196054d09c29762be2e2aeb1a4fd415215e60",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Nio's Firefly brand to hit 70,000th delivery milestone soon",
+      "url": "https://cnevpost.com/2026/07/05/nio-firefly-to-hit-70000th-delivery",
+      "published_at": "2026-07-05T08:30:59Z",
+      "first_seen_at": "2026-07-05T09:40:13.428112Z",
+      "last_seen_at": "2026-07-05T09:40:13.428112Z",
+      "title_original": "Nio's Firefly brand to hit 70,000th delivery milestone soon",
+      "title_en": "Nio's Firefly brand to hit 70,000th delivery milestone soon",
+      "title_zh": "蔚来Firefly品牌交付量即将突破7万辆里程碑",
+      "title_bilingual": "蔚来Firefly品牌交付量即将突破7万辆里程碑 / Nio's Firefly brand to hit 70,000th delivery milestone soon",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "a4c24e52c6009f2a45f2fcbd4bc34ad75d9c26e2",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Leaks and flooded charge ports: BYD Ti7 owners in China report detached glass roofs",
+      "url": "https://carnewschina.com/2026/07/05/leaks-and-flooded-charge-ports-byd-ti7-owners-in-china-report-detached-glass-roofs",
+      "published_at": "2026-07-05T07:42:16Z",
+      "first_seen_at": "2026-07-05T09:40:13.428112Z",
+      "last_seen_at": "2026-07-05T09:40:13.428112Z",
+      "title_original": "Leaks and flooded charge ports: BYD Ti7 owners in China report detached glass roofs",
+      "title_en": "Leaks and flooded charge ports: BYD Ti7 owners in China report detached glass roofs",
+      "title_zh": "泄漏和充电端口被淹：中国比亚迪 Ti7 车主报告玻璃屋顶脱落",
+      "title_bilingual": "泄漏和充电端口被淹：中国比亚迪 Ti7 车主报告玻璃屋顶脱落 / Leaks and flooded charge ports: BYD Ti7 owners in China report detached glass roofs",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
       "id": "dca4b75ecdfc176bd2150d8e116c2f1ccde04867",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -73,7 +155,7 @@
       "url": "https://carnewschina.com/2026/07/05/updated-lynk-co-02-with-800v-platform-lidar-to-enter-china-in-q3-2026",
       "published_at": "2026-07-05T05:04:06Z",
       "first_seen_at": "2026-07-05T06:38:53.776241Z",
-      "last_seen_at": "2026-07-05T06:38:53.776241Z",
+      "last_seen_at": "2026-07-05T09:40:13.428112Z",
       "title_original": "Updated Lynk & Co 02 with 800V platform & LiDAR to enter China in Q3 2026",
       "title_en": "Updated Lynk & Co 02 with 800V platform & LiDAR to enter China in Q3 2026",
       "title_zh": "更新领克02，配备800V平台和激光雷达，将于2026年第三季度进入中国",
@@ -92,7 +174,7 @@
       "url": "https://carnewschina.com/2026/07/05/mg-07-appears-china-streets-gm-copycat-defense",
       "published_at": "2026-07-05T04:00:02Z",
       "first_seen_at": "2026-07-05T06:38:53.776241Z",
-      "last_seen_at": "2026-07-05T06:38:53.776241Z",
+      "last_seen_at": "2026-07-05T09:40:13.428112Z",
       "title_original": "MG GM aborts broadcast over copycat claims as MG 07 hits streets",
       "title_en": "MG GM aborts broadcast over copycat claims as MG 07 hits streets",
       "title_zh": "MG 07 上路 MG 通用汽车因山寨宣传而中止直播",
@@ -110,7 +192,7 @@
       "url": "http://vc.yiche.com/vplay/11952061.html",
       "published_at": null,
       "first_seen_at": "2026-07-04T20:07:35.858036Z",
-      "last_seen_at": "2026-07-05T06:38:53.776241Z",
+      "last_seen_at": "2026-07-05T09:40:13.428112Z",
       "title_original": "大唐EV的亲兄弟要来了，海狮08价格预测曝光",
       "title_en": null,
       "title_zh": "大唐EV的亲兄弟要来了，海狮08价格预测曝光",
@@ -128,7 +210,7 @@
       "url": "http://vc.yiche.com/vplay/11941162.html",
       "published_at": null,
       "first_seen_at": "2026-07-04T20:07:35.858036Z",
-      "last_seen_at": "2026-07-05T06:38:53.776241Z",
+      "last_seen_at": "2026-07-05T09:40:13.428112Z",
       "title_original": "享界G9：定位大型硬派SUV，承载式车身，定价超50万，有市场吗？",
       "title_en": null,
       "title_zh": "享界G9：定位大型硬派SUV，承载式车身，定价超50万，有市场吗？",
@@ -148,7 +230,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/a0ba0054b8a9d727/115509687-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-04T17:01:22.563451Z",
-      "last_seen_at": "2026-07-05T06:38:53.776241Z",
+      "last_seen_at": "2026-07-05T09:40:13.428112Z",
       "title_original": "第一辆智能时尚SUV 聊小鹏MONA L03",
       "title_en": null,
       "title_zh": "第一辆智能时尚SUV 聊小鹏MONA L03",
@@ -167,7 +249,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/d8c60ec5d63854d7/115450001-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-04T17:01:22.563451Z",
-      "last_seen_at": "2026-07-05T06:38:53.776241Z",
+      "last_seen_at": "2026-07-05T09:40:13.428112Z",
       "title_original": "一眼就爱上了 iCAR V27提车作业分享",
       "title_en": null,
       "title_zh": "一眼就爱上了 iCAR V27提车作业分享",
@@ -185,7 +267,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/f5da19162b7403de/115441046-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-04T17:01:22.563451Z",
-      "last_seen_at": "2026-07-05T06:38:53.776241Z",
+      "last_seen_at": "2026-07-05T09:40:13.428112Z",
       "title_original": "前排空间很大 小鹏G7提车日记分享",
       "title_en": null,
       "title_zh": "前排空间很大 小鹏G7提车日记分享",
@@ -204,7 +286,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/2228ec4ca74560e9/115436446-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-04T17:01:22.563451Z",
-      "last_seen_at": "2026-07-05T06:38:53.776241Z",
+      "last_seen_at": "2026-07-05T09:40:13.428112Z",
       "title_original": "二胎家用冰川银极氪007GT提车分享",
       "title_en": null,
       "title_zh": "二胎家用冰川银极氪007GT提车分享",
@@ -223,7 +305,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/94cd2f94906dde43/115445031-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-04T17:01:22.563451Z",
-      "last_seen_at": "2026-07-05T06:38:53.776241Z",
+      "last_seen_at": "2026-07-05T09:40:13.428112Z",
       "title_original": "不负等待 小鹏GX提车作业分享记",
       "title_en": null,
       "title_zh": "不负等待 小鹏GX提车作业分享记",
@@ -242,7 +324,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/0797ac78354b9077/115439287-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-04T17:01:22.563451Z",
-      "last_seen_at": "2026-07-05T06:38:53.776241Z",
+      "last_seen_at": "2026-07-05T09:40:13.428112Z",
       "title_original": "选车到落地 特斯拉Model YL提车日记",
       "title_en": null,
       "title_zh": "选车到落地 特斯拉Model YL提车日记",
@@ -261,7 +343,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/864989af40159213/115418913-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-04T17:01:22.563451Z",
-      "last_seen_at": "2026-07-05T06:38:53.776241Z",
+      "last_seen_at": "2026-07-05T09:40:13.428112Z",
       "title_original": "预算十五万内 零跑Lafa5购车分享",
       "title_en": null,
       "title_zh": "预算十五万内 零跑Lafa5购车分享",
@@ -280,7 +362,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/77549c0ec9aee22e/115417198-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-04T17:01:22.563451Z",
-      "last_seen_at": "2026-07-05T06:38:53.776241Z",
+      "last_seen_at": "2026-07-05T09:40:13.428112Z",
       "title_original": "十年燃油车置换 喜提白外白内理想i6",
       "title_en": null,
       "title_zh": "十年燃油车置换 喜提白外白内理想i6",
@@ -298,7 +380,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/7af693562a0d4250/115406705-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-04T17:01:22.563451Z",
-      "last_seen_at": "2026-07-05T06:38:53.776241Z",
+      "last_seen_at": "2026-07-05T09:40:13.428112Z",
       "title_original": "适合家用代步 零跑A10提车作业分享",
       "title_en": null,
       "title_zh": "适合家用代步 零跑A10提车作业分享",
@@ -317,7 +399,7 @@
       "url": "https://carnewschina.com/2026/07/04/byd-seal-08-flagship-sedan-sales-production",
       "published_at": "2026-07-04T12:37:29Z",
       "first_seen_at": "2026-07-04T14:08:17.449102Z",
-      "last_seen_at": "2026-07-05T06:38:53.776241Z",
+      "last_seen_at": "2026-07-05T09:40:13.428112Z",
       "title_original": "BYD Seal 08 hits 65,000 orders in just over 30 hours with 694 hp dual motors",
       "title_en": "BYD Seal 08 hits 65,000 orders in just over 30 hours with 694 hp dual motors",
       "title_zh": "比亚迪Seal 08 694马力双电机仅30多小时就突破65,000份订单",
@@ -339,7 +421,7 @@
       "url": "https://cnevpost.com/2026/07/04/nio-names-3-candidate-cities-nio-day-2026",
       "published_at": "2026-07-04T11:43:35Z",
       "first_seen_at": "2026-07-04T14:08:17.449102Z",
-      "last_seen_at": "2026-07-05T06:38:53.776241Z",
+      "last_seen_at": "2026-07-05T09:40:13.428112Z",
       "title_original": "Nio names 3 candidate cities for Nio Day 2026, users to decide winner",
       "title_en": "Nio names 3 candidate cities for Nio Day 2026, users to decide winner",
       "title_zh": "蔚来公布 2026 年蔚来日 3 个候选城市，由用户决定获胜者",
@@ -347,50 +429,89 @@
       "topic_tags": [
         "新能源",
         "车企竞争"
-      ]
-    },
-    {
-      "id": "5a1271f603604a78b9036254faecdb9bde0c5070",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "懂车帝 · 文章排行榜",
-      "title": "零跑B10拆车：又见柱状三连杆，好久没碰到了！",
-      "url": "https://www.dongchedi.com/article/7658178527514378777",
-      "published_at": null,
-      "first_seen_at": "2026-07-04T08:09:20.286366Z",
-      "last_seen_at": "2026-07-05T06:38:53.776241Z",
-      "title_original": "零跑B10拆车：又见柱状三连杆，好久没碰到了！",
-      "title_en": null,
-      "title_zh": "零跑B10拆车：又见柱状三连杆，好久没碰到了！",
-      "title_bilingual": "零跑B10拆车：又见柱状三连杆，好久没碰到了！",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "9032ff034e5d0b10569ef6e8e6e5269e39799610",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "特斯拉在韩国通过电动车补贴项目评估后上调车型售价",
-      "url": "https://auto.gasgoo.com/news/202607/4I70464401C109.shtml",
-      "published_at": "2026-07-04T07:02:28Z",
-      "first_seen_at": "2026-07-04T23:33:05.353845Z",
-      "last_seen_at": "2026-07-05T06:38:53.776241Z",
-      "title_original": "特斯拉在韩国通过电动车补贴项目评估后上调车型售价",
-      "title_en": null,
-      "title_zh": "特斯拉在韩国通过电动车补贴项目评估后上调车型售价",
-      "title_bilingual": "特斯拉在韩国通过电动车补贴项目评估后上调车型售价",
-      "topic_tags": [
-        "新能源",
-        "价格战",
-        "车企竞争",
-        "新车上市"
       ]
     }
   ],
   "items_ai": [
     {
+      "id": "caf4979b3d6631c9fe898e2ff6e9a17929a3502d",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "hackernews",
+      "title": "EV Batteries Are Defying Expectations After Miles",
+      "url": "https://news.ycombinator.com/item?id=48791755",
+      "published_at": "2026-07-05T09:40:27.750000Z",
+      "first_seen_at": "2026-07-05T09:40:13.428112Z",
+      "last_seen_at": "2026-07-05T09:40:13.428112Z",
+      "title_original": "EV Batteries Are Defying Expectations After Miles",
+      "title_en": "EV Batteries Are Defying Expectations After Miles",
+      "title_zh": "电动汽车电池在行驶数英里后超出预期",
+      "title_bilingual": "电动汽车电池在行驶数英里后超出预期 / EV Batteries Are Defying Expectations After Miles",
+      "topic_tags": [
+        "新能源",
+        "补能电池"
+      ]
+    },
+    {
+      "id": "34658efabe315fb6036f7d7e24bd1e1b510127bc",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "懂车帝 · 文章排行榜",
+      "title": "L60车主试驾乐道L80，大车无笨感，易开好上手",
+      "url": "https://www.dongchedi.com/article/7658605890098971160",
+      "published_at": null,
+      "first_seen_at": "2026-07-05T09:40:13.428112Z",
+      "last_seen_at": "2026-07-05T09:40:13.428112Z",
+      "title_original": "L60车主试驾乐道L80，大车无笨感，易开好上手",
+      "title_en": null,
+      "title_zh": "L60车主试驾乐道L80，大车无笨感，易开好上手",
+      "title_bilingual": "L60车主试驾乐道L80，大车无笨感，易开好上手",
+      "topic_tags": [
+        "购车决策"
+      ]
+    },
+    {
+      "id": "d51196054d09c29762be2e2aeb1a4fd415215e60",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Nio's Firefly brand to hit 70,000th delivery milestone soon",
+      "url": "https://cnevpost.com/2026/07/05/nio-firefly-to-hit-70000th-delivery",
+      "published_at": "2026-07-05T08:30:59Z",
+      "first_seen_at": "2026-07-05T09:40:13.428112Z",
+      "last_seen_at": "2026-07-05T09:40:13.428112Z",
+      "title_original": "Nio's Firefly brand to hit 70,000th delivery milestone soon",
+      "title_en": "Nio's Firefly brand to hit 70,000th delivery milestone soon",
+      "title_zh": "蔚来Firefly品牌交付量即将突破7万辆里程碑",
+      "title_bilingual": "蔚来Firefly品牌交付量即将突破7万辆里程碑 / Nio's Firefly brand to hit 70,000th delivery milestone soon",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "a4c24e52c6009f2a45f2fcbd4bc34ad75d9c26e2",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Leaks and flooded charge ports: BYD Ti7 owners in China report detached glass roofs",
+      "url": "https://carnewschina.com/2026/07/05/leaks-and-flooded-charge-ports-byd-ti7-owners-in-china-report-detached-glass-roofs",
+      "published_at": "2026-07-05T07:42:16Z",
+      "first_seen_at": "2026-07-05T09:40:13.428112Z",
+      "last_seen_at": "2026-07-05T09:40:13.428112Z",
+      "title_original": "Leaks and flooded charge ports: BYD Ti7 owners in China report detached glass roofs",
+      "title_en": "Leaks and flooded charge ports: BYD Ti7 owners in China report detached glass roofs",
+      "title_zh": "泄漏和充电端口被淹：中国比亚迪 Ti7 车主报告玻璃屋顶脱落",
+      "title_bilingual": "泄漏和充电端口被淹：中国比亚迪 Ti7 车主报告玻璃屋顶脱落 / Leaks and flooded charge ports: BYD Ti7 owners in China report detached glass roofs",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
       "id": "dca4b75ecdfc176bd2150d8e116c2f1ccde04867",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -399,7 +520,7 @@
       "url": "https://carnewschina.com/2026/07/05/updated-lynk-co-02-with-800v-platform-lidar-to-enter-china-in-q3-2026",
       "published_at": "2026-07-05T05:04:06Z",
       "first_seen_at": "2026-07-05T06:38:53.776241Z",
-      "last_seen_at": "2026-07-05T06:38:53.776241Z",
+      "last_seen_at": "2026-07-05T09:40:13.428112Z",
       "title_original": "Updated Lynk & Co 02 with 800V platform & LiDAR to enter China in Q3 2026",
       "title_en": "Updated Lynk & Co 02 with 800V platform & LiDAR to enter China in Q3 2026",
       "title_zh": "更新领克02，配备800V平台和激光雷达，将于2026年第三季度进入中国",
@@ -418,7 +539,7 @@
       "url": "https://carnewschina.com/2026/07/05/mg-07-appears-china-streets-gm-copycat-defense",
       "published_at": "2026-07-05T04:00:02Z",
       "first_seen_at": "2026-07-05T06:38:53.776241Z",
-      "last_seen_at": "2026-07-05T06:38:53.776241Z",
+      "last_seen_at": "2026-07-05T09:40:13.428112Z",
       "title_original": "MG GM aborts broadcast over copycat claims as MG 07 hits streets",
       "title_en": "MG GM aborts broadcast over copycat claims as MG 07 hits streets",
       "title_zh": "MG 07 上路 MG 通用汽车因山寨宣传而中止直播",
@@ -436,7 +557,7 @@
       "url": "http://vc.yiche.com/vplay/11952061.html",
       "published_at": null,
       "first_seen_at": "2026-07-04T20:07:35.858036Z",
-      "last_seen_at": "2026-07-05T06:38:53.776241Z",
+      "last_seen_at": "2026-07-05T09:40:13.428112Z",
       "title_original": "大唐EV的亲兄弟要来了，海狮08价格预测曝光",
       "title_en": null,
       "title_zh": "大唐EV的亲兄弟要来了，海狮08价格预测曝光",
@@ -454,7 +575,7 @@
       "url": "http://vc.yiche.com/vplay/11941162.html",
       "published_at": null,
       "first_seen_at": "2026-07-04T20:07:35.858036Z",
-      "last_seen_at": "2026-07-05T06:38:53.776241Z",
+      "last_seen_at": "2026-07-05T09:40:13.428112Z",
       "title_original": "享界G9：定位大型硬派SUV，承载式车身，定价超50万，有市场吗？",
       "title_en": null,
       "title_zh": "享界G9：定位大型硬派SUV，承载式车身，定价超50万，有市场吗？",
@@ -474,7 +595,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/a0ba0054b8a9d727/115509687-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-04T17:01:22.563451Z",
-      "last_seen_at": "2026-07-05T06:38:53.776241Z",
+      "last_seen_at": "2026-07-05T09:40:13.428112Z",
       "title_original": "第一辆智能时尚SUV 聊小鹏MONA L03",
       "title_en": null,
       "title_zh": "第一辆智能时尚SUV 聊小鹏MONA L03",
@@ -493,7 +614,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/d8c60ec5d63854d7/115450001-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-04T17:01:22.563451Z",
-      "last_seen_at": "2026-07-05T06:38:53.776241Z",
+      "last_seen_at": "2026-07-05T09:40:13.428112Z",
       "title_original": "一眼就爱上了 iCAR V27提车作业分享",
       "title_en": null,
       "title_zh": "一眼就爱上了 iCAR V27提车作业分享",
@@ -511,7 +632,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/f5da19162b7403de/115441046-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-04T17:01:22.563451Z",
-      "last_seen_at": "2026-07-05T06:38:53.776241Z",
+      "last_seen_at": "2026-07-05T09:40:13.428112Z",
       "title_original": "前排空间很大 小鹏G7提车日记分享",
       "title_en": null,
       "title_zh": "前排空间很大 小鹏G7提车日记分享",
@@ -530,7 +651,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/2228ec4ca74560e9/115436446-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-04T17:01:22.563451Z",
-      "last_seen_at": "2026-07-05T06:38:53.776241Z",
+      "last_seen_at": "2026-07-05T09:40:13.428112Z",
       "title_original": "二胎家用冰川银极氪007GT提车分享",
       "title_en": null,
       "title_zh": "二胎家用冰川银极氪007GT提车分享",
@@ -549,7 +670,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/94cd2f94906dde43/115445031-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-04T17:01:22.563451Z",
-      "last_seen_at": "2026-07-05T06:38:53.776241Z",
+      "last_seen_at": "2026-07-05T09:40:13.428112Z",
       "title_original": "不负等待 小鹏GX提车作业分享记",
       "title_en": null,
       "title_zh": "不负等待 小鹏GX提车作业分享记",
@@ -568,7 +689,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/0797ac78354b9077/115439287-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-04T17:01:22.563451Z",
-      "last_seen_at": "2026-07-05T06:38:53.776241Z",
+      "last_seen_at": "2026-07-05T09:40:13.428112Z",
       "title_original": "选车到落地 特斯拉Model YL提车日记",
       "title_en": null,
       "title_zh": "选车到落地 特斯拉Model YL提车日记",
@@ -587,7 +708,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/864989af40159213/115418913-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-04T17:01:22.563451Z",
-      "last_seen_at": "2026-07-05T06:38:53.776241Z",
+      "last_seen_at": "2026-07-05T09:40:13.428112Z",
       "title_original": "预算十五万内 零跑Lafa5购车分享",
       "title_en": null,
       "title_zh": "预算十五万内 零跑Lafa5购车分享",
@@ -606,7 +727,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/77549c0ec9aee22e/115417198-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-04T17:01:22.563451Z",
-      "last_seen_at": "2026-07-05T06:38:53.776241Z",
+      "last_seen_at": "2026-07-05T09:40:13.428112Z",
       "title_original": "十年燃油车置换 喜提白外白内理想i6",
       "title_en": null,
       "title_zh": "十年燃油车置换 喜提白外白内理想i6",
@@ -624,7 +745,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/7af693562a0d4250/115406705-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-04T17:01:22.563451Z",
-      "last_seen_at": "2026-07-05T06:38:53.776241Z",
+      "last_seen_at": "2026-07-05T09:40:13.428112Z",
       "title_original": "适合家用代步 零跑A10提车作业分享",
       "title_en": null,
       "title_zh": "适合家用代步 零跑A10提车作业分享",
@@ -643,7 +764,7 @@
       "url": "https://carnewschina.com/2026/07/04/byd-seal-08-flagship-sedan-sales-production",
       "published_at": "2026-07-04T12:37:29Z",
       "first_seen_at": "2026-07-04T14:08:17.449102Z",
-      "last_seen_at": "2026-07-05T06:38:53.776241Z",
+      "last_seen_at": "2026-07-05T09:40:13.428112Z",
       "title_original": "BYD Seal 08 hits 65,000 orders in just over 30 hours with 694 hp dual motors",
       "title_en": "BYD Seal 08 hits 65,000 orders in just over 30 hours with 694 hp dual motors",
       "title_zh": "比亚迪Seal 08 694马力双电机仅30多小时就突破65,000份订单",
@@ -665,7 +786,7 @@
       "url": "https://cnevpost.com/2026/07/04/nio-names-3-candidate-cities-nio-day-2026",
       "published_at": "2026-07-04T11:43:35Z",
       "first_seen_at": "2026-07-04T14:08:17.449102Z",
-      "last_seen_at": "2026-07-05T06:38:53.776241Z",
+      "last_seen_at": "2026-07-05T09:40:13.428112Z",
       "title_original": "Nio names 3 candidate cities for Nio Day 2026, users to decide winner",
       "title_en": "Nio names 3 candidate cities for Nio Day 2026, users to decide winner",
       "title_zh": "蔚来公布 2026 年蔚来日 3 个候选城市，由用户决定获胜者",
@@ -673,45 +794,6 @@
       "topic_tags": [
         "新能源",
         "车企竞争"
-      ]
-    },
-    {
-      "id": "5a1271f603604a78b9036254faecdb9bde0c5070",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "懂车帝 · 文章排行榜",
-      "title": "零跑B10拆车：又见柱状三连杆，好久没碰到了！",
-      "url": "https://www.dongchedi.com/article/7658178527514378777",
-      "published_at": null,
-      "first_seen_at": "2026-07-04T08:09:20.286366Z",
-      "last_seen_at": "2026-07-05T06:38:53.776241Z",
-      "title_original": "零跑B10拆车：又见柱状三连杆，好久没碰到了！",
-      "title_en": null,
-      "title_zh": "零跑B10拆车：又见柱状三连杆，好久没碰到了！",
-      "title_bilingual": "零跑B10拆车：又见柱状三连杆，好久没碰到了！",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "9032ff034e5d0b10569ef6e8e6e5269e39799610",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "特斯拉在韩国通过电动车补贴项目评估后上调车型售价",
-      "url": "https://auto.gasgoo.com/news/202607/4I70464401C109.shtml",
-      "published_at": "2026-07-04T07:02:28Z",
-      "first_seen_at": "2026-07-04T23:33:05.353845Z",
-      "last_seen_at": "2026-07-05T06:38:53.776241Z",
-      "title_original": "特斯拉在韩国通过电动车补贴项目评估后上调车型售价",
-      "title_en": null,
-      "title_zh": "特斯拉在韩国通过电动车补贴项目评估后上调车型售价",
-      "title_bilingual": "特斯拉在韩国通过电动车补贴项目评估后上调车型售价",
-      "topic_tags": [
-        "新能源",
-        "价格战",
-        "车企竞争",
-        "新车上市"
       ]
     }
   ],
