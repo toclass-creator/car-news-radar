@@ -1,70 +1,147 @@
 {
-  "generated_at": "2026-07-06T05:53:52.927417Z",
+  "generated_at": "2026-07-06T10:14:29.993918Z",
   "window_hours": 24,
-  "total_items": 23,
-  "total_items_ai_raw": 25,
-  "total_items_raw": 3418,
-  "total_items_all_mode": 3250,
+  "total_items": 24,
+  "total_items_ai_raw": 26,
+  "total_items_raw": 3114,
+  "total_items_all_mode": 2952,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 68195,
+  "archive_total": 68120,
   "site_count": 3,
-  "source_count": 8,
+  "source_count": 7,
   "site_stats": [
-    {
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "count": 12,
-      "raw_count": 3197
-    },
     {
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "count": 10,
-      "raw_count": 12
+      "count": 13,
+      "raw_count": 15
+    },
+    {
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "count": 11,
+      "raw_count": 2920
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
-      "count": 1,
-      "raw_count": 209
+      "count": 0,
+      "raw_count": 179
     }
   ],
   "topic_tag_stats": [
     {
       "tag": "车企竞争",
-      "count": 16
-    },
-    {
-      "tag": "购车决策",
-      "count": 9
+      "count": 17
     },
     {
       "tag": "新能源",
-      "count": 8
+      "count": 10
     },
     {
       "tag": "新车上市",
-      "count": 8
+      "count": 9
     },
     {
-      "tag": "补能电池",
-      "count": 4
-    },
-    {
-      "tag": "销量市场",
-      "count": 2
+      "tag": "购车决策",
+      "count": 7
     },
     {
       "tag": "价格战",
-      "count": 1
+      "count": 2
+    },
+    {
+      "tag": "补能电池",
+      "count": 2
     },
     {
       "tag": "供应链",
+      "count": 1
+    },
+    {
+      "tag": "销量市场",
       "count": 1
     }
   ],
   "items": [
     {
+      "id": "7ea9e5b5de32bf046c09e1694773a13c6e7084e7",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "China’s bestselling EV comes to EU under the Geely E2 name",
+      "url": "https://carnewschina.com/2026/07/06/geely-e2-eu",
+      "published_at": "2026-07-06T09:29:01Z",
+      "first_seen_at": "2026-07-06T10:14:29.993918Z",
+      "last_seen_at": "2026-07-06T10:14:29.993918Z",
+      "title_original": "China’s bestselling EV comes to EU under the Geely E2 name",
+      "title_en": "China’s bestselling EV comes to EU under the Geely E2 name",
+      "title_zh": "中国最畅销的电动车以吉利E2的名义登陆欧盟",
+      "title_bilingual": "中国最畅销的电动车以吉利E2的名义登陆欧盟 / China’s bestselling EV comes to EU under the Geely E2 name",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "6440122030a64d8a7099545004d46375fce56c83",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "How China is shipping cars when specialized carriers aren’t enough",
+      "url": "https://carnewschina.com/2026/07/06/how-china-is-shipping-cars-when-specialized-carriers-arent-enough",
+      "published_at": "2026-07-06T09:19:47Z",
+      "first_seen_at": "2026-07-06T10:14:29.993918Z",
+      "last_seen_at": "2026-07-06T10:14:29.993918Z",
+      "title_original": "How China is shipping cars when specialized carriers aren’t enough",
+      "title_en": "How China is shipping cars when specialized carriers aren’t enough",
+      "title_zh": "当专业承运商不够时，中国如何运输汽车",
+      "title_bilingual": "当专业承运商不够时，中国如何运输汽车 / How China is shipping cars when specialized carriers aren’t enough",
+      "topic_tags": [
+        "新能源"
+      ]
+    },
+    {
+      "id": "6a02913f44cf979a1f3067519fd86cd2b02dbd16",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Li Auto's new L6 set for potential price hike as costs surge",
+      "url": "https://cnevpost.com/2026/07/06/li-auto-new-l6-potential-price-hike",
+      "published_at": "2026-07-06T07:17:07Z",
+      "first_seen_at": "2026-07-06T10:14:29.993918Z",
+      "last_seen_at": "2026-07-06T10:14:29.993918Z",
+      "title_original": "Li Auto's new L6 set for potential price hike as costs surge",
+      "title_en": "Li Auto's new L6 set for potential price hike as costs surge",
+      "title_zh": "成本飙升 理想汽车新款L6或将涨价",
+      "title_bilingual": "成本飙升 理想汽车新款L6或将涨价 / Li Auto's new L6 set for potential price hike as costs surge",
+      "topic_tags": [
+        "新能源",
+        "价格战",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "c8c548ede372f63b94e314caf178ece62be1b207",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Nio sets 5-seat ES8 launch event for 7:30 pm on July 9",
+      "url": "https://cnevpost.com/2026/07/06/nio-5-seat-es8-launch-730-pm-jul-9",
+      "published_at": "2026-07-06T06:02:18Z",
+      "first_seen_at": "2026-07-06T10:14:29.993918Z",
+      "last_seen_at": "2026-07-06T10:14:29.993918Z",
+      "title_original": "Nio sets 5-seat ES8 launch event for 7:30 pm on July 9",
+      "title_en": "Nio sets 5-seat ES8 launch event for 7:30 pm on July 9",
+      "title_zh": "蔚来ES8 5座发布会将于7月9日晚上7点30分举行",
+      "title_bilingual": "蔚来ES8 5座发布会将于7月9日晚上7点30分举行 / Nio sets 5-seat ES8 launch event for 7:30 pm on July 9",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
       "id": "55982a45c2cc3e796110a6937a96f03e48b3d7f2",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -73,7 +150,7 @@
       "url": "https://carnewschina.com/2026/07/06/mg-07-interior-unveiled-with-840-km-range-ahead-of-july-29-presale",
       "published_at": "2026-07-06T04:12:49Z",
       "first_seen_at": "2026-07-06T05:53:52.927417Z",
-      "last_seen_at": "2026-07-06T05:53:52.927417Z",
+      "last_seen_at": "2026-07-06T10:14:29.993918Z",
       "title_original": "MG 07 interior unveiled with 840 km range ahead of July 29 presale",
       "title_en": "MG 07 interior unveiled with 840 km range ahead of July 29 presale",
       "title_zh": "名爵07内饰亮相 续航840公里 7月29日预售",
@@ -93,7 +170,7 @@
       "url": "https://cnevpost.com/2026/07/06/leapmotor-enters-mexico",
       "published_at": "2026-07-06T03:47:01Z",
       "first_seen_at": "2026-07-06T05:53:52.927417Z",
-      "last_seen_at": "2026-07-06T05:53:52.927417Z",
+      "last_seen_at": "2026-07-06T10:14:29.993918Z",
       "title_original": "Leapmotor enters Mexico, marking first step into North America",
       "title_en": "Leapmotor enters Mexico, marking first step into North America",
       "title_zh": "零跑进军墨西哥，迈出进军北美的第一步",
@@ -112,7 +189,7 @@
       "url": "https://cnevpost.com/2026/07/06/saic-mg-07-to-begin-pre-sales-jul-29",
       "published_at": "2026-07-06T03:05:24Z",
       "first_seen_at": "2026-07-06T05:53:52.927417Z",
-      "last_seen_at": "2026-07-06T05:53:52.927417Z",
+      "last_seen_at": "2026-07-06T10:14:29.993918Z",
       "title_original": "SAIC MG 07 to begin pre-sales on July 29, targeting young EV buyers",
       "title_en": "SAIC MG 07 to begin pre-sales on July 29, targeting young EV buyers",
       "title_zh": "上汽名爵07将于7月29日开启预售，瞄准年轻电动车买家",
@@ -131,7 +208,7 @@
       "url": "https://carnewschina.com/2026/07/06/from-scrap-to-chassis-xiaomi-slashes-emissions-93-to-outmaneuver-europe",
       "published_at": "2026-07-06T02:59:13Z",
       "first_seen_at": "2026-07-06T05:53:52.927417Z",
-      "last_seen_at": "2026-07-06T05:53:52.927417Z",
+      "last_seen_at": "2026-07-06T10:14:29.993918Z",
       "title_original": "From scrap to chassis: Xiaomi slashes emissions 93% to outmaneuver Europe",
       "title_en": "From scrap to chassis: Xiaomi slashes emissions 93% to outmaneuver Europe",
       "title_zh": "从废料到底盘：小米减排 93% 战胜欧洲",
@@ -151,7 +228,7 @@
       "url": "https://cnevpost.com/2026/07/06/nio-brand-average-selling-price-jun-2026",
       "published_at": "2026-07-06T02:45:06Z",
       "first_seen_at": "2026-07-06T05:53:52.927417Z",
-      "last_seen_at": "2026-07-06T05:53:52.927417Z",
+      "last_seen_at": "2026-07-06T10:14:29.993918Z",
       "title_original": "Nio brand's average selling price hits $65,300 in June as flagship SUV boosts premium pricing power",
       "title_en": "Nio brand's average selling price hits $65,300 in June as flagship SUV boosts premium pricing power",
       "title_zh": "蔚来品牌6月平均售价达6.53万美元 旗舰SUV提升溢价能力",
@@ -172,7 +249,7 @@
       "url": "http://vc.yiche.com/vplay/11959572.html",
       "published_at": null,
       "first_seen_at": "2026-07-05T19:13:40.244999Z",
-      "last_seen_at": "2026-07-06T05:53:52.927417Z",
+      "last_seen_at": "2026-07-06T10:14:29.993918Z",
       "title_original": "风云T7官图发布 奇瑞又一款重磅SUV来了！",
       "title_en": null,
       "title_zh": "风云T7官图发布 奇瑞又一款重磅SUV来了！",
@@ -191,7 +268,7 @@
       "url": "http://vc.yiche.com/vplay/11960069.html",
       "published_at": null,
       "first_seen_at": "2026-07-05T19:13:40.244999Z",
-      "last_seen_at": "2026-07-06T05:53:52.927417Z",
+      "last_seen_at": "2026-07-06T10:14:29.993918Z",
       "title_original": "比亚迪海豹08优缺点 19.69万起标配后轮转向 体型比奔驰E还大",
       "title_en": null,
       "title_zh": "比亚迪海豹08优缺点 19.69万起标配后轮转向 体型比奔驰E还大",
@@ -209,7 +286,7 @@
       "url": "http://vc.yiche.com/vplay/11947392.html",
       "published_at": null,
       "first_seen_at": "2026-07-05T19:13:40.244999Z",
-      "last_seen_at": "2026-07-06T05:53:52.927417Z",
+      "last_seen_at": "2026-07-06T10:14:29.993918Z",
       "title_original": "想买越野车的人且慢？3款全新方盒子SUV将登场",
       "title_en": null,
       "title_zh": "想买越野车的人且慢？3款全新方盒子SUV将登场",
@@ -227,7 +304,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/60156177cf1b188f/115430440-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-05T17:35:28.683159Z",
-      "last_seen_at": "2026-07-06T05:53:52.927417Z",
+      "last_seen_at": "2026-07-06T10:14:29.993918Z",
       "title_original": "颜值拉满 小鹏MONA M03提车作业分享",
       "title_en": null,
       "title_zh": "颜值拉满 小鹏MONA M03提车作业分享",
@@ -246,7 +323,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/9205b7832cf3962e/115430522-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-05T17:35:28.683159Z",
-      "last_seen_at": "2026-07-06T05:53:52.927417Z",
+      "last_seen_at": "2026-07-06T10:14:29.993918Z",
       "title_original": "静态体验实拍 理想L8 Livis新车品鉴",
       "title_en": null,
       "title_zh": "静态体验实拍 理想L8 Livis新车品鉴",
@@ -266,7 +343,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/ecea0a7dd671c685/115420448-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-05T17:35:28.683159Z",
-      "last_seen_at": "2026-07-06T05:53:52.927417Z",
+      "last_seen_at": "2026-07-06T10:14:29.993918Z",
       "title_original": "空间很满意 零跑A10提车作业分享",
       "title_en": null,
       "title_zh": "空间很满意 零跑A10提车作业分享",
@@ -285,7 +362,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/3fa2417a5092cf28/115413403-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-05T17:35:28.683159Z",
-      "last_seen_at": "2026-07-06T05:53:52.927417Z",
+      "last_seen_at": "2026-07-06T10:14:29.993918Z",
       "title_original": "通勤大玩具 极氪007GT提车记分享",
       "title_en": null,
       "title_zh": "通勤大玩具 极氪007GT提车记分享",
@@ -304,7 +381,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/6eefbbe51606fa3d/115409847-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-05T17:35:28.683159Z",
-      "last_seen_at": "2026-07-06T05:53:52.927417Z",
+      "last_seen_at": "2026-07-06T10:14:29.993918Z",
       "title_original": "符合购车预算 银河星耀8提车记分享",
       "title_en": null,
       "title_zh": "符合购车预算 银河星耀8提车记分享",
@@ -322,7 +399,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/a6dcb458229d0608/115409647-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-05T17:35:28.683159Z",
-      "last_seen_at": "2026-07-06T05:53:52.927417Z",
+      "last_seen_at": "2026-07-06T10:14:29.993918Z",
       "title_original": "符合预期 长安启源A06提车分享",
       "title_en": null,
       "title_zh": "符合预期 长安启源A06提车分享",
@@ -341,7 +418,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/c1190db62bb7b1e0/115378862-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-05T17:35:28.683159Z",
-      "last_seen_at": "2026-07-06T05:53:52.927417Z",
+      "last_seen_at": "2026-07-06T10:14:29.993918Z",
       "title_original": "符合心里预期 喜提长城猛龙 PLUS",
       "title_en": null,
       "title_zh": "符合心里预期 喜提长城猛龙 PLUS",
@@ -359,7 +436,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/0848462f4e1f2862/115334376-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-05T17:35:28.683159Z",
-      "last_seen_at": "2026-07-06T05:53:52.927417Z",
+      "last_seen_at": "2026-07-06T10:14:29.993918Z",
       "title_original": "950km续航 静态体验比亚迪大唐",
       "title_en": null,
       "title_zh": "950km续航 静态体验比亚迪大唐",
@@ -371,6 +448,42 @@
       ]
     },
     {
+      "id": "0d5b77410f93a27905a51babb9473013b4b986ec",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "小智一周要闻 | 宇树科创板IPO获证监会同意；智元第15000台具身机器人下线",
+      "url": "https://auto.gasgoo.com/news/202607/5I70464438C601.shtml",
+      "published_at": "2026-07-05T16:20:28Z",
+      "first_seen_at": "2026-07-06T10:14:29.993918Z",
+      "last_seen_at": "2026-07-06T10:14:29.993918Z",
+      "title_original": "小智一周要闻 | 宇树科创板IPO获证监会同意；智元第15000台具身机器人下线",
+      "title_en": null,
+      "title_zh": "小智一周要闻 | 宇树科创板IPO获证监会同意；智元第15000台具身机器人下线",
+      "title_bilingual": "小智一周要闻 | 宇树科创板IPO获证监会同意；智元第15000台具身机器人下线",
+      "topic_tags": []
+    },
+    {
+      "id": "54eb3784d832be71d1f46e29fdd560aea66c61b9",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新能源",
+      "title": "E周看点 | 史上最严电动车新国标实施；零跑6月销量近10万辆",
+      "url": "https://auto.gasgoo.com/news/202607/5I70464498C501.shtml",
+      "published_at": "2026-07-05T16:16:33Z",
+      "first_seen_at": "2026-07-06T10:14:29.993918Z",
+      "last_seen_at": "2026-07-06T10:14:29.993918Z",
+      "title_original": "E周看点 | 史上最严电动车新国标实施；零跑6月销量近10万辆",
+      "title_en": null,
+      "title_zh": "E周看点 | 史上最严电动车新国标实施；零跑6月销量近10万辆",
+      "title_bilingual": "E周看点 | 史上最严电动车新国标实施；零跑6月销量近10万辆",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
       "id": "f9273a21c3c371bcd5b06f5444064fdfa5f5d3fd",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -379,7 +492,7 @@
       "url": "https://auto.gasgoo.com/news/202607/5I70464497C601.shtml",
       "published_at": "2026-07-05T13:07:17Z",
       "first_seen_at": "2026-07-06T05:53:52.927417Z",
-      "last_seen_at": "2026-07-06T05:53:52.927417Z",
+      "last_seen_at": "2026-07-06T10:14:29.993918Z",
       "title_original": "GSA 2026 | 车联天下携全系产品矩阵亮相",
       "title_en": null,
       "title_zh": "GSA 2026 | 车联天下携全系产品矩阵亮相",
@@ -397,7 +510,7 @@
       "url": "https://auto.gasgoo.com/news/202607/5I70464496C109.shtml",
       "published_at": "2026-07-05T12:51:37Z",
       "first_seen_at": "2026-07-06T05:53:52.927417Z",
-      "last_seen_at": "2026-07-06T05:53:52.927417Z",
+      "last_seen_at": "2026-07-06T10:14:29.993918Z",
       "title_original": "GSA 2026 | 猛士汽车携双车亮相",
       "title_en": null,
       "title_zh": "GSA 2026 | 猛士汽车携双车亮相",
@@ -405,108 +518,88 @@
       "topic_tags": [
         "车企竞争",
         "新车上市"
-      ]
-    },
-    {
-      "id": "caf4979b3d6631c9fe898e2ff6e9a17929a3502d",
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "hackernews",
-      "title": "EV Batteries Are Defying Expectations After Miles",
-      "url": "https://news.ycombinator.com/item?id=48791755",
-      "published_at": "2026-07-05T09:40:27.750000Z",
-      "first_seen_at": "2026-07-05T09:40:13.428112Z",
-      "last_seen_at": "2026-07-05T09:40:13.428112Z",
-      "title_original": "EV Batteries Are Defying Expectations After Miles",
-      "title_en": "EV Batteries Are Defying Expectations After Miles",
-      "title_zh": "电动汽车电池在行驶数英里后超出预期",
-      "title_bilingual": "电动汽车电池在行驶数英里后超出预期 / EV Batteries Are Defying Expectations After Miles",
-      "topic_tags": [
-        "新能源",
-        "补能电池"
-      ]
-    },
-    {
-      "id": "34658efabe315fb6036f7d7e24bd1e1b510127bc",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "懂车帝 · 文章排行榜",
-      "title": "L60车主试驾乐道L80，大车无笨感，易开好上手",
-      "url": "https://www.dongchedi.com/article/7658605890098971160",
-      "published_at": null,
-      "first_seen_at": "2026-07-05T09:40:13.428112Z",
-      "last_seen_at": "2026-07-06T05:53:52.927417Z",
-      "title_original": "L60车主试驾乐道L80，大车无笨感，易开好上手",
-      "title_en": null,
-      "title_zh": "L60车主试驾乐道L80，大车无笨感，易开好上手",
-      "title_bilingual": "L60车主试驾乐道L80，大车无笨感，易开好上手",
-      "topic_tags": [
-        "购车决策"
-      ]
-    },
-    {
-      "id": "d51196054d09c29762be2e2aeb1a4fd415215e60",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Nio's Firefly brand to hit 70,000th delivery milestone soon",
-      "url": "https://cnevpost.com/2026/07/05/nio-firefly-to-hit-70000th-delivery",
-      "published_at": "2026-07-05T08:30:59Z",
-      "first_seen_at": "2026-07-05T09:40:13.428112Z",
-      "last_seen_at": "2026-07-06T05:53:52.927417Z",
-      "title_original": "Nio's Firefly brand to hit 70,000th delivery milestone soon",
-      "title_en": "Nio's Firefly brand to hit 70,000th delivery milestone soon",
-      "title_zh": "蔚来Firefly品牌交付量即将突破7万辆里程碑",
-      "title_bilingual": "蔚来Firefly品牌交付量即将突破7万辆里程碑 / Nio's Firefly brand to hit 70,000th delivery milestone soon",
-      "topic_tags": [
-        "新能源",
-        "销量市场",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "a4c24e52c6009f2a45f2fcbd4bc34ad75d9c26e2",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Leaks and flooded charge ports: BYD Ti7 owners in China report detached glass roofs",
-      "url": "https://carnewschina.com/2026/07/05/leaks-and-flooded-charge-ports-byd-ti7-owners-in-china-report-detached-glass-roofs",
-      "published_at": "2026-07-05T07:42:16Z",
-      "first_seen_at": "2026-07-05T09:40:13.428112Z",
-      "last_seen_at": "2026-07-06T05:53:52.927417Z",
-      "title_original": "Leaks and flooded charge ports: BYD Ti7 owners in China report detached glass roofs",
-      "title_en": "Leaks and flooded charge ports: BYD Ti7 owners in China report detached glass roofs",
-      "title_zh": "泄漏和充电端口被淹：中国比亚迪 Ti7 车主报告玻璃屋顶脱落",
-      "title_bilingual": "泄漏和充电端口被淹：中国比亚迪 Ti7 车主报告玻璃屋顶脱落 / Leaks and flooded charge ports: BYD Ti7 owners in China report detached glass roofs",
-      "topic_tags": [
-        "新能源",
-        "补能电池",
-        "车企竞争",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "415cdb700160073df4a38c370c8d0f77233b2c31",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "盖世周报 | 伟巴斯特中国区换帅；法雷奥斩获新订单",
-      "url": "https://auto.gasgoo.com/news/202607/5I70464259C109.shtml",
-      "published_at": "2026-07-05T07:00:00Z",
-      "first_seen_at": "2026-07-05T23:10:21.208634Z",
-      "last_seen_at": "2026-07-06T05:53:52.927417Z",
-      "title_original": "盖世周报 | 伟巴斯特中国区换帅；法雷奥斩获新订单",
-      "title_en": null,
-      "title_zh": "盖世周报 | 伟巴斯特中国区换帅；法雷奥斩获新订单",
-      "title_bilingual": "盖世周报 | 伟巴斯特中国区换帅；法雷奥斩获新订单",
-      "topic_tags": [
-        "销量市场",
-        "车企竞争"
       ]
     }
   ],
   "items_ai": [
     {
+      "id": "7ea9e5b5de32bf046c09e1694773a13c6e7084e7",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "China’s bestselling EV comes to EU under the Geely E2 name",
+      "url": "https://carnewschina.com/2026/07/06/geely-e2-eu",
+      "published_at": "2026-07-06T09:29:01Z",
+      "first_seen_at": "2026-07-06T10:14:29.993918Z",
+      "last_seen_at": "2026-07-06T10:14:29.993918Z",
+      "title_original": "China’s bestselling EV comes to EU under the Geely E2 name",
+      "title_en": "China’s bestselling EV comes to EU under the Geely E2 name",
+      "title_zh": "中国最畅销的电动车以吉利E2的名义登陆欧盟",
+      "title_bilingual": "中国最畅销的电动车以吉利E2的名义登陆欧盟 / China’s bestselling EV comes to EU under the Geely E2 name",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "6440122030a64d8a7099545004d46375fce56c83",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "How China is shipping cars when specialized carriers aren’t enough",
+      "url": "https://carnewschina.com/2026/07/06/how-china-is-shipping-cars-when-specialized-carriers-arent-enough",
+      "published_at": "2026-07-06T09:19:47Z",
+      "first_seen_at": "2026-07-06T10:14:29.993918Z",
+      "last_seen_at": "2026-07-06T10:14:29.993918Z",
+      "title_original": "How China is shipping cars when specialized carriers aren’t enough",
+      "title_en": "How China is shipping cars when specialized carriers aren’t enough",
+      "title_zh": "当专业承运商不够时，中国如何运输汽车",
+      "title_bilingual": "当专业承运商不够时，中国如何运输汽车 / How China is shipping cars when specialized carriers aren’t enough",
+      "topic_tags": [
+        "新能源"
+      ]
+    },
+    {
+      "id": "6a02913f44cf979a1f3067519fd86cd2b02dbd16",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Li Auto's new L6 set for potential price hike as costs surge",
+      "url": "https://cnevpost.com/2026/07/06/li-auto-new-l6-potential-price-hike",
+      "published_at": "2026-07-06T07:17:07Z",
+      "first_seen_at": "2026-07-06T10:14:29.993918Z",
+      "last_seen_at": "2026-07-06T10:14:29.993918Z",
+      "title_original": "Li Auto's new L6 set for potential price hike as costs surge",
+      "title_en": "Li Auto's new L6 set for potential price hike as costs surge",
+      "title_zh": "成本飙升 理想汽车新款L6或将涨价",
+      "title_bilingual": "成本飙升 理想汽车新款L6或将涨价 / Li Auto's new L6 set for potential price hike as costs surge",
+      "topic_tags": [
+        "新能源",
+        "价格战",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "c8c548ede372f63b94e314caf178ece62be1b207",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Nio sets 5-seat ES8 launch event for 7:30 pm on July 9",
+      "url": "https://cnevpost.com/2026/07/06/nio-5-seat-es8-launch-730-pm-jul-9",
+      "published_at": "2026-07-06T06:02:18Z",
+      "first_seen_at": "2026-07-06T10:14:29.993918Z",
+      "last_seen_at": "2026-07-06T10:14:29.993918Z",
+      "title_original": "Nio sets 5-seat ES8 launch event for 7:30 pm on July 9",
+      "title_en": "Nio sets 5-seat ES8 launch event for 7:30 pm on July 9",
+      "title_zh": "蔚来ES8 5座发布会将于7月9日晚上7点30分举行",
+      "title_bilingual": "蔚来ES8 5座发布会将于7月9日晚上7点30分举行 / Nio sets 5-seat ES8 launch event for 7:30 pm on July 9",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
       "id": "55982a45c2cc3e796110a6937a96f03e48b3d7f2",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -515,7 +608,7 @@
       "url": "https://carnewschina.com/2026/07/06/mg-07-interior-unveiled-with-840-km-range-ahead-of-july-29-presale",
       "published_at": "2026-07-06T04:12:49Z",
       "first_seen_at": "2026-07-06T05:53:52.927417Z",
-      "last_seen_at": "2026-07-06T05:53:52.927417Z",
+      "last_seen_at": "2026-07-06T10:14:29.993918Z",
       "title_original": "MG 07 interior unveiled with 840 km range ahead of July 29 presale",
       "title_en": "MG 07 interior unveiled with 840 km range ahead of July 29 presale",
       "title_zh": "名爵07内饰亮相 续航840公里 7月29日预售",
@@ -535,7 +628,7 @@
       "url": "https://cnevpost.com/2026/07/06/leapmotor-enters-mexico",
       "published_at": "2026-07-06T03:47:01Z",
       "first_seen_at": "2026-07-06T05:53:52.927417Z",
-      "last_seen_at": "2026-07-06T05:53:52.927417Z",
+      "last_seen_at": "2026-07-06T10:14:29.993918Z",
       "title_original": "Leapmotor enters Mexico, marking first step into North America",
       "title_en": "Leapmotor enters Mexico, marking first step into North America",
       "title_zh": "零跑进军墨西哥，迈出进军北美的第一步",
@@ -554,7 +647,7 @@
       "url": "https://cnevpost.com/2026/07/06/saic-mg-07-to-begin-pre-sales-jul-29",
       "published_at": "2026-07-06T03:05:24Z",
       "first_seen_at": "2026-07-06T05:53:52.927417Z",
-      "last_seen_at": "2026-07-06T05:53:52.927417Z",
+      "last_seen_at": "2026-07-06T10:14:29.993918Z",
       "title_original": "SAIC MG 07 to begin pre-sales on July 29, targeting young EV buyers",
       "title_en": "SAIC MG 07 to begin pre-sales on July 29, targeting young EV buyers",
       "title_zh": "上汽名爵07将于7月29日开启预售，瞄准年轻电动车买家",
@@ -573,7 +666,7 @@
       "url": "https://carnewschina.com/2026/07/06/from-scrap-to-chassis-xiaomi-slashes-emissions-93-to-outmaneuver-europe",
       "published_at": "2026-07-06T02:59:13Z",
       "first_seen_at": "2026-07-06T05:53:52.927417Z",
-      "last_seen_at": "2026-07-06T05:53:52.927417Z",
+      "last_seen_at": "2026-07-06T10:14:29.993918Z",
       "title_original": "From scrap to chassis: Xiaomi slashes emissions 93% to outmaneuver Europe",
       "title_en": "From scrap to chassis: Xiaomi slashes emissions 93% to outmaneuver Europe",
       "title_zh": "从废料到底盘：小米减排 93% 战胜欧洲",
@@ -593,7 +686,7 @@
       "url": "https://cnevpost.com/2026/07/06/nio-brand-average-selling-price-jun-2026",
       "published_at": "2026-07-06T02:45:06Z",
       "first_seen_at": "2026-07-06T05:53:52.927417Z",
-      "last_seen_at": "2026-07-06T05:53:52.927417Z",
+      "last_seen_at": "2026-07-06T10:14:29.993918Z",
       "title_original": "Nio brand's average selling price hits $65,300 in June as flagship SUV boosts premium pricing power",
       "title_en": "Nio brand's average selling price hits $65,300 in June as flagship SUV boosts premium pricing power",
       "title_zh": "蔚来品牌6月平均售价达6.53万美元 旗舰SUV提升溢价能力",
@@ -614,7 +707,7 @@
       "url": "http://vc.yiche.com/vplay/11959572.html",
       "published_at": null,
       "first_seen_at": "2026-07-05T19:13:40.244999Z",
-      "last_seen_at": "2026-07-06T05:53:52.927417Z",
+      "last_seen_at": "2026-07-06T10:14:29.993918Z",
       "title_original": "风云T7官图发布 奇瑞又一款重磅SUV来了！",
       "title_en": null,
       "title_zh": "风云T7官图发布 奇瑞又一款重磅SUV来了！",
@@ -633,7 +726,7 @@
       "url": "http://vc.yiche.com/vplay/11960069.html",
       "published_at": null,
       "first_seen_at": "2026-07-05T19:13:40.244999Z",
-      "last_seen_at": "2026-07-06T05:53:52.927417Z",
+      "last_seen_at": "2026-07-06T10:14:29.993918Z",
       "title_original": "比亚迪海豹08优缺点 19.69万起标配后轮转向 体型比奔驰E还大",
       "title_en": null,
       "title_zh": "比亚迪海豹08优缺点 19.69万起标配后轮转向 体型比奔驰E还大",
@@ -651,7 +744,7 @@
       "url": "http://vc.yiche.com/vplay/11947392.html",
       "published_at": null,
       "first_seen_at": "2026-07-05T19:13:40.244999Z",
-      "last_seen_at": "2026-07-06T05:53:52.927417Z",
+      "last_seen_at": "2026-07-06T10:14:29.993918Z",
       "title_original": "想买越野车的人且慢？3款全新方盒子SUV将登场",
       "title_en": null,
       "title_zh": "想买越野车的人且慢？3款全新方盒子SUV将登场",
@@ -669,7 +762,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/60156177cf1b188f/115430440-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-05T17:35:28.683159Z",
-      "last_seen_at": "2026-07-06T05:53:52.927417Z",
+      "last_seen_at": "2026-07-06T10:14:29.993918Z",
       "title_original": "颜值拉满 小鹏MONA M03提车作业分享",
       "title_en": null,
       "title_zh": "颜值拉满 小鹏MONA M03提车作业分享",
@@ -688,7 +781,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/9205b7832cf3962e/115430522-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-05T17:35:28.683159Z",
-      "last_seen_at": "2026-07-06T05:53:52.927417Z",
+      "last_seen_at": "2026-07-06T10:14:29.993918Z",
       "title_original": "静态体验实拍 理想L8 Livis新车品鉴",
       "title_en": null,
       "title_zh": "静态体验实拍 理想L8 Livis新车品鉴",
@@ -708,7 +801,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/ecea0a7dd671c685/115420448-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-05T17:35:28.683159Z",
-      "last_seen_at": "2026-07-06T05:53:52.927417Z",
+      "last_seen_at": "2026-07-06T10:14:29.993918Z",
       "title_original": "空间很满意 零跑A10提车作业分享",
       "title_en": null,
       "title_zh": "空间很满意 零跑A10提车作业分享",
@@ -727,7 +820,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/3fa2417a5092cf28/115413403-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-05T17:35:28.683159Z",
-      "last_seen_at": "2026-07-06T05:53:52.927417Z",
+      "last_seen_at": "2026-07-06T10:14:29.993918Z",
       "title_original": "通勤大玩具 极氪007GT提车记分享",
       "title_en": null,
       "title_zh": "通勤大玩具 极氪007GT提车记分享",
@@ -746,7 +839,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/6eefbbe51606fa3d/115409847-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-05T17:35:28.683159Z",
-      "last_seen_at": "2026-07-06T05:53:52.927417Z",
+      "last_seen_at": "2026-07-06T10:14:29.993918Z",
       "title_original": "符合购车预算 银河星耀8提车记分享",
       "title_en": null,
       "title_zh": "符合购车预算 银河星耀8提车记分享",
@@ -764,7 +857,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/a6dcb458229d0608/115409647-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-05T17:35:28.683159Z",
-      "last_seen_at": "2026-07-06T05:53:52.927417Z",
+      "last_seen_at": "2026-07-06T10:14:29.993918Z",
       "title_original": "符合预期 长安启源A06提车分享",
       "title_en": null,
       "title_zh": "符合预期 长安启源A06提车分享",
@@ -783,7 +876,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/c1190db62bb7b1e0/115378862-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-05T17:35:28.683159Z",
-      "last_seen_at": "2026-07-06T05:53:52.927417Z",
+      "last_seen_at": "2026-07-06T10:14:29.993918Z",
       "title_original": "符合心里预期 喜提长城猛龙 PLUS",
       "title_en": null,
       "title_zh": "符合心里预期 喜提长城猛龙 PLUS",
@@ -801,7 +894,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/0848462f4e1f2862/115334376-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-05T17:35:28.683159Z",
-      "last_seen_at": "2026-07-06T05:53:52.927417Z",
+      "last_seen_at": "2026-07-06T10:14:29.993918Z",
       "title_original": "950km续航 静态体验比亚迪大唐",
       "title_en": null,
       "title_zh": "950km续航 静态体验比亚迪大唐",
@@ -813,6 +906,42 @@
       ]
     },
     {
+      "id": "0d5b77410f93a27905a51babb9473013b4b986ec",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "小智一周要闻 | 宇树科创板IPO获证监会同意；智元第15000台具身机器人下线",
+      "url": "https://auto.gasgoo.com/news/202607/5I70464438C601.shtml",
+      "published_at": "2026-07-05T16:20:28Z",
+      "first_seen_at": "2026-07-06T10:14:29.993918Z",
+      "last_seen_at": "2026-07-06T10:14:29.993918Z",
+      "title_original": "小智一周要闻 | 宇树科创板IPO获证监会同意；智元第15000台具身机器人下线",
+      "title_en": null,
+      "title_zh": "小智一周要闻 | 宇树科创板IPO获证监会同意；智元第15000台具身机器人下线",
+      "title_bilingual": "小智一周要闻 | 宇树科创板IPO获证监会同意；智元第15000台具身机器人下线",
+      "topic_tags": []
+    },
+    {
+      "id": "54eb3784d832be71d1f46e29fdd560aea66c61b9",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新能源",
+      "title": "E周看点 | 史上最严电动车新国标实施；零跑6月销量近10万辆",
+      "url": "https://auto.gasgoo.com/news/202607/5I70464498C501.shtml",
+      "published_at": "2026-07-05T16:16:33Z",
+      "first_seen_at": "2026-07-06T10:14:29.993918Z",
+      "last_seen_at": "2026-07-06T10:14:29.993918Z",
+      "title_original": "E周看点 | 史上最严电动车新国标实施；零跑6月销量近10万辆",
+      "title_en": null,
+      "title_zh": "E周看点 | 史上最严电动车新国标实施；零跑6月销量近10万辆",
+      "title_bilingual": "E周看点 | 史上最严电动车新国标实施；零跑6月销量近10万辆",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
       "id": "f9273a21c3c371bcd5b06f5444064fdfa5f5d3fd",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -821,7 +950,7 @@
       "url": "https://auto.gasgoo.com/news/202607/5I70464497C601.shtml",
       "published_at": "2026-07-05T13:07:17Z",
       "first_seen_at": "2026-07-06T05:53:52.927417Z",
-      "last_seen_at": "2026-07-06T05:53:52.927417Z",
+      "last_seen_at": "2026-07-06T10:14:29.993918Z",
       "title_original": "GSA 2026 | 车联天下携全系产品矩阵亮相",
       "title_en": null,
       "title_zh": "GSA 2026 | 车联天下携全系产品矩阵亮相",
@@ -839,7 +968,7 @@
       "url": "https://auto.gasgoo.com/news/202607/5I70464496C109.shtml",
       "published_at": "2026-07-05T12:51:37Z",
       "first_seen_at": "2026-07-06T05:53:52.927417Z",
-      "last_seen_at": "2026-07-06T05:53:52.927417Z",
+      "last_seen_at": "2026-07-06T10:14:29.993918Z",
       "title_original": "GSA 2026 | 猛士汽车携双车亮相",
       "title_en": null,
       "title_zh": "GSA 2026 | 猛士汽车携双车亮相",
@@ -847,103 +976,6 @@
       "topic_tags": [
         "车企竞争",
         "新车上市"
-      ]
-    },
-    {
-      "id": "caf4979b3d6631c9fe898e2ff6e9a17929a3502d",
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "hackernews",
-      "title": "EV Batteries Are Defying Expectations After Miles",
-      "url": "https://news.ycombinator.com/item?id=48791755",
-      "published_at": "2026-07-05T09:40:27.750000Z",
-      "first_seen_at": "2026-07-05T09:40:13.428112Z",
-      "last_seen_at": "2026-07-05T09:40:13.428112Z",
-      "title_original": "EV Batteries Are Defying Expectations After Miles",
-      "title_en": "EV Batteries Are Defying Expectations After Miles",
-      "title_zh": "电动汽车电池在行驶数英里后超出预期",
-      "title_bilingual": "电动汽车电池在行驶数英里后超出预期 / EV Batteries Are Defying Expectations After Miles",
-      "topic_tags": [
-        "新能源",
-        "补能电池"
-      ]
-    },
-    {
-      "id": "34658efabe315fb6036f7d7e24bd1e1b510127bc",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "懂车帝 · 文章排行榜",
-      "title": "L60车主试驾乐道L80，大车无笨感，易开好上手",
-      "url": "https://www.dongchedi.com/article/7658605890098971160",
-      "published_at": null,
-      "first_seen_at": "2026-07-05T09:40:13.428112Z",
-      "last_seen_at": "2026-07-06T05:53:52.927417Z",
-      "title_original": "L60车主试驾乐道L80，大车无笨感，易开好上手",
-      "title_en": null,
-      "title_zh": "L60车主试驾乐道L80，大车无笨感，易开好上手",
-      "title_bilingual": "L60车主试驾乐道L80，大车无笨感，易开好上手",
-      "topic_tags": [
-        "购车决策"
-      ]
-    },
-    {
-      "id": "d51196054d09c29762be2e2aeb1a4fd415215e60",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Nio's Firefly brand to hit 70,000th delivery milestone soon",
-      "url": "https://cnevpost.com/2026/07/05/nio-firefly-to-hit-70000th-delivery",
-      "published_at": "2026-07-05T08:30:59Z",
-      "first_seen_at": "2026-07-05T09:40:13.428112Z",
-      "last_seen_at": "2026-07-06T05:53:52.927417Z",
-      "title_original": "Nio's Firefly brand to hit 70,000th delivery milestone soon",
-      "title_en": "Nio's Firefly brand to hit 70,000th delivery milestone soon",
-      "title_zh": "蔚来Firefly品牌交付量即将突破7万辆里程碑",
-      "title_bilingual": "蔚来Firefly品牌交付量即将突破7万辆里程碑 / Nio's Firefly brand to hit 70,000th delivery milestone soon",
-      "topic_tags": [
-        "新能源",
-        "销量市场",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "a4c24e52c6009f2a45f2fcbd4bc34ad75d9c26e2",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Leaks and flooded charge ports: BYD Ti7 owners in China report detached glass roofs",
-      "url": "https://carnewschina.com/2026/07/05/leaks-and-flooded-charge-ports-byd-ti7-owners-in-china-report-detached-glass-roofs",
-      "published_at": "2026-07-05T07:42:16Z",
-      "first_seen_at": "2026-07-05T09:40:13.428112Z",
-      "last_seen_at": "2026-07-06T05:53:52.927417Z",
-      "title_original": "Leaks and flooded charge ports: BYD Ti7 owners in China report detached glass roofs",
-      "title_en": "Leaks and flooded charge ports: BYD Ti7 owners in China report detached glass roofs",
-      "title_zh": "泄漏和充电端口被淹：中国比亚迪 Ti7 车主报告玻璃屋顶脱落",
-      "title_bilingual": "泄漏和充电端口被淹：中国比亚迪 Ti7 车主报告玻璃屋顶脱落 / Leaks and flooded charge ports: BYD Ti7 owners in China report detached glass roofs",
-      "topic_tags": [
-        "新能源",
-        "补能电池",
-        "车企竞争",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "415cdb700160073df4a38c370c8d0f77233b2c31",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "盖世周报 | 伟巴斯特中国区换帅；法雷奥斩获新订单",
-      "url": "https://auto.gasgoo.com/news/202607/5I70464259C109.shtml",
-      "published_at": "2026-07-05T07:00:00Z",
-      "first_seen_at": "2026-07-05T23:10:21.208634Z",
-      "last_seen_at": "2026-07-06T05:53:52.927417Z",
-      "title_original": "盖世周报 | 伟巴斯特中国区换帅；法雷奥斩获新订单",
-      "title_en": null,
-      "title_zh": "盖世周报 | 伟巴斯特中国区换帅；法雷奥斩获新订单",
-      "title_bilingual": "盖世周报 | 伟巴斯特中国区换帅；法雷奥斩获新订单",
-      "topic_tags": [
-        "销量市场",
-        "车企竞争"
       ]
     }
   ],
