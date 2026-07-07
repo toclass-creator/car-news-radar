@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-07-07T08:21:02.220642Z",
+  "generated_at": "2026-07-07T11:23:47.711126Z",
   "sites": [
     {
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
       "ok": true,
       "item_count": 892,
-      "duration_ms": 9274,
+      "duration_ms": 10338,
       "error": null
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "ok": true,
-      "item_count": 3023,
-      "duration_ms": 801,
+      "item_count": 3021,
+      "duration_ms": 1328,
       "error": null
     },
     {
@@ -22,7 +22,7 @@
       "site_name": "NewsNow",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 1546,
+      "duration_ms": 993,
       "error": "'ascii' codec can't decode byte 0xc2 in position 76534: ordinal not in range(128)"
     }
   ],
@@ -31,9 +31,9 @@
     "newsnow"
   ],
   "zero_item_sites": [],
-  "fetched_raw_items": 3915,
-  "items_before_topic_filter": 3345,
-  "items_in_24h": 52,
+  "fetched_raw_items": 3913,
+  "items_before_topic_filter": 3209,
+  "items_in_24h": 50,
   "rss_opml": {
     "enabled": false,
     "path": null,
