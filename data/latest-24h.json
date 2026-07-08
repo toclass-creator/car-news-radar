@@ -1,77 +1,195 @@
 {
-  "generated_at": "2026-07-08T01:02:12.778572Z",
+  "generated_at": "2026-07-08T04:43:57.055597Z",
   "window_hours": 24,
-  "total_items": 39,
-  "total_items_ai_raw": 42,
-  "total_items_raw": 3289,
-  "total_items_all_mode": 3024,
+  "total_items": 50,
+  "total_items_ai_raw": 55,
+  "total_items_raw": 3249,
+  "total_items_all_mode": 2990,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 68778,
+  "archive_total": 68631,
   "site_count": 3,
-  "source_count": 12,
+  "source_count": 13,
   "site_stats": [
     {
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "count": 24,
-      "raw_count": 27
+      "count": 35,
+      "raw_count": 40
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "count": 14,
-      "raw_count": 3141
+      "raw_count": 3069
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "count": 1,
-      "raw_count": 121
+      "raw_count": 140
     }
   ],
   "topic_tag_stats": [
     {
       "tag": "车企竞争",
-      "count": 23
+      "count": 27
     },
     {
       "tag": "新能源",
-      "count": 21
+      "count": 24
+    },
+    {
+      "tag": "新车上市",
+      "count": 13
     },
     {
       "tag": "购车决策",
       "count": 11
     },
     {
-      "tag": "新车上市",
-      "count": 10
+      "tag": "供应链",
+      "count": 7
     },
     {
       "tag": "销量市场",
-      "count": 5
+      "count": 7
     },
     {
-      "tag": "供应链",
-      "count": 3
+      "tag": "智能驾驶",
+      "count": 4
+    },
+    {
+      "tag": "补能电池",
+      "count": 4
+    },
+    {
+      "tag": "价格战",
+      "count": 2
     },
     {
       "tag": "召回安全",
       "count": 2
-    },
-    {
-      "tag": "智能驾驶",
-      "count": 2
-    },
-    {
-      "tag": "补能电池",
-      "count": 2
-    },
-    {
-      "tag": "价格战",
-      "count": 1
     }
   ],
   "items": [
+    {
+      "id": "874f4f119fe3409dd99102059ab998c285a45a06",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Chasing 600 Wh/kg: Chery files sulfide patent to fix solid state cell degradation",
+      "url": "https://carnewschina.com/2026/07/08/chasing-600-wh-kg-chery-files-sulfide-patent-to-fix-solid-state-cell-degradation",
+      "published_at": "2026-07-08T04:00:32Z",
+      "first_seen_at": "2026-07-08T04:43:57.055597Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
+      "title_original": "Chasing 600 Wh/kg: Chery files sulfide patent to fix solid state cell degradation",
+      "title_en": "Chasing 600 Wh/kg: Chery files sulfide patent to fix solid state cell degradation",
+      "title_zh": "追逐 600 Wh/kg：奇瑞申请硫化物专利以修复固态电池退化",
+      "title_bilingual": "追逐 600 Wh/kg：奇瑞申请硫化物专利以修复固态电池退化 / Chasing 600 Wh/kg: Chery files sulfide patent to fix solid state cell degradation",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "1af905d8ab908974626344499bbe124a138368a4",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Geely Aegis Gold Brick battery hits 1093 kW peak while dodging strict thermal limits",
+      "url": "https://carnewschina.com/2026/07/08/geely-aegis-gold-brick-battery-hits-1093-kw-peak-while-dodging-strict-thermal-limits",
+      "published_at": "2026-07-08T03:28:54Z",
+      "first_seen_at": "2026-07-08T04:43:57.055597Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
+      "title_original": "Geely Aegis Gold Brick battery hits 1093 kW peak while dodging strict thermal limits",
+      "title_en": "Geely Aegis Gold Brick battery hits 1093 kW peak while dodging strict thermal limits",
+      "title_zh": "吉利神盾金砖电池峰值达到 1093 kW，同时避开严格的热限制",
+      "title_bilingual": "吉利神盾金砖电池峰值达到 1093 kW，同时避开严格的热限制 / Geely Aegis Gold Brick battery hits 1093 kW peak while dodging strict thermal limits",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "4a29aa64efb621e2bedcdc850b5387764cb9a007",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Zeekr kicks off pre-sales of 5-seat 9X to broaden flagship SUV's appeal",
+      "url": "https://cnevpost.com/2026/07/08/zeekr-kicks-off-pre-sales-5-seat-9x",
+      "published_at": "2026-07-08T02:51:30Z",
+      "first_seen_at": "2026-07-08T04:43:57.055597Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
+      "title_original": "Zeekr kicks off pre-sales of 5-seat 9X to broaden flagship SUV's appeal",
+      "title_en": "Zeekr kicks off pre-sales of 5-seat 9X to broaden flagship SUV's appeal",
+      "title_zh": "Zeekr启动5座9X预售，扩大旗舰SUV吸引力",
+      "title_bilingual": "Zeekr启动5座9X预售，扩大旗舰SUV吸引力 / Zeekr kicks off pre-sales of 5-seat 9X to broaden flagship SUV's appeal",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "4212920c10c4b7e351cfe9050e7ef7080532dcfc",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "MG 07 liftback offers liquid solid state battery tech from 22,100 USD",
+      "url": "https://carnewschina.com/2026/07/08/mg-07-premium-fastback-offers-liquid-solid-state-battery-tech-from-22100-usd",
+      "published_at": "2026-07-08T02:42:56Z",
+      "first_seen_at": "2026-07-08T04:43:57.055597Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
+      "title_original": "MG 07 liftback offers liquid solid state battery tech from 22,100 USD",
+      "title_en": "MG 07 liftback offers liquid solid state battery tech from 22,100 USD",
+      "title_zh": "MG 07 liftback提供液态固态电池技术，起价22,100美元",
+      "title_bilingual": "MG 07 liftback提供液态固态电池技术，起价22,100美元 / MG 07 liftback offers liquid solid state battery tech from 22,100 USD",
+      "topic_tags": [
+        "新能源",
+        "补能电池"
+      ]
+    },
+    {
+      "id": "0e55d4dae59e71c1bae1433ccad0295c6f56ee3b",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "BYD follows Nio's relief efforts with donation to disaster-hit Guangxi",
+      "url": "https://cnevpost.com/2026/07/08/byd-donation-disaster-hit-guangxi",
+      "published_at": "2026-07-08T02:22:48Z",
+      "first_seen_at": "2026-07-08T04:43:57.055597Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
+      "title_original": "BYD follows Nio's relief efforts with donation to disaster-hit Guangxi",
+      "title_en": "BYD follows Nio's relief efforts with donation to disaster-hit Guangxi",
+      "title_zh": "比亚迪响应蔚来救援行动，向广西受灾地区捐款",
+      "title_bilingual": "比亚迪响应蔚来救援行动，向广西受灾地区捐款 / BYD follows Nio's relief efforts with donation to disaster-hit Guangxi",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "51c58d1ffa17c3eeaf3b7671e39c15100db16b82",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Autonomous driving firm Momenta rises in Hong Kong trading debut",
+      "url": "https://cnevpost.com/2026/07/08/momenta-rises-hk-trading-debut",
+      "published_at": "2026-07-08T01:45:36Z",
+      "first_seen_at": "2026-07-08T04:43:57.055597Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
+      "title_original": "Autonomous driving firm Momenta rises in Hong Kong trading debut",
+      "title_en": "Autonomous driving firm Momenta rises in Hong Kong trading debut",
+      "title_zh": "自动驾驶公司Momenta在香港上市首日上涨",
+      "title_bilingual": "自动驾驶公司Momenta在香港上市首日上涨 / Autonomous driving firm Momenta rises in Hong Kong trading debut",
+      "topic_tags": [
+        "新能源",
+        "智能驾驶",
+        "新车上市"
+      ]
+    },
     {
       "id": "9bf59b0142481bd074e1c42677437dd18e97f767",
       "site_id": "official_auto",
@@ -81,7 +199,7 @@
       "url": "https://cnevpost.com/2026/07/08/xiaomi-officially-unveils-sky-nomad",
       "published_at": "2026-07-08T00:02:02Z",
       "first_seen_at": "2026-07-08T01:02:12.778572Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "Xiaomi officially unveils Sky Nomad name, possibly new brand or series for EREV SUV push",
       "title_en": "Xiaomi officially unveils Sky Nomad name, possibly new brand or series for EREV SUV push",
       "title_zh": "小米正式公布 Sky Nomad 名称，可能是 EREV SUV 推新品牌或系列",
@@ -101,7 +219,7 @@
       "url": "http://vc.yiche.com/vplay/11968021.html",
       "published_at": null,
       "first_seen_at": "2026-07-07T20:47:58.974699Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "提车一周，油耗如何，长安CS75 PLUS蓝鲸超擎车主真实感受",
       "title_en": null,
       "title_zh": "提车一周，油耗如何，长安CS75 PLUS蓝鲸超擎车主真实感受",
@@ -120,7 +238,7 @@
       "url": "http://vc.yiche.com/vplay/11989224.html",
       "published_at": null,
       "first_seen_at": "2026-07-07T20:47:58.974699Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "11万买5米级6座SUV 五菱星光L有何优缺点",
       "title_en": null,
       "title_zh": "11万买5米级6座SUV 五菱星光L有何优缺点",
@@ -138,7 +256,7 @@
       "url": "http://vc.yiche.com/vplay/12000361.html",
       "published_at": null,
       "first_seen_at": "2026-07-07T20:47:58.974699Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "全新坦克300抢先试驾，智驾辅助表现如何丨野生11",
       "title_en": null,
       "title_zh": "全新坦克300抢先试驾，智驾辅助表现如何丨野生11",
@@ -157,7 +275,7 @@
       "url": "http://vc.yiche.com/vplay/11971542.html",
       "published_at": null,
       "first_seen_at": "2026-07-07T20:47:58.974699Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "1.5T长安CS75 PLUS零百加速实测，能不能跑赢同排量的本田CR-V？",
       "title_en": null,
       "title_zh": "1.5T长安CS75 PLUS零百加速实测，能不能跑赢同排量的本田CR-V？",
@@ -175,7 +293,7 @@
       "url": "http://vc.yiche.com/vplay/11986431.html",
       "published_at": null,
       "first_seen_at": "2026-07-07T20:47:58.974699Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "六座+空悬+后轮转向，奔驰纯电GLC这次把诚意拉满了",
       "title_en": null,
       "title_zh": "六座+空悬+后轮转向，奔驰纯电GLC这次把诚意拉满了",
@@ -194,7 +312,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/a2b0493001686a3e/115451886-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-07T18:30:39.358765Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "一家人都满意 蔚来ES8提车作业分享",
       "title_en": null,
       "title_zh": "一家人都满意 蔚来ES8提车作业分享",
@@ -213,7 +331,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/9f3056f482adfc6c/115471288-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-07T18:30:39.358765Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "没有太明显的问题 试驾乐道L80四驱",
       "title_en": null,
       "title_zh": "没有太明显的问题 试驾乐道L80四驱",
@@ -231,7 +349,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/a8c949ddb02de805/115449498-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-07T18:30:39.358765Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "外观看着顺眼 极氪7X提车作业分享",
       "title_en": null,
       "title_zh": "外观看着顺眼 极氪7X提车作业分享",
@@ -250,7 +368,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/fe2cd8c36e2cdceb/115420572-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-07T18:30:39.358765Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "造型很优雅 极氪001提车作业分享",
       "title_en": null,
       "title_zh": "造型很优雅 极氪001提车作业分享",
@@ -269,7 +387,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/69a617ff8264c8ba/115517219-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-07T18:30:39.358765Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "落地成本全算清 宋Ultra EV提车明细",
       "title_en": null,
       "title_zh": "落地成本全算清 宋Ultra EV提车明细",
@@ -288,7 +406,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/aebc7a622c7c3da6/115443118-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-07T18:30:39.358765Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "价格很亲民 零跑A10提车作业分享",
       "title_en": null,
       "title_zh": "价格很亲民 零跑A10提车作业分享",
@@ -307,7 +425,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/af948fcf0423b766/115439709-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-07T18:30:39.358765Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "满足全家出行 理想L7提车作业分享",
       "title_en": null,
       "title_zh": "满足全家出行 理想L7提车作业分享",
@@ -326,7 +444,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/2812a63130e336af/115352212-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-07T16:28:06.265910Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "放弃多款纯电家用喜提沃尔沃S60",
       "title_en": null,
       "title_zh": "放弃多款纯电家用喜提沃尔沃S60",
@@ -345,7 +463,7 @@
       "url": "https://carnewschina.com/2026/07/07/polestar-4-suv-from-geely-to-launch-on-september-2",
       "published_at": "2026-07-07T14:57:01Z",
       "first_seen_at": "2026-07-07T16:28:06.265910Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "Polestar 4 “SUV” from Geely to launch on September 2",
       "title_en": "Polestar 4 “SUV” from Geely to launch on September 2",
       "title_zh": "吉利Polestar 4“SUV”将于9月2日上市",
@@ -365,7 +483,7 @@
       "url": "https://cnevpost.com/2026/07/07/byd-denza-z-launch-globally-jul-9",
       "published_at": "2026-07-07T14:27:34Z",
       "first_seen_at": "2026-07-07T16:28:06.265910Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "BYD's Porsche 911-rivaling Denza Z to launch globally on July 9",
       "title_en": "BYD's Porsche 911-rivaling Denza Z to launch globally on July 9",
       "title_zh": "比亚迪保时捷 911 竞争对手 Denza Z 将于 7 月 9 日全球上市",
@@ -385,13 +503,50 @@
       "url": "https://juejin.cn/post/7658831018950918153",
       "published_at": "2026-07-07T13:07:12.547000Z",
       "first_seen_at": "2026-07-07T13:32:35.598956Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "别再手写大屏了！用这套「3D 地图 + 拖拽脚手架」示例源码，交付效率提升 80%",
       "title_en": null,
       "title_zh": "别再手写大屏了！用这套「3D 地图 + 拖拽脚手架」示例源码，交付效率提升 80%",
       "title_bilingual": "别再手写大屏了！用这套「3D 地图 + 拖拽脚手架」示例源码，交付效率提升 80%",
       "topic_tags": [
         "销量市场"
+      ]
+    },
+    {
+      "id": "c1897657080818439b4b831942597392df05abde",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-供应链",
+      "title": "伟巴斯特拟推动印度子公司2027年IPO",
+      "url": "https://auto.gasgoo.com/news/202607/7I70464718C103.shtml",
+      "published_at": "2026-07-07T12:30:55Z",
+      "first_seen_at": "2026-07-08T04:43:57.055597Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
+      "title_original": "伟巴斯特拟推动印度子公司2027年IPO",
+      "title_en": null,
+      "title_zh": "伟巴斯特拟推动印度子公司2027年IPO",
+      "title_bilingual": "伟巴斯特拟推动印度子公司2027年IPO",
+      "topic_tags": [
+        "供应链"
+      ]
+    },
+    {
+      "id": "d00c7a3f0c2958f0c6cbe7b551a221af4131ea56",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-供应链",
+      "title": "​激光雷达行业“车载稳增、非车爆发”双轨并行",
+      "url": "https://auto.gasgoo.com/news/202607/7I70464717C103.shtml",
+      "published_at": "2026-07-07T12:09:42Z",
+      "first_seen_at": "2026-07-08T04:43:57.055597Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
+      "title_original": "​激光雷达行业“车载稳增、非车爆发”双轨并行",
+      "title_en": null,
+      "title_zh": "​激光雷达行业“车载稳增、非车爆发”双轨并行",
+      "title_bilingual": "​激光雷达行业“车载稳增、非车爆发”双轨并行",
+      "topic_tags": [
+        "智能驾驶",
+        "供应链"
       ]
     },
     {
@@ -403,7 +558,7 @@
       "url": "https://carnewschina.com/2026/07/07/byds-denza-d9-revealed-dark-gold-color-option-priced-at-4415-usd-in-china",
       "published_at": "2026-07-07T11:57:05Z",
       "first_seen_at": "2026-07-07T13:32:35.598956Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "BYD’s Denza D9 revealed Dark Gold color option priced at 4,415 USD in China",
       "title_en": "BYD’s Denza D9 revealed Dark Gold color option priced at 4,415 USD in China",
       "title_zh": "比亚迪 Denza D9 推出深金配色，中国售价 4,415 美元",
@@ -411,6 +566,45 @@
       "topic_tags": [
         "新能源",
         "价格战",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "017dbb52e8411f483a38e1fca4354d71d9f5e327",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-供应链",
+      "title": "图达通二季度激光雷达出货量同比增385%",
+      "url": "https://auto.gasgoo.com/news/202607/7I70464697C103.shtml",
+      "published_at": "2026-07-07T10:42:10Z",
+      "first_seen_at": "2026-07-08T04:43:57.055597Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
+      "title_original": "图达通二季度激光雷达出货量同比增385%",
+      "title_en": null,
+      "title_zh": "图达通二季度激光雷达出货量同比增385%",
+      "title_bilingual": "图达通二季度激光雷达出货量同比增385%",
+      "topic_tags": [
+        "智能驾驶",
+        "销量市场",
+        "供应链"
+      ]
+    },
+    {
+      "id": "d5aef2e37ccdecfaa2c0eb7668e710aa7a57f045",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "【国际快讯】丰田拟斥资36亿美元在美国得州建厂 ；福特与美光签署车用半导体供应协议；丰田和本田上半年在华销量双双下滑",
+      "url": "https://auto.gasgoo.com/news/202607/7I70464696C109.shtml",
+      "published_at": "2026-07-07T10:27:16Z",
+      "first_seen_at": "2026-07-08T04:43:57.055597Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
+      "title_original": "【国际快讯】丰田拟斥资36亿美元在美国得州建厂 ；福特与美光签署车用半导体供应协议；丰田和本田上半年在华销量双双下滑",
+      "title_en": null,
+      "title_zh": "【国际快讯】丰田拟斥资36亿美元在美国得州建厂 ；福特与美光签署车用半导体供应协议；丰田和本田上半年在华销量双双下滑",
+      "title_bilingual": "【国际快讯】丰田拟斥资36亿美元在美国得州建厂 ；福特与美光签署车用半导体供应协议；丰田和本田上半年在华销量双双下滑",
+      "topic_tags": [
+        "销量市场",
         "车企竞争"
       ]
     },
@@ -423,7 +617,7 @@
       "url": "https://cnevpost.com/2026/07/07/voyah-passion-s-pre-orders-late-jul",
       "published_at": "2026-07-07T10:25:14Z",
       "first_seen_at": "2026-07-07T11:23:47.711126Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "Voyah's Xiaomi YU7 rival Passion S to open for pre-orders in late July",
       "title_en": "Voyah's Xiaomi YU7 rival Passion S to open for pre-orders in late July",
       "title_zh": "Voyah 的小米 YU7 竞争对手 Passion S 将于 7 月底开放预订",
@@ -431,6 +625,100 @@
       "topic_tags": [
         "新能源",
         "车企竞争"
+      ]
+    },
+    {
+      "id": "26684d4a7263a1ccd4bf49fdd31746c1a5c06300",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新车",
+      "title": "全新坦克300预售价25.98万起，本月19日上市",
+      "url": "https://auto.gasgoo.com/news/202607/7I70464695C107.shtml",
+      "published_at": "2026-07-07T10:14:38Z",
+      "first_seen_at": "2026-07-08T04:43:57.055597Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
+      "title_original": "全新坦克300预售价25.98万起，本月19日上市",
+      "title_en": null,
+      "title_zh": "全新坦克300预售价25.98万起，本月19日上市",
+      "title_bilingual": "全新坦克300预售价25.98万起，本月19日上市",
+      "topic_tags": [
+        "价格战",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "ce91fac13572cbb4090d1076dee2de895ef48c47",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "比亚迪半导体BMS AFE芯片累计出货量突破1亿颗",
+      "url": "https://auto.gasgoo.com/news/202607/7I70464694C109.shtml",
+      "published_at": "2026-07-07T10:06:36Z",
+      "first_seen_at": "2026-07-08T04:43:57.055597Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
+      "title_original": "比亚迪半导体BMS AFE芯片累计出货量突破1亿颗",
+      "title_en": null,
+      "title_zh": "比亚迪半导体BMS AFE芯片累计出货量突破1亿颗",
+      "title_bilingual": "比亚迪半导体BMS AFE芯片累计出货量突破1亿颗",
+      "topic_tags": [
+        "车企竞争",
+        "供应链"
+      ]
+    },
+    {
+      "id": "3b9f3cc8d16e3095fa491a1f4747aab263d48c29",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-供应链",
+      "title": "楼剑锋出任华友控股集团总裁",
+      "url": "https://auto.gasgoo.com/news/202607/7I70464692C103.shtml",
+      "published_at": "2026-07-07T09:34:30Z",
+      "first_seen_at": "2026-07-08T04:43:57.055597Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
+      "title_original": "楼剑锋出任华友控股集团总裁",
+      "title_en": null,
+      "title_zh": "楼剑锋出任华友控股集团总裁",
+      "title_bilingual": "楼剑锋出任华友控股集团总裁",
+      "topic_tags": [
+        "供应链"
+      ]
+    },
+    {
+      "id": "ea1c61b7c6743e54141ed16f91162319aae772d6",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-供应链",
+      "title": "奥托立夫与长城汽车签署全球战略合作协议",
+      "url": "https://auto.gasgoo.com/news/202607/7I70464691C109.shtml",
+      "published_at": "2026-07-07T09:21:46Z",
+      "first_seen_at": "2026-07-08T04:43:57.055597Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
+      "title_original": "奥托立夫与长城汽车签署全球战略合作协议",
+      "title_en": null,
+      "title_zh": "奥托立夫与长城汽车签署全球战略合作协议",
+      "title_bilingual": "奥托立夫与长城汽车签署全球战略合作协议",
+      "topic_tags": [
+        "车企竞争",
+        "供应链"
+      ]
+    },
+    {
+      "id": "9910a9126928ed574d07e4eb5d3fb27905024216",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新能源",
+      "title": "华境S第10000台在华为松山湖交付",
+      "url": "https://auto.gasgoo.com/news/202607/7I70464690C501.shtml",
+      "published_at": "2026-07-07T09:15:21Z",
+      "first_seen_at": "2026-07-08T04:43:57.055597Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
+      "title_original": "华境S第10000台在华为松山湖交付",
+      "title_en": null,
+      "title_zh": "华境S第10000台在华为松山湖交付",
+      "title_bilingual": "华境S第10000台在华为松山湖交付",
+      "topic_tags": [
+        "新能源",
+        "销量市场"
       ]
     },
     {
@@ -442,7 +730,7 @@
       "url": "https://carnewschina.com/2026/07/07/byd-song-l-gt-electric-fastback-seen-in-china-after-a-year-long-lull",
       "published_at": "2026-07-07T09:06:42Z",
       "first_seen_at": "2026-07-07T11:23:47.711126Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "BYD Song L GT electric fastback seen in China after a year-long lull",
       "title_en": "BYD Song L GT electric fastback seen in China after a year-long lull",
       "title_zh": "比亚迪宋L GT电动快背车在沉寂一年后亮相中国",
@@ -462,7 +750,7 @@
       "url": "https://auto.gasgoo.com/news/202607/7I70464655C108.shtml",
       "published_at": "2026-07-07T08:40:45Z",
       "first_seen_at": "2026-07-08T01:02:12.778572Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "燃油价格上涨推高卡车租金，货运需求疲软致行业利用率偏低",
       "title_en": null,
       "title_zh": "燃油价格上涨推高卡车租金，货运需求疲软致行业利用率偏低",
@@ -478,7 +766,7 @@
       "url": "https://auto.gasgoo.com/news/202607/7I70464649C109.shtml",
       "published_at": "2026-07-07T08:39:11Z",
       "first_seen_at": "2026-07-08T01:02:12.778572Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "塔塔汽车紧凑型车一季度销量下滑17.6%",
       "title_en": null,
       "title_zh": "塔塔汽车紧凑型车一季度销量下滑17.6%",
@@ -497,7 +785,7 @@
       "url": "https://auto.gasgoo.com/news/202607/7I70464680C110.shtml",
       "published_at": "2026-07-07T08:36:48Z",
       "first_seen_at": "2026-07-08T01:02:12.778572Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "沃尔沃EX30登顶韩国6月高端紧凑型电动车销量榜首",
       "title_en": null,
       "title_zh": "沃尔沃EX30登顶韩国6月高端紧凑型电动车销量榜首",
@@ -516,7 +804,7 @@
       "url": "https://auto.gasgoo.com/news/202607/7I70464673C107.shtml",
       "published_at": "2026-07-07T08:33:47Z",
       "first_seen_at": "2026-07-08T01:02:12.778572Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "日产Primera以纯电车型身份回归",
       "title_en": null,
       "title_zh": "日产Primera以纯电车型身份回归",
@@ -535,7 +823,7 @@
       "url": "https://auto.gasgoo.com/news/202607/7I70464664C107.shtml",
       "published_at": "2026-07-07T08:30:27Z",
       "first_seen_at": "2026-07-08T01:02:12.778572Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "宾利首款纯电SUV定名“Torcal”，9月23日全球首发",
       "title_en": null,
       "title_zh": "宾利首款纯电SUV定名“Torcal”，9月23日全球首发",
@@ -554,7 +842,7 @@
       "url": "https://carnewschina.com/2026/07/07/1582-hp-tri-motor-denza-z-track-edition-spotted-testing-in-china-ahead-of-july-9-launch",
       "published_at": "2026-07-07T08:27:12Z",
       "first_seen_at": "2026-07-07T11:23:47.711126Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "1,582 hp tri-motor : Denza Z Track Edition spotted testing in China ahead of July 9 launch",
       "title_en": "1,582 hp tri-motor : Denza Z Track Edition spotted testing in China ahead of July 9 launch",
       "title_zh": "1,582 马力三电机：Denza Z Track Edition 将于 7 月 9 日发布前在中国进行测试",
@@ -575,7 +863,7 @@
       "url": "https://www.dongchedi.com/article/7659369967087354430",
       "published_at": null,
       "first_seen_at": "2026-07-07T08:21:02.220642Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "体验比亚迪大唐盛世版：转向灵、空悬稳，质感不输欧洲豪华SUV",
       "title_en": null,
       "title_zh": "体验比亚迪大唐盛世版：转向灵、空悬稳，质感不输欧洲豪华SUV",
@@ -595,7 +883,7 @@
       "url": "https://auto.gasgoo.com/news/202607/7I70464653C109.shtml",
       "published_at": "2026-07-07T08:19:27Z",
       "first_seen_at": "2026-07-08T01:02:12.778572Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "丰田与Joby合资，准备量产飞行器",
       "title_en": null,
       "title_zh": "丰田与Joby合资，准备量产飞行器",
@@ -613,7 +901,7 @@
       "url": "https://auto.gasgoo.com/news/202607/7I70464674C501.shtml",
       "published_at": "2026-07-07T08:18:03Z",
       "first_seen_at": "2026-07-08T01:02:12.778572Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "凯迪拉克因第三排电动折叠座椅隐患召回全部Vistiq车型",
       "title_en": null,
       "title_zh": "凯迪拉克因第三排电动折叠座椅隐患召回全部Vistiq车型",
@@ -633,7 +921,7 @@
       "url": "https://auto.gasgoo.com/news/202607/7I70464661C501.shtml",
       "published_at": "2026-07-07T08:09:34Z",
       "first_seen_at": "2026-07-08T01:02:12.778572Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "零跑汽车全球化，进入“加速度”",
       "title_en": null,
       "title_zh": "零跑汽车全球化，进入“加速度”",
@@ -652,7 +940,7 @@
       "url": "https://auto.gasgoo.com/news/202607/7I70464660C601.shtml",
       "published_at": "2026-07-07T07:46:39Z",
       "first_seen_at": "2026-07-08T01:02:12.778572Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "爱仕达与智元签署战略合作协议",
       "title_en": null,
       "title_zh": "爱仕达与智元签署战略合作协议",
@@ -668,7 +956,7 @@
       "url": "https://auto.gasgoo.com/news/202607/7I70464622C501.shtml",
       "published_at": "2026-07-07T07:18:17Z",
       "first_seen_at": "2026-07-07T23:28:53.464809Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "重庆要建75万个充电设施、2500座超充站",
       "title_en": null,
       "title_zh": "重庆要建75万个充电设施、2500座超充站",
@@ -687,7 +975,7 @@
       "url": "https://auto.gasgoo.com/news/202607/7I70464316C601.shtml",
       "published_at": "2026-07-07T07:10:11Z",
       "first_seen_at": "2026-07-07T23:28:53.464809Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "舱驾一体成为行业新赛点，卓驭率先完成技术量产与规模化“交卷”",
       "title_en": null,
       "title_zh": "舱驾一体成为行业新赛点，卓驭率先完成技术量产与规模化“交卷”",
@@ -703,7 +991,7 @@
       "url": "https://auto.gasgoo.com/news/202607/7I70464603C501.shtml",
       "published_at": "2026-07-07T07:00:48Z",
       "first_seen_at": "2026-07-07T23:28:53.464809Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "【盖世快讯】吉利控股与格力电器签署战略合作协议；零跑汽车正式进入北美市场",
       "title_en": null,
       "title_zh": "【盖世快讯】吉利控股与格力电器签署战略合作协议；零跑汽车正式进入北美市场",
@@ -722,99 +1010,137 @@
       "url": "https://cnevpost.com/2026/07/07/leapmotor-brings-a10-based-b03x-to-europe",
       "published_at": "2026-07-07T06:45:35Z",
       "first_seen_at": "2026-07-07T08:21:02.220642Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "Leapmotor brings A10-based B03X crossover to Europe at double its China price",
       "title_en": "Leapmotor brings A10-based B03X crossover to Europe at double its China price",
       "title_zh": "零跑汽车以中国价格两倍的价格向欧洲推出基于A10的B03X跨界车",
       "title_bilingual": "零跑汽车以中国价格两倍的价格向欧洲推出基于A10的B03X跨界车 / Leapmotor brings A10-based B03X crossover to Europe at double its China price",
       "topic_tags": [
         "新能源",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "89de0f8e6910c2849b65c1a46fcfb6c4c75f7b10",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Nio supplier Seyond's Q2 LiDAR shipments surge 385% as Robin series takes off",
-      "url": "https://cnevpost.com/2026/07/07/seyond-q2-lidar-shipments-surge",
-      "published_at": "2026-07-07T03:22:16Z",
-      "first_seen_at": "2026-07-07T04:31:59.684316Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
-      "title_original": "Nio supplier Seyond's Q2 LiDAR shipments surge 385% as Robin series takes off",
-      "title_en": "Nio supplier Seyond's Q2 LiDAR shipments surge 385% as Robin series takes off",
-      "title_zh": "蔚来供应商Seyond第二季度激光雷达出货量猛增385% Robin系列起飞",
-      "title_bilingual": "蔚来供应商Seyond第二季度激光雷达出货量猛增385% Robin系列起飞 / Nio supplier Seyond's Q2 LiDAR shipments surge 385% as Robin series takes off",
-      "topic_tags": [
-        "新能源",
-        "智能驾驶",
-        "车企竞争",
-        "供应链"
-      ]
-    },
-    {
-      "id": "e9387b439f8e74bf25b0d049d1f4c0f933eabdee",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Nio to start construction of Shanghai battery facility in H2, focusing on next-gen technology",
-      "url": "https://cnevpost.com/2026/07/07/nio-to-start-construction-shanghai-battery-facility-h2",
-      "published_at": "2026-07-07T02:09:47Z",
-      "first_seen_at": "2026-07-07T04:31:59.684316Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
-      "title_original": "Nio to start construction of Shanghai battery facility in H2, focusing on next-gen technology",
-      "title_en": "Nio to start construction of Shanghai battery facility in H2, focusing on next-gen technology",
-      "title_zh": "蔚来上海电池工厂下半年开工 专注下一代技术",
-      "title_bilingual": "蔚来上海电池工厂下半年开工 专注下一代技术 / Nio to start construction of Shanghai battery facility in H2, focusing on next-gen technology",
-      "topic_tags": [
-        "新能源",
-        "补能电池",
-        "车企竞争",
-        "供应链"
-      ]
-    },
-    {
-      "id": "73f422ab83302ef5e81ba52dae86e2c8b5e2836c",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Hyundai Ioniq V drops retro pixels for 620 km cyberpunk fastback with 8 colors",
-      "url": "https://carnewschina.com/2026/07/07/hyundai-ioniq-v-drops-retro-pixels-for-620-km-cyberpunk-fastback-in-gold-and-purple",
-      "published_at": "2026-07-07T02:04:40Z",
-      "first_seen_at": "2026-07-07T04:31:59.684316Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
-      "title_original": "Hyundai Ioniq V drops retro pixels for 620 km cyberpunk fastback with 8 colors",
-      "title_en": "Hyundai Ioniq V drops retro pixels for 620 km cyberpunk fastback with 8 colors",
-      "title_zh": "现代 Ioniq V 为 620 公里赛博朋克快背车提供 8 种颜色的复古像素",
-      "title_bilingual": "现代 Ioniq V 为 620 公里赛博朋克快背车提供 8 种颜色的复古像素 / Hyundai Ioniq V drops retro pixels for 620 km cyberpunk fastback with 8 colors",
-      "topic_tags": [
-        "新能源"
-      ]
-    },
-    {
-      "id": "267ab3daeb9fb9bd169381608182a98e681f2446",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Over 215,000 sold: BYD Sealion 7 quietly exits Chinese domestic market for export focus",
-      "url": "https://carnewschina.com/2026/07/07/over-215000-sold-byd-sealion-7-quietly-exits-chinese-domestic-market-for-export-focus",
-      "published_at": "2026-07-07T01:21:29Z",
-      "first_seen_at": "2026-07-07T04:31:59.684316Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
-      "title_original": "Over 215,000 sold: BYD Sealion 7 quietly exits Chinese domestic market for export focus",
-      "title_en": "Over 215,000 sold: BYD Sealion 7 quietly exits Chinese domestic market for export focus",
-      "title_zh": "销量超21.5万辆：比亚迪海狮7悄然退出国内市场转向出口",
-      "title_bilingual": "销量超21.5万辆：比亚迪海狮7悄然退出国内市场转向出口 / Over 215,000 sold: BYD Sealion 7 quietly exits Chinese domestic market for export focus",
-      "topic_tags": [
-        "新能源",
-        "销量市场",
         "车企竞争"
       ]
     }
   ],
   "items_ai": [
     {
+      "id": "874f4f119fe3409dd99102059ab998c285a45a06",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Chasing 600 Wh/kg: Chery files sulfide patent to fix solid state cell degradation",
+      "url": "https://carnewschina.com/2026/07/08/chasing-600-wh-kg-chery-files-sulfide-patent-to-fix-solid-state-cell-degradation",
+      "published_at": "2026-07-08T04:00:32Z",
+      "first_seen_at": "2026-07-08T04:43:57.055597Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
+      "title_original": "Chasing 600 Wh/kg: Chery files sulfide patent to fix solid state cell degradation",
+      "title_en": "Chasing 600 Wh/kg: Chery files sulfide patent to fix solid state cell degradation",
+      "title_zh": "追逐 600 Wh/kg：奇瑞申请硫化物专利以修复固态电池退化",
+      "title_bilingual": "追逐 600 Wh/kg：奇瑞申请硫化物专利以修复固态电池退化 / Chasing 600 Wh/kg: Chery files sulfide patent to fix solid state cell degradation",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "1af905d8ab908974626344499bbe124a138368a4",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Geely Aegis Gold Brick battery hits 1093 kW peak while dodging strict thermal limits",
+      "url": "https://carnewschina.com/2026/07/08/geely-aegis-gold-brick-battery-hits-1093-kw-peak-while-dodging-strict-thermal-limits",
+      "published_at": "2026-07-08T03:28:54Z",
+      "first_seen_at": "2026-07-08T04:43:57.055597Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
+      "title_original": "Geely Aegis Gold Brick battery hits 1093 kW peak while dodging strict thermal limits",
+      "title_en": "Geely Aegis Gold Brick battery hits 1093 kW peak while dodging strict thermal limits",
+      "title_zh": "吉利神盾金砖电池峰值达到 1093 kW，同时避开严格的热限制",
+      "title_bilingual": "吉利神盾金砖电池峰值达到 1093 kW，同时避开严格的热限制 / Geely Aegis Gold Brick battery hits 1093 kW peak while dodging strict thermal limits",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "4a29aa64efb621e2bedcdc850b5387764cb9a007",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Zeekr kicks off pre-sales of 5-seat 9X to broaden flagship SUV's appeal",
+      "url": "https://cnevpost.com/2026/07/08/zeekr-kicks-off-pre-sales-5-seat-9x",
+      "published_at": "2026-07-08T02:51:30Z",
+      "first_seen_at": "2026-07-08T04:43:57.055597Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
+      "title_original": "Zeekr kicks off pre-sales of 5-seat 9X to broaden flagship SUV's appeal",
+      "title_en": "Zeekr kicks off pre-sales of 5-seat 9X to broaden flagship SUV's appeal",
+      "title_zh": "Zeekr启动5座9X预售，扩大旗舰SUV吸引力",
+      "title_bilingual": "Zeekr启动5座9X预售，扩大旗舰SUV吸引力 / Zeekr kicks off pre-sales of 5-seat 9X to broaden flagship SUV's appeal",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "4212920c10c4b7e351cfe9050e7ef7080532dcfc",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "MG 07 liftback offers liquid solid state battery tech from 22,100 USD",
+      "url": "https://carnewschina.com/2026/07/08/mg-07-premium-fastback-offers-liquid-solid-state-battery-tech-from-22100-usd",
+      "published_at": "2026-07-08T02:42:56Z",
+      "first_seen_at": "2026-07-08T04:43:57.055597Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
+      "title_original": "MG 07 liftback offers liquid solid state battery tech from 22,100 USD",
+      "title_en": "MG 07 liftback offers liquid solid state battery tech from 22,100 USD",
+      "title_zh": "MG 07 liftback提供液态固态电池技术，起价22,100美元",
+      "title_bilingual": "MG 07 liftback提供液态固态电池技术，起价22,100美元 / MG 07 liftback offers liquid solid state battery tech from 22,100 USD",
+      "topic_tags": [
+        "新能源",
+        "补能电池"
+      ]
+    },
+    {
+      "id": "0e55d4dae59e71c1bae1433ccad0295c6f56ee3b",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "BYD follows Nio's relief efforts with donation to disaster-hit Guangxi",
+      "url": "https://cnevpost.com/2026/07/08/byd-donation-disaster-hit-guangxi",
+      "published_at": "2026-07-08T02:22:48Z",
+      "first_seen_at": "2026-07-08T04:43:57.055597Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
+      "title_original": "BYD follows Nio's relief efforts with donation to disaster-hit Guangxi",
+      "title_en": "BYD follows Nio's relief efforts with donation to disaster-hit Guangxi",
+      "title_zh": "比亚迪响应蔚来救援行动，向广西受灾地区捐款",
+      "title_bilingual": "比亚迪响应蔚来救援行动，向广西受灾地区捐款 / BYD follows Nio's relief efforts with donation to disaster-hit Guangxi",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "51c58d1ffa17c3eeaf3b7671e39c15100db16b82",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Autonomous driving firm Momenta rises in Hong Kong trading debut",
+      "url": "https://cnevpost.com/2026/07/08/momenta-rises-hk-trading-debut",
+      "published_at": "2026-07-08T01:45:36Z",
+      "first_seen_at": "2026-07-08T04:43:57.055597Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
+      "title_original": "Autonomous driving firm Momenta rises in Hong Kong trading debut",
+      "title_en": "Autonomous driving firm Momenta rises in Hong Kong trading debut",
+      "title_zh": "自动驾驶公司Momenta在香港上市首日上涨",
+      "title_bilingual": "自动驾驶公司Momenta在香港上市首日上涨 / Autonomous driving firm Momenta rises in Hong Kong trading debut",
+      "topic_tags": [
+        "新能源",
+        "智能驾驶",
+        "新车上市"
+      ]
+    },
+    {
       "id": "9bf59b0142481bd074e1c42677437dd18e97f767",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -823,7 +1149,7 @@
       "url": "https://cnevpost.com/2026/07/08/xiaomi-officially-unveils-sky-nomad",
       "published_at": "2026-07-08T00:02:02Z",
       "first_seen_at": "2026-07-08T01:02:12.778572Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "Xiaomi officially unveils Sky Nomad name, possibly new brand or series for EREV SUV push",
       "title_en": "Xiaomi officially unveils Sky Nomad name, possibly new brand or series for EREV SUV push",
       "title_zh": "小米正式公布 Sky Nomad 名称，可能是 EREV SUV 推新品牌或系列",
@@ -843,7 +1169,7 @@
       "url": "http://vc.yiche.com/vplay/11968021.html",
       "published_at": null,
       "first_seen_at": "2026-07-07T20:47:58.974699Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "提车一周，油耗如何，长安CS75 PLUS蓝鲸超擎车主真实感受",
       "title_en": null,
       "title_zh": "提车一周，油耗如何，长安CS75 PLUS蓝鲸超擎车主真实感受",
@@ -862,7 +1188,7 @@
       "url": "http://vc.yiche.com/vplay/11989224.html",
       "published_at": null,
       "first_seen_at": "2026-07-07T20:47:58.974699Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "11万买5米级6座SUV 五菱星光L有何优缺点",
       "title_en": null,
       "title_zh": "11万买5米级6座SUV 五菱星光L有何优缺点",
@@ -880,7 +1206,7 @@
       "url": "http://vc.yiche.com/vplay/12000361.html",
       "published_at": null,
       "first_seen_at": "2026-07-07T20:47:58.974699Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "全新坦克300抢先试驾，智驾辅助表现如何丨野生11",
       "title_en": null,
       "title_zh": "全新坦克300抢先试驾，智驾辅助表现如何丨野生11",
@@ -899,7 +1225,7 @@
       "url": "http://vc.yiche.com/vplay/11971542.html",
       "published_at": null,
       "first_seen_at": "2026-07-07T20:47:58.974699Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "1.5T长安CS75 PLUS零百加速实测，能不能跑赢同排量的本田CR-V？",
       "title_en": null,
       "title_zh": "1.5T长安CS75 PLUS零百加速实测，能不能跑赢同排量的本田CR-V？",
@@ -917,7 +1243,7 @@
       "url": "http://vc.yiche.com/vplay/11986431.html",
       "published_at": null,
       "first_seen_at": "2026-07-07T20:47:58.974699Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "六座+空悬+后轮转向，奔驰纯电GLC这次把诚意拉满了",
       "title_en": null,
       "title_zh": "六座+空悬+后轮转向，奔驰纯电GLC这次把诚意拉满了",
@@ -936,7 +1262,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/a2b0493001686a3e/115451886-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-07T18:30:39.358765Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "一家人都满意 蔚来ES8提车作业分享",
       "title_en": null,
       "title_zh": "一家人都满意 蔚来ES8提车作业分享",
@@ -955,7 +1281,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/9f3056f482adfc6c/115471288-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-07T18:30:39.358765Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "没有太明显的问题 试驾乐道L80四驱",
       "title_en": null,
       "title_zh": "没有太明显的问题 试驾乐道L80四驱",
@@ -973,7 +1299,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/a8c949ddb02de805/115449498-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-07T18:30:39.358765Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "外观看着顺眼 极氪7X提车作业分享",
       "title_en": null,
       "title_zh": "外观看着顺眼 极氪7X提车作业分享",
@@ -992,7 +1318,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/fe2cd8c36e2cdceb/115420572-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-07T18:30:39.358765Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "造型很优雅 极氪001提车作业分享",
       "title_en": null,
       "title_zh": "造型很优雅 极氪001提车作业分享",
@@ -1011,7 +1337,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/69a617ff8264c8ba/115517219-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-07T18:30:39.358765Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "落地成本全算清 宋Ultra EV提车明细",
       "title_en": null,
       "title_zh": "落地成本全算清 宋Ultra EV提车明细",
@@ -1030,7 +1356,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/aebc7a622c7c3da6/115443118-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-07T18:30:39.358765Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "价格很亲民 零跑A10提车作业分享",
       "title_en": null,
       "title_zh": "价格很亲民 零跑A10提车作业分享",
@@ -1049,7 +1375,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/af948fcf0423b766/115439709-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-07T18:30:39.358765Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "满足全家出行 理想L7提车作业分享",
       "title_en": null,
       "title_zh": "满足全家出行 理想L7提车作业分享",
@@ -1068,7 +1394,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/2812a63130e336af/115352212-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-07T16:28:06.265910Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "放弃多款纯电家用喜提沃尔沃S60",
       "title_en": null,
       "title_zh": "放弃多款纯电家用喜提沃尔沃S60",
@@ -1087,7 +1413,7 @@
       "url": "https://carnewschina.com/2026/07/07/polestar-4-suv-from-geely-to-launch-on-september-2",
       "published_at": "2026-07-07T14:57:01Z",
       "first_seen_at": "2026-07-07T16:28:06.265910Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "Polestar 4 “SUV” from Geely to launch on September 2",
       "title_en": "Polestar 4 “SUV” from Geely to launch on September 2",
       "title_zh": "吉利Polestar 4“SUV”将于9月2日上市",
@@ -1107,7 +1433,7 @@
       "url": "https://cnevpost.com/2026/07/07/byd-denza-z-launch-globally-jul-9",
       "published_at": "2026-07-07T14:27:34Z",
       "first_seen_at": "2026-07-07T16:28:06.265910Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "BYD's Porsche 911-rivaling Denza Z to launch globally on July 9",
       "title_en": "BYD's Porsche 911-rivaling Denza Z to launch globally on July 9",
       "title_zh": "比亚迪保时捷 911 竞争对手 Denza Z 将于 7 月 9 日全球上市",
@@ -1127,13 +1453,50 @@
       "url": "https://juejin.cn/post/7658831018950918153",
       "published_at": "2026-07-07T13:07:12.547000Z",
       "first_seen_at": "2026-07-07T13:32:35.598956Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "别再手写大屏了！用这套「3D 地图 + 拖拽脚手架」示例源码，交付效率提升 80%",
       "title_en": null,
       "title_zh": "别再手写大屏了！用这套「3D 地图 + 拖拽脚手架」示例源码，交付效率提升 80%",
       "title_bilingual": "别再手写大屏了！用这套「3D 地图 + 拖拽脚手架」示例源码，交付效率提升 80%",
       "topic_tags": [
         "销量市场"
+      ]
+    },
+    {
+      "id": "c1897657080818439b4b831942597392df05abde",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-供应链",
+      "title": "伟巴斯特拟推动印度子公司2027年IPO",
+      "url": "https://auto.gasgoo.com/news/202607/7I70464718C103.shtml",
+      "published_at": "2026-07-07T12:30:55Z",
+      "first_seen_at": "2026-07-08T04:43:57.055597Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
+      "title_original": "伟巴斯特拟推动印度子公司2027年IPO",
+      "title_en": null,
+      "title_zh": "伟巴斯特拟推动印度子公司2027年IPO",
+      "title_bilingual": "伟巴斯特拟推动印度子公司2027年IPO",
+      "topic_tags": [
+        "供应链"
+      ]
+    },
+    {
+      "id": "d00c7a3f0c2958f0c6cbe7b551a221af4131ea56",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-供应链",
+      "title": "​激光雷达行业“车载稳增、非车爆发”双轨并行",
+      "url": "https://auto.gasgoo.com/news/202607/7I70464717C103.shtml",
+      "published_at": "2026-07-07T12:09:42Z",
+      "first_seen_at": "2026-07-08T04:43:57.055597Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
+      "title_original": "​激光雷达行业“车载稳增、非车爆发”双轨并行",
+      "title_en": null,
+      "title_zh": "​激光雷达行业“车载稳增、非车爆发”双轨并行",
+      "title_bilingual": "​激光雷达行业“车载稳增、非车爆发”双轨并行",
+      "topic_tags": [
+        "智能驾驶",
+        "供应链"
       ]
     },
     {
@@ -1145,7 +1508,7 @@
       "url": "https://carnewschina.com/2026/07/07/byds-denza-d9-revealed-dark-gold-color-option-priced-at-4415-usd-in-china",
       "published_at": "2026-07-07T11:57:05Z",
       "first_seen_at": "2026-07-07T13:32:35.598956Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "BYD’s Denza D9 revealed Dark Gold color option priced at 4,415 USD in China",
       "title_en": "BYD’s Denza D9 revealed Dark Gold color option priced at 4,415 USD in China",
       "title_zh": "比亚迪 Denza D9 推出深金配色，中国售价 4,415 美元",
@@ -1153,6 +1516,45 @@
       "topic_tags": [
         "新能源",
         "价格战",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "017dbb52e8411f483a38e1fca4354d71d9f5e327",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-供应链",
+      "title": "图达通二季度激光雷达出货量同比增385%",
+      "url": "https://auto.gasgoo.com/news/202607/7I70464697C103.shtml",
+      "published_at": "2026-07-07T10:42:10Z",
+      "first_seen_at": "2026-07-08T04:43:57.055597Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
+      "title_original": "图达通二季度激光雷达出货量同比增385%",
+      "title_en": null,
+      "title_zh": "图达通二季度激光雷达出货量同比增385%",
+      "title_bilingual": "图达通二季度激光雷达出货量同比增385%",
+      "topic_tags": [
+        "智能驾驶",
+        "销量市场",
+        "供应链"
+      ]
+    },
+    {
+      "id": "d5aef2e37ccdecfaa2c0eb7668e710aa7a57f045",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "【国际快讯】丰田拟斥资36亿美元在美国得州建厂 ；福特与美光签署车用半导体供应协议；丰田和本田上半年在华销量双双下滑",
+      "url": "https://auto.gasgoo.com/news/202607/7I70464696C109.shtml",
+      "published_at": "2026-07-07T10:27:16Z",
+      "first_seen_at": "2026-07-08T04:43:57.055597Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
+      "title_original": "【国际快讯】丰田拟斥资36亿美元在美国得州建厂 ；福特与美光签署车用半导体供应协议；丰田和本田上半年在华销量双双下滑",
+      "title_en": null,
+      "title_zh": "【国际快讯】丰田拟斥资36亿美元在美国得州建厂 ；福特与美光签署车用半导体供应协议；丰田和本田上半年在华销量双双下滑",
+      "title_bilingual": "【国际快讯】丰田拟斥资36亿美元在美国得州建厂 ；福特与美光签署车用半导体供应协议；丰田和本田上半年在华销量双双下滑",
+      "topic_tags": [
+        "销量市场",
         "车企竞争"
       ]
     },
@@ -1165,7 +1567,7 @@
       "url": "https://cnevpost.com/2026/07/07/voyah-passion-s-pre-orders-late-jul",
       "published_at": "2026-07-07T10:25:14Z",
       "first_seen_at": "2026-07-07T11:23:47.711126Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "Voyah's Xiaomi YU7 rival Passion S to open for pre-orders in late July",
       "title_en": "Voyah's Xiaomi YU7 rival Passion S to open for pre-orders in late July",
       "title_zh": "Voyah 的小米 YU7 竞争对手 Passion S 将于 7 月底开放预订",
@@ -1173,6 +1575,100 @@
       "topic_tags": [
         "新能源",
         "车企竞争"
+      ]
+    },
+    {
+      "id": "26684d4a7263a1ccd4bf49fdd31746c1a5c06300",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新车",
+      "title": "全新坦克300预售价25.98万起，本月19日上市",
+      "url": "https://auto.gasgoo.com/news/202607/7I70464695C107.shtml",
+      "published_at": "2026-07-07T10:14:38Z",
+      "first_seen_at": "2026-07-08T04:43:57.055597Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
+      "title_original": "全新坦克300预售价25.98万起，本月19日上市",
+      "title_en": null,
+      "title_zh": "全新坦克300预售价25.98万起，本月19日上市",
+      "title_bilingual": "全新坦克300预售价25.98万起，本月19日上市",
+      "topic_tags": [
+        "价格战",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "ce91fac13572cbb4090d1076dee2de895ef48c47",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "比亚迪半导体BMS AFE芯片累计出货量突破1亿颗",
+      "url": "https://auto.gasgoo.com/news/202607/7I70464694C109.shtml",
+      "published_at": "2026-07-07T10:06:36Z",
+      "first_seen_at": "2026-07-08T04:43:57.055597Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
+      "title_original": "比亚迪半导体BMS AFE芯片累计出货量突破1亿颗",
+      "title_en": null,
+      "title_zh": "比亚迪半导体BMS AFE芯片累计出货量突破1亿颗",
+      "title_bilingual": "比亚迪半导体BMS AFE芯片累计出货量突破1亿颗",
+      "topic_tags": [
+        "车企竞争",
+        "供应链"
+      ]
+    },
+    {
+      "id": "3b9f3cc8d16e3095fa491a1f4747aab263d48c29",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-供应链",
+      "title": "楼剑锋出任华友控股集团总裁",
+      "url": "https://auto.gasgoo.com/news/202607/7I70464692C103.shtml",
+      "published_at": "2026-07-07T09:34:30Z",
+      "first_seen_at": "2026-07-08T04:43:57.055597Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
+      "title_original": "楼剑锋出任华友控股集团总裁",
+      "title_en": null,
+      "title_zh": "楼剑锋出任华友控股集团总裁",
+      "title_bilingual": "楼剑锋出任华友控股集团总裁",
+      "topic_tags": [
+        "供应链"
+      ]
+    },
+    {
+      "id": "ea1c61b7c6743e54141ed16f91162319aae772d6",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-供应链",
+      "title": "奥托立夫与长城汽车签署全球战略合作协议",
+      "url": "https://auto.gasgoo.com/news/202607/7I70464691C109.shtml",
+      "published_at": "2026-07-07T09:21:46Z",
+      "first_seen_at": "2026-07-08T04:43:57.055597Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
+      "title_original": "奥托立夫与长城汽车签署全球战略合作协议",
+      "title_en": null,
+      "title_zh": "奥托立夫与长城汽车签署全球战略合作协议",
+      "title_bilingual": "奥托立夫与长城汽车签署全球战略合作协议",
+      "topic_tags": [
+        "车企竞争",
+        "供应链"
+      ]
+    },
+    {
+      "id": "9910a9126928ed574d07e4eb5d3fb27905024216",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新能源",
+      "title": "华境S第10000台在华为松山湖交付",
+      "url": "https://auto.gasgoo.com/news/202607/7I70464690C501.shtml",
+      "published_at": "2026-07-07T09:15:21Z",
+      "first_seen_at": "2026-07-08T04:43:57.055597Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
+      "title_original": "华境S第10000台在华为松山湖交付",
+      "title_en": null,
+      "title_zh": "华境S第10000台在华为松山湖交付",
+      "title_bilingual": "华境S第10000台在华为松山湖交付",
+      "topic_tags": [
+        "新能源",
+        "销量市场"
       ]
     },
     {
@@ -1184,7 +1680,7 @@
       "url": "https://carnewschina.com/2026/07/07/byd-song-l-gt-electric-fastback-seen-in-china-after-a-year-long-lull",
       "published_at": "2026-07-07T09:06:42Z",
       "first_seen_at": "2026-07-07T11:23:47.711126Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "BYD Song L GT electric fastback seen in China after a year-long lull",
       "title_en": "BYD Song L GT electric fastback seen in China after a year-long lull",
       "title_zh": "比亚迪宋L GT电动快背车在沉寂一年后亮相中国",
@@ -1204,7 +1700,7 @@
       "url": "https://auto.gasgoo.com/news/202607/7I70464655C108.shtml",
       "published_at": "2026-07-07T08:40:45Z",
       "first_seen_at": "2026-07-08T01:02:12.778572Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "燃油价格上涨推高卡车租金，货运需求疲软致行业利用率偏低",
       "title_en": null,
       "title_zh": "燃油价格上涨推高卡车租金，货运需求疲软致行业利用率偏低",
@@ -1220,7 +1716,7 @@
       "url": "https://auto.gasgoo.com/news/202607/7I70464649C109.shtml",
       "published_at": "2026-07-07T08:39:11Z",
       "first_seen_at": "2026-07-08T01:02:12.778572Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "塔塔汽车紧凑型车一季度销量下滑17.6%",
       "title_en": null,
       "title_zh": "塔塔汽车紧凑型车一季度销量下滑17.6%",
@@ -1239,7 +1735,7 @@
       "url": "https://auto.gasgoo.com/news/202607/7I70464680C110.shtml",
       "published_at": "2026-07-07T08:36:48Z",
       "first_seen_at": "2026-07-08T01:02:12.778572Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "沃尔沃EX30登顶韩国6月高端紧凑型电动车销量榜首",
       "title_en": null,
       "title_zh": "沃尔沃EX30登顶韩国6月高端紧凑型电动车销量榜首",
@@ -1258,7 +1754,7 @@
       "url": "https://auto.gasgoo.com/news/202607/7I70464673C107.shtml",
       "published_at": "2026-07-07T08:33:47Z",
       "first_seen_at": "2026-07-08T01:02:12.778572Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "日产Primera以纯电车型身份回归",
       "title_en": null,
       "title_zh": "日产Primera以纯电车型身份回归",
@@ -1277,7 +1773,7 @@
       "url": "https://auto.gasgoo.com/news/202607/7I70464664C107.shtml",
       "published_at": "2026-07-07T08:30:27Z",
       "first_seen_at": "2026-07-08T01:02:12.778572Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "宾利首款纯电SUV定名“Torcal”，9月23日全球首发",
       "title_en": null,
       "title_zh": "宾利首款纯电SUV定名“Torcal”，9月23日全球首发",
@@ -1296,7 +1792,7 @@
       "url": "https://carnewschina.com/2026/07/07/1582-hp-tri-motor-denza-z-track-edition-spotted-testing-in-china-ahead-of-july-9-launch",
       "published_at": "2026-07-07T08:27:12Z",
       "first_seen_at": "2026-07-07T11:23:47.711126Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "1,582 hp tri-motor : Denza Z Track Edition spotted testing in China ahead of July 9 launch",
       "title_en": "1,582 hp tri-motor : Denza Z Track Edition spotted testing in China ahead of July 9 launch",
       "title_zh": "1,582 马力三电机：Denza Z Track Edition 将于 7 月 9 日发布前在中国进行测试",
@@ -1317,7 +1813,7 @@
       "url": "https://www.dongchedi.com/article/7659369967087354430",
       "published_at": null,
       "first_seen_at": "2026-07-07T08:21:02.220642Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "体验比亚迪大唐盛世版：转向灵、空悬稳，质感不输欧洲豪华SUV",
       "title_en": null,
       "title_zh": "体验比亚迪大唐盛世版：转向灵、空悬稳，质感不输欧洲豪华SUV",
@@ -1337,7 +1833,7 @@
       "url": "https://auto.gasgoo.com/news/202607/7I70464653C109.shtml",
       "published_at": "2026-07-07T08:19:27Z",
       "first_seen_at": "2026-07-08T01:02:12.778572Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "丰田与Joby合资，准备量产飞行器",
       "title_en": null,
       "title_zh": "丰田与Joby合资，准备量产飞行器",
@@ -1355,7 +1851,7 @@
       "url": "https://auto.gasgoo.com/news/202607/7I70464674C501.shtml",
       "published_at": "2026-07-07T08:18:03Z",
       "first_seen_at": "2026-07-08T01:02:12.778572Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "凯迪拉克因第三排电动折叠座椅隐患召回全部Vistiq车型",
       "title_en": null,
       "title_zh": "凯迪拉克因第三排电动折叠座椅隐患召回全部Vistiq车型",
@@ -1375,7 +1871,7 @@
       "url": "https://auto.gasgoo.com/news/202607/7I70464661C501.shtml",
       "published_at": "2026-07-07T08:09:34Z",
       "first_seen_at": "2026-07-08T01:02:12.778572Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "零跑汽车全球化，进入“加速度”",
       "title_en": null,
       "title_zh": "零跑汽车全球化，进入“加速度”",
@@ -1394,7 +1890,7 @@
       "url": "https://auto.gasgoo.com/news/202607/7I70464660C601.shtml",
       "published_at": "2026-07-07T07:46:39Z",
       "first_seen_at": "2026-07-08T01:02:12.778572Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "爱仕达与智元签署战略合作协议",
       "title_en": null,
       "title_zh": "爱仕达与智元签署战略合作协议",
@@ -1410,7 +1906,7 @@
       "url": "https://auto.gasgoo.com/news/202607/7I70464622C501.shtml",
       "published_at": "2026-07-07T07:18:17Z",
       "first_seen_at": "2026-07-07T23:28:53.464809Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "重庆要建75万个充电设施、2500座超充站",
       "title_en": null,
       "title_zh": "重庆要建75万个充电设施、2500座超充站",
@@ -1429,7 +1925,7 @@
       "url": "https://auto.gasgoo.com/news/202607/7I70464316C601.shtml",
       "published_at": "2026-07-07T07:10:11Z",
       "first_seen_at": "2026-07-07T23:28:53.464809Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "舱驾一体成为行业新赛点，卓驭率先完成技术量产与规模化“交卷”",
       "title_en": null,
       "title_zh": "舱驾一体成为行业新赛点，卓驭率先完成技术量产与规模化“交卷”",
@@ -1445,7 +1941,7 @@
       "url": "https://auto.gasgoo.com/news/202607/7I70464603C501.shtml",
       "published_at": "2026-07-07T07:00:48Z",
       "first_seen_at": "2026-07-07T23:28:53.464809Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "【盖世快讯】吉利控股与格力电器签署战略合作协议；零跑汽车正式进入北美市场",
       "title_en": null,
       "title_zh": "【盖世快讯】吉利控股与格力电器签署战略合作协议；零跑汽车正式进入北美市场",
@@ -1464,93 +1960,13 @@
       "url": "https://cnevpost.com/2026/07/07/leapmotor-brings-a10-based-b03x-to-europe",
       "published_at": "2026-07-07T06:45:35Z",
       "first_seen_at": "2026-07-07T08:21:02.220642Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
+      "last_seen_at": "2026-07-08T04:43:57.055597Z",
       "title_original": "Leapmotor brings A10-based B03X crossover to Europe at double its China price",
       "title_en": "Leapmotor brings A10-based B03X crossover to Europe at double its China price",
       "title_zh": "零跑汽车以中国价格两倍的价格向欧洲推出基于A10的B03X跨界车",
       "title_bilingual": "零跑汽车以中国价格两倍的价格向欧洲推出基于A10的B03X跨界车 / Leapmotor brings A10-based B03X crossover to Europe at double its China price",
       "topic_tags": [
         "新能源",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "89de0f8e6910c2849b65c1a46fcfb6c4c75f7b10",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Nio supplier Seyond's Q2 LiDAR shipments surge 385% as Robin series takes off",
-      "url": "https://cnevpost.com/2026/07/07/seyond-q2-lidar-shipments-surge",
-      "published_at": "2026-07-07T03:22:16Z",
-      "first_seen_at": "2026-07-07T04:31:59.684316Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
-      "title_original": "Nio supplier Seyond's Q2 LiDAR shipments surge 385% as Robin series takes off",
-      "title_en": "Nio supplier Seyond's Q2 LiDAR shipments surge 385% as Robin series takes off",
-      "title_zh": "蔚来供应商Seyond第二季度激光雷达出货量猛增385% Robin系列起飞",
-      "title_bilingual": "蔚来供应商Seyond第二季度激光雷达出货量猛增385% Robin系列起飞 / Nio supplier Seyond's Q2 LiDAR shipments surge 385% as Robin series takes off",
-      "topic_tags": [
-        "新能源",
-        "智能驾驶",
-        "车企竞争",
-        "供应链"
-      ]
-    },
-    {
-      "id": "e9387b439f8e74bf25b0d049d1f4c0f933eabdee",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Nio to start construction of Shanghai battery facility in H2, focusing on next-gen technology",
-      "url": "https://cnevpost.com/2026/07/07/nio-to-start-construction-shanghai-battery-facility-h2",
-      "published_at": "2026-07-07T02:09:47Z",
-      "first_seen_at": "2026-07-07T04:31:59.684316Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
-      "title_original": "Nio to start construction of Shanghai battery facility in H2, focusing on next-gen technology",
-      "title_en": "Nio to start construction of Shanghai battery facility in H2, focusing on next-gen technology",
-      "title_zh": "蔚来上海电池工厂下半年开工 专注下一代技术",
-      "title_bilingual": "蔚来上海电池工厂下半年开工 专注下一代技术 / Nio to start construction of Shanghai battery facility in H2, focusing on next-gen technology",
-      "topic_tags": [
-        "新能源",
-        "补能电池",
-        "车企竞争",
-        "供应链"
-      ]
-    },
-    {
-      "id": "73f422ab83302ef5e81ba52dae86e2c8b5e2836c",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Hyundai Ioniq V drops retro pixels for 620 km cyberpunk fastback with 8 colors",
-      "url": "https://carnewschina.com/2026/07/07/hyundai-ioniq-v-drops-retro-pixels-for-620-km-cyberpunk-fastback-in-gold-and-purple",
-      "published_at": "2026-07-07T02:04:40Z",
-      "first_seen_at": "2026-07-07T04:31:59.684316Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
-      "title_original": "Hyundai Ioniq V drops retro pixels for 620 km cyberpunk fastback with 8 colors",
-      "title_en": "Hyundai Ioniq V drops retro pixels for 620 km cyberpunk fastback with 8 colors",
-      "title_zh": "现代 Ioniq V 为 620 公里赛博朋克快背车提供 8 种颜色的复古像素",
-      "title_bilingual": "现代 Ioniq V 为 620 公里赛博朋克快背车提供 8 种颜色的复古像素 / Hyundai Ioniq V drops retro pixels for 620 km cyberpunk fastback with 8 colors",
-      "topic_tags": [
-        "新能源"
-      ]
-    },
-    {
-      "id": "267ab3daeb9fb9bd169381608182a98e681f2446",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Over 215,000 sold: BYD Sealion 7 quietly exits Chinese domestic market for export focus",
-      "url": "https://carnewschina.com/2026/07/07/over-215000-sold-byd-sealion-7-quietly-exits-chinese-domestic-market-for-export-focus",
-      "published_at": "2026-07-07T01:21:29Z",
-      "first_seen_at": "2026-07-07T04:31:59.684316Z",
-      "last_seen_at": "2026-07-08T01:02:12.778572Z",
-      "title_original": "Over 215,000 sold: BYD Sealion 7 quietly exits Chinese domestic market for export focus",
-      "title_en": "Over 215,000 sold: BYD Sealion 7 quietly exits Chinese domestic market for export focus",
-      "title_zh": "销量超21.5万辆：比亚迪海狮7悄然退出国内市场转向出口",
-      "title_bilingual": "销量超21.5万辆：比亚迪海狮7悄然退出国内市场转向出口 / Over 215,000 sold: BYD Sealion 7 quietly exits Chinese domestic market for export focus",
-      "topic_tags": [
-        "新能源",
-        "销量市场",
         "车企竞争"
       ]
     }
