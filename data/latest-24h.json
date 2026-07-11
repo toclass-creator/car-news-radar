@@ -1,54 +1,62 @@
 {
-  "generated_at": "2026-07-11T00:55:43.858574Z",
+  "generated_at": "2026-07-11T04:11:30.321672Z",
   "window_hours": 24,
-  "total_items": 38,
-  "total_items_ai_raw": 39,
-  "total_items_raw": 3290,
-  "total_items_all_mode": 3026,
+  "total_items": 52,
+  "total_items_ai_raw": 62,
+  "total_items_raw": 3762,
+  "total_items_all_mode": 3431,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 69291,
+  "archive_total": 69768,
   "site_count": 3,
-  "source_count": 7,
+  "source_count": 14,
   "site_stats": [
     {
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "count": 23,
-      "raw_count": 24
+      "count": 37,
+      "raw_count": 47
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "count": 14,
-      "raw_count": 3118
+      "raw_count": 3560
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "count": 1,
-      "raw_count": 148
+      "raw_count": 155
     }
   ],
   "topic_tag_stats": [
     {
       "tag": "车企竞争",
-      "count": 29
+      "count": 33
     },
     {
       "tag": "新能源",
-      "count": 26
+      "count": 28
     },
     {
       "tag": "新车上市",
-      "count": 11
-    },
-    {
-      "tag": "购车决策",
-      "count": 8
+      "count": 15
     },
     {
       "tag": "销量市场",
-      "count": 7
+      "count": 12
+    },
+    {
+      "tag": "购车决策",
+      "count": 9
+    },
+    {
+      "tag": "供应链",
+      "count": 6
+    },
+    {
+      "tag": "补能电池",
+      "count": 4
     },
     {
       "tag": "价格战",
@@ -56,19 +64,92 @@
     },
     {
       "tag": "智能驾驶",
-      "count": 2
-    },
-    {
-      "tag": "补能电池",
-      "count": 2
-    },
-    {
-      "tag": "供应链",
       "count": 1
     }
   ],
   "items": [
     {
+      "id": "6e6b82e6f8884a84fa644ec7add6e4ad65720f24",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "BYD Denza N8 pure electric SUV brings 1,193 hp tri-motor hardware to premium SUV segment",
+      "url": "https://carnewschina.com/2026/07/11/byd-denza-n8-pure-electric-suv-brings-1193-hp-tri-motor-hardware-to-premium-suv-segment",
+      "published_at": "2026-07-11T04:08:57Z",
+      "first_seen_at": "2026-07-11T04:11:30.321672Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
+      "title_original": "BYD Denza N8 pure electric SUV brings 1,193 hp tri-motor hardware to premium SUV segment",
+      "title_en": "BYD Denza N8 pure electric SUV brings 1,193 hp tri-motor hardware to premium SUV segment",
+      "title_zh": "比亚迪腾势N8纯电动SUV为高端SUV细分市场带来1,193马力三电机硬件",
+      "title_bilingual": "比亚迪腾势N8纯电动SUV为高端SUV细分市场带来1,193马力三电机硬件 / BYD Denza N8 pure electric SUV brings 1,193 hp tri-motor hardware to premium SUV segment",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争",
+        "供应链",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "7ef3aae30eab0a12b07584d2f990384ae3960ea9",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Volkswagen’s Jetta brand M6 electric sedan exposed with 145 kW output",
+      "url": "https://carnewschina.com/2026/07/11/volkswagens-jetta-brand-m6-electric-sedan-exposed-with-145-kw-output",
+      "published_at": "2026-07-11T03:40:28Z",
+      "first_seen_at": "2026-07-11T04:11:30.321672Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
+      "title_original": "Volkswagen’s Jetta brand M6 electric sedan exposed with 145 kW output",
+      "title_en": "Volkswagen’s Jetta brand M6 electric sedan exposed with 145 kW output",
+      "title_zh": "大众捷达品牌M6电动轿车曝光，输出功率145千瓦",
+      "title_bilingual": "大众捷达品牌M6电动轿车曝光，输出功率145千瓦 / Volkswagen’s Jetta brand M6 electric sedan exposed with 145 kW output",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "02add218c387853fd2f32bab0627129f7d95fd68",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Xpeng June deliveries breakdown: Mona M03 contributes over 35%, GX surges into second place",
+      "url": "https://cnevpost.com/2026/07/11/xpeng-jun-2026-deliveries-breakdown",
+      "published_at": "2026-07-11T01:46:35Z",
+      "first_seen_at": "2026-07-11T04:11:30.321672Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
+      "title_original": "Xpeng June deliveries breakdown: Mona M03 contributes over 35%, GX surges into second place",
+      "title_en": "Xpeng June deliveries breakdown: Mona M03 contributes over 35%, GX surges into second place",
+      "title_zh": "小鹏6月交付明细：梦娜M03贡献超35% GX跃居第二",
+      "title_bilingual": "小鹏6月交付明细：梦娜M03贡献超35% GX跃居第二 / Xpeng June deliveries breakdown: Mona M03 contributes over 35%, GX surges into second place",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "44bd3382443efb208001bbadf5161d945d79bc11",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "China NEV retail sales fall 9% in first week of July as market enters seasonal lull",
+      "url": "https://cnevpost.com/2026/07/11/china-nev-retail-fall-first-week-jul-2026",
+      "published_at": "2026-07-11T01:21:32Z",
+      "first_seen_at": "2026-07-11T04:11:30.321672Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
+      "title_original": "China NEV retail sales fall 9% in first week of July as market enters seasonal lull",
+      "title_en": "China NEV retail sales fall 9% in first week of July as market enters seasonal lull",
+      "title_zh": "市场进入季节性淡季，7月第一周中国新能源汽车零售量下降9%",
+      "title_bilingual": "市场进入季节性淡季，7月第一周中国新能源汽车零售量下降9% / China NEV retail sales fall 9% in first week of July as market enters seasonal lull",
+      "topic_tags": [
+        "新能源",
+        "销量市场"
+      ]
+    },
+    {
       "id": "36118ced4e0075771a61a71b6cbe05bb08f4721f",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -77,7 +158,7 @@
       "url": "http://vc.yiche.com/vplay/12012772.html",
       "published_at": null,
       "first_seen_at": "2026-07-10T19:23:44.529501Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
       "title_original": "比亚迪海豚7月行情：终端优惠1万+，老款最高优惠3万",
       "title_en": null,
       "title_zh": "比亚迪海豚7月行情：终端优惠1万+，老款最高优惠3万",
@@ -96,7 +177,7 @@
       "url": "http://vc.yiche.com/vplay/11997407.html",
       "published_at": null,
       "first_seen_at": "2026-07-10T19:23:44.529501Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
       "title_original": "实拍长城H10丨3米轴距、5座/6座，兼顾家用舒适和户外越野",
       "title_en": null,
       "title_zh": "实拍长城H10丨3米轴距、5座/6座，兼顾家用舒适和户外越野",
@@ -115,7 +196,7 @@
       "url": "http://vc.yiche.com/vplay/12010308.html",
       "published_at": null,
       "first_seen_at": "2026-07-10T19:23:44.529501Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
       "title_original": "想买小米SU7的先等等，吉利银河TT来了",
       "title_en": null,
       "title_zh": "想买小米SU7的先等等，吉利银河TT来了",
@@ -133,7 +214,7 @@
       "url": "http://vc.yiche.com/vplay/11999794.html",
       "published_at": null,
       "first_seen_at": "2026-07-10T19:23:44.529501Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
       "title_original": "风云T9L猎鹰700选装包解析，13万级混动家用SUV空间标杆",
       "title_en": null,
       "title_zh": "风云T9L猎鹰700选装包解析，13万级混动家用SUV空间标杆",
@@ -153,7 +234,7 @@
       "url": "http://vc.yiche.com/vplay/11998821.html",
       "published_at": null,
       "first_seen_at": "2026-07-10T19:23:44.529501Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
       "title_original": "腾势D9连续翻滚实战，硬核实力全员零受伤，车主用自拍为MPV正名",
       "title_en": null,
       "title_zh": "腾势D9连续翻滚实战，硬核实力全员零受伤，车主用自拍为MPV正名",
@@ -172,7 +253,7 @@
       "url": "http://vc.yiche.com/vplay/11999682.html",
       "published_at": null,
       "first_seen_at": "2026-07-10T19:23:44.529501Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
       "title_original": "高山8车主眼中的高山7 SUV版丨涛听途说",
       "title_en": null,
       "title_zh": "高山8车主眼中的高山7 SUV版丨涛听途说",
@@ -191,7 +272,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/022d7a75d8e692fa/115486552-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-10T17:45:31.756565Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
       "title_original": "家用纯电好选择 深蓝S05提车日记",
       "title_en": null,
       "title_zh": "家用纯电好选择 深蓝S05提车日记",
@@ -210,7 +291,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/1e092946e351089c/115488086-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-10T17:45:31.756565Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
       "title_original": "二胎七座需求置换油车购入零跑D19",
       "title_en": null,
       "title_zh": "二胎七座需求置换油车购入零跑D19",
@@ -228,7 +309,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/917982cb62008d04/115511689-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-10T17:45:31.756565Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
       "title_original": "5万公里 长安UNI-V基础保养作业分享",
       "title_en": null,
       "title_zh": "5万公里 长安UNI-V基础保养作业分享",
@@ -246,7 +327,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/dded11f43be4d9f0/115452040-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-10T17:45:31.756565Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
       "title_original": "性价比很高 零跑A10提车作业分享",
       "title_en": null,
       "title_zh": "性价比很高 零跑A10提车作业分享",
@@ -266,7 +347,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/eb7e40aa2cde8b3a/115495157-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-10T17:45:31.756565Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
       "title_original": "边界要拎清 阿尔法S5智驾的真实日常",
       "title_en": null,
       "title_zh": "边界要拎清 阿尔法S5智驾的真实日常",
@@ -284,7 +365,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/0c62d524253a4563/115113457-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-10T17:45:31.756565Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
       "title_original": "三年用车 大众ID.3四季真实电耗续航",
       "title_en": null,
       "title_zh": "三年用车 大众ID.3四季真实电耗续航",
@@ -304,7 +385,7 @@
       "url": "https://cnevpost.com/2026/07/10/byd-11-275-gwh-storage-deal-abu-dhabi-project",
       "published_at": "2026-07-10T14:13:18Z",
       "first_seen_at": "2026-07-10T15:53:55.138985Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
       "title_original": "BYD deepens Middle East push with 11.275 GWh storage deal for Abu Dhabi project",
       "title_en": "BYD deepens Middle East push with 11.275 GWh storage deal for Abu Dhabi project",
       "title_zh": "比亚迪深化中东业务，为阿布扎比项目提供 11.275 GWh 储能协议",
@@ -323,7 +404,7 @@
       "url": "https://cnevpost.com/2026/07/10/li-auto-i9-regulatory-filing",
       "published_at": "2026-07-10T13:46:56Z",
       "first_seen_at": "2026-07-10T15:53:55.138985Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
       "title_original": "Li Auto's i9 SUV shows up in regulatory filing as company expands BEV lineup",
       "title_en": "Li Auto's i9 SUV shows up in regulatory filing as company expands BEV lineup",
       "title_zh": "随着公司扩大纯电动汽车产品线，理想汽车的 i9 SUV 出现在监管文件中",
@@ -343,7 +424,7 @@
       "url": "https://cnevpost.com/2026/07/10/xiaomi-sky-nomad-suvs-regulatory-filing",
       "published_at": "2026-07-10T13:19:55Z",
       "first_seen_at": "2026-07-10T13:25:49.043178Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
       "title_original": "Xiaomi's Sky Nomad SUVs surface in regulatory filing, including camping version with lifting roof",
       "title_en": "Xiaomi's Sky Nomad SUVs surface in regulatory filing, including camping version with lifting roof",
       "title_zh": "小米的 Sky Nomad SUV 出现在监管文件中，其中包括带有升降顶棚的露营版",
@@ -363,7 +444,7 @@
       "url": "https://carnewschina.com/2026/07/10/new-byd-seagull-hatchback-exposed-with-425-mm-longer-body-and-127-hp-motor",
       "published_at": "2026-07-10T12:38:56Z",
       "first_seen_at": "2026-07-10T13:25:49.043178Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
       "title_original": "New BYD Seagull hatchback exposed with 425 mm longer body and 127 hp motor",
       "title_en": "New BYD Seagull hatchback exposed with 425 mm longer body and 127 hp motor",
       "title_zh": "比亚迪新款海鸥掀背车曝光，车身加长425毫米，电机127马力",
@@ -375,6 +456,81 @@
       ]
     },
     {
+      "id": "799c905d1294ed1eefd56a4fd51685a79d722b43",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新车",
+      "title": "零跑A系列首款轿车零跑A05s正式亮相",
+      "url": "https://auto.gasgoo.com/news/202607/10I70465258C109.shtml",
+      "published_at": "2026-07-10T12:01:40Z",
+      "first_seen_at": "2026-07-11T04:11:30.321672Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
+      "title_original": "零跑A系列首款轿车零跑A05s正式亮相",
+      "title_en": null,
+      "title_zh": "零跑A系列首款轿车零跑A05s正式亮相",
+      "title_bilingual": "零跑A系列首款轿车零跑A05s正式亮相",
+      "topic_tags": [
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "140971a1ac7e94d717b84635ff0ab4a61b24a699",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-销量",
+      "title": "保时捷上半年全球销量同比下跌16%",
+      "url": "https://auto.gasgoo.com/news/202607/10I70465261C110.shtml",
+      "published_at": "2026-07-10T11:51:03Z",
+      "first_seen_at": "2026-07-11T04:11:30.321672Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
+      "title_original": "保时捷上半年全球销量同比下跌16%",
+      "title_en": null,
+      "title_zh": "保时捷上半年全球销量同比下跌16%",
+      "title_bilingual": "保时捷上半年全球销量同比下跌16%",
+      "topic_tags": [
+        "销量市场"
+      ]
+    },
+    {
+      "id": "847c2b666b28813bd3a29f970f7e2b6e36168be2",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "美参议院拟加码对华车企禁令 两党法案即将投票表决",
+      "url": "https://auto.gasgoo.com/news/202607/10I70465260C108.shtml",
+      "published_at": "2026-07-10T11:37:17Z",
+      "first_seen_at": "2026-07-11T04:11:30.321672Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
+      "title_original": "美参议院拟加码对华车企禁令 两党法案即将投票表决",
+      "title_en": null,
+      "title_zh": "美参议院拟加码对华车企禁令 两党法案即将投票表决",
+      "title_bilingual": "美参议院拟加码对华车企禁令 两党法案即将投票表决",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "d4aec843cf55a493fe96a18aef94b3fb5390e099",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "德国大众集团拟缩减产能、精简车型矩阵",
+      "url": "https://auto.gasgoo.com/news/202607/10I70465259C109.shtml",
+      "published_at": "2026-07-10T11:35:03Z",
+      "first_seen_at": "2026-07-11T04:11:30.321672Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
+      "title_original": "德国大众集团拟缩减产能、精简车型矩阵",
+      "title_en": null,
+      "title_zh": "德国大众集团拟缩减产能、精简车型矩阵",
+      "title_bilingual": "德国大众集团拟缩减产能、精简车型矩阵",
+      "topic_tags": [
+        "车企竞争",
+        "供应链",
+        "新车上市"
+      ]
+    },
+    {
       "id": "0b78509c4c3b1e279142db5c6f49bb63ed6e6aa0",
       "site_id": "newsnow",
       "site_name": "NewsNow",
@@ -383,7 +539,7 @@
       "url": "https://www.producthunt.com/products/juicy-battery-app",
       "published_at": "2026-07-10T11:24:31.899000Z",
       "first_seen_at": "2026-07-10T11:24:18.248682Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
       "title_original": "Juicy",
       "title_en": null,
       "title_zh": null,
@@ -401,7 +557,7 @@
       "url": "https://cnevpost.com/2026/07/10/byd-shark-pickup-china-regulatory-filing",
       "published_at": "2026-07-10T11:19:58Z",
       "first_seen_at": "2026-07-10T11:24:18.248682Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
       "title_original": "BYD Shark pickup appears in China regulatory filing 2 years after overseas launch",
       "title_en": "BYD Shark pickup appears in China regulatory filing 2 years after overseas launch",
       "title_zh": "比亚迪Shark皮卡在海外推出两年后出现在中国监管备案文件中",
@@ -420,7 +576,7 @@
       "url": "https://carnewschina.com/2026/07/10/new-byd-atto-8-sealion-8-exposed-with-402-hp-and-extended-wheelbase",
       "published_at": "2026-07-10T11:17:50Z",
       "first_seen_at": "2026-07-10T13:25:49.043178Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
       "title_original": "New BYD Atto 8 (Sealion 8) exposed with 269 hp reduction and 16 mm narrower body",
       "title_en": "New BYD Atto 8 (Sealion 8) exposed with 269 hp reduction and 16 mm narrower body",
       "title_zh": "比亚迪新款Atto 8（海狮8）曝光 马力降低269 车身窄16毫米",
@@ -450,6 +606,25 @@
       ]
     },
     {
+      "id": "7d569852176a504ee420c0673cd8598f6325bd8b",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-销量",
+      "title": "2026年1-5月中国乘用车出口到哪了：巴西领航，欧洲与亚太多点开花丨盖世汽车研究院",
+      "url": "https://auto.gasgoo.com/news/202607/10I70465257C110.shtml",
+      "published_at": "2026-07-10T11:17:16Z",
+      "first_seen_at": "2026-07-11T04:11:30.321672Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
+      "title_original": "2026年1-5月中国乘用车出口到哪了：巴西领航，欧洲与亚太多点开花丨盖世汽车研究院",
+      "title_en": null,
+      "title_zh": "2026年1-5月中国乘用车出口到哪了：巴西领航，欧洲与亚太多点开花丨盖世汽车研究院",
+      "title_bilingual": "2026年1-5月中国乘用车出口到哪了：巴西领航，欧洲与亚太多点开花丨盖世汽车研究院",
+      "topic_tags": [
+        "销量市场",
+        "购车决策"
+      ]
+    },
+    {
       "id": "34f145f1e6353582872db0e3ff1d06b7d56d1091",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -458,7 +633,7 @@
       "url": "https://cnevpost.com/2026/07/10/tesla-files-new-model-y-variant-china",
       "published_at": "2026-07-10T11:02:11Z",
       "first_seen_at": "2026-07-10T11:24:18.248682Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
       "title_original": "Tesla files new Model Y variant in China, likely Performance version",
       "title_en": "Tesla files new Model Y variant in China, likely Performance version",
       "title_zh": "特斯拉在中国提交新的 Model Y 变体，可能是性能版",
@@ -466,6 +641,27 @@
       "topic_tags": [
         "新能源",
         "车企竞争"
+      ]
+    },
+    {
+      "id": "f82e4a15ccf4adcbe1657de989bdf90dbee88790",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "【国际快讯】大众集团计划削减产能、精简车型矩阵；6月全球电动汽车销量增长7%至200万辆；保时捷上半年全球销量下跌16%",
+      "url": "https://auto.gasgoo.com/news/202607/10I70465256C501.shtml",
+      "published_at": "2026-07-10T10:42:24Z",
+      "first_seen_at": "2026-07-11T04:11:30.321672Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
+      "title_original": "【国际快讯】大众集团计划削减产能、精简车型矩阵；6月全球电动汽车销量增长7%至200万辆；保时捷上半年全球销量下跌16%",
+      "title_en": null,
+      "title_zh": "【国际快讯】大众集团计划削减产能、精简车型矩阵；6月全球电动汽车销量增长7%至200万辆；保时捷上半年全球销量下跌16%",
+      "title_bilingual": "【国际快讯】大众集团计划削减产能、精简车型矩阵；6月全球电动汽车销量增长7%至200万辆；保时捷上半年全球销量下跌16%",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争",
+        "供应链",
+        "新车上市"
       ]
     },
     {
@@ -477,7 +673,7 @@
       "url": "https://carnewschina.com/2026/07/10/byd-denza-z9s-sedan-exposed-with-496-hp-and-3025-mm-wheelbase",
       "published_at": "2026-07-10T10:40:05Z",
       "first_seen_at": "2026-07-10T13:25:49.043178Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
       "title_original": "BYD Denza Z9S sedan exposed with 496 hp and 3,025 mm wheelbase",
       "title_en": "BYD Denza Z9S sedan exposed with 496 hp and 3,025 mm wheelbase",
       "title_zh": "比亚迪腾势Z9S轿车曝光，496马力，轴距3,025毫米",
@@ -509,6 +705,114 @@
       ]
     },
     {
+      "id": "d71174fb814a9f568758e0e55d1016dcc7840d7d",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-供应链",
+      "title": "天赐材料，净利最高预增超10倍",
+      "url": "https://auto.gasgoo.com/news/202607/10I70465255C501.shtml",
+      "published_at": "2026-07-10T10:03:31Z",
+      "first_seen_at": "2026-07-11T04:11:30.321672Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
+      "title_original": "天赐材料，净利最高预增超10倍",
+      "title_en": null,
+      "title_zh": "天赐材料，净利最高预增超10倍",
+      "title_bilingual": "天赐材料，净利最高预增超10倍",
+      "topic_tags": [
+        "供应链"
+      ]
+    },
+    {
+      "id": "756cc79f45538d4bf51e2e9d48ff78d073fc3ff2",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "兆易创新，利润预增1099%",
+      "url": "https://auto.gasgoo.com/news/202607/10I70465254C601.shtml",
+      "published_at": "2026-07-10T09:49:43Z",
+      "first_seen_at": "2026-07-11T04:11:30.321672Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
+      "title_original": "兆易创新，利润预增1099%",
+      "title_en": null,
+      "title_zh": "兆易创新，利润预增1099%",
+      "title_bilingual": "兆易创新，利润预增1099%",
+      "topic_tags": []
+    },
+    {
+      "id": "4c1e5119f6c229b6639ce42bbb04f0526d05db79",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "上汽通用五菱捐赠300万元款物驰援广西抗洪救灾",
+      "url": "https://auto.gasgoo.com/news/202607/10I70465253C109.shtml",
+      "published_at": "2026-07-10T09:38:17Z",
+      "first_seen_at": "2026-07-11T04:11:30.321672Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
+      "title_original": "上汽通用五菱捐赠300万元款物驰援广西抗洪救灾",
+      "title_en": null,
+      "title_zh": "上汽通用五菱捐赠300万元款物驰援广西抗洪救灾",
+      "title_bilingual": "上汽通用五菱捐赠300万元款物驰援广西抗洪救灾",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "f2a2ef8a4af8a1382be2a9e737e2d8b1ae341767",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新车",
+      "title": "启境GT7正式开启全国交付",
+      "url": "https://auto.gasgoo.com/news/202607/10I70465251C501.shtml",
+      "published_at": "2026-07-10T09:29:52Z",
+      "first_seen_at": "2026-07-11T04:11:30.321672Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
+      "title_original": "启境GT7正式开启全国交付",
+      "title_en": null,
+      "title_zh": "启境GT7正式开启全国交付",
+      "title_bilingual": "启境GT7正式开启全国交付",
+      "topic_tags": [
+        "销量市场",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "50f02992e790c1c5328ca15c56fbc745b7130d5d",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "中国人形机器人，杀进欧洲新能源工厂了",
+      "url": "https://auto.gasgoo.com/news/202607/10I70465250C601.shtml",
+      "published_at": "2026-07-10T09:22:16Z",
+      "first_seen_at": "2026-07-11T04:11:30.321672Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
+      "title_original": "中国人形机器人，杀进欧洲新能源工厂了",
+      "title_en": null,
+      "title_zh": "中国人形机器人，杀进欧洲新能源工厂了",
+      "title_bilingual": "中国人形机器人，杀进欧洲新能源工厂了",
+      "topic_tags": [
+        "新能源",
+        "供应链"
+      ]
+    },
+    {
+      "id": "ee0924557533302149c434df1770bc2a9b88dde5",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新能源",
+      "title": "欣旺达全球新总部正式启用",
+      "url": "https://auto.gasgoo.com/news/202607/10I70465249C501.shtml",
+      "published_at": "2026-07-10T09:20:21Z",
+      "first_seen_at": "2026-07-11T04:11:30.321672Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
+      "title_original": "欣旺达全球新总部正式启用",
+      "title_en": null,
+      "title_zh": "欣旺达全球新总部正式启用",
+      "title_bilingual": "欣旺达全球新总部正式启用",
+      "topic_tags": [
+        "新能源"
+      ]
+    },
+    {
       "id": "a83e352a569f2aa8f7d839e8d74c65ee21a6eeb2",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -517,7 +821,7 @@
       "url": "https://cnevpost.com/2026/07/10/tesla-jun-2026-china-deliveries-breakdown",
       "published_at": "2026-07-10T09:19:40Z",
       "first_seen_at": "2026-07-10T11:24:18.248682Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
       "title_original": "Tesla June China deliveries breakdown: Model Y dominates, Model 3 weakness deepens",
       "title_en": "Tesla June China deliveries breakdown: Model Y dominates, Model 3 weakness deepens",
       "title_zh": "特斯拉6月中国交付量细分：Model Y占据主导地位，Model 3疲软加深",
@@ -529,6 +833,59 @@
       ]
     },
     {
+      "id": "44ae9c9f3b56252b04093986137ae58a582295f1",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新技术",
+      "title": "废旧塑料瓶可用作石墨材料？宾夕法尼亚州立大学新技术可生产高性能电池级负极材料",
+      "url": "https://auto.gasgoo.com/news/202607/10I70464698C409.shtml",
+      "published_at": "2026-07-10T09:06:56Z",
+      "first_seen_at": "2026-07-11T04:11:30.321672Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
+      "title_original": "废旧塑料瓶可用作石墨材料？宾夕法尼亚州立大学新技术可生产高性能电池级负极材料",
+      "title_en": null,
+      "title_zh": "废旧塑料瓶可用作石墨材料？宾夕法尼亚州立大学新技术可生产高性能电池级负极材料",
+      "title_bilingual": "废旧塑料瓶可用作石墨材料？宾夕法尼亚州立大学新技术可生产高性能电池级负极材料",
+      "topic_tags": [
+        "补能电池"
+      ]
+    },
+    {
+      "id": "b3f5f8149abf3e9bbde31ab07182dbd6d7fb7173",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新技术",
+      "title": "剑桥大学研究发现：施加物理压力可让电动车电池寿命翻倍并降低环境影响",
+      "url": "https://auto.gasgoo.com/news/202607/10I70464699C409.shtml",
+      "published_at": "2026-07-10T09:06:45Z",
+      "first_seen_at": "2026-07-11T04:11:30.321672Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
+      "title_original": "剑桥大学研究发现：施加物理压力可让电动车电池寿命翻倍并降低环境影响",
+      "title_en": null,
+      "title_zh": "剑桥大学研究发现：施加物理压力可让电动车电池寿命翻倍并降低环境影响",
+      "title_bilingual": "剑桥大学研究发现：施加物理压力可让电动车电池寿命翻倍并降低环境影响",
+      "topic_tags": [
+        "新能源",
+        "补能电池"
+      ]
+    },
+    {
+      "id": "fee07442270c36fdc8576f5caef64586d37c17de",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新技术",
+      "title": "首尔大学工学院研发人造皮肤技术 使机器人能够像人类一样同时感知温度和压力",
+      "url": "https://auto.gasgoo.com/news/202607/10I70464700C409.shtml",
+      "published_at": "2026-07-10T09:06:38Z",
+      "first_seen_at": "2026-07-11T04:11:30.321672Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
+      "title_original": "首尔大学工学院研发人造皮肤技术 使机器人能够像人类一样同时感知温度和压力",
+      "title_en": null,
+      "title_zh": "首尔大学工学院研发人造皮肤技术 使机器人能够像人类一样同时感知温度和压力",
+      "title_bilingual": "首尔大学工学院研发人造皮肤技术 使机器人能够像人类一样同时感知温度和压力",
+      "topic_tags": []
+    },
+    {
       "id": "8373aad68b1711533888389cf67101de0f174daa",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -537,7 +894,7 @@
       "url": "https://www.dongchedi.com/article/7660434713727713816",
       "published_at": null,
       "first_seen_at": "2026-07-10T08:19:57.638088Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
       "title_original": "关注 | 第23届长春车展将于7月11日开幕，3个全新品牌首次参展",
       "title_en": null,
       "title_zh": "关注 | 第23届长春车展将于7月11日开幕，3个全新品牌首次参展",
@@ -555,7 +912,7 @@
       "url": "https://www.dongchedi.com/article/7659352645946180121",
       "published_at": null,
       "first_seen_at": "2026-07-10T08:19:57.638088Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
       "title_original": "潮流纯电轿跑新物种 试驾大众安徽与众07",
       "title_en": null,
       "title_zh": "潮流纯电轿跑新物种 试驾大众安徽与众07",
@@ -575,7 +932,7 @@
       "url": "https://cnevpost.com/2026/07/10/nio-kicks-off-5-seat-es8-deliveries",
       "published_at": "2026-07-10T07:54:28Z",
       "first_seen_at": "2026-07-10T08:19:57.638088Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
       "title_original": "Nio kicks off 5-seat ES8 deliveries as its best-selling SUV eyes broader customer base",
       "title_en": "Nio kicks off 5-seat ES8 deliveries as its best-selling SUV eyes broader customer base",
       "title_zh": "蔚来开始交付 5 座 ES8，其最畅销 SUV 着眼于更广泛的客户群",
@@ -596,7 +953,7 @@
       "url": "https://cnevpost.com/2026/07/10/automakers-share-china-nev-exports-jun-2026",
       "published_at": "2026-07-10T07:19:51Z",
       "first_seen_at": "2026-07-10T08:19:57.638088Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
       "title_original": "Automakers' share in China NEV exports in June: BYD leads with 34.2%, Tesla 4th with 7.2%",
       "title_en": "Automakers' share in China NEV exports in June: BYD leads with 34.2%, Tesla 4th with 7.2%",
       "title_zh": "6月中国新能源汽车出口车企占比：比亚迪以34.2%领先，特斯拉以7.2%排名第四",
@@ -616,7 +973,7 @@
       "url": "https://carnewschina.com/2026/07/10/byd-lands-historic-11-2-gwh-grid-contract-equivalent-to-186000-electric-vehicle-packs",
       "published_at": "2026-07-10T07:13:52Z",
       "first_seen_at": "2026-07-10T08:19:57.638088Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
       "title_original": "BYD lands historic 11.2 GWh grid contract equivalent to 186,000 electric vehicle packs",
       "title_en": "BYD lands historic 11.2 GWh grid contract equivalent to 186,000 electric vehicle packs",
       "title_zh": "比亚迪获得历史性的 11.2 GWh 电网合同，相当于 186,000 个电动汽车包",
@@ -635,7 +992,7 @@
       "url": "https://auto.gasgoo.com/news/202607/10I70465103C501.shtml",
       "published_at": "2026-07-10T07:00:10Z",
       "first_seen_at": "2026-07-10T23:06:37.487700Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
       "title_original": "【盖世快讯】比亚迪第1700万辆新能源车下线；6月汽车出口首破百万辆",
       "title_en": null,
       "title_zh": "【盖世快讯】比亚迪第1700万辆新能源车下线；6月汽车出口首破百万辆",
@@ -655,7 +1012,7 @@
       "url": "https://cnevpost.com/2026/07/10/automakers-share-china-nev-market-jun-2026",
       "published_at": "2026-07-10T06:41:52Z",
       "first_seen_at": "2026-07-10T08:19:57.638088Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
       "title_original": "Automakers' share in China's NEV market in June: BYD leads with 22.3%, Tesla 5th for second consecutive month",
       "title_en": "Automakers' share in China's NEV market in June: BYD leads with 22.3%, Tesla 5th for second consecutive month",
       "title_zh": "6月中国新能源汽车市场车企份额：比亚迪22.3%领先 特斯拉连续第二个月第五",
@@ -675,7 +1032,7 @@
       "url": "https://cnevpost.com/2026/07/10/nio-es8-per-vehicle-cost-up-3000-material-price-surge",
       "published_at": "2026-07-10T05:43:50Z",
       "first_seen_at": "2026-07-10T08:19:57.638088Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
       "title_original": "Nio says ES8 per-vehicle cost up nearly $3,000 on raw material price surge",
       "title_en": "Nio says ES8 per-vehicle cost up nearly $3,000 on raw material price surge",
       "title_zh": "蔚来表示，由于原材料价格上涨，ES8每辆车的成本上涨了近3,000美元",
@@ -694,117 +1051,99 @@
       "url": "https://carnewschina.com/2026/07/10/how-evs-hybrids-are-powering-chinas-flood-victims-via-v2l-tech",
       "published_at": "2026-07-10T04:37:02Z",
       "first_seen_at": "2026-07-10T08:19:57.638088Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
       "title_original": "How EVs, hybrids are powering China’s flood victims via V2L tech",
       "title_en": "How EVs, hybrids are powering China’s flood victims via V2L tech",
       "title_zh": "电动汽车、混合动力汽车如何通过 V2L 技术为中国洪水灾民提供动力",
       "title_bilingual": "电动汽车、混合动力汽车如何通过 V2L 技术为中国洪水灾民提供动力 / How EVs, hybrids are powering China’s flood victims via V2L tech",
       "topic_tags": [
         "新能源"
-      ]
-    },
-    {
-      "id": "5901d75e93fee7bc0b61db29b7490e45c21b945a",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Leapmotor previews LiDAR-equipped A05s compact EV in push toward 1 million delivery goal",
-      "url": "https://cnevpost.com/2026/07/10/leapmotor-previews-a05s-compact-ev",
-      "published_at": "2026-07-10T03:39:18Z",
-      "first_seen_at": "2026-07-10T04:32:23.531250Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
-      "title_original": "Leapmotor previews LiDAR-equipped A05s compact EV in push toward 1 million delivery goal",
-      "title_en": "Leapmotor previews LiDAR-equipped A05s compact EV in push toward 1 million delivery goal",
-      "title_zh": "零跑汽车预览搭载激光雷达的A05s紧凑型电动汽车，力争实现100万辆交付目标",
-      "title_bilingual": "零跑汽车预览搭载激光雷达的A05s紧凑型电动汽车，力争实现100万辆交付目标 / Leapmotor previews LiDAR-equipped A05s compact EV in push toward 1 million delivery goal",
-      "topic_tags": [
-        "新能源",
-        "智能驾驶",
-        "销量市场",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "aa2c208c3d5dd847900098ea47e65221dad077ed",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Leapmotor to launch updated B01, B10 on July 16 as product offensive continues",
-      "url": "https://cnevpost.com/2026/07/10/leapmotor-to-launch-updated-b01-b10-jul-16-2026",
-      "published_at": "2026-07-10T02:53:36Z",
-      "first_seen_at": "2026-07-10T04:32:23.531250Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
-      "title_original": "Leapmotor to launch updated B01, B10 on July 16 as product offensive continues",
-      "title_en": "Leapmotor to launch updated B01, B10 on July 16 as product offensive continues",
-      "title_zh": "零跑汽车将于7月16日推出更新版B01、B10 产品攻势持续",
-      "title_bilingual": "零跑汽车将于7月16日推出更新版B01、B10 产品攻势持续 / Leapmotor to launch updated B01, B10 on July 16 as product offensive continues",
-      "topic_tags": [
-        "新能源",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "dcb91f6f5d3a51ef8059fd64cf483bede4109165",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "China’s monthly vehicle exports exceed 1 million for the first time, with NEVs claiming over half",
-      "url": "https://carnewschina.com/2026/07/10/chinas-monthly-vehicle-exports-exceed-1-million-for-the-first-time-with-nevs-claiming-over-half",
-      "published_at": "2026-07-10T02:37:20Z",
-      "first_seen_at": "2026-07-10T04:32:23.531250Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
-      "title_original": "China’s monthly vehicle exports exceed 1 million for the first time, with NEVs claiming over half",
-      "title_en": "China’s monthly vehicle exports exceed 1 million for the first time, with NEVs claiming over half",
-      "title_zh": "中国月度汽车出口量首次突破100万辆，其中新能源汽车占比过半",
-      "title_bilingual": "中国月度汽车出口量首次突破100万辆，其中新能源汽车占比过半 / China’s monthly vehicle exports exceed 1 million for the first time, with NEVs claiming over half",
-      "topic_tags": [
-        "新能源",
-        "销量市场"
-      ]
-    },
-    {
-      "id": "8bb5a98328ce092f002c395c41a52d0d560b9712",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Xiaomi shares first HD exterior image of Sky Nomad SUV, confirms N90 name",
-      "url": "https://cnevpost.com/2026/07/10/xiaomi-hd-exterior-image-sky-nomad-confirms-n90-name",
-      "published_at": "2026-07-10T02:26:10Z",
-      "first_seen_at": "2026-07-10T04:32:23.531250Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
-      "title_original": "Xiaomi shares first HD exterior image of Sky Nomad SUV, confirms N90 name",
-      "title_en": "Xiaomi shares first HD exterior image of Sky Nomad SUV, confirms N90 name",
-      "title_zh": "小米分享首张Sky Nomad SUV高清外观图，确认N90名称",
-      "title_bilingual": "小米分享首张Sky Nomad SUV高清外观图，确认N90名称 / Xiaomi shares first HD exterior image of Sky Nomad SUV, confirms N90 name",
-      "topic_tags": [
-        "新能源",
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "ce1bbfbd9fe930db5ad00ddd21c177867db9a4e5",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Nio ES8 expands lineup with new five-seater model,BaaS option starting from 40,400 USD",
-      "url": "https://carnewschina.com/2026/07/10/nio-es8-expands-lineup-with-new-five-seater-modelbaas-option-starting-from-40400-usd",
-      "published_at": "2026-07-10T01:39:31Z",
-      "first_seen_at": "2026-07-10T04:32:23.531250Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
-      "title_original": "Nio ES8 expands lineup with new five-seater model,BaaS option starting from 40,400 USD",
-      "title_en": "Nio ES8 expands lineup with new five-seater model,BaaS option starting from 40,400 USD",
-      "title_zh": "Nio ES8 扩大产品阵容，推出全新五座车型，BaaS 选项起价 40,400 美元",
-      "title_bilingual": "Nio ES8 扩大产品阵容，推出全新五座车型，BaaS 选项起价 40,400 美元 / Nio ES8 expands lineup with new five-seater model,BaaS option starting from 40,400 USD",
-      "topic_tags": [
-        "新能源",
-        "车企竞争",
-        "新车上市"
       ]
     }
   ],
   "items_ai": [
     {
+      "id": "6e6b82e6f8884a84fa644ec7add6e4ad65720f24",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "BYD Denza N8 pure electric SUV brings 1,193 hp tri-motor hardware to premium SUV segment",
+      "url": "https://carnewschina.com/2026/07/11/byd-denza-n8-pure-electric-suv-brings-1193-hp-tri-motor-hardware-to-premium-suv-segment",
+      "published_at": "2026-07-11T04:08:57Z",
+      "first_seen_at": "2026-07-11T04:11:30.321672Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
+      "title_original": "BYD Denza N8 pure electric SUV brings 1,193 hp tri-motor hardware to premium SUV segment",
+      "title_en": "BYD Denza N8 pure electric SUV brings 1,193 hp tri-motor hardware to premium SUV segment",
+      "title_zh": "比亚迪腾势N8纯电动SUV为高端SUV细分市场带来1,193马力三电机硬件",
+      "title_bilingual": "比亚迪腾势N8纯电动SUV为高端SUV细分市场带来1,193马力三电机硬件 / BYD Denza N8 pure electric SUV brings 1,193 hp tri-motor hardware to premium SUV segment",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争",
+        "供应链",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "7ef3aae30eab0a12b07584d2f990384ae3960ea9",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Volkswagen’s Jetta brand M6 electric sedan exposed with 145 kW output",
+      "url": "https://carnewschina.com/2026/07/11/volkswagens-jetta-brand-m6-electric-sedan-exposed-with-145-kw-output",
+      "published_at": "2026-07-11T03:40:28Z",
+      "first_seen_at": "2026-07-11T04:11:30.321672Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
+      "title_original": "Volkswagen’s Jetta brand M6 electric sedan exposed with 145 kW output",
+      "title_en": "Volkswagen’s Jetta brand M6 electric sedan exposed with 145 kW output",
+      "title_zh": "大众捷达品牌M6电动轿车曝光，输出功率145千瓦",
+      "title_bilingual": "大众捷达品牌M6电动轿车曝光，输出功率145千瓦 / Volkswagen’s Jetta brand M6 electric sedan exposed with 145 kW output",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "02add218c387853fd2f32bab0627129f7d95fd68",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Xpeng June deliveries breakdown: Mona M03 contributes over 35%, GX surges into second place",
+      "url": "https://cnevpost.com/2026/07/11/xpeng-jun-2026-deliveries-breakdown",
+      "published_at": "2026-07-11T01:46:35Z",
+      "first_seen_at": "2026-07-11T04:11:30.321672Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
+      "title_original": "Xpeng June deliveries breakdown: Mona M03 contributes over 35%, GX surges into second place",
+      "title_en": "Xpeng June deliveries breakdown: Mona M03 contributes over 35%, GX surges into second place",
+      "title_zh": "小鹏6月交付明细：梦娜M03贡献超35% GX跃居第二",
+      "title_bilingual": "小鹏6月交付明细：梦娜M03贡献超35% GX跃居第二 / Xpeng June deliveries breakdown: Mona M03 contributes over 35%, GX surges into second place",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "44bd3382443efb208001bbadf5161d945d79bc11",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "China NEV retail sales fall 9% in first week of July as market enters seasonal lull",
+      "url": "https://cnevpost.com/2026/07/11/china-nev-retail-fall-first-week-jul-2026",
+      "published_at": "2026-07-11T01:21:32Z",
+      "first_seen_at": "2026-07-11T04:11:30.321672Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
+      "title_original": "China NEV retail sales fall 9% in first week of July as market enters seasonal lull",
+      "title_en": "China NEV retail sales fall 9% in first week of July as market enters seasonal lull",
+      "title_zh": "市场进入季节性淡季，7月第一周中国新能源汽车零售量下降9%",
+      "title_bilingual": "市场进入季节性淡季，7月第一周中国新能源汽车零售量下降9% / China NEV retail sales fall 9% in first week of July as market enters seasonal lull",
+      "topic_tags": [
+        "新能源",
+        "销量市场"
+      ]
+    },
+    {
       "id": "36118ced4e0075771a61a71b6cbe05bb08f4721f",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -813,7 +1152,7 @@
       "url": "http://vc.yiche.com/vplay/12012772.html",
       "published_at": null,
       "first_seen_at": "2026-07-10T19:23:44.529501Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
       "title_original": "比亚迪海豚7月行情：终端优惠1万+，老款最高优惠3万",
       "title_en": null,
       "title_zh": "比亚迪海豚7月行情：终端优惠1万+，老款最高优惠3万",
@@ -832,7 +1171,7 @@
       "url": "http://vc.yiche.com/vplay/11997407.html",
       "published_at": null,
       "first_seen_at": "2026-07-10T19:23:44.529501Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
       "title_original": "实拍长城H10丨3米轴距、5座/6座，兼顾家用舒适和户外越野",
       "title_en": null,
       "title_zh": "实拍长城H10丨3米轴距、5座/6座，兼顾家用舒适和户外越野",
@@ -851,7 +1190,7 @@
       "url": "http://vc.yiche.com/vplay/12010308.html",
       "published_at": null,
       "first_seen_at": "2026-07-10T19:23:44.529501Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
       "title_original": "想买小米SU7的先等等，吉利银河TT来了",
       "title_en": null,
       "title_zh": "想买小米SU7的先等等，吉利银河TT来了",
@@ -869,7 +1208,7 @@
       "url": "http://vc.yiche.com/vplay/11999794.html",
       "published_at": null,
       "first_seen_at": "2026-07-10T19:23:44.529501Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
       "title_original": "风云T9L猎鹰700选装包解析，13万级混动家用SUV空间标杆",
       "title_en": null,
       "title_zh": "风云T9L猎鹰700选装包解析，13万级混动家用SUV空间标杆",
@@ -889,7 +1228,7 @@
       "url": "http://vc.yiche.com/vplay/11998821.html",
       "published_at": null,
       "first_seen_at": "2026-07-10T19:23:44.529501Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
       "title_original": "腾势D9连续翻滚实战，硬核实力全员零受伤，车主用自拍为MPV正名",
       "title_en": null,
       "title_zh": "腾势D9连续翻滚实战，硬核实力全员零受伤，车主用自拍为MPV正名",
@@ -908,7 +1247,7 @@
       "url": "http://vc.yiche.com/vplay/11999682.html",
       "published_at": null,
       "first_seen_at": "2026-07-10T19:23:44.529501Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
       "title_original": "高山8车主眼中的高山7 SUV版丨涛听途说",
       "title_en": null,
       "title_zh": "高山8车主眼中的高山7 SUV版丨涛听途说",
@@ -927,7 +1266,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/022d7a75d8e692fa/115486552-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-10T17:45:31.756565Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
       "title_original": "家用纯电好选择 深蓝S05提车日记",
       "title_en": null,
       "title_zh": "家用纯电好选择 深蓝S05提车日记",
@@ -946,7 +1285,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/1e092946e351089c/115488086-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-10T17:45:31.756565Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
       "title_original": "二胎七座需求置换油车购入零跑D19",
       "title_en": null,
       "title_zh": "二胎七座需求置换油车购入零跑D19",
@@ -964,7 +1303,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/917982cb62008d04/115511689-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-10T17:45:31.756565Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
       "title_original": "5万公里 长安UNI-V基础保养作业分享",
       "title_en": null,
       "title_zh": "5万公里 长安UNI-V基础保养作业分享",
@@ -982,7 +1321,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/dded11f43be4d9f0/115452040-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-10T17:45:31.756565Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
       "title_original": "性价比很高 零跑A10提车作业分享",
       "title_en": null,
       "title_zh": "性价比很高 零跑A10提车作业分享",
@@ -1002,7 +1341,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/eb7e40aa2cde8b3a/115495157-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-10T17:45:31.756565Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
       "title_original": "边界要拎清 阿尔法S5智驾的真实日常",
       "title_en": null,
       "title_zh": "边界要拎清 阿尔法S5智驾的真实日常",
@@ -1020,7 +1359,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/0c62d524253a4563/115113457-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-10T17:45:31.756565Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
       "title_original": "三年用车 大众ID.3四季真实电耗续航",
       "title_en": null,
       "title_zh": "三年用车 大众ID.3四季真实电耗续航",
@@ -1040,7 +1379,7 @@
       "url": "https://cnevpost.com/2026/07/10/byd-11-275-gwh-storage-deal-abu-dhabi-project",
       "published_at": "2026-07-10T14:13:18Z",
       "first_seen_at": "2026-07-10T15:53:55.138985Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
       "title_original": "BYD deepens Middle East push with 11.275 GWh storage deal for Abu Dhabi project",
       "title_en": "BYD deepens Middle East push with 11.275 GWh storage deal for Abu Dhabi project",
       "title_zh": "比亚迪深化中东业务，为阿布扎比项目提供 11.275 GWh 储能协议",
@@ -1059,7 +1398,7 @@
       "url": "https://cnevpost.com/2026/07/10/li-auto-i9-regulatory-filing",
       "published_at": "2026-07-10T13:46:56Z",
       "first_seen_at": "2026-07-10T15:53:55.138985Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
       "title_original": "Li Auto's i9 SUV shows up in regulatory filing as company expands BEV lineup",
       "title_en": "Li Auto's i9 SUV shows up in regulatory filing as company expands BEV lineup",
       "title_zh": "随着公司扩大纯电动汽车产品线，理想汽车的 i9 SUV 出现在监管文件中",
@@ -1079,7 +1418,7 @@
       "url": "https://cnevpost.com/2026/07/10/xiaomi-sky-nomad-suvs-regulatory-filing",
       "published_at": "2026-07-10T13:19:55Z",
       "first_seen_at": "2026-07-10T13:25:49.043178Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
       "title_original": "Xiaomi's Sky Nomad SUVs surface in regulatory filing, including camping version with lifting roof",
       "title_en": "Xiaomi's Sky Nomad SUVs surface in regulatory filing, including camping version with lifting roof",
       "title_zh": "小米的 Sky Nomad SUV 出现在监管文件中，其中包括带有升降顶棚的露营版",
@@ -1099,7 +1438,7 @@
       "url": "https://carnewschina.com/2026/07/10/new-byd-seagull-hatchback-exposed-with-425-mm-longer-body-and-127-hp-motor",
       "published_at": "2026-07-10T12:38:56Z",
       "first_seen_at": "2026-07-10T13:25:49.043178Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
       "title_original": "New BYD Seagull hatchback exposed with 425 mm longer body and 127 hp motor",
       "title_en": "New BYD Seagull hatchback exposed with 425 mm longer body and 127 hp motor",
       "title_zh": "比亚迪新款海鸥掀背车曝光，车身加长425毫米，电机127马力",
@@ -1111,6 +1450,81 @@
       ]
     },
     {
+      "id": "799c905d1294ed1eefd56a4fd51685a79d722b43",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新车",
+      "title": "零跑A系列首款轿车零跑A05s正式亮相",
+      "url": "https://auto.gasgoo.com/news/202607/10I70465258C109.shtml",
+      "published_at": "2026-07-10T12:01:40Z",
+      "first_seen_at": "2026-07-11T04:11:30.321672Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
+      "title_original": "零跑A系列首款轿车零跑A05s正式亮相",
+      "title_en": null,
+      "title_zh": "零跑A系列首款轿车零跑A05s正式亮相",
+      "title_bilingual": "零跑A系列首款轿车零跑A05s正式亮相",
+      "topic_tags": [
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "140971a1ac7e94d717b84635ff0ab4a61b24a699",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-销量",
+      "title": "保时捷上半年全球销量同比下跌16%",
+      "url": "https://auto.gasgoo.com/news/202607/10I70465261C110.shtml",
+      "published_at": "2026-07-10T11:51:03Z",
+      "first_seen_at": "2026-07-11T04:11:30.321672Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
+      "title_original": "保时捷上半年全球销量同比下跌16%",
+      "title_en": null,
+      "title_zh": "保时捷上半年全球销量同比下跌16%",
+      "title_bilingual": "保时捷上半年全球销量同比下跌16%",
+      "topic_tags": [
+        "销量市场"
+      ]
+    },
+    {
+      "id": "847c2b666b28813bd3a29f970f7e2b6e36168be2",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "美参议院拟加码对华车企禁令 两党法案即将投票表决",
+      "url": "https://auto.gasgoo.com/news/202607/10I70465260C108.shtml",
+      "published_at": "2026-07-10T11:37:17Z",
+      "first_seen_at": "2026-07-11T04:11:30.321672Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
+      "title_original": "美参议院拟加码对华车企禁令 两党法案即将投票表决",
+      "title_en": null,
+      "title_zh": "美参议院拟加码对华车企禁令 两党法案即将投票表决",
+      "title_bilingual": "美参议院拟加码对华车企禁令 两党法案即将投票表决",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "d4aec843cf55a493fe96a18aef94b3fb5390e099",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "德国大众集团拟缩减产能、精简车型矩阵",
+      "url": "https://auto.gasgoo.com/news/202607/10I70465259C109.shtml",
+      "published_at": "2026-07-10T11:35:03Z",
+      "first_seen_at": "2026-07-11T04:11:30.321672Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
+      "title_original": "德国大众集团拟缩减产能、精简车型矩阵",
+      "title_en": null,
+      "title_zh": "德国大众集团拟缩减产能、精简车型矩阵",
+      "title_bilingual": "德国大众集团拟缩减产能、精简车型矩阵",
+      "topic_tags": [
+        "车企竞争",
+        "供应链",
+        "新车上市"
+      ]
+    },
+    {
       "id": "0b78509c4c3b1e279142db5c6f49bb63ed6e6aa0",
       "site_id": "newsnow",
       "site_name": "NewsNow",
@@ -1119,7 +1533,7 @@
       "url": "https://www.producthunt.com/products/juicy-battery-app",
       "published_at": "2026-07-10T11:24:31.899000Z",
       "first_seen_at": "2026-07-10T11:24:18.248682Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
       "title_original": "Juicy",
       "title_en": null,
       "title_zh": null,
@@ -1137,7 +1551,7 @@
       "url": "https://cnevpost.com/2026/07/10/byd-shark-pickup-china-regulatory-filing",
       "published_at": "2026-07-10T11:19:58Z",
       "first_seen_at": "2026-07-10T11:24:18.248682Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
       "title_original": "BYD Shark pickup appears in China regulatory filing 2 years after overseas launch",
       "title_en": "BYD Shark pickup appears in China regulatory filing 2 years after overseas launch",
       "title_zh": "比亚迪Shark皮卡在海外推出两年后出现在中国监管备案文件中",
@@ -1156,7 +1570,7 @@
       "url": "https://carnewschina.com/2026/07/10/new-byd-atto-8-sealion-8-exposed-with-402-hp-and-extended-wheelbase",
       "published_at": "2026-07-10T11:17:50Z",
       "first_seen_at": "2026-07-10T13:25:49.043178Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
       "title_original": "New BYD Atto 8 (Sealion 8) exposed with 269 hp reduction and 16 mm narrower body",
       "title_en": "New BYD Atto 8 (Sealion 8) exposed with 269 hp reduction and 16 mm narrower body",
       "title_zh": "比亚迪新款Atto 8（海狮8）曝光 马力降低269 车身窄16毫米",
@@ -1186,6 +1600,25 @@
       ]
     },
     {
+      "id": "7d569852176a504ee420c0673cd8598f6325bd8b",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-销量",
+      "title": "2026年1-5月中国乘用车出口到哪了：巴西领航，欧洲与亚太多点开花丨盖世汽车研究院",
+      "url": "https://auto.gasgoo.com/news/202607/10I70465257C110.shtml",
+      "published_at": "2026-07-10T11:17:16Z",
+      "first_seen_at": "2026-07-11T04:11:30.321672Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
+      "title_original": "2026年1-5月中国乘用车出口到哪了：巴西领航，欧洲与亚太多点开花丨盖世汽车研究院",
+      "title_en": null,
+      "title_zh": "2026年1-5月中国乘用车出口到哪了：巴西领航，欧洲与亚太多点开花丨盖世汽车研究院",
+      "title_bilingual": "2026年1-5月中国乘用车出口到哪了：巴西领航，欧洲与亚太多点开花丨盖世汽车研究院",
+      "topic_tags": [
+        "销量市场",
+        "购车决策"
+      ]
+    },
+    {
       "id": "34f145f1e6353582872db0e3ff1d06b7d56d1091",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -1194,7 +1627,7 @@
       "url": "https://cnevpost.com/2026/07/10/tesla-files-new-model-y-variant-china",
       "published_at": "2026-07-10T11:02:11Z",
       "first_seen_at": "2026-07-10T11:24:18.248682Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
       "title_original": "Tesla files new Model Y variant in China, likely Performance version",
       "title_en": "Tesla files new Model Y variant in China, likely Performance version",
       "title_zh": "特斯拉在中国提交新的 Model Y 变体，可能是性能版",
@@ -1202,6 +1635,27 @@
       "topic_tags": [
         "新能源",
         "车企竞争"
+      ]
+    },
+    {
+      "id": "f82e4a15ccf4adcbe1657de989bdf90dbee88790",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "【国际快讯】大众集团计划削减产能、精简车型矩阵；6月全球电动汽车销量增长7%至200万辆；保时捷上半年全球销量下跌16%",
+      "url": "https://auto.gasgoo.com/news/202607/10I70465256C501.shtml",
+      "published_at": "2026-07-10T10:42:24Z",
+      "first_seen_at": "2026-07-11T04:11:30.321672Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
+      "title_original": "【国际快讯】大众集团计划削减产能、精简车型矩阵；6月全球电动汽车销量增长7%至200万辆；保时捷上半年全球销量下跌16%",
+      "title_en": null,
+      "title_zh": "【国际快讯】大众集团计划削减产能、精简车型矩阵；6月全球电动汽车销量增长7%至200万辆；保时捷上半年全球销量下跌16%",
+      "title_bilingual": "【国际快讯】大众集团计划削减产能、精简车型矩阵；6月全球电动汽车销量增长7%至200万辆；保时捷上半年全球销量下跌16%",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争",
+        "供应链",
+        "新车上市"
       ]
     },
     {
@@ -1213,7 +1667,7 @@
       "url": "https://carnewschina.com/2026/07/10/byd-denza-z9s-sedan-exposed-with-496-hp-and-3025-mm-wheelbase",
       "published_at": "2026-07-10T10:40:05Z",
       "first_seen_at": "2026-07-10T13:25:49.043178Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
       "title_original": "BYD Denza Z9S sedan exposed with 496 hp and 3,025 mm wheelbase",
       "title_en": "BYD Denza Z9S sedan exposed with 496 hp and 3,025 mm wheelbase",
       "title_zh": "比亚迪腾势Z9S轿车曝光，496马力，轴距3,025毫米",
@@ -1245,6 +1699,114 @@
       ]
     },
     {
+      "id": "d71174fb814a9f568758e0e55d1016dcc7840d7d",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-供应链",
+      "title": "天赐材料，净利最高预增超10倍",
+      "url": "https://auto.gasgoo.com/news/202607/10I70465255C501.shtml",
+      "published_at": "2026-07-10T10:03:31Z",
+      "first_seen_at": "2026-07-11T04:11:30.321672Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
+      "title_original": "天赐材料，净利最高预增超10倍",
+      "title_en": null,
+      "title_zh": "天赐材料，净利最高预增超10倍",
+      "title_bilingual": "天赐材料，净利最高预增超10倍",
+      "topic_tags": [
+        "供应链"
+      ]
+    },
+    {
+      "id": "756cc79f45538d4bf51e2e9d48ff78d073fc3ff2",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "兆易创新，利润预增1099%",
+      "url": "https://auto.gasgoo.com/news/202607/10I70465254C601.shtml",
+      "published_at": "2026-07-10T09:49:43Z",
+      "first_seen_at": "2026-07-11T04:11:30.321672Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
+      "title_original": "兆易创新，利润预增1099%",
+      "title_en": null,
+      "title_zh": "兆易创新，利润预增1099%",
+      "title_bilingual": "兆易创新，利润预增1099%",
+      "topic_tags": []
+    },
+    {
+      "id": "4c1e5119f6c229b6639ce42bbb04f0526d05db79",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "上汽通用五菱捐赠300万元款物驰援广西抗洪救灾",
+      "url": "https://auto.gasgoo.com/news/202607/10I70465253C109.shtml",
+      "published_at": "2026-07-10T09:38:17Z",
+      "first_seen_at": "2026-07-11T04:11:30.321672Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
+      "title_original": "上汽通用五菱捐赠300万元款物驰援广西抗洪救灾",
+      "title_en": null,
+      "title_zh": "上汽通用五菱捐赠300万元款物驰援广西抗洪救灾",
+      "title_bilingual": "上汽通用五菱捐赠300万元款物驰援广西抗洪救灾",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "f2a2ef8a4af8a1382be2a9e737e2d8b1ae341767",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新车",
+      "title": "启境GT7正式开启全国交付",
+      "url": "https://auto.gasgoo.com/news/202607/10I70465251C501.shtml",
+      "published_at": "2026-07-10T09:29:52Z",
+      "first_seen_at": "2026-07-11T04:11:30.321672Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
+      "title_original": "启境GT7正式开启全国交付",
+      "title_en": null,
+      "title_zh": "启境GT7正式开启全国交付",
+      "title_bilingual": "启境GT7正式开启全国交付",
+      "topic_tags": [
+        "销量市场",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "50f02992e790c1c5328ca15c56fbc745b7130d5d",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "中国人形机器人，杀进欧洲新能源工厂了",
+      "url": "https://auto.gasgoo.com/news/202607/10I70465250C601.shtml",
+      "published_at": "2026-07-10T09:22:16Z",
+      "first_seen_at": "2026-07-11T04:11:30.321672Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
+      "title_original": "中国人形机器人，杀进欧洲新能源工厂了",
+      "title_en": null,
+      "title_zh": "中国人形机器人，杀进欧洲新能源工厂了",
+      "title_bilingual": "中国人形机器人，杀进欧洲新能源工厂了",
+      "topic_tags": [
+        "新能源",
+        "供应链"
+      ]
+    },
+    {
+      "id": "ee0924557533302149c434df1770bc2a9b88dde5",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新能源",
+      "title": "欣旺达全球新总部正式启用",
+      "url": "https://auto.gasgoo.com/news/202607/10I70465249C501.shtml",
+      "published_at": "2026-07-10T09:20:21Z",
+      "first_seen_at": "2026-07-11T04:11:30.321672Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
+      "title_original": "欣旺达全球新总部正式启用",
+      "title_en": null,
+      "title_zh": "欣旺达全球新总部正式启用",
+      "title_bilingual": "欣旺达全球新总部正式启用",
+      "topic_tags": [
+        "新能源"
+      ]
+    },
+    {
       "id": "a83e352a569f2aa8f7d839e8d74c65ee21a6eeb2",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -1253,7 +1815,7 @@
       "url": "https://cnevpost.com/2026/07/10/tesla-jun-2026-china-deliveries-breakdown",
       "published_at": "2026-07-10T09:19:40Z",
       "first_seen_at": "2026-07-10T11:24:18.248682Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
       "title_original": "Tesla June China deliveries breakdown: Model Y dominates, Model 3 weakness deepens",
       "title_en": "Tesla June China deliveries breakdown: Model Y dominates, Model 3 weakness deepens",
       "title_zh": "特斯拉6月中国交付量细分：Model Y占据主导地位，Model 3疲软加深",
@@ -1265,6 +1827,59 @@
       ]
     },
     {
+      "id": "44ae9c9f3b56252b04093986137ae58a582295f1",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新技术",
+      "title": "废旧塑料瓶可用作石墨材料？宾夕法尼亚州立大学新技术可生产高性能电池级负极材料",
+      "url": "https://auto.gasgoo.com/news/202607/10I70464698C409.shtml",
+      "published_at": "2026-07-10T09:06:56Z",
+      "first_seen_at": "2026-07-11T04:11:30.321672Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
+      "title_original": "废旧塑料瓶可用作石墨材料？宾夕法尼亚州立大学新技术可生产高性能电池级负极材料",
+      "title_en": null,
+      "title_zh": "废旧塑料瓶可用作石墨材料？宾夕法尼亚州立大学新技术可生产高性能电池级负极材料",
+      "title_bilingual": "废旧塑料瓶可用作石墨材料？宾夕法尼亚州立大学新技术可生产高性能电池级负极材料",
+      "topic_tags": [
+        "补能电池"
+      ]
+    },
+    {
+      "id": "b3f5f8149abf3e9bbde31ab07182dbd6d7fb7173",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新技术",
+      "title": "剑桥大学研究发现：施加物理压力可让电动车电池寿命翻倍并降低环境影响",
+      "url": "https://auto.gasgoo.com/news/202607/10I70464699C409.shtml",
+      "published_at": "2026-07-10T09:06:45Z",
+      "first_seen_at": "2026-07-11T04:11:30.321672Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
+      "title_original": "剑桥大学研究发现：施加物理压力可让电动车电池寿命翻倍并降低环境影响",
+      "title_en": null,
+      "title_zh": "剑桥大学研究发现：施加物理压力可让电动车电池寿命翻倍并降低环境影响",
+      "title_bilingual": "剑桥大学研究发现：施加物理压力可让电动车电池寿命翻倍并降低环境影响",
+      "topic_tags": [
+        "新能源",
+        "补能电池"
+      ]
+    },
+    {
+      "id": "fee07442270c36fdc8576f5caef64586d37c17de",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新技术",
+      "title": "首尔大学工学院研发人造皮肤技术 使机器人能够像人类一样同时感知温度和压力",
+      "url": "https://auto.gasgoo.com/news/202607/10I70464700C409.shtml",
+      "published_at": "2026-07-10T09:06:38Z",
+      "first_seen_at": "2026-07-11T04:11:30.321672Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
+      "title_original": "首尔大学工学院研发人造皮肤技术 使机器人能够像人类一样同时感知温度和压力",
+      "title_en": null,
+      "title_zh": "首尔大学工学院研发人造皮肤技术 使机器人能够像人类一样同时感知温度和压力",
+      "title_bilingual": "首尔大学工学院研发人造皮肤技术 使机器人能够像人类一样同时感知温度和压力",
+      "topic_tags": []
+    },
+    {
       "id": "8373aad68b1711533888389cf67101de0f174daa",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -1273,7 +1888,7 @@
       "url": "https://www.dongchedi.com/article/7660434713727713816",
       "published_at": null,
       "first_seen_at": "2026-07-10T08:19:57.638088Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
       "title_original": "关注 | 第23届长春车展将于7月11日开幕，3个全新品牌首次参展",
       "title_en": null,
       "title_zh": "关注 | 第23届长春车展将于7月11日开幕，3个全新品牌首次参展",
@@ -1291,7 +1906,7 @@
       "url": "https://www.dongchedi.com/article/7659352645946180121",
       "published_at": null,
       "first_seen_at": "2026-07-10T08:19:57.638088Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
       "title_original": "潮流纯电轿跑新物种 试驾大众安徽与众07",
       "title_en": null,
       "title_zh": "潮流纯电轿跑新物种 试驾大众安徽与众07",
@@ -1311,7 +1926,7 @@
       "url": "https://cnevpost.com/2026/07/10/nio-kicks-off-5-seat-es8-deliveries",
       "published_at": "2026-07-10T07:54:28Z",
       "first_seen_at": "2026-07-10T08:19:57.638088Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
       "title_original": "Nio kicks off 5-seat ES8 deliveries as its best-selling SUV eyes broader customer base",
       "title_en": "Nio kicks off 5-seat ES8 deliveries as its best-selling SUV eyes broader customer base",
       "title_zh": "蔚来开始交付 5 座 ES8，其最畅销 SUV 着眼于更广泛的客户群",
@@ -1332,7 +1947,7 @@
       "url": "https://cnevpost.com/2026/07/10/automakers-share-china-nev-exports-jun-2026",
       "published_at": "2026-07-10T07:19:51Z",
       "first_seen_at": "2026-07-10T08:19:57.638088Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
       "title_original": "Automakers' share in China NEV exports in June: BYD leads with 34.2%, Tesla 4th with 7.2%",
       "title_en": "Automakers' share in China NEV exports in June: BYD leads with 34.2%, Tesla 4th with 7.2%",
       "title_zh": "6月中国新能源汽车出口车企占比：比亚迪以34.2%领先，特斯拉以7.2%排名第四",
@@ -1352,7 +1967,7 @@
       "url": "https://carnewschina.com/2026/07/10/byd-lands-historic-11-2-gwh-grid-contract-equivalent-to-186000-electric-vehicle-packs",
       "published_at": "2026-07-10T07:13:52Z",
       "first_seen_at": "2026-07-10T08:19:57.638088Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
       "title_original": "BYD lands historic 11.2 GWh grid contract equivalent to 186,000 electric vehicle packs",
       "title_en": "BYD lands historic 11.2 GWh grid contract equivalent to 186,000 electric vehicle packs",
       "title_zh": "比亚迪获得历史性的 11.2 GWh 电网合同，相当于 186,000 个电动汽车包",
@@ -1371,7 +1986,7 @@
       "url": "https://auto.gasgoo.com/news/202607/10I70465103C501.shtml",
       "published_at": "2026-07-10T07:00:10Z",
       "first_seen_at": "2026-07-10T23:06:37.487700Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
       "title_original": "【盖世快讯】比亚迪第1700万辆新能源车下线；6月汽车出口首破百万辆",
       "title_en": null,
       "title_zh": "【盖世快讯】比亚迪第1700万辆新能源车下线；6月汽车出口首破百万辆",
@@ -1391,7 +2006,7 @@
       "url": "https://cnevpost.com/2026/07/10/automakers-share-china-nev-market-jun-2026",
       "published_at": "2026-07-10T06:41:52Z",
       "first_seen_at": "2026-07-10T08:19:57.638088Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
       "title_original": "Automakers' share in China's NEV market in June: BYD leads with 22.3%, Tesla 5th for second consecutive month",
       "title_en": "Automakers' share in China's NEV market in June: BYD leads with 22.3%, Tesla 5th for second consecutive month",
       "title_zh": "6月中国新能源汽车市场车企份额：比亚迪22.3%领先 特斯拉连续第二个月第五",
@@ -1411,7 +2026,7 @@
       "url": "https://cnevpost.com/2026/07/10/nio-es8-per-vehicle-cost-up-3000-material-price-surge",
       "published_at": "2026-07-10T05:43:50Z",
       "first_seen_at": "2026-07-10T08:19:57.638088Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
       "title_original": "Nio says ES8 per-vehicle cost up nearly $3,000 on raw material price surge",
       "title_en": "Nio says ES8 per-vehicle cost up nearly $3,000 on raw material price surge",
       "title_zh": "蔚来表示，由于原材料价格上涨，ES8每辆车的成本上涨了近3,000美元",
@@ -1430,112 +2045,13 @@
       "url": "https://carnewschina.com/2026/07/10/how-evs-hybrids-are-powering-chinas-flood-victims-via-v2l-tech",
       "published_at": "2026-07-10T04:37:02Z",
       "first_seen_at": "2026-07-10T08:19:57.638088Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
+      "last_seen_at": "2026-07-11T04:11:30.321672Z",
       "title_original": "How EVs, hybrids are powering China’s flood victims via V2L tech",
       "title_en": "How EVs, hybrids are powering China’s flood victims via V2L tech",
       "title_zh": "电动汽车、混合动力汽车如何通过 V2L 技术为中国洪水灾民提供动力",
       "title_bilingual": "电动汽车、混合动力汽车如何通过 V2L 技术为中国洪水灾民提供动力 / How EVs, hybrids are powering China’s flood victims via V2L tech",
       "topic_tags": [
         "新能源"
-      ]
-    },
-    {
-      "id": "5901d75e93fee7bc0b61db29b7490e45c21b945a",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Leapmotor previews LiDAR-equipped A05s compact EV in push toward 1 million delivery goal",
-      "url": "https://cnevpost.com/2026/07/10/leapmotor-previews-a05s-compact-ev",
-      "published_at": "2026-07-10T03:39:18Z",
-      "first_seen_at": "2026-07-10T04:32:23.531250Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
-      "title_original": "Leapmotor previews LiDAR-equipped A05s compact EV in push toward 1 million delivery goal",
-      "title_en": "Leapmotor previews LiDAR-equipped A05s compact EV in push toward 1 million delivery goal",
-      "title_zh": "零跑汽车预览搭载激光雷达的A05s紧凑型电动汽车，力争实现100万辆交付目标",
-      "title_bilingual": "零跑汽车预览搭载激光雷达的A05s紧凑型电动汽车，力争实现100万辆交付目标 / Leapmotor previews LiDAR-equipped A05s compact EV in push toward 1 million delivery goal",
-      "topic_tags": [
-        "新能源",
-        "智能驾驶",
-        "销量市场",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "aa2c208c3d5dd847900098ea47e65221dad077ed",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Leapmotor to launch updated B01, B10 on July 16 as product offensive continues",
-      "url": "https://cnevpost.com/2026/07/10/leapmotor-to-launch-updated-b01-b10-jul-16-2026",
-      "published_at": "2026-07-10T02:53:36Z",
-      "first_seen_at": "2026-07-10T04:32:23.531250Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
-      "title_original": "Leapmotor to launch updated B01, B10 on July 16 as product offensive continues",
-      "title_en": "Leapmotor to launch updated B01, B10 on July 16 as product offensive continues",
-      "title_zh": "零跑汽车将于7月16日推出更新版B01、B10 产品攻势持续",
-      "title_bilingual": "零跑汽车将于7月16日推出更新版B01、B10 产品攻势持续 / Leapmotor to launch updated B01, B10 on July 16 as product offensive continues",
-      "topic_tags": [
-        "新能源",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "dcb91f6f5d3a51ef8059fd64cf483bede4109165",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "China’s monthly vehicle exports exceed 1 million for the first time, with NEVs claiming over half",
-      "url": "https://carnewschina.com/2026/07/10/chinas-monthly-vehicle-exports-exceed-1-million-for-the-first-time-with-nevs-claiming-over-half",
-      "published_at": "2026-07-10T02:37:20Z",
-      "first_seen_at": "2026-07-10T04:32:23.531250Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
-      "title_original": "China’s monthly vehicle exports exceed 1 million for the first time, with NEVs claiming over half",
-      "title_en": "China’s monthly vehicle exports exceed 1 million for the first time, with NEVs claiming over half",
-      "title_zh": "中国月度汽车出口量首次突破100万辆，其中新能源汽车占比过半",
-      "title_bilingual": "中国月度汽车出口量首次突破100万辆，其中新能源汽车占比过半 / China’s monthly vehicle exports exceed 1 million for the first time, with NEVs claiming over half",
-      "topic_tags": [
-        "新能源",
-        "销量市场"
-      ]
-    },
-    {
-      "id": "8bb5a98328ce092f002c395c41a52d0d560b9712",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Xiaomi shares first HD exterior image of Sky Nomad SUV, confirms N90 name",
-      "url": "https://cnevpost.com/2026/07/10/xiaomi-hd-exterior-image-sky-nomad-confirms-n90-name",
-      "published_at": "2026-07-10T02:26:10Z",
-      "first_seen_at": "2026-07-10T04:32:23.531250Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
-      "title_original": "Xiaomi shares first HD exterior image of Sky Nomad SUV, confirms N90 name",
-      "title_en": "Xiaomi shares first HD exterior image of Sky Nomad SUV, confirms N90 name",
-      "title_zh": "小米分享首张Sky Nomad SUV高清外观图，确认N90名称",
-      "title_bilingual": "小米分享首张Sky Nomad SUV高清外观图，确认N90名称 / Xiaomi shares first HD exterior image of Sky Nomad SUV, confirms N90 name",
-      "topic_tags": [
-        "新能源",
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "ce1bbfbd9fe930db5ad00ddd21c177867db9a4e5",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Nio ES8 expands lineup with new five-seater model,BaaS option starting from 40,400 USD",
-      "url": "https://carnewschina.com/2026/07/10/nio-es8-expands-lineup-with-new-five-seater-modelbaas-option-starting-from-40400-usd",
-      "published_at": "2026-07-10T01:39:31Z",
-      "first_seen_at": "2026-07-10T04:32:23.531250Z",
-      "last_seen_at": "2026-07-11T00:55:43.858574Z",
-      "title_original": "Nio ES8 expands lineup with new five-seater model,BaaS option starting from 40,400 USD",
-      "title_en": "Nio ES8 expands lineup with new five-seater model,BaaS option starting from 40,400 USD",
-      "title_zh": "Nio ES8 扩大产品阵容，推出全新五座车型，BaaS 选项起价 40,400 美元",
-      "title_bilingual": "Nio ES8 扩大产品阵容，推出全新五座车型，BaaS 选项起价 40,400 美元 / Nio ES8 expands lineup with new five-seater model,BaaS option starting from 40,400 USD",
-      "topic_tags": [
-        "新能源",
-        "车企竞争",
-        "新车上市"
       ]
     }
   ],
