@@ -1,49 +1,53 @@
 {
-  "generated_at": "2026-07-13T02:33:11.031493Z",
+  "generated_at": "2026-07-13T06:14:33.097268Z",
   "window_hours": 24,
-  "total_items": 18,
-  "total_items_ai_raw": 20,
-  "total_items_raw": 3648,
-  "total_items_all_mode": 3440,
+  "total_items": 23,
+  "total_items_ai_raw": 25,
+  "total_items_raw": 3611,
+  "total_items_all_mode": 3423,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 69737,
+  "archive_total": 70260,
   "site_count": 3,
-  "source_count": 6,
+  "source_count": 8,
   "site_stats": [
+    {
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "count": 11,
+      "raw_count": 13
+    },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "count": 11,
-      "raw_count": 3410
-    },
-    {
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "count": 7,
-      "raw_count": 9
+      "raw_count": 3373
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
-      "count": 0,
-      "raw_count": 229
+      "count": 1,
+      "raw_count": 225
     }
   ],
   "topic_tag_stats": [
     {
       "tag": "车企竞争",
-      "count": 13
+      "count": 16
     },
     {
       "tag": "新能源",
-      "count": 8
+      "count": 11
+    },
+    {
+      "tag": "新车上市",
+      "count": 9
     },
     {
       "tag": "购车决策",
       "count": 8
     },
     {
-      "tag": "新车上市",
+      "tag": "补能电池",
       "count": 6
     },
     {
@@ -53,17 +57,149 @@
     {
       "tag": "智能驾驶",
       "count": 1
-    },
-    {
-      "tag": "补能电池",
-      "count": 1
-    },
-    {
-      "tag": "销量市场",
-      "count": 1
     }
   ],
   "items": [
+    {
+      "id": "f1af33343aa1aa9ec69eaa068abbc963f2f970a7",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "juejin",
+      "title": "没写一行代码！我用 ChatGPT 5.6 (Sol) 做了一个智慧充电站 3D 大屏",
+      "url": "https://juejin.cn/post/7661160753004904448",
+      "published_at": "2026-07-13T06:14:46.191000Z",
+      "first_seen_at": "2026-07-13T06:14:33.097268Z",
+      "last_seen_at": "2026-07-13T06:14:33.097268Z",
+      "title_original": "没写一行代码！我用 ChatGPT 5.6 (Sol) 做了一个智慧充电站 3D 大屏",
+      "title_en": null,
+      "title_zh": "没写一行代码！我用 ChatGPT 5.6 (Sol) 做了一个智慧充电站 3D 大屏",
+      "title_bilingual": "没写一行代码！我用 ChatGPT 5.6 (Sol) 做了一个智慧充电站 3D 大屏",
+      "topic_tags": [
+        "补能电池"
+      ]
+    },
+    {
+      "id": "b83e09d01b3b204ca53c02301f05b99382ed9e14",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "State engineering awards reveal shared tech behind BYD, Geely, and Changan battery architectures",
+      "url": "https://carnewschina.com/2026/07/13/state-engineering-awards-reveal-shared-tech-behind-byd-geely-and-changan-battery-architectures",
+      "published_at": "2026-07-13T04:57:59Z",
+      "first_seen_at": "2026-07-13T06:14:33.097268Z",
+      "last_seen_at": "2026-07-13T06:14:33.097268Z",
+      "title_original": "State engineering awards reveal shared tech behind BYD, Geely, and Changan battery architectures",
+      "title_en": "State engineering awards reveal shared tech behind BYD, Geely, and Changan battery architectures",
+      "title_zh": "国家工程奖揭晓比亚迪、吉利和长安电池架构背后的共享技术",
+      "title_bilingual": "国家工程奖揭晓比亚迪、吉利和长安电池架构背后的共享技术 / State engineering awards reveal shared tech behind BYD, Geely, and Changan battery architectures",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "cee25449f59e2ed5011697be4a69bc51b4b09699",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "BYD expands Qin lineup with new “Qin Max” flash-charging sedan",
+      "url": "https://carnewschina.com/2026/07/13/byd-expands-qin-lineup-with-new-qin-max-flash-charging-sedan",
+      "published_at": "2026-07-13T04:18:37Z",
+      "first_seen_at": "2026-07-13T06:14:33.097268Z",
+      "last_seen_at": "2026-07-13T06:14:33.097268Z",
+      "title_original": "BYD expands Qin lineup with new “Qin Max” flash-charging sedan",
+      "title_en": "BYD expands Qin lineup with new “Qin Max” flash-charging sedan",
+      "title_zh": "比亚迪推出全新闪充轿车“秦Max”，扩大秦产品阵容",
+      "title_bilingual": "比亚迪推出全新闪充轿车“秦Max”，扩大秦产品阵容 / BYD expands Qin lineup with new “Qin Max” flash-charging sedan",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "750adcfd234d1fae7855a63fa95ed885ea233785",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "China’s new solid-state law takes effect: Dongfeng leads solid state battery factory race",
+      "url": "https://carnewschina.com/2026/07/13/chinas-new-solid-state-law-takes-effect-dongfeng-leads-solid-state-battery-factory-race",
+      "published_at": "2026-07-13T04:00:32Z",
+      "first_seen_at": "2026-07-13T06:14:33.097268Z",
+      "last_seen_at": "2026-07-13T06:14:33.097268Z",
+      "title_original": "China’s new solid-state law takes effect: Dongfeng leads solid state battery factory race",
+      "title_en": "China’s new solid-state law takes effect: Dongfeng leads solid state battery factory race",
+      "title_zh": "中国新固态法生效：东风领跑固态电池厂竞赛",
+      "title_bilingual": "中国新固态法生效：东风领跑固态电池厂竞赛 / China’s new solid-state law takes effect: Dongfeng leads solid state battery factory race",
+      "topic_tags": [
+        "新能源",
+        "补能电池"
+      ]
+    },
+    {
+      "id": "89130431d296eda9bc8d2052104dcd97ae68528c",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "VW China chief confirms ID. UNYX 09 electric sedan co-developed with Xpeng coming in H2",
+      "url": "https://cnevpost.com/2026/07/13/vw-confirms-id-unyx-09-sedan-xpeng-coming-h2",
+      "published_at": "2026-07-13T03:41:28Z",
+      "first_seen_at": "2026-07-13T06:14:33.097268Z",
+      "last_seen_at": "2026-07-13T06:14:33.097268Z",
+      "title_original": "VW China chief confirms ID. UNYX 09 electric sedan co-developed with Xpeng coming in H2",
+      "title_en": "VW China chief confirms ID. UNYX 09 electric sedan co-developed with Xpeng coming in H2",
+      "title_zh": "大众汽车中国区总裁证实身份。与小鹏汽车合作开发的UNYX 09电动轿车下半年上市",
+      "title_bilingual": "大众汽车中国区总裁证实身份。与小鹏汽车合作开发的UNYX 09电动轿车下半年上市 / VW China chief confirms ID. UNYX 09 electric sedan co-developed with Xpeng coming in H2",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "692a11f1f0cd1368456863d1311779e58df11a19",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Li Auto flagship electric SUV i9 with 5C charging exposed",
+      "url": "https://carnewschina.com/2026/07/13/li-auto-flagship-electric-suv-i9-with-5c-charging-exposed",
+      "published_at": "2026-07-13T03:34:21Z",
+      "first_seen_at": "2026-07-13T06:14:33.097268Z",
+      "last_seen_at": "2026-07-13T06:14:33.097268Z",
+      "title_original": "Li Auto flagship electric SUV i9 with 5C charging exposed",
+      "title_en": "Li Auto flagship electric SUV i9 with 5C charging exposed",
+      "title_zh": "理想汽车旗舰电动SUV i9搭载5C充电曝光",
+      "title_bilingual": "理想汽车旗舰电动SUV i9搭载5C充电曝光 / Li Auto flagship electric SUV i9 with 5C charging exposed",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "019723f07241f186a048d69766e57feab33b950a",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "BYD previews Qin Max sedan with flash charging, expanding Qin lineup",
+      "url": "https://cnevpost.com/2026/07/13/byd-previews-qin-max-sedan-flash-charging",
+      "published_at": "2026-07-13T02:51:58Z",
+      "first_seen_at": "2026-07-13T06:14:33.097268Z",
+      "last_seen_at": "2026-07-13T06:14:33.097268Z",
+      "title_original": "BYD previews Qin Max sedan with flash charging, expanding Qin lineup",
+      "title_en": "BYD previews Qin Max sedan with flash charging, expanding Qin lineup",
+      "title_zh": "比亚迪预览带有闪充功能的Qin Max轿车，扩大Qin产品阵容",
+      "title_bilingual": "比亚迪预览带有闪充功能的Qin Max轿车，扩大Qin产品阵容 / BYD previews Qin Max sedan with flash charging, expanding Qin lineup",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
     {
       "id": "aff93ec8b63f09615545ab5284f4cfb65e86d89d",
       "site_id": "official_auto",
@@ -73,7 +209,7 @@
       "url": "https://carnewschina.com/2026/07/13/byd-racco-brings-320-km-electric-range-mirocar-to-japan-on-july-28-to-challenge-suzuki",
       "published_at": "2026-07-13T02:32:51Z",
       "first_seen_at": "2026-07-13T02:33:11.031493Z",
-      "last_seen_at": "2026-07-13T02:33:11.031493Z",
+      "last_seen_at": "2026-07-13T06:14:33.097268Z",
       "title_original": "BYD Racco brings 320 km electric range mirocar to Japan on July 28 to challenge Suzuki",
       "title_en": "BYD Racco brings 320 km electric range mirocar to Japan on July 28 to challenge Suzuki",
       "title_zh": "比亚迪Racco 7月28日携320公里电动微型车登陆日本挑战铃木",
@@ -92,7 +228,7 @@
       "url": "https://cnevpost.com/2026/07/13/xpeng-sets-mona-l03-munich-launch-time",
       "published_at": "2026-07-13T02:02:58Z",
       "first_seen_at": "2026-07-13T02:33:11.031493Z",
-      "last_seen_at": "2026-07-13T02:33:11.031493Z",
+      "last_seen_at": "2026-07-13T06:14:33.097268Z",
       "title_original": "Xpeng sets Mona L03 Munich launch time as global push widens",
       "title_en": "Xpeng sets Mona L03 Munich launch time as global push widens",
       "title_zh": "小鹏汽车确定 Mona L03 慕尼黑上市时间 随着全球推广范围的扩大",
@@ -112,7 +248,7 @@
       "url": "http://vc.yiche.com/vplay/12037769.html",
       "published_at": null,
       "first_seen_at": "2026-07-12T19:37:43.109086Z",
-      "last_seen_at": "2026-07-13T02:33:11.031493Z",
+      "last_seen_at": "2026-07-13T06:14:33.097268Z",
       "title_original": "大五座混动SUV油耗能多低？",
       "title_en": null,
       "title_zh": "大五座混动SUV油耗能多低？",
@@ -131,7 +267,7 @@
       "url": "http://vc.yiche.com/vplay/12048850.html",
       "published_at": null,
       "first_seen_at": "2026-07-12T19:37:43.109086Z",
-      "last_seen_at": "2026-07-13T02:33:11.031493Z",
+      "last_seen_at": "2026-07-13T06:14:33.097268Z",
       "title_original": "全网首发！吉利中国星旗舰轿车FS21",
       "title_en": null,
       "title_zh": "全网首发！吉利中国星旗舰轿车FS21",
@@ -150,7 +286,7 @@
       "url": "http://vc.yiche.com/vplay/12048213.html",
       "published_at": null,
       "first_seen_at": "2026-07-12T19:37:43.109086Z",
-      "last_seen_at": "2026-07-13T02:33:11.031493Z",
+      "last_seen_at": "2026-07-13T06:14:33.097268Z",
       "title_original": "静态体验、动态感受全解析！小鹏MONA L03会是小鹏的下一个爆款吗？",
       "title_en": null,
       "title_zh": "静态体验、动态感受全解析！小鹏MONA L03会是小鹏的下一个爆款吗？",
@@ -169,7 +305,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/caa80ec079ac678e/115491733-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-12T17:01:19.109372Z",
-      "last_seen_at": "2026-07-13T02:33:11.031493Z",
+      "last_seen_at": "2026-07-13T06:14:33.097268Z",
       "title_original": "回头率爆表 小鹏G7提车作业分享",
       "title_en": null,
       "title_zh": "回头率爆表 小鹏G7提车作业分享",
@@ -188,7 +324,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/293e2aad0452ca07/115470015-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-12T17:01:19.109372Z",
-      "last_seen_at": "2026-07-13T02:33:11.031493Z",
+      "last_seen_at": "2026-07-13T06:14:33.097268Z",
       "title_original": "六座大空间 问界M7增程版提车分享",
       "title_en": null,
       "title_zh": "六座大空间 问界M7增程版提车分享",
@@ -208,7 +344,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/3792317d40c04434/115489424-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-12T17:01:19.109372Z",
-      "last_seen_at": "2026-07-13T02:33:11.031493Z",
+      "last_seen_at": "2026-07-13T06:14:33.097268Z",
       "title_original": "颜值高大上 极氪9X提车作业分享",
       "title_en": null,
       "title_zh": "颜值高大上 极氪9X提车作业分享",
@@ -227,7 +363,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/9cf13d0a34003688/115481097-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-12T17:01:19.109372Z",
-      "last_seen_at": "2026-07-13T02:33:11.031493Z",
+      "last_seen_at": "2026-07-13T06:14:33.097268Z",
       "title_original": "被外观圈粉 蔚来ET5T提车作业分享",
       "title_en": null,
       "title_zh": "被外观圈粉 蔚来ET5T提车作业分享",
@@ -246,7 +382,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/0f1f343246919bae/115471929-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-12T17:01:19.109372Z",
-      "last_seen_at": "2026-07-13T02:33:11.031493Z",
+      "last_seen_at": "2026-07-13T06:14:33.097268Z",
       "title_original": "可城可野 iCAR V27提车作业分享",
       "title_en": null,
       "title_zh": "可城可野 iCAR V27提车作业分享",
@@ -264,7 +400,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/76f9c3a64c1802da/115306397-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-12T15:57:16.823666Z",
-      "last_seen_at": "2026-07-13T02:33:11.031493Z",
+      "last_seen_at": "2026-07-13T06:14:33.097268Z",
       "title_original": "四年用车总结 长安UNI-V优势与短板",
       "title_en": null,
       "title_zh": "四年用车总结 长安UNI-V优势与短板",
@@ -283,7 +419,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/ecbc4ace01d6419b/115300289-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-12T15:57:16.823666Z",
-      "last_seen_at": "2026-07-13T02:33:11.031493Z",
+      "last_seen_at": "2026-07-13T06:14:33.097268Z",
       "title_original": "提车两年聊奕派008辅助驾驶真实感受",
       "title_en": null,
       "title_zh": "提车两年聊奕派008辅助驾驶真实感受",
@@ -291,6 +427,24 @@
       "topic_tags": [
         "智能驾驶",
         "购车决策"
+      ]
+    },
+    {
+      "id": "a64f6945df791259a9f6e8a3d54f22c78d7bf97f",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新车",
+      "title": "一汽悦意08上市，又一款10万B级车入局了",
+      "url": "https://auto.gasgoo.com/news/202607/12I70465508C107.shtml",
+      "published_at": "2026-07-12T13:36:36Z",
+      "first_seen_at": "2026-07-13T06:14:33.097268Z",
+      "last_seen_at": "2026-07-13T06:14:33.097268Z",
+      "title_original": "一汽悦意08上市，又一款10万B级车入局了",
+      "title_en": null,
+      "title_zh": "一汽悦意08上市，又一款10万B级车入局了",
+      "title_bilingual": "一汽悦意08上市，又一款10万B级车入局了",
+      "topic_tags": [
+        "新车上市"
       ]
     },
     {
@@ -302,7 +456,7 @@
       "url": "https://cnevpost.com/2026/07/12/seres-flags-h1-2026-loss",
       "published_at": "2026-07-12T12:16:26Z",
       "first_seen_at": "2026-07-12T13:26:33.265922Z",
-      "last_seen_at": "2026-07-13T02:33:11.031493Z",
+      "last_seen_at": "2026-07-13T06:14:33.097268Z",
       "title_original": "Seres flags H1 loss on rising material costs, asset writedowns",
       "title_en": "Seres flags H1 loss on rising material costs, asset writedowns",
       "title_zh": "Seres 因材料成本上涨和资产减记而导致上半年亏损",
@@ -320,7 +474,7 @@
       "url": "https://www.dongchedi.com/article/7661083334235619864",
       "published_at": null,
       "first_seen_at": "2026-07-12T07:26:43.582576Z",
-      "last_seen_at": "2026-07-13T02:33:11.031493Z",
+      "last_seen_at": "2026-07-13T06:14:33.097268Z",
       "title_original": "2026款吉利银河星耀7 MAX新车商品性评价",
       "title_en": null,
       "title_zh": "2026款吉利银河星耀7 MAX新车商品性评价",
@@ -339,7 +493,7 @@
       "url": "https://auto.gasgoo.com/news/202607/12I70465443C109.shtml",
       "published_at": "2026-07-12T07:02:37Z",
       "first_seen_at": "2026-07-12T23:51:11.786076Z",
-      "last_seen_at": "2026-07-13T02:33:11.031493Z",
+      "last_seen_at": "2026-07-13T06:14:33.097268Z",
       "title_original": "盖世周报 | 大陆集团出售康迪泰克业务部门；奇瑞南非工厂零部件本地化率将达40%",
       "title_en": null,
       "title_zh": "盖世周报 | 大陆集团出售康迪泰克业务部门；奇瑞南非工厂零部件本地化率将达40%",
@@ -347,71 +501,151 @@
       "topic_tags": [
         "车企竞争",
         "供应链"
-      ]
-    },
-    {
-      "id": "73069f303b730253a213ecb567b5335957cfd6e0",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "GWM files for the new large SUV to fight for BEV market share in China",
-      "url": "https://carnewschina.com/2026/07/12/gwm-files-for-the-new-large-suv-to-fight-for-bev-market-share-in-china",
-      "published_at": "2026-07-12T05:24:06Z",
-      "first_seen_at": "2026-07-12T07:26:43.582576Z",
-      "last_seen_at": "2026-07-13T02:33:11.031493Z",
-      "title_original": "GWM files for the new large SUV to fight for BEV market share in China",
-      "title_en": "GWM files for the new large SUV to fight for BEV market share in China",
-      "title_zh": "长城汽车申请推出新款大型SUV，争夺中国纯电动汽车市场份额",
-      "title_bilingual": "长城汽车申请推出新款大型SUV，争夺中国纯电动汽车市场份额 / GWM files for the new large SUV to fight for BEV market share in China",
-      "topic_tags": [
-        "新能源",
-        "销量市场",
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "e282a997012a3fe10d606cb121d0f3ef9ecd7c00",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Geely Galaxy TT Ultra performance sedan breaks cover with 578 hp and 800V architecture",
-      "url": "https://carnewschina.com/2026/07/12/geely-galaxy-tt-ultra-performance-sedan-breaks-cover-with-578-hp-and-800v-architecture",
-      "published_at": "2026-07-12T04:40:10Z",
-      "first_seen_at": "2026-07-12T04:50:46.252526Z",
-      "last_seen_at": "2026-07-13T02:33:11.031493Z",
-      "title_original": "Geely Galaxy TT Ultra performance sedan breaks cover with 578 hp and 800V architecture",
-      "title_en": "Geely Galaxy TT Ultra performance sedan breaks cover with 578 hp and 800V architecture",
-      "title_zh": "吉利 Galaxy TT Ultra 高性能轿车以 578 马力和 800V 架构打破面纱",
-      "title_bilingual": "吉利 Galaxy TT Ultra 高性能轿车以 578 马力和 800V 架构打破面纱 / Geely Galaxy TT Ultra performance sedan breaks cover with 578 hp and 800V architecture",
-      "topic_tags": [
-        "新能源",
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "bf11d5bbc1fa5c87daf26ac1efd049ab26f5f7fb",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Top Chinese battery pioneer urges sodium hardware pivot to break 75% lithium import reliance",
-      "url": "https://carnewschina.com/2026/07/12/top-chinese-battery-pioneer-urges-sodium-hardware-pivot-to-break-75-lithium-import-reliance",
-      "published_at": "2026-07-12T04:03:59Z",
-      "first_seen_at": "2026-07-12T04:50:46.252526Z",
-      "last_seen_at": "2026-07-13T02:33:11.031493Z",
-      "title_original": "Top Chinese battery pioneer urges sodium hardware pivot to break 75% lithium import reliance",
-      "title_en": "Top Chinese battery pioneer urges sodium hardware pivot to break 75% lithium import reliance",
-      "title_zh": "中国顶级电池先锋敦促钠硬件转向打破75%的锂进口依赖",
-      "title_bilingual": "中国顶级电池先锋敦促钠硬件转向打破75%的锂进口依赖 / Top Chinese battery pioneer urges sodium hardware pivot to break 75% lithium import reliance",
-      "topic_tags": [
-        "新能源",
-        "补能电池"
       ]
     }
   ],
   "items_ai": [
     {
+      "id": "f1af33343aa1aa9ec69eaa068abbc963f2f970a7",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "juejin",
+      "title": "没写一行代码！我用 ChatGPT 5.6 (Sol) 做了一个智慧充电站 3D 大屏",
+      "url": "https://juejin.cn/post/7661160753004904448",
+      "published_at": "2026-07-13T06:14:46.191000Z",
+      "first_seen_at": "2026-07-13T06:14:33.097268Z",
+      "last_seen_at": "2026-07-13T06:14:33.097268Z",
+      "title_original": "没写一行代码！我用 ChatGPT 5.6 (Sol) 做了一个智慧充电站 3D 大屏",
+      "title_en": null,
+      "title_zh": "没写一行代码！我用 ChatGPT 5.6 (Sol) 做了一个智慧充电站 3D 大屏",
+      "title_bilingual": "没写一行代码！我用 ChatGPT 5.6 (Sol) 做了一个智慧充电站 3D 大屏",
+      "topic_tags": [
+        "补能电池"
+      ]
+    },
+    {
+      "id": "b83e09d01b3b204ca53c02301f05b99382ed9e14",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "State engineering awards reveal shared tech behind BYD, Geely, and Changan battery architectures",
+      "url": "https://carnewschina.com/2026/07/13/state-engineering-awards-reveal-shared-tech-behind-byd-geely-and-changan-battery-architectures",
+      "published_at": "2026-07-13T04:57:59Z",
+      "first_seen_at": "2026-07-13T06:14:33.097268Z",
+      "last_seen_at": "2026-07-13T06:14:33.097268Z",
+      "title_original": "State engineering awards reveal shared tech behind BYD, Geely, and Changan battery architectures",
+      "title_en": "State engineering awards reveal shared tech behind BYD, Geely, and Changan battery architectures",
+      "title_zh": "国家工程奖揭晓比亚迪、吉利和长安电池架构背后的共享技术",
+      "title_bilingual": "国家工程奖揭晓比亚迪、吉利和长安电池架构背后的共享技术 / State engineering awards reveal shared tech behind BYD, Geely, and Changan battery architectures",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "cee25449f59e2ed5011697be4a69bc51b4b09699",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "BYD expands Qin lineup with new “Qin Max” flash-charging sedan",
+      "url": "https://carnewschina.com/2026/07/13/byd-expands-qin-lineup-with-new-qin-max-flash-charging-sedan",
+      "published_at": "2026-07-13T04:18:37Z",
+      "first_seen_at": "2026-07-13T06:14:33.097268Z",
+      "last_seen_at": "2026-07-13T06:14:33.097268Z",
+      "title_original": "BYD expands Qin lineup with new “Qin Max” flash-charging sedan",
+      "title_en": "BYD expands Qin lineup with new “Qin Max” flash-charging sedan",
+      "title_zh": "比亚迪推出全新闪充轿车“秦Max”，扩大秦产品阵容",
+      "title_bilingual": "比亚迪推出全新闪充轿车“秦Max”，扩大秦产品阵容 / BYD expands Qin lineup with new “Qin Max” flash-charging sedan",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "750adcfd234d1fae7855a63fa95ed885ea233785",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "China’s new solid-state law takes effect: Dongfeng leads solid state battery factory race",
+      "url": "https://carnewschina.com/2026/07/13/chinas-new-solid-state-law-takes-effect-dongfeng-leads-solid-state-battery-factory-race",
+      "published_at": "2026-07-13T04:00:32Z",
+      "first_seen_at": "2026-07-13T06:14:33.097268Z",
+      "last_seen_at": "2026-07-13T06:14:33.097268Z",
+      "title_original": "China’s new solid-state law takes effect: Dongfeng leads solid state battery factory race",
+      "title_en": "China’s new solid-state law takes effect: Dongfeng leads solid state battery factory race",
+      "title_zh": "中国新固态法生效：东风领跑固态电池厂竞赛",
+      "title_bilingual": "中国新固态法生效：东风领跑固态电池厂竞赛 / China’s new solid-state law takes effect: Dongfeng leads solid state battery factory race",
+      "topic_tags": [
+        "新能源",
+        "补能电池"
+      ]
+    },
+    {
+      "id": "89130431d296eda9bc8d2052104dcd97ae68528c",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "VW China chief confirms ID. UNYX 09 electric sedan co-developed with Xpeng coming in H2",
+      "url": "https://cnevpost.com/2026/07/13/vw-confirms-id-unyx-09-sedan-xpeng-coming-h2",
+      "published_at": "2026-07-13T03:41:28Z",
+      "first_seen_at": "2026-07-13T06:14:33.097268Z",
+      "last_seen_at": "2026-07-13T06:14:33.097268Z",
+      "title_original": "VW China chief confirms ID. UNYX 09 electric sedan co-developed with Xpeng coming in H2",
+      "title_en": "VW China chief confirms ID. UNYX 09 electric sedan co-developed with Xpeng coming in H2",
+      "title_zh": "大众汽车中国区总裁证实身份。与小鹏汽车合作开发的UNYX 09电动轿车下半年上市",
+      "title_bilingual": "大众汽车中国区总裁证实身份。与小鹏汽车合作开发的UNYX 09电动轿车下半年上市 / VW China chief confirms ID. UNYX 09 electric sedan co-developed with Xpeng coming in H2",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "692a11f1f0cd1368456863d1311779e58df11a19",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Li Auto flagship electric SUV i9 with 5C charging exposed",
+      "url": "https://carnewschina.com/2026/07/13/li-auto-flagship-electric-suv-i9-with-5c-charging-exposed",
+      "published_at": "2026-07-13T03:34:21Z",
+      "first_seen_at": "2026-07-13T06:14:33.097268Z",
+      "last_seen_at": "2026-07-13T06:14:33.097268Z",
+      "title_original": "Li Auto flagship electric SUV i9 with 5C charging exposed",
+      "title_en": "Li Auto flagship electric SUV i9 with 5C charging exposed",
+      "title_zh": "理想汽车旗舰电动SUV i9搭载5C充电曝光",
+      "title_bilingual": "理想汽车旗舰电动SUV i9搭载5C充电曝光 / Li Auto flagship electric SUV i9 with 5C charging exposed",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "019723f07241f186a048d69766e57feab33b950a",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "BYD previews Qin Max sedan with flash charging, expanding Qin lineup",
+      "url": "https://cnevpost.com/2026/07/13/byd-previews-qin-max-sedan-flash-charging",
+      "published_at": "2026-07-13T02:51:58Z",
+      "first_seen_at": "2026-07-13T06:14:33.097268Z",
+      "last_seen_at": "2026-07-13T06:14:33.097268Z",
+      "title_original": "BYD previews Qin Max sedan with flash charging, expanding Qin lineup",
+      "title_en": "BYD previews Qin Max sedan with flash charging, expanding Qin lineup",
+      "title_zh": "比亚迪预览带有闪充功能的Qin Max轿车，扩大Qin产品阵容",
+      "title_bilingual": "比亚迪预览带有闪充功能的Qin Max轿车，扩大Qin产品阵容 / BYD previews Qin Max sedan with flash charging, expanding Qin lineup",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
       "id": "aff93ec8b63f09615545ab5284f4cfb65e86d89d",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -420,7 +654,7 @@
       "url": "https://carnewschina.com/2026/07/13/byd-racco-brings-320-km-electric-range-mirocar-to-japan-on-july-28-to-challenge-suzuki",
       "published_at": "2026-07-13T02:32:51Z",
       "first_seen_at": "2026-07-13T02:33:11.031493Z",
-      "last_seen_at": "2026-07-13T02:33:11.031493Z",
+      "last_seen_at": "2026-07-13T06:14:33.097268Z",
       "title_original": "BYD Racco brings 320 km electric range mirocar to Japan on July 28 to challenge Suzuki",
       "title_en": "BYD Racco brings 320 km electric range mirocar to Japan on July 28 to challenge Suzuki",
       "title_zh": "比亚迪Racco 7月28日携320公里电动微型车登陆日本挑战铃木",
@@ -439,7 +673,7 @@
       "url": "https://cnevpost.com/2026/07/13/xpeng-sets-mona-l03-munich-launch-time",
       "published_at": "2026-07-13T02:02:58Z",
       "first_seen_at": "2026-07-13T02:33:11.031493Z",
-      "last_seen_at": "2026-07-13T02:33:11.031493Z",
+      "last_seen_at": "2026-07-13T06:14:33.097268Z",
       "title_original": "Xpeng sets Mona L03 Munich launch time as global push widens",
       "title_en": "Xpeng sets Mona L03 Munich launch time as global push widens",
       "title_zh": "小鹏汽车确定 Mona L03 慕尼黑上市时间 随着全球推广范围的扩大",
@@ -459,7 +693,7 @@
       "url": "http://vc.yiche.com/vplay/12037769.html",
       "published_at": null,
       "first_seen_at": "2026-07-12T19:37:43.109086Z",
-      "last_seen_at": "2026-07-13T02:33:11.031493Z",
+      "last_seen_at": "2026-07-13T06:14:33.097268Z",
       "title_original": "大五座混动SUV油耗能多低？",
       "title_en": null,
       "title_zh": "大五座混动SUV油耗能多低？",
@@ -478,7 +712,7 @@
       "url": "http://vc.yiche.com/vplay/12048850.html",
       "published_at": null,
       "first_seen_at": "2026-07-12T19:37:43.109086Z",
-      "last_seen_at": "2026-07-13T02:33:11.031493Z",
+      "last_seen_at": "2026-07-13T06:14:33.097268Z",
       "title_original": "全网首发！吉利中国星旗舰轿车FS21",
       "title_en": null,
       "title_zh": "全网首发！吉利中国星旗舰轿车FS21",
@@ -497,7 +731,7 @@
       "url": "http://vc.yiche.com/vplay/12048213.html",
       "published_at": null,
       "first_seen_at": "2026-07-12T19:37:43.109086Z",
-      "last_seen_at": "2026-07-13T02:33:11.031493Z",
+      "last_seen_at": "2026-07-13T06:14:33.097268Z",
       "title_original": "静态体验、动态感受全解析！小鹏MONA L03会是小鹏的下一个爆款吗？",
       "title_en": null,
       "title_zh": "静态体验、动态感受全解析！小鹏MONA L03会是小鹏的下一个爆款吗？",
@@ -516,7 +750,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/caa80ec079ac678e/115491733-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-12T17:01:19.109372Z",
-      "last_seen_at": "2026-07-13T02:33:11.031493Z",
+      "last_seen_at": "2026-07-13T06:14:33.097268Z",
       "title_original": "回头率爆表 小鹏G7提车作业分享",
       "title_en": null,
       "title_zh": "回头率爆表 小鹏G7提车作业分享",
@@ -535,7 +769,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/293e2aad0452ca07/115470015-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-12T17:01:19.109372Z",
-      "last_seen_at": "2026-07-13T02:33:11.031493Z",
+      "last_seen_at": "2026-07-13T06:14:33.097268Z",
       "title_original": "六座大空间 问界M7增程版提车分享",
       "title_en": null,
       "title_zh": "六座大空间 问界M7增程版提车分享",
@@ -555,7 +789,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/3792317d40c04434/115489424-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-12T17:01:19.109372Z",
-      "last_seen_at": "2026-07-13T02:33:11.031493Z",
+      "last_seen_at": "2026-07-13T06:14:33.097268Z",
       "title_original": "颜值高大上 极氪9X提车作业分享",
       "title_en": null,
       "title_zh": "颜值高大上 极氪9X提车作业分享",
@@ -574,7 +808,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/9cf13d0a34003688/115481097-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-12T17:01:19.109372Z",
-      "last_seen_at": "2026-07-13T02:33:11.031493Z",
+      "last_seen_at": "2026-07-13T06:14:33.097268Z",
       "title_original": "被外观圈粉 蔚来ET5T提车作业分享",
       "title_en": null,
       "title_zh": "被外观圈粉 蔚来ET5T提车作业分享",
@@ -593,7 +827,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/0f1f343246919bae/115471929-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-12T17:01:19.109372Z",
-      "last_seen_at": "2026-07-13T02:33:11.031493Z",
+      "last_seen_at": "2026-07-13T06:14:33.097268Z",
       "title_original": "可城可野 iCAR V27提车作业分享",
       "title_en": null,
       "title_zh": "可城可野 iCAR V27提车作业分享",
@@ -611,7 +845,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/76f9c3a64c1802da/115306397-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-12T15:57:16.823666Z",
-      "last_seen_at": "2026-07-13T02:33:11.031493Z",
+      "last_seen_at": "2026-07-13T06:14:33.097268Z",
       "title_original": "四年用车总结 长安UNI-V优势与短板",
       "title_en": null,
       "title_zh": "四年用车总结 长安UNI-V优势与短板",
@@ -630,7 +864,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/ecbc4ace01d6419b/115300289-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-12T15:57:16.823666Z",
-      "last_seen_at": "2026-07-13T02:33:11.031493Z",
+      "last_seen_at": "2026-07-13T06:14:33.097268Z",
       "title_original": "提车两年聊奕派008辅助驾驶真实感受",
       "title_en": null,
       "title_zh": "提车两年聊奕派008辅助驾驶真实感受",
@@ -638,6 +872,24 @@
       "topic_tags": [
         "智能驾驶",
         "购车决策"
+      ]
+    },
+    {
+      "id": "a64f6945df791259a9f6e8a3d54f22c78d7bf97f",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新车",
+      "title": "一汽悦意08上市，又一款10万B级车入局了",
+      "url": "https://auto.gasgoo.com/news/202607/12I70465508C107.shtml",
+      "published_at": "2026-07-12T13:36:36Z",
+      "first_seen_at": "2026-07-13T06:14:33.097268Z",
+      "last_seen_at": "2026-07-13T06:14:33.097268Z",
+      "title_original": "一汽悦意08上市，又一款10万B级车入局了",
+      "title_en": null,
+      "title_zh": "一汽悦意08上市，又一款10万B级车入局了",
+      "title_bilingual": "一汽悦意08上市，又一款10万B级车入局了",
+      "topic_tags": [
+        "新车上市"
       ]
     },
     {
@@ -649,7 +901,7 @@
       "url": "https://cnevpost.com/2026/07/12/seres-flags-h1-2026-loss",
       "published_at": "2026-07-12T12:16:26Z",
       "first_seen_at": "2026-07-12T13:26:33.265922Z",
-      "last_seen_at": "2026-07-13T02:33:11.031493Z",
+      "last_seen_at": "2026-07-13T06:14:33.097268Z",
       "title_original": "Seres flags H1 loss on rising material costs, asset writedowns",
       "title_en": "Seres flags H1 loss on rising material costs, asset writedowns",
       "title_zh": "Seres 因材料成本上涨和资产减记而导致上半年亏损",
@@ -667,7 +919,7 @@
       "url": "https://www.dongchedi.com/article/7661083334235619864",
       "published_at": null,
       "first_seen_at": "2026-07-12T07:26:43.582576Z",
-      "last_seen_at": "2026-07-13T02:33:11.031493Z",
+      "last_seen_at": "2026-07-13T06:14:33.097268Z",
       "title_original": "2026款吉利银河星耀7 MAX新车商品性评价",
       "title_en": null,
       "title_zh": "2026款吉利银河星耀7 MAX新车商品性评价",
@@ -686,7 +938,7 @@
       "url": "https://auto.gasgoo.com/news/202607/12I70465443C109.shtml",
       "published_at": "2026-07-12T07:02:37Z",
       "first_seen_at": "2026-07-12T23:51:11.786076Z",
-      "last_seen_at": "2026-07-13T02:33:11.031493Z",
+      "last_seen_at": "2026-07-13T06:14:33.097268Z",
       "title_original": "盖世周报 | 大陆集团出售康迪泰克业务部门；奇瑞南非工厂零部件本地化率将达40%",
       "title_en": null,
       "title_zh": "盖世周报 | 大陆集团出售康迪泰克业务部门；奇瑞南非工厂零部件本地化率将达40%",
@@ -694,66 +946,6 @@
       "topic_tags": [
         "车企竞争",
         "供应链"
-      ]
-    },
-    {
-      "id": "73069f303b730253a213ecb567b5335957cfd6e0",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "GWM files for the new large SUV to fight for BEV market share in China",
-      "url": "https://carnewschina.com/2026/07/12/gwm-files-for-the-new-large-suv-to-fight-for-bev-market-share-in-china",
-      "published_at": "2026-07-12T05:24:06Z",
-      "first_seen_at": "2026-07-12T07:26:43.582576Z",
-      "last_seen_at": "2026-07-13T02:33:11.031493Z",
-      "title_original": "GWM files for the new large SUV to fight for BEV market share in China",
-      "title_en": "GWM files for the new large SUV to fight for BEV market share in China",
-      "title_zh": "长城汽车申请推出新款大型SUV，争夺中国纯电动汽车市场份额",
-      "title_bilingual": "长城汽车申请推出新款大型SUV，争夺中国纯电动汽车市场份额 / GWM files for the new large SUV to fight for BEV market share in China",
-      "topic_tags": [
-        "新能源",
-        "销量市场",
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "e282a997012a3fe10d606cb121d0f3ef9ecd7c00",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Geely Galaxy TT Ultra performance sedan breaks cover with 578 hp and 800V architecture",
-      "url": "https://carnewschina.com/2026/07/12/geely-galaxy-tt-ultra-performance-sedan-breaks-cover-with-578-hp-and-800v-architecture",
-      "published_at": "2026-07-12T04:40:10Z",
-      "first_seen_at": "2026-07-12T04:50:46.252526Z",
-      "last_seen_at": "2026-07-13T02:33:11.031493Z",
-      "title_original": "Geely Galaxy TT Ultra performance sedan breaks cover with 578 hp and 800V architecture",
-      "title_en": "Geely Galaxy TT Ultra performance sedan breaks cover with 578 hp and 800V architecture",
-      "title_zh": "吉利 Galaxy TT Ultra 高性能轿车以 578 马力和 800V 架构打破面纱",
-      "title_bilingual": "吉利 Galaxy TT Ultra 高性能轿车以 578 马力和 800V 架构打破面纱 / Geely Galaxy TT Ultra performance sedan breaks cover with 578 hp and 800V architecture",
-      "topic_tags": [
-        "新能源",
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "bf11d5bbc1fa5c87daf26ac1efd049ab26f5f7fb",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Top Chinese battery pioneer urges sodium hardware pivot to break 75% lithium import reliance",
-      "url": "https://carnewschina.com/2026/07/12/top-chinese-battery-pioneer-urges-sodium-hardware-pivot-to-break-75-lithium-import-reliance",
-      "published_at": "2026-07-12T04:03:59Z",
-      "first_seen_at": "2026-07-12T04:50:46.252526Z",
-      "last_seen_at": "2026-07-13T02:33:11.031493Z",
-      "title_original": "Top Chinese battery pioneer urges sodium hardware pivot to break 75% lithium import reliance",
-      "title_en": "Top Chinese battery pioneer urges sodium hardware pivot to break 75% lithium import reliance",
-      "title_zh": "中国顶级电池先锋敦促钠硬件转向打破75%的锂进口依赖",
-      "title_bilingual": "中国顶级电池先锋敦促钠硬件转向打破75%的锂进口依赖 / Top Chinese battery pioneer urges sodium hardware pivot to break 75% lithium import reliance",
-      "topic_tags": [
-        "新能源",
-        "补能电池"
       ]
     }
   ],
