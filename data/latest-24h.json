@@ -1,49 +1,53 @@
 {
-  "generated_at": "2026-07-14T06:08:41.539766Z",
+  "generated_at": "2026-07-14T08:34:46.306150Z",
   "window_hours": 24,
-  "total_items": 35,
-  "total_items_ai_raw": 37,
-  "total_items_raw": 3917,
-  "total_items_all_mode": 3578,
+  "total_items": 53,
+  "total_items_ai_raw": 57,
+  "total_items_raw": 3811,
+  "total_items_all_mode": 3493,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 70465,
+  "archive_total": 70881,
   "site_count": 3,
-  "source_count": 12,
+  "source_count": 13,
   "site_stats": [
     {
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "count": 21,
-      "raw_count": 23
+      "count": 38,
+      "raw_count": 42
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
-      "count": 11,
-      "raw_count": 3715
+      "count": 13,
+      "raw_count": 3581
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
-      "count": 3,
-      "raw_count": 179
+      "count": 2,
+      "raw_count": 188
     }
   ],
   "topic_tag_stats": [
     {
       "tag": "车企竞争",
-      "count": 21
+      "count": 27
     },
     {
       "tag": "新能源",
-      "count": 17
+      "count": 19
+    },
+    {
+      "tag": "购车决策",
+      "count": 8
     },
     {
       "tag": "新车上市",
       "count": 7
     },
     {
-      "tag": "购车决策",
+      "tag": "销量市场",
       "count": 7
     },
     {
@@ -51,11 +55,11 @@
       "count": 5
     },
     {
-      "tag": "销量市场",
-      "count": 5
+      "tag": "智能驾驶",
+      "count": 4
     },
     {
-      "tag": "智能驾驶",
+      "tag": "补能电池",
       "count": 3
     },
     {
@@ -63,11 +67,84 @@
       "count": 2
     },
     {
-      "tag": "补能电池",
-      "count": 2
+      "tag": "召回安全",
+      "count": 1
     }
   ],
   "items": [
+    {
+      "id": "a1305ab3b5c48a906189c826997b3dba551c81ce",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "懂车帝 · 文章排行榜",
+      "title": "试驾领克07 GT丨好开和不贵，真的只能二选一吗？",
+      "url": "https://www.dongchedi.com/article/7661940689467834904",
+      "published_at": null,
+      "first_seen_at": "2026-07-14T08:34:46.306150Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
+      "title_original": "试驾领克07 GT丨好开和不贵，真的只能二选一吗？",
+      "title_en": null,
+      "title_zh": "试驾领克07 GT丨好开和不贵，真的只能二选一吗？",
+      "title_bilingual": "试驾领克07 GT丨好开和不贵，真的只能二选一吗？",
+      "topic_tags": [
+        "购车决策"
+      ]
+    },
+    {
+      "id": "46a0e7527be851273984b6a563345ae25c4884b2",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "懂车帝 · 文章排行榜",
+      "title": "一锤定音：增程式电动车为什么不香了",
+      "url": "https://www.dongchedi.com/article/7660708181509636670",
+      "published_at": null,
+      "first_seen_at": "2026-07-14T08:34:46.306150Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
+      "title_original": "一锤定音：增程式电动车为什么不香了",
+      "title_en": null,
+      "title_zh": "一锤定音：增程式电动车为什么不香了",
+      "title_bilingual": "一锤定音：增程式电动车为什么不香了",
+      "topic_tags": [
+        "新能源"
+      ]
+    },
+    {
+      "id": "b64f93687dd82358a550cb096222315f48ec8d2c",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "New BYD Seal 08 sustains minor fender scuffs while Venucia D60 EV Plus suffers heavy front-end damage",
+      "url": "https://carnewschina.com/2026/07/14/new-byd-seal-08-sustains-minor-fender-scuffs-while-nissan-bluebird-suffers-heavy-front-end-damage",
+      "published_at": "2026-07-14T08:06:57Z",
+      "first_seen_at": "2026-07-14T08:34:46.306150Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
+      "title_original": "New BYD Seal 08 sustains minor fender scuffs while Venucia D60 EV Plus suffers heavy front-end damage",
+      "title_en": "New BYD Seal 08 sustains minor fender scuffs while Venucia D60 EV Plus suffers heavy front-end damage",
+      "title_zh": "新款比亚迪 Seal 08 挡泥板轻微磨损，启辰 D60 EV Plus 前端严重损坏",
+      "title_bilingual": "新款比亚迪 Seal 08 挡泥板轻微磨损，启辰 D60 EV Plus 前端严重损坏 / New BYD Seal 08 sustains minor fender scuffs while Venucia D60 EV Plus suffers heavy front-end damage",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "f7aa12832ff1f21fbbba6089cca150f1ddfa3a1a",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "China's NEV fleet climbs to 48.97 million as 2030 target comes into focus",
+      "url": "https://cnevpost.com/2026/07/14/china-nev-fleet-49-million",
+      "published_at": "2026-07-14T06:37:10Z",
+      "first_seen_at": "2026-07-14T08:34:46.306150Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
+      "title_original": "China's NEV fleet climbs to 48.97 million as 2030 target comes into focus",
+      "title_en": "China's NEV fleet climbs to 48.97 million as 2030 target comes into focus",
+      "title_zh": "2030年目标成焦点 中国新能源汽车保有量增至4897万辆",
+      "title_bilingual": "2030年目标成焦点 中国新能源汽车保有量增至4897万辆 / China's NEV fleet climbs to 48.97 million as 2030 target comes into focus",
+      "topic_tags": [
+        "新能源"
+      ]
+    },
     {
       "id": "f2a68d8d1a44774c0be303a2660e5202d49f5df8",
       "site_id": "official_auto",
@@ -77,7 +154,7 @@
       "url": "https://cnevpost.com/2026/07/14/zeekr-plans-malaysia-outlets-18-2026",
       "published_at": "2026-07-14T06:05:22Z",
       "first_seen_at": "2026-07-14T06:08:41.539766Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
       "title_original": "Zeekr plans to nearly double Malaysia outlets to 18 this year",
       "title_en": "Zeekr plans to nearly double Malaysia outlets to 18 this year",
       "title_zh": "Zeekr 计划今年将马来西亚门店数量增加近一倍至 18 家",
@@ -96,7 +173,7 @@
       "url": "https://carnewschina.com/2026/07/14/chinese-bestseller-geely-ex2-launched-in-australia-at-18360-usd",
       "published_at": "2026-07-14T05:02:48Z",
       "first_seen_at": "2026-07-14T06:08:41.539766Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
       "title_original": "Chinese bestseller Geely EX2 launched in Australia at 18,360 USD",
       "title_en": "Chinese bestseller Geely EX2 launched in Australia at 18,360 USD",
       "title_zh": "中国畅销车吉利EX2在澳大利亚上市，售价18,360美元",
@@ -117,7 +194,7 @@
       "url": "https://news.ycombinator.com/item?id=48901569",
       "published_at": "2026-07-14T03:55:13.688000Z",
       "first_seen_at": "2026-07-14T03:55:00.615976Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
       "title_original": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
       "title_en": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
       "title_zh": "日本开发出一种从废旧电动汽车电池中回收高达 90% 锂的方法",
@@ -136,7 +213,7 @@
       "url": "https://cnevpost.com/2026/07/14/byd-thailand-deliveries-130000-local-plant-2nd-anniversary",
       "published_at": "2026-07-14T03:15:40Z",
       "first_seen_at": "2026-07-14T03:55:00.615976Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
       "title_original": "BYD Thailand deliveries surpass 130,000 as local plant marks second anniversary",
       "title_en": "BYD Thailand deliveries surpass 130,000 as local plant marks second anniversary",
       "title_zh": "比亚迪泰国工厂成立两周年 交付量突破13万辆",
@@ -157,7 +234,7 @@
       "url": "https://news.ycombinator.com/item?id=48893550",
       "published_at": "2026-07-14T00:36:05.652000Z",
       "first_seen_at": "2026-07-14T00:53:56.648750Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
       "title_original": "Show HN: Hackney – Compare Uber, Lyft, Waymo, and Robotaxi Prices",
       "title_en": "Show HN: Hackney – Compare Uber, Lyft, Waymo, and Robotaxi Prices",
       "title_zh": "显示 HN：哈克尼 – 比较 Uber、Lyft、Waymo 和 Robotaxi 价格",
@@ -175,7 +252,7 @@
       "url": "http://vc.yiche.com/vplay/12065454.html",
       "published_at": null,
       "first_seen_at": "2026-07-13T18:56:34.413065Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
       "title_original": "吉利又又又出新车了！",
       "title_en": null,
       "title_zh": "吉利又又又出新车了！",
@@ -194,7 +271,7 @@
       "url": "http://vc.yiche.com/vplay/12040408.html",
       "published_at": null,
       "first_seen_at": "2026-07-13T18:56:34.413065Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
       "title_original": "小米官宣新品牌SkyNomad 增程SUV要打理想问界？",
       "title_en": null,
       "title_zh": "小米官宣新品牌SkyNomad 增程SUV要打理想问界？",
@@ -214,7 +291,7 @@
       "url": "http://vc.yiche.com/vplay/12056620.html",
       "published_at": null,
       "first_seen_at": "2026-07-13T18:56:34.413065Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
       "title_original": "吉利星瑞L PLUS（FS21）首次实拍｜五米级旗舰轿车，中国品牌燃油车首搭激光雷达",
       "title_en": null,
       "title_zh": "吉利星瑞L PLUS（FS21）首次实拍｜五米级旗舰轿车，中国品牌燃油车首搭激光雷达",
@@ -233,7 +310,7 @@
       "url": "http://vc.yiche.com/vplay/12081680.html",
       "published_at": null,
       "first_seen_at": "2026-07-13T18:56:34.413065Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
       "title_original": "兼顾城市通勤与旷野奔赴 抢先试驾大家庭方盒子长城H10",
       "title_en": null,
       "title_zh": "兼顾城市通勤与旷野奔赴 抢先试驾大家庭方盒子长城H10",
@@ -252,7 +329,7 @@
       "url": "http://vc.yiche.com/vplay/12077669.html",
       "published_at": null,
       "first_seen_at": "2026-07-13T18:56:34.413065Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
       "title_original": "7月份吉利星愿真实行情分享，千万别买贵了！",
       "title_en": null,
       "title_zh": "7月份吉利星愿真实行情分享，千万别买贵了！",
@@ -270,7 +347,7 @@
       "url": "https://i.autohome.com.cn/296748339",
       "published_at": null,
       "first_seen_at": "2026-07-13T17:28:59.841013Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
       "title_original": "冰箱彩电大沙发 理想i6提车作业分享",
       "title_en": null,
       "title_zh": "冰箱彩电大沙发 理想i6提车作业分享",
@@ -289,7 +366,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/5a64db95fc94110b/115509382-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-13T17:28:59.841013Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
       "title_original": "家用很舒适 极氪007GT提车记分享",
       "title_en": null,
       "title_zh": "家用很舒适 极氪007GT提车记分享",
@@ -308,7 +385,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/ed1404469197d7ac/115502848-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-13T17:28:59.841013Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
       "title_original": "销量和口碑不错 星瑞提车作业分享",
       "title_en": null,
       "title_zh": "销量和口碑不错 星瑞提车作业分享",
@@ -327,7 +404,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/cc220e59372bf251/115498953-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-13T17:28:59.841013Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
       "title_original": "空间很满意 零跑D19提车作业分享",
       "title_en": null,
       "title_zh": "空间很满意 零跑D19提车作业分享",
@@ -346,7 +423,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/a497e89d0f89f0f5/115494608-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-13T17:28:59.841013Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
       "title_original": "我的梦中情车 QQ3 EV提车作业分享",
       "title_en": null,
       "title_zh": "我的梦中情车 QQ3 EV提车作业分享",
@@ -365,13 +442,364 @@
       "url": "https://club.autohome.com.cn/bbs/thread/7fa8fada4ca0ffe4/115476314-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-13T17:28:59.841013Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
       "title_original": "青年家用代步入手 iCAR V2提车分享",
       "title_en": null,
       "title_zh": "青年家用代步入手 iCAR V2提车分享",
       "title_bilingual": "青年家用代步入手 iCAR V2提车分享",
       "topic_tags": [
         "购车决策"
+      ]
+    },
+    {
+      "id": "a4f29f915f6f04b55e0c6d17c4a7cf3b9862141f",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-供应链",
+      "title": "科思创与比亚迪签署战略合作备忘录",
+      "url": "https://auto.gasgoo.com/news/202607/13I70465598C103.shtml",
+      "published_at": "2026-07-13T16:20:19Z",
+      "first_seen_at": "2026-07-14T08:34:46.306150Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
+      "title_original": "科思创与比亚迪签署战略合作备忘录",
+      "title_en": null,
+      "title_zh": "科思创与比亚迪签署战略合作备忘录",
+      "title_bilingual": "科思创与比亚迪签署战略合作备忘录",
+      "topic_tags": [
+        "车企竞争",
+        "供应链"
+      ]
+    },
+    {
+      "id": "50a77840df75d24d51251d0f5e965271dc0221d3",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "广汽半年预亏超40亿，传统车企转型的代价还在扩大",
+      "url": "https://auto.gasgoo.com/news/202607/13I70465570C109.shtml",
+      "published_at": "2026-07-13T16:00:36Z",
+      "first_seen_at": "2026-07-14T08:34:46.306150Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
+      "title_original": "广汽半年预亏超40亿，传统车企转型的代价还在扩大",
+      "title_en": null,
+      "title_zh": "广汽半年预亏超40亿，传统车企转型的代价还在扩大",
+      "title_bilingual": "广汽半年预亏超40亿，传统车企转型的代价还在扩大",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "9aa10303bc091277b6f540b160ba4f4ae80146b9",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "中国首个禁售燃油车省份确认",
+      "url": "https://auto.gasgoo.com/news/202607/13I70465590C108.shtml",
+      "published_at": "2026-07-13T15:29:40Z",
+      "first_seen_at": "2026-07-14T08:34:46.306150Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
+      "title_original": "中国首个禁售燃油车省份确认",
+      "title_en": null,
+      "title_zh": "中国首个禁售燃油车省份确认",
+      "title_bilingual": "中国首个禁售燃油车省份确认",
+      "topic_tags": []
+    },
+    {
+      "id": "c884d73c0c47a986bf7c43a44f735d6d1955bbaa",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新技术",
+      "title": "东丽推出用于航空航天高速制造的快速固化复合材料",
+      "url": "https://auto.gasgoo.com/news/202607/13I70465589C409.shtml",
+      "published_at": "2026-07-13T15:13:49Z",
+      "first_seen_at": "2026-07-14T08:34:46.306150Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
+      "title_original": "东丽推出用于航空航天高速制造的快速固化复合材料",
+      "title_en": null,
+      "title_zh": "东丽推出用于航空航天高速制造的快速固化复合材料",
+      "title_bilingual": "东丽推出用于航空航天高速制造的快速固化复合材料",
+      "topic_tags": [
+        "供应链"
+      ]
+    },
+    {
+      "id": "972244cf57d909f717a8ab0590230cdbc91ba245",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新技术",
+      "title": "韩国研究团队发明弹性层 助力硫化物固态电池现更长使用寿命",
+      "url": "https://auto.gasgoo.com/news/202607/13I70465588C409.shtml",
+      "published_at": "2026-07-13T15:12:28Z",
+      "first_seen_at": "2026-07-14T08:34:46.306150Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
+      "title_original": "韩国研究团队发明弹性层 助力硫化物固态电池现更长使用寿命",
+      "title_en": null,
+      "title_zh": "韩国研究团队发明弹性层 助力硫化物固态电池现更长使用寿命",
+      "title_bilingual": "韩国研究团队发明弹性层 助力硫化物固态电池现更长使用寿命",
+      "topic_tags": [
+        "补能电池"
+      ]
+    },
+    {
+      "id": "e5ec2299795e9375594ec8a6d22d56434757f5ea",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新技术",
+      "title": "大众与弗劳恩霍夫合作开发混合式装配自动化技术",
+      "url": "https://auto.gasgoo.com/news/202607/13I70465587C409.shtml",
+      "published_at": "2026-07-13T15:08:58Z",
+      "first_seen_at": "2026-07-14T08:34:46.306150Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
+      "title_original": "大众与弗劳恩霍夫合作开发混合式装配自动化技术",
+      "title_en": null,
+      "title_zh": "大众与弗劳恩霍夫合作开发混合式装配自动化技术",
+      "title_bilingual": "大众与弗劳恩霍夫合作开发混合式装配自动化技术",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "f873a84ce6afc61d7b33746bab187ed6d3355956",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新技术",
+      "title": "联合研究团队发明新款AI插件 助力开发者实现日常编程任务自动化",
+      "url": "https://auto.gasgoo.com/news/202607/13I70465586C409.shtml",
+      "published_at": "2026-07-13T15:07:02Z",
+      "first_seen_at": "2026-07-14T08:34:46.306150Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
+      "title_original": "联合研究团队发明新款AI插件 助力开发者实现日常编程任务自动化",
+      "title_en": null,
+      "title_zh": "联合研究团队发明新款AI插件 助力开发者实现日常编程任务自动化",
+      "title_bilingual": "联合研究团队发明新款AI插件 助力开发者实现日常编程任务自动化",
+      "topic_tags": []
+    },
+    {
+      "id": "e6ce9b00ec4fe93fab4124a1c8e12cd83eb737ef",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新技术",
+      "title": "无需极端冷却 耶鲁大学利用小型晶体管提升低成本热像仪的成像质量",
+      "url": "https://auto.gasgoo.com/news/202607/13I70465585C409.shtml",
+      "published_at": "2026-07-13T15:04:19Z",
+      "first_seen_at": "2026-07-14T08:34:46.306150Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
+      "title_original": "无需极端冷却 耶鲁大学利用小型晶体管提升低成本热像仪的成像质量",
+      "title_en": null,
+      "title_zh": "无需极端冷却 耶鲁大学利用小型晶体管提升低成本热像仪的成像质量",
+      "title_bilingual": "无需极端冷却 耶鲁大学利用小型晶体管提升低成本热像仪的成像质量",
+      "topic_tags": [
+        "召回安全"
+      ]
+    },
+    {
+      "id": "dae66707e2d11d9cfb913c2838ebad0e5e65eaca",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新技术",
+      "title": "福特汽车申请车辆外部控制器专利",
+      "url": "https://auto.gasgoo.com/news/202607/13I70465584C409.shtml",
+      "published_at": "2026-07-13T15:02:38Z",
+      "first_seen_at": "2026-07-14T08:34:46.306150Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
+      "title_original": "福特汽车申请车辆外部控制器专利",
+      "title_en": null,
+      "title_zh": "福特汽车申请车辆外部控制器专利",
+      "title_bilingual": "福特汽车申请车辆外部控制器专利",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "9d0f1742bb994ed9ffb8ac017e3a12cd848b2ad5",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新技术",
+      "title": "韩国浦项科技大学开发新技术 可将高带宽内存密度提高四倍",
+      "url": "https://auto.gasgoo.com/news/202607/13I70465583C409.shtml",
+      "published_at": "2026-07-13T15:00:39Z",
+      "first_seen_at": "2026-07-14T08:34:46.306150Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
+      "title_original": "韩国浦项科技大学开发新技术 可将高带宽内存密度提高四倍",
+      "title_en": null,
+      "title_zh": "韩国浦项科技大学开发新技术 可将高带宽内存密度提高四倍",
+      "title_bilingual": "韩国浦项科技大学开发新技术 可将高带宽内存密度提高四倍",
+      "topic_tags": []
+    },
+    {
+      "id": "b580376bcb4a822e78c17f394aab1b8318f7e262",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新技术",
+      "title": "萨斯喀彻温大学开发出人工智能新系统 提升计算机对世界的理解能力",
+      "url": "https://auto.gasgoo.com/news/202607/13I70465582C409.shtml",
+      "published_at": "2026-07-13T14:57:05Z",
+      "first_seen_at": "2026-07-14T08:34:46.306150Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
+      "title_original": "萨斯喀彻温大学开发出人工智能新系统 提升计算机对世界的理解能力",
+      "title_en": null,
+      "title_zh": "萨斯喀彻温大学开发出人工智能新系统 提升计算机对世界的理解能力",
+      "title_bilingual": "萨斯喀彻温大学开发出人工智能新系统 提升计算机对世界的理解能力",
+      "topic_tags": []
+    },
+    {
+      "id": "66d76a61aa6e574b0c055af02f75163338b37e8b",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新技术",
+      "title": "名古屋大学开发出掺镓氧化锌纳米片 可以缩小摄像头的同时保留高分辨率",
+      "url": "https://auto.gasgoo.com/news/202607/13I70465581C409.shtml",
+      "published_at": "2026-07-13T14:55:01Z",
+      "first_seen_at": "2026-07-14T08:34:46.306150Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
+      "title_original": "名古屋大学开发出掺镓氧化锌纳米片 可以缩小摄像头的同时保留高分辨率",
+      "title_en": null,
+      "title_zh": "名古屋大学开发出掺镓氧化锌纳米片 可以缩小摄像头的同时保留高分辨率",
+      "title_bilingual": "名古屋大学开发出掺镓氧化锌纳米片 可以缩小摄像头的同时保留高分辨率",
+      "topic_tags": []
+    },
+    {
+      "id": "9e5380bd181663bb57e653dbbbeece0015e8a6e8",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "又一家造车新势力诞生",
+      "url": "https://auto.gasgoo.com/news/202607/13I70465579C501.shtml",
+      "published_at": "2026-07-13T14:53:10Z",
+      "first_seen_at": "2026-07-14T08:34:46.306150Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
+      "title_original": "又一家造车新势力诞生",
+      "title_en": null,
+      "title_zh": "又一家造车新势力诞生",
+      "title_bilingual": "又一家造车新势力诞生",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "4a2c69e75a437b31cd7cc19b341efed42374ffa5",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新技术",
+      "title": "赫瑞瓦特大学研究人员开发出新型激光雷达 能以更高的精度和准确度对小型物体进行成像",
+      "url": "https://auto.gasgoo.com/news/202607/13I70465580C409.shtml",
+      "published_at": "2026-07-13T14:50:40Z",
+      "first_seen_at": "2026-07-14T08:34:46.306150Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
+      "title_original": "赫瑞瓦特大学研究人员开发出新型激光雷达 能以更高的精度和准确度对小型物体进行成像",
+      "title_en": null,
+      "title_zh": "赫瑞瓦特大学研究人员开发出新型激光雷达 能以更高的精度和准确度对小型物体进行成像",
+      "title_bilingual": "赫瑞瓦特大学研究人员开发出新型激光雷达 能以更高的精度和准确度对小型物体进行成像",
+      "topic_tags": [
+        "智能驾驶"
+      ]
+    },
+    {
+      "id": "96eabb738c83160afcf29e836c12c2c866fdef2d",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新技术",
+      "title": "研究团队开发能将能量储存在液体中的液流电池 有望加速绿色转型",
+      "url": "https://auto.gasgoo.com/news/202607/13I70465578C409.shtml",
+      "published_at": "2026-07-13T14:46:26Z",
+      "first_seen_at": "2026-07-14T08:34:46.306150Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
+      "title_original": "研究团队开发能将能量储存在液体中的液流电池 有望加速绿色转型",
+      "title_en": null,
+      "title_zh": "研究团队开发能将能量储存在液体中的液流电池 有望加速绿色转型",
+      "title_bilingual": "研究团队开发能将能量储存在液体中的液流电池 有望加速绿色转型",
+      "topic_tags": [
+        "补能电池"
+      ]
+    },
+    {
+      "id": "4b8c608212833751faa74e296a30d35555e18b3d",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新技术",
+      "title": "法拉第未来获得混合动力增程变速器系统专利",
+      "url": "https://auto.gasgoo.com/news/202607/13I70465577C409.shtml",
+      "published_at": "2026-07-13T14:44:18Z",
+      "first_seen_at": "2026-07-14T08:34:46.306150Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
+      "title_original": "法拉第未来获得混合动力增程变速器系统专利",
+      "title_en": null,
+      "title_zh": "法拉第未来获得混合动力增程变速器系统专利",
+      "title_bilingual": "法拉第未来获得混合动力增程变速器系统专利",
+      "topic_tags": [
+        "新能源"
+      ]
+    },
+    {
+      "id": "96be72ee77fc3c9d776972b2c698c27358f9ad5f",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新技术",
+      "title": "GIST开发出可在雨雾天气下保持“清晰视野”的激光雷达传感器涂层",
+      "url": "https://auto.gasgoo.com/news/202607/13I70465576C409.shtml",
+      "published_at": "2026-07-13T14:42:10Z",
+      "first_seen_at": "2026-07-14T08:34:46.306150Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
+      "title_original": "GIST开发出可在雨雾天气下保持“清晰视野”的激光雷达传感器涂层",
+      "title_en": null,
+      "title_zh": "GIST开发出可在雨雾天气下保持“清晰视野”的激光雷达传感器涂层",
+      "title_bilingual": "GIST开发出可在雨雾天气下保持“清晰视野”的激光雷达传感器涂层",
+      "topic_tags": [
+        "智能驾驶"
+      ]
+    },
+    {
+      "id": "995210751be2a31cd7af59f0afa64bc2dd767743",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "Seeds | 触觉传感器市占率80%，他山科技再融数亿元",
+      "url": "https://auto.gasgoo.com/news/202607/13I70465575C601.shtml",
+      "published_at": "2026-07-13T14:38:40Z",
+      "first_seen_at": "2026-07-14T08:34:46.306150Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
+      "title_original": "Seeds | 触觉传感器市占率80%，他山科技再融数亿元",
+      "title_en": null,
+      "title_zh": "Seeds | 触觉传感器市占率80%，他山科技再融数亿元",
+      "title_bilingual": "Seeds | 触觉传感器市占率80%，他山科技再融数亿元",
+      "topic_tags": []
+    },
+    {
+      "id": "a47dcda514264fb9232da1853c15f37f1ed6b8f3",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-销量",
+      "title": "Stellantis Q2出货量增10%背后：零跑在欧洲狂飙3.3万辆",
+      "url": "https://auto.gasgoo.com/news/202607/13I70465574C110.shtml",
+      "published_at": "2026-07-13T14:28:14Z",
+      "first_seen_at": "2026-07-14T08:34:46.306150Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
+      "title_original": "Stellantis Q2出货量增10%背后：零跑在欧洲狂飙3.3万辆",
+      "title_en": null,
+      "title_zh": "Stellantis Q2出货量增10%背后：零跑在欧洲狂飙3.3万辆",
+      "title_bilingual": "Stellantis Q2出货量增10%背后：零跑在欧洲狂飙3.3万辆",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "305f1bf7071ea632a84afcae636736a6b29938c0",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-销量",
+      "title": "宝马二季度全球交付量同比下滑5%",
+      "url": "https://auto.gasgoo.com/news/202607/13I70465573C110.shtml",
+      "published_at": "2026-07-13T14:14:40Z",
+      "first_seen_at": "2026-07-14T08:34:46.306150Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
+      "title_original": "宝马二季度全球交付量同比下滑5%",
+      "title_en": null,
+      "title_zh": "宝马二季度全球交付量同比下滑5%",
+      "title_bilingual": "宝马二季度全球交付量同比下滑5%",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争"
       ]
     },
     {
@@ -383,7 +811,7 @@
       "url": "https://cnevpost.com/2026/07/13/dongfeng-readies-canada-ev-push",
       "published_at": "2026-07-13T13:30:50Z",
       "first_seen_at": "2026-07-13T15:25:10.187956Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
       "title_original": "Dongfeng readies Canada EV push, eyes first 2 models next year",
       "title_en": "Dongfeng readies Canada EV push, eyes first 2 models next year",
       "title_zh": "东风准备在加拿大推广电动汽车，计划明年推出首批两款车型",
@@ -402,7 +830,7 @@
       "url": "https://cnevpost.com/2026/07/13/byd-denza-z-electric-supercar-pre-sales-china",
       "published_at": "2026-07-13T12:15:47Z",
       "first_seen_at": "2026-07-13T12:29:12.249985Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
       "title_original": "BYD Denza Z electric supercar starts pre-sales in China after Goodwood debut",
       "title_en": "BYD Denza Z electric supercar starts pre-sales in China after Goodwood debut",
       "title_zh": "比亚迪腾势Z电动超级跑车在古德伍德首发后在中国开始预售",
@@ -422,7 +850,7 @@
       "url": "https://auto.gasgoo.com/news/202607/13I70465567C107.shtml",
       "published_at": "2026-07-13T12:10:03Z",
       "first_seen_at": "2026-07-14T06:08:41.539766Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
       "title_original": "要来了！方程豹鲨鱼插混皮卡完成工信部申报",
       "title_en": null,
       "title_zh": "要来了！方程豹鲨鱼插混皮卡完成工信部申报",
@@ -441,7 +869,7 @@
       "url": "https://auto.gasgoo.com/news/202607/13I70465569C108.shtml",
       "published_at": "2026-07-13T12:08:35Z",
       "first_seen_at": "2026-07-14T06:08:41.539766Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
       "title_original": "【国际快讯】德国三大车企Q2在华销量大跌；全球主要车企单车利润集体下滑；韩国上半年新能源汽车销量占比首破50%",
       "title_en": null,
       "title_zh": "【国际快讯】德国三大车企Q2在华销量大跌；全球主要车企单车利润集体下滑；韩国上半年新能源汽车销量占比首破50%",
@@ -461,7 +889,7 @@
       "url": "https://auto.gasgoo.com/news/202607/13I70465562C110.shtml",
       "published_at": "2026-07-13T11:49:24Z",
       "first_seen_at": "2026-07-14T03:55:00.615976Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
       "title_original": "大众二季度全球交付量下滑8.6%",
       "title_en": null,
       "title_zh": "大众二季度全球交付量下滑8.6%",
@@ -480,7 +908,7 @@
       "url": "https://auto.gasgoo.com/news/202607/13I70465561C601.shtml",
       "published_at": "2026-07-13T11:37:01Z",
       "first_seen_at": "2026-07-14T03:55:00.615976Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
       "title_original": "Manifold AI流形空间与优必选达成战略合作",
       "title_en": null,
       "title_zh": "Manifold AI流形空间与优必选达成战略合作",
@@ -496,7 +924,7 @@
       "url": "https://auto.gasgoo.com/news/202607/13I70465560C109.shtml",
       "published_at": "2026-07-13T11:36:53Z",
       "first_seen_at": "2026-07-14T03:55:00.615976Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
       "title_original": "广汽2026上半年预亏40.6亿至45.7亿元",
       "title_en": null,
       "title_zh": "广汽2026上半年预亏40.6亿至45.7亿元",
@@ -514,7 +942,7 @@
       "url": "https://carnewschina.com/2026/07/13/byd-denza-z-electric-supercar-starts-at-100300-usd-domestically-but-cost-184800-usd-abroad",
       "published_at": "2026-07-13T11:26:04Z",
       "first_seen_at": "2026-07-13T12:29:12.249985Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
       "title_original": "BYD Denza Z electric supercar starts at 100,300 USD domestically but cost 184,800 USD abroad",
       "title_en": "BYD Denza Z electric supercar starts at 100,300 USD domestically but cost 184,800 USD abroad",
       "title_zh": "比亚迪腾势Z电动超级跑车国内起价100,300美元，国外售价184,800美元",
@@ -534,12 +962,32 @@
       "url": "https://auto.gasgoo.com/news/202607/13I70465559C601.shtml",
       "published_at": "2026-07-13T11:05:09Z",
       "first_seen_at": "2026-07-14T03:55:00.615976Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
       "title_original": "智在无界与灵心巧手达成战略合作",
       "title_en": null,
       "title_zh": "智在无界与灵心巧手达成战略合作",
       "title_bilingual": "智在无界与灵心巧手达成战略合作",
       "topic_tags": []
+    },
+    {
+      "id": "f1de966f943b5a13d38b7333a4455b0348caa4d0",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "BYD Tang ‘gives birth’ in flood as viral rear motor detachment rumor is disputed",
+      "url": "https://carnewschina.com/2026/07/13/byd-tang-gives-birth-in-deep-flood-as-viral-motor-detachment-rumor-is-debunked",
+      "published_at": "2026-07-13T10:56:32Z",
+      "first_seen_at": "2026-07-14T06:08:41.539766Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
+      "title_original": "BYD Tang ‘gives birth’ in flood as viral rear motor detachment rumor is disputed",
+      "title_en": "BYD Tang ‘gives birth’ in flood as viral rear motor detachment rumor is disputed",
+      "title_zh": "比亚迪唐在洪水中“产子” 后电机脱离传闻遭质疑",
+      "title_bilingual": "比亚迪唐在洪水中“产子” 后电机脱离传闻遭质疑 / BYD Tang ‘gives birth’ in flood as viral rear motor detachment rumor is disputed",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "供应链"
+      ]
     },
     {
       "id": "ccaf1697bfcfb8afec0cb27248aa98bdc0bd5acd",
@@ -562,26 +1010,6 @@
       ]
     },
     {
-      "id": "f1de966f943b5a13d38b7333a4455b0348caa4d0",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "BYD Tang ‘gives birth’ in flood as viral rear motor detachment rumor is disputed",
-      "url": "https://carnewschina.com/2026/07/13/byd-tang-gives-birth-in-deep-flood-as-viral-motor-detachment-rumor-is-debunked",
-      "published_at": "2026-07-13T10:56:32Z",
-      "first_seen_at": "2026-07-14T06:08:41.539766Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
-      "title_original": "BYD Tang ‘gives birth’ in flood as viral rear motor detachment rumor is disputed",
-      "title_en": "BYD Tang ‘gives birth’ in flood as viral rear motor detachment rumor is disputed",
-      "title_zh": "比亚迪唐在洪水中“产子” 后电机脱离传闻遭质疑",
-      "title_bilingual": "比亚迪唐在洪水中“产子” 后电机脱离传闻遭质疑 / BYD Tang ‘gives birth’ in flood as viral rear motor detachment rumor is disputed",
-      "topic_tags": [
-        "新能源",
-        "车企竞争",
-        "供应链"
-      ]
-    },
-    {
       "id": "02b4bc0534ae8144b376f40c373012b8d3df9bad",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -590,7 +1018,7 @@
       "url": "https://carnewschina.com/2026/07/13/chery-fulwin-a9-sedan-locks-18173-pre-sale-orders-within-72-hours-starts-17100-usd",
       "published_at": "2026-07-13T10:07:32Z",
       "first_seen_at": "2026-07-13T12:29:12.249985Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
       "title_original": "Chery Fulwin A9 sedan locks 18,173 pre-sale orders within 72 hours, starts 17,100 USD in China",
       "title_en": "Chery Fulwin A9 sedan locks 18,173 pre-sale orders within 72 hours, starts 17,100 USD in China",
       "title_zh": "奇瑞风云A9轿车72小时内锁定18,173份预售订单，国内起价17,100美元",
@@ -611,128 +1039,91 @@
       "url": "https://carnewschina.com/2026/07/13/chinas-10-million-population-hainan-province-to-become-first-to-ban-ice-vehicle-sales-by-2030",
       "published_at": "2026-07-13T09:38:37Z",
       "first_seen_at": "2026-07-13T09:52:54.891410Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
       "title_original": "China’s 10-million-population Hainan province to become first to ban ICE vehicle sales by 2030",
       "title_en": "China’s 10-million-population Hainan province to become first to ban ICE vehicle sales by 2030",
       "title_zh": "拥有1000万人口的中国海南省将于2030年成为第一个禁止销售内燃机汽车的省份",
       "title_bilingual": "拥有1000万人口的中国海南省将于2030年成为第一个禁止销售内燃机汽车的省份 / China’s 10-million-population Hainan province to become first to ban ICE vehicle sales by 2030",
       "topic_tags": [
         "新能源"
-      ]
-    },
-    {
-      "id": "dc83bc6d4ff64e72bdc09eeb8501519b8be51771",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "ByteDance said to weigh autonomous driving push as physical AI race heats up",
-      "url": "https://cnevpost.com/2026/07/13/bytedance-said-to-weigh-autonomous-driving-push",
-      "published_at": "2026-07-13T07:58:01Z",
-      "first_seen_at": "2026-07-13T09:52:54.891410Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
-      "title_original": "ByteDance said to weigh autonomous driving push as physical AI race heats up",
-      "title_en": "ByteDance said to weigh autonomous driving push as physical AI race heats up",
-      "title_zh": "随着物理人工智能竞赛的升温，字节跳动将权衡自动驾驶的推动力",
-      "title_bilingual": "随着物理人工智能竞赛的升温，字节跳动将权衡自动驾驶的推动力 / ByteDance said to weigh autonomous driving push as physical AI race heats up",
-      "topic_tags": [
-        "新能源",
-        "智能驾驶"
-      ]
-    },
-    {
-      "id": "a83954f1b8ed59cb374f297cca0fb2b4550d2d34",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "车市半年考：上汽夺回一位，三家车企海外增速翻倍",
-      "url": "https://auto.gasgoo.com/news/202607/13I70465289C108.shtml",
-      "published_at": "2026-07-13T07:05:19Z",
-      "first_seen_at": "2026-07-13T23:27:52.577740Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
-      "title_original": "车市半年考：上汽夺回一位，三家车企海外增速翻倍",
-      "title_en": null,
-      "title_zh": "车市半年考：上汽夺回一位，三家车企海外增速翻倍",
-      "title_bilingual": "车市半年考：上汽夺回一位，三家车企海外增速翻倍",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "ffcd771d86c4ad0f1f957586b1d4955e82b1752a",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-供应链",
-      "title": "碳关税锁喉，中国车何去何从？",
-      "url": "https://auto.gasgoo.com/news/202607/13I70464972C103.shtml",
-      "published_at": "2026-07-13T07:04:04Z",
-      "first_seen_at": "2026-07-13T23:27:52.577740Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
-      "title_original": "碳关税锁喉，中国车何去何从？",
-      "title_en": null,
-      "title_zh": "碳关税锁喉，中国车何去何从？",
-      "title_bilingual": "碳关税锁喉，中国车何去何从？",
-      "topic_tags": [
-        "供应链"
-      ]
-    },
-    {
-      "id": "a7d5e123ab3cac0509513afb76b4d1abc58530f7",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-供应链",
-      "title": "【盖世快讯】小米汽车称澎程不是子品牌；SK海力士CEO称2027年将迎史上最严重内存短缺",
-      "url": "https://auto.gasgoo.com/news/202607/13I70465456C501.shtml",
-      "published_at": "2026-07-13T07:00:14Z",
-      "first_seen_at": "2026-07-13T23:27:52.577740Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
-      "title_original": "【盖世快讯】小米汽车称澎程不是子品牌；SK海力士CEO称2027年将迎史上最严重内存短缺",
-      "title_en": null,
-      "title_zh": "【盖世快讯】小米汽车称澎程不是子品牌；SK海力士CEO称2027年将迎史上最严重内存短缺",
-      "title_bilingual": "【盖世快讯】小米汽车称澎程不是子品牌；SK海力士CEO称2027年将迎史上最严重内存短缺",
-      "topic_tags": [
-        "车企竞争",
-        "供应链"
-      ]
-    },
-    {
-      "id": "47a1ab68a2d8281c80fe7f2af8b1b0965bf77369",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Hainan reiterates 2030 gasoline-car sales ban in China first",
-      "url": "https://cnevpost.com/2026/07/13/hainan-reiterates-2030-gasoline-car-sales-ban",
-      "published_at": "2026-07-13T06:19:45Z",
-      "first_seen_at": "2026-07-13T09:52:54.891410Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
-      "title_original": "Hainan reiterates 2030 gasoline-car sales ban in China first",
-      "title_en": "Hainan reiterates 2030 gasoline-car sales ban in China first",
-      "title_zh": "海南首次重申2030年全国汽油车禁售",
-      "title_bilingual": "海南首次重申2030年全国汽油车禁售 / Hainan reiterates 2030 gasoline-car sales ban in China first",
-      "topic_tags": [
-        "新能源"
-      ]
-    },
-    {
-      "id": "f1af33343aa1aa9ec69eaa068abbc963f2f970a7",
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "juejin",
-      "title": "没写一行代码！我用 ChatGPT 5.6 (Sol) 做了一个智慧充电站 3D 大屏",
-      "url": "https://juejin.cn/post/7661160753004904448",
-      "published_at": "2026-07-13T06:14:46.191000Z",
-      "first_seen_at": "2026-07-13T06:14:33.097268Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
-      "title_original": "没写一行代码！我用 ChatGPT 5.6 (Sol) 做了一个智慧充电站 3D 大屏",
-      "title_en": null,
-      "title_zh": "没写一行代码！我用 ChatGPT 5.6 (Sol) 做了一个智慧充电站 3D 大屏",
-      "title_bilingual": "没写一行代码！我用 ChatGPT 5.6 (Sol) 做了一个智慧充电站 3D 大屏",
-      "topic_tags": [
-        "补能电池"
       ]
     }
   ],
   "items_ai": [
     {
+      "id": "a1305ab3b5c48a906189c826997b3dba551c81ce",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "懂车帝 · 文章排行榜",
+      "title": "试驾领克07 GT丨好开和不贵，真的只能二选一吗？",
+      "url": "https://www.dongchedi.com/article/7661940689467834904",
+      "published_at": null,
+      "first_seen_at": "2026-07-14T08:34:46.306150Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
+      "title_original": "试驾领克07 GT丨好开和不贵，真的只能二选一吗？",
+      "title_en": null,
+      "title_zh": "试驾领克07 GT丨好开和不贵，真的只能二选一吗？",
+      "title_bilingual": "试驾领克07 GT丨好开和不贵，真的只能二选一吗？",
+      "topic_tags": [
+        "购车决策"
+      ]
+    },
+    {
+      "id": "46a0e7527be851273984b6a563345ae25c4884b2",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "懂车帝 · 文章排行榜",
+      "title": "一锤定音：增程式电动车为什么不香了",
+      "url": "https://www.dongchedi.com/article/7660708181509636670",
+      "published_at": null,
+      "first_seen_at": "2026-07-14T08:34:46.306150Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
+      "title_original": "一锤定音：增程式电动车为什么不香了",
+      "title_en": null,
+      "title_zh": "一锤定音：增程式电动车为什么不香了",
+      "title_bilingual": "一锤定音：增程式电动车为什么不香了",
+      "topic_tags": [
+        "新能源"
+      ]
+    },
+    {
+      "id": "b64f93687dd82358a550cb096222315f48ec8d2c",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "New BYD Seal 08 sustains minor fender scuffs while Venucia D60 EV Plus suffers heavy front-end damage",
+      "url": "https://carnewschina.com/2026/07/14/new-byd-seal-08-sustains-minor-fender-scuffs-while-nissan-bluebird-suffers-heavy-front-end-damage",
+      "published_at": "2026-07-14T08:06:57Z",
+      "first_seen_at": "2026-07-14T08:34:46.306150Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
+      "title_original": "New BYD Seal 08 sustains minor fender scuffs while Venucia D60 EV Plus suffers heavy front-end damage",
+      "title_en": "New BYD Seal 08 sustains minor fender scuffs while Venucia D60 EV Plus suffers heavy front-end damage",
+      "title_zh": "新款比亚迪 Seal 08 挡泥板轻微磨损，启辰 D60 EV Plus 前端严重损坏",
+      "title_bilingual": "新款比亚迪 Seal 08 挡泥板轻微磨损，启辰 D60 EV Plus 前端严重损坏 / New BYD Seal 08 sustains minor fender scuffs while Venucia D60 EV Plus suffers heavy front-end damage",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "f7aa12832ff1f21fbbba6089cca150f1ddfa3a1a",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "China's NEV fleet climbs to 48.97 million as 2030 target comes into focus",
+      "url": "https://cnevpost.com/2026/07/14/china-nev-fleet-49-million",
+      "published_at": "2026-07-14T06:37:10Z",
+      "first_seen_at": "2026-07-14T08:34:46.306150Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
+      "title_original": "China's NEV fleet climbs to 48.97 million as 2030 target comes into focus",
+      "title_en": "China's NEV fleet climbs to 48.97 million as 2030 target comes into focus",
+      "title_zh": "2030年目标成焦点 中国新能源汽车保有量增至4897万辆",
+      "title_bilingual": "2030年目标成焦点 中国新能源汽车保有量增至4897万辆 / China's NEV fleet climbs to 48.97 million as 2030 target comes into focus",
+      "topic_tags": [
+        "新能源"
+      ]
+    },
+    {
       "id": "f2a68d8d1a44774c0be303a2660e5202d49f5df8",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -741,7 +1132,7 @@
       "url": "https://cnevpost.com/2026/07/14/zeekr-plans-malaysia-outlets-18-2026",
       "published_at": "2026-07-14T06:05:22Z",
       "first_seen_at": "2026-07-14T06:08:41.539766Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
       "title_original": "Zeekr plans to nearly double Malaysia outlets to 18 this year",
       "title_en": "Zeekr plans to nearly double Malaysia outlets to 18 this year",
       "title_zh": "Zeekr 计划今年将马来西亚门店数量增加近一倍至 18 家",
@@ -760,7 +1151,7 @@
       "url": "https://carnewschina.com/2026/07/14/chinese-bestseller-geely-ex2-launched-in-australia-at-18360-usd",
       "published_at": "2026-07-14T05:02:48Z",
       "first_seen_at": "2026-07-14T06:08:41.539766Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
       "title_original": "Chinese bestseller Geely EX2 launched in Australia at 18,360 USD",
       "title_en": "Chinese bestseller Geely EX2 launched in Australia at 18,360 USD",
       "title_zh": "中国畅销车吉利EX2在澳大利亚上市，售价18,360美元",
@@ -781,7 +1172,7 @@
       "url": "https://news.ycombinator.com/item?id=48901569",
       "published_at": "2026-07-14T03:55:13.688000Z",
       "first_seen_at": "2026-07-14T03:55:00.615976Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
       "title_original": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
       "title_en": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
       "title_zh": "日本开发出一种从废旧电动汽车电池中回收高达 90% 锂的方法",
@@ -800,7 +1191,7 @@
       "url": "https://cnevpost.com/2026/07/14/byd-thailand-deliveries-130000-local-plant-2nd-anniversary",
       "published_at": "2026-07-14T03:15:40Z",
       "first_seen_at": "2026-07-14T03:55:00.615976Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
       "title_original": "BYD Thailand deliveries surpass 130,000 as local plant marks second anniversary",
       "title_en": "BYD Thailand deliveries surpass 130,000 as local plant marks second anniversary",
       "title_zh": "比亚迪泰国工厂成立两周年 交付量突破13万辆",
@@ -821,7 +1212,7 @@
       "url": "https://news.ycombinator.com/item?id=48893550",
       "published_at": "2026-07-14T00:36:05.652000Z",
       "first_seen_at": "2026-07-14T00:53:56.648750Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
       "title_original": "Show HN: Hackney – Compare Uber, Lyft, Waymo, and Robotaxi Prices",
       "title_en": "Show HN: Hackney – Compare Uber, Lyft, Waymo, and Robotaxi Prices",
       "title_zh": "显示 HN：哈克尼 – 比较 Uber、Lyft、Waymo 和 Robotaxi 价格",
@@ -839,7 +1230,7 @@
       "url": "http://vc.yiche.com/vplay/12065454.html",
       "published_at": null,
       "first_seen_at": "2026-07-13T18:56:34.413065Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
       "title_original": "吉利又又又出新车了！",
       "title_en": null,
       "title_zh": "吉利又又又出新车了！",
@@ -858,7 +1249,7 @@
       "url": "http://vc.yiche.com/vplay/12040408.html",
       "published_at": null,
       "first_seen_at": "2026-07-13T18:56:34.413065Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
       "title_original": "小米官宣新品牌SkyNomad 增程SUV要打理想问界？",
       "title_en": null,
       "title_zh": "小米官宣新品牌SkyNomad 增程SUV要打理想问界？",
@@ -878,7 +1269,7 @@
       "url": "http://vc.yiche.com/vplay/12056620.html",
       "published_at": null,
       "first_seen_at": "2026-07-13T18:56:34.413065Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
       "title_original": "吉利星瑞L PLUS（FS21）首次实拍｜五米级旗舰轿车，中国品牌燃油车首搭激光雷达",
       "title_en": null,
       "title_zh": "吉利星瑞L PLUS（FS21）首次实拍｜五米级旗舰轿车，中国品牌燃油车首搭激光雷达",
@@ -897,7 +1288,7 @@
       "url": "http://vc.yiche.com/vplay/12081680.html",
       "published_at": null,
       "first_seen_at": "2026-07-13T18:56:34.413065Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
       "title_original": "兼顾城市通勤与旷野奔赴 抢先试驾大家庭方盒子长城H10",
       "title_en": null,
       "title_zh": "兼顾城市通勤与旷野奔赴 抢先试驾大家庭方盒子长城H10",
@@ -916,7 +1307,7 @@
       "url": "http://vc.yiche.com/vplay/12077669.html",
       "published_at": null,
       "first_seen_at": "2026-07-13T18:56:34.413065Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
       "title_original": "7月份吉利星愿真实行情分享，千万别买贵了！",
       "title_en": null,
       "title_zh": "7月份吉利星愿真实行情分享，千万别买贵了！",
@@ -934,7 +1325,7 @@
       "url": "https://i.autohome.com.cn/296748339",
       "published_at": null,
       "first_seen_at": "2026-07-13T17:28:59.841013Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
       "title_original": "冰箱彩电大沙发 理想i6提车作业分享",
       "title_en": null,
       "title_zh": "冰箱彩电大沙发 理想i6提车作业分享",
@@ -953,7 +1344,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/5a64db95fc94110b/115509382-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-13T17:28:59.841013Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
       "title_original": "家用很舒适 极氪007GT提车记分享",
       "title_en": null,
       "title_zh": "家用很舒适 极氪007GT提车记分享",
@@ -972,7 +1363,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/ed1404469197d7ac/115502848-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-13T17:28:59.841013Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
       "title_original": "销量和口碑不错 星瑞提车作业分享",
       "title_en": null,
       "title_zh": "销量和口碑不错 星瑞提车作业分享",
@@ -991,7 +1382,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/cc220e59372bf251/115498953-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-13T17:28:59.841013Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
       "title_original": "空间很满意 零跑D19提车作业分享",
       "title_en": null,
       "title_zh": "空间很满意 零跑D19提车作业分享",
@@ -1010,7 +1401,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/a497e89d0f89f0f5/115494608-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-13T17:28:59.841013Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
       "title_original": "我的梦中情车 QQ3 EV提车作业分享",
       "title_en": null,
       "title_zh": "我的梦中情车 QQ3 EV提车作业分享",
@@ -1029,13 +1420,364 @@
       "url": "https://club.autohome.com.cn/bbs/thread/7fa8fada4ca0ffe4/115476314-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-13T17:28:59.841013Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
       "title_original": "青年家用代步入手 iCAR V2提车分享",
       "title_en": null,
       "title_zh": "青年家用代步入手 iCAR V2提车分享",
       "title_bilingual": "青年家用代步入手 iCAR V2提车分享",
       "topic_tags": [
         "购车决策"
+      ]
+    },
+    {
+      "id": "a4f29f915f6f04b55e0c6d17c4a7cf3b9862141f",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-供应链",
+      "title": "科思创与比亚迪签署战略合作备忘录",
+      "url": "https://auto.gasgoo.com/news/202607/13I70465598C103.shtml",
+      "published_at": "2026-07-13T16:20:19Z",
+      "first_seen_at": "2026-07-14T08:34:46.306150Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
+      "title_original": "科思创与比亚迪签署战略合作备忘录",
+      "title_en": null,
+      "title_zh": "科思创与比亚迪签署战略合作备忘录",
+      "title_bilingual": "科思创与比亚迪签署战略合作备忘录",
+      "topic_tags": [
+        "车企竞争",
+        "供应链"
+      ]
+    },
+    {
+      "id": "50a77840df75d24d51251d0f5e965271dc0221d3",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "广汽半年预亏超40亿，传统车企转型的代价还在扩大",
+      "url": "https://auto.gasgoo.com/news/202607/13I70465570C109.shtml",
+      "published_at": "2026-07-13T16:00:36Z",
+      "first_seen_at": "2026-07-14T08:34:46.306150Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
+      "title_original": "广汽半年预亏超40亿，传统车企转型的代价还在扩大",
+      "title_en": null,
+      "title_zh": "广汽半年预亏超40亿，传统车企转型的代价还在扩大",
+      "title_bilingual": "广汽半年预亏超40亿，传统车企转型的代价还在扩大",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "9aa10303bc091277b6f540b160ba4f4ae80146b9",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "中国首个禁售燃油车省份确认",
+      "url": "https://auto.gasgoo.com/news/202607/13I70465590C108.shtml",
+      "published_at": "2026-07-13T15:29:40Z",
+      "first_seen_at": "2026-07-14T08:34:46.306150Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
+      "title_original": "中国首个禁售燃油车省份确认",
+      "title_en": null,
+      "title_zh": "中国首个禁售燃油车省份确认",
+      "title_bilingual": "中国首个禁售燃油车省份确认",
+      "topic_tags": []
+    },
+    {
+      "id": "c884d73c0c47a986bf7c43a44f735d6d1955bbaa",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新技术",
+      "title": "东丽推出用于航空航天高速制造的快速固化复合材料",
+      "url": "https://auto.gasgoo.com/news/202607/13I70465589C409.shtml",
+      "published_at": "2026-07-13T15:13:49Z",
+      "first_seen_at": "2026-07-14T08:34:46.306150Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
+      "title_original": "东丽推出用于航空航天高速制造的快速固化复合材料",
+      "title_en": null,
+      "title_zh": "东丽推出用于航空航天高速制造的快速固化复合材料",
+      "title_bilingual": "东丽推出用于航空航天高速制造的快速固化复合材料",
+      "topic_tags": [
+        "供应链"
+      ]
+    },
+    {
+      "id": "972244cf57d909f717a8ab0590230cdbc91ba245",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新技术",
+      "title": "韩国研究团队发明弹性层 助力硫化物固态电池现更长使用寿命",
+      "url": "https://auto.gasgoo.com/news/202607/13I70465588C409.shtml",
+      "published_at": "2026-07-13T15:12:28Z",
+      "first_seen_at": "2026-07-14T08:34:46.306150Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
+      "title_original": "韩国研究团队发明弹性层 助力硫化物固态电池现更长使用寿命",
+      "title_en": null,
+      "title_zh": "韩国研究团队发明弹性层 助力硫化物固态电池现更长使用寿命",
+      "title_bilingual": "韩国研究团队发明弹性层 助力硫化物固态电池现更长使用寿命",
+      "topic_tags": [
+        "补能电池"
+      ]
+    },
+    {
+      "id": "e5ec2299795e9375594ec8a6d22d56434757f5ea",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新技术",
+      "title": "大众与弗劳恩霍夫合作开发混合式装配自动化技术",
+      "url": "https://auto.gasgoo.com/news/202607/13I70465587C409.shtml",
+      "published_at": "2026-07-13T15:08:58Z",
+      "first_seen_at": "2026-07-14T08:34:46.306150Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
+      "title_original": "大众与弗劳恩霍夫合作开发混合式装配自动化技术",
+      "title_en": null,
+      "title_zh": "大众与弗劳恩霍夫合作开发混合式装配自动化技术",
+      "title_bilingual": "大众与弗劳恩霍夫合作开发混合式装配自动化技术",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "f873a84ce6afc61d7b33746bab187ed6d3355956",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新技术",
+      "title": "联合研究团队发明新款AI插件 助力开发者实现日常编程任务自动化",
+      "url": "https://auto.gasgoo.com/news/202607/13I70465586C409.shtml",
+      "published_at": "2026-07-13T15:07:02Z",
+      "first_seen_at": "2026-07-14T08:34:46.306150Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
+      "title_original": "联合研究团队发明新款AI插件 助力开发者实现日常编程任务自动化",
+      "title_en": null,
+      "title_zh": "联合研究团队发明新款AI插件 助力开发者实现日常编程任务自动化",
+      "title_bilingual": "联合研究团队发明新款AI插件 助力开发者实现日常编程任务自动化",
+      "topic_tags": []
+    },
+    {
+      "id": "e6ce9b00ec4fe93fab4124a1c8e12cd83eb737ef",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新技术",
+      "title": "无需极端冷却 耶鲁大学利用小型晶体管提升低成本热像仪的成像质量",
+      "url": "https://auto.gasgoo.com/news/202607/13I70465585C409.shtml",
+      "published_at": "2026-07-13T15:04:19Z",
+      "first_seen_at": "2026-07-14T08:34:46.306150Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
+      "title_original": "无需极端冷却 耶鲁大学利用小型晶体管提升低成本热像仪的成像质量",
+      "title_en": null,
+      "title_zh": "无需极端冷却 耶鲁大学利用小型晶体管提升低成本热像仪的成像质量",
+      "title_bilingual": "无需极端冷却 耶鲁大学利用小型晶体管提升低成本热像仪的成像质量",
+      "topic_tags": [
+        "召回安全"
+      ]
+    },
+    {
+      "id": "dae66707e2d11d9cfb913c2838ebad0e5e65eaca",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新技术",
+      "title": "福特汽车申请车辆外部控制器专利",
+      "url": "https://auto.gasgoo.com/news/202607/13I70465584C409.shtml",
+      "published_at": "2026-07-13T15:02:38Z",
+      "first_seen_at": "2026-07-14T08:34:46.306150Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
+      "title_original": "福特汽车申请车辆外部控制器专利",
+      "title_en": null,
+      "title_zh": "福特汽车申请车辆外部控制器专利",
+      "title_bilingual": "福特汽车申请车辆外部控制器专利",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "9d0f1742bb994ed9ffb8ac017e3a12cd848b2ad5",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新技术",
+      "title": "韩国浦项科技大学开发新技术 可将高带宽内存密度提高四倍",
+      "url": "https://auto.gasgoo.com/news/202607/13I70465583C409.shtml",
+      "published_at": "2026-07-13T15:00:39Z",
+      "first_seen_at": "2026-07-14T08:34:46.306150Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
+      "title_original": "韩国浦项科技大学开发新技术 可将高带宽内存密度提高四倍",
+      "title_en": null,
+      "title_zh": "韩国浦项科技大学开发新技术 可将高带宽内存密度提高四倍",
+      "title_bilingual": "韩国浦项科技大学开发新技术 可将高带宽内存密度提高四倍",
+      "topic_tags": []
+    },
+    {
+      "id": "b580376bcb4a822e78c17f394aab1b8318f7e262",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新技术",
+      "title": "萨斯喀彻温大学开发出人工智能新系统 提升计算机对世界的理解能力",
+      "url": "https://auto.gasgoo.com/news/202607/13I70465582C409.shtml",
+      "published_at": "2026-07-13T14:57:05Z",
+      "first_seen_at": "2026-07-14T08:34:46.306150Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
+      "title_original": "萨斯喀彻温大学开发出人工智能新系统 提升计算机对世界的理解能力",
+      "title_en": null,
+      "title_zh": "萨斯喀彻温大学开发出人工智能新系统 提升计算机对世界的理解能力",
+      "title_bilingual": "萨斯喀彻温大学开发出人工智能新系统 提升计算机对世界的理解能力",
+      "topic_tags": []
+    },
+    {
+      "id": "66d76a61aa6e574b0c055af02f75163338b37e8b",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新技术",
+      "title": "名古屋大学开发出掺镓氧化锌纳米片 可以缩小摄像头的同时保留高分辨率",
+      "url": "https://auto.gasgoo.com/news/202607/13I70465581C409.shtml",
+      "published_at": "2026-07-13T14:55:01Z",
+      "first_seen_at": "2026-07-14T08:34:46.306150Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
+      "title_original": "名古屋大学开发出掺镓氧化锌纳米片 可以缩小摄像头的同时保留高分辨率",
+      "title_en": null,
+      "title_zh": "名古屋大学开发出掺镓氧化锌纳米片 可以缩小摄像头的同时保留高分辨率",
+      "title_bilingual": "名古屋大学开发出掺镓氧化锌纳米片 可以缩小摄像头的同时保留高分辨率",
+      "topic_tags": []
+    },
+    {
+      "id": "9e5380bd181663bb57e653dbbbeece0015e8a6e8",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "又一家造车新势力诞生",
+      "url": "https://auto.gasgoo.com/news/202607/13I70465579C501.shtml",
+      "published_at": "2026-07-13T14:53:10Z",
+      "first_seen_at": "2026-07-14T08:34:46.306150Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
+      "title_original": "又一家造车新势力诞生",
+      "title_en": null,
+      "title_zh": "又一家造车新势力诞生",
+      "title_bilingual": "又一家造车新势力诞生",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "4a2c69e75a437b31cd7cc19b341efed42374ffa5",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新技术",
+      "title": "赫瑞瓦特大学研究人员开发出新型激光雷达 能以更高的精度和准确度对小型物体进行成像",
+      "url": "https://auto.gasgoo.com/news/202607/13I70465580C409.shtml",
+      "published_at": "2026-07-13T14:50:40Z",
+      "first_seen_at": "2026-07-14T08:34:46.306150Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
+      "title_original": "赫瑞瓦特大学研究人员开发出新型激光雷达 能以更高的精度和准确度对小型物体进行成像",
+      "title_en": null,
+      "title_zh": "赫瑞瓦特大学研究人员开发出新型激光雷达 能以更高的精度和准确度对小型物体进行成像",
+      "title_bilingual": "赫瑞瓦特大学研究人员开发出新型激光雷达 能以更高的精度和准确度对小型物体进行成像",
+      "topic_tags": [
+        "智能驾驶"
+      ]
+    },
+    {
+      "id": "96eabb738c83160afcf29e836c12c2c866fdef2d",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新技术",
+      "title": "研究团队开发能将能量储存在液体中的液流电池 有望加速绿色转型",
+      "url": "https://auto.gasgoo.com/news/202607/13I70465578C409.shtml",
+      "published_at": "2026-07-13T14:46:26Z",
+      "first_seen_at": "2026-07-14T08:34:46.306150Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
+      "title_original": "研究团队开发能将能量储存在液体中的液流电池 有望加速绿色转型",
+      "title_en": null,
+      "title_zh": "研究团队开发能将能量储存在液体中的液流电池 有望加速绿色转型",
+      "title_bilingual": "研究团队开发能将能量储存在液体中的液流电池 有望加速绿色转型",
+      "topic_tags": [
+        "补能电池"
+      ]
+    },
+    {
+      "id": "4b8c608212833751faa74e296a30d35555e18b3d",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新技术",
+      "title": "法拉第未来获得混合动力增程变速器系统专利",
+      "url": "https://auto.gasgoo.com/news/202607/13I70465577C409.shtml",
+      "published_at": "2026-07-13T14:44:18Z",
+      "first_seen_at": "2026-07-14T08:34:46.306150Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
+      "title_original": "法拉第未来获得混合动力增程变速器系统专利",
+      "title_en": null,
+      "title_zh": "法拉第未来获得混合动力增程变速器系统专利",
+      "title_bilingual": "法拉第未来获得混合动力增程变速器系统专利",
+      "topic_tags": [
+        "新能源"
+      ]
+    },
+    {
+      "id": "96be72ee77fc3c9d776972b2c698c27358f9ad5f",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新技术",
+      "title": "GIST开发出可在雨雾天气下保持“清晰视野”的激光雷达传感器涂层",
+      "url": "https://auto.gasgoo.com/news/202607/13I70465576C409.shtml",
+      "published_at": "2026-07-13T14:42:10Z",
+      "first_seen_at": "2026-07-14T08:34:46.306150Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
+      "title_original": "GIST开发出可在雨雾天气下保持“清晰视野”的激光雷达传感器涂层",
+      "title_en": null,
+      "title_zh": "GIST开发出可在雨雾天气下保持“清晰视野”的激光雷达传感器涂层",
+      "title_bilingual": "GIST开发出可在雨雾天气下保持“清晰视野”的激光雷达传感器涂层",
+      "topic_tags": [
+        "智能驾驶"
+      ]
+    },
+    {
+      "id": "995210751be2a31cd7af59f0afa64bc2dd767743",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "Seeds | 触觉传感器市占率80%，他山科技再融数亿元",
+      "url": "https://auto.gasgoo.com/news/202607/13I70465575C601.shtml",
+      "published_at": "2026-07-13T14:38:40Z",
+      "first_seen_at": "2026-07-14T08:34:46.306150Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
+      "title_original": "Seeds | 触觉传感器市占率80%，他山科技再融数亿元",
+      "title_en": null,
+      "title_zh": "Seeds | 触觉传感器市占率80%，他山科技再融数亿元",
+      "title_bilingual": "Seeds | 触觉传感器市占率80%，他山科技再融数亿元",
+      "topic_tags": []
+    },
+    {
+      "id": "a47dcda514264fb9232da1853c15f37f1ed6b8f3",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-销量",
+      "title": "Stellantis Q2出货量增10%背后：零跑在欧洲狂飙3.3万辆",
+      "url": "https://auto.gasgoo.com/news/202607/13I70465574C110.shtml",
+      "published_at": "2026-07-13T14:28:14Z",
+      "first_seen_at": "2026-07-14T08:34:46.306150Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
+      "title_original": "Stellantis Q2出货量增10%背后：零跑在欧洲狂飙3.3万辆",
+      "title_en": null,
+      "title_zh": "Stellantis Q2出货量增10%背后：零跑在欧洲狂飙3.3万辆",
+      "title_bilingual": "Stellantis Q2出货量增10%背后：零跑在欧洲狂飙3.3万辆",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "305f1bf7071ea632a84afcae636736a6b29938c0",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-销量",
+      "title": "宝马二季度全球交付量同比下滑5%",
+      "url": "https://auto.gasgoo.com/news/202607/13I70465573C110.shtml",
+      "published_at": "2026-07-13T14:14:40Z",
+      "first_seen_at": "2026-07-14T08:34:46.306150Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
+      "title_original": "宝马二季度全球交付量同比下滑5%",
+      "title_en": null,
+      "title_zh": "宝马二季度全球交付量同比下滑5%",
+      "title_bilingual": "宝马二季度全球交付量同比下滑5%",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争"
       ]
     },
     {
@@ -1047,7 +1789,7 @@
       "url": "https://cnevpost.com/2026/07/13/dongfeng-readies-canada-ev-push",
       "published_at": "2026-07-13T13:30:50Z",
       "first_seen_at": "2026-07-13T15:25:10.187956Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
       "title_original": "Dongfeng readies Canada EV push, eyes first 2 models next year",
       "title_en": "Dongfeng readies Canada EV push, eyes first 2 models next year",
       "title_zh": "东风准备在加拿大推广电动汽车，计划明年推出首批两款车型",
@@ -1066,7 +1808,7 @@
       "url": "https://cnevpost.com/2026/07/13/byd-denza-z-electric-supercar-pre-sales-china",
       "published_at": "2026-07-13T12:15:47Z",
       "first_seen_at": "2026-07-13T12:29:12.249985Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
       "title_original": "BYD Denza Z electric supercar starts pre-sales in China after Goodwood debut",
       "title_en": "BYD Denza Z electric supercar starts pre-sales in China after Goodwood debut",
       "title_zh": "比亚迪腾势Z电动超级跑车在古德伍德首发后在中国开始预售",
@@ -1086,7 +1828,7 @@
       "url": "https://auto.gasgoo.com/news/202607/13I70465567C107.shtml",
       "published_at": "2026-07-13T12:10:03Z",
       "first_seen_at": "2026-07-14T06:08:41.539766Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
       "title_original": "要来了！方程豹鲨鱼插混皮卡完成工信部申报",
       "title_en": null,
       "title_zh": "要来了！方程豹鲨鱼插混皮卡完成工信部申报",
@@ -1105,7 +1847,7 @@
       "url": "https://auto.gasgoo.com/news/202607/13I70465569C108.shtml",
       "published_at": "2026-07-13T12:08:35Z",
       "first_seen_at": "2026-07-14T06:08:41.539766Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
       "title_original": "【国际快讯】德国三大车企Q2在华销量大跌；全球主要车企单车利润集体下滑；韩国上半年新能源汽车销量占比首破50%",
       "title_en": null,
       "title_zh": "【国际快讯】德国三大车企Q2在华销量大跌；全球主要车企单车利润集体下滑；韩国上半年新能源汽车销量占比首破50%",
@@ -1125,7 +1867,7 @@
       "url": "https://auto.gasgoo.com/news/202607/13I70465562C110.shtml",
       "published_at": "2026-07-13T11:49:24Z",
       "first_seen_at": "2026-07-14T03:55:00.615976Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
       "title_original": "大众二季度全球交付量下滑8.6%",
       "title_en": null,
       "title_zh": "大众二季度全球交付量下滑8.6%",
@@ -1144,7 +1886,7 @@
       "url": "https://auto.gasgoo.com/news/202607/13I70465561C601.shtml",
       "published_at": "2026-07-13T11:37:01Z",
       "first_seen_at": "2026-07-14T03:55:00.615976Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
       "title_original": "Manifold AI流形空间与优必选达成战略合作",
       "title_en": null,
       "title_zh": "Manifold AI流形空间与优必选达成战略合作",
@@ -1160,7 +1902,7 @@
       "url": "https://auto.gasgoo.com/news/202607/13I70465560C109.shtml",
       "published_at": "2026-07-13T11:36:53Z",
       "first_seen_at": "2026-07-14T03:55:00.615976Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
       "title_original": "广汽2026上半年预亏40.6亿至45.7亿元",
       "title_en": null,
       "title_zh": "广汽2026上半年预亏40.6亿至45.7亿元",
@@ -1178,7 +1920,7 @@
       "url": "https://carnewschina.com/2026/07/13/byd-denza-z-electric-supercar-starts-at-100300-usd-domestically-but-cost-184800-usd-abroad",
       "published_at": "2026-07-13T11:26:04Z",
       "first_seen_at": "2026-07-13T12:29:12.249985Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
       "title_original": "BYD Denza Z electric supercar starts at 100,300 USD domestically but cost 184,800 USD abroad",
       "title_en": "BYD Denza Z electric supercar starts at 100,300 USD domestically but cost 184,800 USD abroad",
       "title_zh": "比亚迪腾势Z电动超级跑车国内起价100,300美元，国外售价184,800美元",
@@ -1198,12 +1940,32 @@
       "url": "https://auto.gasgoo.com/news/202607/13I70465559C601.shtml",
       "published_at": "2026-07-13T11:05:09Z",
       "first_seen_at": "2026-07-14T03:55:00.615976Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
       "title_original": "智在无界与灵心巧手达成战略合作",
       "title_en": null,
       "title_zh": "智在无界与灵心巧手达成战略合作",
       "title_bilingual": "智在无界与灵心巧手达成战略合作",
       "topic_tags": []
+    },
+    {
+      "id": "f1de966f943b5a13d38b7333a4455b0348caa4d0",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "BYD Tang ‘gives birth’ in flood as viral rear motor detachment rumor is disputed",
+      "url": "https://carnewschina.com/2026/07/13/byd-tang-gives-birth-in-deep-flood-as-viral-motor-detachment-rumor-is-debunked",
+      "published_at": "2026-07-13T10:56:32Z",
+      "first_seen_at": "2026-07-14T06:08:41.539766Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
+      "title_original": "BYD Tang ‘gives birth’ in flood as viral rear motor detachment rumor is disputed",
+      "title_en": "BYD Tang ‘gives birth’ in flood as viral rear motor detachment rumor is disputed",
+      "title_zh": "比亚迪唐在洪水中“产子” 后电机脱离传闻遭质疑",
+      "title_bilingual": "比亚迪唐在洪水中“产子” 后电机脱离传闻遭质疑 / BYD Tang ‘gives birth’ in flood as viral rear motor detachment rumor is disputed",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "供应链"
+      ]
     },
     {
       "id": "ccaf1697bfcfb8afec0cb27248aa98bdc0bd5acd",
@@ -1226,26 +1988,6 @@
       ]
     },
     {
-      "id": "f1de966f943b5a13d38b7333a4455b0348caa4d0",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "BYD Tang ‘gives birth’ in flood as viral rear motor detachment rumor is disputed",
-      "url": "https://carnewschina.com/2026/07/13/byd-tang-gives-birth-in-deep-flood-as-viral-motor-detachment-rumor-is-debunked",
-      "published_at": "2026-07-13T10:56:32Z",
-      "first_seen_at": "2026-07-14T06:08:41.539766Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
-      "title_original": "BYD Tang ‘gives birth’ in flood as viral rear motor detachment rumor is disputed",
-      "title_en": "BYD Tang ‘gives birth’ in flood as viral rear motor detachment rumor is disputed",
-      "title_zh": "比亚迪唐在洪水中“产子” 后电机脱离传闻遭质疑",
-      "title_bilingual": "比亚迪唐在洪水中“产子” 后电机脱离传闻遭质疑 / BYD Tang ‘gives birth’ in flood as viral rear motor detachment rumor is disputed",
-      "topic_tags": [
-        "新能源",
-        "车企竞争",
-        "供应链"
-      ]
-    },
-    {
       "id": "02b4bc0534ae8144b376f40c373012b8d3df9bad",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -1254,7 +1996,7 @@
       "url": "https://carnewschina.com/2026/07/13/chery-fulwin-a9-sedan-locks-18173-pre-sale-orders-within-72-hours-starts-17100-usd",
       "published_at": "2026-07-13T10:07:32Z",
       "first_seen_at": "2026-07-13T12:29:12.249985Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
       "title_original": "Chery Fulwin A9 sedan locks 18,173 pre-sale orders within 72 hours, starts 17,100 USD in China",
       "title_en": "Chery Fulwin A9 sedan locks 18,173 pre-sale orders within 72 hours, starts 17,100 USD in China",
       "title_zh": "奇瑞风云A9轿车72小时内锁定18,173份预售订单，国内起价17,100美元",
@@ -1275,123 +2017,13 @@
       "url": "https://carnewschina.com/2026/07/13/chinas-10-million-population-hainan-province-to-become-first-to-ban-ice-vehicle-sales-by-2030",
       "published_at": "2026-07-13T09:38:37Z",
       "first_seen_at": "2026-07-13T09:52:54.891410Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
+      "last_seen_at": "2026-07-14T08:34:46.306150Z",
       "title_original": "China’s 10-million-population Hainan province to become first to ban ICE vehicle sales by 2030",
       "title_en": "China’s 10-million-population Hainan province to become first to ban ICE vehicle sales by 2030",
       "title_zh": "拥有1000万人口的中国海南省将于2030年成为第一个禁止销售内燃机汽车的省份",
       "title_bilingual": "拥有1000万人口的中国海南省将于2030年成为第一个禁止销售内燃机汽车的省份 / China’s 10-million-population Hainan province to become first to ban ICE vehicle sales by 2030",
       "topic_tags": [
         "新能源"
-      ]
-    },
-    {
-      "id": "dc83bc6d4ff64e72bdc09eeb8501519b8be51771",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "ByteDance said to weigh autonomous driving push as physical AI race heats up",
-      "url": "https://cnevpost.com/2026/07/13/bytedance-said-to-weigh-autonomous-driving-push",
-      "published_at": "2026-07-13T07:58:01Z",
-      "first_seen_at": "2026-07-13T09:52:54.891410Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
-      "title_original": "ByteDance said to weigh autonomous driving push as physical AI race heats up",
-      "title_en": "ByteDance said to weigh autonomous driving push as physical AI race heats up",
-      "title_zh": "随着物理人工智能竞赛的升温，字节跳动将权衡自动驾驶的推动力",
-      "title_bilingual": "随着物理人工智能竞赛的升温，字节跳动将权衡自动驾驶的推动力 / ByteDance said to weigh autonomous driving push as physical AI race heats up",
-      "topic_tags": [
-        "新能源",
-        "智能驾驶"
-      ]
-    },
-    {
-      "id": "a83954f1b8ed59cb374f297cca0fb2b4550d2d34",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "车市半年考：上汽夺回一位，三家车企海外增速翻倍",
-      "url": "https://auto.gasgoo.com/news/202607/13I70465289C108.shtml",
-      "published_at": "2026-07-13T07:05:19Z",
-      "first_seen_at": "2026-07-13T23:27:52.577740Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
-      "title_original": "车市半年考：上汽夺回一位，三家车企海外增速翻倍",
-      "title_en": null,
-      "title_zh": "车市半年考：上汽夺回一位，三家车企海外增速翻倍",
-      "title_bilingual": "车市半年考：上汽夺回一位，三家车企海外增速翻倍",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "ffcd771d86c4ad0f1f957586b1d4955e82b1752a",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-供应链",
-      "title": "碳关税锁喉，中国车何去何从？",
-      "url": "https://auto.gasgoo.com/news/202607/13I70464972C103.shtml",
-      "published_at": "2026-07-13T07:04:04Z",
-      "first_seen_at": "2026-07-13T23:27:52.577740Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
-      "title_original": "碳关税锁喉，中国车何去何从？",
-      "title_en": null,
-      "title_zh": "碳关税锁喉，中国车何去何从？",
-      "title_bilingual": "碳关税锁喉，中国车何去何从？",
-      "topic_tags": [
-        "供应链"
-      ]
-    },
-    {
-      "id": "a7d5e123ab3cac0509513afb76b4d1abc58530f7",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-供应链",
-      "title": "【盖世快讯】小米汽车称澎程不是子品牌；SK海力士CEO称2027年将迎史上最严重内存短缺",
-      "url": "https://auto.gasgoo.com/news/202607/13I70465456C501.shtml",
-      "published_at": "2026-07-13T07:00:14Z",
-      "first_seen_at": "2026-07-13T23:27:52.577740Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
-      "title_original": "【盖世快讯】小米汽车称澎程不是子品牌；SK海力士CEO称2027年将迎史上最严重内存短缺",
-      "title_en": null,
-      "title_zh": "【盖世快讯】小米汽车称澎程不是子品牌；SK海力士CEO称2027年将迎史上最严重内存短缺",
-      "title_bilingual": "【盖世快讯】小米汽车称澎程不是子品牌；SK海力士CEO称2027年将迎史上最严重内存短缺",
-      "topic_tags": [
-        "车企竞争",
-        "供应链"
-      ]
-    },
-    {
-      "id": "47a1ab68a2d8281c80fe7f2af8b1b0965bf77369",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Hainan reiterates 2030 gasoline-car sales ban in China first",
-      "url": "https://cnevpost.com/2026/07/13/hainan-reiterates-2030-gasoline-car-sales-ban",
-      "published_at": "2026-07-13T06:19:45Z",
-      "first_seen_at": "2026-07-13T09:52:54.891410Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
-      "title_original": "Hainan reiterates 2030 gasoline-car sales ban in China first",
-      "title_en": "Hainan reiterates 2030 gasoline-car sales ban in China first",
-      "title_zh": "海南首次重申2030年全国汽油车禁售",
-      "title_bilingual": "海南首次重申2030年全国汽油车禁售 / Hainan reiterates 2030 gasoline-car sales ban in China first",
-      "topic_tags": [
-        "新能源"
-      ]
-    },
-    {
-      "id": "f1af33343aa1aa9ec69eaa068abbc963f2f970a7",
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "juejin",
-      "title": "没写一行代码！我用 ChatGPT 5.6 (Sol) 做了一个智慧充电站 3D 大屏",
-      "url": "https://juejin.cn/post/7661160753004904448",
-      "published_at": "2026-07-13T06:14:46.191000Z",
-      "first_seen_at": "2026-07-13T06:14:33.097268Z",
-      "last_seen_at": "2026-07-14T06:08:41.539766Z",
-      "title_original": "没写一行代码！我用 ChatGPT 5.6 (Sol) 做了一个智慧充电站 3D 大屏",
-      "title_en": null,
-      "title_zh": "没写一行代码！我用 ChatGPT 5.6 (Sol) 做了一个智慧充电站 3D 大屏",
-      "title_bilingual": "没写一行代码！我用 ChatGPT 5.6 (Sol) 做了一个智慧充电站 3D 大屏",
-      "topic_tags": [
-        "补能电池"
       ]
     }
   ],
