@@ -1,74 +1,128 @@
 {
-  "generated_at": "2026-07-18T00:53:55.760346Z",
+  "generated_at": "2026-07-18T03:52:46.834243Z",
   "window_hours": 24,
-  "total_items": 28,
-  "total_items_ai_raw": 30,
-  "total_items_raw": 3873,
-  "total_items_all_mode": 3452,
+  "total_items": 34,
+  "total_items_ai_raw": 39,
+  "total_items_raw": 3889,
+  "total_items_all_mode": 3464,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 72277,
+  "archive_total": 72817,
   "site_count": 3,
-  "source_count": 8,
+  "source_count": 12,
   "site_stats": [
     {
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "count": 18,
-      "raw_count": 20
+      "count": 23,
+      "raw_count": 28
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "count": 10,
-      "raw_count": 3690
+      "raw_count": 3697
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
-      "count": 0,
-      "raw_count": 163
+      "count": 1,
+      "raw_count": 164
     }
   ],
   "topic_tag_stats": [
     {
       "tag": "车企竞争",
-      "count": 21
+      "count": 20
     },
     {
       "tag": "新能源",
-      "count": 18
+      "count": 17
     },
     {
       "tag": "新车上市",
-      "count": 8
+      "count": 12
     },
     {
       "tag": "供应链",
-      "count": 7
+      "count": 10
     },
     {
       "tag": "补能电池",
-      "count": 6
+      "count": 5
+    },
+    {
+      "tag": "销量市场",
+      "count": 5
     },
     {
       "tag": "购车决策",
       "count": 4
     },
     {
-      "tag": "销量市场",
-      "count": 4
-    },
-    {
       "tag": "召回安全",
-      "count": 1
-    },
-    {
-      "tag": "智能驾驶",
       "count": 1
     }
   ],
   "items": [
     {
+      "id": "193676d3a272cb80777dbab07dbc9c10acdb09e9",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "BYD's Brazil plant sees 100,000th NEV roll off line as workforce tops 5,500",
+      "url": "https://cnevpost.com/2026/07/18/byd-brazil-plant-100000th-nev-workforce-5500",
+      "published_at": "2026-07-18T03:47:04Z",
+      "first_seen_at": "2026-07-18T03:52:46.834243Z",
+      "last_seen_at": "2026-07-18T03:52:46.834243Z",
+      "title_original": "BYD's Brazil plant sees 100,000th NEV roll off line as workforce tops 5,500",
+      "title_en": "BYD's Brazil plant sees 100,000th NEV roll off line as workforce tops 5,500",
+      "title_zh": "比亚迪巴西工厂第10万辆新能源汽车下线 员工人数突破5,500人",
+      "title_bilingual": "比亚迪巴西工厂第10万辆新能源汽车下线 员工人数突破5,500人 / BYD's Brazil plant sees 100,000th NEV roll off line as workforce tops 5,500",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "供应链"
+      ]
+    },
+    {
+      "id": "528370797410049f2ae68ea2ffa5d325005fac3f",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "juejin",
+      "title": "用 Kimi K3 交付一个真实项目后：很强，但还有不足",
+      "url": "https://juejin.cn/post/7663313773420462118",
+      "published_at": "2026-07-18T03:30:36.798000Z",
+      "first_seen_at": "2026-07-18T03:52:46.834243Z",
+      "last_seen_at": "2026-07-18T03:52:46.834243Z",
+      "title_original": "用 Kimi K3 交付一个真实项目后：很强，但还有不足",
+      "title_en": null,
+      "title_zh": "用 Kimi K3 交付一个真实项目后：很强，但还有不足",
+      "title_bilingual": "用 Kimi K3 交付一个真实项目后：很强，但还有不足",
+      "topic_tags": [
+        "销量市场"
+      ]
+    },
+    {
+      "id": "6c8df037ed613cded5d512ae5d72c12e13300900",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Leapmotor unveils interior of A05s, a sedan version of its popular A10",
+      "url": "https://carnewschina.com/2026/07/18/leapmotor-unveils-interior-of-a05s-a-sedan-version-of-its-popular-a10",
+      "published_at": "2026-07-18T01:27:28Z",
+      "first_seen_at": "2026-07-18T03:52:46.834243Z",
+      "last_seen_at": "2026-07-18T03:52:46.834243Z",
+      "title_original": "Leapmotor unveils interior of A05s, a sedan version of its popular A10",
+      "title_en": "Leapmotor unveils interior of A05s, a sedan version of its popular A10",
+      "title_zh": "零跑汽车推出A05s内饰，A05s是其受欢迎的A10的轿车版本",
+      "title_bilingual": "零跑汽车推出A05s内饰，A05s是其受欢迎的A10的轿车版本 / Leapmotor unveils interior of A05s, a sedan version of its popular A10",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
       "id": "7532a5a868e6bc37e1368d0a54b704da38d20b85",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -77,7 +131,7 @@
       "url": "http://vc.yiche.com/vplay/12112151.html",
       "published_at": null,
       "first_seen_at": "2026-07-17T19:03:10.367190Z",
-      "last_seen_at": "2026-07-18T00:53:55.760346Z",
+      "last_seen_at": "2026-07-18T03:52:46.834243Z",
       "title_original": "华境S vs 零跑D19，到底谁更胜一筹？",
       "title_en": null,
       "title_zh": "华境S vs 零跑D19，到底谁更胜一筹？",
@@ -95,7 +149,7 @@
       "url": "http://vc.yiche.com/vplay/12117618.html",
       "published_at": null,
       "first_seen_at": "2026-07-17T19:03:10.367190Z",
-      "last_seen_at": "2026-07-18T00:53:55.760346Z",
+      "last_seen_at": "2026-07-18T03:52:46.834243Z",
       "title_original": "比亚迪鲨鱼皮卡“豹鲨”来了，霸气吗？",
       "title_en": null,
       "title_zh": "比亚迪鲨鱼皮卡“豹鲨”来了，霸气吗？",
@@ -113,7 +167,7 @@
       "url": "http://vc.yiche.com/vplay/12099628.html",
       "published_at": null,
       "first_seen_at": "2026-07-17T19:03:10.367190Z",
-      "last_seen_at": "2026-07-18T00:53:55.760346Z",
+      "last_seen_at": "2026-07-18T03:52:46.834243Z",
       "title_original": "全新长大了的比亚迪海鸥要重新夺回销量王冠？ #比亚迪海鸥 #吉利星愿 #零跑A10 #A0级车",
       "title_en": null,
       "title_zh": "全新长大了的比亚迪海鸥要重新夺回销量王冠？ #比亚迪海鸥 #吉利星愿 #零跑A10 #A0级车",
@@ -132,7 +186,7 @@
       "url": "http://vc.yiche.com/vplay/12117863.html",
       "published_at": null,
       "first_seen_at": "2026-07-17T19:03:10.367190Z",
-      "last_seen_at": "2026-07-18T00:53:55.760346Z",
+      "last_seen_at": "2026-07-18T03:52:46.834243Z",
       "title_original": "吉利银河全新纯电轿跑 银河TT来了！",
       "title_en": null,
       "title_zh": "吉利银河全新纯电轿跑 银河TT来了！",
@@ -151,7 +205,7 @@
       "url": "http://vc.yiche.com/vplay/12091886.html",
       "published_at": null,
       "first_seen_at": "2026-07-17T19:03:10.367190Z",
-      "last_seen_at": "2026-07-18T00:53:55.760346Z",
+      "last_seen_at": "2026-07-18T03:52:46.834243Z",
       "title_original": "无里程焦虑的新能源，传祺M8 6月MPV销量冠军",
       "title_en": null,
       "title_zh": "无里程焦虑的新能源，传祺M8 6月MPV销量冠军",
@@ -171,7 +225,7 @@
       "url": "https://i.autohome.com.cn/18549562",
       "published_at": null,
       "first_seen_at": "2026-07-17T17:36:47.794053Z",
-      "last_seen_at": "2026-07-18T00:53:55.760346Z",
+      "last_seen_at": "2026-07-18T03:52:46.834243Z",
       "title_original": "越看越顺眼 小鹏GX提车作业分享",
       "title_en": null,
       "title_zh": "越看越顺眼 小鹏GX提车作业分享",
@@ -190,7 +244,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/949894651fd2a16b/115520064-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-17T17:36:47.794053Z",
-      "last_seen_at": "2026-07-18T00:53:55.760346Z",
+      "last_seen_at": "2026-07-18T03:52:46.834243Z",
       "title_original": "辨识度超高 理想L6提车作业分享",
       "title_en": null,
       "title_zh": "辨识度超高 理想L6提车作业分享",
@@ -209,7 +263,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/951624802535c35e/115516190-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-17T17:36:47.794053Z",
-      "last_seen_at": "2026-07-18T00:53:55.760346Z",
+      "last_seen_at": "2026-07-18T03:52:46.834243Z",
       "title_original": "没有里程焦虑 理想i6提车作业分享",
       "title_en": null,
       "title_zh": "没有里程焦虑 理想i6提车作业分享",
@@ -228,7 +282,7 @@
       "url": "https://carnewschina.com/2026/07/17/byd-da-han-reveals-massive-725-9-kg-battery-for-102-3-kwh-and-1008-km-range",
       "published_at": "2026-07-17T13:12:40Z",
       "first_seen_at": "2026-07-17T13:22:01.617112Z",
-      "last_seen_at": "2026-07-18T00:53:55.760346Z",
+      "last_seen_at": "2026-07-18T03:52:46.834243Z",
       "title_original": "BYD Da Han reveals massive 725.9 kg battery for 102.3 kWh and 1,008 km range",
       "title_en": "BYD Da Han reveals massive 725.9 kg battery for 102.3 kWh and 1,008 km range",
       "title_zh": "比亚迪大汉推出重725.9公斤的超大电池，容量为102.3千瓦时，续航里程为1,008公里",
@@ -248,13 +302,47 @@
       "url": "https://cnevpost.com/2026/07/17/avatr-starts-07l-pre-sales",
       "published_at": "2026-07-17T12:42:23Z",
       "first_seen_at": "2026-07-17T13:22:01.617112Z",
-      "last_seen_at": "2026-07-18T00:53:55.760346Z",
+      "last_seen_at": "2026-07-18T03:52:46.834243Z",
       "title_original": "Avatr starts 07L pre-sales in push for greater sales scale",
       "title_en": "Avatr starts 07L pre-sales in push for greater sales scale",
       "title_zh": "Avatr开启07L预售 推动更大销售规模",
       "title_bilingual": "Avatr开启07L预售 推动更大销售规模 / Avatr starts 07L pre-sales in push for greater sales scale",
       "topic_tags": [
         "新能源",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "7a5132253b6e11bfe7430b7d10695dd5d525da5e",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "聚焦“感算一体”，地瓜机器人与Bosch Sensortec达成合作",
+      "url": "https://auto.gasgoo.com/news/202607/17I70466237C601.shtml",
+      "published_at": "2026-07-17T11:51:05Z",
+      "first_seen_at": "2026-07-18T03:52:46.834243Z",
+      "last_seen_at": "2026-07-18T03:52:46.834243Z",
+      "title_original": "聚焦“感算一体”，地瓜机器人与Bosch Sensortec达成合作",
+      "title_en": null,
+      "title_zh": "聚焦“感算一体”，地瓜机器人与Bosch Sensortec达成合作",
+      "title_bilingual": "聚焦“感算一体”，地瓜机器人与Bosch Sensortec达成合作",
+      "topic_tags": []
+    },
+    {
+      "id": "c5e12540c7897978ab0ae5360c23183f172b9a61",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新车",
+      "title": "7月16日，魏牌V9X新增1.5T版本上市",
+      "url": "https://auto.gasgoo.com/news/202607/17I70466234C107.shtml",
+      "published_at": "2026-07-17T11:21:31Z",
+      "first_seen_at": "2026-07-18T03:52:46.834243Z",
+      "last_seen_at": "2026-07-18T03:52:46.834243Z",
+      "title_original": "7月16日，魏牌V9X新增1.5T版本上市",
+      "title_en": null,
+      "title_zh": "7月16日，魏牌V9X新增1.5T版本上市",
+      "title_bilingual": "7月16日，魏牌V9X新增1.5T版本上市",
+      "topic_tags": [
         "新车上市"
       ]
     },
@@ -267,7 +355,7 @@
       "url": "https://cnevpost.com/2026/07/17/nio-shenji-showcases-chips-waic-2026",
       "published_at": "2026-07-17T11:20:19Z",
       "first_seen_at": "2026-07-17T11:51:17.891337Z",
-      "last_seen_at": "2026-07-18T00:53:55.760346Z",
+      "last_seen_at": "2026-07-18T03:52:46.834243Z",
       "title_original": "Nio chip unit showcases multiple chips at WAIC 2026 in Shanghai",
       "title_en": "Nio chip unit showcases multiple chips at WAIC 2026 in Shanghai",
       "title_zh": "蔚来芯片部门在上海 WAIC 2026 展示多款芯片",
@@ -279,6 +367,98 @@
       ]
     },
     {
+      "id": "9abc67fb3f0b23560d7c32a1b5677081948d0495",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新车",
+      "title": "五菱的价格逻辑，不只是“便宜”",
+      "url": "https://auto.gasgoo.com/news/202607/17I70466232C107.shtml",
+      "published_at": "2026-07-17T11:16:59Z",
+      "first_seen_at": "2026-07-18T03:52:46.834243Z",
+      "last_seen_at": "2026-07-18T03:52:46.834243Z",
+      "title_original": "五菱的价格逻辑，不只是“便宜”",
+      "title_en": null,
+      "title_zh": "五菱的价格逻辑，不只是“便宜”",
+      "title_bilingual": "五菱的价格逻辑，不只是“便宜”",
+      "topic_tags": [
+        "新车上市"
+      ]
+    },
+    {
+      "id": "c88f65917b21287a595508d0d06941878183b26f",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "车市也有“疯狂星期四”，同日8场发布会7款新车",
+      "url": "https://auto.gasgoo.com/news/202607/17I70466225C108.shtml",
+      "published_at": "2026-07-17T11:06:26Z",
+      "first_seen_at": "2026-07-18T03:52:46.834243Z",
+      "last_seen_at": "2026-07-18T03:52:46.834243Z",
+      "title_original": "车市也有“疯狂星期四”，同日8场发布会7款新车",
+      "title_en": null,
+      "title_zh": "车市也有“疯狂星期四”，同日8场发布会7款新车",
+      "title_bilingual": "车市也有“疯狂星期四”，同日8场发布会7款新车",
+      "topic_tags": [
+        "新车上市"
+      ]
+    },
+    {
+      "id": "f520d8012ecd964c0658d66076f74bd48b0211be",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "Seeds | 美团领投、小米追投，曦诺未来又融了5个亿",
+      "url": "https://auto.gasgoo.com/news/202607/17I70466231C601.shtml",
+      "published_at": "2026-07-17T10:59:27Z",
+      "first_seen_at": "2026-07-18T03:52:46.834243Z",
+      "last_seen_at": "2026-07-18T03:52:46.834243Z",
+      "title_original": "Seeds | 美团领投、小米追投，曦诺未来又融了5个亿",
+      "title_en": null,
+      "title_zh": "Seeds | 美团领投、小米追投，曦诺未来又融了5个亿",
+      "title_bilingual": "Seeds | 美团领投、小米追投，曦诺未来又融了5个亿",
+      "topic_tags": []
+    },
+    {
+      "id": "4ac6d591962399205158bbb53ee3d269a76cfbd8",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新能源",
+      "title": "30万买百万级底盘，智己LS9 Hyper这次玩真的",
+      "url": "https://auto.gasgoo.com/news/202607/17I70466230C501.shtml",
+      "published_at": "2026-07-17T10:58:07Z",
+      "first_seen_at": "2026-07-18T03:52:46.834243Z",
+      "last_seen_at": "2026-07-18T03:52:46.834243Z",
+      "title_original": "30万买百万级底盘，智己LS9 Hyper这次玩真的",
+      "title_en": null,
+      "title_zh": "30万买百万级底盘，智己LS9 Hyper这次玩真的",
+      "title_bilingual": "30万买百万级底盘，智己LS9 Hyper这次玩真的",
+      "topic_tags": [
+        "新能源",
+        "供应链"
+      ]
+    },
+    {
+      "id": "8a0373be3dd0ae088ab2f7db198412a455bfa8a2",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "【国际快讯】本田将在美国市场停售电动车型；宝马任命新人力资源负责人推进降本举措；韩国6月汽车出口额同比增长6%",
+      "url": "https://auto.gasgoo.com/news/202607/17I70466228C501.shtml",
+      "published_at": "2026-07-17T10:29:34Z",
+      "first_seen_at": "2026-07-18T03:52:46.834243Z",
+      "last_seen_at": "2026-07-18T03:52:46.834243Z",
+      "title_original": "【国际快讯】本田将在美国市场停售电动车型；宝马任命新人力资源负责人推进降本举措；韩国6月汽车出口额同比增长6%",
+      "title_en": null,
+      "title_zh": "【国际快讯】本田将在美国市场停售电动车型；宝马任命新人力资源负责人推进降本举措；韩国6月汽车出口额同比增长6%",
+      "title_bilingual": "【国际快讯】本田将在美国市场停售电动车型；宝马任命新人力资源负责人推进降本举措；韩国6月汽车出口额同比增长6%",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
       "id": "c41e3f80235e81059be687a287655990b7175b1c",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -287,13 +467,31 @@
       "url": "https://cnevpost.com/2026/07/17/china-to-impose-consumption-tax-lithium-batteries",
       "published_at": "2026-07-17T09:04:33Z",
       "first_seen_at": "2026-07-17T10:17:14.501665Z",
-      "last_seen_at": "2026-07-18T00:53:55.760346Z",
+      "last_seen_at": "2026-07-18T03:52:46.834243Z",
       "title_original": "China to impose consumption tax on lithium batteries, exempting sodium-ion and solid-state cells",
       "title_en": "China to impose consumption tax on lithium batteries, exempting sodium-ion and solid-state cells",
       "title_zh": "中国将对锂电池征收消费税，钠离子电池和固态电池免征消费税",
       "title_bilingual": "中国将对锂电池征收消费税，钠离子电池和固态电池免征消费税 / China to impose consumption tax on lithium batteries, exempting sodium-ion and solid-state cells",
       "topic_tags": [
         "补能电池"
+      ]
+    },
+    {
+      "id": "ddc7000926e0698b5ff57a05183af1e558b2bfcd",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "WAIC 2026 | 具身智能机器人，首次杀入光模块高端制造",
+      "url": "https://auto.gasgoo.com/news/202607/17I70466216C601.shtml",
+      "published_at": "2026-07-17T09:00:35Z",
+      "first_seen_at": "2026-07-18T03:52:46.834243Z",
+      "last_seen_at": "2026-07-18T03:52:46.834243Z",
+      "title_original": "WAIC 2026 | 具身智能机器人，首次杀入光模块高端制造",
+      "title_en": null,
+      "title_zh": "WAIC 2026 | 具身智能机器人，首次杀入光模块高端制造",
+      "title_bilingual": "WAIC 2026 | 具身智能机器人，首次杀入光模块高端制造",
+      "topic_tags": [
+        "供应链"
       ]
     },
     {
@@ -305,7 +503,7 @@
       "url": "https://www.dongchedi.com/article/7662929879537271321",
       "published_at": null,
       "first_seen_at": "2026-07-17T08:05:34.554458Z",
-      "last_seen_at": "2026-07-18T00:53:55.760346Z",
+      "last_seen_at": "2026-07-18T03:52:46.834243Z",
       "title_original": "2026年二季度国内热销SUV质量排行",
       "title_en": null,
       "title_zh": "2026年二季度国内热销SUV质量排行",
@@ -324,7 +522,7 @@
       "url": "https://carnewschina.com/2026/07/17/rising-raw-material-costs-drag-down-china-automakers-profits",
       "published_at": "2026-07-17T07:30:23Z",
       "first_seen_at": "2026-07-17T08:05:34.554458Z",
-      "last_seen_at": "2026-07-18T00:53:55.760346Z",
+      "last_seen_at": "2026-07-18T03:52:46.834243Z",
       "title_original": "Rising raw material costs drag down China automakers’ profits",
       "title_en": "Rising raw material costs drag down China automakers’ profits",
       "title_zh": "原材料成本上涨拖累中国汽车制造商利润",
@@ -343,7 +541,7 @@
       "url": "https://auto.gasgoo.com/news/202607/17I70466133C103.shtml",
       "published_at": "2026-07-17T07:27:25Z",
       "first_seen_at": "2026-07-18T00:53:55.760346Z",
-      "last_seen_at": "2026-07-18T00:53:55.760346Z",
+      "last_seen_at": "2026-07-18T03:52:46.834243Z",
       "title_original": "从摩托车企向上跃升，看汽车供应链新机遇",
       "title_en": null,
       "title_zh": "从摩托车企向上跃升，看汽车供应链新机遇",
@@ -362,7 +560,7 @@
       "url": "https://auto.gasgoo.com/news/202607/17I70466096C501.shtml",
       "published_at": "2026-07-17T07:00:18Z",
       "first_seen_at": "2026-07-17T23:22:23.804791Z",
-      "last_seen_at": "2026-07-18T00:53:55.760346Z",
+      "last_seen_at": "2026-07-18T03:52:46.834243Z",
       "title_original": "【盖世快讯】比亚迪泰国市场累计交付突破13万辆；智己官方回应多地经销商陷经营危机",
       "title_en": null,
       "title_zh": "【盖世快讯】比亚迪泰国市场累计交付突破13万辆；智己官方回应多地经销商陷经营危机",
@@ -382,7 +580,7 @@
       "url": "https://cnevpost.com/2026/07/17/leapmotor-reveals-a05s-interior",
       "published_at": "2026-07-17T06:57:30Z",
       "first_seen_at": "2026-07-17T08:05:34.554458Z",
-      "last_seen_at": "2026-07-18T00:53:55.760346Z",
+      "last_seen_at": "2026-07-18T03:52:46.834243Z",
       "title_original": "Leapmotor reveals A05s interior for first time as compact EV nears launch",
       "title_en": "Leapmotor reveals A05s interior for first time as compact EV nears launch",
       "title_zh": "零跑汽车首次展示A05内饰 紧凑型电动车即将上市",
@@ -402,7 +600,7 @@
       "url": "https://cnevpost.com/2026/07/17/byd-denza-previews-z9s",
       "published_at": "2026-07-17T05:56:07Z",
       "first_seen_at": "2026-07-17T08:05:34.554458Z",
-      "last_seen_at": "2026-07-18T00:53:55.760346Z",
+      "last_seen_at": "2026-07-18T03:52:46.834243Z",
       "title_original": "BYD Denza previews Z9S sedan, expanding product lineup",
       "title_en": "BYD Denza previews Z9S sedan, expanding product lineup",
       "title_zh": "比亚迪腾势Z9S轿车预览，扩大产品阵容",
@@ -441,7 +639,7 @@
       "url": "https://carnewschina.com/2026/07/17/denza-z9s-officially-revealed-with-1194-hp-tri-motor-powertrain-and-920-km-range",
       "published_at": "2026-07-17T05:37:54Z",
       "first_seen_at": "2026-07-17T05:40:21.434530Z",
-      "last_seen_at": "2026-07-18T00:53:55.760346Z",
+      "last_seen_at": "2026-07-18T03:52:46.834243Z",
       "title_original": "BYD’s Denza Z9S officially revealed with 1194 hp tri-motor powertrain and 920 km range",
       "title_en": "BYD’s Denza Z9S officially revealed with 1194 hp tri-motor powertrain and 920 km range",
       "title_zh": "比亚迪腾势Z9S正式亮相 1194马力三电机动力总成 续航920公里",
@@ -463,7 +661,7 @@
       "url": "https://cnevpost.com/2026/07/17/nio-firefly-unveils-halo-series-first-model-jul-20",
       "published_at": "2026-07-17T05:03:21Z",
       "first_seen_at": "2026-07-17T05:40:21.434530Z",
-      "last_seen_at": "2026-07-18T00:53:55.760346Z",
+      "last_seen_at": "2026-07-18T03:52:46.834243Z",
       "title_original": "Nio Firefly unveils new Halo series, first model to debut on July 20",
       "title_en": "Nio Firefly unveils new Halo series, first model to debut on July 20",
       "title_zh": "蔚来Firefly推出全新Halo系列，首款车型7月20日首发",
@@ -483,7 +681,7 @@
       "url": "https://carnewschina.com/2026/07/17/byd-unveiled-8-series-tang-ev-with-claimed-800-km-range-and-300-kw-motor",
       "published_at": "2026-07-17T04:25:55Z",
       "first_seen_at": "2026-07-17T10:17:14.501665Z",
-      "last_seen_at": "2026-07-18T00:53:55.760346Z",
+      "last_seen_at": "2026-07-18T03:52:46.834243Z",
       "title_original": "BYD unveiled 8 Series Tang EV with 250 km/h top-speed, 800 km range and 300 kW motor",
       "title_en": "BYD unveiled 8 Series Tang EV with 250 km/h top-speed, 800 km range and 300 kW motor",
       "title_zh": "比亚迪推出8系唐EV，最高时速250公里，续航里程800公里，电机300千瓦",
@@ -514,109 +712,69 @@
         "补能电池",
         "车企竞争",
         "供应链"
-      ]
-    },
-    {
-      "id": "173dd274aef7d4ef65e31cfd4ec3807f3b58abd3",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Updated Lynk & Co 02 to be the first car with Geely’s 16-in-1 electric drive",
-      "url": "https://carnewschina.com/2026/07/17/updated-lynk-co-02-to-be-the-first-car-with-geelys-16-in-1-electric-drive",
-      "published_at": "2026-07-17T03:47:37Z",
-      "first_seen_at": "2026-07-17T05:40:21.434530Z",
-      "last_seen_at": "2026-07-18T00:53:55.760346Z",
-      "title_original": "Updated Lynk & Co 02 to be the first car with Geely’s 16-in-1 electric drive",
-      "title_en": "Updated Lynk & Co 02 to be the first car with Geely’s 16-in-1 electric drive",
-      "title_zh": "更新领克02，成为吉利首款搭载16合1电动驱动的汽车",
-      "title_bilingual": "更新领克02，成为吉利首款搭载16合1电动驱动的汽车 / Updated Lynk & Co 02 to be the first car with Geely’s 16-in-1 electric drive",
-      "topic_tags": [
-        "新能源",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "f2b41dbdec74e64842079b320369f854315afcd5",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Leapmotor sticks to 1 million sales target despite 35.6% completion rate at half-year mark",
-      "url": "https://cnevpost.com/2026/07/17/leapmotor-sticks-to-1-million-2026-sales-target",
-      "published_at": "2026-07-17T03:43:06Z",
-      "first_seen_at": "2026-07-17T05:40:21.434530Z",
-      "last_seen_at": "2026-07-18T00:53:55.760346Z",
-      "title_original": "Leapmotor sticks to 1 million sales target despite 35.6% completion rate at half-year mark",
-      "title_en": "Leapmotor sticks to 1 million sales target despite 35.6% completion rate at half-year mark",
-      "title_zh": "半跑完成率35.6% 零跑汽车坚守100万辆目标",
-      "title_bilingual": "半跑完成率35.6% 零跑汽车坚守100万辆目标 / Leapmotor sticks to 1 million sales target despite 35.6% completion rate at half-year mark",
-      "topic_tags": [
-        "新能源",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "d685b7de664195801f86b1639cc6b7344db40801",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "BYD teases new 8-series Tang SUV with over 800 km of battery range",
-      "url": "https://cnevpost.com/2026/07/17/byd-teases-8-series-tang-800-km-range",
-      "published_at": "2026-07-17T02:55:26Z",
-      "first_seen_at": "2026-07-17T05:40:21.434530Z",
-      "last_seen_at": "2026-07-18T00:53:55.760346Z",
-      "title_original": "BYD teases new 8-series Tang SUV with over 800 km of battery range",
-      "title_en": "BYD teases new 8-series Tang SUV with over 800 km of battery range",
-      "title_zh": "比亚迪推出新款8系唐SUV，续航里程超过800公里",
-      "title_bilingual": "比亚迪推出新款8系唐SUV，续航里程超过800公里 / BYD teases new 8-series Tang SUV with over 800 km of battery range",
-      "topic_tags": [
-        "新能源",
-        "补能电池",
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "68711cbbbe25b0cec1e7335879140db830ae33c2",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Baidu Apollo Go to enter Kazakhstan in China robotaxi's first Central Asia foray",
-      "url": "https://cnevpost.com/2026/07/17/baidu-apollo-go-to-enter-kazakhstan",
-      "published_at": "2026-07-17T02:17:30Z",
-      "first_seen_at": "2026-07-17T02:45:59.368095Z",
-      "last_seen_at": "2026-07-18T00:53:55.760346Z",
-      "title_original": "Baidu Apollo Go to enter Kazakhstan in China robotaxi's first Central Asia foray",
-      "title_en": "Baidu Apollo Go to enter Kazakhstan in China robotaxi's first Central Asia foray",
-      "title_zh": "百度Apollo Go进军哈萨克斯坦，中国机器人出租车首次进军中亚",
-      "title_bilingual": "百度Apollo Go进军哈萨克斯坦，中国机器人出租车首次进军中亚 / Baidu Apollo Go to enter Kazakhstan in China robotaxi's first Central Asia foray",
-      "topic_tags": [
-        "新能源",
-        "智能驾驶"
-      ]
-    },
-    {
-      "id": "b9454adc6a6d4b4fbcc4575c52a4c647eaa307db",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Leapmotor brings 800V tech to the 15,000 USD segment, claims rivals won’t catch up until next year",
-      "url": "https://carnewschina.com/2026/07/17/leapmotor-brings-800v-tech-to-the-15000-usd-segment-claims-rivals-wont-catch-up-until-next-year",
-      "published_at": "2026-07-17T01:16:44Z",
-      "first_seen_at": "2026-07-17T02:45:59.368095Z",
-      "last_seen_at": "2026-07-18T00:53:55.760346Z",
-      "title_original": "Leapmotor brings 800V tech to the 15,000 USD segment, claims rivals won’t catch up until next year",
-      "title_en": "Leapmotor brings 800V tech to the 15,000 USD segment, claims rivals won’t catch up until next year",
-      "title_zh": "零跑汽车将 800V 技术引入 15,000 美元细分市场，声称竞争对手要到明年才能赶上",
-      "title_bilingual": "零跑汽车将 800V 技术引入 15,000 美元细分市场，声称竞争对手要到明年才能赶上 / Leapmotor brings 800V tech to the 15,000 USD segment, claims rivals won’t catch up until next year",
-      "topic_tags": [
-        "新能源",
-        "销量市场",
-        "车企竞争"
       ]
     }
   ],
   "items_ai": [
     {
+      "id": "193676d3a272cb80777dbab07dbc9c10acdb09e9",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "BYD's Brazil plant sees 100,000th NEV roll off line as workforce tops 5,500",
+      "url": "https://cnevpost.com/2026/07/18/byd-brazil-plant-100000th-nev-workforce-5500",
+      "published_at": "2026-07-18T03:47:04Z",
+      "first_seen_at": "2026-07-18T03:52:46.834243Z",
+      "last_seen_at": "2026-07-18T03:52:46.834243Z",
+      "title_original": "BYD's Brazil plant sees 100,000th NEV roll off line as workforce tops 5,500",
+      "title_en": "BYD's Brazil plant sees 100,000th NEV roll off line as workforce tops 5,500",
+      "title_zh": "比亚迪巴西工厂第10万辆新能源汽车下线 员工人数突破5,500人",
+      "title_bilingual": "比亚迪巴西工厂第10万辆新能源汽车下线 员工人数突破5,500人 / BYD's Brazil plant sees 100,000th NEV roll off line as workforce tops 5,500",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "供应链"
+      ]
+    },
+    {
+      "id": "528370797410049f2ae68ea2ffa5d325005fac3f",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "juejin",
+      "title": "用 Kimi K3 交付一个真实项目后：很强，但还有不足",
+      "url": "https://juejin.cn/post/7663313773420462118",
+      "published_at": "2026-07-18T03:30:36.798000Z",
+      "first_seen_at": "2026-07-18T03:52:46.834243Z",
+      "last_seen_at": "2026-07-18T03:52:46.834243Z",
+      "title_original": "用 Kimi K3 交付一个真实项目后：很强，但还有不足",
+      "title_en": null,
+      "title_zh": "用 Kimi K3 交付一个真实项目后：很强，但还有不足",
+      "title_bilingual": "用 Kimi K3 交付一个真实项目后：很强，但还有不足",
+      "topic_tags": [
+        "销量市场"
+      ]
+    },
+    {
+      "id": "6c8df037ed613cded5d512ae5d72c12e13300900",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Leapmotor unveils interior of A05s, a sedan version of its popular A10",
+      "url": "https://carnewschina.com/2026/07/18/leapmotor-unveils-interior-of-a05s-a-sedan-version-of-its-popular-a10",
+      "published_at": "2026-07-18T01:27:28Z",
+      "first_seen_at": "2026-07-18T03:52:46.834243Z",
+      "last_seen_at": "2026-07-18T03:52:46.834243Z",
+      "title_original": "Leapmotor unveils interior of A05s, a sedan version of its popular A10",
+      "title_en": "Leapmotor unveils interior of A05s, a sedan version of its popular A10",
+      "title_zh": "零跑汽车推出A05s内饰，A05s是其受欢迎的A10的轿车版本",
+      "title_bilingual": "零跑汽车推出A05s内饰，A05s是其受欢迎的A10的轿车版本 / Leapmotor unveils interior of A05s, a sedan version of its popular A10",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
       "id": "7532a5a868e6bc37e1368d0a54b704da38d20b85",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -625,7 +783,7 @@
       "url": "http://vc.yiche.com/vplay/12112151.html",
       "published_at": null,
       "first_seen_at": "2026-07-17T19:03:10.367190Z",
-      "last_seen_at": "2026-07-18T00:53:55.760346Z",
+      "last_seen_at": "2026-07-18T03:52:46.834243Z",
       "title_original": "华境S vs 零跑D19，到底谁更胜一筹？",
       "title_en": null,
       "title_zh": "华境S vs 零跑D19，到底谁更胜一筹？",
@@ -643,7 +801,7 @@
       "url": "http://vc.yiche.com/vplay/12117618.html",
       "published_at": null,
       "first_seen_at": "2026-07-17T19:03:10.367190Z",
-      "last_seen_at": "2026-07-18T00:53:55.760346Z",
+      "last_seen_at": "2026-07-18T03:52:46.834243Z",
       "title_original": "比亚迪鲨鱼皮卡“豹鲨”来了，霸气吗？",
       "title_en": null,
       "title_zh": "比亚迪鲨鱼皮卡“豹鲨”来了，霸气吗？",
@@ -661,7 +819,7 @@
       "url": "http://vc.yiche.com/vplay/12099628.html",
       "published_at": null,
       "first_seen_at": "2026-07-17T19:03:10.367190Z",
-      "last_seen_at": "2026-07-18T00:53:55.760346Z",
+      "last_seen_at": "2026-07-18T03:52:46.834243Z",
       "title_original": "全新长大了的比亚迪海鸥要重新夺回销量王冠？ #比亚迪海鸥 #吉利星愿 #零跑A10 #A0级车",
       "title_en": null,
       "title_zh": "全新长大了的比亚迪海鸥要重新夺回销量王冠？ #比亚迪海鸥 #吉利星愿 #零跑A10 #A0级车",
@@ -680,7 +838,7 @@
       "url": "http://vc.yiche.com/vplay/12117863.html",
       "published_at": null,
       "first_seen_at": "2026-07-17T19:03:10.367190Z",
-      "last_seen_at": "2026-07-18T00:53:55.760346Z",
+      "last_seen_at": "2026-07-18T03:52:46.834243Z",
       "title_original": "吉利银河全新纯电轿跑 银河TT来了！",
       "title_en": null,
       "title_zh": "吉利银河全新纯电轿跑 银河TT来了！",
@@ -699,7 +857,7 @@
       "url": "http://vc.yiche.com/vplay/12091886.html",
       "published_at": null,
       "first_seen_at": "2026-07-17T19:03:10.367190Z",
-      "last_seen_at": "2026-07-18T00:53:55.760346Z",
+      "last_seen_at": "2026-07-18T03:52:46.834243Z",
       "title_original": "无里程焦虑的新能源，传祺M8 6月MPV销量冠军",
       "title_en": null,
       "title_zh": "无里程焦虑的新能源，传祺M8 6月MPV销量冠军",
@@ -719,7 +877,7 @@
       "url": "https://i.autohome.com.cn/18549562",
       "published_at": null,
       "first_seen_at": "2026-07-17T17:36:47.794053Z",
-      "last_seen_at": "2026-07-18T00:53:55.760346Z",
+      "last_seen_at": "2026-07-18T03:52:46.834243Z",
       "title_original": "越看越顺眼 小鹏GX提车作业分享",
       "title_en": null,
       "title_zh": "越看越顺眼 小鹏GX提车作业分享",
@@ -738,7 +896,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/949894651fd2a16b/115520064-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-17T17:36:47.794053Z",
-      "last_seen_at": "2026-07-18T00:53:55.760346Z",
+      "last_seen_at": "2026-07-18T03:52:46.834243Z",
       "title_original": "辨识度超高 理想L6提车作业分享",
       "title_en": null,
       "title_zh": "辨识度超高 理想L6提车作业分享",
@@ -757,7 +915,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/951624802535c35e/115516190-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-17T17:36:47.794053Z",
-      "last_seen_at": "2026-07-18T00:53:55.760346Z",
+      "last_seen_at": "2026-07-18T03:52:46.834243Z",
       "title_original": "没有里程焦虑 理想i6提车作业分享",
       "title_en": null,
       "title_zh": "没有里程焦虑 理想i6提车作业分享",
@@ -776,7 +934,7 @@
       "url": "https://carnewschina.com/2026/07/17/byd-da-han-reveals-massive-725-9-kg-battery-for-102-3-kwh-and-1008-km-range",
       "published_at": "2026-07-17T13:12:40Z",
       "first_seen_at": "2026-07-17T13:22:01.617112Z",
-      "last_seen_at": "2026-07-18T00:53:55.760346Z",
+      "last_seen_at": "2026-07-18T03:52:46.834243Z",
       "title_original": "BYD Da Han reveals massive 725.9 kg battery for 102.3 kWh and 1,008 km range",
       "title_en": "BYD Da Han reveals massive 725.9 kg battery for 102.3 kWh and 1,008 km range",
       "title_zh": "比亚迪大汉推出重725.9公斤的超大电池，容量为102.3千瓦时，续航里程为1,008公里",
@@ -796,13 +954,47 @@
       "url": "https://cnevpost.com/2026/07/17/avatr-starts-07l-pre-sales",
       "published_at": "2026-07-17T12:42:23Z",
       "first_seen_at": "2026-07-17T13:22:01.617112Z",
-      "last_seen_at": "2026-07-18T00:53:55.760346Z",
+      "last_seen_at": "2026-07-18T03:52:46.834243Z",
       "title_original": "Avatr starts 07L pre-sales in push for greater sales scale",
       "title_en": "Avatr starts 07L pre-sales in push for greater sales scale",
       "title_zh": "Avatr开启07L预售 推动更大销售规模",
       "title_bilingual": "Avatr开启07L预售 推动更大销售规模 / Avatr starts 07L pre-sales in push for greater sales scale",
       "topic_tags": [
         "新能源",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "7a5132253b6e11bfe7430b7d10695dd5d525da5e",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "聚焦“感算一体”，地瓜机器人与Bosch Sensortec达成合作",
+      "url": "https://auto.gasgoo.com/news/202607/17I70466237C601.shtml",
+      "published_at": "2026-07-17T11:51:05Z",
+      "first_seen_at": "2026-07-18T03:52:46.834243Z",
+      "last_seen_at": "2026-07-18T03:52:46.834243Z",
+      "title_original": "聚焦“感算一体”，地瓜机器人与Bosch Sensortec达成合作",
+      "title_en": null,
+      "title_zh": "聚焦“感算一体”，地瓜机器人与Bosch Sensortec达成合作",
+      "title_bilingual": "聚焦“感算一体”，地瓜机器人与Bosch Sensortec达成合作",
+      "topic_tags": []
+    },
+    {
+      "id": "c5e12540c7897978ab0ae5360c23183f172b9a61",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新车",
+      "title": "7月16日，魏牌V9X新增1.5T版本上市",
+      "url": "https://auto.gasgoo.com/news/202607/17I70466234C107.shtml",
+      "published_at": "2026-07-17T11:21:31Z",
+      "first_seen_at": "2026-07-18T03:52:46.834243Z",
+      "last_seen_at": "2026-07-18T03:52:46.834243Z",
+      "title_original": "7月16日，魏牌V9X新增1.5T版本上市",
+      "title_en": null,
+      "title_zh": "7月16日，魏牌V9X新增1.5T版本上市",
+      "title_bilingual": "7月16日，魏牌V9X新增1.5T版本上市",
+      "topic_tags": [
         "新车上市"
       ]
     },
@@ -815,7 +1007,7 @@
       "url": "https://cnevpost.com/2026/07/17/nio-shenji-showcases-chips-waic-2026",
       "published_at": "2026-07-17T11:20:19Z",
       "first_seen_at": "2026-07-17T11:51:17.891337Z",
-      "last_seen_at": "2026-07-18T00:53:55.760346Z",
+      "last_seen_at": "2026-07-18T03:52:46.834243Z",
       "title_original": "Nio chip unit showcases multiple chips at WAIC 2026 in Shanghai",
       "title_en": "Nio chip unit showcases multiple chips at WAIC 2026 in Shanghai",
       "title_zh": "蔚来芯片部门在上海 WAIC 2026 展示多款芯片",
@@ -827,6 +1019,98 @@
       ]
     },
     {
+      "id": "9abc67fb3f0b23560d7c32a1b5677081948d0495",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新车",
+      "title": "五菱的价格逻辑，不只是“便宜”",
+      "url": "https://auto.gasgoo.com/news/202607/17I70466232C107.shtml",
+      "published_at": "2026-07-17T11:16:59Z",
+      "first_seen_at": "2026-07-18T03:52:46.834243Z",
+      "last_seen_at": "2026-07-18T03:52:46.834243Z",
+      "title_original": "五菱的价格逻辑，不只是“便宜”",
+      "title_en": null,
+      "title_zh": "五菱的价格逻辑，不只是“便宜”",
+      "title_bilingual": "五菱的价格逻辑，不只是“便宜”",
+      "topic_tags": [
+        "新车上市"
+      ]
+    },
+    {
+      "id": "c88f65917b21287a595508d0d06941878183b26f",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "车市也有“疯狂星期四”，同日8场发布会7款新车",
+      "url": "https://auto.gasgoo.com/news/202607/17I70466225C108.shtml",
+      "published_at": "2026-07-17T11:06:26Z",
+      "first_seen_at": "2026-07-18T03:52:46.834243Z",
+      "last_seen_at": "2026-07-18T03:52:46.834243Z",
+      "title_original": "车市也有“疯狂星期四”，同日8场发布会7款新车",
+      "title_en": null,
+      "title_zh": "车市也有“疯狂星期四”，同日8场发布会7款新车",
+      "title_bilingual": "车市也有“疯狂星期四”，同日8场发布会7款新车",
+      "topic_tags": [
+        "新车上市"
+      ]
+    },
+    {
+      "id": "f520d8012ecd964c0658d66076f74bd48b0211be",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "Seeds | 美团领投、小米追投，曦诺未来又融了5个亿",
+      "url": "https://auto.gasgoo.com/news/202607/17I70466231C601.shtml",
+      "published_at": "2026-07-17T10:59:27Z",
+      "first_seen_at": "2026-07-18T03:52:46.834243Z",
+      "last_seen_at": "2026-07-18T03:52:46.834243Z",
+      "title_original": "Seeds | 美团领投、小米追投，曦诺未来又融了5个亿",
+      "title_en": null,
+      "title_zh": "Seeds | 美团领投、小米追投，曦诺未来又融了5个亿",
+      "title_bilingual": "Seeds | 美团领投、小米追投，曦诺未来又融了5个亿",
+      "topic_tags": []
+    },
+    {
+      "id": "4ac6d591962399205158bbb53ee3d269a76cfbd8",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新能源",
+      "title": "30万买百万级底盘，智己LS9 Hyper这次玩真的",
+      "url": "https://auto.gasgoo.com/news/202607/17I70466230C501.shtml",
+      "published_at": "2026-07-17T10:58:07Z",
+      "first_seen_at": "2026-07-18T03:52:46.834243Z",
+      "last_seen_at": "2026-07-18T03:52:46.834243Z",
+      "title_original": "30万买百万级底盘，智己LS9 Hyper这次玩真的",
+      "title_en": null,
+      "title_zh": "30万买百万级底盘，智己LS9 Hyper这次玩真的",
+      "title_bilingual": "30万买百万级底盘，智己LS9 Hyper这次玩真的",
+      "topic_tags": [
+        "新能源",
+        "供应链"
+      ]
+    },
+    {
+      "id": "8a0373be3dd0ae088ab2f7db198412a455bfa8a2",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "【国际快讯】本田将在美国市场停售电动车型；宝马任命新人力资源负责人推进降本举措；韩国6月汽车出口额同比增长6%",
+      "url": "https://auto.gasgoo.com/news/202607/17I70466228C501.shtml",
+      "published_at": "2026-07-17T10:29:34Z",
+      "first_seen_at": "2026-07-18T03:52:46.834243Z",
+      "last_seen_at": "2026-07-18T03:52:46.834243Z",
+      "title_original": "【国际快讯】本田将在美国市场停售电动车型；宝马任命新人力资源负责人推进降本举措；韩国6月汽车出口额同比增长6%",
+      "title_en": null,
+      "title_zh": "【国际快讯】本田将在美国市场停售电动车型；宝马任命新人力资源负责人推进降本举措；韩国6月汽车出口额同比增长6%",
+      "title_bilingual": "【国际快讯】本田将在美国市场停售电动车型；宝马任命新人力资源负责人推进降本举措；韩国6月汽车出口额同比增长6%",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
       "id": "c41e3f80235e81059be687a287655990b7175b1c",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -835,13 +1119,31 @@
       "url": "https://cnevpost.com/2026/07/17/china-to-impose-consumption-tax-lithium-batteries",
       "published_at": "2026-07-17T09:04:33Z",
       "first_seen_at": "2026-07-17T10:17:14.501665Z",
-      "last_seen_at": "2026-07-18T00:53:55.760346Z",
+      "last_seen_at": "2026-07-18T03:52:46.834243Z",
       "title_original": "China to impose consumption tax on lithium batteries, exempting sodium-ion and solid-state cells",
       "title_en": "China to impose consumption tax on lithium batteries, exempting sodium-ion and solid-state cells",
       "title_zh": "中国将对锂电池征收消费税，钠离子电池和固态电池免征消费税",
       "title_bilingual": "中国将对锂电池征收消费税，钠离子电池和固态电池免征消费税 / China to impose consumption tax on lithium batteries, exempting sodium-ion and solid-state cells",
       "topic_tags": [
         "补能电池"
+      ]
+    },
+    {
+      "id": "ddc7000926e0698b5ff57a05183af1e558b2bfcd",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "WAIC 2026 | 具身智能机器人，首次杀入光模块高端制造",
+      "url": "https://auto.gasgoo.com/news/202607/17I70466216C601.shtml",
+      "published_at": "2026-07-17T09:00:35Z",
+      "first_seen_at": "2026-07-18T03:52:46.834243Z",
+      "last_seen_at": "2026-07-18T03:52:46.834243Z",
+      "title_original": "WAIC 2026 | 具身智能机器人，首次杀入光模块高端制造",
+      "title_en": null,
+      "title_zh": "WAIC 2026 | 具身智能机器人，首次杀入光模块高端制造",
+      "title_bilingual": "WAIC 2026 | 具身智能机器人，首次杀入光模块高端制造",
+      "topic_tags": [
+        "供应链"
       ]
     },
     {
@@ -853,7 +1155,7 @@
       "url": "https://www.dongchedi.com/article/7662929879537271321",
       "published_at": null,
       "first_seen_at": "2026-07-17T08:05:34.554458Z",
-      "last_seen_at": "2026-07-18T00:53:55.760346Z",
+      "last_seen_at": "2026-07-18T03:52:46.834243Z",
       "title_original": "2026年二季度国内热销SUV质量排行",
       "title_en": null,
       "title_zh": "2026年二季度国内热销SUV质量排行",
@@ -872,7 +1174,7 @@
       "url": "https://carnewschina.com/2026/07/17/rising-raw-material-costs-drag-down-china-automakers-profits",
       "published_at": "2026-07-17T07:30:23Z",
       "first_seen_at": "2026-07-17T08:05:34.554458Z",
-      "last_seen_at": "2026-07-18T00:53:55.760346Z",
+      "last_seen_at": "2026-07-18T03:52:46.834243Z",
       "title_original": "Rising raw material costs drag down China automakers’ profits",
       "title_en": "Rising raw material costs drag down China automakers’ profits",
       "title_zh": "原材料成本上涨拖累中国汽车制造商利润",
@@ -891,7 +1193,7 @@
       "url": "https://auto.gasgoo.com/news/202607/17I70466133C103.shtml",
       "published_at": "2026-07-17T07:27:25Z",
       "first_seen_at": "2026-07-18T00:53:55.760346Z",
-      "last_seen_at": "2026-07-18T00:53:55.760346Z",
+      "last_seen_at": "2026-07-18T03:52:46.834243Z",
       "title_original": "从摩托车企向上跃升，看汽车供应链新机遇",
       "title_en": null,
       "title_zh": "从摩托车企向上跃升，看汽车供应链新机遇",
@@ -910,7 +1212,7 @@
       "url": "https://auto.gasgoo.com/news/202607/17I70466096C501.shtml",
       "published_at": "2026-07-17T07:00:18Z",
       "first_seen_at": "2026-07-17T23:22:23.804791Z",
-      "last_seen_at": "2026-07-18T00:53:55.760346Z",
+      "last_seen_at": "2026-07-18T03:52:46.834243Z",
       "title_original": "【盖世快讯】比亚迪泰国市场累计交付突破13万辆；智己官方回应多地经销商陷经营危机",
       "title_en": null,
       "title_zh": "【盖世快讯】比亚迪泰国市场累计交付突破13万辆；智己官方回应多地经销商陷经营危机",
@@ -930,7 +1232,7 @@
       "url": "https://cnevpost.com/2026/07/17/leapmotor-reveals-a05s-interior",
       "published_at": "2026-07-17T06:57:30Z",
       "first_seen_at": "2026-07-17T08:05:34.554458Z",
-      "last_seen_at": "2026-07-18T00:53:55.760346Z",
+      "last_seen_at": "2026-07-18T03:52:46.834243Z",
       "title_original": "Leapmotor reveals A05s interior for first time as compact EV nears launch",
       "title_en": "Leapmotor reveals A05s interior for first time as compact EV nears launch",
       "title_zh": "零跑汽车首次展示A05内饰 紧凑型电动车即将上市",
@@ -950,7 +1252,7 @@
       "url": "https://cnevpost.com/2026/07/17/byd-denza-previews-z9s",
       "published_at": "2026-07-17T05:56:07Z",
       "first_seen_at": "2026-07-17T08:05:34.554458Z",
-      "last_seen_at": "2026-07-18T00:53:55.760346Z",
+      "last_seen_at": "2026-07-18T03:52:46.834243Z",
       "title_original": "BYD Denza previews Z9S sedan, expanding product lineup",
       "title_en": "BYD Denza previews Z9S sedan, expanding product lineup",
       "title_zh": "比亚迪腾势Z9S轿车预览，扩大产品阵容",
@@ -989,7 +1291,7 @@
       "url": "https://carnewschina.com/2026/07/17/denza-z9s-officially-revealed-with-1194-hp-tri-motor-powertrain-and-920-km-range",
       "published_at": "2026-07-17T05:37:54Z",
       "first_seen_at": "2026-07-17T05:40:21.434530Z",
-      "last_seen_at": "2026-07-18T00:53:55.760346Z",
+      "last_seen_at": "2026-07-18T03:52:46.834243Z",
       "title_original": "BYD’s Denza Z9S officially revealed with 1194 hp tri-motor powertrain and 920 km range",
       "title_en": "BYD’s Denza Z9S officially revealed with 1194 hp tri-motor powertrain and 920 km range",
       "title_zh": "比亚迪腾势Z9S正式亮相 1194马力三电机动力总成 续航920公里",
@@ -1011,7 +1313,7 @@
       "url": "https://cnevpost.com/2026/07/17/nio-firefly-unveils-halo-series-first-model-jul-20",
       "published_at": "2026-07-17T05:03:21Z",
       "first_seen_at": "2026-07-17T05:40:21.434530Z",
-      "last_seen_at": "2026-07-18T00:53:55.760346Z",
+      "last_seen_at": "2026-07-18T03:52:46.834243Z",
       "title_original": "Nio Firefly unveils new Halo series, first model to debut on July 20",
       "title_en": "Nio Firefly unveils new Halo series, first model to debut on July 20",
       "title_zh": "蔚来Firefly推出全新Halo系列，首款车型7月20日首发",
@@ -1031,7 +1333,7 @@
       "url": "https://carnewschina.com/2026/07/17/byd-unveiled-8-series-tang-ev-with-claimed-800-km-range-and-300-kw-motor",
       "published_at": "2026-07-17T04:25:55Z",
       "first_seen_at": "2026-07-17T10:17:14.501665Z",
-      "last_seen_at": "2026-07-18T00:53:55.760346Z",
+      "last_seen_at": "2026-07-18T03:52:46.834243Z",
       "title_original": "BYD unveiled 8 Series Tang EV with 250 km/h top-speed, 800 km range and 300 kW motor",
       "title_en": "BYD unveiled 8 Series Tang EV with 250 km/h top-speed, 800 km range and 300 kW motor",
       "title_zh": "比亚迪推出8系唐EV，最高时速250公里，续航里程800公里，电机300千瓦",
@@ -1062,104 +1364,6 @@
         "补能电池",
         "车企竞争",
         "供应链"
-      ]
-    },
-    {
-      "id": "173dd274aef7d4ef65e31cfd4ec3807f3b58abd3",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Updated Lynk & Co 02 to be the first car with Geely’s 16-in-1 electric drive",
-      "url": "https://carnewschina.com/2026/07/17/updated-lynk-co-02-to-be-the-first-car-with-geelys-16-in-1-electric-drive",
-      "published_at": "2026-07-17T03:47:37Z",
-      "first_seen_at": "2026-07-17T05:40:21.434530Z",
-      "last_seen_at": "2026-07-18T00:53:55.760346Z",
-      "title_original": "Updated Lynk & Co 02 to be the first car with Geely’s 16-in-1 electric drive",
-      "title_en": "Updated Lynk & Co 02 to be the first car with Geely’s 16-in-1 electric drive",
-      "title_zh": "更新领克02，成为吉利首款搭载16合1电动驱动的汽车",
-      "title_bilingual": "更新领克02，成为吉利首款搭载16合1电动驱动的汽车 / Updated Lynk & Co 02 to be the first car with Geely’s 16-in-1 electric drive",
-      "topic_tags": [
-        "新能源",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "f2b41dbdec74e64842079b320369f854315afcd5",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Leapmotor sticks to 1 million sales target despite 35.6% completion rate at half-year mark",
-      "url": "https://cnevpost.com/2026/07/17/leapmotor-sticks-to-1-million-2026-sales-target",
-      "published_at": "2026-07-17T03:43:06Z",
-      "first_seen_at": "2026-07-17T05:40:21.434530Z",
-      "last_seen_at": "2026-07-18T00:53:55.760346Z",
-      "title_original": "Leapmotor sticks to 1 million sales target despite 35.6% completion rate at half-year mark",
-      "title_en": "Leapmotor sticks to 1 million sales target despite 35.6% completion rate at half-year mark",
-      "title_zh": "半跑完成率35.6% 零跑汽车坚守100万辆目标",
-      "title_bilingual": "半跑完成率35.6% 零跑汽车坚守100万辆目标 / Leapmotor sticks to 1 million sales target despite 35.6% completion rate at half-year mark",
-      "topic_tags": [
-        "新能源",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "d685b7de664195801f86b1639cc6b7344db40801",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "BYD teases new 8-series Tang SUV with over 800 km of battery range",
-      "url": "https://cnevpost.com/2026/07/17/byd-teases-8-series-tang-800-km-range",
-      "published_at": "2026-07-17T02:55:26Z",
-      "first_seen_at": "2026-07-17T05:40:21.434530Z",
-      "last_seen_at": "2026-07-18T00:53:55.760346Z",
-      "title_original": "BYD teases new 8-series Tang SUV with over 800 km of battery range",
-      "title_en": "BYD teases new 8-series Tang SUV with over 800 km of battery range",
-      "title_zh": "比亚迪推出新款8系唐SUV，续航里程超过800公里",
-      "title_bilingual": "比亚迪推出新款8系唐SUV，续航里程超过800公里 / BYD teases new 8-series Tang SUV with over 800 km of battery range",
-      "topic_tags": [
-        "新能源",
-        "补能电池",
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "68711cbbbe25b0cec1e7335879140db830ae33c2",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Baidu Apollo Go to enter Kazakhstan in China robotaxi's first Central Asia foray",
-      "url": "https://cnevpost.com/2026/07/17/baidu-apollo-go-to-enter-kazakhstan",
-      "published_at": "2026-07-17T02:17:30Z",
-      "first_seen_at": "2026-07-17T02:45:59.368095Z",
-      "last_seen_at": "2026-07-18T00:53:55.760346Z",
-      "title_original": "Baidu Apollo Go to enter Kazakhstan in China robotaxi's first Central Asia foray",
-      "title_en": "Baidu Apollo Go to enter Kazakhstan in China robotaxi's first Central Asia foray",
-      "title_zh": "百度Apollo Go进军哈萨克斯坦，中国机器人出租车首次进军中亚",
-      "title_bilingual": "百度Apollo Go进军哈萨克斯坦，中国机器人出租车首次进军中亚 / Baidu Apollo Go to enter Kazakhstan in China robotaxi's first Central Asia foray",
-      "topic_tags": [
-        "新能源",
-        "智能驾驶"
-      ]
-    },
-    {
-      "id": "b9454adc6a6d4b4fbcc4575c52a4c647eaa307db",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Leapmotor brings 800V tech to the 15,000 USD segment, claims rivals won’t catch up until next year",
-      "url": "https://carnewschina.com/2026/07/17/leapmotor-brings-800v-tech-to-the-15000-usd-segment-claims-rivals-wont-catch-up-until-next-year",
-      "published_at": "2026-07-17T01:16:44Z",
-      "first_seen_at": "2026-07-17T02:45:59.368095Z",
-      "last_seen_at": "2026-07-18T00:53:55.760346Z",
-      "title_original": "Leapmotor brings 800V tech to the 15,000 USD segment, claims rivals won’t catch up until next year",
-      "title_en": "Leapmotor brings 800V tech to the 15,000 USD segment, claims rivals won’t catch up until next year",
-      "title_zh": "零跑汽车将 800V 技术引入 15,000 美元细分市场，声称竞争对手要到明年才能赶上",
-      "title_bilingual": "零跑汽车将 800V 技术引入 15,000 美元细分市场，声称竞争对手要到明年才能赶上 / Leapmotor brings 800V tech to the 15,000 USD segment, claims rivals won’t catch up until next year",
-      "topic_tags": [
-        "新能源",
-        "销量市场",
-        "车企竞争"
       ]
     }
   ],
