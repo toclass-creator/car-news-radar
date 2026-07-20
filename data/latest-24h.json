@@ -1,57 +1,57 @@
 {
-  "generated_at": "2026-07-20T05:03:42.094821Z",
+  "generated_at": "2026-07-20T08:23:36.178004Z",
   "window_hours": 24,
-  "total_items": 17,
-  "total_items_ai_raw": 19,
-  "total_items_raw": 3575,
-  "total_items_all_mode": 3332,
+  "total_items": 26,
+  "total_items_ai_raw": 26,
+  "total_items_raw": 3724,
+  "total_items_all_mode": 3455,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 73966,
+  "archive_total": 73942,
   "site_count": 3,
-  "source_count": 6,
+  "source_count": 8,
   "site_stats": [
     {
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "count": 10,
-      "raw_count": 12
+      "count": 17,
+      "raw_count": 17
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
-      "count": 7,
-      "raw_count": 3378
+      "count": 8,
+      "raw_count": 3498
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
-      "count": 0,
-      "raw_count": 185
+      "count": 1,
+      "raw_count": 209
     }
   ],
   "topic_tag_stats": [
     {
       "tag": "车企竞争",
-      "count": 12
+      "count": 14
     },
     {
       "tag": "新能源",
-      "count": 9
+      "count": 13
     },
     {
       "tag": "新车上市",
-      "count": 5
-    },
-    {
-      "tag": "购车决策",
-      "count": 4
+      "count": 10
     },
     {
       "tag": "销量市场",
-      "count": 3
+      "count": 6
     },
     {
-      "tag": "供应链",
+      "tag": "购车决策",
+      "count": 5
+    },
+    {
+      "tag": "召回安全",
       "count": 1
     },
     {
@@ -61,6 +61,144 @@
   ],
   "items": [
     {
+      "id": "da9bda80954e61aaa597f45c6d03bb8e8d1ac63d",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "hackernews",
+      "title": "Xiaomi-Robotics-1",
+      "url": "https://news.ycombinator.com/item?id=48974454",
+      "published_at": "2026-07-20T08:23:49.693000Z",
+      "first_seen_at": "2026-07-20T08:23:36.178004Z",
+      "last_seen_at": "2026-07-20T08:23:36.178004Z",
+      "title_original": "Xiaomi-Robotics-1",
+      "title_en": "Xiaomi-Robotics-1",
+      "title_zh": "小米机器人-1",
+      "title_bilingual": "小米机器人-1 / Xiaomi-Robotics-1",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "c864af401fea8efe1c6e78755e538882347893d9",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "懂车帝 · 文章排行榜",
+      "title": "零跑新B10动态体验：驾控有法味、舒适能通勤，动力加量又减价",
+      "url": "https://www.dongchedi.com/article/7664078445228589593",
+      "published_at": null,
+      "first_seen_at": "2026-07-20T08:23:36.178004Z",
+      "last_seen_at": "2026-07-20T08:23:36.178004Z",
+      "title_original": "零跑新B10动态体验：驾控有法味、舒适能通勤，动力加量又减价",
+      "title_en": null,
+      "title_zh": "零跑新B10动态体验：驾控有法味、舒适能通勤，动力加量又减价",
+      "title_bilingual": "零跑新B10动态体验：驾控有法味、舒适能通勤，动力加量又减价",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "b0bebf71d1b4aeb2cdffb70f933b3785783c2832",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Smart #2 EV enters global testing ahead of Paris Motor Show debut",
+      "url": "https://carnewschina.com/2026/07/20/smart-2-ev-enters-global-testing-ahead-of-paris-motor-show-debut",
+      "published_at": "2026-07-20T07:59:01Z",
+      "first_seen_at": "2026-07-20T08:23:36.178004Z",
+      "last_seen_at": "2026-07-20T08:23:36.178004Z",
+      "title_original": "Smart #2 EV enters global testing ahead of Paris Motor Show debut",
+      "title_en": "Smart #2 EV enters global testing ahead of Paris Motor Show debut",
+      "title_zh": "Smart #2 EV 在巴黎车展首次亮相前进入全球测试",
+      "title_bilingual": "Smart #2 EV 在巴黎车展首次亮相前进入全球测试 / Smart #2 EV enters global testing ahead of Paris Motor Show debut",
+      "topic_tags": [
+        "新能源",
+        "召回安全",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "8a5836641cda1c67540e8e773fdd282953b597da",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Honda, GAC extend GAC Honda joint venture to 2038 as sales slump",
+      "url": "https://cnevpost.com/2026/07/20/honda-gac-extend-jv-to-2038",
+      "published_at": "2026-07-20T07:30:55Z",
+      "first_seen_at": "2026-07-20T08:23:36.178004Z",
+      "last_seen_at": "2026-07-20T08:23:36.178004Z",
+      "title_original": "Honda, GAC extend GAC Honda joint venture to 2038 as sales slump",
+      "title_en": "Honda, GAC extend GAC Honda joint venture to 2038 as sales slump",
+      "title_zh": "本田与广汽集团因销量下滑将合资企业期限延长至2038年",
+      "title_bilingual": "本田与广汽集团因销量下滑将合资企业期限延长至2038年 / Honda, GAC extend GAC Honda joint venture to 2038 as sales slump",
+      "topic_tags": [
+        "新能源",
+        "销量市场"
+      ]
+    },
+    {
+      "id": "aed14e3fbd75e60f7f348fce868a5f7acd3a88ca",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Li Auto begins deliveries of new L6, once its best-selling SUV",
+      "url": "https://cnevpost.com/2026/07/20/li-auto-begins-deliveries-new-l6",
+      "published_at": "2026-07-20T06:38:51Z",
+      "first_seen_at": "2026-07-20T08:23:36.178004Z",
+      "last_seen_at": "2026-07-20T08:23:36.178004Z",
+      "title_original": "Li Auto begins deliveries of new L6, once its best-selling SUV",
+      "title_en": "Li Auto begins deliveries of new L6, once its best-selling SUV",
+      "title_zh": "理想汽车曾经最畅销的SUV新款L6开始交付",
+      "title_bilingual": "理想汽车曾经最畅销的SUV新款L6开始交付 / Li Auto begins deliveries of new L6, once its best-selling SUV",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "2eacac741081abe74f0e130b1ed86f4ce92171eb",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Nio to deliver 130,000th new ES8 this week as 5-seat variant revives momentum",
+      "url": "https://cnevpost.com/2026/07/20/nio-to-deliver-130000th-new-es8-this-week",
+      "published_at": "2026-07-20T05:48:08Z",
+      "first_seen_at": "2026-07-20T08:23:36.178004Z",
+      "last_seen_at": "2026-07-20T08:23:36.178004Z",
+      "title_original": "Nio to deliver 130,000th new ES8 this week as 5-seat variant revives momentum",
+      "title_en": "Nio to deliver 130,000th new ES8 this week as 5-seat variant revives momentum",
+      "title_zh": "蔚来将于本周交付第 13 万辆新 ES8，5 座车型重拾动力",
+      "title_bilingual": "蔚来将于本周交付第 13 万辆新 ES8，5 座车型重拾动力 / Nio to deliver 130,000th new ES8 this week as 5-seat variant revives momentum",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "32c07cb18b6c3a5b2f79f58c76ccc25fb85baf0a",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Aulton revives Hong Kong IPO bid, seeking to become first listed battery swap specialist",
+      "url": "https://cnevpost.com/2026/07/20/aulton-revives-hk-ipo-bid",
+      "published_at": "2026-07-20T05:05:12Z",
+      "first_seen_at": "2026-07-20T08:23:36.178004Z",
+      "last_seen_at": "2026-07-20T08:23:36.178004Z",
+      "title_original": "Aulton revives Hong Kong IPO bid, seeking to become first listed battery swap specialist",
+      "title_en": "Aulton revives Hong Kong IPO bid, seeking to become first listed battery swap specialist",
+      "title_zh": "奥尔顿重启香港IPO竞标，寻求成为首家上市电池更换专家",
+      "title_bilingual": "奥尔顿重启香港IPO竞标，寻求成为首家上市电池更换专家 / Aulton revives Hong Kong IPO bid, seeking to become first listed battery swap specialist",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "新车上市"
+      ]
+    },
+    {
       "id": "c10f837c6fb980bd12d46290b23348952f41831f",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -69,7 +207,7 @@
       "url": "https://cnevpost.com/2026/07/20/byd-fang-cheng-bao-tai-7-200000-sales",
       "published_at": "2026-07-20T03:30:41Z",
       "first_seen_at": "2026-07-20T05:03:42.094821Z",
-      "last_seen_at": "2026-07-20T05:03:42.094821Z",
+      "last_seen_at": "2026-07-20T08:23:36.178004Z",
       "title_original": "BYD Fang Cheng Bao Tai 7 surpasses 200,000 sales in about 10 months",
       "title_en": "BYD Fang Cheng Bao Tai 7 surpasses 200,000 sales in about 10 months",
       "title_zh": "比亚迪方成宝泰7约10个月销量突破20万辆",
@@ -89,7 +227,7 @@
       "url": "https://cnevpost.com/2026/07/20/byd-offers-closer-look-qin-max",
       "published_at": "2026-07-20T03:00:21Z",
       "first_seen_at": "2026-07-20T05:03:42.094821Z",
-      "last_seen_at": "2026-07-20T05:03:42.094821Z",
+      "last_seen_at": "2026-07-20T08:23:36.178004Z",
       "title_original": "BYD offers closer look at Qin Max, flagship of its hot-selling Qin family",
       "title_en": "BYD offers closer look at Qin Max, flagship of its hot-selling Qin family",
       "title_zh": "比亚迪近距离观察其热销秦家族旗舰产品Qin Max",
@@ -108,7 +246,7 @@
       "url": "https://cnevpost.com/2026/07/20/gm-considers-rebadging-wuling-bingo-pro-chevrolet-ev",
       "published_at": "2026-07-20T02:01:43Z",
       "first_seen_at": "2026-07-20T05:03:42.094821Z",
-      "last_seen_at": "2026-07-20T05:03:42.094821Z",
+      "last_seen_at": "2026-07-20T08:23:36.178004Z",
       "title_original": "GM considers rebadging China's Wuling Bingo Pro as entry-level Chevrolet EV, report says",
       "title_en": "GM considers rebadging China's Wuling Bingo Pro as entry-level Chevrolet EV, report says",
       "title_zh": "报道称，通用汽车考虑将中国五菱缤果Pro重新定位为入门级雪佛兰电动汽车",
@@ -126,7 +264,7 @@
       "url": "http://vc.yiche.com/vplay/12129679.html",
       "published_at": null,
       "first_seen_at": "2026-07-19T20:22:33.590215Z",
-      "last_seen_at": "2026-07-20T05:03:42.094821Z",
+      "last_seen_at": "2026-07-20T08:23:36.178004Z",
       "title_original": "比亚迪秦MAX预告图发布 定位高于秦L 插混纯电双线出击",
       "title_en": null,
       "title_zh": "比亚迪秦MAX预告图发布 定位高于秦L 插混纯电双线出击",
@@ -146,7 +284,7 @@
       "url": "http://vc.yiche.com/vplay/12128062.html",
       "published_at": null,
       "first_seen_at": "2026-07-19T20:22:33.590215Z",
-      "last_seen_at": "2026-07-20T05:03:42.094821Z",
+      "last_seen_at": "2026-07-20T08:23:36.178004Z",
       "title_original": "以为电车省钱？算完用车账，傻眼了…",
       "title_en": null,
       "title_zh": "以为电车省钱？算完用车账，傻眼了…",
@@ -165,7 +303,7 @@
       "url": "http://vc.yiche.com/vplay/12150035.html",
       "published_at": null,
       "first_seen_at": "2026-07-19T20:22:33.590215Z",
-      "last_seen_at": "2026-07-20T05:03:42.094821Z",
+      "last_seen_at": "2026-07-20T08:23:36.178004Z",
       "title_original": "长城H10大五座和真六座，给你会怎么选？| 智能车指南",
       "title_en": null,
       "title_zh": "长城H10大五座和真六座，给你会怎么选？| 智能车指南",
@@ -183,7 +321,7 @@
       "url": "http://vc.yiche.com/vplay/12187695.html",
       "published_at": null,
       "first_seen_at": "2026-07-19T20:22:33.590215Z",
-      "last_seen_at": "2026-07-20T05:03:42.094821Z",
+      "last_seen_at": "2026-07-20T08:23:36.178004Z",
       "title_original": "揽四方风光 承一家鼎力人生 长城H10开启预售限时权益价21.48万起",
       "title_en": null,
       "title_zh": "揽四方风光 承一家鼎力人生 长城H10开启预售限时权益价21.48万起",
@@ -202,7 +340,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/d811af2539c862ed/115628628-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-19T16:55:57.750799Z",
-      "last_seen_at": "2026-07-20T05:03:42.094821Z",
+      "last_seen_at": "2026-07-20T08:23:36.178004Z",
       "title_original": "20万家用混动MPV 传祺向往E8 PHEV",
       "title_en": null,
       "title_zh": "20万家用混动MPV 传祺向往E8 PHEV",
@@ -222,7 +360,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/30ca2e59f0e26558/115514598-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-19T16:55:57.750799Z",
-      "last_seen_at": "2026-07-20T05:03:42.094821Z",
+      "last_seen_at": "2026-07-20T08:23:36.178004Z",
       "title_original": "代步完全够用 长安启源Q05提车分享",
       "title_en": null,
       "title_zh": "代步完全够用 长安启源Q05提车分享",
@@ -241,7 +379,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/d1b1e0b702cc81af/115513870-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-19T16:55:57.750799Z",
-      "last_seen_at": "2026-07-20T05:03:42.094821Z",
+      "last_seen_at": "2026-07-20T08:23:36.178004Z",
       "title_original": "满足我的要求 理想i6提车作业分享",
       "title_en": null,
       "title_zh": "满足我的要求 理想i6提车作业分享",
@@ -249,6 +387,56 @@
       "topic_tags": [
         "车企竞争",
         "购车决策"
+      ]
+    },
+    {
+      "id": "86d57a1c5ea9002ea8b0ab94a9f28cb79e851844",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "WAIC 2026 | PNDbotics首次公开首秀机器人上下楼梯",
+      "url": "https://auto.gasgoo.com/news/202607/19I70466487C601.shtml",
+      "published_at": "2026-07-19T15:08:18Z",
+      "first_seen_at": "2026-07-20T08:23:36.178004Z",
+      "last_seen_at": "2026-07-20T08:23:36.178004Z",
+      "title_original": "WAIC 2026 | PNDbotics首次公开首秀机器人上下楼梯",
+      "title_en": null,
+      "title_zh": "WAIC 2026 | PNDbotics首次公开首秀机器人上下楼梯",
+      "title_bilingual": "WAIC 2026 | PNDbotics首次公开首秀机器人上下楼梯",
+      "topic_tags": []
+    },
+    {
+      "id": "042af533ae7a5361342cf4f40df2dfde4c24248d",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "WAIC 2026 | 取药、衣物洗烘，穹彻智能机器人演示“真上班”",
+      "url": "https://auto.gasgoo.com/news/202607/19I70466486C601.shtml",
+      "published_at": "2026-07-19T14:49:49Z",
+      "first_seen_at": "2026-07-20T08:23:36.178004Z",
+      "last_seen_at": "2026-07-20T08:23:36.178004Z",
+      "title_original": "WAIC 2026 | 取药、衣物洗烘，穹彻智能机器人演示“真上班”",
+      "title_en": null,
+      "title_zh": "WAIC 2026 | 取药、衣物洗烘，穹彻智能机器人演示“真上班”",
+      "title_bilingual": "WAIC 2026 | 取药、衣物洗烘，穹彻智能机器人演示“真上班”",
+      "topic_tags": []
+    },
+    {
+      "id": "c959212f30084ffecacd97d245e30e42982cfaff",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "WAIC 2026 |北京人形携3D五大场景解决方案亮相",
+      "url": "https://auto.gasgoo.com/news/202607/19I70466480C601.shtml",
+      "published_at": "2026-07-19T13:45:14Z",
+      "first_seen_at": "2026-07-20T08:23:36.178004Z",
+      "last_seen_at": "2026-07-20T08:23:36.178004Z",
+      "title_original": "WAIC 2026 |北京人形携3D五大场景解决方案亮相",
+      "title_en": null,
+      "title_zh": "WAIC 2026 |北京人形携3D五大场景解决方案亮相",
+      "title_bilingual": "WAIC 2026 |北京人形携3D五大场景解决方案亮相",
+      "topic_tags": [
+        "新车上市"
       ]
     },
     {
@@ -260,7 +448,7 @@
       "url": "https://cnevpost.com/2026/07/19/gwm-launches-new-tank-300",
       "published_at": "2026-07-19T13:33:53Z",
       "first_seen_at": "2026-07-19T14:37:38.572984Z",
-      "last_seen_at": "2026-07-20T05:03:42.094821Z",
+      "last_seen_at": "2026-07-20T08:23:36.178004Z",
       "title_original": "GWM launches new Tank 300 as off-road brand faces sales slump",
       "title_en": "GWM launches new Tank 300 as off-road brand faces sales slump",
       "title_zh": "越野品牌销量下滑 长城汽车推出新款坦克300",
@@ -272,6 +460,22 @@
       ]
     },
     {
+      "id": "a1cf73004b1329542b0f02a386ccb325e400dd87",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "WAIC 2026 | 临界点集中展示灵巧操作全产品矩阵",
+      "url": "https://auto.gasgoo.com/news/202607/19I70466479C601.shtml",
+      "published_at": "2026-07-19T13:06:59Z",
+      "first_seen_at": "2026-07-20T08:23:36.178004Z",
+      "last_seen_at": "2026-07-20T08:23:36.178004Z",
+      "title_original": "WAIC 2026 | 临界点集中展示灵巧操作全产品矩阵",
+      "title_en": null,
+      "title_zh": "WAIC 2026 | 临界点集中展示灵巧操作全产品矩阵",
+      "title_bilingual": "WAIC 2026 | 临界点集中展示灵巧操作全产品矩阵",
+      "topic_tags": []
+    },
+    {
       "id": "7211c256caa89082e95eb462ab5d737dbebcfae7",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -280,7 +484,7 @@
       "url": "https://cnevpost.com/2026/07/19/nio-onvo-l90-deliveries-60000",
       "published_at": "2026-07-19T12:45:18Z",
       "first_seen_at": "2026-07-19T13:13:59.849285Z",
-      "last_seen_at": "2026-07-20T05:03:42.094821Z",
+      "last_seen_at": "2026-07-20T08:23:36.178004Z",
       "title_original": "Nio's Onvo brand sees L90 SUV deliveries top 60,000",
       "title_en": "Nio's Onvo brand sees L90 SUV deliveries top 60,000",
       "title_zh": "蔚来Onvo品牌L90 SUV销量突破6万辆",
@@ -301,7 +505,7 @@
       "url": "https://auto.gasgoo.com/news/202607/19I70466477C601.shtml",
       "published_at": "2026-07-19T12:20:25Z",
       "first_seen_at": "2026-07-20T05:03:42.094821Z",
-      "last_seen_at": "2026-07-20T05:03:42.094821Z",
+      "last_seen_at": "2026-07-20T08:23:36.178004Z",
       "title_original": "Seeds | 一目科技E轮融了超10亿，估值破百亿",
       "title_en": null,
       "title_zh": "Seeds | 一目科技E轮融了超10亿，估值破百亿",
@@ -317,7 +521,7 @@
       "url": "https://auto.gasgoo.com/news/202607/19I70466474C601.shtml",
       "published_at": "2026-07-19T11:59:05Z",
       "first_seen_at": "2026-07-20T05:03:42.094821Z",
-      "last_seen_at": "2026-07-20T05:03:42.094821Z",
+      "last_seen_at": "2026-07-20T08:23:36.178004Z",
       "title_original": "WAIC 2026 | 松延动力携多款机器人亮相",
       "title_en": null,
       "title_zh": "WAIC 2026 | 松延动力携多款机器人亮相",
@@ -335,57 +539,156 @@
       "url": "https://auto.gasgoo.com/news/202607/19I70466406C109.shtml",
       "published_at": "2026-07-19T11:52:54Z",
       "first_seen_at": "2026-07-20T05:03:42.094821Z",
-      "last_seen_at": "2026-07-20T05:03:42.094821Z",
+      "last_seen_at": "2026-07-20T08:23:36.178004Z",
       "title_original": "历史性突破，这家新势力，如何改写车市格局？",
       "title_en": null,
       "title_zh": "历史性突破，这家新势力，如何改写车市格局？",
       "title_bilingual": "历史性突破，这家新势力，如何改写车市格局？",
       "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "82cd43773328af1bc50c4447e1b23d82bf6f194f",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "盖世周报 | 奔驰扩建工厂；博世美国首座半导体工厂启动样品生产",
-      "url": "https://auto.gasgoo.com/news/202607/19I70466048C109.shtml",
-      "published_at": "2026-07-19T07:05:56Z",
-      "first_seen_at": "2026-07-19T23:28:19.020243Z",
-      "last_seen_at": "2026-07-20T05:03:42.094821Z",
-      "title_original": "盖世周报 | 奔驰扩建工厂；博世美国首座半导体工厂启动样品生产",
-      "title_en": null,
-      "title_zh": "盖世周报 | 奔驰扩建工厂；博世美国首座半导体工厂启动样品生产",
-      "title_bilingual": "盖世周报 | 奔驰扩建工厂；博世美国首座半导体工厂启动样品生产",
-      "topic_tags": [
-        "车企竞争",
-        "供应链"
-      ]
-    },
-    {
-      "id": "6988ce60f6f75eb423347ca6624e8e8a8eab165c",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "BYD Fang Cheng Bao Formula S to offer 900 km of range in China",
-      "url": "https://carnewschina.com/2026/07/19/byd-fang-cheng-bao-formula-s-to-offer-900-km-of-range-in-china",
-      "published_at": "2026-07-19T05:31:27Z",
-      "first_seen_at": "2026-07-19T07:04:52.477850Z",
-      "last_seen_at": "2026-07-20T05:03:42.094821Z",
-      "title_original": "BYD Fang Cheng Bao Formula S to offer 900 km of range in China",
-      "title_en": "BYD Fang Cheng Bao Formula S to offer 900 km of range in China",
-      "title_zh": "比亚迪方成宝 Formula S 将在中国提供 900 公里的续航里程",
-      "title_bilingual": "比亚迪方成宝 Formula S 将在中国提供 900 公里的续航里程 / BYD Fang Cheng Bao Formula S to offer 900 km of range in China",
-      "topic_tags": [
-        "新能源",
-        "补能电池",
         "车企竞争"
       ]
     }
   ],
   "items_ai": [
     {
+      "id": "da9bda80954e61aaa597f45c6d03bb8e8d1ac63d",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "hackernews",
+      "title": "Xiaomi-Robotics-1",
+      "url": "https://news.ycombinator.com/item?id=48974454",
+      "published_at": "2026-07-20T08:23:49.693000Z",
+      "first_seen_at": "2026-07-20T08:23:36.178004Z",
+      "last_seen_at": "2026-07-20T08:23:36.178004Z",
+      "title_original": "Xiaomi-Robotics-1",
+      "title_en": "Xiaomi-Robotics-1",
+      "title_zh": "小米机器人-1",
+      "title_bilingual": "小米机器人-1 / Xiaomi-Robotics-1",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "c864af401fea8efe1c6e78755e538882347893d9",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "懂车帝 · 文章排行榜",
+      "title": "零跑新B10动态体验：驾控有法味、舒适能通勤，动力加量又减价",
+      "url": "https://www.dongchedi.com/article/7664078445228589593",
+      "published_at": null,
+      "first_seen_at": "2026-07-20T08:23:36.178004Z",
+      "last_seen_at": "2026-07-20T08:23:36.178004Z",
+      "title_original": "零跑新B10动态体验：驾控有法味、舒适能通勤，动力加量又减价",
+      "title_en": null,
+      "title_zh": "零跑新B10动态体验：驾控有法味、舒适能通勤，动力加量又减价",
+      "title_bilingual": "零跑新B10动态体验：驾控有法味、舒适能通勤，动力加量又减价",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "b0bebf71d1b4aeb2cdffb70f933b3785783c2832",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Smart #2 EV enters global testing ahead of Paris Motor Show debut",
+      "url": "https://carnewschina.com/2026/07/20/smart-2-ev-enters-global-testing-ahead-of-paris-motor-show-debut",
+      "published_at": "2026-07-20T07:59:01Z",
+      "first_seen_at": "2026-07-20T08:23:36.178004Z",
+      "last_seen_at": "2026-07-20T08:23:36.178004Z",
+      "title_original": "Smart #2 EV enters global testing ahead of Paris Motor Show debut",
+      "title_en": "Smart #2 EV enters global testing ahead of Paris Motor Show debut",
+      "title_zh": "Smart #2 EV 在巴黎车展首次亮相前进入全球测试",
+      "title_bilingual": "Smart #2 EV 在巴黎车展首次亮相前进入全球测试 / Smart #2 EV enters global testing ahead of Paris Motor Show debut",
+      "topic_tags": [
+        "新能源",
+        "召回安全",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "8a5836641cda1c67540e8e773fdd282953b597da",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Honda, GAC extend GAC Honda joint venture to 2038 as sales slump",
+      "url": "https://cnevpost.com/2026/07/20/honda-gac-extend-jv-to-2038",
+      "published_at": "2026-07-20T07:30:55Z",
+      "first_seen_at": "2026-07-20T08:23:36.178004Z",
+      "last_seen_at": "2026-07-20T08:23:36.178004Z",
+      "title_original": "Honda, GAC extend GAC Honda joint venture to 2038 as sales slump",
+      "title_en": "Honda, GAC extend GAC Honda joint venture to 2038 as sales slump",
+      "title_zh": "本田与广汽集团因销量下滑将合资企业期限延长至2038年",
+      "title_bilingual": "本田与广汽集团因销量下滑将合资企业期限延长至2038年 / Honda, GAC extend GAC Honda joint venture to 2038 as sales slump",
+      "topic_tags": [
+        "新能源",
+        "销量市场"
+      ]
+    },
+    {
+      "id": "aed14e3fbd75e60f7f348fce868a5f7acd3a88ca",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Li Auto begins deliveries of new L6, once its best-selling SUV",
+      "url": "https://cnevpost.com/2026/07/20/li-auto-begins-deliveries-new-l6",
+      "published_at": "2026-07-20T06:38:51Z",
+      "first_seen_at": "2026-07-20T08:23:36.178004Z",
+      "last_seen_at": "2026-07-20T08:23:36.178004Z",
+      "title_original": "Li Auto begins deliveries of new L6, once its best-selling SUV",
+      "title_en": "Li Auto begins deliveries of new L6, once its best-selling SUV",
+      "title_zh": "理想汽车曾经最畅销的SUV新款L6开始交付",
+      "title_bilingual": "理想汽车曾经最畅销的SUV新款L6开始交付 / Li Auto begins deliveries of new L6, once its best-selling SUV",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "2eacac741081abe74f0e130b1ed86f4ce92171eb",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Nio to deliver 130,000th new ES8 this week as 5-seat variant revives momentum",
+      "url": "https://cnevpost.com/2026/07/20/nio-to-deliver-130000th-new-es8-this-week",
+      "published_at": "2026-07-20T05:48:08Z",
+      "first_seen_at": "2026-07-20T08:23:36.178004Z",
+      "last_seen_at": "2026-07-20T08:23:36.178004Z",
+      "title_original": "Nio to deliver 130,000th new ES8 this week as 5-seat variant revives momentum",
+      "title_en": "Nio to deliver 130,000th new ES8 this week as 5-seat variant revives momentum",
+      "title_zh": "蔚来将于本周交付第 13 万辆新 ES8，5 座车型重拾动力",
+      "title_bilingual": "蔚来将于本周交付第 13 万辆新 ES8，5 座车型重拾动力 / Nio to deliver 130,000th new ES8 this week as 5-seat variant revives momentum",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "32c07cb18b6c3a5b2f79f58c76ccc25fb85baf0a",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Aulton revives Hong Kong IPO bid, seeking to become first listed battery swap specialist",
+      "url": "https://cnevpost.com/2026/07/20/aulton-revives-hk-ipo-bid",
+      "published_at": "2026-07-20T05:05:12Z",
+      "first_seen_at": "2026-07-20T08:23:36.178004Z",
+      "last_seen_at": "2026-07-20T08:23:36.178004Z",
+      "title_original": "Aulton revives Hong Kong IPO bid, seeking to become first listed battery swap specialist",
+      "title_en": "Aulton revives Hong Kong IPO bid, seeking to become first listed battery swap specialist",
+      "title_zh": "奥尔顿重启香港IPO竞标，寻求成为首家上市电池更换专家",
+      "title_bilingual": "奥尔顿重启香港IPO竞标，寻求成为首家上市电池更换专家 / Aulton revives Hong Kong IPO bid, seeking to become first listed battery swap specialist",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "新车上市"
+      ]
+    },
+    {
       "id": "c10f837c6fb980bd12d46290b23348952f41831f",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -394,7 +697,7 @@
       "url": "https://cnevpost.com/2026/07/20/byd-fang-cheng-bao-tai-7-200000-sales",
       "published_at": "2026-07-20T03:30:41Z",
       "first_seen_at": "2026-07-20T05:03:42.094821Z",
-      "last_seen_at": "2026-07-20T05:03:42.094821Z",
+      "last_seen_at": "2026-07-20T08:23:36.178004Z",
       "title_original": "BYD Fang Cheng Bao Tai 7 surpasses 200,000 sales in about 10 months",
       "title_en": "BYD Fang Cheng Bao Tai 7 surpasses 200,000 sales in about 10 months",
       "title_zh": "比亚迪方成宝泰7约10个月销量突破20万辆",
@@ -414,7 +717,7 @@
       "url": "https://cnevpost.com/2026/07/20/byd-offers-closer-look-qin-max",
       "published_at": "2026-07-20T03:00:21Z",
       "first_seen_at": "2026-07-20T05:03:42.094821Z",
-      "last_seen_at": "2026-07-20T05:03:42.094821Z",
+      "last_seen_at": "2026-07-20T08:23:36.178004Z",
       "title_original": "BYD offers closer look at Qin Max, flagship of its hot-selling Qin family",
       "title_en": "BYD offers closer look at Qin Max, flagship of its hot-selling Qin family",
       "title_zh": "比亚迪近距离观察其热销秦家族旗舰产品Qin Max",
@@ -433,7 +736,7 @@
       "url": "https://cnevpost.com/2026/07/20/gm-considers-rebadging-wuling-bingo-pro-chevrolet-ev",
       "published_at": "2026-07-20T02:01:43Z",
       "first_seen_at": "2026-07-20T05:03:42.094821Z",
-      "last_seen_at": "2026-07-20T05:03:42.094821Z",
+      "last_seen_at": "2026-07-20T08:23:36.178004Z",
       "title_original": "GM considers rebadging China's Wuling Bingo Pro as entry-level Chevrolet EV, report says",
       "title_en": "GM considers rebadging China's Wuling Bingo Pro as entry-level Chevrolet EV, report says",
       "title_zh": "报道称，通用汽车考虑将中国五菱缤果Pro重新定位为入门级雪佛兰电动汽车",
@@ -451,7 +754,7 @@
       "url": "http://vc.yiche.com/vplay/12129679.html",
       "published_at": null,
       "first_seen_at": "2026-07-19T20:22:33.590215Z",
-      "last_seen_at": "2026-07-20T05:03:42.094821Z",
+      "last_seen_at": "2026-07-20T08:23:36.178004Z",
       "title_original": "比亚迪秦MAX预告图发布 定位高于秦L 插混纯电双线出击",
       "title_en": null,
       "title_zh": "比亚迪秦MAX预告图发布 定位高于秦L 插混纯电双线出击",
@@ -471,7 +774,7 @@
       "url": "http://vc.yiche.com/vplay/12128062.html",
       "published_at": null,
       "first_seen_at": "2026-07-19T20:22:33.590215Z",
-      "last_seen_at": "2026-07-20T05:03:42.094821Z",
+      "last_seen_at": "2026-07-20T08:23:36.178004Z",
       "title_original": "以为电车省钱？算完用车账，傻眼了…",
       "title_en": null,
       "title_zh": "以为电车省钱？算完用车账，傻眼了…",
@@ -490,7 +793,7 @@
       "url": "http://vc.yiche.com/vplay/12150035.html",
       "published_at": null,
       "first_seen_at": "2026-07-19T20:22:33.590215Z",
-      "last_seen_at": "2026-07-20T05:03:42.094821Z",
+      "last_seen_at": "2026-07-20T08:23:36.178004Z",
       "title_original": "长城H10大五座和真六座，给你会怎么选？| 智能车指南",
       "title_en": null,
       "title_zh": "长城H10大五座和真六座，给你会怎么选？| 智能车指南",
@@ -508,7 +811,7 @@
       "url": "http://vc.yiche.com/vplay/12187695.html",
       "published_at": null,
       "first_seen_at": "2026-07-19T20:22:33.590215Z",
-      "last_seen_at": "2026-07-20T05:03:42.094821Z",
+      "last_seen_at": "2026-07-20T08:23:36.178004Z",
       "title_original": "揽四方风光 承一家鼎力人生 长城H10开启预售限时权益价21.48万起",
       "title_en": null,
       "title_zh": "揽四方风光 承一家鼎力人生 长城H10开启预售限时权益价21.48万起",
@@ -527,7 +830,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/d811af2539c862ed/115628628-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-19T16:55:57.750799Z",
-      "last_seen_at": "2026-07-20T05:03:42.094821Z",
+      "last_seen_at": "2026-07-20T08:23:36.178004Z",
       "title_original": "20万家用混动MPV 传祺向往E8 PHEV",
       "title_en": null,
       "title_zh": "20万家用混动MPV 传祺向往E8 PHEV",
@@ -547,7 +850,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/30ca2e59f0e26558/115514598-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-19T16:55:57.750799Z",
-      "last_seen_at": "2026-07-20T05:03:42.094821Z",
+      "last_seen_at": "2026-07-20T08:23:36.178004Z",
       "title_original": "代步完全够用 长安启源Q05提车分享",
       "title_en": null,
       "title_zh": "代步完全够用 长安启源Q05提车分享",
@@ -566,7 +869,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/d1b1e0b702cc81af/115513870-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-19T16:55:57.750799Z",
-      "last_seen_at": "2026-07-20T05:03:42.094821Z",
+      "last_seen_at": "2026-07-20T08:23:36.178004Z",
       "title_original": "满足我的要求 理想i6提车作业分享",
       "title_en": null,
       "title_zh": "满足我的要求 理想i6提车作业分享",
@@ -574,6 +877,56 @@
       "topic_tags": [
         "车企竞争",
         "购车决策"
+      ]
+    },
+    {
+      "id": "86d57a1c5ea9002ea8b0ab94a9f28cb79e851844",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "WAIC 2026 | PNDbotics首次公开首秀机器人上下楼梯",
+      "url": "https://auto.gasgoo.com/news/202607/19I70466487C601.shtml",
+      "published_at": "2026-07-19T15:08:18Z",
+      "first_seen_at": "2026-07-20T08:23:36.178004Z",
+      "last_seen_at": "2026-07-20T08:23:36.178004Z",
+      "title_original": "WAIC 2026 | PNDbotics首次公开首秀机器人上下楼梯",
+      "title_en": null,
+      "title_zh": "WAIC 2026 | PNDbotics首次公开首秀机器人上下楼梯",
+      "title_bilingual": "WAIC 2026 | PNDbotics首次公开首秀机器人上下楼梯",
+      "topic_tags": []
+    },
+    {
+      "id": "042af533ae7a5361342cf4f40df2dfde4c24248d",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "WAIC 2026 | 取药、衣物洗烘，穹彻智能机器人演示“真上班”",
+      "url": "https://auto.gasgoo.com/news/202607/19I70466486C601.shtml",
+      "published_at": "2026-07-19T14:49:49Z",
+      "first_seen_at": "2026-07-20T08:23:36.178004Z",
+      "last_seen_at": "2026-07-20T08:23:36.178004Z",
+      "title_original": "WAIC 2026 | 取药、衣物洗烘，穹彻智能机器人演示“真上班”",
+      "title_en": null,
+      "title_zh": "WAIC 2026 | 取药、衣物洗烘，穹彻智能机器人演示“真上班”",
+      "title_bilingual": "WAIC 2026 | 取药、衣物洗烘，穹彻智能机器人演示“真上班”",
+      "topic_tags": []
+    },
+    {
+      "id": "c959212f30084ffecacd97d245e30e42982cfaff",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "WAIC 2026 |北京人形携3D五大场景解决方案亮相",
+      "url": "https://auto.gasgoo.com/news/202607/19I70466480C601.shtml",
+      "published_at": "2026-07-19T13:45:14Z",
+      "first_seen_at": "2026-07-20T08:23:36.178004Z",
+      "last_seen_at": "2026-07-20T08:23:36.178004Z",
+      "title_original": "WAIC 2026 |北京人形携3D五大场景解决方案亮相",
+      "title_en": null,
+      "title_zh": "WAIC 2026 |北京人形携3D五大场景解决方案亮相",
+      "title_bilingual": "WAIC 2026 |北京人形携3D五大场景解决方案亮相",
+      "topic_tags": [
+        "新车上市"
       ]
     },
     {
@@ -585,7 +938,7 @@
       "url": "https://cnevpost.com/2026/07/19/gwm-launches-new-tank-300",
       "published_at": "2026-07-19T13:33:53Z",
       "first_seen_at": "2026-07-19T14:37:38.572984Z",
-      "last_seen_at": "2026-07-20T05:03:42.094821Z",
+      "last_seen_at": "2026-07-20T08:23:36.178004Z",
       "title_original": "GWM launches new Tank 300 as off-road brand faces sales slump",
       "title_en": "GWM launches new Tank 300 as off-road brand faces sales slump",
       "title_zh": "越野品牌销量下滑 长城汽车推出新款坦克300",
@@ -597,6 +950,22 @@
       ]
     },
     {
+      "id": "a1cf73004b1329542b0f02a386ccb325e400dd87",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "WAIC 2026 | 临界点集中展示灵巧操作全产品矩阵",
+      "url": "https://auto.gasgoo.com/news/202607/19I70466479C601.shtml",
+      "published_at": "2026-07-19T13:06:59Z",
+      "first_seen_at": "2026-07-20T08:23:36.178004Z",
+      "last_seen_at": "2026-07-20T08:23:36.178004Z",
+      "title_original": "WAIC 2026 | 临界点集中展示灵巧操作全产品矩阵",
+      "title_en": null,
+      "title_zh": "WAIC 2026 | 临界点集中展示灵巧操作全产品矩阵",
+      "title_bilingual": "WAIC 2026 | 临界点集中展示灵巧操作全产品矩阵",
+      "topic_tags": []
+    },
+    {
       "id": "7211c256caa89082e95eb462ab5d737dbebcfae7",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -605,7 +974,7 @@
       "url": "https://cnevpost.com/2026/07/19/nio-onvo-l90-deliveries-60000",
       "published_at": "2026-07-19T12:45:18Z",
       "first_seen_at": "2026-07-19T13:13:59.849285Z",
-      "last_seen_at": "2026-07-20T05:03:42.094821Z",
+      "last_seen_at": "2026-07-20T08:23:36.178004Z",
       "title_original": "Nio's Onvo brand sees L90 SUV deliveries top 60,000",
       "title_en": "Nio's Onvo brand sees L90 SUV deliveries top 60,000",
       "title_zh": "蔚来Onvo品牌L90 SUV销量突破6万辆",
@@ -626,7 +995,7 @@
       "url": "https://auto.gasgoo.com/news/202607/19I70466477C601.shtml",
       "published_at": "2026-07-19T12:20:25Z",
       "first_seen_at": "2026-07-20T05:03:42.094821Z",
-      "last_seen_at": "2026-07-20T05:03:42.094821Z",
+      "last_seen_at": "2026-07-20T08:23:36.178004Z",
       "title_original": "Seeds | 一目科技E轮融了超10亿，估值破百亿",
       "title_en": null,
       "title_zh": "Seeds | 一目科技E轮融了超10亿，估值破百亿",
@@ -642,7 +1011,7 @@
       "url": "https://auto.gasgoo.com/news/202607/19I70466474C601.shtml",
       "published_at": "2026-07-19T11:59:05Z",
       "first_seen_at": "2026-07-20T05:03:42.094821Z",
-      "last_seen_at": "2026-07-20T05:03:42.094821Z",
+      "last_seen_at": "2026-07-20T08:23:36.178004Z",
       "title_original": "WAIC 2026 | 松延动力携多款机器人亮相",
       "title_en": null,
       "title_zh": "WAIC 2026 | 松延动力携多款机器人亮相",
@@ -660,51 +1029,12 @@
       "url": "https://auto.gasgoo.com/news/202607/19I70466406C109.shtml",
       "published_at": "2026-07-19T11:52:54Z",
       "first_seen_at": "2026-07-20T05:03:42.094821Z",
-      "last_seen_at": "2026-07-20T05:03:42.094821Z",
+      "last_seen_at": "2026-07-20T08:23:36.178004Z",
       "title_original": "历史性突破，这家新势力，如何改写车市格局？",
       "title_en": null,
       "title_zh": "历史性突破，这家新势力，如何改写车市格局？",
       "title_bilingual": "历史性突破，这家新势力，如何改写车市格局？",
       "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "82cd43773328af1bc50c4447e1b23d82bf6f194f",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "盖世周报 | 奔驰扩建工厂；博世美国首座半导体工厂启动样品生产",
-      "url": "https://auto.gasgoo.com/news/202607/19I70466048C109.shtml",
-      "published_at": "2026-07-19T07:05:56Z",
-      "first_seen_at": "2026-07-19T23:28:19.020243Z",
-      "last_seen_at": "2026-07-20T05:03:42.094821Z",
-      "title_original": "盖世周报 | 奔驰扩建工厂；博世美国首座半导体工厂启动样品生产",
-      "title_en": null,
-      "title_zh": "盖世周报 | 奔驰扩建工厂；博世美国首座半导体工厂启动样品生产",
-      "title_bilingual": "盖世周报 | 奔驰扩建工厂；博世美国首座半导体工厂启动样品生产",
-      "topic_tags": [
-        "车企竞争",
-        "供应链"
-      ]
-    },
-    {
-      "id": "6988ce60f6f75eb423347ca6624e8e8a8eab165c",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "BYD Fang Cheng Bao Formula S to offer 900 km of range in China",
-      "url": "https://carnewschina.com/2026/07/19/byd-fang-cheng-bao-formula-s-to-offer-900-km-of-range-in-china",
-      "published_at": "2026-07-19T05:31:27Z",
-      "first_seen_at": "2026-07-19T07:04:52.477850Z",
-      "last_seen_at": "2026-07-20T05:03:42.094821Z",
-      "title_original": "BYD Fang Cheng Bao Formula S to offer 900 km of range in China",
-      "title_en": "BYD Fang Cheng Bao Formula S to offer 900 km of range in China",
-      "title_zh": "比亚迪方成宝 Formula S 将在中国提供 900 公里的续航里程",
-      "title_bilingual": "比亚迪方成宝 Formula S 将在中国提供 900 公里的续航里程 / BYD Fang Cheng Bao Formula S to offer 900 km of range in China",
-      "topic_tags": [
-        "新能源",
-        "补能电池",
         "车企竞争"
       ]
     }
