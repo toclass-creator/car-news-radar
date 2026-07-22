@@ -1,58 +1,62 @@
 {
-  "generated_at": "2026-07-22T00:56:21.077187Z",
+  "generated_at": "2026-07-22T04:16:28.568311Z",
   "window_hours": 24,
-  "total_items": 27,
-  "total_items_ai_raw": 30,
-  "total_items_raw": 3536,
-  "total_items_all_mode": 3154,
+  "total_items": 33,
+  "total_items_ai_raw": 41,
+  "total_items_raw": 3506,
+  "total_items_all_mode": 3157,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 74305,
+  "archive_total": 74217,
   "site_count": 3,
-  "source_count": 8,
+  "source_count": 11,
   "site_stats": [
     {
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "count": 14,
-      "raw_count": 17
+      "count": 20,
+      "raw_count": 28
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "count": 13,
-      "raw_count": 3337
+      "raw_count": 3301
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "count": 0,
-      "raw_count": 182
+      "raw_count": 177
     }
   ],
   "topic_tag_stats": [
     {
       "tag": "车企竞争",
-      "count": 18
+      "count": 24
     },
     {
       "tag": "新能源",
-      "count": 12
-    },
-    {
-      "tag": "新车上市",
-      "count": 10
+      "count": 11
     },
     {
       "tag": "购车决策",
       "count": 10
     },
     {
-      "tag": "补能电池",
-      "count": 5
+      "tag": "新车上市",
+      "count": 9
     },
     {
       "tag": "供应链",
+      "count": 6
+    },
+    {
+      "tag": "补能电池",
       "count": 4
+    },
+    {
+      "tag": "销量市场",
+      "count": 3
     },
     {
       "tag": "价格战",
@@ -61,9 +65,93 @@
     {
       "tag": "召回安全",
       "count": 1
+    },
+    {
+      "tag": "智能驾驶",
+      "count": 1
     }
   ],
   "items": [
+    {
+      "id": "00f798b27bc6d98e0974d223f7f7e7498a8d543b",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "BYD unveils Qin Max interior as launch nears",
+      "url": "https://cnevpost.com/2026/07/22/byd-qin-max-interior",
+      "published_at": "2026-07-22T03:56:26Z",
+      "first_seen_at": "2026-07-22T04:16:28.568311Z",
+      "last_seen_at": "2026-07-22T04:16:28.568311Z",
+      "title_original": "BYD unveils Qin Max interior as launch nears",
+      "title_en": "BYD unveils Qin Max interior as launch nears",
+      "title_zh": "比亚迪秦Max内饰即将上市",
+      "title_bilingual": "比亚迪秦Max内饰即将上市 / BYD unveils Qin Max interior as launch nears",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "53ef9650d80db78fc45e21b01bd869af59cfc421",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Spoilers and splitters: GWM teases Ora 5 GT & Sport trims in China",
+      "url": "https://carnewschina.com/2026/07/22/gwm-teases-ora-5-gt-sport-trims-in-china",
+      "published_at": "2026-07-22T03:55:01Z",
+      "first_seen_at": "2026-07-22T04:16:28.568311Z",
+      "last_seen_at": "2026-07-22T04:16:28.568311Z",
+      "title_original": "Spoilers and splitters: GWM teases Ora 5 GT & Sport trims in China",
+      "title_en": "Spoilers and splitters: GWM teases Ora 5 GT & Sport trims in China",
+      "title_zh": "扰流板和分离器：长城汽车在中国预告欧拉 5 GT 和运动版装饰",
+      "title_bilingual": "扰流板和分离器：长城汽车在中国预告欧拉 5 GT 和运动版装饰 / Spoilers and splitters: GWM teases Ora 5 GT & Sport trims in China",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "83a185854450805479d3ddddadea172da4f76b35",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Nio moves beyond cash-burning EV label on chip unit's AI push, Morgan Stanley says",
+      "url": "https://cnevpost.com/2026/07/22/nio-moves-beyond-cash-burning-ev-label-chip-ai-push-morgan-stanley",
+      "published_at": "2026-07-22T03:21:29Z",
+      "first_seen_at": "2026-07-22T04:16:28.568311Z",
+      "last_seen_at": "2026-07-22T04:16:28.568311Z",
+      "title_original": "Nio moves beyond cash-burning EV label on chip unit's AI push, Morgan Stanley says",
+      "title_en": "Nio moves beyond cash-burning EV label on chip unit's AI push, Morgan Stanley says",
+      "title_zh": "摩根士丹利表示，蔚来在芯片部门的人工智能推动上超越了烧钱的电动汽车标签",
+      "title_bilingual": "摩根士丹利表示，蔚来在芯片部门的人工智能推动上超越了烧钱的电动汽车标签 / Nio moves beyond cash-burning EV label on chip unit's AI push, Morgan Stanley says",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "供应链"
+      ]
+    },
+    {
+      "id": "c46df4c9cb406bba2739093ee9b34a7ab841c609",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Deutsche Bank starts Nio LiDAR supplier Seyond at buy, sees 60% upside",
+      "url": "https://cnevpost.com/2026/07/22/deutsche-bank-starts-seyond-at-buy",
+      "published_at": "2026-07-22T02:11:45Z",
+      "first_seen_at": "2026-07-22T04:16:28.568311Z",
+      "last_seen_at": "2026-07-22T04:16:28.568311Z",
+      "title_original": "Deutsche Bank starts Nio LiDAR supplier Seyond at buy, sees 60% upside",
+      "title_en": "Deutsche Bank starts Nio LiDAR supplier Seyond at buy, sees 60% upside",
+      "title_zh": "德意志银行开始买入蔚来激光雷达供应商 Seyond，预计上涨空间达 60%",
+      "title_bilingual": "德意志银行开始买入蔚来激光雷达供应商 Seyond，预计上涨空间达 60% / Deutsche Bank starts Nio LiDAR supplier Seyond at buy, sees 60% upside",
+      "topic_tags": [
+        "新能源",
+        "智能驾驶",
+        "车企竞争",
+        "供应链"
+      ]
+    },
     {
       "id": "edb478da2d9316532bbafa769b1b2cf2ca30d01f",
       "site_id": "tophub",
@@ -73,7 +161,7 @@
       "url": "http://vc.yiche.com/vplay/12220413.html",
       "published_at": null,
       "first_seen_at": "2026-07-21T21:19:25.684885Z",
-      "last_seen_at": "2026-07-22T00:56:21.077187Z",
+      "last_seen_at": "2026-07-22T04:16:28.568311Z",
       "title_original": "豪华需要一些留白 静态体验极氪9X五座版",
       "title_en": null,
       "title_zh": "豪华需要一些留白 静态体验极氪9X五座版",
@@ -92,7 +180,7 @@
       "url": "http://vc.yiche.com/vplay/12166079.html",
       "published_at": null,
       "first_seen_at": "2026-07-21T21:19:25.684885Z",
-      "last_seen_at": "2026-07-22T00:56:21.077187Z",
+      "last_seen_at": "2026-07-22T04:16:28.568311Z",
       "title_original": "《帮看车》3.3秒加速，动力超猛！试驾海豹08",
       "title_en": null,
       "title_zh": "《帮看车》3.3秒加速，动力超猛！试驾海豹08",
@@ -110,7 +198,7 @@
       "url": "http://vc.yiche.com/vplay/12187891.html",
       "published_at": null,
       "first_seen_at": "2026-07-21T21:19:25.684885Z",
-      "last_seen_at": "2026-07-22T00:56:21.077187Z",
+      "last_seen_at": "2026-07-22T04:16:28.568311Z",
       "title_original": "长城H10正式预售，和钛7比，有什么优劣势？",
       "title_en": null,
       "title_zh": "长城H10正式预售，和钛7比，有什么优劣势？",
@@ -129,7 +217,7 @@
       "url": "http://vc.yiche.com/vplay/12199098.html",
       "published_at": null,
       "first_seen_at": "2026-07-21T21:19:25.684885Z",
-      "last_seen_at": "2026-07-22T00:56:21.077187Z",
+      "last_seen_at": "2026-07-22T04:16:28.568311Z",
       "title_original": "全方位体验全新神行者8，华为硬派SUV内饰首曝丨野生1",
       "title_en": null,
       "title_zh": "全方位体验全新神行者8，华为硬派SUV内饰首曝丨野生1",
@@ -148,7 +236,7 @@
       "url": "http://vc.yiche.com/vplay/12165351.html",
       "published_at": null,
       "first_seen_at": "2026-07-21T21:19:25.684885Z",
-      "last_seen_at": "2026-07-22T00:56:21.077187Z",
+      "last_seen_at": "2026-07-22T04:16:28.568311Z",
       "title_original": "网传MG 4X电池锁电？上汽名爵：与事实严重不符，属于不实信息",
       "title_en": null,
       "title_zh": "网传MG 4X电池锁电？上汽名爵：与事实严重不符，属于不实信息",
@@ -166,7 +254,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/afa6198adbdb2880/115514562-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-21T16:53:24.847534Z",
-      "last_seen_at": "2026-07-22T00:56:21.077187Z",
+      "last_seen_at": "2026-07-22T04:16:28.568311Z",
       "title_original": "底盘操控出色 Model 3提车作业分享",
       "title_en": null,
       "title_zh": "底盘操控出色 Model 3提车作业分享",
@@ -185,7 +273,7 @@
       "url": "https://i.autohome.com.cn/293902068",
       "published_at": null,
       "first_seen_at": "2026-07-21T16:53:24.847534Z",
-      "last_seen_at": "2026-07-22T00:56:21.077187Z",
+      "last_seen_at": "2026-07-22T04:16:28.568311Z",
       "title_original": "开过才懂！理想L8 Ultra用车感受",
       "title_en": null,
       "title_zh": "开过才懂！理想L8 Ultra用车感受",
@@ -204,7 +292,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/7f42e90b759bd18c/115600836-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-21T16:53:24.847534Z",
-      "last_seen_at": "2026-07-22T00:56:21.077187Z",
+      "last_seen_at": "2026-07-22T04:16:28.568311Z",
       "title_original": "满足自己就是最好的 小鹏GX提车",
       "title_en": null,
       "title_zh": "满足自己就是最好的 小鹏GX提车",
@@ -223,7 +311,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/92e5ac6990a8b41d/115594924-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-21T16:53:24.847534Z",
-      "last_seen_at": "2026-07-22T00:56:21.077187Z",
+      "last_seen_at": "2026-07-22T04:16:28.568311Z",
       "title_original": "动力十足操控灵敏 极氪8X提车作业",
       "title_en": null,
       "title_zh": "动力十足操控灵敏 极氪8X提车作业",
@@ -242,7 +330,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/8c4118583a9fda24/115570516-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-21T16:53:24.847534Z",
-      "last_seen_at": "2026-07-22T00:56:21.077187Z",
+      "last_seen_at": "2026-07-22T04:16:28.568311Z",
       "title_original": "适合上班通勤 极氪7X真实用车体验",
       "title_en": null,
       "title_zh": "适合上班通勤 极氪7X真实用车体验",
@@ -261,7 +349,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/f2a55f831ccbfb87/115494787-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-21T16:53:24.847534Z",
-      "last_seen_at": "2026-07-22T00:56:21.077187Z",
+      "last_seen_at": "2026-07-22T04:16:28.568311Z",
       "title_original": "一眼种草 零跑Lafa5 605Pro提车分享",
       "title_en": null,
       "title_zh": "一眼种草 零跑Lafa5 605Pro提车分享",
@@ -280,7 +368,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/7de5a4c9084a6955/115544995-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-21T16:53:24.847534Z",
-      "last_seen_at": "2026-07-22T00:56:21.077187Z",
+      "last_seen_at": "2026-07-22T04:16:28.568311Z",
       "title_original": "颜值拉满 长安启源A06提车作业分享",
       "title_en": null,
       "title_zh": "颜值拉满 长安启源A06提车作业分享",
@@ -299,7 +387,7 @@
       "url": "https://cnevpost.com/2026/07/21/geely-galaxy-tt-ultra-opens-pre-sales",
       "published_at": "2026-07-21T12:37:50Z",
       "first_seen_at": "2026-07-21T12:51:51.498138Z",
-      "last_seen_at": "2026-07-22T00:56:21.077187Z",
+      "last_seen_at": "2026-07-22T04:16:28.568311Z",
       "title_original": "Geely Galaxy TT Ultra opens pre-sales in China at about $30,900",
       "title_en": "Geely Galaxy TT Ultra opens pre-sales in China at about $30,900",
       "title_zh": "吉利 Galaxy TT Ultra 在中国开启预售，售价约 30,900 美元",
@@ -312,6 +400,24 @@
       ]
     },
     {
+      "id": "bb16866c4cc87d9a646342f34ef820c60e8cce6a",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "【国际快讯】6月中国品牌在欧洲销量大涨118%；美国宣布对加拿大部分产品加征50%关税；​本田与广汽签署合资续约协议",
+      "url": "https://auto.gasgoo.com/news/202607/21I70466669C108.shtml",
+      "published_at": "2026-07-21T12:00:46Z",
+      "first_seen_at": "2026-07-22T04:16:28.568311Z",
+      "last_seen_at": "2026-07-22T04:16:28.568311Z",
+      "title_original": "【国际快讯】6月中国品牌在欧洲销量大涨118%；美国宣布对加拿大部分产品加征50%关税；​本田与广汽签署合资续约协议",
+      "title_en": null,
+      "title_zh": "【国际快讯】6月中国品牌在欧洲销量大涨118%；美国宣布对加拿大部分产品加征50%关税；​本田与广汽签署合资续约协议",
+      "title_bilingual": "【国际快讯】6月中国品牌在欧洲销量大涨118%；美国宣布对加拿大部分产品加征50%关税；​本田与广汽签署合资续约协议",
+      "topic_tags": [
+        "销量市场"
+      ]
+    },
+    {
       "id": "4d64e475dd7c3b24d224b1576e4edff0c4baebdf",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -320,7 +426,7 @@
       "url": "https://cnevpost.com/2026/07/21/catl-sodium-battery-storage-deal-solarpro",
       "published_at": "2026-07-21T11:52:29Z",
       "first_seen_at": "2026-07-21T12:51:51.498138Z",
-      "last_seen_at": "2026-07-22T00:56:21.077187Z",
+      "last_seen_at": "2026-07-22T04:16:28.568311Z",
       "title_original": "CATL signs 2 GWh sodium battery storage deal with Europe's Solarpro",
       "title_en": "CATL signs 2 GWh sodium battery storage deal with Europe's Solarpro",
       "title_zh": "CATL与欧洲Solarpro签署2GWh钠电池存储协议",
@@ -338,7 +444,7 @@
       "url": "https://carnewschina.com/2026/07/21/geely-galaxy-tt-ultra-with-worlds-first-16-in-1-electric-drive-opens-pre-sales",
       "published_at": "2026-07-21T11:50:07Z",
       "first_seen_at": "2026-07-21T12:51:51.498138Z",
-      "last_seen_at": "2026-07-22T00:56:21.077187Z",
+      "last_seen_at": "2026-07-22T04:16:28.568311Z",
       "title_original": "Geely Galaxy TT Ultra with world’s first 16-in-1 electric drive opens pre-sales",
       "title_en": "Geely Galaxy TT Ultra with world’s first 16-in-1 electric drive opens pre-sales",
       "title_zh": "全球首款16合1电驱吉利Galaxy TT Ultra开启预售",
@@ -350,6 +456,158 @@
       ]
     },
     {
+      "id": "9ab84c068a5201fe49069ca0d4c7a9fa6caf16a5",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "6月欧洲汽车销量增长13% 中国品牌增幅达118%",
+      "url": "https://auto.gasgoo.com/news/202607/21I70466667C110.shtml",
+      "published_at": "2026-07-21T11:29:10Z",
+      "first_seen_at": "2026-07-22T04:16:28.568311Z",
+      "last_seen_at": "2026-07-22T04:16:28.568311Z",
+      "title_original": "6月欧洲汽车销量增长13% 中国品牌增幅达118%",
+      "title_en": null,
+      "title_zh": "6月欧洲汽车销量增长13% 中国品牌增幅达118%",
+      "title_bilingual": "6月欧洲汽车销量增长13% 中国品牌增幅达118%",
+      "topic_tags": [
+        "销量市场"
+      ]
+    },
+    {
+      "id": "2535d37f7acb8b83096001b0c10065a2edf1d92f",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "Stellantis任命Jeep和Ram品牌新CEO",
+      "url": "https://auto.gasgoo.com/news/202607/21I70466660C109.shtml",
+      "published_at": "2026-07-21T10:32:17Z",
+      "first_seen_at": "2026-07-22T04:16:28.568311Z",
+      "last_seen_at": "2026-07-22T04:16:28.568311Z",
+      "title_original": "Stellantis任命Jeep和Ram品牌新CEO",
+      "title_en": null,
+      "title_zh": "Stellantis任命Jeep和Ram品牌新CEO",
+      "title_bilingual": "Stellantis任命Jeep和Ram品牌新CEO",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "aa16fa58d87bbc553f6745ca3719e72469a42b50",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-供应链",
+      "title": "蜂巢能源湖北大冶工厂首台PACK电池包正式下线",
+      "url": "https://auto.gasgoo.com/news/202607/21I70466659C501.shtml",
+      "published_at": "2026-07-21T10:17:10Z",
+      "first_seen_at": "2026-07-22T04:16:28.568311Z",
+      "last_seen_at": "2026-07-22T04:16:28.568311Z",
+      "title_original": "蜂巢能源湖北大冶工厂首台PACK电池包正式下线",
+      "title_en": null,
+      "title_zh": "蜂巢能源湖北大冶工厂首台PACK电池包正式下线",
+      "title_bilingual": "蜂巢能源湖北大冶工厂首台PACK电池包正式下线",
+      "topic_tags": [
+        "补能电池",
+        "供应链"
+      ]
+    },
+    {
+      "id": "2172afde9adca5662c09491faa291f56003daa8b",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新车",
+      "title": "蔚来firefly萤火虫halo寻光系列首款车型“栖息地”正式发售",
+      "url": "https://auto.gasgoo.com/news/202607/21I70466658C107.shtml",
+      "published_at": "2026-07-21T10:13:35Z",
+      "first_seen_at": "2026-07-22T04:16:28.568311Z",
+      "last_seen_at": "2026-07-22T04:16:28.568311Z",
+      "title_original": "蔚来firefly萤火虫halo寻光系列首款车型“栖息地”正式发售",
+      "title_en": null,
+      "title_zh": "蔚来firefly萤火虫halo寻光系列首款车型“栖息地”正式发售",
+      "title_bilingual": "蔚来firefly萤火虫halo寻光系列首款车型“栖息地”正式发售",
+      "topic_tags": [
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "305deb2aebc70714c55b135b833b156a6bbaeaf4",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "中国车企上半年墨西哥销量增长近30%",
+      "url": "https://auto.gasgoo.com/news/202607/21I70466656C110.shtml",
+      "published_at": "2026-07-21T09:51:24Z",
+      "first_seen_at": "2026-07-22T04:16:28.568311Z",
+      "last_seen_at": "2026-07-22T04:16:28.568311Z",
+      "title_original": "中国车企上半年墨西哥销量增长近30%",
+      "title_en": null,
+      "title_zh": "中国车企上半年墨西哥销量增长近30%",
+      "title_bilingual": "中国车企上半年墨西哥销量增长近30%",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "33173cf1fa28b96436ee32abd5a286fcec2437b1",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "华为超充上线大众充电地图，首批接入574座城市超充站",
+      "url": "https://auto.gasgoo.com/news/202607/21I70466654C108.shtml",
+      "published_at": "2026-07-21T09:47:06Z",
+      "first_seen_at": "2026-07-22T04:16:28.568311Z",
+      "last_seen_at": "2026-07-22T04:16:28.568311Z",
+      "title_original": "华为超充上线大众充电地图，首批接入574座城市超充站",
+      "title_en": null,
+      "title_zh": "华为超充上线大众充电地图，首批接入574座城市超充站",
+      "title_bilingual": "华为超充上线大众充电地图，首批接入574座城市超充站",
+      "topic_tags": [
+        "补能电池",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "6cc920d8ef3d6c3a3cebb2247e01b57d22b52c70",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新能源",
+      "title": "比亚迪海豹05DM-i在墨西哥正式发布",
+      "url": "https://auto.gasgoo.com/news/202607/21I70466655C501.shtml",
+      "published_at": "2026-07-21T09:46:50Z",
+      "first_seen_at": "2026-07-22T04:16:28.568311Z",
+      "last_seen_at": "2026-07-22T04:16:28.568311Z",
+      "title_original": "比亚迪海豹05DM-i在墨西哥正式发布",
+      "title_en": null,
+      "title_zh": "比亚迪海豹05DM-i在墨西哥正式发布",
+      "title_bilingual": "比亚迪海豹05DM-i在墨西哥正式发布",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "f80e6082ed900661976f4bc47fbaf7d08979b6bf",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "比亚迪巴西工厂第10万辆新能源车下线",
+      "url": "https://auto.gasgoo.com/news/202607/21I70466653C501.shtml",
+      "published_at": "2026-07-21T09:44:01Z",
+      "first_seen_at": "2026-07-22T04:16:28.568311Z",
+      "last_seen_at": "2026-07-22T04:16:28.568311Z",
+      "title_original": "比亚迪巴西工厂第10万辆新能源车下线",
+      "title_en": null,
+      "title_zh": "比亚迪巴西工厂第10万辆新能源车下线",
+      "title_bilingual": "比亚迪巴西工厂第10万辆新能源车下线",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "供应链"
+      ]
+    },
+    {
       "id": "10bb0be27793d8fe4764408ff7b50d065d62a299",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -358,7 +616,7 @@
       "url": "https://www.dongchedi.com/article/7664407444903035417",
       "published_at": null,
       "first_seen_at": "2026-07-21T09:08:33.727013Z",
-      "last_seen_at": "2026-07-22T00:56:21.077187Z",
+      "last_seen_at": "2026-07-22T04:16:28.568311Z",
       "title_original": "2026款小鹏GX新车商品性评价",
       "title_en": null,
       "title_zh": "2026款小鹏GX新车商品性评价",
@@ -377,7 +635,7 @@
       "url": "https://auto.gasgoo.com/news/202607/21I70466652C501.shtml",
       "published_at": "2026-07-21T08:37:01Z",
       "first_seen_at": "2026-07-22T00:56:21.077187Z",
-      "last_seen_at": "2026-07-22T00:56:21.077187Z",
+      "last_seen_at": "2026-07-22T04:16:28.568311Z",
       "title_original": "埃安将发布首台搭载全新LOGO车型，7月28日亮相",
       "title_en": null,
       "title_zh": "埃安将发布首台搭载全新LOGO车型，7月28日亮相",
@@ -396,7 +654,7 @@
       "url": "https://auto.gasgoo.com/news/202607/21I70466566C501.shtml",
       "published_at": "2026-07-21T07:00:57Z",
       "first_seen_at": "2026-07-21T23:27:46.664823Z",
-      "last_seen_at": "2026-07-22T00:56:21.077187Z",
+      "last_seen_at": "2026-07-22T04:16:28.568311Z",
       "title_original": "【盖世快讯】广汽本田续约；《新能源汽车维修作业安全要求》国家标准将实施",
       "title_en": null,
       "title_zh": "【盖世快讯】广汽本田续约；《新能源汽车维修作业安全要求》国家标准将实施",
@@ -416,7 +674,7 @@
       "url": "https://auto.gasgoo.com/news/202607/21I70466536C109.shtml",
       "published_at": "2026-07-21T07:00:00Z",
       "first_seen_at": "2026-07-21T23:27:46.664823Z",
-      "last_seen_at": "2026-07-22T00:56:21.077187Z",
+      "last_seen_at": "2026-07-22T04:16:28.568311Z",
       "title_original": "物理AI如何“上车”？小鹏MONA L03核心零部件配套供应商一览",
       "title_en": null,
       "title_zh": "物理AI如何“上车”？小鹏MONA L03核心零部件配套供应商一览",
@@ -435,7 +693,7 @@
       "url": "https://cnevpost.com/2026/07/21/shanghai-share-nio-retail-h1",
       "published_at": "2026-07-21T06:20:32Z",
       "first_seen_at": "2026-07-21T06:25:53.578056Z",
-      "last_seen_at": "2026-07-22T00:56:21.077187Z",
+      "last_seen_at": "2026-07-22T04:16:28.568311Z",
       "title_original": "Shanghai contributes 11% of Nio's China retail sales in H1",
       "title_en": "Shanghai contributes 11% of Nio's China retail sales in H1",
       "title_zh": "上海上半年贡献蔚来中国零售额11%",
@@ -443,150 +701,91 @@
       "topic_tags": [
         "新能源",
         "车企竞争"
-      ]
-    },
-    {
-      "id": "19f707a3c28e97842bf56d01c5f13c9d377ae7f7",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Geely Galaxy Cruiser 700 with 1,113-hp tri-motor system to debut on July 24",
-      "url": "https://cnevpost.com/2026/07/21/geely-galaxy-cruiser-700-debut-jul-24",
-      "published_at": "2026-07-21T03:28:40Z",
-      "first_seen_at": "2026-07-21T03:54:42.717378Z",
-      "last_seen_at": "2026-07-22T00:56:21.077187Z",
-      "title_original": "Geely Galaxy Cruiser 700 with 1,113-hp tri-motor system to debut on July 24",
-      "title_en": "Geely Galaxy Cruiser 700 with 1,113-hp tri-motor system to debut on July 24",
-      "title_zh": "搭载1,113马力三电机系统的吉利银河巡洋舰700将于7月24日首发",
-      "title_bilingual": "搭载1,113马力三电机系统的吉利银河巡洋舰700将于7月24日首发 / Geely Galaxy Cruiser 700 with 1,113-hp tri-motor system to debut on July 24",
-      "topic_tags": [
-        "新能源",
-        "车企竞争",
-        "供应链",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "bc182b5a218b18116dd498306bffc6678afa9681",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "BYD launches Seal 05 DM-i plug-in hybrid sedan in Mexico under BYD King name",
-      "url": "https://cnevpost.com/2026/07/21/byd-launches-seal-05-dm-i-mexico-byd-king",
-      "published_at": "2026-07-21T02:58:12Z",
-      "first_seen_at": "2026-07-21T03:54:42.717378Z",
-      "last_seen_at": "2026-07-22T00:56:21.077187Z",
-      "title_original": "BYD launches Seal 05 DM-i plug-in hybrid sedan in Mexico under BYD King name",
-      "title_en": "BYD launches Seal 05 DM-i plug-in hybrid sedan in Mexico under BYD King name",
-      "title_zh": "比亚迪在墨西哥推出比亚迪King名称的Seal 05 DM-i插电式混合动力轿车",
-      "title_bilingual": "比亚迪在墨西哥推出比亚迪King名称的Seal 05 DM-i插电式混合动力轿车 / BYD launches Seal 05 DM-i plug-in hybrid sedan in Mexico under BYD King name",
-      "topic_tags": [
-        "新能源",
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "d971e6989383bba3a16ae861ee8522c55400da05",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Voyah’s “Xiaomi YU7 challenger” Passion S to open pre-sales on July 24",
-      "url": "https://carnewschina.com/2026/07/21/voyahs-xiaomi-yu7-challenger-passion-s-to-open-pre-sales-on-july-24",
-      "published_at": "2026-07-21T02:34:38Z",
-      "first_seen_at": "2026-07-21T03:54:42.717378Z",
-      "last_seen_at": "2026-07-22T00:56:21.077187Z",
-      "title_original": "Voyah’s “Xiaomi YU7 challenger” Passion S to open pre-sales on July 24",
-      "title_en": "Voyah’s “Xiaomi YU7 challenger” Passion S to open pre-sales on July 24",
-      "title_zh": "Voyah“小米YU7挑战者”Passion S将于7月24日开启预售",
-      "title_bilingual": "Voyah“小米YU7挑战者”Passion S将于7月24日开启预售 / Voyah’s “Xiaomi YU7 challenger” Passion S to open pre-sales on July 24",
-      "topic_tags": [
-        "新能源",
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "e37f712c661e412be0ad344d6b30cfce74e7d44d",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Li Auto sets up chip company, echoing Nio's spin-off playbook",
-      "url": "https://cnevpost.com/2026/07/21/li-auto-sets-up-chip-company",
-      "published_at": "2026-07-21T02:30:58Z",
-      "first_seen_at": "2026-07-21T03:54:42.717378Z",
-      "last_seen_at": "2026-07-22T00:56:21.077187Z",
-      "title_original": "Li Auto sets up chip company, echoing Nio's spin-off playbook",
-      "title_en": "Li Auto sets up chip company, echoing Nio's spin-off playbook",
-      "title_zh": "理想汽车成立芯片公司，呼应蔚来分拆策略",
-      "title_bilingual": "理想汽车成立芯片公司，呼应蔚来分拆策略 / Li Auto sets up chip company, echoing Nio's spin-off playbook",
-      "topic_tags": [
-        "新能源",
-        "车企竞争",
-        "供应链"
-      ]
-    },
-    {
-      "id": "5df82af3c729a1ccd58e2a8932fdb6591a72d5bb",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "MG 07 arrives at dealerships across China with 840 km range and 800V ahead of July 29 pre-sale",
-      "url": "https://carnewschina.com/2026/07/21/mg-07-arrives-at-dealerships-across-china-with-840-km-range-and-800v-platform-ahead-of-july-29-pre-sale",
-      "published_at": "2026-07-21T02:09:24Z",
-      "first_seen_at": "2026-07-21T03:54:42.717378Z",
-      "last_seen_at": "2026-07-22T00:56:21.077187Z",
-      "title_original": "MG 07 arrives at dealerships across China with 840 km range and 800V ahead of July 29 pre-sale",
-      "title_en": "MG 07 arrives at dealerships across China with 840 km range and 800V ahead of July 29 pre-sale",
-      "title_zh": "MG 07抵达中国各地经销商 续航里程840公里、800V 7月29日预售",
-      "title_bilingual": "MG 07抵达中国各地经销商 续航里程840公里、800V 7月29日预售 / MG 07 arrives at dealerships across China with 840 km range and 800V ahead of July 29 pre-sale",
-      "topic_tags": [
-        "新能源",
-        "补能电池",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "94ddb282191b9a72b1a68746a32bb5534728b817",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "CALB battery issues trigger massive failures in GAC Aion S fleet",
-      "url": "https://carnewschina.com/2026/07/21/calb-battery-issues-trigger-massice-failures-in-gac-aion-s-fleet",
-      "published_at": "2026-07-21T01:30:34Z",
-      "first_seen_at": "2026-07-21T09:08:33.727013Z",
-      "last_seen_at": "2026-07-22T00:56:21.077187Z",
-      "title_original": "CALB battery issues trigger massive failures in GAC Aion S fleet",
-      "title_en": "CALB battery issues trigger massive failures in GAC Aion S fleet",
-      "title_zh": "CALB电池问题引发广汽Aion S车队大规模故障",
-      "title_bilingual": "CALB电池问题引发广汽Aion S车队大规模故障 / CALB battery issues trigger massive failures in GAC Aion S fleet",
-      "topic_tags": [
-        "新能源",
-        "补能电池"
-      ]
-    },
-    {
-      "id": "b00144ce9c20889ce07c04c60d5b1b38f925a57f",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "CALB battery issues trigger massice failures in GAC Aion S fleet",
-      "url": "https://carnewschina.com/2026/07/21/calb-battery-issues-trigger-massice-failures-in-gac-aion-s-fleet",
-      "published_at": "2026-07-21T01:30:34Z",
-      "first_seen_at": "2026-07-21T03:54:42.717378Z",
-      "last_seen_at": "2026-07-21T06:25:53.578056Z",
-      "title_original": "CALB battery issues trigger massice failures in GAC Aion S fleet",
-      "title_en": "CALB battery issues trigger massice failures in GAC Aion S fleet",
-      "title_zh": "CALB电池问题引发广汽Aion S车队大规模故障",
-      "title_bilingual": "CALB电池问题引发广汽Aion S车队大规模故障 / CALB battery issues trigger massice failures in GAC Aion S fleet",
-      "topic_tags": [
-        "新能源",
-        "补能电池"
       ]
     }
   ],
   "items_ai": [
     {
+      "id": "00f798b27bc6d98e0974d223f7f7e7498a8d543b",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "BYD unveils Qin Max interior as launch nears",
+      "url": "https://cnevpost.com/2026/07/22/byd-qin-max-interior",
+      "published_at": "2026-07-22T03:56:26Z",
+      "first_seen_at": "2026-07-22T04:16:28.568311Z",
+      "last_seen_at": "2026-07-22T04:16:28.568311Z",
+      "title_original": "BYD unveils Qin Max interior as launch nears",
+      "title_en": "BYD unveils Qin Max interior as launch nears",
+      "title_zh": "比亚迪秦Max内饰即将上市",
+      "title_bilingual": "比亚迪秦Max内饰即将上市 / BYD unveils Qin Max interior as launch nears",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "53ef9650d80db78fc45e21b01bd869af59cfc421",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Spoilers and splitters: GWM teases Ora 5 GT & Sport trims in China",
+      "url": "https://carnewschina.com/2026/07/22/gwm-teases-ora-5-gt-sport-trims-in-china",
+      "published_at": "2026-07-22T03:55:01Z",
+      "first_seen_at": "2026-07-22T04:16:28.568311Z",
+      "last_seen_at": "2026-07-22T04:16:28.568311Z",
+      "title_original": "Spoilers and splitters: GWM teases Ora 5 GT & Sport trims in China",
+      "title_en": "Spoilers and splitters: GWM teases Ora 5 GT & Sport trims in China",
+      "title_zh": "扰流板和分离器：长城汽车在中国预告欧拉 5 GT 和运动版装饰",
+      "title_bilingual": "扰流板和分离器：长城汽车在中国预告欧拉 5 GT 和运动版装饰 / Spoilers and splitters: GWM teases Ora 5 GT & Sport trims in China",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "83a185854450805479d3ddddadea172da4f76b35",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Nio moves beyond cash-burning EV label on chip unit's AI push, Morgan Stanley says",
+      "url": "https://cnevpost.com/2026/07/22/nio-moves-beyond-cash-burning-ev-label-chip-ai-push-morgan-stanley",
+      "published_at": "2026-07-22T03:21:29Z",
+      "first_seen_at": "2026-07-22T04:16:28.568311Z",
+      "last_seen_at": "2026-07-22T04:16:28.568311Z",
+      "title_original": "Nio moves beyond cash-burning EV label on chip unit's AI push, Morgan Stanley says",
+      "title_en": "Nio moves beyond cash-burning EV label on chip unit's AI push, Morgan Stanley says",
+      "title_zh": "摩根士丹利表示，蔚来在芯片部门的人工智能推动上超越了烧钱的电动汽车标签",
+      "title_bilingual": "摩根士丹利表示，蔚来在芯片部门的人工智能推动上超越了烧钱的电动汽车标签 / Nio moves beyond cash-burning EV label on chip unit's AI push, Morgan Stanley says",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "供应链"
+      ]
+    },
+    {
+      "id": "c46df4c9cb406bba2739093ee9b34a7ab841c609",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Deutsche Bank starts Nio LiDAR supplier Seyond at buy, sees 60% upside",
+      "url": "https://cnevpost.com/2026/07/22/deutsche-bank-starts-seyond-at-buy",
+      "published_at": "2026-07-22T02:11:45Z",
+      "first_seen_at": "2026-07-22T04:16:28.568311Z",
+      "last_seen_at": "2026-07-22T04:16:28.568311Z",
+      "title_original": "Deutsche Bank starts Nio LiDAR supplier Seyond at buy, sees 60% upside",
+      "title_en": "Deutsche Bank starts Nio LiDAR supplier Seyond at buy, sees 60% upside",
+      "title_zh": "德意志银行开始买入蔚来激光雷达供应商 Seyond，预计上涨空间达 60%",
+      "title_bilingual": "德意志银行开始买入蔚来激光雷达供应商 Seyond，预计上涨空间达 60% / Deutsche Bank starts Nio LiDAR supplier Seyond at buy, sees 60% upside",
+      "topic_tags": [
+        "新能源",
+        "智能驾驶",
+        "车企竞争",
+        "供应链"
+      ]
+    },
+    {
       "id": "edb478da2d9316532bbafa769b1b2cf2ca30d01f",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -595,7 +794,7 @@
       "url": "http://vc.yiche.com/vplay/12220413.html",
       "published_at": null,
       "first_seen_at": "2026-07-21T21:19:25.684885Z",
-      "last_seen_at": "2026-07-22T00:56:21.077187Z",
+      "last_seen_at": "2026-07-22T04:16:28.568311Z",
       "title_original": "豪华需要一些留白 静态体验极氪9X五座版",
       "title_en": null,
       "title_zh": "豪华需要一些留白 静态体验极氪9X五座版",
@@ -614,7 +813,7 @@
       "url": "http://vc.yiche.com/vplay/12166079.html",
       "published_at": null,
       "first_seen_at": "2026-07-21T21:19:25.684885Z",
-      "last_seen_at": "2026-07-22T00:56:21.077187Z",
+      "last_seen_at": "2026-07-22T04:16:28.568311Z",
       "title_original": "《帮看车》3.3秒加速，动力超猛！试驾海豹08",
       "title_en": null,
       "title_zh": "《帮看车》3.3秒加速，动力超猛！试驾海豹08",
@@ -632,7 +831,7 @@
       "url": "http://vc.yiche.com/vplay/12187891.html",
       "published_at": null,
       "first_seen_at": "2026-07-21T21:19:25.684885Z",
-      "last_seen_at": "2026-07-22T00:56:21.077187Z",
+      "last_seen_at": "2026-07-22T04:16:28.568311Z",
       "title_original": "长城H10正式预售，和钛7比，有什么优劣势？",
       "title_en": null,
       "title_zh": "长城H10正式预售，和钛7比，有什么优劣势？",
@@ -651,7 +850,7 @@
       "url": "http://vc.yiche.com/vplay/12199098.html",
       "published_at": null,
       "first_seen_at": "2026-07-21T21:19:25.684885Z",
-      "last_seen_at": "2026-07-22T00:56:21.077187Z",
+      "last_seen_at": "2026-07-22T04:16:28.568311Z",
       "title_original": "全方位体验全新神行者8，华为硬派SUV内饰首曝丨野生1",
       "title_en": null,
       "title_zh": "全方位体验全新神行者8，华为硬派SUV内饰首曝丨野生1",
@@ -670,7 +869,7 @@
       "url": "http://vc.yiche.com/vplay/12165351.html",
       "published_at": null,
       "first_seen_at": "2026-07-21T21:19:25.684885Z",
-      "last_seen_at": "2026-07-22T00:56:21.077187Z",
+      "last_seen_at": "2026-07-22T04:16:28.568311Z",
       "title_original": "网传MG 4X电池锁电？上汽名爵：与事实严重不符，属于不实信息",
       "title_en": null,
       "title_zh": "网传MG 4X电池锁电？上汽名爵：与事实严重不符，属于不实信息",
@@ -688,7 +887,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/afa6198adbdb2880/115514562-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-21T16:53:24.847534Z",
-      "last_seen_at": "2026-07-22T00:56:21.077187Z",
+      "last_seen_at": "2026-07-22T04:16:28.568311Z",
       "title_original": "底盘操控出色 Model 3提车作业分享",
       "title_en": null,
       "title_zh": "底盘操控出色 Model 3提车作业分享",
@@ -707,7 +906,7 @@
       "url": "https://i.autohome.com.cn/293902068",
       "published_at": null,
       "first_seen_at": "2026-07-21T16:53:24.847534Z",
-      "last_seen_at": "2026-07-22T00:56:21.077187Z",
+      "last_seen_at": "2026-07-22T04:16:28.568311Z",
       "title_original": "开过才懂！理想L8 Ultra用车感受",
       "title_en": null,
       "title_zh": "开过才懂！理想L8 Ultra用车感受",
@@ -726,7 +925,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/7f42e90b759bd18c/115600836-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-21T16:53:24.847534Z",
-      "last_seen_at": "2026-07-22T00:56:21.077187Z",
+      "last_seen_at": "2026-07-22T04:16:28.568311Z",
       "title_original": "满足自己就是最好的 小鹏GX提车",
       "title_en": null,
       "title_zh": "满足自己就是最好的 小鹏GX提车",
@@ -745,7 +944,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/92e5ac6990a8b41d/115594924-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-21T16:53:24.847534Z",
-      "last_seen_at": "2026-07-22T00:56:21.077187Z",
+      "last_seen_at": "2026-07-22T04:16:28.568311Z",
       "title_original": "动力十足操控灵敏 极氪8X提车作业",
       "title_en": null,
       "title_zh": "动力十足操控灵敏 极氪8X提车作业",
@@ -764,7 +963,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/8c4118583a9fda24/115570516-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-21T16:53:24.847534Z",
-      "last_seen_at": "2026-07-22T00:56:21.077187Z",
+      "last_seen_at": "2026-07-22T04:16:28.568311Z",
       "title_original": "适合上班通勤 极氪7X真实用车体验",
       "title_en": null,
       "title_zh": "适合上班通勤 极氪7X真实用车体验",
@@ -783,7 +982,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/f2a55f831ccbfb87/115494787-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-21T16:53:24.847534Z",
-      "last_seen_at": "2026-07-22T00:56:21.077187Z",
+      "last_seen_at": "2026-07-22T04:16:28.568311Z",
       "title_original": "一眼种草 零跑Lafa5 605Pro提车分享",
       "title_en": null,
       "title_zh": "一眼种草 零跑Lafa5 605Pro提车分享",
@@ -802,7 +1001,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/7de5a4c9084a6955/115544995-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-21T16:53:24.847534Z",
-      "last_seen_at": "2026-07-22T00:56:21.077187Z",
+      "last_seen_at": "2026-07-22T04:16:28.568311Z",
       "title_original": "颜值拉满 长安启源A06提车作业分享",
       "title_en": null,
       "title_zh": "颜值拉满 长安启源A06提车作业分享",
@@ -821,7 +1020,7 @@
       "url": "https://cnevpost.com/2026/07/21/geely-galaxy-tt-ultra-opens-pre-sales",
       "published_at": "2026-07-21T12:37:50Z",
       "first_seen_at": "2026-07-21T12:51:51.498138Z",
-      "last_seen_at": "2026-07-22T00:56:21.077187Z",
+      "last_seen_at": "2026-07-22T04:16:28.568311Z",
       "title_original": "Geely Galaxy TT Ultra opens pre-sales in China at about $30,900",
       "title_en": "Geely Galaxy TT Ultra opens pre-sales in China at about $30,900",
       "title_zh": "吉利 Galaxy TT Ultra 在中国开启预售，售价约 30,900 美元",
@@ -834,6 +1033,24 @@
       ]
     },
     {
+      "id": "bb16866c4cc87d9a646342f34ef820c60e8cce6a",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "【国际快讯】6月中国品牌在欧洲销量大涨118%；美国宣布对加拿大部分产品加征50%关税；​本田与广汽签署合资续约协议",
+      "url": "https://auto.gasgoo.com/news/202607/21I70466669C108.shtml",
+      "published_at": "2026-07-21T12:00:46Z",
+      "first_seen_at": "2026-07-22T04:16:28.568311Z",
+      "last_seen_at": "2026-07-22T04:16:28.568311Z",
+      "title_original": "【国际快讯】6月中国品牌在欧洲销量大涨118%；美国宣布对加拿大部分产品加征50%关税；​本田与广汽签署合资续约协议",
+      "title_en": null,
+      "title_zh": "【国际快讯】6月中国品牌在欧洲销量大涨118%；美国宣布对加拿大部分产品加征50%关税；​本田与广汽签署合资续约协议",
+      "title_bilingual": "【国际快讯】6月中国品牌在欧洲销量大涨118%；美国宣布对加拿大部分产品加征50%关税；​本田与广汽签署合资续约协议",
+      "topic_tags": [
+        "销量市场"
+      ]
+    },
+    {
       "id": "4d64e475dd7c3b24d224b1576e4edff0c4baebdf",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -842,7 +1059,7 @@
       "url": "https://cnevpost.com/2026/07/21/catl-sodium-battery-storage-deal-solarpro",
       "published_at": "2026-07-21T11:52:29Z",
       "first_seen_at": "2026-07-21T12:51:51.498138Z",
-      "last_seen_at": "2026-07-22T00:56:21.077187Z",
+      "last_seen_at": "2026-07-22T04:16:28.568311Z",
       "title_original": "CATL signs 2 GWh sodium battery storage deal with Europe's Solarpro",
       "title_en": "CATL signs 2 GWh sodium battery storage deal with Europe's Solarpro",
       "title_zh": "CATL与欧洲Solarpro签署2GWh钠电池存储协议",
@@ -860,7 +1077,7 @@
       "url": "https://carnewschina.com/2026/07/21/geely-galaxy-tt-ultra-with-worlds-first-16-in-1-electric-drive-opens-pre-sales",
       "published_at": "2026-07-21T11:50:07Z",
       "first_seen_at": "2026-07-21T12:51:51.498138Z",
-      "last_seen_at": "2026-07-22T00:56:21.077187Z",
+      "last_seen_at": "2026-07-22T04:16:28.568311Z",
       "title_original": "Geely Galaxy TT Ultra with world’s first 16-in-1 electric drive opens pre-sales",
       "title_en": "Geely Galaxy TT Ultra with world’s first 16-in-1 electric drive opens pre-sales",
       "title_zh": "全球首款16合1电驱吉利Galaxy TT Ultra开启预售",
@@ -872,6 +1089,158 @@
       ]
     },
     {
+      "id": "9ab84c068a5201fe49069ca0d4c7a9fa6caf16a5",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "6月欧洲汽车销量增长13% 中国品牌增幅达118%",
+      "url": "https://auto.gasgoo.com/news/202607/21I70466667C110.shtml",
+      "published_at": "2026-07-21T11:29:10Z",
+      "first_seen_at": "2026-07-22T04:16:28.568311Z",
+      "last_seen_at": "2026-07-22T04:16:28.568311Z",
+      "title_original": "6月欧洲汽车销量增长13% 中国品牌增幅达118%",
+      "title_en": null,
+      "title_zh": "6月欧洲汽车销量增长13% 中国品牌增幅达118%",
+      "title_bilingual": "6月欧洲汽车销量增长13% 中国品牌增幅达118%",
+      "topic_tags": [
+        "销量市场"
+      ]
+    },
+    {
+      "id": "2535d37f7acb8b83096001b0c10065a2edf1d92f",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "Stellantis任命Jeep和Ram品牌新CEO",
+      "url": "https://auto.gasgoo.com/news/202607/21I70466660C109.shtml",
+      "published_at": "2026-07-21T10:32:17Z",
+      "first_seen_at": "2026-07-22T04:16:28.568311Z",
+      "last_seen_at": "2026-07-22T04:16:28.568311Z",
+      "title_original": "Stellantis任命Jeep和Ram品牌新CEO",
+      "title_en": null,
+      "title_zh": "Stellantis任命Jeep和Ram品牌新CEO",
+      "title_bilingual": "Stellantis任命Jeep和Ram品牌新CEO",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "aa16fa58d87bbc553f6745ca3719e72469a42b50",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-供应链",
+      "title": "蜂巢能源湖北大冶工厂首台PACK电池包正式下线",
+      "url": "https://auto.gasgoo.com/news/202607/21I70466659C501.shtml",
+      "published_at": "2026-07-21T10:17:10Z",
+      "first_seen_at": "2026-07-22T04:16:28.568311Z",
+      "last_seen_at": "2026-07-22T04:16:28.568311Z",
+      "title_original": "蜂巢能源湖北大冶工厂首台PACK电池包正式下线",
+      "title_en": null,
+      "title_zh": "蜂巢能源湖北大冶工厂首台PACK电池包正式下线",
+      "title_bilingual": "蜂巢能源湖北大冶工厂首台PACK电池包正式下线",
+      "topic_tags": [
+        "补能电池",
+        "供应链"
+      ]
+    },
+    {
+      "id": "2172afde9adca5662c09491faa291f56003daa8b",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新车",
+      "title": "蔚来firefly萤火虫halo寻光系列首款车型“栖息地”正式发售",
+      "url": "https://auto.gasgoo.com/news/202607/21I70466658C107.shtml",
+      "published_at": "2026-07-21T10:13:35Z",
+      "first_seen_at": "2026-07-22T04:16:28.568311Z",
+      "last_seen_at": "2026-07-22T04:16:28.568311Z",
+      "title_original": "蔚来firefly萤火虫halo寻光系列首款车型“栖息地”正式发售",
+      "title_en": null,
+      "title_zh": "蔚来firefly萤火虫halo寻光系列首款车型“栖息地”正式发售",
+      "title_bilingual": "蔚来firefly萤火虫halo寻光系列首款车型“栖息地”正式发售",
+      "topic_tags": [
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "305deb2aebc70714c55b135b833b156a6bbaeaf4",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "中国车企上半年墨西哥销量增长近30%",
+      "url": "https://auto.gasgoo.com/news/202607/21I70466656C110.shtml",
+      "published_at": "2026-07-21T09:51:24Z",
+      "first_seen_at": "2026-07-22T04:16:28.568311Z",
+      "last_seen_at": "2026-07-22T04:16:28.568311Z",
+      "title_original": "中国车企上半年墨西哥销量增长近30%",
+      "title_en": null,
+      "title_zh": "中国车企上半年墨西哥销量增长近30%",
+      "title_bilingual": "中国车企上半年墨西哥销量增长近30%",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "33173cf1fa28b96436ee32abd5a286fcec2437b1",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "华为超充上线大众充电地图，首批接入574座城市超充站",
+      "url": "https://auto.gasgoo.com/news/202607/21I70466654C108.shtml",
+      "published_at": "2026-07-21T09:47:06Z",
+      "first_seen_at": "2026-07-22T04:16:28.568311Z",
+      "last_seen_at": "2026-07-22T04:16:28.568311Z",
+      "title_original": "华为超充上线大众充电地图，首批接入574座城市超充站",
+      "title_en": null,
+      "title_zh": "华为超充上线大众充电地图，首批接入574座城市超充站",
+      "title_bilingual": "华为超充上线大众充电地图，首批接入574座城市超充站",
+      "topic_tags": [
+        "补能电池",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "6cc920d8ef3d6c3a3cebb2247e01b57d22b52c70",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新能源",
+      "title": "比亚迪海豹05DM-i在墨西哥正式发布",
+      "url": "https://auto.gasgoo.com/news/202607/21I70466655C501.shtml",
+      "published_at": "2026-07-21T09:46:50Z",
+      "first_seen_at": "2026-07-22T04:16:28.568311Z",
+      "last_seen_at": "2026-07-22T04:16:28.568311Z",
+      "title_original": "比亚迪海豹05DM-i在墨西哥正式发布",
+      "title_en": null,
+      "title_zh": "比亚迪海豹05DM-i在墨西哥正式发布",
+      "title_bilingual": "比亚迪海豹05DM-i在墨西哥正式发布",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "f80e6082ed900661976f4bc47fbaf7d08979b6bf",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "比亚迪巴西工厂第10万辆新能源车下线",
+      "url": "https://auto.gasgoo.com/news/202607/21I70466653C501.shtml",
+      "published_at": "2026-07-21T09:44:01Z",
+      "first_seen_at": "2026-07-22T04:16:28.568311Z",
+      "last_seen_at": "2026-07-22T04:16:28.568311Z",
+      "title_original": "比亚迪巴西工厂第10万辆新能源车下线",
+      "title_en": null,
+      "title_zh": "比亚迪巴西工厂第10万辆新能源车下线",
+      "title_bilingual": "比亚迪巴西工厂第10万辆新能源车下线",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "供应链"
+      ]
+    },
+    {
       "id": "10bb0be27793d8fe4764408ff7b50d065d62a299",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -880,7 +1249,7 @@
       "url": "https://www.dongchedi.com/article/7664407444903035417",
       "published_at": null,
       "first_seen_at": "2026-07-21T09:08:33.727013Z",
-      "last_seen_at": "2026-07-22T00:56:21.077187Z",
+      "last_seen_at": "2026-07-22T04:16:28.568311Z",
       "title_original": "2026款小鹏GX新车商品性评价",
       "title_en": null,
       "title_zh": "2026款小鹏GX新车商品性评价",
@@ -899,7 +1268,7 @@
       "url": "https://auto.gasgoo.com/news/202607/21I70466652C501.shtml",
       "published_at": "2026-07-21T08:37:01Z",
       "first_seen_at": "2026-07-22T00:56:21.077187Z",
-      "last_seen_at": "2026-07-22T00:56:21.077187Z",
+      "last_seen_at": "2026-07-22T04:16:28.568311Z",
       "title_original": "埃安将发布首台搭载全新LOGO车型，7月28日亮相",
       "title_en": null,
       "title_zh": "埃安将发布首台搭载全新LOGO车型，7月28日亮相",
@@ -918,7 +1287,7 @@
       "url": "https://auto.gasgoo.com/news/202607/21I70466566C501.shtml",
       "published_at": "2026-07-21T07:00:57Z",
       "first_seen_at": "2026-07-21T23:27:46.664823Z",
-      "last_seen_at": "2026-07-22T00:56:21.077187Z",
+      "last_seen_at": "2026-07-22T04:16:28.568311Z",
       "title_original": "【盖世快讯】广汽本田续约；《新能源汽车维修作业安全要求》国家标准将实施",
       "title_en": null,
       "title_zh": "【盖世快讯】广汽本田续约；《新能源汽车维修作业安全要求》国家标准将实施",
@@ -938,7 +1307,7 @@
       "url": "https://auto.gasgoo.com/news/202607/21I70466536C109.shtml",
       "published_at": "2026-07-21T07:00:00Z",
       "first_seen_at": "2026-07-21T23:27:46.664823Z",
-      "last_seen_at": "2026-07-22T00:56:21.077187Z",
+      "last_seen_at": "2026-07-22T04:16:28.568311Z",
       "title_original": "物理AI如何“上车”？小鹏MONA L03核心零部件配套供应商一览",
       "title_en": null,
       "title_zh": "物理AI如何“上车”？小鹏MONA L03核心零部件配套供应商一览",
@@ -957,7 +1326,7 @@
       "url": "https://cnevpost.com/2026/07/21/shanghai-share-nio-retail-h1",
       "published_at": "2026-07-21T06:20:32Z",
       "first_seen_at": "2026-07-21T06:25:53.578056Z",
-      "last_seen_at": "2026-07-22T00:56:21.077187Z",
+      "last_seen_at": "2026-07-22T04:16:28.568311Z",
       "title_original": "Shanghai contributes 11% of Nio's China retail sales in H1",
       "title_en": "Shanghai contributes 11% of Nio's China retail sales in H1",
       "title_zh": "上海上半年贡献蔚来中国零售额11%",
@@ -965,145 +1334,6 @@
       "topic_tags": [
         "新能源",
         "车企竞争"
-      ]
-    },
-    {
-      "id": "19f707a3c28e97842bf56d01c5f13c9d377ae7f7",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Geely Galaxy Cruiser 700 with 1,113-hp tri-motor system to debut on July 24",
-      "url": "https://cnevpost.com/2026/07/21/geely-galaxy-cruiser-700-debut-jul-24",
-      "published_at": "2026-07-21T03:28:40Z",
-      "first_seen_at": "2026-07-21T03:54:42.717378Z",
-      "last_seen_at": "2026-07-22T00:56:21.077187Z",
-      "title_original": "Geely Galaxy Cruiser 700 with 1,113-hp tri-motor system to debut on July 24",
-      "title_en": "Geely Galaxy Cruiser 700 with 1,113-hp tri-motor system to debut on July 24",
-      "title_zh": "搭载1,113马力三电机系统的吉利银河巡洋舰700将于7月24日首发",
-      "title_bilingual": "搭载1,113马力三电机系统的吉利银河巡洋舰700将于7月24日首发 / Geely Galaxy Cruiser 700 with 1,113-hp tri-motor system to debut on July 24",
-      "topic_tags": [
-        "新能源",
-        "车企竞争",
-        "供应链",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "bc182b5a218b18116dd498306bffc6678afa9681",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "BYD launches Seal 05 DM-i plug-in hybrid sedan in Mexico under BYD King name",
-      "url": "https://cnevpost.com/2026/07/21/byd-launches-seal-05-dm-i-mexico-byd-king",
-      "published_at": "2026-07-21T02:58:12Z",
-      "first_seen_at": "2026-07-21T03:54:42.717378Z",
-      "last_seen_at": "2026-07-22T00:56:21.077187Z",
-      "title_original": "BYD launches Seal 05 DM-i plug-in hybrid sedan in Mexico under BYD King name",
-      "title_en": "BYD launches Seal 05 DM-i plug-in hybrid sedan in Mexico under BYD King name",
-      "title_zh": "比亚迪在墨西哥推出比亚迪King名称的Seal 05 DM-i插电式混合动力轿车",
-      "title_bilingual": "比亚迪在墨西哥推出比亚迪King名称的Seal 05 DM-i插电式混合动力轿车 / BYD launches Seal 05 DM-i plug-in hybrid sedan in Mexico under BYD King name",
-      "topic_tags": [
-        "新能源",
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "d971e6989383bba3a16ae861ee8522c55400da05",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Voyah’s “Xiaomi YU7 challenger” Passion S to open pre-sales on July 24",
-      "url": "https://carnewschina.com/2026/07/21/voyahs-xiaomi-yu7-challenger-passion-s-to-open-pre-sales-on-july-24",
-      "published_at": "2026-07-21T02:34:38Z",
-      "first_seen_at": "2026-07-21T03:54:42.717378Z",
-      "last_seen_at": "2026-07-22T00:56:21.077187Z",
-      "title_original": "Voyah’s “Xiaomi YU7 challenger” Passion S to open pre-sales on July 24",
-      "title_en": "Voyah’s “Xiaomi YU7 challenger” Passion S to open pre-sales on July 24",
-      "title_zh": "Voyah“小米YU7挑战者”Passion S将于7月24日开启预售",
-      "title_bilingual": "Voyah“小米YU7挑战者”Passion S将于7月24日开启预售 / Voyah’s “Xiaomi YU7 challenger” Passion S to open pre-sales on July 24",
-      "topic_tags": [
-        "新能源",
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "e37f712c661e412be0ad344d6b30cfce74e7d44d",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Li Auto sets up chip company, echoing Nio's spin-off playbook",
-      "url": "https://cnevpost.com/2026/07/21/li-auto-sets-up-chip-company",
-      "published_at": "2026-07-21T02:30:58Z",
-      "first_seen_at": "2026-07-21T03:54:42.717378Z",
-      "last_seen_at": "2026-07-22T00:56:21.077187Z",
-      "title_original": "Li Auto sets up chip company, echoing Nio's spin-off playbook",
-      "title_en": "Li Auto sets up chip company, echoing Nio's spin-off playbook",
-      "title_zh": "理想汽车成立芯片公司，呼应蔚来分拆策略",
-      "title_bilingual": "理想汽车成立芯片公司，呼应蔚来分拆策略 / Li Auto sets up chip company, echoing Nio's spin-off playbook",
-      "topic_tags": [
-        "新能源",
-        "车企竞争",
-        "供应链"
-      ]
-    },
-    {
-      "id": "5df82af3c729a1ccd58e2a8932fdb6591a72d5bb",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "MG 07 arrives at dealerships across China with 840 km range and 800V ahead of July 29 pre-sale",
-      "url": "https://carnewschina.com/2026/07/21/mg-07-arrives-at-dealerships-across-china-with-840-km-range-and-800v-platform-ahead-of-july-29-pre-sale",
-      "published_at": "2026-07-21T02:09:24Z",
-      "first_seen_at": "2026-07-21T03:54:42.717378Z",
-      "last_seen_at": "2026-07-22T00:56:21.077187Z",
-      "title_original": "MG 07 arrives at dealerships across China with 840 km range and 800V ahead of July 29 pre-sale",
-      "title_en": "MG 07 arrives at dealerships across China with 840 km range and 800V ahead of July 29 pre-sale",
-      "title_zh": "MG 07抵达中国各地经销商 续航里程840公里、800V 7月29日预售",
-      "title_bilingual": "MG 07抵达中国各地经销商 续航里程840公里、800V 7月29日预售 / MG 07 arrives at dealerships across China with 840 km range and 800V ahead of July 29 pre-sale",
-      "topic_tags": [
-        "新能源",
-        "补能电池",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "94ddb282191b9a72b1a68746a32bb5534728b817",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "CALB battery issues trigger massive failures in GAC Aion S fleet",
-      "url": "https://carnewschina.com/2026/07/21/calb-battery-issues-trigger-massice-failures-in-gac-aion-s-fleet",
-      "published_at": "2026-07-21T01:30:34Z",
-      "first_seen_at": "2026-07-21T09:08:33.727013Z",
-      "last_seen_at": "2026-07-22T00:56:21.077187Z",
-      "title_original": "CALB battery issues trigger massive failures in GAC Aion S fleet",
-      "title_en": "CALB battery issues trigger massive failures in GAC Aion S fleet",
-      "title_zh": "CALB电池问题引发广汽Aion S车队大规模故障",
-      "title_bilingual": "CALB电池问题引发广汽Aion S车队大规模故障 / CALB battery issues trigger massive failures in GAC Aion S fleet",
-      "topic_tags": [
-        "新能源",
-        "补能电池"
-      ]
-    },
-    {
-      "id": "b00144ce9c20889ce07c04c60d5b1b38f925a57f",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "CALB battery issues trigger massice failures in GAC Aion S fleet",
-      "url": "https://carnewschina.com/2026/07/21/calb-battery-issues-trigger-massice-failures-in-gac-aion-s-fleet",
-      "published_at": "2026-07-21T01:30:34Z",
-      "first_seen_at": "2026-07-21T03:54:42.717378Z",
-      "last_seen_at": "2026-07-21T06:25:53.578056Z",
-      "title_original": "CALB battery issues trigger massice failures in GAC Aion S fleet",
-      "title_en": "CALB battery issues trigger massice failures in GAC Aion S fleet",
-      "title_zh": "CALB电池问题引发广汽Aion S车队大规模故障",
-      "title_bilingual": "CALB电池问题引发广汽Aion S车队大规模故障 / CALB battery issues trigger massice failures in GAC Aion S fleet",
-      "topic_tags": [
-        "新能源",
-        "补能电池"
       ]
     }
   ],
