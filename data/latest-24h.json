@@ -1,38 +1,38 @@
 {
-  "generated_at": "2026-07-26T14:07:14.772722Z",
+  "generated_at": "2026-07-26T15:37:31.411104Z",
   "window_hours": 24,
-  "total_items": 10,
-  "total_items_ai_raw": 10,
-  "total_items_raw": 3455,
-  "total_items_all_mode": 3099,
+  "total_items": 12,
+  "total_items_ai_raw": 13,
+  "total_items_raw": 3277,
+  "total_items_all_mode": 2946,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 75328,
+  "archive_total": 75311,
   "site_count": 3,
-  "source_count": 4,
+  "source_count": 6,
   "site_stats": [
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "count": 8,
-      "raw_count": 3267
+      "raw_count": 3104
     },
     {
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "count": 2,
-      "raw_count": 2
+      "count": 4,
+      "raw_count": 5
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "count": 0,
-      "raw_count": 186
+      "raw_count": 168
     }
   ],
   "topic_tag_stats": [
     {
       "tag": "车企竞争",
-      "count": 7
+      "count": 9
     },
     {
       "tag": "购车决策",
@@ -43,7 +43,19 @@
       "count": 3
     },
     {
+      "tag": "价格战",
+      "count": 1
+    },
+    {
+      "tag": "新车上市",
+      "count": 1
+    },
+    {
       "tag": "智能驾驶",
+      "count": 1
+    },
+    {
+      "tag": "销量市场",
       "count": 1
     }
   ],
@@ -57,7 +69,7 @@
       "url": "https://www.dongchedi.com/article/7666279573469807128",
       "published_at": null,
       "first_seen_at": "2026-07-26T09:09:54.500298Z",
-      "last_seen_at": "2026-07-26T14:07:14.772722Z",
+      "last_seen_at": "2026-07-26T15:37:31.411104Z",
       "title_original": "2026上半年，哪些车企亏得“惨不忍睹”？",
       "title_en": null,
       "title_zh": "2026上半年，哪些车企亏得“惨不忍睹”？",
@@ -75,7 +87,7 @@
       "url": "https://cnevpost.com/2026/07/26/byd-may-unveil-humanoid-robot-aug",
       "published_at": "2026-07-26T03:24:16Z",
       "first_seen_at": "2026-07-26T03:32:05.053316Z",
-      "last_seen_at": "2026-07-26T14:07:14.772722Z",
+      "last_seen_at": "2026-07-26T15:37:31.411104Z",
       "title_original": "BYD may unveil humanoid robot in early August, teaser suggests",
       "title_en": "BYD may unveil humanoid robot in early August, teaser suggests",
       "title_zh": "预告片暗示比亚迪可能会在八月初推出人形机器人",
@@ -94,13 +106,52 @@
       "url": "https://cnevpost.com/2026/07/26/china-car-imports-fall-h1-2026",
       "published_at": "2026-07-26T02:10:03Z",
       "first_seen_at": "2026-07-26T03:32:05.053316Z",
-      "last_seen_at": "2026-07-26T14:07:14.772722Z",
+      "last_seen_at": "2026-07-26T15:37:31.411104Z",
       "title_original": "China car imports fall 11% in H1 as low base cushions decline",
       "title_en": "China car imports fall 11% in H1 as low base cushions decline",
       "title_zh": "由于低基数缓冲下降，上半年中国汽车进口下降11%",
       "title_bilingual": "由于低基数缓冲下降，上半年中国汽车进口下降11% / China car imports fall 11% in H1 as low base cushions decline",
       "topic_tags": [
         "新能源"
+      ]
+    },
+    {
+      "id": "aafbd72cbdeb5b80480b74a8ccfe1eccac3d3389",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "奇瑞全球累计销量突破2000万辆 风云A9将作为第2000万辆车交付",
+      "url": "https://auto.gasgoo.com/news/202607/25I70467401C110.shtml",
+      "published_at": "2026-07-25T23:07:27Z",
+      "first_seen_at": "2026-07-26T15:37:31.411104Z",
+      "last_seen_at": "2026-07-26T15:37:31.411104Z",
+      "title_original": "奇瑞全球累计销量突破2000万辆 风云A9将作为第2000万辆车交付",
+      "title_en": null,
+      "title_zh": "奇瑞全球累计销量突破2000万辆 风云A9将作为第2000万辆车交付",
+      "title_bilingual": "奇瑞全球累计销量突破2000万辆 风云A9将作为第2000万辆车交付",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "ec79ad8d629f8ac249d59b9b2d21287546c78937",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新车",
+      "title": "奇瑞风云A9正式上市 售价10.99万元起",
+      "url": "https://auto.gasgoo.com/news/202607/25I70467400C107.shtml",
+      "published_at": "2026-07-25T22:46:36Z",
+      "first_seen_at": "2026-07-26T15:37:31.411104Z",
+      "last_seen_at": "2026-07-26T15:37:31.411104Z",
+      "title_original": "奇瑞风云A9正式上市 售价10.99万元起",
+      "title_en": null,
+      "title_zh": "奇瑞风云A9正式上市 售价10.99万元起",
+      "title_bilingual": "奇瑞风云A9正式上市 售价10.99万元起",
+      "topic_tags": [
+        "价格战",
+        "车企竞争",
+        "新车上市"
       ]
     },
     {
@@ -112,7 +163,7 @@
       "url": "http://vc.yiche.com/vplay/12274936.html",
       "published_at": null,
       "first_seen_at": "2026-07-25T19:46:04.808670Z",
-      "last_seen_at": "2026-07-26T14:07:14.772722Z",
+      "last_seen_at": "2026-07-26T15:37:31.411104Z",
       "title_original": "吉利首款能“上山下海”的车 静态体验吉利银河战舰700",
       "title_en": null,
       "title_zh": "吉利首款能“上山下海”的车 静态体验吉利银河战舰700",
@@ -131,7 +182,7 @@
       "url": "http://vc.yiche.com/vplay/12253859.html",
       "published_at": null,
       "first_seen_at": "2026-07-25T19:46:04.808670Z",
-      "last_seen_at": "2026-07-26T14:07:14.772722Z",
+      "last_seen_at": "2026-07-26T15:37:31.411104Z",
       "title_original": "6万必火 配置贼高 实拍体验零跑A05",
       "title_en": null,
       "title_zh": "6万必火 配置贼高 实拍体验零跑A05",
@@ -150,7 +201,7 @@
       "url": "http://vc.yiche.com/vplay/12246047.html",
       "published_at": null,
       "first_seen_at": "2026-07-25T19:46:04.808670Z",
-      "last_seen_at": "2026-07-26T14:07:14.772722Z",
+      "last_seen_at": "2026-07-26T15:37:31.411104Z",
       "title_original": "21.98万起贵不贵？实拍长城H10，优缺点都在这了",
       "title_en": null,
       "title_zh": "21.98万起贵不贵？实拍长城H10，优缺点都在这了",
@@ -168,7 +219,7 @@
       "url": "http://vc.yiche.com/vplay/12252746.html",
       "published_at": null,
       "first_seen_at": "2026-07-25T19:46:04.808670Z",
-      "last_seen_at": "2026-07-26T14:07:14.772722Z",
+      "last_seen_at": "2026-07-26T15:37:31.411104Z",
       "title_original": "可城可野的新物种——长城H10 内饰评测",
       "title_en": null,
       "title_zh": "可城可野的新物种——长城H10 内饰评测",
@@ -187,7 +238,7 @@
       "url": "http://vc.yiche.com/vplay/12257870.html",
       "published_at": null,
       "first_seen_at": "2026-07-25T19:46:04.808670Z",
-      "last_seen_at": "2026-07-26T14:07:14.772722Z",
+      "last_seen_at": "2026-07-26T15:37:31.411104Z",
       "title_original": "泰钽700，大梁+智驾，中式豪华越野了解一下？",
       "title_en": null,
       "title_zh": "泰钽700，大梁+智驾，中式豪华越野了解一下？",
@@ -205,7 +256,7 @@
       "url": "http://vc.yiche.com/vplay/12282202.html",
       "published_at": null,
       "first_seen_at": "2026-07-25T19:46:04.808670Z",
-      "last_seen_at": "2026-07-26T14:07:14.772722Z",
+      "last_seen_at": "2026-07-26T15:37:31.411104Z",
       "title_original": "吉利银河战舰700",
       "title_en": null,
       "title_zh": "吉利银河战舰700",
@@ -223,7 +274,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/a4df65b53aa315d3/115520028-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-25T17:29:25.935229Z",
-      "last_seen_at": "2026-07-26T14:07:14.772722Z",
+      "last_seen_at": "2026-07-26T15:37:31.411104Z",
       "title_original": "城市代步小精灵 QQ3 EV提车作业分享",
       "title_en": null,
       "title_zh": "城市代步小精灵 QQ3 EV提车作业分享",
@@ -244,7 +295,7 @@
       "url": "https://www.dongchedi.com/article/7666279573469807128",
       "published_at": null,
       "first_seen_at": "2026-07-26T09:09:54.500298Z",
-      "last_seen_at": "2026-07-26T14:07:14.772722Z",
+      "last_seen_at": "2026-07-26T15:37:31.411104Z",
       "title_original": "2026上半年，哪些车企亏得“惨不忍睹”？",
       "title_en": null,
       "title_zh": "2026上半年，哪些车企亏得“惨不忍睹”？",
@@ -262,7 +313,7 @@
       "url": "https://cnevpost.com/2026/07/26/byd-may-unveil-humanoid-robot-aug",
       "published_at": "2026-07-26T03:24:16Z",
       "first_seen_at": "2026-07-26T03:32:05.053316Z",
-      "last_seen_at": "2026-07-26T14:07:14.772722Z",
+      "last_seen_at": "2026-07-26T15:37:31.411104Z",
       "title_original": "BYD may unveil humanoid robot in early August, teaser suggests",
       "title_en": "BYD may unveil humanoid robot in early August, teaser suggests",
       "title_zh": "预告片暗示比亚迪可能会在八月初推出人形机器人",
@@ -281,13 +332,52 @@
       "url": "https://cnevpost.com/2026/07/26/china-car-imports-fall-h1-2026",
       "published_at": "2026-07-26T02:10:03Z",
       "first_seen_at": "2026-07-26T03:32:05.053316Z",
-      "last_seen_at": "2026-07-26T14:07:14.772722Z",
+      "last_seen_at": "2026-07-26T15:37:31.411104Z",
       "title_original": "China car imports fall 11% in H1 as low base cushions decline",
       "title_en": "China car imports fall 11% in H1 as low base cushions decline",
       "title_zh": "由于低基数缓冲下降，上半年中国汽车进口下降11%",
       "title_bilingual": "由于低基数缓冲下降，上半年中国汽车进口下降11% / China car imports fall 11% in H1 as low base cushions decline",
       "topic_tags": [
         "新能源"
+      ]
+    },
+    {
+      "id": "aafbd72cbdeb5b80480b74a8ccfe1eccac3d3389",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "奇瑞全球累计销量突破2000万辆 风云A9将作为第2000万辆车交付",
+      "url": "https://auto.gasgoo.com/news/202607/25I70467401C110.shtml",
+      "published_at": "2026-07-25T23:07:27Z",
+      "first_seen_at": "2026-07-26T15:37:31.411104Z",
+      "last_seen_at": "2026-07-26T15:37:31.411104Z",
+      "title_original": "奇瑞全球累计销量突破2000万辆 风云A9将作为第2000万辆车交付",
+      "title_en": null,
+      "title_zh": "奇瑞全球累计销量突破2000万辆 风云A9将作为第2000万辆车交付",
+      "title_bilingual": "奇瑞全球累计销量突破2000万辆 风云A9将作为第2000万辆车交付",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "ec79ad8d629f8ac249d59b9b2d21287546c78937",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新车",
+      "title": "奇瑞风云A9正式上市 售价10.99万元起",
+      "url": "https://auto.gasgoo.com/news/202607/25I70467400C107.shtml",
+      "published_at": "2026-07-25T22:46:36Z",
+      "first_seen_at": "2026-07-26T15:37:31.411104Z",
+      "last_seen_at": "2026-07-26T15:37:31.411104Z",
+      "title_original": "奇瑞风云A9正式上市 售价10.99万元起",
+      "title_en": null,
+      "title_zh": "奇瑞风云A9正式上市 售价10.99万元起",
+      "title_bilingual": "奇瑞风云A9正式上市 售价10.99万元起",
+      "topic_tags": [
+        "价格战",
+        "车企竞争",
+        "新车上市"
       ]
     },
     {
@@ -299,7 +389,7 @@
       "url": "http://vc.yiche.com/vplay/12274936.html",
       "published_at": null,
       "first_seen_at": "2026-07-25T19:46:04.808670Z",
-      "last_seen_at": "2026-07-26T14:07:14.772722Z",
+      "last_seen_at": "2026-07-26T15:37:31.411104Z",
       "title_original": "吉利首款能“上山下海”的车 静态体验吉利银河战舰700",
       "title_en": null,
       "title_zh": "吉利首款能“上山下海”的车 静态体验吉利银河战舰700",
@@ -318,7 +408,7 @@
       "url": "http://vc.yiche.com/vplay/12253859.html",
       "published_at": null,
       "first_seen_at": "2026-07-25T19:46:04.808670Z",
-      "last_seen_at": "2026-07-26T14:07:14.772722Z",
+      "last_seen_at": "2026-07-26T15:37:31.411104Z",
       "title_original": "6万必火 配置贼高 实拍体验零跑A05",
       "title_en": null,
       "title_zh": "6万必火 配置贼高 实拍体验零跑A05",
@@ -337,7 +427,7 @@
       "url": "http://vc.yiche.com/vplay/12246047.html",
       "published_at": null,
       "first_seen_at": "2026-07-25T19:46:04.808670Z",
-      "last_seen_at": "2026-07-26T14:07:14.772722Z",
+      "last_seen_at": "2026-07-26T15:37:31.411104Z",
       "title_original": "21.98万起贵不贵？实拍长城H10，优缺点都在这了",
       "title_en": null,
       "title_zh": "21.98万起贵不贵？实拍长城H10，优缺点都在这了",
@@ -355,7 +445,7 @@
       "url": "http://vc.yiche.com/vplay/12252746.html",
       "published_at": null,
       "first_seen_at": "2026-07-25T19:46:04.808670Z",
-      "last_seen_at": "2026-07-26T14:07:14.772722Z",
+      "last_seen_at": "2026-07-26T15:37:31.411104Z",
       "title_original": "可城可野的新物种——长城H10 内饰评测",
       "title_en": null,
       "title_zh": "可城可野的新物种——长城H10 内饰评测",
@@ -374,7 +464,7 @@
       "url": "http://vc.yiche.com/vplay/12257870.html",
       "published_at": null,
       "first_seen_at": "2026-07-25T19:46:04.808670Z",
-      "last_seen_at": "2026-07-26T14:07:14.772722Z",
+      "last_seen_at": "2026-07-26T15:37:31.411104Z",
       "title_original": "泰钽700，大梁+智驾，中式豪华越野了解一下？",
       "title_en": null,
       "title_zh": "泰钽700，大梁+智驾，中式豪华越野了解一下？",
@@ -392,7 +482,7 @@
       "url": "http://vc.yiche.com/vplay/12282202.html",
       "published_at": null,
       "first_seen_at": "2026-07-25T19:46:04.808670Z",
-      "last_seen_at": "2026-07-26T14:07:14.772722Z",
+      "last_seen_at": "2026-07-26T15:37:31.411104Z",
       "title_original": "吉利银河战舰700",
       "title_en": null,
       "title_zh": "吉利银河战舰700",
@@ -410,7 +500,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/a4df65b53aa315d3/115520028-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-25T17:29:25.935229Z",
-      "last_seen_at": "2026-07-26T14:07:14.772722Z",
+      "last_seen_at": "2026-07-26T15:37:31.411104Z",
       "title_original": "城市代步小精灵 QQ3 EV提车作业分享",
       "title_en": null,
       "title_zh": "城市代步小精灵 QQ3 EV提车作业分享",
