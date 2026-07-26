@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-07-26T18:01:35.842956Z",
+  "generated_at": "2026-07-26T19:42:43.463872Z",
   "window_hours": 24,
-  "total_items": 15,
-  "total_items_ai_raw": 16,
-  "total_items_raw": 3093,
-  "total_items_all_mode": 2784,
+  "total_items": 21,
+  "total_items_ai_raw": 22,
+  "total_items_raw": 3124,
+  "total_items_all_mode": 2818,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 75230,
+  "archive_total": 75309,
   "site_count": 3,
   "source_count": 6,
   "site_stats": [
     {
       "site_id": "tophub",
       "site_name": "TopHub",
-      "count": 11,
-      "raw_count": 2924
+      "count": 17,
+      "raw_count": 2956
     },
     {
       "site_id": "official_auto",
@@ -26,33 +26,37 @@
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "count": 0,
-      "raw_count": 164
+      "raw_count": 163
     }
   ],
   "topic_tag_stats": [
     {
       "tag": "车企竞争",
-      "count": 12
+      "count": 17
     },
     {
       "tag": "购车决策",
-      "count": 7
+      "count": 9
     },
     {
       "tag": "新能源",
-      "count": 3
+      "count": 4
     },
     {
       "tag": "价格战",
-      "count": 2
+      "count": 3
     },
     {
       "tag": "新车上市",
-      "count": 1
+      "count": 2
     },
     {
       "tag": "智能驾驶",
-      "count": 1
+      "count": 2
+    },
+    {
+      "tag": "补能电池",
+      "count": 2
     },
     {
       "tag": "销量市场",
@@ -60,6 +64,121 @@
     }
   ],
   "items": [
+    {
+      "id": "eac884eb70d673128f440d3c19aff9de66306d6a",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "如果帅是GT的第一门槛，比亚迪海豹06GT一定榜上有名",
+      "url": "http://vc.yiche.com/vplay/12246131.html",
+      "published_at": null,
+      "first_seen_at": "2026-07-26T19:42:43.463872Z",
+      "last_seen_at": "2026-07-26T19:42:43.463872Z",
+      "title_original": "如果帅是GT的第一门槛，比亚迪海豹06GT一定榜上有名",
+      "title_en": null,
+      "title_zh": "如果帅是GT的第一门槛，比亚迪海豹06GT一定榜上有名",
+      "title_bilingual": "如果帅是GT的第一门槛，比亚迪海豹06GT一定榜上有名",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "d103b7f7c52240a288bb18658a67503a84dea4e1",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "全网首发，吉利首款硬派越野SUV战舰700",
+      "url": "http://vc.yiche.com/vplay/12289524.html",
+      "published_at": null,
+      "first_seen_at": "2026-07-26T19:42:43.463872Z",
+      "last_seen_at": "2026-07-26T19:42:43.463872Z",
+      "title_original": "全网首发，吉利首款硬派越野SUV战舰700",
+      "title_en": null,
+      "title_zh": "全网首发，吉利首款硬派越野SUV战舰700",
+      "title_bilingual": "全网首发，吉利首款硬派越野SUV战舰700",
+      "topic_tags": [
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "ca039da1f88075601b86b8861ac0b48a9fa8e2cc",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "真的可以吊打其他9系旗舰吗？比亚迪大唐真实试驾测评",
+      "url": "http://vc.yiche.com/vplay/12275846.html",
+      "published_at": null,
+      "first_seen_at": "2026-07-26T19:42:43.463872Z",
+      "last_seen_at": "2026-07-26T19:42:43.463872Z",
+      "title_original": "真的可以吊打其他9系旗舰吗？比亚迪大唐真实试驾测评",
+      "title_en": null,
+      "title_zh": "真的可以吊打其他9系旗舰吗？比亚迪大唐真实试驾测评",
+      "title_bilingual": "真的可以吊打其他9系旗舰吗？比亚迪大唐真实试驾测评",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "5a8f975760084e627d7b205e7ba7ee878a4f6604",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "体验零跑A05，起步405公里续航优势很大，很可能5万多起售",
+      "url": "http://vc.yiche.com/vplay/12273851.html",
+      "published_at": null,
+      "first_seen_at": "2026-07-26T19:42:43.463872Z",
+      "last_seen_at": "2026-07-26T19:42:43.463872Z",
+      "title_original": "体验零跑A05，起步405公里续航优势很大，很可能5万多起售",
+      "title_en": null,
+      "title_zh": "体验零跑A05，起步405公里续航优势很大，很可能5万多起售",
+      "title_bilingual": "体验零跑A05，起步405公里续航优势很大，很可能5万多起售",
+      "topic_tags": [
+        "补能电池",
+        "价格战",
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "21a5d6d1d6857cec1653c5f32592567076f686f1",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "盛夏也有低能耗 吴楠实测问界M6综合续航率92%",
+      "url": "http://vc.yiche.com/vplay/12294585.html",
+      "published_at": null,
+      "first_seen_at": "2026-07-26T19:42:43.463872Z",
+      "last_seen_at": "2026-07-26T19:42:43.463872Z",
+      "title_original": "盛夏也有低能耗 吴楠实测问界M6综合续航率92%",
+      "title_en": null,
+      "title_zh": "盛夏也有低能耗 吴楠实测问界M6综合续航率92%",
+      "title_bilingual": "盛夏也有低能耗 吴楠实测问界M6综合续航率92%",
+      "topic_tags": [
+        "补能电池",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "6f1f375d709ca1736da106f5552548839d06d41b",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "激光雷达上车，有纯电有增程！全新深蓝S05长这样",
+      "url": "http://vc.yiche.com/vplay/12251787.html",
+      "published_at": null,
+      "first_seen_at": "2026-07-26T19:42:43.463872Z",
+      "last_seen_at": "2026-07-26T19:42:43.463872Z",
+      "title_original": "激光雷达上车，有纯电有增程！全新深蓝S05长这样",
+      "title_en": null,
+      "title_zh": "激光雷达上车，有纯电有增程！全新深蓝S05长这样",
+      "title_bilingual": "激光雷达上车，有纯电有增程！全新深蓝S05长这样",
+      "topic_tags": [
+        "新能源",
+        "智能驾驶"
+      ]
+    },
     {
       "id": "f30569d7e734be86cc1f7a50d4281f5166c29a0e",
       "site_id": "tophub",
@@ -69,7 +188,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/a99e6d4d216d0252/115430543-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-26T16:56:45.036016Z",
-      "last_seen_at": "2026-07-26T18:01:35.842956Z",
+      "last_seen_at": "2026-07-26T19:42:43.463872Z",
       "title_original": "性价比拉满 零跑A10提车作业分享",
       "title_en": null,
       "title_zh": "性价比拉满 零跑A10提车作业分享",
@@ -89,7 +208,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/ae125c3dfff2f8fa/115461535-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-26T16:56:45.036016Z",
-      "last_seen_at": "2026-07-26T18:01:35.842956Z",
+      "last_seen_at": "2026-07-26T19:42:43.463872Z",
       "title_original": "适合短途代步 QQ3 EV提车作业分享",
       "title_en": null,
       "title_zh": "适合短途代步 QQ3 EV提车作业分享",
@@ -108,7 +227,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/34ef61efc24b676c/115454228-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-26T16:56:45.036016Z",
-      "last_seen_at": "2026-07-26T18:01:35.842956Z",
+      "last_seen_at": "2026-07-26T19:42:43.463872Z",
       "title_original": "外观简约耐看 小鹏G6提车作业分享",
       "title_en": null,
       "title_zh": "外观简约耐看 小鹏G6提车作业分享",
@@ -127,7 +246,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/b2d345feca71e4b0/115436854-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-26T16:56:45.036016Z",
-      "last_seen_at": "2026-07-26T18:01:35.842956Z",
+      "last_seen_at": "2026-07-26T19:42:43.463872Z",
       "title_original": "家用完全够用 长安启源A06提车分享",
       "title_en": null,
       "title_zh": "家用完全够用 长安启源A06提车分享",
@@ -146,7 +265,7 @@
       "url": "https://www.dongchedi.com/article/7666279573469807128",
       "published_at": null,
       "first_seen_at": "2026-07-26T09:09:54.500298Z",
-      "last_seen_at": "2026-07-26T18:01:35.842956Z",
+      "last_seen_at": "2026-07-26T19:42:43.463872Z",
       "title_original": "2026上半年，哪些车企亏得“惨不忍睹”？",
       "title_en": null,
       "title_zh": "2026上半年，哪些车企亏得“惨不忍睹”？",
@@ -164,7 +283,7 @@
       "url": "https://cnevpost.com/2026/07/26/byd-may-unveil-humanoid-robot-aug",
       "published_at": "2026-07-26T03:24:16Z",
       "first_seen_at": "2026-07-26T03:32:05.053316Z",
-      "last_seen_at": "2026-07-26T18:01:35.842956Z",
+      "last_seen_at": "2026-07-26T19:42:43.463872Z",
       "title_original": "BYD may unveil humanoid robot in early August, teaser suggests",
       "title_en": "BYD may unveil humanoid robot in early August, teaser suggests",
       "title_zh": "预告片暗示比亚迪可能会在八月初推出人形机器人",
@@ -183,7 +302,7 @@
       "url": "https://cnevpost.com/2026/07/26/china-car-imports-fall-h1-2026",
       "published_at": "2026-07-26T02:10:03Z",
       "first_seen_at": "2026-07-26T03:32:05.053316Z",
-      "last_seen_at": "2026-07-26T18:01:35.842956Z",
+      "last_seen_at": "2026-07-26T19:42:43.463872Z",
       "title_original": "China car imports fall 11% in H1 as low base cushions decline",
       "title_en": "China car imports fall 11% in H1 as low base cushions decline",
       "title_zh": "由于低基数缓冲下降，上半年中国汽车进口下降11%",
@@ -201,7 +320,7 @@
       "url": "https://auto.gasgoo.com/news/202607/25I70467401C110.shtml",
       "published_at": "2026-07-25T23:07:27Z",
       "first_seen_at": "2026-07-26T15:37:31.411104Z",
-      "last_seen_at": "2026-07-26T18:01:35.842956Z",
+      "last_seen_at": "2026-07-26T19:42:43.463872Z",
       "title_original": "奇瑞全球累计销量突破2000万辆 风云A9将作为第2000万辆车交付",
       "title_en": null,
       "title_zh": "奇瑞全球累计销量突破2000万辆 风云A9将作为第2000万辆车交付",
@@ -220,7 +339,7 @@
       "url": "https://auto.gasgoo.com/news/202607/25I70467400C107.shtml",
       "published_at": "2026-07-25T22:46:36Z",
       "first_seen_at": "2026-07-26T15:37:31.411104Z",
-      "last_seen_at": "2026-07-26T18:01:35.842956Z",
+      "last_seen_at": "2026-07-26T19:42:43.463872Z",
       "title_original": "奇瑞风云A9正式上市 售价10.99万元起",
       "title_en": null,
       "title_zh": "奇瑞风云A9正式上市 售价10.99万元起",
@@ -240,7 +359,7 @@
       "url": "http://vc.yiche.com/vplay/12274936.html",
       "published_at": null,
       "first_seen_at": "2026-07-25T19:46:04.808670Z",
-      "last_seen_at": "2026-07-26T18:01:35.842956Z",
+      "last_seen_at": "2026-07-26T19:42:43.463872Z",
       "title_original": "吉利首款能“上山下海”的车 静态体验吉利银河战舰700",
       "title_en": null,
       "title_zh": "吉利首款能“上山下海”的车 静态体验吉利银河战舰700",
@@ -278,7 +397,7 @@
       "url": "http://vc.yiche.com/vplay/12246047.html",
       "published_at": null,
       "first_seen_at": "2026-07-25T19:46:04.808670Z",
-      "last_seen_at": "2026-07-26T18:01:35.842956Z",
+      "last_seen_at": "2026-07-26T19:42:43.463872Z",
       "title_original": "21.98万起贵不贵？实拍长城H10，优缺点都在这了",
       "title_en": null,
       "title_zh": "21.98万起贵不贵？实拍长城H10，优缺点都在这了",
@@ -345,6 +464,121 @@
   ],
   "items_ai": [
     {
+      "id": "eac884eb70d673128f440d3c19aff9de66306d6a",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "如果帅是GT的第一门槛，比亚迪海豹06GT一定榜上有名",
+      "url": "http://vc.yiche.com/vplay/12246131.html",
+      "published_at": null,
+      "first_seen_at": "2026-07-26T19:42:43.463872Z",
+      "last_seen_at": "2026-07-26T19:42:43.463872Z",
+      "title_original": "如果帅是GT的第一门槛，比亚迪海豹06GT一定榜上有名",
+      "title_en": null,
+      "title_zh": "如果帅是GT的第一门槛，比亚迪海豹06GT一定榜上有名",
+      "title_bilingual": "如果帅是GT的第一门槛，比亚迪海豹06GT一定榜上有名",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "d103b7f7c52240a288bb18658a67503a84dea4e1",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "全网首发，吉利首款硬派越野SUV战舰700",
+      "url": "http://vc.yiche.com/vplay/12289524.html",
+      "published_at": null,
+      "first_seen_at": "2026-07-26T19:42:43.463872Z",
+      "last_seen_at": "2026-07-26T19:42:43.463872Z",
+      "title_original": "全网首发，吉利首款硬派越野SUV战舰700",
+      "title_en": null,
+      "title_zh": "全网首发，吉利首款硬派越野SUV战舰700",
+      "title_bilingual": "全网首发，吉利首款硬派越野SUV战舰700",
+      "topic_tags": [
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "ca039da1f88075601b86b8861ac0b48a9fa8e2cc",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "真的可以吊打其他9系旗舰吗？比亚迪大唐真实试驾测评",
+      "url": "http://vc.yiche.com/vplay/12275846.html",
+      "published_at": null,
+      "first_seen_at": "2026-07-26T19:42:43.463872Z",
+      "last_seen_at": "2026-07-26T19:42:43.463872Z",
+      "title_original": "真的可以吊打其他9系旗舰吗？比亚迪大唐真实试驾测评",
+      "title_en": null,
+      "title_zh": "真的可以吊打其他9系旗舰吗？比亚迪大唐真实试驾测评",
+      "title_bilingual": "真的可以吊打其他9系旗舰吗？比亚迪大唐真实试驾测评",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "5a8f975760084e627d7b205e7ba7ee878a4f6604",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "体验零跑A05，起步405公里续航优势很大，很可能5万多起售",
+      "url": "http://vc.yiche.com/vplay/12273851.html",
+      "published_at": null,
+      "first_seen_at": "2026-07-26T19:42:43.463872Z",
+      "last_seen_at": "2026-07-26T19:42:43.463872Z",
+      "title_original": "体验零跑A05，起步405公里续航优势很大，很可能5万多起售",
+      "title_en": null,
+      "title_zh": "体验零跑A05，起步405公里续航优势很大，很可能5万多起售",
+      "title_bilingual": "体验零跑A05，起步405公里续航优势很大，很可能5万多起售",
+      "topic_tags": [
+        "补能电池",
+        "价格战",
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "21a5d6d1d6857cec1653c5f32592567076f686f1",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "盛夏也有低能耗 吴楠实测问界M6综合续航率92%",
+      "url": "http://vc.yiche.com/vplay/12294585.html",
+      "published_at": null,
+      "first_seen_at": "2026-07-26T19:42:43.463872Z",
+      "last_seen_at": "2026-07-26T19:42:43.463872Z",
+      "title_original": "盛夏也有低能耗 吴楠实测问界M6综合续航率92%",
+      "title_en": null,
+      "title_zh": "盛夏也有低能耗 吴楠实测问界M6综合续航率92%",
+      "title_bilingual": "盛夏也有低能耗 吴楠实测问界M6综合续航率92%",
+      "topic_tags": [
+        "补能电池",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "6f1f375d709ca1736da106f5552548839d06d41b",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "激光雷达上车，有纯电有增程！全新深蓝S05长这样",
+      "url": "http://vc.yiche.com/vplay/12251787.html",
+      "published_at": null,
+      "first_seen_at": "2026-07-26T19:42:43.463872Z",
+      "last_seen_at": "2026-07-26T19:42:43.463872Z",
+      "title_original": "激光雷达上车，有纯电有增程！全新深蓝S05长这样",
+      "title_en": null,
+      "title_zh": "激光雷达上车，有纯电有增程！全新深蓝S05长这样",
+      "title_bilingual": "激光雷达上车，有纯电有增程！全新深蓝S05长这样",
+      "topic_tags": [
+        "新能源",
+        "智能驾驶"
+      ]
+    },
+    {
       "id": "f30569d7e734be86cc1f7a50d4281f5166c29a0e",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -353,7 +587,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/a99e6d4d216d0252/115430543-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-26T16:56:45.036016Z",
-      "last_seen_at": "2026-07-26T18:01:35.842956Z",
+      "last_seen_at": "2026-07-26T19:42:43.463872Z",
       "title_original": "性价比拉满 零跑A10提车作业分享",
       "title_en": null,
       "title_zh": "性价比拉满 零跑A10提车作业分享",
@@ -373,7 +607,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/ae125c3dfff2f8fa/115461535-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-26T16:56:45.036016Z",
-      "last_seen_at": "2026-07-26T18:01:35.842956Z",
+      "last_seen_at": "2026-07-26T19:42:43.463872Z",
       "title_original": "适合短途代步 QQ3 EV提车作业分享",
       "title_en": null,
       "title_zh": "适合短途代步 QQ3 EV提车作业分享",
@@ -392,7 +626,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/34ef61efc24b676c/115454228-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-26T16:56:45.036016Z",
-      "last_seen_at": "2026-07-26T18:01:35.842956Z",
+      "last_seen_at": "2026-07-26T19:42:43.463872Z",
       "title_original": "外观简约耐看 小鹏G6提车作业分享",
       "title_en": null,
       "title_zh": "外观简约耐看 小鹏G6提车作业分享",
@@ -411,7 +645,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/b2d345feca71e4b0/115436854-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-26T16:56:45.036016Z",
-      "last_seen_at": "2026-07-26T18:01:35.842956Z",
+      "last_seen_at": "2026-07-26T19:42:43.463872Z",
       "title_original": "家用完全够用 长安启源A06提车分享",
       "title_en": null,
       "title_zh": "家用完全够用 长安启源A06提车分享",
@@ -430,7 +664,7 @@
       "url": "https://www.dongchedi.com/article/7666279573469807128",
       "published_at": null,
       "first_seen_at": "2026-07-26T09:09:54.500298Z",
-      "last_seen_at": "2026-07-26T18:01:35.842956Z",
+      "last_seen_at": "2026-07-26T19:42:43.463872Z",
       "title_original": "2026上半年，哪些车企亏得“惨不忍睹”？",
       "title_en": null,
       "title_zh": "2026上半年，哪些车企亏得“惨不忍睹”？",
@@ -448,7 +682,7 @@
       "url": "https://cnevpost.com/2026/07/26/byd-may-unveil-humanoid-robot-aug",
       "published_at": "2026-07-26T03:24:16Z",
       "first_seen_at": "2026-07-26T03:32:05.053316Z",
-      "last_seen_at": "2026-07-26T18:01:35.842956Z",
+      "last_seen_at": "2026-07-26T19:42:43.463872Z",
       "title_original": "BYD may unveil humanoid robot in early August, teaser suggests",
       "title_en": "BYD may unveil humanoid robot in early August, teaser suggests",
       "title_zh": "预告片暗示比亚迪可能会在八月初推出人形机器人",
@@ -467,7 +701,7 @@
       "url": "https://cnevpost.com/2026/07/26/china-car-imports-fall-h1-2026",
       "published_at": "2026-07-26T02:10:03Z",
       "first_seen_at": "2026-07-26T03:32:05.053316Z",
-      "last_seen_at": "2026-07-26T18:01:35.842956Z",
+      "last_seen_at": "2026-07-26T19:42:43.463872Z",
       "title_original": "China car imports fall 11% in H1 as low base cushions decline",
       "title_en": "China car imports fall 11% in H1 as low base cushions decline",
       "title_zh": "由于低基数缓冲下降，上半年中国汽车进口下降11%",
@@ -485,7 +719,7 @@
       "url": "https://auto.gasgoo.com/news/202607/25I70467401C110.shtml",
       "published_at": "2026-07-25T23:07:27Z",
       "first_seen_at": "2026-07-26T15:37:31.411104Z",
-      "last_seen_at": "2026-07-26T18:01:35.842956Z",
+      "last_seen_at": "2026-07-26T19:42:43.463872Z",
       "title_original": "奇瑞全球累计销量突破2000万辆 风云A9将作为第2000万辆车交付",
       "title_en": null,
       "title_zh": "奇瑞全球累计销量突破2000万辆 风云A9将作为第2000万辆车交付",
@@ -504,7 +738,7 @@
       "url": "https://auto.gasgoo.com/news/202607/25I70467400C107.shtml",
       "published_at": "2026-07-25T22:46:36Z",
       "first_seen_at": "2026-07-26T15:37:31.411104Z",
-      "last_seen_at": "2026-07-26T18:01:35.842956Z",
+      "last_seen_at": "2026-07-26T19:42:43.463872Z",
       "title_original": "奇瑞风云A9正式上市 售价10.99万元起",
       "title_en": null,
       "title_zh": "奇瑞风云A9正式上市 售价10.99万元起",
@@ -524,7 +758,7 @@
       "url": "http://vc.yiche.com/vplay/12274936.html",
       "published_at": null,
       "first_seen_at": "2026-07-25T19:46:04.808670Z",
-      "last_seen_at": "2026-07-26T18:01:35.842956Z",
+      "last_seen_at": "2026-07-26T19:42:43.463872Z",
       "title_original": "吉利首款能“上山下海”的车 静态体验吉利银河战舰700",
       "title_en": null,
       "title_zh": "吉利首款能“上山下海”的车 静态体验吉利银河战舰700",
@@ -562,7 +796,7 @@
       "url": "http://vc.yiche.com/vplay/12246047.html",
       "published_at": null,
       "first_seen_at": "2026-07-25T19:46:04.808670Z",
-      "last_seen_at": "2026-07-26T18:01:35.842956Z",
+      "last_seen_at": "2026-07-26T19:42:43.463872Z",
       "title_original": "21.98万起贵不贵？实拍长城H10，优缺点都在这了",
       "title_en": null,
       "title_zh": "21.98万起贵不贵？实拍长城H10，优缺点都在这了",
