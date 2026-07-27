@@ -1,37 +1,39 @@
 {
-  "generated_at": "2026-07-27T04:12:24.456580Z",
+  "generated_at": "2026-07-27T08:00:23.443910Z",
   "sites": [
     {
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
       "ok": true,
       "item_count": 878,
-      "duration_ms": 8455,
+      "duration_ms": 9281,
       "error": null
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "ok": true,
-      "item_count": 3040,
-      "duration_ms": 1921,
+      "item_count": 3044,
+      "duration_ms": 1196,
       "error": null
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
-      "ok": true,
-      "item_count": 127,
-      "duration_ms": 1382,
-      "error": null
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 33224,
+      "error": "HTTPSConnectionPool(host='newsnow.busiyi.world', port=443): Max retries exceeded with url: /api/s?id=36kr (Caused by ResponseError('too many 500 error responses'))"
     }
   ],
-  "successful_sites": 3,
-  "failed_sites": [],
+  "successful_sites": 2,
+  "failed_sites": [
+    "newsnow"
+  ],
   "zero_item_sites": [],
-  "fetched_raw_items": 4045,
-  "items_before_topic_filter": 3244,
-  "items_in_24h": 15,
+  "fetched_raw_items": 3922,
+  "items_before_topic_filter": 3286,
+  "items_in_24h": 18,
   "rss_opml": {
     "enabled": false,
     "path": null,
