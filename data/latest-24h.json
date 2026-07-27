@@ -1,49 +1,53 @@
 {
-  "generated_at": "2026-07-27T08:00:23.443910Z",
+  "generated_at": "2026-07-27T11:49:57.586933Z",
   "window_hours": 24,
-  "total_items": 18,
-  "total_items_ai_raw": 18,
-  "total_items_raw": 3286,
-  "total_items_all_mode": 3000,
+  "total_items": 24,
+  "total_items_ai_raw": 24,
+  "total_items_raw": 3159,
+  "total_items_all_mode": 2899,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 75080,
+  "archive_total": 75125,
   "site_count": 3,
-  "source_count": 5,
+  "source_count": 6,
   "site_stats": [
-    {
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "count": 11,
-      "raw_count": 3136
-    },
     {
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "count": 7,
-      "raw_count": 7
+      "count": 14,
+      "raw_count": 14
+    },
+    {
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "count": 10,
+      "raw_count": 2987
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "count": 0,
-      "raw_count": 143
+      "raw_count": 158
     }
   ],
   "topic_tag_stats": [
     {
       "tag": "车企竞争",
-      "count": 13
+      "count": 18
     },
     {
       "tag": "新能源",
-      "count": 8
+      "count": 15
+    },
+    {
+      "tag": "新车上市",
+      "count": 7
     },
     {
       "tag": "购车决策",
       "count": 6
     },
     {
-      "tag": "新车上市",
+      "tag": "补能电池",
       "count": 4
     },
     {
@@ -51,20 +55,140 @@
       "count": 2
     },
     {
-      "tag": "补能电池",
+      "tag": "供应链",
       "count": 2
     },
     {
-      "tag": "供应链",
+      "tag": "智能驾驶",
       "count": 1
     },
     {
-      "tag": "智能驾驶",
+      "tag": "销量市场",
       "count": 1
     }
   ],
   "items": [
     {
+      "id": "16dedd4754a260936aa34afea0482b98e43ecadb",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "2027 BYD Seal 06 official images show LiDAR  and reported 240 kW motor option",
+      "url": "https://carnewschina.com/2026/07/27/2027-byd-seal-06-ev-official-images-show-lidar-and-reported-240-kw-motor-option",
+      "published_at": "2026-07-27T11:05:27Z",
+      "first_seen_at": "2026-07-27T11:49:57.586933Z",
+      "last_seen_at": "2026-07-27T11:49:57.586933Z",
+      "title_original": "2027 BYD Seal 06 official images show LiDAR  and reported 240 kW motor option",
+      "title_en": "2027 BYD Seal 06 official images show LiDAR  and reported 240 kW motor option",
+      "title_zh": "2027 比亚迪 Seal 06 官方图片显示 LiDAR 并报道 240 kW 电机选项",
+      "title_bilingual": "2027 比亚迪 Seal 06 官方图片显示 LiDAR 并报道 240 kW 电机选项 / 2027 BYD Seal 06 official images show LiDAR  and reported 240 kW motor option",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "供应链"
+      ]
+    },
+    {
+      "id": "dc00b1b090a76b9855ce87f7327dbd585035301a",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Avatr sets August 8 launch for 07L family SUV",
+      "url": "https://cnevpost.com/2026/07/27/avatr-aug-8-launch-07l",
+      "published_at": "2026-07-27T10:33:44Z",
+      "first_seen_at": "2026-07-27T11:49:57.586933Z",
+      "last_seen_at": "2026-07-27T11:49:57.586933Z",
+      "title_original": "Avatr sets August 8 launch for 07L family SUV",
+      "title_en": "Avatr sets August 8 launch for 07L family SUV",
+      "title_zh": "Avatr 07L 家族 SUV 将于 8 月 8 日上市",
+      "title_bilingual": "Avatr 07L 家族 SUV 将于 8 月 8 日上市 / Avatr sets August 8 launch for 07L family SUV",
+      "topic_tags": [
+        "新能源",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "26102175f4731fa88f427f4a735b68de99828bd8",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "BYD Da Han sedan with 1,008 km range revealed in official images",
+      "url": "https://carnewschina.com/2026/07/27/byd-da-han-sedan-with-1008-km-range-revealed-in-official-images",
+      "published_at": "2026-07-27T09:48:15Z",
+      "first_seen_at": "2026-07-27T11:49:57.586933Z",
+      "last_seen_at": "2026-07-27T11:49:57.586933Z",
+      "title_original": "BYD Da Han sedan with 1,008 km range revealed in official images",
+      "title_en": "BYD Da Han sedan with 1,008 km range revealed in official images",
+      "title_zh": "比亚迪大汉轿车官方图片曝光，续航里程达1,008公里",
+      "title_bilingual": "比亚迪大汉轿车官方图片曝光，续航里程达1,008公里 / BYD Da Han sedan with 1,008 km range revealed in official images",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "353e4a9b7b354f6745fc14f855f4679a3ee35593",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Leapmotor opens pre-orders for A05 compact EV with up to 510 km range",
+      "url": "https://cnevpost.com/2026/07/27/leapmotor-opens-pre-orders-a05",
+      "published_at": "2026-07-27T09:15:23Z",
+      "first_seen_at": "2026-07-27T11:49:57.586933Z",
+      "last_seen_at": "2026-07-27T11:49:57.586933Z",
+      "title_original": "Leapmotor opens pre-orders for A05 compact EV with up to 510 km range",
+      "title_en": "Leapmotor opens pre-orders for A05 compact EV with up to 510 km range",
+      "title_zh": "零跑A05紧凑型电动汽车开启预订，续航里程可达510公里",
+      "title_bilingual": "零跑A05紧凑型电动汽车开启预订，续航里程可达510公里 / Leapmotor opens pre-orders for A05 compact EV with up to 510 km range",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "6185b02f25c6f26f76f37c873c50da6038a8d3b4",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "BYD releases official images of Da Han flagship sedan ahead of Chengdu Auto Show debut",
+      "url": "https://cnevpost.com/2026/07/27/byd-releases-official-images-da-han",
+      "published_at": "2026-07-27T08:48:35Z",
+      "first_seen_at": "2026-07-27T11:49:57.586933Z",
+      "last_seen_at": "2026-07-27T11:49:57.586933Z",
+      "title_original": "BYD releases official images of Da Han flagship sedan ahead of Chengdu Auto Show debut",
+      "title_en": "BYD releases official images of Da Han flagship sedan ahead of Chengdu Auto Show debut",
+      "title_zh": "比亚迪在成都车展亮相前夕发布大汉旗舰轿车官方图片",
+      "title_bilingual": "比亚迪在成都车展亮相前夕发布大汉旗舰轿车官方图片 / BYD releases official images of Da Han flagship sedan ahead of Chengdu Auto Show debut",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "3fbae4f745484c3496fb4d889d27a459309b8499",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "BYD’s Shenzhen base hit by Typhoon Noul, Da Tang & Ti7 deliveries delayed",
+      "url": "https://carnewschina.com/2026/07/27/byds-shenzhen-base-hit-by-typhoon-noul-da-tang-ti7-deliveries-delayed",
+      "published_at": "2026-07-27T08:16:17Z",
+      "first_seen_at": "2026-07-27T11:49:57.586933Z",
+      "last_seen_at": "2026-07-27T11:49:57.586933Z",
+      "title_original": "BYD’s Shenzhen base hit by Typhoon Noul, Da Tang & Ti7 deliveries delayed",
+      "title_en": "BYD’s Shenzhen base hit by Typhoon Noul, Da Tang & Ti7 deliveries delayed",
+      "title_zh": "比亚迪深圳基地受台风“诺尔”影响，大唐、Ti7交付延迟",
+      "title_bilingual": "比亚迪深圳基地受台风“诺尔”影响，大唐、Ti7交付延迟 / BYD’s Shenzhen base hit by Typhoon Noul, Da Tang & Ti7 deliveries delayed",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
       "id": "424ca1e068adf8f1399c69a79b7085e9efb090a3",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -73,7 +197,7 @@
       "url": "https://cnevpost.com/2026/07/27/nio-ceo-attends-cxmt-listing-dinner",
       "published_at": "2026-07-27T07:48:58Z",
       "first_seen_at": "2026-07-27T08:00:23.443910Z",
-      "last_seen_at": "2026-07-27T08:00:23.443910Z",
+      "last_seen_at": "2026-07-27T11:49:57.586933Z",
       "title_original": "Nio CEO attends CXMT listing dinner as memory maker becomes China's most valuable stock",
       "title_en": "Nio CEO attends CXMT listing dinner as memory maker becomes China's most valuable stock",
       "title_zh": "蔚来CEO出席长鑫存储上市晚宴 存储器制造商成为中国最有价值的股票",
@@ -94,7 +218,7 @@
       "url": "https://cnevpost.com/2026/07/27/momenta-confirms-robovan-entry",
       "published_at": "2026-07-27T06:55:41Z",
       "first_seen_at": "2026-07-27T08:00:23.443910Z",
-      "last_seen_at": "2026-07-27T08:00:23.443910Z",
+      "last_seen_at": "2026-07-27T11:49:57.586933Z",
       "title_original": "Momenta confirms robovan entry in push beyond robotaxis",
       "title_en": "Momenta confirms robovan entry in push beyond robotaxis",
       "title_zh": "Momenta 确认 Robovan 进入机器人轴领域",
@@ -112,7 +236,7 @@
       "url": "https://cnevpost.com/2026/07/27/li-auto-i6-production-cut-4000",
       "published_at": "2026-07-27T06:10:34Z",
       "first_seen_at": "2026-07-27T08:00:23.443910Z",
-      "last_seen_at": "2026-07-27T08:00:23.443910Z",
+      "last_seen_at": "2026-07-27T11:49:57.586933Z",
       "title_original": "Li Auto exec says headlight supply issues cut i6 production by about 4,000 units",
       "title_en": "Li Auto exec says headlight supply issues cut i6 production by about 4,000 units",
       "title_zh": "理想汽车高管称车头灯供应问题导致 i6 产量减少约 4,000 辆",
@@ -131,7 +255,7 @@
       "url": "https://cnevpost.com/2026/07/27/xpeng-restarts-australia-push-after-dealer-fallout",
       "published_at": "2026-07-27T04:04:34Z",
       "first_seen_at": "2026-07-27T04:12:24.456580Z",
-      "last_seen_at": "2026-07-27T08:00:23.443910Z",
+      "last_seen_at": "2026-07-27T11:49:57.586933Z",
       "title_original": "Xpeng restarts Australia push after dealer fallout, opens X9 pre-orders",
       "title_en": "Xpeng restarts Australia push after dealer fallout, opens X9 pre-orders",
       "title_zh": "经销商受挫后，小鹏汽车重启澳大利亚业务，开放 X9 预订",
@@ -150,7 +274,7 @@
       "url": "https://cnevpost.com/2026/07/27/maextro-aug-5-launch-luxury-mpvs",
       "published_at": "2026-07-27T02:02:36Z",
       "first_seen_at": "2026-07-27T04:12:24.456580Z",
-      "last_seen_at": "2026-07-27T08:00:23.443910Z",
+      "last_seen_at": "2026-07-27T11:49:57.586933Z",
       "title_original": "Huawei-backed Maextro sets August 5 launch for two luxury MPVs",
       "title_en": "Huawei-backed Maextro sets August 5 launch for two luxury MPVs",
       "title_zh": "华为支持的 Maextro 两款豪华 MPV 将于 8 月 5 日上市",
@@ -169,7 +293,7 @@
       "url": "https://cnevpost.com/2026/07/27/xiaomi-debut-sky-nomad-suvs-jul-30",
       "published_at": "2026-07-27T01:29:15Z",
       "first_seen_at": "2026-07-27T04:12:24.456580Z",
-      "last_seen_at": "2026-07-27T08:00:23.443910Z",
+      "last_seen_at": "2026-07-27T11:49:57.586933Z",
       "title_original": "Xiaomi to debut first two Sky Nomad SUVs on July 30",
       "title_en": "Xiaomi to debut first two Sky Nomad SUVs on July 30",
       "title_zh": "小米首批两款 Sky Nomad SUV 将于 7 月 30 日首发",
@@ -189,7 +313,7 @@
       "url": "http://vc.yiche.com/vplay/12246131.html",
       "published_at": null,
       "first_seen_at": "2026-07-26T19:42:43.463872Z",
-      "last_seen_at": "2026-07-27T08:00:23.443910Z",
+      "last_seen_at": "2026-07-27T11:49:57.586933Z",
       "title_original": "如果帅是GT的第一门槛，比亚迪海豹06GT一定榜上有名",
       "title_en": null,
       "title_zh": "如果帅是GT的第一门槛，比亚迪海豹06GT一定榜上有名",
@@ -207,7 +331,7 @@
       "url": "http://vc.yiche.com/vplay/12289524.html",
       "published_at": null,
       "first_seen_at": "2026-07-26T19:42:43.463872Z",
-      "last_seen_at": "2026-07-27T08:00:23.443910Z",
+      "last_seen_at": "2026-07-27T11:49:57.586933Z",
       "title_original": "全网首发，吉利首款硬派越野SUV战舰700",
       "title_en": null,
       "title_zh": "全网首发，吉利首款硬派越野SUV战舰700",
@@ -226,7 +350,7 @@
       "url": "http://vc.yiche.com/vplay/12275846.html",
       "published_at": null,
       "first_seen_at": "2026-07-26T19:42:43.463872Z",
-      "last_seen_at": "2026-07-27T08:00:23.443910Z",
+      "last_seen_at": "2026-07-27T11:49:57.586933Z",
       "title_original": "真的可以吊打其他9系旗舰吗？比亚迪大唐真实试驾测评",
       "title_en": null,
       "title_zh": "真的可以吊打其他9系旗舰吗？比亚迪大唐真实试驾测评",
@@ -245,7 +369,7 @@
       "url": "http://vc.yiche.com/vplay/12273851.html",
       "published_at": null,
       "first_seen_at": "2026-07-26T19:42:43.463872Z",
-      "last_seen_at": "2026-07-27T08:00:23.443910Z",
+      "last_seen_at": "2026-07-27T11:49:57.586933Z",
       "title_original": "体验零跑A05，起步405公里续航优势很大，很可能5万多起售",
       "title_en": null,
       "title_zh": "体验零跑A05，起步405公里续航优势很大，很可能5万多起售",
@@ -266,7 +390,7 @@
       "url": "http://vc.yiche.com/vplay/12294585.html",
       "published_at": null,
       "first_seen_at": "2026-07-26T19:42:43.463872Z",
-      "last_seen_at": "2026-07-27T08:00:23.443910Z",
+      "last_seen_at": "2026-07-27T11:49:57.586933Z",
       "title_original": "盛夏也有低能耗 吴楠实测问界M6综合续航率92%",
       "title_en": null,
       "title_zh": "盛夏也有低能耗 吴楠实测问界M6综合续航率92%",
@@ -285,7 +409,7 @@
       "url": "http://vc.yiche.com/vplay/12251787.html",
       "published_at": null,
       "first_seen_at": "2026-07-26T19:42:43.463872Z",
-      "last_seen_at": "2026-07-27T08:00:23.443910Z",
+      "last_seen_at": "2026-07-27T11:49:57.586933Z",
       "title_original": "激光雷达上车，有纯电有增程！全新深蓝S05长这样",
       "title_en": null,
       "title_zh": "激光雷达上车，有纯电有增程！全新深蓝S05长这样",
@@ -293,6 +417,25 @@
       "topic_tags": [
         "新能源",
         "智能驾驶"
+      ]
+    },
+    {
+      "id": "4d0df412900eaa06d69c7e12b3bc1ef1b5edfa03",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新能源",
+      "title": "E周看点｜福特与吉利成立西班牙合资公司；特斯拉Q2净利润下滑5%至11亿美元",
+      "url": "https://auto.gasgoo.com/news/202607/26I70467272C501.shtml",
+      "published_at": "2026-07-26T17:20:46Z",
+      "first_seen_at": "2026-07-27T11:49:57.586933Z",
+      "last_seen_at": "2026-07-27T11:49:57.586933Z",
+      "title_original": "E周看点｜福特与吉利成立西班牙合资公司；特斯拉Q2净利润下滑5%至11亿美元",
+      "title_en": null,
+      "title_zh": "E周看点｜福特与吉利成立西班牙合资公司；特斯拉Q2净利润下滑5%至11亿美元",
+      "title_bilingual": "E周看点｜福特与吉利成立西班牙合资公司；特斯拉Q2净利润下滑5%至11亿美元",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
       ]
     },
     {
@@ -304,7 +447,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/a99e6d4d216d0252/115430543-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-26T16:56:45.036016Z",
-      "last_seen_at": "2026-07-27T08:00:23.443910Z",
+      "last_seen_at": "2026-07-27T11:49:57.586933Z",
       "title_original": "性价比拉满 零跑A10提车作业分享",
       "title_en": null,
       "title_zh": "性价比拉满 零跑A10提车作业分享",
@@ -324,7 +467,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/ae125c3dfff2f8fa/115461535-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-26T16:56:45.036016Z",
-      "last_seen_at": "2026-07-27T08:00:23.443910Z",
+      "last_seen_at": "2026-07-27T11:49:57.586933Z",
       "title_original": "适合短途代步 QQ3 EV提车作业分享",
       "title_en": null,
       "title_zh": "适合短途代步 QQ3 EV提车作业分享",
@@ -343,7 +486,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/34ef61efc24b676c/115454228-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-26T16:56:45.036016Z",
-      "last_seen_at": "2026-07-27T08:00:23.443910Z",
+      "last_seen_at": "2026-07-27T11:49:57.586933Z",
       "title_original": "外观简约耐看 小鹏G6提车作业分享",
       "title_en": null,
       "title_zh": "外观简约耐看 小鹏G6提车作业分享",
@@ -362,7 +505,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/b2d345feca71e4b0/115436854-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-26T16:56:45.036016Z",
-      "last_seen_at": "2026-07-27T08:00:23.443910Z",
+      "last_seen_at": "2026-07-27T11:49:57.586933Z",
       "title_original": "家用完全够用 长安启源A06提车分享",
       "title_en": null,
       "title_zh": "家用完全够用 长安启源A06提车分享",
@@ -381,34 +524,136 @@
       "url": "https://auto.gasgoo.com/news/202607/26I70467368C601.shtml",
       "published_at": "2026-07-26T15:51:33Z",
       "first_seen_at": "2026-07-27T08:00:23.443910Z",
-      "last_seen_at": "2026-07-27T08:00:23.443910Z",
+      "last_seen_at": "2026-07-27T11:49:57.586933Z",
       "title_original": "小智一周要闻 | 首批“河南造”人形机器人下线；Mobileye创始人转战机器人",
       "title_en": null,
       "title_zh": "小智一周要闻 | 首批“河南造”人形机器人下线；Mobileye创始人转战机器人",
       "title_bilingual": "小智一周要闻 | 首批“河南造”人形机器人下线；Mobileye创始人转战机器人",
       "topic_tags": []
-    },
-    {
-      "id": "a7bd03ae2d448e016563e61250e014dc300523d7",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "懂车帝 · 文章排行榜",
-      "title": "2026上半年，哪些车企亏得“惨不忍睹”？",
-      "url": "https://www.dongchedi.com/article/7666279573469807128",
-      "published_at": null,
-      "first_seen_at": "2026-07-26T09:09:54.500298Z",
-      "last_seen_at": "2026-07-27T08:00:23.443910Z",
-      "title_original": "2026上半年，哪些车企亏得“惨不忍睹”？",
-      "title_en": null,
-      "title_zh": "2026上半年，哪些车企亏得“惨不忍睹”？",
-      "title_bilingual": "2026上半年，哪些车企亏得“惨不忍睹”？",
-      "topic_tags": [
-        "车企竞争"
-      ]
     }
   ],
   "items_ai": [
     {
+      "id": "16dedd4754a260936aa34afea0482b98e43ecadb",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "2027 BYD Seal 06 official images show LiDAR  and reported 240 kW motor option",
+      "url": "https://carnewschina.com/2026/07/27/2027-byd-seal-06-ev-official-images-show-lidar-and-reported-240-kw-motor-option",
+      "published_at": "2026-07-27T11:05:27Z",
+      "first_seen_at": "2026-07-27T11:49:57.586933Z",
+      "last_seen_at": "2026-07-27T11:49:57.586933Z",
+      "title_original": "2027 BYD Seal 06 official images show LiDAR  and reported 240 kW motor option",
+      "title_en": "2027 BYD Seal 06 official images show LiDAR  and reported 240 kW motor option",
+      "title_zh": "2027 比亚迪 Seal 06 官方图片显示 LiDAR 并报道 240 kW 电机选项",
+      "title_bilingual": "2027 比亚迪 Seal 06 官方图片显示 LiDAR 并报道 240 kW 电机选项 / 2027 BYD Seal 06 official images show LiDAR  and reported 240 kW motor option",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "供应链"
+      ]
+    },
+    {
+      "id": "dc00b1b090a76b9855ce87f7327dbd585035301a",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Avatr sets August 8 launch for 07L family SUV",
+      "url": "https://cnevpost.com/2026/07/27/avatr-aug-8-launch-07l",
+      "published_at": "2026-07-27T10:33:44Z",
+      "first_seen_at": "2026-07-27T11:49:57.586933Z",
+      "last_seen_at": "2026-07-27T11:49:57.586933Z",
+      "title_original": "Avatr sets August 8 launch for 07L family SUV",
+      "title_en": "Avatr sets August 8 launch for 07L family SUV",
+      "title_zh": "Avatr 07L 家族 SUV 将于 8 月 8 日上市",
+      "title_bilingual": "Avatr 07L 家族 SUV 将于 8 月 8 日上市 / Avatr sets August 8 launch for 07L family SUV",
+      "topic_tags": [
+        "新能源",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "26102175f4731fa88f427f4a735b68de99828bd8",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "BYD Da Han sedan with 1,008 km range revealed in official images",
+      "url": "https://carnewschina.com/2026/07/27/byd-da-han-sedan-with-1008-km-range-revealed-in-official-images",
+      "published_at": "2026-07-27T09:48:15Z",
+      "first_seen_at": "2026-07-27T11:49:57.586933Z",
+      "last_seen_at": "2026-07-27T11:49:57.586933Z",
+      "title_original": "BYD Da Han sedan with 1,008 km range revealed in official images",
+      "title_en": "BYD Da Han sedan with 1,008 km range revealed in official images",
+      "title_zh": "比亚迪大汉轿车官方图片曝光，续航里程达1,008公里",
+      "title_bilingual": "比亚迪大汉轿车官方图片曝光，续航里程达1,008公里 / BYD Da Han sedan with 1,008 km range revealed in official images",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "353e4a9b7b354f6745fc14f855f4679a3ee35593",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Leapmotor opens pre-orders for A05 compact EV with up to 510 km range",
+      "url": "https://cnevpost.com/2026/07/27/leapmotor-opens-pre-orders-a05",
+      "published_at": "2026-07-27T09:15:23Z",
+      "first_seen_at": "2026-07-27T11:49:57.586933Z",
+      "last_seen_at": "2026-07-27T11:49:57.586933Z",
+      "title_original": "Leapmotor opens pre-orders for A05 compact EV with up to 510 km range",
+      "title_en": "Leapmotor opens pre-orders for A05 compact EV with up to 510 km range",
+      "title_zh": "零跑A05紧凑型电动汽车开启预订，续航里程可达510公里",
+      "title_bilingual": "零跑A05紧凑型电动汽车开启预订，续航里程可达510公里 / Leapmotor opens pre-orders for A05 compact EV with up to 510 km range",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "6185b02f25c6f26f76f37c873c50da6038a8d3b4",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "BYD releases official images of Da Han flagship sedan ahead of Chengdu Auto Show debut",
+      "url": "https://cnevpost.com/2026/07/27/byd-releases-official-images-da-han",
+      "published_at": "2026-07-27T08:48:35Z",
+      "first_seen_at": "2026-07-27T11:49:57.586933Z",
+      "last_seen_at": "2026-07-27T11:49:57.586933Z",
+      "title_original": "BYD releases official images of Da Han flagship sedan ahead of Chengdu Auto Show debut",
+      "title_en": "BYD releases official images of Da Han flagship sedan ahead of Chengdu Auto Show debut",
+      "title_zh": "比亚迪在成都车展亮相前夕发布大汉旗舰轿车官方图片",
+      "title_bilingual": "比亚迪在成都车展亮相前夕发布大汉旗舰轿车官方图片 / BYD releases official images of Da Han flagship sedan ahead of Chengdu Auto Show debut",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "3fbae4f745484c3496fb4d889d27a459309b8499",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "BYD’s Shenzhen base hit by Typhoon Noul, Da Tang & Ti7 deliveries delayed",
+      "url": "https://carnewschina.com/2026/07/27/byds-shenzhen-base-hit-by-typhoon-noul-da-tang-ti7-deliveries-delayed",
+      "published_at": "2026-07-27T08:16:17Z",
+      "first_seen_at": "2026-07-27T11:49:57.586933Z",
+      "last_seen_at": "2026-07-27T11:49:57.586933Z",
+      "title_original": "BYD’s Shenzhen base hit by Typhoon Noul, Da Tang & Ti7 deliveries delayed",
+      "title_en": "BYD’s Shenzhen base hit by Typhoon Noul, Da Tang & Ti7 deliveries delayed",
+      "title_zh": "比亚迪深圳基地受台风“诺尔”影响，大唐、Ti7交付延迟",
+      "title_bilingual": "比亚迪深圳基地受台风“诺尔”影响，大唐、Ti7交付延迟 / BYD’s Shenzhen base hit by Typhoon Noul, Da Tang & Ti7 deliveries delayed",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
       "id": "424ca1e068adf8f1399c69a79b7085e9efb090a3",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -417,7 +662,7 @@
       "url": "https://cnevpost.com/2026/07/27/nio-ceo-attends-cxmt-listing-dinner",
       "published_at": "2026-07-27T07:48:58Z",
       "first_seen_at": "2026-07-27T08:00:23.443910Z",
-      "last_seen_at": "2026-07-27T08:00:23.443910Z",
+      "last_seen_at": "2026-07-27T11:49:57.586933Z",
       "title_original": "Nio CEO attends CXMT listing dinner as memory maker becomes China's most valuable stock",
       "title_en": "Nio CEO attends CXMT listing dinner as memory maker becomes China's most valuable stock",
       "title_zh": "蔚来CEO出席长鑫存储上市晚宴 存储器制造商成为中国最有价值的股票",
@@ -438,7 +683,7 @@
       "url": "https://cnevpost.com/2026/07/27/momenta-confirms-robovan-entry",
       "published_at": "2026-07-27T06:55:41Z",
       "first_seen_at": "2026-07-27T08:00:23.443910Z",
-      "last_seen_at": "2026-07-27T08:00:23.443910Z",
+      "last_seen_at": "2026-07-27T11:49:57.586933Z",
       "title_original": "Momenta confirms robovan entry in push beyond robotaxis",
       "title_en": "Momenta confirms robovan entry in push beyond robotaxis",
       "title_zh": "Momenta 确认 Robovan 进入机器人轴领域",
@@ -456,7 +701,7 @@
       "url": "https://cnevpost.com/2026/07/27/li-auto-i6-production-cut-4000",
       "published_at": "2026-07-27T06:10:34Z",
       "first_seen_at": "2026-07-27T08:00:23.443910Z",
-      "last_seen_at": "2026-07-27T08:00:23.443910Z",
+      "last_seen_at": "2026-07-27T11:49:57.586933Z",
       "title_original": "Li Auto exec says headlight supply issues cut i6 production by about 4,000 units",
       "title_en": "Li Auto exec says headlight supply issues cut i6 production by about 4,000 units",
       "title_zh": "理想汽车高管称车头灯供应问题导致 i6 产量减少约 4,000 辆",
@@ -475,7 +720,7 @@
       "url": "https://cnevpost.com/2026/07/27/xpeng-restarts-australia-push-after-dealer-fallout",
       "published_at": "2026-07-27T04:04:34Z",
       "first_seen_at": "2026-07-27T04:12:24.456580Z",
-      "last_seen_at": "2026-07-27T08:00:23.443910Z",
+      "last_seen_at": "2026-07-27T11:49:57.586933Z",
       "title_original": "Xpeng restarts Australia push after dealer fallout, opens X9 pre-orders",
       "title_en": "Xpeng restarts Australia push after dealer fallout, opens X9 pre-orders",
       "title_zh": "经销商受挫后，小鹏汽车重启澳大利亚业务，开放 X9 预订",
@@ -494,7 +739,7 @@
       "url": "https://cnevpost.com/2026/07/27/maextro-aug-5-launch-luxury-mpvs",
       "published_at": "2026-07-27T02:02:36Z",
       "first_seen_at": "2026-07-27T04:12:24.456580Z",
-      "last_seen_at": "2026-07-27T08:00:23.443910Z",
+      "last_seen_at": "2026-07-27T11:49:57.586933Z",
       "title_original": "Huawei-backed Maextro sets August 5 launch for two luxury MPVs",
       "title_en": "Huawei-backed Maextro sets August 5 launch for two luxury MPVs",
       "title_zh": "华为支持的 Maextro 两款豪华 MPV 将于 8 月 5 日上市",
@@ -513,7 +758,7 @@
       "url": "https://cnevpost.com/2026/07/27/xiaomi-debut-sky-nomad-suvs-jul-30",
       "published_at": "2026-07-27T01:29:15Z",
       "first_seen_at": "2026-07-27T04:12:24.456580Z",
-      "last_seen_at": "2026-07-27T08:00:23.443910Z",
+      "last_seen_at": "2026-07-27T11:49:57.586933Z",
       "title_original": "Xiaomi to debut first two Sky Nomad SUVs on July 30",
       "title_en": "Xiaomi to debut first two Sky Nomad SUVs on July 30",
       "title_zh": "小米首批两款 Sky Nomad SUV 将于 7 月 30 日首发",
@@ -533,7 +778,7 @@
       "url": "http://vc.yiche.com/vplay/12246131.html",
       "published_at": null,
       "first_seen_at": "2026-07-26T19:42:43.463872Z",
-      "last_seen_at": "2026-07-27T08:00:23.443910Z",
+      "last_seen_at": "2026-07-27T11:49:57.586933Z",
       "title_original": "如果帅是GT的第一门槛，比亚迪海豹06GT一定榜上有名",
       "title_en": null,
       "title_zh": "如果帅是GT的第一门槛，比亚迪海豹06GT一定榜上有名",
@@ -551,7 +796,7 @@
       "url": "http://vc.yiche.com/vplay/12289524.html",
       "published_at": null,
       "first_seen_at": "2026-07-26T19:42:43.463872Z",
-      "last_seen_at": "2026-07-27T08:00:23.443910Z",
+      "last_seen_at": "2026-07-27T11:49:57.586933Z",
       "title_original": "全网首发，吉利首款硬派越野SUV战舰700",
       "title_en": null,
       "title_zh": "全网首发，吉利首款硬派越野SUV战舰700",
@@ -570,7 +815,7 @@
       "url": "http://vc.yiche.com/vplay/12275846.html",
       "published_at": null,
       "first_seen_at": "2026-07-26T19:42:43.463872Z",
-      "last_seen_at": "2026-07-27T08:00:23.443910Z",
+      "last_seen_at": "2026-07-27T11:49:57.586933Z",
       "title_original": "真的可以吊打其他9系旗舰吗？比亚迪大唐真实试驾测评",
       "title_en": null,
       "title_zh": "真的可以吊打其他9系旗舰吗？比亚迪大唐真实试驾测评",
@@ -589,7 +834,7 @@
       "url": "http://vc.yiche.com/vplay/12273851.html",
       "published_at": null,
       "first_seen_at": "2026-07-26T19:42:43.463872Z",
-      "last_seen_at": "2026-07-27T08:00:23.443910Z",
+      "last_seen_at": "2026-07-27T11:49:57.586933Z",
       "title_original": "体验零跑A05，起步405公里续航优势很大，很可能5万多起售",
       "title_en": null,
       "title_zh": "体验零跑A05，起步405公里续航优势很大，很可能5万多起售",
@@ -610,7 +855,7 @@
       "url": "http://vc.yiche.com/vplay/12294585.html",
       "published_at": null,
       "first_seen_at": "2026-07-26T19:42:43.463872Z",
-      "last_seen_at": "2026-07-27T08:00:23.443910Z",
+      "last_seen_at": "2026-07-27T11:49:57.586933Z",
       "title_original": "盛夏也有低能耗 吴楠实测问界M6综合续航率92%",
       "title_en": null,
       "title_zh": "盛夏也有低能耗 吴楠实测问界M6综合续航率92%",
@@ -629,7 +874,7 @@
       "url": "http://vc.yiche.com/vplay/12251787.html",
       "published_at": null,
       "first_seen_at": "2026-07-26T19:42:43.463872Z",
-      "last_seen_at": "2026-07-27T08:00:23.443910Z",
+      "last_seen_at": "2026-07-27T11:49:57.586933Z",
       "title_original": "激光雷达上车，有纯电有增程！全新深蓝S05长这样",
       "title_en": null,
       "title_zh": "激光雷达上车，有纯电有增程！全新深蓝S05长这样",
@@ -637,6 +882,25 @@
       "topic_tags": [
         "新能源",
         "智能驾驶"
+      ]
+    },
+    {
+      "id": "4d0df412900eaa06d69c7e12b3bc1ef1b5edfa03",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新能源",
+      "title": "E周看点｜福特与吉利成立西班牙合资公司；特斯拉Q2净利润下滑5%至11亿美元",
+      "url": "https://auto.gasgoo.com/news/202607/26I70467272C501.shtml",
+      "published_at": "2026-07-26T17:20:46Z",
+      "first_seen_at": "2026-07-27T11:49:57.586933Z",
+      "last_seen_at": "2026-07-27T11:49:57.586933Z",
+      "title_original": "E周看点｜福特与吉利成立西班牙合资公司；特斯拉Q2净利润下滑5%至11亿美元",
+      "title_en": null,
+      "title_zh": "E周看点｜福特与吉利成立西班牙合资公司；特斯拉Q2净利润下滑5%至11亿美元",
+      "title_bilingual": "E周看点｜福特与吉利成立西班牙合资公司；特斯拉Q2净利润下滑5%至11亿美元",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
       ]
     },
     {
@@ -648,7 +912,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/a99e6d4d216d0252/115430543-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-26T16:56:45.036016Z",
-      "last_seen_at": "2026-07-27T08:00:23.443910Z",
+      "last_seen_at": "2026-07-27T11:49:57.586933Z",
       "title_original": "性价比拉满 零跑A10提车作业分享",
       "title_en": null,
       "title_zh": "性价比拉满 零跑A10提车作业分享",
@@ -668,7 +932,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/ae125c3dfff2f8fa/115461535-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-26T16:56:45.036016Z",
-      "last_seen_at": "2026-07-27T08:00:23.443910Z",
+      "last_seen_at": "2026-07-27T11:49:57.586933Z",
       "title_original": "适合短途代步 QQ3 EV提车作业分享",
       "title_en": null,
       "title_zh": "适合短途代步 QQ3 EV提车作业分享",
@@ -687,7 +951,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/34ef61efc24b676c/115454228-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-26T16:56:45.036016Z",
-      "last_seen_at": "2026-07-27T08:00:23.443910Z",
+      "last_seen_at": "2026-07-27T11:49:57.586933Z",
       "title_original": "外观简约耐看 小鹏G6提车作业分享",
       "title_en": null,
       "title_zh": "外观简约耐看 小鹏G6提车作业分享",
@@ -706,7 +970,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/b2d345feca71e4b0/115436854-1.html",
       "published_at": null,
       "first_seen_at": "2026-07-26T16:56:45.036016Z",
-      "last_seen_at": "2026-07-27T08:00:23.443910Z",
+      "last_seen_at": "2026-07-27T11:49:57.586933Z",
       "title_original": "家用完全够用 长安启源A06提车分享",
       "title_en": null,
       "title_zh": "家用完全够用 长安启源A06提车分享",
@@ -725,30 +989,12 @@
       "url": "https://auto.gasgoo.com/news/202607/26I70467368C601.shtml",
       "published_at": "2026-07-26T15:51:33Z",
       "first_seen_at": "2026-07-27T08:00:23.443910Z",
-      "last_seen_at": "2026-07-27T08:00:23.443910Z",
+      "last_seen_at": "2026-07-27T11:49:57.586933Z",
       "title_original": "小智一周要闻 | 首批“河南造”人形机器人下线；Mobileye创始人转战机器人",
       "title_en": null,
       "title_zh": "小智一周要闻 | 首批“河南造”人形机器人下线；Mobileye创始人转战机器人",
       "title_bilingual": "小智一周要闻 | 首批“河南造”人形机器人下线；Mobileye创始人转战机器人",
       "topic_tags": []
-    },
-    {
-      "id": "a7bd03ae2d448e016563e61250e014dc300523d7",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "懂车帝 · 文章排行榜",
-      "title": "2026上半年，哪些车企亏得“惨不忍睹”？",
-      "url": "https://www.dongchedi.com/article/7666279573469807128",
-      "published_at": null,
-      "first_seen_at": "2026-07-26T09:09:54.500298Z",
-      "last_seen_at": "2026-07-27T08:00:23.443910Z",
-      "title_original": "2026上半年，哪些车企亏得“惨不忍睹”？",
-      "title_en": null,
-      "title_zh": "2026上半年，哪些车企亏得“惨不忍睹”？",
-      "title_bilingual": "2026上半年，哪些车企亏得“惨不忍睹”？",
-      "topic_tags": [
-        "车企竞争"
-      ]
     }
   ],
   "all_mode_data_url": "data/latest-24h-all.json"
