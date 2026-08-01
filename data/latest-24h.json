@@ -1,70 +1,208 @@
 {
-  "generated_at": "2026-08-01T18:00:02.067332Z",
+  "generated_at": "2026-08-01T19:21:45.981357Z",
   "window_hours": 24,
-  "total_items": 28,
-  "total_items_ai_raw": 28,
-  "total_items_raw": 3467,
-  "total_items_all_mode": 3066,
+  "total_items": 31,
+  "total_items_ai_raw": 31,
+  "total_items_raw": 3342,
+  "total_items_all_mode": 2984,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 75638,
+  "archive_total": 75701,
   "site_count": 3,
-  "source_count": 7,
+  "source_count": 6,
   "site_stats": [
-    {
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "count": 16,
-      "raw_count": 16
-    },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
-      "count": 12,
-      "raw_count": 3287
+      "count": 16,
+      "raw_count": 3149
+    },
+    {
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "count": 15,
+      "raw_count": 15
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "count": 0,
-      "raw_count": 164
+      "raw_count": 178
     }
   ],
   "topic_tag_stats": [
     {
       "tag": "车企竞争",
-      "count": 21
-    },
-    {
-      "tag": "销量市场",
-      "count": 15
+      "count": 18
     },
     {
       "tag": "新能源",
-      "count": 14
+      "count": 16
     },
     {
-      "tag": "购车决策",
-      "count": 8
+      "tag": "销量市场",
+      "count": 16
     },
     {
       "tag": "新车上市",
-      "count": 5
+      "count": 8
+    },
+    {
+      "tag": "购车决策",
+      "count": 7
     },
     {
       "tag": "供应链",
+      "count": 4
+    },
+    {
+      "tag": "补能电池",
       "count": 3
     },
     {
       "tag": "智能驾驶",
-      "count": 1
+      "count": 2
     },
     {
-      "tag": "补能电池",
+      "tag": "价格战",
       "count": 1
     }
   ],
   "items": [
     {
+      "id": "c60e51548a8b8f3c94e030f578d29d4d1c8dc789",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "初晓敏：小米干增程SUV行吗？全网首验小米澎程N90和N70",
+      "url": "http://vc.yiche.com/vplay/12364312.html",
+      "published_at": null,
+      "first_seen_at": "2026-08-01T19:21:45.981357Z",
+      "last_seen_at": "2026-08-01T19:21:45.981357Z",
+      "title_original": "初晓敏：小米干增程SUV行吗？全网首验小米澎程N90和N70",
+      "title_en": null,
+      "title_zh": "初晓敏：小米干增程SUV行吗？全网首验小米澎程N90和N70",
+      "title_bilingual": "初晓敏：小米干增程SUV行吗？全网首验小米澎程N90和N70",
+      "topic_tags": [
+        "新能源",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "caf47d7dbdacae98243cd3b619d1a3a5fe8e6904",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "逸动HEV底盘鉴赏：落地9万，这用料做工不含糊！",
+      "url": "http://vc.yiche.com/vplay/12345818.html",
+      "published_at": null,
+      "first_seen_at": "2026-08-01T19:21:45.981357Z",
+      "last_seen_at": "2026-08-01T19:21:45.981357Z",
+      "title_original": "逸动HEV底盘鉴赏：落地9万，这用料做工不含糊！",
+      "title_en": null,
+      "title_zh": "逸动HEV底盘鉴赏：落地9万，这用料做工不含糊！",
+      "title_bilingual": "逸动HEV底盘鉴赏：落地9万，这用料做工不含糊！",
+      "topic_tags": [
+        "供应链"
+      ]
+    },
+    {
+      "id": "4a06de11af1574e9d40f11c9a5632802fb1863ac",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "家用SUV市场要变天？小米澎程N90有什么杀手锏丨野生11",
+      "url": "http://vc.yiche.com/vplay/12371249.html",
+      "published_at": null,
+      "first_seen_at": "2026-08-01T19:21:45.981357Z",
+      "last_seen_at": "2026-08-01T19:21:45.981357Z",
+      "title_original": "家用SUV市场要变天？小米澎程N90有什么杀手锏丨野生11",
+      "title_en": null,
+      "title_zh": "家用SUV市场要变天？小米澎程N90有什么杀手锏丨野生11",
+      "title_bilingual": "家用SUV市场要变天？小米澎程N90有什么杀手锏丨野生11",
+      "topic_tags": [
+        "销量市场",
+        "购车决策",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "e96c56285a20cbaf0f8fc583a91e884497e2850e",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "车长超奔驰S级！比亚迪大汉发布，纯电续航1008km，8月首发",
+      "url": "http://vc.yiche.com/vplay/12334422.html",
+      "published_at": null,
+      "first_seen_at": "2026-08-01T19:21:45.981357Z",
+      "last_seen_at": "2026-08-01T19:21:45.981357Z",
+      "title_original": "车长超奔驰S级！比亚迪大汉发布，纯电续航1008km，8月首发",
+      "title_en": null,
+      "title_zh": "车长超奔驰S级！比亚迪大汉发布，纯电续航1008km，8月首发",
+      "title_bilingual": "车长超奔驰S级！比亚迪大汉发布，纯电续航1008km，8月首发",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "d32e302fb2f89c65721ea54b69fbba7c2080f0d3",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "抢先体验地平线HSD 2.0辅助驾驶！前车意图理解、通行效率满分！",
+      "url": "http://vc.yiche.com/vplay/12392221.html",
+      "published_at": null,
+      "first_seen_at": "2026-08-01T19:21:45.981357Z",
+      "last_seen_at": "2026-08-01T19:21:45.981357Z",
+      "title_original": "抢先体验地平线HSD 2.0辅助驾驶！前车意图理解、通行效率满分！",
+      "title_en": null,
+      "title_zh": "抢先体验地平线HSD 2.0辅助驾驶！前车意图理解、通行效率满分！",
+      "title_bilingual": "抢先体验地平线HSD 2.0辅助驾驶！前车意图理解、通行效率满分！",
+      "topic_tags": [
+        "智能驾驶",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "18dbc2d130fc694228861370b8ab07a60125b70d",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "快评风云T7：设计、续航能打，定价成唯一悬念？",
+      "url": "http://vc.yiche.com/vplay/12334387.html",
+      "published_at": null,
+      "first_seen_at": "2026-08-01T19:21:45.981357Z",
+      "last_seen_at": "2026-08-01T19:21:45.981357Z",
+      "title_original": "快评风云T7：设计、续航能打，定价成唯一悬念？",
+      "title_en": null,
+      "title_zh": "快评风云T7：设计、续航能打，定价成唯一悬念？",
+      "title_bilingual": "快评风云T7：设计、续航能打，定价成唯一悬念？",
+      "topic_tags": [
+        "补能电池",
+        "价格战"
+      ]
+    },
+    {
+      "id": "45a449c6623f38db851ba1306ba5defc81276796",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "破纪录！星越L销量破100万 网友:除了油耗没任何缺点",
+      "url": "http://vc.yiche.com/vplay/12344355.html",
+      "published_at": null,
+      "first_seen_at": "2026-08-01T19:21:45.981357Z",
+      "last_seen_at": "2026-08-01T19:21:45.981357Z",
+      "title_original": "破纪录！星越L销量破100万 网友:除了油耗没任何缺点",
+      "title_en": null,
+      "title_zh": "破纪录！星越L销量破100万 网友:除了油耗没任何缺点",
+      "title_bilingual": "破纪录！星越L销量破100万 网友:除了油耗没任何缺点",
+      "topic_tags": [
+        "销量市场"
+      ]
+    },
+    {
       "id": "2989243a96105fa1e55d165f6e1837daf02df4e3",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -73,7 +211,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/2d61b12d9a7bc6d6/115644787-1.html",
       "published_at": null,
       "first_seen_at": "2026-08-01T16:56:22.276406Z",
-      "last_seen_at": "2026-08-01T18:00:02.067332Z",
+      "last_seen_at": "2026-08-01T19:21:45.981357Z",
       "title_original": "探店实测iCAR V27 家用越野一车兼顾",
       "title_en": null,
       "title_zh": "探店实测iCAR V27 家用越野一车兼顾",
@@ -91,7 +229,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/44506375f0979b24/115663828-1.html",
       "published_at": null,
       "first_seen_at": "2026-08-01T16:56:22.276406Z",
-      "last_seen_at": "2026-08-01T18:00:02.067332Z",
+      "last_seen_at": "2026-08-01T19:21:45.981357Z",
       "title_original": "符合用车需求 蔚来ES6提车作业分享",
       "title_en": null,
       "title_zh": "符合用车需求 蔚来ES6提车作业分享",
@@ -110,7 +248,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/8cee0479b21b871f/115716987-1.html",
       "published_at": null,
       "first_seen_at": "2026-08-01T16:56:22.276406Z",
-      "last_seen_at": "2026-08-01T18:00:02.067332Z",
+      "last_seen_at": "2026-08-01T19:21:45.981357Z",
       "title_original": "越野试驾体验哈弗H5黑武士柴油版",
       "title_en": null,
       "title_zh": "越野试驾体验哈弗H5黑武士柴油版",
@@ -128,7 +266,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/29e8975611dd4674/115662181-1.html",
       "published_at": null,
       "first_seen_at": "2026-08-01T16:56:22.276406Z",
-      "last_seen_at": "2026-08-01T18:00:02.067332Z",
+      "last_seen_at": "2026-08-01T19:21:45.981357Z",
       "title_original": "标配激光雷达 风云A9试驾体验分享",
       "title_en": null,
       "title_zh": "标配激光雷达 风云A9试驾体验分享",
@@ -147,7 +285,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/25ebba2c3424c50a/115679142-1.html",
       "published_at": null,
       "first_seen_at": "2026-08-01T16:56:22.276406Z",
-      "last_seen_at": "2026-08-01T18:00:02.067332Z",
+      "last_seen_at": "2026-08-01T19:21:45.981357Z",
       "title_original": "满足我的需求 零跑B01提车作业分享",
       "title_en": null,
       "title_zh": "满足我的需求 零跑B01提车作业分享",
@@ -166,7 +304,7 @@
       "url": "https://carnewschina.com/2026/08/01/mg-07-targets-chinas-no-1-sedan-sales-position-as-production-capacity-becomes-priority",
       "published_at": "2026-08-01T10:16:21Z",
       "first_seen_at": "2026-08-01T10:56:42.156305Z",
-      "last_seen_at": "2026-08-01T18:00:02.067332Z",
+      "last_seen_at": "2026-08-01T19:21:45.981357Z",
       "title_original": "MG 07 targets China’s No. 1 sedan sales position as production capacity becomes priority",
       "title_en": "MG 07 targets China’s No. 1 sedan sales position as production capacity becomes priority",
       "title_zh": "名爵07瞄准中国轿车销量第一 产能优先",
@@ -187,7 +325,7 @@
       "url": "https://cnevpost.com/2026/08/01/byd-jul-2026-sales",
       "published_at": "2026-08-01T10:11:05Z",
       "first_seen_at": "2026-08-01T10:56:42.156305Z",
-      "last_seen_at": "2026-08-01T18:00:02.067332Z",
+      "last_seen_at": "2026-08-01T19:21:45.981357Z",
       "title_original": "BYD July sales jump 21.8% as overseas deliveries hit fresh record",
       "title_en": "BYD July sales jump 21.8% as overseas deliveries hit fresh record",
       "title_zh": "比亚迪7月销量大增21.8% 海外交付量再创新高",
@@ -207,7 +345,7 @@
       "url": "https://cnevpost.com/2026/08/01/geely-jul-2026-sales",
       "published_at": "2026-08-01T09:33:20Z",
       "first_seen_at": "2026-08-01T10:56:42.156305Z",
-      "last_seen_at": "2026-08-01T18:00:02.067332Z",
+      "last_seen_at": "2026-08-01T19:21:45.981357Z",
       "title_original": "Geely July sales rise 5% as exports set new record",
       "title_en": "Geely July sales rise 5% as exports set new record",
       "title_zh": "吉利7月销量增长5% 出口创历史新高",
@@ -227,7 +365,7 @@
       "url": "https://www.dongchedi.com/article/7668691906825814590",
       "published_at": null,
       "first_seen_at": "2026-08-01T09:03:42.688397Z",
-      "last_seen_at": "2026-08-01T18:00:02.067332Z",
+      "last_seen_at": "2026-08-01T19:21:45.981357Z",
       "title_original": "很难想象，12万级的中国SUV卷成啥样了！",
       "title_en": null,
       "title_zh": "很难想象，12万级的中国SUV卷成啥样了！",
@@ -245,7 +383,7 @@
       "url": "https://cnevpost.com/2026/08/01/chery-first-chinese-automaker-export-200000-cars-a-month",
       "published_at": "2026-08-01T08:44:33Z",
       "first_seen_at": "2026-08-01T09:03:42.688397Z",
-      "last_seen_at": "2026-08-01T18:00:02.067332Z",
+      "last_seen_at": "2026-08-01T19:21:45.981357Z",
       "title_original": "Chery becomes first Chinese automaker to export over 200,000 cars in a month",
       "title_en": "Chery becomes first Chinese automaker to export over 200,000 cars in a month",
       "title_zh": "奇瑞成为首家单月出口突破20万辆的中国汽车制造商",
@@ -266,7 +404,7 @@
       "url": "https://cnevpost.com/2026/08/01/nio-open-first-fifth-gen-swap-station-early-aug",
       "published_at": "2026-08-01T08:14:40Z",
       "first_seen_at": "2026-08-01T09:03:42.688397Z",
-      "last_seen_at": "2026-08-01T18:00:02.067332Z",
+      "last_seen_at": "2026-08-01T19:21:45.981357Z",
       "title_original": "Nio to open first fifth-gen swap station in early August, also its 4,000th in China",
       "title_en": "Nio to open first fifth-gen swap station in early August, also its 4,000th in China",
       "title_zh": "蔚来汽车将于8月初开设首个第五代换电站，这也是其在中国的第4000个换电站",
@@ -286,7 +424,7 @@
       "url": "https://cnevpost.com/2026/08/01/jul-2026-deliveries-automakers-china",
       "published_at": "2026-08-01T06:46:09Z",
       "first_seen_at": "2026-08-01T09:03:42.688397Z",
-      "last_seen_at": "2026-08-01T18:00:02.067332Z",
+      "last_seen_at": "2026-08-01T19:21:45.981357Z",
       "title_original": "Roundup: July 2026 deliveries by major automakers in China",
       "title_en": "Roundup: July 2026 deliveries by major automakers in China",
       "title_zh": "综述：2026 年 7 月中国主要汽车制造商的交付量",
@@ -306,7 +444,7 @@
       "url": "https://cnevpost.com/2026/08/01/huawei-hima-delivers-45046-vehicles-jul-2026",
       "published_at": "2026-08-01T06:11:00Z",
       "first_seen_at": "2026-08-01T06:36:57.083610Z",
-      "last_seen_at": "2026-08-01T18:00:02.067332Z",
+      "last_seen_at": "2026-08-01T19:21:45.981357Z",
       "title_original": "Huawei HIMA delivers 45,046 vehicles in July, down for second straight month",
       "title_en": "Huawei HIMA delivers 45,046 vehicles in July, down for second straight month",
       "title_zh": "华为HIMA 7月交付量45,046辆，连续第二个月下降",
@@ -325,7 +463,7 @@
       "url": "https://cnevpost.com/2026/08/01/nio-es8-tops-10000-deliveries-jul-2026",
       "published_at": "2026-08-01T05:04:40Z",
       "first_seen_at": "2026-08-01T06:36:57.083610Z",
-      "last_seen_at": "2026-08-01T18:00:02.067332Z",
+      "last_seen_at": "2026-08-01T19:21:45.981357Z",
       "title_original": "Nio ES8 tops 10,000 deliveries again in July after 5-seat launch",
       "title_en": "Nio ES8 tops 10,000 deliveries again in July after 5-seat launch",
       "title_zh": "蔚来ES8五座上市后7月交付量再次突破万辆",
@@ -346,7 +484,7 @@
       "url": "https://cnevpost.com/2026/08/01/nio-deliveries-jul-2026",
       "published_at": "2026-08-01T04:26:27Z",
       "first_seen_at": "2026-08-01T06:36:57.083610Z",
-      "last_seen_at": "2026-08-01T18:00:02.067332Z",
+      "last_seen_at": "2026-08-01T19:21:45.981357Z",
       "title_original": "Nio delivers 35,934 vehicles in July, up 71% year-on-year but down from June",
       "title_en": "Nio delivers 35,934 vehicles in July, up 71% year-on-year but down from June",
       "title_zh": "蔚来7月交付汽车35,934辆，同比增长71%，但环比下降",
@@ -366,7 +504,7 @@
       "url": "https://cnevpost.com/2026/08/01/xpeng-deliveries-jul-2026",
       "published_at": "2026-08-01T04:11:36Z",
       "first_seen_at": "2026-08-01T06:36:57.083610Z",
-      "last_seen_at": "2026-08-01T18:00:02.067332Z",
+      "last_seen_at": "2026-08-01T19:21:45.981357Z",
       "title_original": "Xpeng July deliveries rise 3.6% but slip from June as new SUV supply lags",
       "title_en": "Xpeng July deliveries rise 3.6% but slip from June as new SUV supply lags",
       "title_zh": "小鹏汽车 7 月交付量增长 3.6%，但由于新款 SUV 供应滞后，较 6 月有所下滑",
@@ -387,7 +525,7 @@
       "url": "https://cnevpost.com/2026/08/01/zeekr-deliveries-jul-2026",
       "published_at": "2026-08-01T03:50:55Z",
       "first_seen_at": "2026-08-01T03:59:30.570842Z",
-      "last_seen_at": "2026-08-01T18:00:02.067332Z",
+      "last_seen_at": "2026-08-01T19:21:45.981357Z",
       "title_original": "Zeekr delivers 35,837 vehicles in July, setting record for 4th straight month",
       "title_en": "Zeekr delivers 35,837 vehicles in July, setting record for 4th straight month",
       "title_zh": "Zeekr 7 月交付量达 35,837 辆，连续第四个月创下纪录",
@@ -407,7 +545,7 @@
       "url": "https://cnevpost.com/2026/08/01/leapmotor-tops-100000-monthly-deliveries",
       "published_at": "2026-08-01T03:17:51Z",
       "first_seen_at": "2026-08-01T03:59:30.570842Z",
-      "last_seen_at": "2026-08-01T18:00:02.067332Z",
+      "last_seen_at": "2026-08-01T19:21:45.981357Z",
       "title_original": "Leapmotor tops 100,000 monthly deliveries for first time",
       "title_en": "Leapmotor tops 100,000 monthly deliveries for first time",
       "title_zh": "零跑汽车月交付量首次突破10万辆",
@@ -427,7 +565,7 @@
       "url": "https://cnevpost.com/2026/08/01/li-auto-deliveries-jul-2026",
       "published_at": "2026-08-01T02:13:20Z",
       "first_seen_at": "2026-08-01T03:59:30.570842Z",
-      "last_seen_at": "2026-08-01T18:00:02.067332Z",
+      "last_seen_at": "2026-08-01T19:21:45.981357Z",
       "title_original": "Li Auto's delivery slide eases in July despite headlight supply hiccup",
       "title_en": "Li Auto's delivery slide eases in July despite headlight supply hiccup",
       "title_zh": "尽管车头灯供应出现问题，理想汽车 7 月交付量下滑放缓",
@@ -447,7 +585,7 @@
       "url": "https://cnevpost.com/2026/08/01/xiaomi-ev-tops-30000-deliveries-jul-2026",
       "published_at": "2026-08-01T01:15:12Z",
       "first_seen_at": "2026-08-01T03:59:30.570842Z",
-      "last_seen_at": "2026-08-01T18:00:02.067332Z",
+      "last_seen_at": "2026-08-01T19:21:45.981357Z",
       "title_original": "Xiaomi EV tops 30,000 deliveries for fourth straight month",
       "title_en": "Xiaomi EV tops 30,000 deliveries for fourth straight month",
       "title_zh": "小米电动车交付量连续第四个月突破3万辆",
@@ -467,7 +605,7 @@
       "url": "https://auto.gasgoo.com/news/202607/31I70468183C108.shtml",
       "published_at": "2026-07-31T22:05:16Z",
       "first_seen_at": "2026-08-01T14:05:28.328492Z",
-      "last_seen_at": "2026-08-01T18:00:02.067332Z",
+      "last_seen_at": "2026-08-01T19:21:45.981357Z",
       "title_original": "工信部监督检查奇瑞、蔚来、江汽",
       "title_en": null,
       "title_zh": "工信部监督检查奇瑞、蔚来、江汽",
@@ -530,87 +668,145 @@
       "topic_tags": [
         "车企竞争",
         "新车上市"
-      ]
-    },
-    {
-      "id": "85df980ee6ae069a6a8538135088031c8363e3fb",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "零跑正式登陆印尼市场，东盟双生产基地格局成型",
-      "url": "https://auto.gasgoo.com/news/202607/31I70468168C109.shtml",
-      "published_at": "2026-07-31T18:48:35Z",
-      "first_seen_at": "2026-08-01T10:56:42.156305Z",
-      "last_seen_at": "2026-08-01T18:00:02.067332Z",
-      "title_original": "零跑正式登陆印尼市场，东盟双生产基地格局成型",
-      "title_en": null,
-      "title_zh": "零跑正式登陆印尼市场，东盟双生产基地格局成型",
-      "title_bilingual": "零跑正式登陆印尼市场，东盟双生产基地格局成型",
-      "topic_tags": [
-        "销量市场",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "c63fb5b2e28e45cf20d93bf5669a08f91d531faf",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "科技感拉满 比亚迪汉提车作业分享",
-      "url": "https://club.autohome.com.cn/bbs/thread/ff220877fedc5b38/115681603-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-07-31T18:02:32.510818Z",
-      "last_seen_at": "2026-08-01T18:00:02.067332Z",
-      "title_original": "科技感拉满 比亚迪汉提车作业分享",
-      "title_en": null,
-      "title_zh": "科技感拉满 比亚迪汉提车作业分享",
-      "title_bilingual": "科技感拉满 比亚迪汉提车作业分享",
-      "topic_tags": [
-        "车企竞争",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "9d621fa6da45bbc19e281ef9c30681986db6e9d7",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "满足我的需求 零跑B01提车作业分享",
-      "url": "https://i.autohome.com.cn/307384855",
-      "published_at": null,
-      "first_seen_at": "2026-07-31T18:02:32.510818Z",
-      "last_seen_at": "2026-08-01T15:35:46.340288Z",
-      "title_original": "满足我的需求 零跑B01提车作业分享",
-      "title_en": null,
-      "title_zh": "满足我的需求 零跑B01提车作业分享",
-      "title_bilingual": "满足我的需求 零跑B01提车作业分享",
-      "topic_tags": [
-        "车企竞争",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "2eb630e866b46b56f0141ca2aac71615a7d6ed97",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "各方面都合适 比亚迪夏提车作业分享",
-      "url": "https://club.autohome.com.cn/bbs/thread/b22f58962971d761/115657539-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-07-31T18:02:32.510818Z",
-      "last_seen_at": "2026-08-01T15:35:46.340288Z",
-      "title_original": "各方面都合适 比亚迪夏提车作业分享",
-      "title_en": null,
-      "title_zh": "各方面都合适 比亚迪夏提车作业分享",
-      "title_bilingual": "各方面都合适 比亚迪夏提车作业分享",
-      "topic_tags": [
-        "车企竞争",
-        "购车决策"
       ]
     }
   ],
   "items_ai": [
     {
+      "id": "c60e51548a8b8f3c94e030f578d29d4d1c8dc789",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "初晓敏：小米干增程SUV行吗？全网首验小米澎程N90和N70",
+      "url": "http://vc.yiche.com/vplay/12364312.html",
+      "published_at": null,
+      "first_seen_at": "2026-08-01T19:21:45.981357Z",
+      "last_seen_at": "2026-08-01T19:21:45.981357Z",
+      "title_original": "初晓敏：小米干增程SUV行吗？全网首验小米澎程N90和N70",
+      "title_en": null,
+      "title_zh": "初晓敏：小米干增程SUV行吗？全网首验小米澎程N90和N70",
+      "title_bilingual": "初晓敏：小米干增程SUV行吗？全网首验小米澎程N90和N70",
+      "topic_tags": [
+        "新能源",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "caf47d7dbdacae98243cd3b619d1a3a5fe8e6904",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "逸动HEV底盘鉴赏：落地9万，这用料做工不含糊！",
+      "url": "http://vc.yiche.com/vplay/12345818.html",
+      "published_at": null,
+      "first_seen_at": "2026-08-01T19:21:45.981357Z",
+      "last_seen_at": "2026-08-01T19:21:45.981357Z",
+      "title_original": "逸动HEV底盘鉴赏：落地9万，这用料做工不含糊！",
+      "title_en": null,
+      "title_zh": "逸动HEV底盘鉴赏：落地9万，这用料做工不含糊！",
+      "title_bilingual": "逸动HEV底盘鉴赏：落地9万，这用料做工不含糊！",
+      "topic_tags": [
+        "供应链"
+      ]
+    },
+    {
+      "id": "4a06de11af1574e9d40f11c9a5632802fb1863ac",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "家用SUV市场要变天？小米澎程N90有什么杀手锏丨野生11",
+      "url": "http://vc.yiche.com/vplay/12371249.html",
+      "published_at": null,
+      "first_seen_at": "2026-08-01T19:21:45.981357Z",
+      "last_seen_at": "2026-08-01T19:21:45.981357Z",
+      "title_original": "家用SUV市场要变天？小米澎程N90有什么杀手锏丨野生11",
+      "title_en": null,
+      "title_zh": "家用SUV市场要变天？小米澎程N90有什么杀手锏丨野生11",
+      "title_bilingual": "家用SUV市场要变天？小米澎程N90有什么杀手锏丨野生11",
+      "topic_tags": [
+        "销量市场",
+        "购车决策",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "e96c56285a20cbaf0f8fc583a91e884497e2850e",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "车长超奔驰S级！比亚迪大汉发布，纯电续航1008km，8月首发",
+      "url": "http://vc.yiche.com/vplay/12334422.html",
+      "published_at": null,
+      "first_seen_at": "2026-08-01T19:21:45.981357Z",
+      "last_seen_at": "2026-08-01T19:21:45.981357Z",
+      "title_original": "车长超奔驰S级！比亚迪大汉发布，纯电续航1008km，8月首发",
+      "title_en": null,
+      "title_zh": "车长超奔驰S级！比亚迪大汉发布，纯电续航1008km，8月首发",
+      "title_bilingual": "车长超奔驰S级！比亚迪大汉发布，纯电续航1008km，8月首发",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "d32e302fb2f89c65721ea54b69fbba7c2080f0d3",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "抢先体验地平线HSD 2.0辅助驾驶！前车意图理解、通行效率满分！",
+      "url": "http://vc.yiche.com/vplay/12392221.html",
+      "published_at": null,
+      "first_seen_at": "2026-08-01T19:21:45.981357Z",
+      "last_seen_at": "2026-08-01T19:21:45.981357Z",
+      "title_original": "抢先体验地平线HSD 2.0辅助驾驶！前车意图理解、通行效率满分！",
+      "title_en": null,
+      "title_zh": "抢先体验地平线HSD 2.0辅助驾驶！前车意图理解、通行效率满分！",
+      "title_bilingual": "抢先体验地平线HSD 2.0辅助驾驶！前车意图理解、通行效率满分！",
+      "topic_tags": [
+        "智能驾驶",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "18dbc2d130fc694228861370b8ab07a60125b70d",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "快评风云T7：设计、续航能打，定价成唯一悬念？",
+      "url": "http://vc.yiche.com/vplay/12334387.html",
+      "published_at": null,
+      "first_seen_at": "2026-08-01T19:21:45.981357Z",
+      "last_seen_at": "2026-08-01T19:21:45.981357Z",
+      "title_original": "快评风云T7：设计、续航能打，定价成唯一悬念？",
+      "title_en": null,
+      "title_zh": "快评风云T7：设计、续航能打，定价成唯一悬念？",
+      "title_bilingual": "快评风云T7：设计、续航能打，定价成唯一悬念？",
+      "topic_tags": [
+        "补能电池",
+        "价格战"
+      ]
+    },
+    {
+      "id": "45a449c6623f38db851ba1306ba5defc81276796",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "破纪录！星越L销量破100万 网友:除了油耗没任何缺点",
+      "url": "http://vc.yiche.com/vplay/12344355.html",
+      "published_at": null,
+      "first_seen_at": "2026-08-01T19:21:45.981357Z",
+      "last_seen_at": "2026-08-01T19:21:45.981357Z",
+      "title_original": "破纪录！星越L销量破100万 网友:除了油耗没任何缺点",
+      "title_en": null,
+      "title_zh": "破纪录！星越L销量破100万 网友:除了油耗没任何缺点",
+      "title_bilingual": "破纪录！星越L销量破100万 网友:除了油耗没任何缺点",
+      "topic_tags": [
+        "销量市场"
+      ]
+    },
+    {
       "id": "2989243a96105fa1e55d165f6e1837daf02df4e3",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -619,7 +815,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/2d61b12d9a7bc6d6/115644787-1.html",
       "published_at": null,
       "first_seen_at": "2026-08-01T16:56:22.276406Z",
-      "last_seen_at": "2026-08-01T18:00:02.067332Z",
+      "last_seen_at": "2026-08-01T19:21:45.981357Z",
       "title_original": "探店实测iCAR V27 家用越野一车兼顾",
       "title_en": null,
       "title_zh": "探店实测iCAR V27 家用越野一车兼顾",
@@ -637,7 +833,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/44506375f0979b24/115663828-1.html",
       "published_at": null,
       "first_seen_at": "2026-08-01T16:56:22.276406Z",
-      "last_seen_at": "2026-08-01T18:00:02.067332Z",
+      "last_seen_at": "2026-08-01T19:21:45.981357Z",
       "title_original": "符合用车需求 蔚来ES6提车作业分享",
       "title_en": null,
       "title_zh": "符合用车需求 蔚来ES6提车作业分享",
@@ -656,7 +852,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/8cee0479b21b871f/115716987-1.html",
       "published_at": null,
       "first_seen_at": "2026-08-01T16:56:22.276406Z",
-      "last_seen_at": "2026-08-01T18:00:02.067332Z",
+      "last_seen_at": "2026-08-01T19:21:45.981357Z",
       "title_original": "越野试驾体验哈弗H5黑武士柴油版",
       "title_en": null,
       "title_zh": "越野试驾体验哈弗H5黑武士柴油版",
@@ -674,7 +870,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/29e8975611dd4674/115662181-1.html",
       "published_at": null,
       "first_seen_at": "2026-08-01T16:56:22.276406Z",
-      "last_seen_at": "2026-08-01T18:00:02.067332Z",
+      "last_seen_at": "2026-08-01T19:21:45.981357Z",
       "title_original": "标配激光雷达 风云A9试驾体验分享",
       "title_en": null,
       "title_zh": "标配激光雷达 风云A9试驾体验分享",
@@ -693,7 +889,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/25ebba2c3424c50a/115679142-1.html",
       "published_at": null,
       "first_seen_at": "2026-08-01T16:56:22.276406Z",
-      "last_seen_at": "2026-08-01T18:00:02.067332Z",
+      "last_seen_at": "2026-08-01T19:21:45.981357Z",
       "title_original": "满足我的需求 零跑B01提车作业分享",
       "title_en": null,
       "title_zh": "满足我的需求 零跑B01提车作业分享",
@@ -712,7 +908,7 @@
       "url": "https://carnewschina.com/2026/08/01/mg-07-targets-chinas-no-1-sedan-sales-position-as-production-capacity-becomes-priority",
       "published_at": "2026-08-01T10:16:21Z",
       "first_seen_at": "2026-08-01T10:56:42.156305Z",
-      "last_seen_at": "2026-08-01T18:00:02.067332Z",
+      "last_seen_at": "2026-08-01T19:21:45.981357Z",
       "title_original": "MG 07 targets China’s No. 1 sedan sales position as production capacity becomes priority",
       "title_en": "MG 07 targets China’s No. 1 sedan sales position as production capacity becomes priority",
       "title_zh": "名爵07瞄准中国轿车销量第一 产能优先",
@@ -733,7 +929,7 @@
       "url": "https://cnevpost.com/2026/08/01/byd-jul-2026-sales",
       "published_at": "2026-08-01T10:11:05Z",
       "first_seen_at": "2026-08-01T10:56:42.156305Z",
-      "last_seen_at": "2026-08-01T18:00:02.067332Z",
+      "last_seen_at": "2026-08-01T19:21:45.981357Z",
       "title_original": "BYD July sales jump 21.8% as overseas deliveries hit fresh record",
       "title_en": "BYD July sales jump 21.8% as overseas deliveries hit fresh record",
       "title_zh": "比亚迪7月销量大增21.8% 海外交付量再创新高",
@@ -753,7 +949,7 @@
       "url": "https://cnevpost.com/2026/08/01/geely-jul-2026-sales",
       "published_at": "2026-08-01T09:33:20Z",
       "first_seen_at": "2026-08-01T10:56:42.156305Z",
-      "last_seen_at": "2026-08-01T18:00:02.067332Z",
+      "last_seen_at": "2026-08-01T19:21:45.981357Z",
       "title_original": "Geely July sales rise 5% as exports set new record",
       "title_en": "Geely July sales rise 5% as exports set new record",
       "title_zh": "吉利7月销量增长5% 出口创历史新高",
@@ -773,7 +969,7 @@
       "url": "https://www.dongchedi.com/article/7668691906825814590",
       "published_at": null,
       "first_seen_at": "2026-08-01T09:03:42.688397Z",
-      "last_seen_at": "2026-08-01T18:00:02.067332Z",
+      "last_seen_at": "2026-08-01T19:21:45.981357Z",
       "title_original": "很难想象，12万级的中国SUV卷成啥样了！",
       "title_en": null,
       "title_zh": "很难想象，12万级的中国SUV卷成啥样了！",
@@ -791,7 +987,7 @@
       "url": "https://cnevpost.com/2026/08/01/chery-first-chinese-automaker-export-200000-cars-a-month",
       "published_at": "2026-08-01T08:44:33Z",
       "first_seen_at": "2026-08-01T09:03:42.688397Z",
-      "last_seen_at": "2026-08-01T18:00:02.067332Z",
+      "last_seen_at": "2026-08-01T19:21:45.981357Z",
       "title_original": "Chery becomes first Chinese automaker to export over 200,000 cars in a month",
       "title_en": "Chery becomes first Chinese automaker to export over 200,000 cars in a month",
       "title_zh": "奇瑞成为首家单月出口突破20万辆的中国汽车制造商",
@@ -812,7 +1008,7 @@
       "url": "https://cnevpost.com/2026/08/01/nio-open-first-fifth-gen-swap-station-early-aug",
       "published_at": "2026-08-01T08:14:40Z",
       "first_seen_at": "2026-08-01T09:03:42.688397Z",
-      "last_seen_at": "2026-08-01T18:00:02.067332Z",
+      "last_seen_at": "2026-08-01T19:21:45.981357Z",
       "title_original": "Nio to open first fifth-gen swap station in early August, also its 4,000th in China",
       "title_en": "Nio to open first fifth-gen swap station in early August, also its 4,000th in China",
       "title_zh": "蔚来汽车将于8月初开设首个第五代换电站，这也是其在中国的第4000个换电站",
@@ -832,7 +1028,7 @@
       "url": "https://cnevpost.com/2026/08/01/jul-2026-deliveries-automakers-china",
       "published_at": "2026-08-01T06:46:09Z",
       "first_seen_at": "2026-08-01T09:03:42.688397Z",
-      "last_seen_at": "2026-08-01T18:00:02.067332Z",
+      "last_seen_at": "2026-08-01T19:21:45.981357Z",
       "title_original": "Roundup: July 2026 deliveries by major automakers in China",
       "title_en": "Roundup: July 2026 deliveries by major automakers in China",
       "title_zh": "综述：2026 年 7 月中国主要汽车制造商的交付量",
@@ -852,7 +1048,7 @@
       "url": "https://cnevpost.com/2026/08/01/huawei-hima-delivers-45046-vehicles-jul-2026",
       "published_at": "2026-08-01T06:11:00Z",
       "first_seen_at": "2026-08-01T06:36:57.083610Z",
-      "last_seen_at": "2026-08-01T18:00:02.067332Z",
+      "last_seen_at": "2026-08-01T19:21:45.981357Z",
       "title_original": "Huawei HIMA delivers 45,046 vehicles in July, down for second straight month",
       "title_en": "Huawei HIMA delivers 45,046 vehicles in July, down for second straight month",
       "title_zh": "华为HIMA 7月交付量45,046辆，连续第二个月下降",
@@ -871,7 +1067,7 @@
       "url": "https://cnevpost.com/2026/08/01/nio-es8-tops-10000-deliveries-jul-2026",
       "published_at": "2026-08-01T05:04:40Z",
       "first_seen_at": "2026-08-01T06:36:57.083610Z",
-      "last_seen_at": "2026-08-01T18:00:02.067332Z",
+      "last_seen_at": "2026-08-01T19:21:45.981357Z",
       "title_original": "Nio ES8 tops 10,000 deliveries again in July after 5-seat launch",
       "title_en": "Nio ES8 tops 10,000 deliveries again in July after 5-seat launch",
       "title_zh": "蔚来ES8五座上市后7月交付量再次突破万辆",
@@ -892,7 +1088,7 @@
       "url": "https://cnevpost.com/2026/08/01/nio-deliveries-jul-2026",
       "published_at": "2026-08-01T04:26:27Z",
       "first_seen_at": "2026-08-01T06:36:57.083610Z",
-      "last_seen_at": "2026-08-01T18:00:02.067332Z",
+      "last_seen_at": "2026-08-01T19:21:45.981357Z",
       "title_original": "Nio delivers 35,934 vehicles in July, up 71% year-on-year but down from June",
       "title_en": "Nio delivers 35,934 vehicles in July, up 71% year-on-year but down from June",
       "title_zh": "蔚来7月交付汽车35,934辆，同比增长71%，但环比下降",
@@ -912,7 +1108,7 @@
       "url": "https://cnevpost.com/2026/08/01/xpeng-deliveries-jul-2026",
       "published_at": "2026-08-01T04:11:36Z",
       "first_seen_at": "2026-08-01T06:36:57.083610Z",
-      "last_seen_at": "2026-08-01T18:00:02.067332Z",
+      "last_seen_at": "2026-08-01T19:21:45.981357Z",
       "title_original": "Xpeng July deliveries rise 3.6% but slip from June as new SUV supply lags",
       "title_en": "Xpeng July deliveries rise 3.6% but slip from June as new SUV supply lags",
       "title_zh": "小鹏汽车 7 月交付量增长 3.6%，但由于新款 SUV 供应滞后，较 6 月有所下滑",
@@ -933,7 +1129,7 @@
       "url": "https://cnevpost.com/2026/08/01/zeekr-deliveries-jul-2026",
       "published_at": "2026-08-01T03:50:55Z",
       "first_seen_at": "2026-08-01T03:59:30.570842Z",
-      "last_seen_at": "2026-08-01T18:00:02.067332Z",
+      "last_seen_at": "2026-08-01T19:21:45.981357Z",
       "title_original": "Zeekr delivers 35,837 vehicles in July, setting record for 4th straight month",
       "title_en": "Zeekr delivers 35,837 vehicles in July, setting record for 4th straight month",
       "title_zh": "Zeekr 7 月交付量达 35,837 辆，连续第四个月创下纪录",
@@ -953,7 +1149,7 @@
       "url": "https://cnevpost.com/2026/08/01/leapmotor-tops-100000-monthly-deliveries",
       "published_at": "2026-08-01T03:17:51Z",
       "first_seen_at": "2026-08-01T03:59:30.570842Z",
-      "last_seen_at": "2026-08-01T18:00:02.067332Z",
+      "last_seen_at": "2026-08-01T19:21:45.981357Z",
       "title_original": "Leapmotor tops 100,000 monthly deliveries for first time",
       "title_en": "Leapmotor tops 100,000 monthly deliveries for first time",
       "title_zh": "零跑汽车月交付量首次突破10万辆",
@@ -973,7 +1169,7 @@
       "url": "https://cnevpost.com/2026/08/01/li-auto-deliveries-jul-2026",
       "published_at": "2026-08-01T02:13:20Z",
       "first_seen_at": "2026-08-01T03:59:30.570842Z",
-      "last_seen_at": "2026-08-01T18:00:02.067332Z",
+      "last_seen_at": "2026-08-01T19:21:45.981357Z",
       "title_original": "Li Auto's delivery slide eases in July despite headlight supply hiccup",
       "title_en": "Li Auto's delivery slide eases in July despite headlight supply hiccup",
       "title_zh": "尽管车头灯供应出现问题，理想汽车 7 月交付量下滑放缓",
@@ -993,7 +1189,7 @@
       "url": "https://cnevpost.com/2026/08/01/xiaomi-ev-tops-30000-deliveries-jul-2026",
       "published_at": "2026-08-01T01:15:12Z",
       "first_seen_at": "2026-08-01T03:59:30.570842Z",
-      "last_seen_at": "2026-08-01T18:00:02.067332Z",
+      "last_seen_at": "2026-08-01T19:21:45.981357Z",
       "title_original": "Xiaomi EV tops 30,000 deliveries for fourth straight month",
       "title_en": "Xiaomi EV tops 30,000 deliveries for fourth straight month",
       "title_zh": "小米电动车交付量连续第四个月突破3万辆",
@@ -1013,7 +1209,7 @@
       "url": "https://auto.gasgoo.com/news/202607/31I70468183C108.shtml",
       "published_at": "2026-07-31T22:05:16Z",
       "first_seen_at": "2026-08-01T14:05:28.328492Z",
-      "last_seen_at": "2026-08-01T18:00:02.067332Z",
+      "last_seen_at": "2026-08-01T19:21:45.981357Z",
       "title_original": "工信部监督检查奇瑞、蔚来、江汽",
       "title_en": null,
       "title_zh": "工信部监督检查奇瑞、蔚来、江汽",
@@ -1076,82 +1272,6 @@
       "topic_tags": [
         "车企竞争",
         "新车上市"
-      ]
-    },
-    {
-      "id": "85df980ee6ae069a6a8538135088031c8363e3fb",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "零跑正式登陆印尼市场，东盟双生产基地格局成型",
-      "url": "https://auto.gasgoo.com/news/202607/31I70468168C109.shtml",
-      "published_at": "2026-07-31T18:48:35Z",
-      "first_seen_at": "2026-08-01T10:56:42.156305Z",
-      "last_seen_at": "2026-08-01T18:00:02.067332Z",
-      "title_original": "零跑正式登陆印尼市场，东盟双生产基地格局成型",
-      "title_en": null,
-      "title_zh": "零跑正式登陆印尼市场，东盟双生产基地格局成型",
-      "title_bilingual": "零跑正式登陆印尼市场，东盟双生产基地格局成型",
-      "topic_tags": [
-        "销量市场",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "c63fb5b2e28e45cf20d93bf5669a08f91d531faf",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "科技感拉满 比亚迪汉提车作业分享",
-      "url": "https://club.autohome.com.cn/bbs/thread/ff220877fedc5b38/115681603-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-07-31T18:02:32.510818Z",
-      "last_seen_at": "2026-08-01T18:00:02.067332Z",
-      "title_original": "科技感拉满 比亚迪汉提车作业分享",
-      "title_en": null,
-      "title_zh": "科技感拉满 比亚迪汉提车作业分享",
-      "title_bilingual": "科技感拉满 比亚迪汉提车作业分享",
-      "topic_tags": [
-        "车企竞争",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "9d621fa6da45bbc19e281ef9c30681986db6e9d7",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "满足我的需求 零跑B01提车作业分享",
-      "url": "https://i.autohome.com.cn/307384855",
-      "published_at": null,
-      "first_seen_at": "2026-07-31T18:02:32.510818Z",
-      "last_seen_at": "2026-08-01T15:35:46.340288Z",
-      "title_original": "满足我的需求 零跑B01提车作业分享",
-      "title_en": null,
-      "title_zh": "满足我的需求 零跑B01提车作业分享",
-      "title_bilingual": "满足我的需求 零跑B01提车作业分享",
-      "topic_tags": [
-        "车企竞争",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "2eb630e866b46b56f0141ca2aac71615a7d6ed97",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "各方面都合适 比亚迪夏提车作业分享",
-      "url": "https://club.autohome.com.cn/bbs/thread/b22f58962971d761/115657539-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-07-31T18:02:32.510818Z",
-      "last_seen_at": "2026-08-01T15:35:46.340288Z",
-      "title_original": "各方面都合适 比亚迪夏提车作业分享",
-      "title_en": null,
-      "title_zh": "各方面都合适 比亚迪夏提车作业分享",
-      "title_bilingual": "各方面都合适 比亚迪夏提车作业分享",
-      "topic_tags": [
-        "车企竞争",
-        "购车决策"
       ]
     }
   ],
