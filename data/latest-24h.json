@@ -1,54 +1,54 @@
 {
-  "generated_at": "2026-08-02T18:00:22.734156Z",
+  "generated_at": "2026-08-02T19:42:18.298979Z",
   "window_hours": 24,
-  "total_items": 20,
-  "total_items_ai_raw": 25,
-  "total_items_raw": 3085,
-  "total_items_all_mode": 2866,
+  "total_items": 21,
+  "total_items_ai_raw": 26,
+  "total_items_raw": 3142,
+  "total_items_all_mode": 2924,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 75478,
+  "archive_total": 75470,
   "site_count": 3,
-  "source_count": 5,
+  "source_count": 6,
   "site_stats": [
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "count": 13,
-      "raw_count": 2879
+      "raw_count": 2944
     },
     {
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "count": 7,
-      "raw_count": 12
+      "count": 8,
+      "raw_count": 13
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "count": 0,
-      "raw_count": 194
+      "raw_count": 185
     }
   ],
   "topic_tag_stats": [
     {
       "tag": "车企竞争",
-      "count": 12
+      "count": 16
     },
     {
       "tag": "销量市场",
-      "count": 9
-    },
-    {
-      "tag": "购车决策",
-      "count": 8
+      "count": 7
     },
     {
       "tag": "新能源",
-      "count": 5
+      "count": 6
+    },
+    {
+      "tag": "购车决策",
+      "count": 6
     },
     {
       "tag": "新车上市",
-      "count": 5
+      "count": 4
     },
     {
       "tag": "价格战",
@@ -56,19 +56,168 @@
     },
     {
       "tag": "供应链",
-      "count": 2
-    },
-    {
-      "tag": "补能电池",
-      "count": 2
+      "count": 1
     },
     {
       "tag": "智能驾驶",
+      "count": 1
+    },
+    {
+      "tag": "补能电池",
       "count": 1
     }
   ],
   "items": [
     {
+      "id": "a5004ebfddac2703d6510c52225bc9c26a952b7c",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "10%-70%五分钟充满，比亚迪秦MAX来了",
+      "url": "http://vc.yiche.com/vplay/12357501.html",
+      "published_at": null,
+      "first_seen_at": "2026-08-02T19:42:18.298979Z",
+      "last_seen_at": "2026-08-02T19:42:18.298979Z",
+      "title_original": "10%-70%五分钟充满，比亚迪秦MAX来了",
+      "title_en": null,
+      "title_zh": "10%-70%五分钟充满，比亚迪秦MAX来了",
+      "title_bilingual": "10%-70%五分钟充满，比亚迪秦MAX来了",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "cfe2ee2900f9fe2c74d317f216ba5a1736769573",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "电车能开十年吗？",
+      "url": "http://vc.yiche.com/vplay/12340939.html",
+      "published_at": null,
+      "first_seen_at": "2026-08-02T19:42:18.298979Z",
+      "last_seen_at": "2026-08-02T19:42:18.298979Z",
+      "title_original": "电车能开十年吗？",
+      "title_en": null,
+      "title_zh": "电车能开十年吗？",
+      "title_bilingual": "电车能开十年吗？",
+      "topic_tags": [
+        "新能源"
+      ]
+    },
+    {
+      "id": "84b962b671807853e4a88d69bfe33751b5806cd5",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "智驾“小蓝灯”将被禁用，你们怎么看有没有在智驾？",
+      "url": "http://vc.yiche.com/vplay/12349962.html",
+      "published_at": null,
+      "first_seen_at": "2026-08-02T19:42:18.298979Z",
+      "last_seen_at": "2026-08-02T19:42:18.298979Z",
+      "title_original": "智驾“小蓝灯”将被禁用，你们怎么看有没有在智驾？",
+      "title_en": null,
+      "title_zh": "智驾“小蓝灯”将被禁用，你们怎么看有没有在智驾？",
+      "title_bilingual": "智驾“小蓝灯”将被禁用，你们怎么看有没有在智驾？",
+      "topic_tags": [
+        "智能驾驶"
+      ]
+    },
+    {
+      "id": "abccf3d3d8feee232c779fccf3c8d36b339d4dcf",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "小米澎程预售价公布 N70顶配25.99万 N90顶配29.99万 理想全家慌了？",
+      "url": "http://vc.yiche.com/vplay/12375561.html",
+      "published_at": null,
+      "first_seen_at": "2026-08-02T19:42:18.298979Z",
+      "last_seen_at": "2026-08-02T19:42:18.298979Z",
+      "title_original": "小米澎程预售价公布 N70顶配25.99万 N90顶配29.99万 理想全家慌了？",
+      "title_en": null,
+      "title_zh": "小米澎程预售价公布 N70顶配25.99万 N90顶配29.99万 理想全家慌了？",
+      "title_bilingual": "小米澎程预售价公布 N70顶配25.99万 N90顶配29.99万 理想全家慌了？",
+      "topic_tags": [
+        "价格战",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "19773b956f97b4439510a2e5fdd6f3f16d8a2a1b",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "比亚迪大汉官图发布 5.2米车长 纯电最长跑1008公里",
+      "url": "http://vc.yiche.com/vplay/12342444.html",
+      "published_at": null,
+      "first_seen_at": "2026-08-02T19:42:18.298979Z",
+      "last_seen_at": "2026-08-02T19:42:18.298979Z",
+      "title_original": "比亚迪大汉官图发布 5.2米车长 纯电最长跑1008公里",
+      "title_en": null,
+      "title_zh": "比亚迪大汉官图发布 5.2米车长 纯电最长跑1008公里",
+      "title_bilingual": "比亚迪大汉官图发布 5.2米车长 纯电最长跑1008公里",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "7600a2558bbfa368ac484b4bd72240ec65a5b21c",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "座位少了，价格低了，但是真的更豪华了！探店蔚来ES8 五座版",
+      "url": "http://vc.yiche.com/vplay/12348170.html",
+      "published_at": null,
+      "first_seen_at": "2026-08-02T19:42:18.298979Z",
+      "last_seen_at": "2026-08-02T19:42:18.298979Z",
+      "title_original": "座位少了，价格低了，但是真的更豪华了！探店蔚来ES8 五座版",
+      "title_en": null,
+      "title_zh": "座位少了，价格低了，但是真的更豪华了！探店蔚来ES8 五座版",
+      "title_bilingual": "座位少了，价格低了，但是真的更豪华了！探店蔚来ES8 五座版",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "ffdecf6902a8a0e00e11d0d58a4577ba4ace9c87",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "Dream Car 福特烈马",
+      "url": "http://vc.yiche.com/vplay/12385634.html",
+      "published_at": null,
+      "first_seen_at": "2026-08-02T19:42:18.298979Z",
+      "last_seen_at": "2026-08-02T19:42:18.298979Z",
+      "title_original": "Dream Car 福特烈马",
+      "title_en": null,
+      "title_zh": "Dream Car 福特烈马",
+      "title_bilingual": "Dream Car 福特烈马",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "a05b92ce58093296591c9f3764e137412159f97b",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Can you trust your EV’s battery health reading? China sets new accuracy rules with 5% error limit",
+      "url": "https://carnewschina.com/2026/08/02/can-you-trust-your-evs-battery-health-reading-china-sets-new-accuracy-rules-with-5-error-limit",
+      "published_at": "2026-08-02T18:50:17Z",
+      "first_seen_at": "2026-08-02T19:42:18.298979Z",
+      "last_seen_at": "2026-08-02T19:42:18.298979Z",
+      "title_original": "Can you trust your EV’s battery health reading? China sets new accuracy rules with 5% error limit",
+      "title_en": "Can you trust your EV’s battery health reading? China sets new accuracy rules with 5% error limit",
+      "title_zh": "您能相信您的电动汽车的电池健康状况读数吗？中国制定新的精度规则，误差限制为5%",
+      "title_bilingual": "您能相信您的电动汽车的电池健康状况读数吗？中国制定新的精度规则，误差限制为5% / Can you trust your EV’s battery health reading? China sets new accuracy rules with 5% error limit",
+      "topic_tags": [
+        "新能源",
+        "补能电池"
+      ]
+    },
+    {
       "id": "adf9f922028cd5879219a419b58a4582e397f4ce",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -77,7 +226,7 @@
       "url": "https://i.autohome.com.cn/11253271",
       "published_at": null,
       "first_seen_at": "2026-08-02T16:55:30.992192Z",
-      "last_seen_at": "2026-08-02T18:00:22.734156Z",
+      "last_seen_at": "2026-08-02T19:42:18.298979Z",
       "title_original": "适合家用代步 QQ3 EV提车作业分享",
       "title_en": null,
       "title_zh": "适合家用代步 QQ3 EV提车作业分享",
@@ -96,7 +245,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/20de850d8793bbc3/115691954-1.html",
       "published_at": null,
       "first_seen_at": "2026-08-02T16:55:30.992192Z",
-      "last_seen_at": "2026-08-02T18:00:22.734156Z",
+      "last_seen_at": "2026-08-02T19:42:18.298979Z",
       "title_original": "新手司机第一台车 吉利星愿用车感受",
       "title_en": null,
       "title_zh": "新手司机第一台车 吉利星愿用车感受",
@@ -115,7 +264,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/c548c97dc8f58e82/115545021-1.html",
       "published_at": null,
       "first_seen_at": "2026-08-02T16:55:30.992192Z",
-      "last_seen_at": "2026-08-02T18:00:22.734156Z",
+      "last_seen_at": "2026-08-02T19:42:18.298979Z",
       "title_original": "性价比拉满 长安启源A06提车分享",
       "title_en": null,
       "title_zh": "性价比拉满 长安启源A06提车分享",
@@ -135,7 +284,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/3ed7a44080861e07/115526534-1.html",
       "published_at": null,
       "first_seen_at": "2026-08-02T16:55:30.992192Z",
-      "last_seen_at": "2026-08-02T18:00:22.734156Z",
+      "last_seen_at": "2026-08-02T19:42:18.298979Z",
       "title_original": "空间宽敞舒服 零跑D19提车作业分享",
       "title_en": null,
       "title_zh": "空间宽敞舒服 零跑D19提车作业分享",
@@ -154,7 +303,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/677c7c7c33924c49/115522842-1.html",
       "published_at": null,
       "first_seen_at": "2026-08-02T16:55:30.992192Z",
-      "last_seen_at": "2026-08-02T18:00:22.734156Z",
+      "last_seen_at": "2026-08-02T19:42:18.298979Z",
       "title_original": "底盘质感好 深蓝S07提车作业分享",
       "title_en": null,
       "title_zh": "底盘质感好 深蓝S07提车作业分享",
@@ -173,7 +322,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/8ebe26cb2e6e40ea/115522092-1.html",
       "published_at": null,
       "first_seen_at": "2026-08-02T16:55:30.992192Z",
-      "last_seen_at": "2026-08-02T18:00:22.734156Z",
+      "last_seen_at": "2026-08-02T19:42:18.298979Z",
       "title_original": "满足我的需求 极氪7X提车作业分享",
       "title_en": null,
       "title_zh": "满足我的需求 极氪7X提车作业分享",
@@ -192,7 +341,7 @@
       "url": "https://cnevpost.com/2026/08/02/gwm-sales-jul-2026",
       "published_at": "2026-08-02T08:36:02Z",
       "first_seen_at": "2026-08-02T09:35:36.557381Z",
-      "last_seen_at": "2026-08-02T18:00:22.734156Z",
+      "last_seen_at": "2026-08-02T19:42:18.298979Z",
       "title_original": "GWM sells 108,067 vehicles in July, with nearly 60% coming from overseas",
       "title_en": "GWM sells 108,067 vehicles in July, with nearly 60% coming from overseas",
       "title_zh": "长城汽车7月销量108,067辆，近60%来自海外",
@@ -212,7 +361,7 @@
       "url": "https://auto.gasgoo.com/news/202608/1I70468313C110.shtml",
       "published_at": "2026-08-01T22:13:38Z",
       "first_seen_at": "2026-08-02T14:26:40.875185Z",
-      "last_seen_at": "2026-08-02T18:00:22.734156Z",
+      "last_seen_at": "2026-08-02T19:42:18.298979Z",
       "title_original": "小米汽车7月交付再超3万辆",
       "title_en": null,
       "title_zh": "小米汽车7月交付再超3万辆",
@@ -231,7 +380,7 @@
       "url": "https://auto.gasgoo.com/news/202608/1I70468311C110.shtml",
       "published_at": "2026-08-01T21:37:16Z",
       "first_seen_at": "2026-08-02T14:26:40.875185Z",
-      "last_seen_at": "2026-08-02T18:00:22.734156Z",
+      "last_seen_at": "2026-08-02T19:42:18.298979Z",
       "title_original": "小鹏汽车7月交付38,027辆，同比增长4%",
       "title_en": null,
       "title_zh": "小鹏汽车7月交付38,027辆，同比增长4%",
@@ -250,7 +399,7 @@
       "url": "https://auto.gasgoo.com/news/202608/1I70468310C901.shtml",
       "published_at": "2026-08-01T21:35:03Z",
       "first_seen_at": "2026-08-02T14:26:40.875185Z",
-      "last_seen_at": "2026-08-02T18:00:22.734156Z",
+      "last_seen_at": "2026-08-02T19:42:18.298979Z",
       "title_original": "小鹏汽车7月交付38,027台，MONA L03开启全球交付",
       "title_en": null,
       "title_zh": "小鹏汽车7月交付38,027台，MONA L03开启全球交付",
@@ -270,7 +419,7 @@
       "url": "https://auto.gasgoo.com/news/202608/1I70468309C110.shtml",
       "published_at": "2026-08-01T21:29:18Z",
       "first_seen_at": "2026-08-02T14:26:40.875185Z",
-      "last_seen_at": "2026-08-02T18:00:22.734156Z",
+      "last_seen_at": "2026-08-02T19:42:18.298979Z",
       "title_original": "比亚迪7月销量突破41.9万辆 海外销售再创新高",
       "title_en": null,
       "title_zh": "比亚迪7月销量突破41.9万辆 海外销售再创新高",
@@ -289,7 +438,7 @@
       "url": "https://auto.gasgoo.com/news/202608/1I70468308C901.shtml",
       "published_at": "2026-08-01T21:21:55Z",
       "first_seen_at": "2026-08-02T14:26:40.875185Z",
-      "last_seen_at": "2026-08-02T18:00:22.734156Z",
+      "last_seen_at": "2026-08-02T19:42:18.298979Z",
       "title_original": "奇瑞7月出口首破20万辆，新能源逼近13万辆",
       "title_en": null,
       "title_zh": "奇瑞7月出口首破20万辆，新能源逼近13万辆",
@@ -310,7 +459,7 @@
       "url": "https://auto.gasgoo.com/news/202608/1I70468307C110.shtml",
       "published_at": "2026-08-01T21:17:25Z",
       "first_seen_at": "2026-08-02T14:26:40.875185Z",
-      "last_seen_at": "2026-08-02T18:00:22.734156Z",
+      "last_seen_at": "2026-08-02T19:42:18.298979Z",
       "title_original": "蔚来7月交付35,934辆，同比增长71%",
       "title_en": null,
       "title_zh": "蔚来7月交付35,934辆，同比增长71%",
@@ -318,145 +467,160 @@
       "topic_tags": [
         "销量市场",
         "车企竞争"
-      ]
-    },
-    {
-      "id": "c60e51548a8b8f3c94e030f578d29d4d1c8dc789",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "初晓敏：小米干增程SUV行吗？全网首验小米澎程N90和N70",
-      "url": "http://vc.yiche.com/vplay/12364312.html",
-      "published_at": null,
-      "first_seen_at": "2026-08-01T19:21:45.981357Z",
-      "last_seen_at": "2026-08-02T18:00:22.734156Z",
-      "title_original": "初晓敏：小米干增程SUV行吗？全网首验小米澎程N90和N70",
-      "title_en": null,
-      "title_zh": "初晓敏：小米干增程SUV行吗？全网首验小米澎程N90和N70",
-      "title_bilingual": "初晓敏：小米干增程SUV行吗？全网首验小米澎程N90和N70",
-      "topic_tags": [
-        "新能源",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "caf47d7dbdacae98243cd3b619d1a3a5fe8e6904",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "逸动HEV底盘鉴赏：落地9万，这用料做工不含糊！",
-      "url": "http://vc.yiche.com/vplay/12345818.html",
-      "published_at": null,
-      "first_seen_at": "2026-08-01T19:21:45.981357Z",
-      "last_seen_at": "2026-08-02T18:00:22.734156Z",
-      "title_original": "逸动HEV底盘鉴赏：落地9万，这用料做工不含糊！",
-      "title_en": null,
-      "title_zh": "逸动HEV底盘鉴赏：落地9万，这用料做工不含糊！",
-      "title_bilingual": "逸动HEV底盘鉴赏：落地9万，这用料做工不含糊！",
-      "topic_tags": [
-        "供应链"
-      ]
-    },
-    {
-      "id": "4a06de11af1574e9d40f11c9a5632802fb1863ac",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "家用SUV市场要变天？小米澎程N90有什么杀手锏丨野生11",
-      "url": "http://vc.yiche.com/vplay/12371249.html",
-      "published_at": null,
-      "first_seen_at": "2026-08-01T19:21:45.981357Z",
-      "last_seen_at": "2026-08-02T18:00:22.734156Z",
-      "title_original": "家用SUV市场要变天？小米澎程N90有什么杀手锏丨野生11",
-      "title_en": null,
-      "title_zh": "家用SUV市场要变天？小米澎程N90有什么杀手锏丨野生11",
-      "title_bilingual": "家用SUV市场要变天？小米澎程N90有什么杀手锏丨野生11",
-      "topic_tags": [
-        "销量市场",
-        "购车决策",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "e96c56285a20cbaf0f8fc583a91e884497e2850e",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "车长超奔驰S级！比亚迪大汉发布，纯电续航1008km，8月首发",
-      "url": "http://vc.yiche.com/vplay/12334422.html",
-      "published_at": null,
-      "first_seen_at": "2026-08-01T19:21:45.981357Z",
-      "last_seen_at": "2026-08-02T18:00:22.734156Z",
-      "title_original": "车长超奔驰S级！比亚迪大汉发布，纯电续航1008km，8月首发",
-      "title_en": null,
-      "title_zh": "车长超奔驰S级！比亚迪大汉发布，纯电续航1008km，8月首发",
-      "title_bilingual": "车长超奔驰S级！比亚迪大汉发布，纯电续航1008km，8月首发",
-      "topic_tags": [
-        "新能源",
-        "补能电池",
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "d32e302fb2f89c65721ea54b69fbba7c2080f0d3",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "抢先体验地平线HSD 2.0辅助驾驶！前车意图理解、通行效率满分！",
-      "url": "http://vc.yiche.com/vplay/12392221.html",
-      "published_at": null,
-      "first_seen_at": "2026-08-01T19:21:45.981357Z",
-      "last_seen_at": "2026-08-02T18:00:22.734156Z",
-      "title_original": "抢先体验地平线HSD 2.0辅助驾驶！前车意图理解、通行效率满分！",
-      "title_en": null,
-      "title_zh": "抢先体验地平线HSD 2.0辅助驾驶！前车意图理解、通行效率满分！",
-      "title_bilingual": "抢先体验地平线HSD 2.0辅助驾驶！前车意图理解、通行效率满分！",
-      "topic_tags": [
-        "智能驾驶",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "18dbc2d130fc694228861370b8ab07a60125b70d",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "快评风云T7：设计、续航能打，定价成唯一悬念？",
-      "url": "http://vc.yiche.com/vplay/12334387.html",
-      "published_at": null,
-      "first_seen_at": "2026-08-01T19:21:45.981357Z",
-      "last_seen_at": "2026-08-02T18:00:22.734156Z",
-      "title_original": "快评风云T7：设计、续航能打，定价成唯一悬念？",
-      "title_en": null,
-      "title_zh": "快评风云T7：设计、续航能打，定价成唯一悬念？",
-      "title_bilingual": "快评风云T7：设计、续航能打，定价成唯一悬念？",
-      "topic_tags": [
-        "补能电池",
-        "价格战"
-      ]
-    },
-    {
-      "id": "45a449c6623f38db851ba1306ba5defc81276796",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "破纪录！星越L销量破100万 网友:除了油耗没任何缺点",
-      "url": "http://vc.yiche.com/vplay/12344355.html",
-      "published_at": null,
-      "first_seen_at": "2026-08-01T19:21:45.981357Z",
-      "last_seen_at": "2026-08-02T18:00:22.734156Z",
-      "title_original": "破纪录！星越L销量破100万 网友:除了油耗没任何缺点",
-      "title_en": null,
-      "title_zh": "破纪录！星越L销量破100万 网友:除了油耗没任何缺点",
-      "title_bilingual": "破纪录！星越L销量破100万 网友:除了油耗没任何缺点",
-      "topic_tags": [
-        "销量市场"
       ]
     }
   ],
   "items_ai": [
     {
+      "id": "a5004ebfddac2703d6510c52225bc9c26a952b7c",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "10%-70%五分钟充满，比亚迪秦MAX来了",
+      "url": "http://vc.yiche.com/vplay/12357501.html",
+      "published_at": null,
+      "first_seen_at": "2026-08-02T19:42:18.298979Z",
+      "last_seen_at": "2026-08-02T19:42:18.298979Z",
+      "title_original": "10%-70%五分钟充满，比亚迪秦MAX来了",
+      "title_en": null,
+      "title_zh": "10%-70%五分钟充满，比亚迪秦MAX来了",
+      "title_bilingual": "10%-70%五分钟充满，比亚迪秦MAX来了",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "cfe2ee2900f9fe2c74d317f216ba5a1736769573",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "电车能开十年吗？",
+      "url": "http://vc.yiche.com/vplay/12340939.html",
+      "published_at": null,
+      "first_seen_at": "2026-08-02T19:42:18.298979Z",
+      "last_seen_at": "2026-08-02T19:42:18.298979Z",
+      "title_original": "电车能开十年吗？",
+      "title_en": null,
+      "title_zh": "电车能开十年吗？",
+      "title_bilingual": "电车能开十年吗？",
+      "topic_tags": [
+        "新能源"
+      ]
+    },
+    {
+      "id": "84b962b671807853e4a88d69bfe33751b5806cd5",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "智驾“小蓝灯”将被禁用，你们怎么看有没有在智驾？",
+      "url": "http://vc.yiche.com/vplay/12349962.html",
+      "published_at": null,
+      "first_seen_at": "2026-08-02T19:42:18.298979Z",
+      "last_seen_at": "2026-08-02T19:42:18.298979Z",
+      "title_original": "智驾“小蓝灯”将被禁用，你们怎么看有没有在智驾？",
+      "title_en": null,
+      "title_zh": "智驾“小蓝灯”将被禁用，你们怎么看有没有在智驾？",
+      "title_bilingual": "智驾“小蓝灯”将被禁用，你们怎么看有没有在智驾？",
+      "topic_tags": [
+        "智能驾驶"
+      ]
+    },
+    {
+      "id": "abccf3d3d8feee232c779fccf3c8d36b339d4dcf",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "小米澎程预售价公布 N70顶配25.99万 N90顶配29.99万 理想全家慌了？",
+      "url": "http://vc.yiche.com/vplay/12375561.html",
+      "published_at": null,
+      "first_seen_at": "2026-08-02T19:42:18.298979Z",
+      "last_seen_at": "2026-08-02T19:42:18.298979Z",
+      "title_original": "小米澎程预售价公布 N70顶配25.99万 N90顶配29.99万 理想全家慌了？",
+      "title_en": null,
+      "title_zh": "小米澎程预售价公布 N70顶配25.99万 N90顶配29.99万 理想全家慌了？",
+      "title_bilingual": "小米澎程预售价公布 N70顶配25.99万 N90顶配29.99万 理想全家慌了？",
+      "topic_tags": [
+        "价格战",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "19773b956f97b4439510a2e5fdd6f3f16d8a2a1b",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "比亚迪大汉官图发布 5.2米车长 纯电最长跑1008公里",
+      "url": "http://vc.yiche.com/vplay/12342444.html",
+      "published_at": null,
+      "first_seen_at": "2026-08-02T19:42:18.298979Z",
+      "last_seen_at": "2026-08-02T19:42:18.298979Z",
+      "title_original": "比亚迪大汉官图发布 5.2米车长 纯电最长跑1008公里",
+      "title_en": null,
+      "title_zh": "比亚迪大汉官图发布 5.2米车长 纯电最长跑1008公里",
+      "title_bilingual": "比亚迪大汉官图发布 5.2米车长 纯电最长跑1008公里",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "7600a2558bbfa368ac484b4bd72240ec65a5b21c",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "座位少了，价格低了，但是真的更豪华了！探店蔚来ES8 五座版",
+      "url": "http://vc.yiche.com/vplay/12348170.html",
+      "published_at": null,
+      "first_seen_at": "2026-08-02T19:42:18.298979Z",
+      "last_seen_at": "2026-08-02T19:42:18.298979Z",
+      "title_original": "座位少了，价格低了，但是真的更豪华了！探店蔚来ES8 五座版",
+      "title_en": null,
+      "title_zh": "座位少了，价格低了，但是真的更豪华了！探店蔚来ES8 五座版",
+      "title_bilingual": "座位少了，价格低了，但是真的更豪华了！探店蔚来ES8 五座版",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "ffdecf6902a8a0e00e11d0d58a4577ba4ace9c87",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "Dream Car 福特烈马",
+      "url": "http://vc.yiche.com/vplay/12385634.html",
+      "published_at": null,
+      "first_seen_at": "2026-08-02T19:42:18.298979Z",
+      "last_seen_at": "2026-08-02T19:42:18.298979Z",
+      "title_original": "Dream Car 福特烈马",
+      "title_en": null,
+      "title_zh": "Dream Car 福特烈马",
+      "title_bilingual": "Dream Car 福特烈马",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "a05b92ce58093296591c9f3764e137412159f97b",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Can you trust your EV’s battery health reading? China sets new accuracy rules with 5% error limit",
+      "url": "https://carnewschina.com/2026/08/02/can-you-trust-your-evs-battery-health-reading-china-sets-new-accuracy-rules-with-5-error-limit",
+      "published_at": "2026-08-02T18:50:17Z",
+      "first_seen_at": "2026-08-02T19:42:18.298979Z",
+      "last_seen_at": "2026-08-02T19:42:18.298979Z",
+      "title_original": "Can you trust your EV’s battery health reading? China sets new accuracy rules with 5% error limit",
+      "title_en": "Can you trust your EV’s battery health reading? China sets new accuracy rules with 5% error limit",
+      "title_zh": "您能相信您的电动汽车的电池健康状况读数吗？中国制定新的精度规则，误差限制为5%",
+      "title_bilingual": "您能相信您的电动汽车的电池健康状况读数吗？中国制定新的精度规则，误差限制为5% / Can you trust your EV’s battery health reading? China sets new accuracy rules with 5% error limit",
+      "topic_tags": [
+        "新能源",
+        "补能电池"
+      ]
+    },
+    {
       "id": "adf9f922028cd5879219a419b58a4582e397f4ce",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -465,7 +629,7 @@
       "url": "https://i.autohome.com.cn/11253271",
       "published_at": null,
       "first_seen_at": "2026-08-02T16:55:30.992192Z",
-      "last_seen_at": "2026-08-02T18:00:22.734156Z",
+      "last_seen_at": "2026-08-02T19:42:18.298979Z",
       "title_original": "适合家用代步 QQ3 EV提车作业分享",
       "title_en": null,
       "title_zh": "适合家用代步 QQ3 EV提车作业分享",
@@ -484,7 +648,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/20de850d8793bbc3/115691954-1.html",
       "published_at": null,
       "first_seen_at": "2026-08-02T16:55:30.992192Z",
-      "last_seen_at": "2026-08-02T18:00:22.734156Z",
+      "last_seen_at": "2026-08-02T19:42:18.298979Z",
       "title_original": "新手司机第一台车 吉利星愿用车感受",
       "title_en": null,
       "title_zh": "新手司机第一台车 吉利星愿用车感受",
@@ -503,7 +667,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/c548c97dc8f58e82/115545021-1.html",
       "published_at": null,
       "first_seen_at": "2026-08-02T16:55:30.992192Z",
-      "last_seen_at": "2026-08-02T18:00:22.734156Z",
+      "last_seen_at": "2026-08-02T19:42:18.298979Z",
       "title_original": "性价比拉满 长安启源A06提车分享",
       "title_en": null,
       "title_zh": "性价比拉满 长安启源A06提车分享",
@@ -523,7 +687,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/3ed7a44080861e07/115526534-1.html",
       "published_at": null,
       "first_seen_at": "2026-08-02T16:55:30.992192Z",
-      "last_seen_at": "2026-08-02T18:00:22.734156Z",
+      "last_seen_at": "2026-08-02T19:42:18.298979Z",
       "title_original": "空间宽敞舒服 零跑D19提车作业分享",
       "title_en": null,
       "title_zh": "空间宽敞舒服 零跑D19提车作业分享",
@@ -542,7 +706,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/677c7c7c33924c49/115522842-1.html",
       "published_at": null,
       "first_seen_at": "2026-08-02T16:55:30.992192Z",
-      "last_seen_at": "2026-08-02T18:00:22.734156Z",
+      "last_seen_at": "2026-08-02T19:42:18.298979Z",
       "title_original": "底盘质感好 深蓝S07提车作业分享",
       "title_en": null,
       "title_zh": "底盘质感好 深蓝S07提车作业分享",
@@ -561,7 +725,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/8ebe26cb2e6e40ea/115522092-1.html",
       "published_at": null,
       "first_seen_at": "2026-08-02T16:55:30.992192Z",
-      "last_seen_at": "2026-08-02T18:00:22.734156Z",
+      "last_seen_at": "2026-08-02T19:42:18.298979Z",
       "title_original": "满足我的需求 极氪7X提车作业分享",
       "title_en": null,
       "title_zh": "满足我的需求 极氪7X提车作业分享",
@@ -580,7 +744,7 @@
       "url": "https://cnevpost.com/2026/08/02/gwm-sales-jul-2026",
       "published_at": "2026-08-02T08:36:02Z",
       "first_seen_at": "2026-08-02T09:35:36.557381Z",
-      "last_seen_at": "2026-08-02T18:00:22.734156Z",
+      "last_seen_at": "2026-08-02T19:42:18.298979Z",
       "title_original": "GWM sells 108,067 vehicles in July, with nearly 60% coming from overseas",
       "title_en": "GWM sells 108,067 vehicles in July, with nearly 60% coming from overseas",
       "title_zh": "长城汽车7月销量108,067辆，近60%来自海外",
@@ -600,7 +764,7 @@
       "url": "https://auto.gasgoo.com/news/202608/1I70468313C110.shtml",
       "published_at": "2026-08-01T22:13:38Z",
       "first_seen_at": "2026-08-02T14:26:40.875185Z",
-      "last_seen_at": "2026-08-02T18:00:22.734156Z",
+      "last_seen_at": "2026-08-02T19:42:18.298979Z",
       "title_original": "小米汽车7月交付再超3万辆",
       "title_en": null,
       "title_zh": "小米汽车7月交付再超3万辆",
@@ -619,7 +783,7 @@
       "url": "https://auto.gasgoo.com/news/202608/1I70468311C110.shtml",
       "published_at": "2026-08-01T21:37:16Z",
       "first_seen_at": "2026-08-02T14:26:40.875185Z",
-      "last_seen_at": "2026-08-02T18:00:22.734156Z",
+      "last_seen_at": "2026-08-02T19:42:18.298979Z",
       "title_original": "小鹏汽车7月交付38,027辆，同比增长4%",
       "title_en": null,
       "title_zh": "小鹏汽车7月交付38,027辆，同比增长4%",
@@ -638,7 +802,7 @@
       "url": "https://auto.gasgoo.com/news/202608/1I70468310C901.shtml",
       "published_at": "2026-08-01T21:35:03Z",
       "first_seen_at": "2026-08-02T14:26:40.875185Z",
-      "last_seen_at": "2026-08-02T18:00:22.734156Z",
+      "last_seen_at": "2026-08-02T19:42:18.298979Z",
       "title_original": "小鹏汽车7月交付38,027台，MONA L03开启全球交付",
       "title_en": null,
       "title_zh": "小鹏汽车7月交付38,027台，MONA L03开启全球交付",
@@ -658,7 +822,7 @@
       "url": "https://auto.gasgoo.com/news/202608/1I70468309C110.shtml",
       "published_at": "2026-08-01T21:29:18Z",
       "first_seen_at": "2026-08-02T14:26:40.875185Z",
-      "last_seen_at": "2026-08-02T18:00:22.734156Z",
+      "last_seen_at": "2026-08-02T19:42:18.298979Z",
       "title_original": "比亚迪7月销量突破41.9万辆 海外销售再创新高",
       "title_en": null,
       "title_zh": "比亚迪7月销量突破41.9万辆 海外销售再创新高",
@@ -677,7 +841,7 @@
       "url": "https://auto.gasgoo.com/news/202608/1I70468308C901.shtml",
       "published_at": "2026-08-01T21:21:55Z",
       "first_seen_at": "2026-08-02T14:26:40.875185Z",
-      "last_seen_at": "2026-08-02T18:00:22.734156Z",
+      "last_seen_at": "2026-08-02T19:42:18.298979Z",
       "title_original": "奇瑞7月出口首破20万辆，新能源逼近13万辆",
       "title_en": null,
       "title_zh": "奇瑞7月出口首破20万辆，新能源逼近13万辆",
@@ -698,7 +862,7 @@
       "url": "https://auto.gasgoo.com/news/202608/1I70468307C110.shtml",
       "published_at": "2026-08-01T21:17:25Z",
       "first_seen_at": "2026-08-02T14:26:40.875185Z",
-      "last_seen_at": "2026-08-02T18:00:22.734156Z",
+      "last_seen_at": "2026-08-02T19:42:18.298979Z",
       "title_original": "蔚来7月交付35,934辆，同比增长71%",
       "title_en": null,
       "title_zh": "蔚来7月交付35,934辆，同比增长71%",
@@ -706,140 +870,6 @@
       "topic_tags": [
         "销量市场",
         "车企竞争"
-      ]
-    },
-    {
-      "id": "c60e51548a8b8f3c94e030f578d29d4d1c8dc789",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "初晓敏：小米干增程SUV行吗？全网首验小米澎程N90和N70",
-      "url": "http://vc.yiche.com/vplay/12364312.html",
-      "published_at": null,
-      "first_seen_at": "2026-08-01T19:21:45.981357Z",
-      "last_seen_at": "2026-08-02T18:00:22.734156Z",
-      "title_original": "初晓敏：小米干增程SUV行吗？全网首验小米澎程N90和N70",
-      "title_en": null,
-      "title_zh": "初晓敏：小米干增程SUV行吗？全网首验小米澎程N90和N70",
-      "title_bilingual": "初晓敏：小米干增程SUV行吗？全网首验小米澎程N90和N70",
-      "topic_tags": [
-        "新能源",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "caf47d7dbdacae98243cd3b619d1a3a5fe8e6904",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "逸动HEV底盘鉴赏：落地9万，这用料做工不含糊！",
-      "url": "http://vc.yiche.com/vplay/12345818.html",
-      "published_at": null,
-      "first_seen_at": "2026-08-01T19:21:45.981357Z",
-      "last_seen_at": "2026-08-02T18:00:22.734156Z",
-      "title_original": "逸动HEV底盘鉴赏：落地9万，这用料做工不含糊！",
-      "title_en": null,
-      "title_zh": "逸动HEV底盘鉴赏：落地9万，这用料做工不含糊！",
-      "title_bilingual": "逸动HEV底盘鉴赏：落地9万，这用料做工不含糊！",
-      "topic_tags": [
-        "供应链"
-      ]
-    },
-    {
-      "id": "4a06de11af1574e9d40f11c9a5632802fb1863ac",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "家用SUV市场要变天？小米澎程N90有什么杀手锏丨野生11",
-      "url": "http://vc.yiche.com/vplay/12371249.html",
-      "published_at": null,
-      "first_seen_at": "2026-08-01T19:21:45.981357Z",
-      "last_seen_at": "2026-08-02T18:00:22.734156Z",
-      "title_original": "家用SUV市场要变天？小米澎程N90有什么杀手锏丨野生11",
-      "title_en": null,
-      "title_zh": "家用SUV市场要变天？小米澎程N90有什么杀手锏丨野生11",
-      "title_bilingual": "家用SUV市场要变天？小米澎程N90有什么杀手锏丨野生11",
-      "topic_tags": [
-        "销量市场",
-        "购车决策",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "e96c56285a20cbaf0f8fc583a91e884497e2850e",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "车长超奔驰S级！比亚迪大汉发布，纯电续航1008km，8月首发",
-      "url": "http://vc.yiche.com/vplay/12334422.html",
-      "published_at": null,
-      "first_seen_at": "2026-08-01T19:21:45.981357Z",
-      "last_seen_at": "2026-08-02T18:00:22.734156Z",
-      "title_original": "车长超奔驰S级！比亚迪大汉发布，纯电续航1008km，8月首发",
-      "title_en": null,
-      "title_zh": "车长超奔驰S级！比亚迪大汉发布，纯电续航1008km，8月首发",
-      "title_bilingual": "车长超奔驰S级！比亚迪大汉发布，纯电续航1008km，8月首发",
-      "topic_tags": [
-        "新能源",
-        "补能电池",
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "d32e302fb2f89c65721ea54b69fbba7c2080f0d3",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "抢先体验地平线HSD 2.0辅助驾驶！前车意图理解、通行效率满分！",
-      "url": "http://vc.yiche.com/vplay/12392221.html",
-      "published_at": null,
-      "first_seen_at": "2026-08-01T19:21:45.981357Z",
-      "last_seen_at": "2026-08-02T18:00:22.734156Z",
-      "title_original": "抢先体验地平线HSD 2.0辅助驾驶！前车意图理解、通行效率满分！",
-      "title_en": null,
-      "title_zh": "抢先体验地平线HSD 2.0辅助驾驶！前车意图理解、通行效率满分！",
-      "title_bilingual": "抢先体验地平线HSD 2.0辅助驾驶！前车意图理解、通行效率满分！",
-      "topic_tags": [
-        "智能驾驶",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "18dbc2d130fc694228861370b8ab07a60125b70d",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "快评风云T7：设计、续航能打，定价成唯一悬念？",
-      "url": "http://vc.yiche.com/vplay/12334387.html",
-      "published_at": null,
-      "first_seen_at": "2026-08-01T19:21:45.981357Z",
-      "last_seen_at": "2026-08-02T18:00:22.734156Z",
-      "title_original": "快评风云T7：设计、续航能打，定价成唯一悬念？",
-      "title_en": null,
-      "title_zh": "快评风云T7：设计、续航能打，定价成唯一悬念？",
-      "title_bilingual": "快评风云T7：设计、续航能打，定价成唯一悬念？",
-      "topic_tags": [
-        "补能电池",
-        "价格战"
-      ]
-    },
-    {
-      "id": "45a449c6623f38db851ba1306ba5defc81276796",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "破纪录！星越L销量破100万 网友:除了油耗没任何缺点",
-      "url": "http://vc.yiche.com/vplay/12344355.html",
-      "published_at": null,
-      "first_seen_at": "2026-08-01T19:21:45.981357Z",
-      "last_seen_at": "2026-08-02T18:00:22.734156Z",
-      "title_original": "破纪录！星越L销量破100万 网友:除了油耗没任何缺点",
-      "title_en": null,
-      "title_zh": "破纪录！星越L销量破100万 网友:除了油耗没任何缺点",
-      "title_bilingual": "破纪录！星越L销量破100万 网友:除了油耗没任何缺点",
-      "topic_tags": [
-        "销量市场"
       ]
     }
   ],
