@@ -1,49 +1,45 @@
 {
-  "generated_at": "2026-08-02T07:30:15.089371Z",
+  "generated_at": "2026-08-02T09:35:36.557381Z",
   "window_hours": 24,
-  "total_items": 23,
-  "total_items_ai_raw": 24,
-  "total_items_raw": 3248,
-  "total_items_all_mode": 2975,
+  "total_items": 22,
+  "total_items_ai_raw": 25,
+  "total_items_raw": 3141,
+  "total_items_all_mode": 2892,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 75450,
+  "archive_total": 75490,
   "site_count": 3,
-  "source_count": 7,
+  "source_count": 6,
   "site_stats": [
     {
       "site_id": "tophub",
       "site_name": "TopHub",
-      "count": 13,
-      "raw_count": 3058
+      "count": 12,
+      "raw_count": 2956
     },
     {
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
       "count": 10,
-      "raw_count": 11
+      "raw_count": 13
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "count": 0,
-      "raw_count": 179
+      "raw_count": 172
     }
   ],
   "topic_tag_stats": [
+    {
+      "tag": "销量市场",
+      "count": 11
+    },
     {
       "tag": "车企竞争",
       "count": 10
     },
     {
-      "tag": "销量市场",
-      "count": 10
-    },
-    {
       "tag": "新车上市",
-      "count": 8
-    },
-    {
-      "tag": "新能源",
       "count": 7
     },
     {
@@ -51,15 +47,19 @@
       "count": 7
     },
     {
-      "tag": "供应链",
-      "count": 3
+      "tag": "新能源",
+      "count": 5
     },
     {
-      "tag": "补能电池",
-      "count": 3
+      "tag": "供应链",
+      "count": 2
     },
     {
       "tag": "智能驾驶",
+      "count": 2
+    },
+    {
+      "tag": "补能电池",
       "count": 2
     },
     {
@@ -69,6 +69,26 @@
   ],
   "items": [
     {
+      "id": "27e7330efbdd6d84f38125069a45ca4d1011af55",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "GWM sells 108,067 vehicles in July, with nearly 60% coming from overseas",
+      "url": "https://cnevpost.com/2026/08/02/gwm-sales-jul-2026",
+      "published_at": "2026-08-02T08:36:02Z",
+      "first_seen_at": "2026-08-02T09:35:36.557381Z",
+      "last_seen_at": "2026-08-02T09:35:36.557381Z",
+      "title_original": "GWM sells 108,067 vehicles in July, with nearly 60% coming from overseas",
+      "title_en": "GWM sells 108,067 vehicles in July, with nearly 60% coming from overseas",
+      "title_zh": "长城汽车7月销量108,067辆，近60%来自海外",
+      "title_bilingual": "长城汽车7月销量108,067辆，近60%来自海外 / GWM sells 108,067 vehicles in July, with nearly 60% coming from overseas",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
       "id": "c60e51548a8b8f3c94e030f578d29d4d1c8dc789",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -77,7 +97,7 @@
       "url": "http://vc.yiche.com/vplay/12364312.html",
       "published_at": null,
       "first_seen_at": "2026-08-01T19:21:45.981357Z",
-      "last_seen_at": "2026-08-02T07:30:15.089371Z",
+      "last_seen_at": "2026-08-02T09:35:36.557381Z",
       "title_original": "初晓敏：小米干增程SUV行吗？全网首验小米澎程N90和N70",
       "title_en": null,
       "title_zh": "初晓敏：小米干增程SUV行吗？全网首验小米澎程N90和N70",
@@ -96,7 +116,7 @@
       "url": "http://vc.yiche.com/vplay/12345818.html",
       "published_at": null,
       "first_seen_at": "2026-08-01T19:21:45.981357Z",
-      "last_seen_at": "2026-08-02T07:30:15.089371Z",
+      "last_seen_at": "2026-08-02T09:35:36.557381Z",
       "title_original": "逸动HEV底盘鉴赏：落地9万，这用料做工不含糊！",
       "title_en": null,
       "title_zh": "逸动HEV底盘鉴赏：落地9万，这用料做工不含糊！",
@@ -114,7 +134,7 @@
       "url": "http://vc.yiche.com/vplay/12371249.html",
       "published_at": null,
       "first_seen_at": "2026-08-01T19:21:45.981357Z",
-      "last_seen_at": "2026-08-02T07:30:15.089371Z",
+      "last_seen_at": "2026-08-02T09:35:36.557381Z",
       "title_original": "家用SUV市场要变天？小米澎程N90有什么杀手锏丨野生11",
       "title_en": null,
       "title_zh": "家用SUV市场要变天？小米澎程N90有什么杀手锏丨野生11",
@@ -134,7 +154,7 @@
       "url": "http://vc.yiche.com/vplay/12334422.html",
       "published_at": null,
       "first_seen_at": "2026-08-01T19:21:45.981357Z",
-      "last_seen_at": "2026-08-02T07:30:15.089371Z",
+      "last_seen_at": "2026-08-02T09:35:36.557381Z",
       "title_original": "车长超奔驰S级！比亚迪大汉发布，纯电续航1008km，8月首发",
       "title_en": null,
       "title_zh": "车长超奔驰S级！比亚迪大汉发布，纯电续航1008km，8月首发",
@@ -155,7 +175,7 @@
       "url": "http://vc.yiche.com/vplay/12392221.html",
       "published_at": null,
       "first_seen_at": "2026-08-01T19:21:45.981357Z",
-      "last_seen_at": "2026-08-02T07:30:15.089371Z",
+      "last_seen_at": "2026-08-02T09:35:36.557381Z",
       "title_original": "抢先体验地平线HSD 2.0辅助驾驶！前车意图理解、通行效率满分！",
       "title_en": null,
       "title_zh": "抢先体验地平线HSD 2.0辅助驾驶！前车意图理解、通行效率满分！",
@@ -174,7 +194,7 @@
       "url": "http://vc.yiche.com/vplay/12334387.html",
       "published_at": null,
       "first_seen_at": "2026-08-01T19:21:45.981357Z",
-      "last_seen_at": "2026-08-02T07:30:15.089371Z",
+      "last_seen_at": "2026-08-02T09:35:36.557381Z",
       "title_original": "快评风云T7：设计、续航能打，定价成唯一悬念？",
       "title_en": null,
       "title_zh": "快评风云T7：设计、续航能打，定价成唯一悬念？",
@@ -193,7 +213,7 @@
       "url": "http://vc.yiche.com/vplay/12344355.html",
       "published_at": null,
       "first_seen_at": "2026-08-01T19:21:45.981357Z",
-      "last_seen_at": "2026-08-02T07:30:15.089371Z",
+      "last_seen_at": "2026-08-02T09:35:36.557381Z",
       "title_original": "破纪录！星越L销量破100万 网友:除了油耗没任何缺点",
       "title_en": null,
       "title_zh": "破纪录！星越L销量破100万 网友:除了油耗没任何缺点",
@@ -211,7 +231,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/2d61b12d9a7bc6d6/115644787-1.html",
       "published_at": null,
       "first_seen_at": "2026-08-01T16:56:22.276406Z",
-      "last_seen_at": "2026-08-02T07:30:15.089371Z",
+      "last_seen_at": "2026-08-02T09:35:36.557381Z",
       "title_original": "探店实测iCAR V27 家用越野一车兼顾",
       "title_en": null,
       "title_zh": "探店实测iCAR V27 家用越野一车兼顾",
@@ -229,7 +249,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/44506375f0979b24/115663828-1.html",
       "published_at": null,
       "first_seen_at": "2026-08-01T16:56:22.276406Z",
-      "last_seen_at": "2026-08-02T07:30:15.089371Z",
+      "last_seen_at": "2026-08-02T09:35:36.557381Z",
       "title_original": "符合用车需求 蔚来ES6提车作业分享",
       "title_en": null,
       "title_zh": "符合用车需求 蔚来ES6提车作业分享",
@@ -248,7 +268,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/8cee0479b21b871f/115716987-1.html",
       "published_at": null,
       "first_seen_at": "2026-08-01T16:56:22.276406Z",
-      "last_seen_at": "2026-08-02T07:30:15.089371Z",
+      "last_seen_at": "2026-08-02T09:35:36.557381Z",
       "title_original": "越野试驾体验哈弗H5黑武士柴油版",
       "title_en": null,
       "title_zh": "越野试驾体验哈弗H5黑武士柴油版",
@@ -266,7 +286,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/29e8975611dd4674/115662181-1.html",
       "published_at": null,
       "first_seen_at": "2026-08-01T16:56:22.276406Z",
-      "last_seen_at": "2026-08-02T07:30:15.089371Z",
+      "last_seen_at": "2026-08-02T09:35:36.557381Z",
       "title_original": "标配激光雷达 风云A9试驾体验分享",
       "title_en": null,
       "title_zh": "标配激光雷达 风云A9试驾体验分享",
@@ -285,7 +305,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/25ebba2c3424c50a/115679142-1.html",
       "published_at": null,
       "first_seen_at": "2026-08-01T16:56:22.276406Z",
-      "last_seen_at": "2026-08-02T07:30:15.089371Z",
+      "last_seen_at": "2026-08-02T09:35:36.557381Z",
       "title_original": "满足我的需求 零跑B01提车作业分享",
       "title_en": null,
       "title_zh": "满足我的需求 零跑B01提车作业分享",
@@ -293,6 +313,44 @@
       "topic_tags": [
         "车企竞争",
         "购车决策"
+      ]
+    },
+    {
+      "id": "d30a3eb740a316a683fe20cbb1bc3a7f4ea93722",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-销量",
+      "title": "大众安徽7月交付2149辆，同比增长170%",
+      "url": "https://auto.gasgoo.com/news/202608/1I70468284C110.shtml",
+      "published_at": "2026-08-01T16:00:12Z",
+      "first_seen_at": "2026-08-02T09:35:36.557381Z",
+      "last_seen_at": "2026-08-02T09:35:36.557381Z",
+      "title_original": "大众安徽7月交付2149辆，同比增长170%",
+      "title_en": null,
+      "title_zh": "大众安徽7月交付2149辆，同比增长170%",
+      "title_bilingual": "大众安徽7月交付2149辆，同比增长170%",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "55f2acc2dc61629c08279daf4147fae62deb4155",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-销量",
+      "title": "理想汽车7月交付30,468辆，L6交付量即将突破40万",
+      "url": "https://auto.gasgoo.com/news/202608/1I70468283C110.shtml",
+      "published_at": "2026-08-01T15:54:43Z",
+      "first_seen_at": "2026-08-02T09:35:36.557381Z",
+      "last_seen_at": "2026-08-02T09:35:36.557381Z",
+      "title_original": "理想汽车7月交付30,468辆，L6交付量即将突破40万",
+      "title_en": null,
+      "title_zh": "理想汽车7月交付30,468辆，L6交付量即将突破40万",
+      "title_bilingual": "理想汽车7月交付30,468辆，L6交付量即将突破40万",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争"
       ]
     },
     {
@@ -304,7 +362,7 @@
       "url": "https://auto.gasgoo.com/news/202608/1I70468270C110.shtml",
       "published_at": "2026-08-01T12:28:54Z",
       "first_seen_at": "2026-08-02T04:52:26.614832Z",
-      "last_seen_at": "2026-08-02T07:30:15.089371Z",
+      "last_seen_at": "2026-08-02T09:35:36.557381Z",
       "title_original": "岚图7月交付13189辆，追光S敲定8月上市",
       "title_en": null,
       "title_zh": "岚图7月交付13189辆，追光S敲定8月上市",
@@ -323,7 +381,7 @@
       "url": "https://auto.gasgoo.com/news/202608/1I70468269C110.shtml",
       "published_at": "2026-08-01T12:11:52Z",
       "first_seen_at": "2026-08-02T04:52:26.614832Z",
-      "last_seen_at": "2026-08-02T07:30:15.089371Z",
+      "last_seen_at": "2026-08-02T09:35:36.557381Z",
       "title_original": "鸿蒙智行7月交付45046台，多车型热销",
       "title_en": null,
       "title_zh": "鸿蒙智行7月交付45046台，多车型热销",
@@ -343,7 +401,7 @@
       "url": "https://auto.gasgoo.com/news/202608/1I70468268C901.shtml",
       "published_at": "2026-08-01T12:05:39Z",
       "first_seen_at": "2026-08-02T04:52:26.614832Z",
-      "last_seen_at": "2026-08-02T07:30:15.089371Z",
+      "last_seen_at": "2026-08-02T09:35:36.557381Z",
       "title_original": "人事变动｜长安汽车执行副总裁彭陶因工作变动离任",
       "title_en": null,
       "title_zh": "人事变动｜长安汽车执行副总裁彭陶因工作变动离任",
@@ -362,7 +420,7 @@
       "url": "https://auto.gasgoo.com/news/202608/1I70468266C110.shtml",
       "published_at": "2026-08-01T12:00:39Z",
       "first_seen_at": "2026-08-02T04:52:26.614832Z",
-      "last_seen_at": "2026-08-02T07:30:15.089371Z",
+      "last_seen_at": "2026-08-02T09:35:36.557381Z",
       "title_original": "深蓝7月销量2.9万辆，海外增速亮眼",
       "title_en": null,
       "title_zh": "深蓝7月销量2.9万辆，海外增速亮眼",
@@ -380,7 +438,7 @@
       "url": "https://auto.gasgoo.com/news/202608/1I70468265C110.shtml",
       "published_at": "2026-08-01T11:54:03Z",
       "first_seen_at": "2026-08-02T04:52:26.614832Z",
-      "last_seen_at": "2026-08-02T07:30:15.089371Z",
+      "last_seen_at": "2026-08-02T09:35:36.557381Z",
       "title_original": "零跑7月交付首破10万台，全域自研支撑销量持续走高",
       "title_en": null,
       "title_zh": "零跑7月交付首破10万台，全域自研支撑销量持续走高",
@@ -399,7 +457,7 @@
       "url": "https://carnewschina.com/2026/08/01/mg-07-targets-chinas-no-1-sedan-sales-position-as-production-capacity-becomes-priority",
       "published_at": "2026-08-01T10:16:21Z",
       "first_seen_at": "2026-08-01T10:56:42.156305Z",
-      "last_seen_at": "2026-08-02T07:30:15.089371Z",
+      "last_seen_at": "2026-08-02T09:35:36.557381Z",
       "title_original": "MG 07 targets China’s No. 1 sedan sales position as production capacity becomes priority",
       "title_en": "MG 07 targets China’s No. 1 sedan sales position as production capacity becomes priority",
       "title_zh": "名爵07瞄准中国轿车销量第一 产能优先",
@@ -420,7 +478,7 @@
       "url": "https://cnevpost.com/2026/08/01/byd-jul-2026-sales",
       "published_at": "2026-08-01T10:11:05Z",
       "first_seen_at": "2026-08-01T10:56:42.156305Z",
-      "last_seen_at": "2026-08-02T07:30:15.089371Z",
+      "last_seen_at": "2026-08-02T09:35:36.557381Z",
       "title_original": "BYD July sales jump 21.8% as overseas deliveries hit fresh record",
       "title_en": "BYD July sales jump 21.8% as overseas deliveries hit fresh record",
       "title_zh": "比亚迪7月销量大增21.8% 海外交付量再创新高",
@@ -428,91 +486,32 @@
       "topic_tags": [
         "新能源",
         "销量市场",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "94494f2a561ba1f51d91960593335eb4da35323c",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Geely July sales rise 5% as exports set new record",
-      "url": "https://cnevpost.com/2026/08/01/geely-jul-2026-sales",
-      "published_at": "2026-08-01T09:33:20Z",
-      "first_seen_at": "2026-08-01T10:56:42.156305Z",
-      "last_seen_at": "2026-08-02T07:30:15.089371Z",
-      "title_original": "Geely July sales rise 5% as exports set new record",
-      "title_en": "Geely July sales rise 5% as exports set new record",
-      "title_zh": "吉利7月销量增长5% 出口创历史新高",
-      "title_bilingual": "吉利7月销量增长5% 出口创历史新高 / Geely July sales rise 5% as exports set new record",
-      "topic_tags": [
-        "新能源",
-        "销量市场",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "828520d68b1ad1f5a23c14df49403d81bcc0207a",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "懂车帝 · 文章排行榜",
-      "title": "很难想象，12万级的中国SUV卷成啥样了！",
-      "url": "https://www.dongchedi.com/article/7668691906825814590",
-      "published_at": null,
-      "first_seen_at": "2026-08-01T09:03:42.688397Z",
-      "last_seen_at": "2026-08-02T07:30:15.089371Z",
-      "title_original": "很难想象，12万级的中国SUV卷成啥样了！",
-      "title_en": null,
-      "title_zh": "很难想象，12万级的中国SUV卷成啥样了！",
-      "title_bilingual": "很难想象，12万级的中国SUV卷成啥样了！",
-      "topic_tags": [
-        "新车上市"
-      ]
-    },
-    {
-      "id": "7b41d9745171de1a81253232a35ce7729949c74a",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Chery becomes first Chinese automaker to export over 200,000 cars in a month",
-      "url": "https://cnevpost.com/2026/08/01/chery-first-chinese-automaker-export-200000-cars-a-month",
-      "published_at": "2026-08-01T08:44:33Z",
-      "first_seen_at": "2026-08-01T09:03:42.688397Z",
-      "last_seen_at": "2026-08-02T07:30:15.089371Z",
-      "title_original": "Chery becomes first Chinese automaker to export over 200,000 cars in a month",
-      "title_en": "Chery becomes first Chinese automaker to export over 200,000 cars in a month",
-      "title_zh": "奇瑞成为首家单月出口突破20万辆的中国汽车制造商",
-      "title_bilingual": "奇瑞成为首家单月出口突破20万辆的中国汽车制造商 / Chery becomes first Chinese automaker to export over 200,000 cars in a month",
-      "topic_tags": [
-        "新能源",
-        "销量市场",
-        "车企竞争",
-        "供应链"
-      ]
-    },
-    {
-      "id": "cc7898d32a0576c774aa10fdae304475c8189525",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Nio to open first fifth-gen swap station in early August, also its 4,000th in China",
-      "url": "https://cnevpost.com/2026/08/01/nio-open-first-fifth-gen-swap-station-early-aug",
-      "published_at": "2026-08-01T08:14:40Z",
-      "first_seen_at": "2026-08-01T09:03:42.688397Z",
-      "last_seen_at": "2026-08-02T07:30:15.089371Z",
-      "title_original": "Nio to open first fifth-gen swap station in early August, also its 4,000th in China",
-      "title_en": "Nio to open first fifth-gen swap station in early August, also its 4,000th in China",
-      "title_zh": "蔚来汽车将于8月初开设首个第五代换电站，这也是其在中国的第4000个换电站",
-      "title_bilingual": "蔚来汽车将于8月初开设首个第五代换电站，这也是其在中国的第4000个换电站 / Nio to open first fifth-gen swap station in early August, also its 4,000th in China",
-      "topic_tags": [
-        "新能源",
-        "补能电池",
         "车企竞争"
       ]
     }
   ],
   "items_ai": [
     {
+      "id": "27e7330efbdd6d84f38125069a45ca4d1011af55",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "GWM sells 108,067 vehicles in July, with nearly 60% coming from overseas",
+      "url": "https://cnevpost.com/2026/08/02/gwm-sales-jul-2026",
+      "published_at": "2026-08-02T08:36:02Z",
+      "first_seen_at": "2026-08-02T09:35:36.557381Z",
+      "last_seen_at": "2026-08-02T09:35:36.557381Z",
+      "title_original": "GWM sells 108,067 vehicles in July, with nearly 60% coming from overseas",
+      "title_en": "GWM sells 108,067 vehicles in July, with nearly 60% coming from overseas",
+      "title_zh": "长城汽车7月销量108,067辆，近60%来自海外",
+      "title_bilingual": "长城汽车7月销量108,067辆，近60%来自海外 / GWM sells 108,067 vehicles in July, with nearly 60% coming from overseas",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
       "id": "c60e51548a8b8f3c94e030f578d29d4d1c8dc789",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -521,7 +520,7 @@
       "url": "http://vc.yiche.com/vplay/12364312.html",
       "published_at": null,
       "first_seen_at": "2026-08-01T19:21:45.981357Z",
-      "last_seen_at": "2026-08-02T07:30:15.089371Z",
+      "last_seen_at": "2026-08-02T09:35:36.557381Z",
       "title_original": "初晓敏：小米干增程SUV行吗？全网首验小米澎程N90和N70",
       "title_en": null,
       "title_zh": "初晓敏：小米干增程SUV行吗？全网首验小米澎程N90和N70",
@@ -540,7 +539,7 @@
       "url": "http://vc.yiche.com/vplay/12345818.html",
       "published_at": null,
       "first_seen_at": "2026-08-01T19:21:45.981357Z",
-      "last_seen_at": "2026-08-02T07:30:15.089371Z",
+      "last_seen_at": "2026-08-02T09:35:36.557381Z",
       "title_original": "逸动HEV底盘鉴赏：落地9万，这用料做工不含糊！",
       "title_en": null,
       "title_zh": "逸动HEV底盘鉴赏：落地9万，这用料做工不含糊！",
@@ -558,7 +557,7 @@
       "url": "http://vc.yiche.com/vplay/12371249.html",
       "published_at": null,
       "first_seen_at": "2026-08-01T19:21:45.981357Z",
-      "last_seen_at": "2026-08-02T07:30:15.089371Z",
+      "last_seen_at": "2026-08-02T09:35:36.557381Z",
       "title_original": "家用SUV市场要变天？小米澎程N90有什么杀手锏丨野生11",
       "title_en": null,
       "title_zh": "家用SUV市场要变天？小米澎程N90有什么杀手锏丨野生11",
@@ -578,7 +577,7 @@
       "url": "http://vc.yiche.com/vplay/12334422.html",
       "published_at": null,
       "first_seen_at": "2026-08-01T19:21:45.981357Z",
-      "last_seen_at": "2026-08-02T07:30:15.089371Z",
+      "last_seen_at": "2026-08-02T09:35:36.557381Z",
       "title_original": "车长超奔驰S级！比亚迪大汉发布，纯电续航1008km，8月首发",
       "title_en": null,
       "title_zh": "车长超奔驰S级！比亚迪大汉发布，纯电续航1008km，8月首发",
@@ -599,7 +598,7 @@
       "url": "http://vc.yiche.com/vplay/12392221.html",
       "published_at": null,
       "first_seen_at": "2026-08-01T19:21:45.981357Z",
-      "last_seen_at": "2026-08-02T07:30:15.089371Z",
+      "last_seen_at": "2026-08-02T09:35:36.557381Z",
       "title_original": "抢先体验地平线HSD 2.0辅助驾驶！前车意图理解、通行效率满分！",
       "title_en": null,
       "title_zh": "抢先体验地平线HSD 2.0辅助驾驶！前车意图理解、通行效率满分！",
@@ -618,7 +617,7 @@
       "url": "http://vc.yiche.com/vplay/12334387.html",
       "published_at": null,
       "first_seen_at": "2026-08-01T19:21:45.981357Z",
-      "last_seen_at": "2026-08-02T07:30:15.089371Z",
+      "last_seen_at": "2026-08-02T09:35:36.557381Z",
       "title_original": "快评风云T7：设计、续航能打，定价成唯一悬念？",
       "title_en": null,
       "title_zh": "快评风云T7：设计、续航能打，定价成唯一悬念？",
@@ -637,7 +636,7 @@
       "url": "http://vc.yiche.com/vplay/12344355.html",
       "published_at": null,
       "first_seen_at": "2026-08-01T19:21:45.981357Z",
-      "last_seen_at": "2026-08-02T07:30:15.089371Z",
+      "last_seen_at": "2026-08-02T09:35:36.557381Z",
       "title_original": "破纪录！星越L销量破100万 网友:除了油耗没任何缺点",
       "title_en": null,
       "title_zh": "破纪录！星越L销量破100万 网友:除了油耗没任何缺点",
@@ -655,7 +654,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/2d61b12d9a7bc6d6/115644787-1.html",
       "published_at": null,
       "first_seen_at": "2026-08-01T16:56:22.276406Z",
-      "last_seen_at": "2026-08-02T07:30:15.089371Z",
+      "last_seen_at": "2026-08-02T09:35:36.557381Z",
       "title_original": "探店实测iCAR V27 家用越野一车兼顾",
       "title_en": null,
       "title_zh": "探店实测iCAR V27 家用越野一车兼顾",
@@ -673,7 +672,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/44506375f0979b24/115663828-1.html",
       "published_at": null,
       "first_seen_at": "2026-08-01T16:56:22.276406Z",
-      "last_seen_at": "2026-08-02T07:30:15.089371Z",
+      "last_seen_at": "2026-08-02T09:35:36.557381Z",
       "title_original": "符合用车需求 蔚来ES6提车作业分享",
       "title_en": null,
       "title_zh": "符合用车需求 蔚来ES6提车作业分享",
@@ -692,7 +691,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/8cee0479b21b871f/115716987-1.html",
       "published_at": null,
       "first_seen_at": "2026-08-01T16:56:22.276406Z",
-      "last_seen_at": "2026-08-02T07:30:15.089371Z",
+      "last_seen_at": "2026-08-02T09:35:36.557381Z",
       "title_original": "越野试驾体验哈弗H5黑武士柴油版",
       "title_en": null,
       "title_zh": "越野试驾体验哈弗H5黑武士柴油版",
@@ -710,7 +709,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/29e8975611dd4674/115662181-1.html",
       "published_at": null,
       "first_seen_at": "2026-08-01T16:56:22.276406Z",
-      "last_seen_at": "2026-08-02T07:30:15.089371Z",
+      "last_seen_at": "2026-08-02T09:35:36.557381Z",
       "title_original": "标配激光雷达 风云A9试驾体验分享",
       "title_en": null,
       "title_zh": "标配激光雷达 风云A9试驾体验分享",
@@ -729,7 +728,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/25ebba2c3424c50a/115679142-1.html",
       "published_at": null,
       "first_seen_at": "2026-08-01T16:56:22.276406Z",
-      "last_seen_at": "2026-08-02T07:30:15.089371Z",
+      "last_seen_at": "2026-08-02T09:35:36.557381Z",
       "title_original": "满足我的需求 零跑B01提车作业分享",
       "title_en": null,
       "title_zh": "满足我的需求 零跑B01提车作业分享",
@@ -737,6 +736,44 @@
       "topic_tags": [
         "车企竞争",
         "购车决策"
+      ]
+    },
+    {
+      "id": "d30a3eb740a316a683fe20cbb1bc3a7f4ea93722",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-销量",
+      "title": "大众安徽7月交付2149辆，同比增长170%",
+      "url": "https://auto.gasgoo.com/news/202608/1I70468284C110.shtml",
+      "published_at": "2026-08-01T16:00:12Z",
+      "first_seen_at": "2026-08-02T09:35:36.557381Z",
+      "last_seen_at": "2026-08-02T09:35:36.557381Z",
+      "title_original": "大众安徽7月交付2149辆，同比增长170%",
+      "title_en": null,
+      "title_zh": "大众安徽7月交付2149辆，同比增长170%",
+      "title_bilingual": "大众安徽7月交付2149辆，同比增长170%",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "55f2acc2dc61629c08279daf4147fae62deb4155",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-销量",
+      "title": "理想汽车7月交付30,468辆，L6交付量即将突破40万",
+      "url": "https://auto.gasgoo.com/news/202608/1I70468283C110.shtml",
+      "published_at": "2026-08-01T15:54:43Z",
+      "first_seen_at": "2026-08-02T09:35:36.557381Z",
+      "last_seen_at": "2026-08-02T09:35:36.557381Z",
+      "title_original": "理想汽车7月交付30,468辆，L6交付量即将突破40万",
+      "title_en": null,
+      "title_zh": "理想汽车7月交付30,468辆，L6交付量即将突破40万",
+      "title_bilingual": "理想汽车7月交付30,468辆，L6交付量即将突破40万",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争"
       ]
     },
     {
@@ -748,7 +785,7 @@
       "url": "https://auto.gasgoo.com/news/202608/1I70468270C110.shtml",
       "published_at": "2026-08-01T12:28:54Z",
       "first_seen_at": "2026-08-02T04:52:26.614832Z",
-      "last_seen_at": "2026-08-02T07:30:15.089371Z",
+      "last_seen_at": "2026-08-02T09:35:36.557381Z",
       "title_original": "岚图7月交付13189辆，追光S敲定8月上市",
       "title_en": null,
       "title_zh": "岚图7月交付13189辆，追光S敲定8月上市",
@@ -767,7 +804,7 @@
       "url": "https://auto.gasgoo.com/news/202608/1I70468269C110.shtml",
       "published_at": "2026-08-01T12:11:52Z",
       "first_seen_at": "2026-08-02T04:52:26.614832Z",
-      "last_seen_at": "2026-08-02T07:30:15.089371Z",
+      "last_seen_at": "2026-08-02T09:35:36.557381Z",
       "title_original": "鸿蒙智行7月交付45046台，多车型热销",
       "title_en": null,
       "title_zh": "鸿蒙智行7月交付45046台，多车型热销",
@@ -787,7 +824,7 @@
       "url": "https://auto.gasgoo.com/news/202608/1I70468268C901.shtml",
       "published_at": "2026-08-01T12:05:39Z",
       "first_seen_at": "2026-08-02T04:52:26.614832Z",
-      "last_seen_at": "2026-08-02T07:30:15.089371Z",
+      "last_seen_at": "2026-08-02T09:35:36.557381Z",
       "title_original": "人事变动｜长安汽车执行副总裁彭陶因工作变动离任",
       "title_en": null,
       "title_zh": "人事变动｜长安汽车执行副总裁彭陶因工作变动离任",
@@ -806,7 +843,7 @@
       "url": "https://auto.gasgoo.com/news/202608/1I70468266C110.shtml",
       "published_at": "2026-08-01T12:00:39Z",
       "first_seen_at": "2026-08-02T04:52:26.614832Z",
-      "last_seen_at": "2026-08-02T07:30:15.089371Z",
+      "last_seen_at": "2026-08-02T09:35:36.557381Z",
       "title_original": "深蓝7月销量2.9万辆，海外增速亮眼",
       "title_en": null,
       "title_zh": "深蓝7月销量2.9万辆，海外增速亮眼",
@@ -824,7 +861,7 @@
       "url": "https://auto.gasgoo.com/news/202608/1I70468265C110.shtml",
       "published_at": "2026-08-01T11:54:03Z",
       "first_seen_at": "2026-08-02T04:52:26.614832Z",
-      "last_seen_at": "2026-08-02T07:30:15.089371Z",
+      "last_seen_at": "2026-08-02T09:35:36.557381Z",
       "title_original": "零跑7月交付首破10万台，全域自研支撑销量持续走高",
       "title_en": null,
       "title_zh": "零跑7月交付首破10万台，全域自研支撑销量持续走高",
@@ -843,7 +880,7 @@
       "url": "https://carnewschina.com/2026/08/01/mg-07-targets-chinas-no-1-sedan-sales-position-as-production-capacity-becomes-priority",
       "published_at": "2026-08-01T10:16:21Z",
       "first_seen_at": "2026-08-01T10:56:42.156305Z",
-      "last_seen_at": "2026-08-02T07:30:15.089371Z",
+      "last_seen_at": "2026-08-02T09:35:36.557381Z",
       "title_original": "MG 07 targets China’s No. 1 sedan sales position as production capacity becomes priority",
       "title_en": "MG 07 targets China’s No. 1 sedan sales position as production capacity becomes priority",
       "title_zh": "名爵07瞄准中国轿车销量第一 产能优先",
@@ -864,7 +901,7 @@
       "url": "https://cnevpost.com/2026/08/01/byd-jul-2026-sales",
       "published_at": "2026-08-01T10:11:05Z",
       "first_seen_at": "2026-08-01T10:56:42.156305Z",
-      "last_seen_at": "2026-08-02T07:30:15.089371Z",
+      "last_seen_at": "2026-08-02T09:35:36.557381Z",
       "title_original": "BYD July sales jump 21.8% as overseas deliveries hit fresh record",
       "title_en": "BYD July sales jump 21.8% as overseas deliveries hit fresh record",
       "title_zh": "比亚迪7月销量大增21.8% 海外交付量再创新高",
@@ -872,85 +909,6 @@
       "topic_tags": [
         "新能源",
         "销量市场",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "94494f2a561ba1f51d91960593335eb4da35323c",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Geely July sales rise 5% as exports set new record",
-      "url": "https://cnevpost.com/2026/08/01/geely-jul-2026-sales",
-      "published_at": "2026-08-01T09:33:20Z",
-      "first_seen_at": "2026-08-01T10:56:42.156305Z",
-      "last_seen_at": "2026-08-02T07:30:15.089371Z",
-      "title_original": "Geely July sales rise 5% as exports set new record",
-      "title_en": "Geely July sales rise 5% as exports set new record",
-      "title_zh": "吉利7月销量增长5% 出口创历史新高",
-      "title_bilingual": "吉利7月销量增长5% 出口创历史新高 / Geely July sales rise 5% as exports set new record",
-      "topic_tags": [
-        "新能源",
-        "销量市场",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "828520d68b1ad1f5a23c14df49403d81bcc0207a",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "懂车帝 · 文章排行榜",
-      "title": "很难想象，12万级的中国SUV卷成啥样了！",
-      "url": "https://www.dongchedi.com/article/7668691906825814590",
-      "published_at": null,
-      "first_seen_at": "2026-08-01T09:03:42.688397Z",
-      "last_seen_at": "2026-08-02T07:30:15.089371Z",
-      "title_original": "很难想象，12万级的中国SUV卷成啥样了！",
-      "title_en": null,
-      "title_zh": "很难想象，12万级的中国SUV卷成啥样了！",
-      "title_bilingual": "很难想象，12万级的中国SUV卷成啥样了！",
-      "topic_tags": [
-        "新车上市"
-      ]
-    },
-    {
-      "id": "7b41d9745171de1a81253232a35ce7729949c74a",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Chery becomes first Chinese automaker to export over 200,000 cars in a month",
-      "url": "https://cnevpost.com/2026/08/01/chery-first-chinese-automaker-export-200000-cars-a-month",
-      "published_at": "2026-08-01T08:44:33Z",
-      "first_seen_at": "2026-08-01T09:03:42.688397Z",
-      "last_seen_at": "2026-08-02T07:30:15.089371Z",
-      "title_original": "Chery becomes first Chinese automaker to export over 200,000 cars in a month",
-      "title_en": "Chery becomes first Chinese automaker to export over 200,000 cars in a month",
-      "title_zh": "奇瑞成为首家单月出口突破20万辆的中国汽车制造商",
-      "title_bilingual": "奇瑞成为首家单月出口突破20万辆的中国汽车制造商 / Chery becomes first Chinese automaker to export over 200,000 cars in a month",
-      "topic_tags": [
-        "新能源",
-        "销量市场",
-        "车企竞争",
-        "供应链"
-      ]
-    },
-    {
-      "id": "cc7898d32a0576c774aa10fdae304475c8189525",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Nio to open first fifth-gen swap station in early August, also its 4,000th in China",
-      "url": "https://cnevpost.com/2026/08/01/nio-open-first-fifth-gen-swap-station-early-aug",
-      "published_at": "2026-08-01T08:14:40Z",
-      "first_seen_at": "2026-08-01T09:03:42.688397Z",
-      "last_seen_at": "2026-08-02T07:30:15.089371Z",
-      "title_original": "Nio to open first fifth-gen swap station in early August, also its 4,000th in China",
-      "title_en": "Nio to open first fifth-gen swap station in early August, also its 4,000th in China",
-      "title_zh": "蔚来汽车将于8月初开设首个第五代换电站，这也是其在中国的第4000个换电站",
-      "title_bilingual": "蔚来汽车将于8月初开设首个第五代换电站，这也是其在中国的第4000个换电站 / Nio to open first fifth-gen swap station in early August, also its 4,000th in China",
-      "topic_tags": [
-        "新能源",
-        "补能电池",
         "车企竞争"
       ]
     }
