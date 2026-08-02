@@ -1,37 +1,39 @@
 {
-  "generated_at": "2026-08-02T04:52:26.614832Z",
+  "generated_at": "2026-08-02T07:30:15.089371Z",
   "sites": [
     {
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
       "ok": true,
       "item_count": 887,
-      "duration_ms": 9185,
+      "duration_ms": 9906,
       "error": null
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "ok": true,
-      "item_count": 3033,
-      "duration_ms": 1769,
+      "item_count": 3031,
+      "duration_ms": 1393,
       "error": null
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
-      "ok": true,
-      "item_count": 125,
-      "duration_ms": 1587,
-      "error": null
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 7249,
+      "error": "HTTPSConnectionPool(host='newsnow.busiyi.world', port=443): Max retries exceeded with url: /api/s?id=hackernews (Caused by ResponseError('too many 500 error responses'))"
     }
   ],
-  "successful_sites": 3,
-  "failed_sites": [],
+  "successful_sites": 2,
+  "failed_sites": [
+    "newsnow"
+  ],
   "zero_item_sites": [],
-  "fetched_raw_items": 4045,
-  "items_before_topic_filter": 3305,
-  "items_in_24h": 26,
+  "fetched_raw_items": 3918,
+  "items_before_topic_filter": 3248,
+  "items_in_24h": 23,
   "rss_opml": {
     "enabled": false,
     "path": null,
