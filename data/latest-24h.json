@@ -1,53 +1,57 @@
 {
-  "generated_at": "2026-08-04T00:11:08.506307Z",
+  "generated_at": "2026-08-04T03:46:47.934111Z",
   "window_hours": 24,
-  "total_items": 28,
-  "total_items_ai_raw": 35,
-  "total_items_raw": 3096,
-  "total_items_all_mode": 2739,
+  "total_items": 45,
+  "total_items_ai_raw": 56,
+  "total_items_raw": 3263,
+  "total_items_all_mode": 2880,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 74990,
+  "archive_total": 75107,
   "site_count": 3,
-  "source_count": 9,
+  "source_count": 13,
   "site_stats": [
     {
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "count": 20,
-      "raw_count": 27
+      "count": 37,
+      "raw_count": 48
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "count": 6,
-      "raw_count": 2906
+      "raw_count": 3054
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "count": 2,
-      "raw_count": 163
+      "raw_count": 161
     }
   ],
   "topic_tag_stats": [
     {
       "tag": "车企竞争",
-      "count": 19
+      "count": 25
     },
     {
       "tag": "新能源",
-      "count": 18
+      "count": 22
     },
     {
       "tag": "新车上市",
-      "count": 9
+      "count": 13
     },
     {
       "tag": "销量市场",
-      "count": 8
+      "count": 10
     },
     {
       "tag": "补能电池",
+      "count": 8
+    },
+    {
+      "tag": "供应链",
       "count": 7
     },
     {
@@ -55,15 +59,116 @@
       "count": 3
     },
     {
-      "tag": "供应链",
+      "tag": "智能驾驶",
       "count": 2
     },
     {
-      "tag": "智能驾驶",
-      "count": 2
+      "tag": "召回安全",
+      "count": 1
     }
   ],
   "items": [
+    {
+      "id": "8942b3ef165404c4613725150962e9eef655662c",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Leapmotor to launch international model A05, following the market success of A10",
+      "url": "https://carnewschina.com/2026/08/04/leapmotor-to-launch-international-model-a05-following-the-market-success-of-a10",
+      "published_at": "2026-08-04T03:28:00Z",
+      "first_seen_at": "2026-08-04T03:46:47.934111Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
+      "title_original": "Leapmotor to launch international model A05, following the market success of A10",
+      "title_en": "Leapmotor to launch international model A05, following the market success of A10",
+      "title_zh": "继A10市场成功后，零跑汽车推出国际车型A05",
+      "title_bilingual": "继A10市场成功后，零跑汽车推出国际车型A05 / Leapmotor to launch international model A05, following the market success of A10",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "9b6ee95f74e65ad80165ad9aea90c61cf1b27adf",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "The Xpeng G9L revealed interior with the widest second-row space",
+      "url": "https://carnewschina.com/2026/08/04/the-xpeng-g9l-revealed-interior-with-the-widest-second-row-space",
+      "published_at": "2026-08-04T03:21:27Z",
+      "first_seen_at": "2026-08-04T03:46:47.934111Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
+      "title_original": "The Xpeng G9L revealed interior with the widest second-row space",
+      "title_en": "The Xpeng G9L revealed interior with the widest second-row space",
+      "title_zh": "小鹏G9L内饰曝光，第二排空间最宽",
+      "title_bilingual": "小鹏G9L内饰曝光，第二排空间最宽 / The Xpeng G9L revealed interior with the widest second-row space",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "d6d3bd6b87dcb365797281fe4dcab70479749fd2",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Xpeng details G9L interior with 'first-class cabin' pitch",
+      "url": "https://cnevpost.com/2026/08/04/xpeng-details-g9l-interior",
+      "published_at": "2026-08-04T02:56:55Z",
+      "first_seen_at": "2026-08-04T03:46:47.934111Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
+      "title_original": "Xpeng details G9L interior with 'first-class cabin' pitch",
+      "title_en": "Xpeng details G9L interior with 'first-class cabin' pitch",
+      "title_zh": "小鹏汽车详细介绍G9L内饰，以“头等舱”为主题",
+      "title_bilingual": "小鹏汽车详细介绍G9L内饰，以“头等舱”为主题 / Xpeng details G9L interior with 'first-class cabin' pitch",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "ec11ac1ef8175de4e101070c58dd335bdcc6439f",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Nio's flagship ES9 SUV set to reach 20,000th delivery this week",
+      "url": "https://cnevpost.com/2026/08/04/nio-es9-to-reach-20000th-delivery-this-week",
+      "published_at": "2026-08-04T02:41:01Z",
+      "first_seen_at": "2026-08-04T03:46:47.934111Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
+      "title_original": "Nio's flagship ES9 SUV set to reach 20,000th delivery this week",
+      "title_en": "Nio's flagship ES9 SUV set to reach 20,000th delivery this week",
+      "title_zh": "蔚来旗舰SUV ES9本周交付量将达到第20,000辆",
+      "title_bilingual": "蔚来旗舰SUV ES9本周交付量将达到第20,000辆 / Nio's flagship ES9 SUV set to reach 20,000th delivery this week",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "f55b209b660a1fe99543f9e7371e24d8eb890b14",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "BYD’s Denza Z9S opens pre-sales with CLTC range up to 1,100km and flash charging",
+      "url": "https://carnewschina.com/2026/08/04/byds-denza-z9s-opens-pre-sales-with-cltc-range-up-to-1100km-and-flash-charging",
+      "published_at": "2026-08-04T00:57:06Z",
+      "first_seen_at": "2026-08-04T03:46:47.934111Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
+      "title_original": "BYD’s Denza Z9S opens pre-sales with CLTC range up to 1,100km and flash charging",
+      "title_en": "BYD’s Denza Z9S opens pre-sales with CLTC range up to 1,100km and flash charging",
+      "title_zh": "比亚迪腾势Z9S开启预售，CLTC续航里程达1100公里，支持闪充",
+      "title_bilingual": "比亚迪腾势Z9S开启预售，CLTC续航里程达1100公里，支持闪充 / BYD’s Denza Z9S opens pre-sales with CLTC range up to 1,100km and flash charging",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
     {
       "id": "7ecb91f04d6f4634a7a39eb12406fe7095642cbe",
       "site_id": "newsnow",
@@ -73,7 +178,7 @@
       "url": "https://news.ycombinator.com/item?id=49106935",
       "published_at": "2026-08-03T21:15:28.570000Z",
       "first_seen_at": "2026-08-03T21:38:43.095559Z",
-      "last_seen_at": "2026-08-04T00:11:08.506307Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
       "title_original": "Replacing the Kobo Libra H2O Battery",
       "title_en": "Replacing the Kobo Libra H2O Battery",
       "title_zh": "更换 Kobo Libra H2O 电池",
@@ -91,7 +196,7 @@
       "url": "http://vc.yiche.com/vplay/12365159.html",
       "published_at": null,
       "first_seen_at": "2026-08-03T20:09:23.793246Z",
-      "last_seen_at": "2026-08-04T00:11:08.506307Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
       "title_original": "比亚迪8系唐来了！续航850公里，价格或在唐L之上",
       "title_en": null,
       "title_zh": "比亚迪8系唐来了！续航850公里，价格或在唐L之上",
@@ -110,7 +215,7 @@
       "url": "http://vc.yiche.com/vplay/12374602.html",
       "published_at": null,
       "first_seen_at": "2026-08-03T20:09:23.793246Z",
-      "last_seen_at": "2026-08-04T00:11:08.506307Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
       "title_original": "预售21.48万起！大5座可变床车，可城可野——长城H10",
       "title_en": null,
       "title_zh": "预售21.48万起！大5座可变床车，可城可野——长城H10",
@@ -129,7 +234,7 @@
       "url": "http://vc.yiche.com/vplay/12421425.html",
       "published_at": null,
       "first_seen_at": "2026-08-03T20:09:23.793246Z",
-      "last_seen_at": "2026-08-04T00:11:08.506307Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
       "title_original": "抢先体验2027款海豹06 闪充/超混/智驾辅助全配齐",
       "title_en": null,
       "title_zh": "抢先体验2027款海豹06 闪充/超混/智驾辅助全配齐",
@@ -149,7 +254,7 @@
       "url": "http://vc.yiche.com/vplay/12345566.html",
       "published_at": null,
       "first_seen_at": "2026-08-03T20:09:23.793246Z",
-      "last_seen_at": "2026-08-04T00:11:08.506307Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
       "title_original": "6月销量提升明显 闪充+云辇空悬 26款腾势N8L放“大招”",
       "title_en": null,
       "title_zh": "6月销量提升明显 闪充+云辇空悬 26款腾势N8L放“大招”",
@@ -168,7 +273,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/debce8337c64e324/115677033-1.html",
       "published_at": null,
       "first_seen_at": "2026-08-03T18:15:22.129052Z",
-      "last_seen_at": "2026-08-04T00:11:08.506307Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
       "title_original": "红旗HS6 PHEV最真实的用车感受",
       "title_en": null,
       "title_zh": "红旗HS6 PHEV最真实的用车感受",
@@ -187,7 +292,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/c308b51c50b28d7e/115520035-1.html",
       "published_at": null,
       "first_seen_at": "2026-08-03T18:15:22.129052Z",
-      "last_seen_at": "2026-08-04T00:11:08.506307Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
       "title_original": "适合家用代步 QQ3 EV提车作业分享",
       "title_en": null,
       "title_zh": "适合家用代步 QQ3 EV提车作业分享",
@@ -206,7 +311,7 @@
       "url": "https://cnevpost.com/2026/08/03/byd-denza-opens-z9s-pre-orders",
       "published_at": "2026-08-03T13:25:06Z",
       "first_seen_at": "2026-08-03T16:00:33.591701Z",
-      "last_seen_at": "2026-08-04T00:11:08.506307Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
       "title_original": "BYD Denza opens Z9S pre-orders from $47,100 with 1,100-km range",
       "title_en": "BYD Denza opens Z9S pre-orders from $47,100 with 1,100-km range",
       "title_zh": "比亚迪腾势 Z9S 开启预订 47,100 美元起，续航里程 1,100 公里",
@@ -214,6 +319,126 @@
       "topic_tags": [
         "新能源",
         "补能电池",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "5aefd07ca50582eec83ac30fdf9725eed50c4ad0",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "车卖到海外容易，但让全球放心买中国车，难？",
+      "url": "https://auto.gasgoo.com/news/202608/3I70468416C108.shtml",
+      "published_at": "2026-08-03T11:37:30Z",
+      "first_seen_at": "2026-08-04T03:46:47.934111Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
+      "title_original": "车卖到海外容易，但让全球放心买中国车，难？",
+      "title_en": null,
+      "title_zh": "车卖到海外容易，但让全球放心买中国车，难？",
+      "title_bilingual": "车卖到海外容易，但让全球放心买中国车，难？",
+      "topic_tags": []
+    },
+    {
+      "id": "ca0c634efedc43d059c9bf7a94d58455f8971e1d",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-供应链",
+      "title": "走进安道拓丨共探汽车座椅与智能座舱产业创新方向",
+      "url": "https://auto.gasgoo.com/news/202608/3I70468415C106.shtml",
+      "published_at": "2026-08-03T11:20:58Z",
+      "first_seen_at": "2026-08-04T03:46:47.934111Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
+      "title_original": "走进安道拓丨共探汽车座椅与智能座舱产业创新方向",
+      "title_en": null,
+      "title_zh": "走进安道拓丨共探汽车座椅与智能座舱产业创新方向",
+      "title_bilingual": "走进安道拓丨共探汽车座椅与智能座舱产业创新方向",
+      "topic_tags": [
+        "供应链"
+      ]
+    },
+    {
+      "id": "6baa93756edfef8368c0cc245521e44129c9a904",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新技术",
+      "title": "东丽开发出树脂阳极集流体薄膜",
+      "url": "https://auto.gasgoo.com/news/202608/3I70468414C409.shtml",
+      "published_at": "2026-08-03T11:08:54Z",
+      "first_seen_at": "2026-08-04T03:46:47.934111Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
+      "title_original": "东丽开发出树脂阳极集流体薄膜",
+      "title_en": null,
+      "title_zh": "东丽开发出树脂阳极集流体薄膜",
+      "title_bilingual": "东丽开发出树脂阳极集流体薄膜",
+      "topic_tags": []
+    },
+    {
+      "id": "7873f7709c791332b23944467a074ca4b50ac6cd",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新技术",
+      "title": "英飞凌推出面向软件定义汽车的车用电子保险丝",
+      "url": "https://auto.gasgoo.com/news/202608/3I70468413C409.shtml",
+      "published_at": "2026-08-03T11:07:06Z",
+      "first_seen_at": "2026-08-04T03:46:47.934111Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
+      "title_original": "英飞凌推出面向软件定义汽车的车用电子保险丝",
+      "title_en": null,
+      "title_zh": "英飞凌推出面向软件定义汽车的车用电子保险丝",
+      "title_bilingual": "英飞凌推出面向软件定义汽车的车用电子保险丝",
+      "topic_tags": []
+    },
+    {
+      "id": "b19cc3fa1888cd1976837d2e6d2c27fef3223bdf",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新技术",
+      "title": "采埃孚发布针对卡车和挂车的360度安全理念",
+      "url": "https://auto.gasgoo.com/news/202608/3I70468409C409.shtml",
+      "published_at": "2026-08-03T11:01:35Z",
+      "first_seen_at": "2026-08-04T03:46:47.934111Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
+      "title_original": "采埃孚发布针对卡车和挂车的360度安全理念",
+      "title_en": null,
+      "title_zh": "采埃孚发布针对卡车和挂车的360度安全理念",
+      "title_bilingual": "采埃孚发布针对卡车和挂车的360度安全理念",
+      "topic_tags": [
+        "召回安全",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "4cee55f53263ff7d1e1055f868d697d5f5a99a7c",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新技术",
+      "title": "LG将抬头显示与虚拟驾驶舱屏幕合二为一",
+      "url": "https://auto.gasgoo.com/news/202608/3I70468408C409.shtml",
+      "published_at": "2026-08-03T10:57:39Z",
+      "first_seen_at": "2026-08-04T03:46:47.934111Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
+      "title_original": "LG将抬头显示与虚拟驾驶舱屏幕合二为一",
+      "title_en": null,
+      "title_zh": "LG将抬头显示与虚拟驾驶舱屏幕合二为一",
+      "title_bilingual": "LG将抬头显示与虚拟驾驶舱屏幕合二为一",
+      "topic_tags": []
+    },
+    {
+      "id": "084c323418160996f13ab2cc4c824b4617075ba7",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-销量",
+      "title": "长城淡季销量小幅回暖，海外持续爆发",
+      "url": "https://auto.gasgoo.com/news/202608/3I70468431C110.shtml",
+      "published_at": "2026-08-03T10:45:37Z",
+      "first_seen_at": "2026-08-04T03:46:47.934111Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
+      "title_original": "长城淡季销量小幅回暖，海外持续爆发",
+      "title_en": null,
+      "title_zh": "长城淡季销量小幅回暖，海外持续爆发",
+      "title_bilingual": "长城淡季销量小幅回暖，海外持续爆发",
+      "topic_tags": [
+        "销量市场",
         "车企竞争"
       ]
     },
@@ -226,7 +451,7 @@
       "url": "https://cnevpost.com/2026/08/03/leapmotor-launch-a05-aug-10",
       "published_at": "2026-08-03T10:29:22Z",
       "first_seen_at": "2026-08-03T13:23:49.578707Z",
-      "last_seen_at": "2026-08-04T00:11:08.506307Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
       "title_original": "Leapmotor to launch A05 compact EV on August 10",
       "title_en": "Leapmotor to launch A05 compact EV on August 10",
       "title_zh": "零跑汽车A05紧凑型电动汽车将于8月10日上市",
@@ -235,6 +460,80 @@
         "新能源",
         "车企竞争",
         "新车上市"
+      ]
+    },
+    {
+      "id": "bb45c33137c5a0ede0921427efd14ab0df21d832",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新能源",
+      "title": "【国际快讯】奇瑞拟向韩国车企KG Mobility投资7,500万美元；美监管机构对120万辆特斯拉车辆启动调查；比亚迪7月海外销量大增124%",
+      "url": "https://auto.gasgoo.com/news/202608/3I70468407C501.shtml",
+      "published_at": "2026-08-03T10:28:26Z",
+      "first_seen_at": "2026-08-04T03:46:47.934111Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
+      "title_original": "【国际快讯】奇瑞拟向韩国车企KG Mobility投资7,500万美元；美监管机构对120万辆特斯拉车辆启动调查；比亚迪7月海外销量大增124%",
+      "title_en": null,
+      "title_zh": "【国际快讯】奇瑞拟向韩国车企KG Mobility投资7,500万美元；美监管机构对120万辆特斯拉车辆启动调查；比亚迪7月海外销量大增124%",
+      "title_bilingual": "【国际快讯】奇瑞拟向韩国车企KG Mobility投资7,500万美元；美监管机构对120万辆特斯拉车辆启动调查；比亚迪7月海外销量大增124%",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "f0d93960c04a7730b591fb5cff6935fbd181c104",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-供应链",
+      "title": "国轩高科上半年净利预增超227%",
+      "url": "https://auto.gasgoo.com/news/202608/3I70468406C501.shtml",
+      "published_at": "2026-08-03T10:10:17Z",
+      "first_seen_at": "2026-08-04T03:46:47.934111Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
+      "title_original": "国轩高科上半年净利预增超227%",
+      "title_en": null,
+      "title_zh": "国轩高科上半年净利预增超227%",
+      "title_bilingual": "国轩高科上半年净利预增超227%",
+      "topic_tags": [
+        "供应链"
+      ]
+    },
+    {
+      "id": "36aa9aa01d289a90117c73da9f0bf0ca3ec23ad1",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "谷歌发布新一代机器人基础模型，搭配Sharpa灵巧手完成高难度任务",
+      "url": "https://auto.gasgoo.com/news/202608/3I70468405C601.shtml",
+      "published_at": "2026-08-03T10:09:00Z",
+      "first_seen_at": "2026-08-04T03:46:47.934111Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
+      "title_original": "谷歌发布新一代机器人基础模型，搭配Sharpa灵巧手完成高难度任务",
+      "title_en": null,
+      "title_zh": "谷歌发布新一代机器人基础模型，搭配Sharpa灵巧手完成高难度任务",
+      "title_bilingual": "谷歌发布新一代机器人基础模型，搭配Sharpa灵巧手完成高难度任务",
+      "topic_tags": [
+        "新车上市"
+      ]
+    },
+    {
+      "id": "d0c8550c92c1228d48dd8f215c852d3ac3cacb05",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-供应链",
+      "title": "赣锋锂业上半年预计扭亏为盈，净利润最高或达46亿元",
+      "url": "https://auto.gasgoo.com/news/202608/3I70468403C501.shtml",
+      "published_at": "2026-08-03T10:02:39Z",
+      "first_seen_at": "2026-08-04T03:46:47.934111Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
+      "title_original": "赣锋锂业上半年预计扭亏为盈，净利润最高或达46亿元",
+      "title_en": null,
+      "title_zh": "赣锋锂业上半年预计扭亏为盈，净利润最高或达46亿元",
+      "title_bilingual": "赣锋锂业上半年预计扭亏为盈，净利润最高或达46亿元",
+      "topic_tags": [
+        "供应链"
       ]
     },
     {
@@ -256,6 +555,42 @@
       ]
     },
     {
+      "id": "872b5374cb1c8c71f3f02c13c7bbe644a469c3bf",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-供应链",
+      "title": "伊士曼第二季度销售收入达25.13亿美元",
+      "url": "https://auto.gasgoo.com/news/202608/3I70468401C103.shtml",
+      "published_at": "2026-08-03T09:41:11Z",
+      "first_seen_at": "2026-08-04T03:46:47.934111Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
+      "title_original": "伊士曼第二季度销售收入达25.13亿美元",
+      "title_en": null,
+      "title_zh": "伊士曼第二季度销售收入达25.13亿美元",
+      "title_bilingual": "伊士曼第二季度销售收入达25.13亿美元",
+      "topic_tags": [
+        "供应链"
+      ]
+    },
+    {
+      "id": "0728baf8aac5444d8286be3f78ce917b352a9fb8",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-供应链",
+      "title": "彼欧上半年净利润1.02亿欧元",
+      "url": "https://auto.gasgoo.com/news/202608/3I70468400C103.shtml",
+      "published_at": "2026-08-03T09:29:29Z",
+      "first_seen_at": "2026-08-04T03:46:47.934111Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
+      "title_original": "彼欧上半年净利润1.02亿欧元",
+      "title_en": null,
+      "title_zh": "彼欧上半年净利润1.02亿欧元",
+      "title_bilingual": "彼欧上半年净利润1.02亿欧元",
+      "topic_tags": [
+        "供应链"
+      ]
+    },
+    {
       "id": "a7d15c504ceefb37ae13819c25e9560b6be66b3c",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -264,11 +599,49 @@
       "url": "https://carnewschina.com/2026/08/03/jetta-m6-electric-sedan-from-faw-volkswagen-revealed-in-china",
       "published_at": "2026-08-03T09:27:37Z",
       "first_seen_at": "2026-08-03T10:11:28.288482Z",
-      "last_seen_at": "2026-08-04T00:11:08.506307Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
       "title_original": "Jetta M6 electric sedan from FAW-Volkswagen revealed in China",
       "title_en": "Jetta M6 electric sedan from FAW-Volkswagen revealed in China",
       "title_zh": "一汽大众捷达M6电动轿车在中国发布",
       "title_bilingual": "一汽大众捷达M6电动轿车在中国发布 / Jetta M6 electric sedan from FAW-Volkswagen revealed in China",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "53974f6f2a5df94e7d191041d9816047edd16588",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "大发在印尼累计产量突破900万辆",
+      "url": "https://auto.gasgoo.com/news/202608/3I70468392C109.shtml",
+      "published_at": "2026-08-03T09:24:35Z",
+      "first_seen_at": "2026-08-04T03:46:47.934111Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
+      "title_original": "大发在印尼累计产量突破900万辆",
+      "title_en": null,
+      "title_zh": "大发在印尼累计产量突破900万辆",
+      "title_bilingual": "大发在印尼累计产量突破900万辆",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "d4294ef66d7dec4851cccd25c94729406828b277",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "起亚决定在墨西哥生产EV3电动车型",
+      "url": "https://auto.gasgoo.com/news/202608/3I70468396C109.shtml",
+      "published_at": "2026-08-03T09:24:08Z",
+      "first_seen_at": "2026-08-04T03:46:47.934111Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
+      "title_original": "起亚决定在墨西哥生产EV3电动车型",
+      "title_en": null,
+      "title_zh": "起亚决定在墨西哥生产EV3电动车型",
+      "title_bilingual": "起亚决定在墨西哥生产EV3电动车型",
       "topic_tags": [
         "新能源",
         "车企竞争",
@@ -284,7 +657,7 @@
       "url": "https://cnevpost.com/2026/08/03/li-auto-launches-new-l9-uzbekistan",
       "published_at": "2026-08-03T09:08:30Z",
       "first_seen_at": "2026-08-03T10:11:28.288482Z",
-      "last_seen_at": "2026-08-04T00:11:08.506307Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
       "title_original": "Li Auto launches all-new L9 in Uzbekistan, deepening Central Asia push",
       "title_en": "Li Auto launches all-new L9 in Uzbekistan, deepening Central Asia push",
       "title_zh": "理想汽车全新L9在乌兹别克斯坦上市 深耕中亚",
@@ -304,7 +677,7 @@
       "url": "https://cnevpost.com/2026/08/03/chery-to-invest-in-south-korea-kgm",
       "published_at": "2026-08-03T07:58:32Z",
       "first_seen_at": "2026-08-03T10:11:28.288482Z",
-      "last_seen_at": "2026-08-04T00:11:08.506307Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
       "title_original": "Chery to invest $75 million in South Korea's KG Mobility, eyeing global capacity sharing",
       "title_en": "Chery to invest $75 million in South Korea's KG Mobility, eyeing global capacity sharing",
       "title_zh": "奇瑞拟投资7500万美元韩国KG Mobility 着眼全球产能共享",
@@ -324,7 +697,7 @@
       "url": "https://auto.gasgoo.com/news/202608/3I70468369C601.shtml",
       "published_at": "2026-08-03T07:30:02Z",
       "first_seen_at": "2026-08-04T00:11:08.506307Z",
-      "last_seen_at": "2026-08-04T00:11:08.506307Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
       "title_original": "武汉经开区成立首个低空产业孵化平台",
       "title_en": null,
       "title_zh": "武汉经开区成立首个低空产业孵化平台",
@@ -340,7 +713,7 @@
       "url": "https://auto.gasgoo.com/news/202608/3I70468368C501.shtml",
       "published_at": "2026-08-03T07:29:14Z",
       "first_seen_at": "2026-08-04T00:11:08.506307Z",
-      "last_seen_at": "2026-08-04T00:11:08.506307Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
       "title_original": "吉利汽车7月销量突破25万辆，新能源渗透率达64%",
       "title_en": null,
       "title_zh": "吉利汽车7月销量突破25万辆，新能源渗透率达64%",
@@ -360,7 +733,7 @@
       "url": "https://auto.gasgoo.com/news/202608/3I70468367C501.shtml",
       "published_at": "2026-08-03T07:23:13Z",
       "first_seen_at": "2026-08-04T00:11:08.506307Z",
-      "last_seen_at": "2026-08-04T00:11:08.506307Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
       "title_original": "上汽通用五菱7月全球销量破12万辆",
       "title_en": null,
       "title_zh": "上汽通用五菱7月全球销量破12万辆",
@@ -378,7 +751,7 @@
       "url": "https://auto.gasgoo.com/news/202608/3I70468370C110.shtml",
       "published_at": "2026-08-03T07:10:51Z",
       "first_seen_at": "2026-08-04T00:11:08.506307Z",
-      "last_seen_at": "2026-08-04T00:11:08.506307Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
       "title_original": "长安汽车7月交付新车20.71万辆，海外交付连续6月大涨",
       "title_en": null,
       "title_zh": "长安汽车7月交付新车20.71万辆，海外交付连续6月大涨",
@@ -398,7 +771,7 @@
       "url": "https://auto.gasgoo.com/news/202608/3I70468344C110.shtml",
       "published_at": "2026-08-03T07:00:06Z",
       "first_seen_at": "2026-08-04T00:11:08.506307Z",
-      "last_seen_at": "2026-08-04T00:11:08.506307Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
       "title_original": "【盖世快讯】零跑7月交付首破10万台；吉利汽车集团成立销售总公司",
       "title_en": null,
       "title_zh": "【盖世快讯】零跑7月交付首破10万台；吉利汽车集团成立销售总公司",
@@ -417,7 +790,7 @@
       "url": "https://auto.gasgoo.com/news/202608/3I70468165C109.shtml",
       "published_at": "2026-08-03T07:00:00Z",
       "first_seen_at": "2026-08-04T00:11:08.506307Z",
-      "last_seen_at": "2026-08-04T00:11:08.506307Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
       "title_original": "30万级大七座增程，谁在背后撑场？小米澎程N90 Max核心零部件配套供应商一览",
       "title_en": null,
       "title_zh": "30万级大七座增程，谁在背后撑场？小米澎程N90 Max核心零部件配套供应商一览",
@@ -437,7 +810,7 @@
       "url": "https://cnevpost.com/2026/08/03/weride-enters-denmark",
       "published_at": "2026-08-03T06:46:29Z",
       "first_seen_at": "2026-08-03T10:11:28.288482Z",
-      "last_seen_at": "2026-08-04T00:11:08.506307Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
       "title_original": "WeRide enters Denmark as first Chinese robotaxi company in Nordic region",
       "title_en": "WeRide enters Denmark as first Chinese robotaxi company in Nordic region",
       "title_zh": "文远知行进军丹麦，成为北欧地区第一家中国机器人出租车公司",
@@ -456,7 +829,7 @@
       "url": "https://cnevpost.com/2026/08/03/vw-jetta-previews-m6-electric-sedan",
       "published_at": "2026-08-03T06:13:07Z",
       "first_seen_at": "2026-08-03T06:19:53.702502Z",
-      "last_seen_at": "2026-08-04T00:11:08.506307Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
       "title_original": "VW's Jetta brand previews M6 electric sedan as electrification push begins",
       "title_en": "VW's Jetta brand previews M6 electric sedan as electrification push begins",
       "title_zh": "随着电气化进程的开始，大众捷达品牌预览了 M6 电动轿车",
@@ -476,7 +849,7 @@
       "url": "https://carnewschina.com/2026/08/03/nio-4000th-battery-swap-station-launches-aug-7-in-china-5th-gen-now-supporting-firefly",
       "published_at": "2026-08-03T04:29:12Z",
       "first_seen_at": "2026-08-03T06:19:53.702502Z",
-      "last_seen_at": "2026-08-04T00:11:08.506307Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
       "title_original": "Nio 4,000th battery swap station launches Aug 7 in China, 5th-gen now supporting Firefly",
       "title_en": "Nio 4,000th battery swap station launches Aug 7 in China, 5th-gen now supporting Firefly",
       "title_zh": "蔚来第 4000 个电池更换站 8 月 7 日在中国启动，第五代电池现已支持 Firefly",
@@ -496,7 +869,7 @@
       "url": "https://cnevpost.com/2026/08/03/nio-first-fifth-gen-swap-station-go-live-aug-7",
       "published_at": "2026-08-03T04:22:11Z",
       "first_seen_at": "2026-08-03T06:19:53.702502Z",
-      "last_seen_at": "2026-08-04T00:11:08.506307Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
       "title_original": "Nio's first fifth-gen swap station to go live on August 7, supporting Firefly for first time",
       "title_en": "Nio's first fifth-gen swap station to go live on August 7, supporting Firefly for first time",
       "title_zh": "蔚来首个五代换电站8月7日上线，首次支持Firefly",
@@ -516,7 +889,7 @@
       "url": "https://cnevpost.com/2026/08/03/nio-brand-jul-2026-average-transaction-price",
       "published_at": "2026-08-03T04:02:15Z",
       "first_seen_at": "2026-08-03T06:19:53.702502Z",
-      "last_seen_at": "2026-08-04T00:11:08.506307Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
       "title_original": "Nio brand's July average transaction price hits $64,010 as ES8, ES9 anchor premium push",
       "title_en": "Nio brand's July average transaction price hits $64,010 as ES8, ES9 anchor premium push",
       "title_zh": "ES8、ES9主力溢价推升 蔚来品牌7月均价达64010美元",
@@ -535,74 +908,13 @@
       "url": "https://carnewschina.com/2026/08/03/xpeng-g9l-five-seat-suv-revealed-in-china-as-a-global-model",
       "published_at": "2026-08-03T03:59:23Z",
       "first_seen_at": "2026-08-03T06:19:53.702502Z",
-      "last_seen_at": "2026-08-04T00:11:08.506307Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
       "title_original": "Xpeng G9L five-seat SUV revealed in China as a global model",
       "title_en": "Xpeng G9L five-seat SUV revealed in China as a global model",
       "title_zh": "小鹏G9L五座SUV在中国作为全球车型亮相",
       "title_bilingual": "小鹏G9L五座SUV在中国作为全球车型亮相 / Xpeng G9L five-seat SUV revealed in China as a global model",
       "topic_tags": [
         "新能源",
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "40dbc285be1d3fcef4376da551f920b898e5a4ab",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "China EV global sales in July 2026: Leapmotor reaches 100k milestone, sold more NEVs than Changan",
-      "url": "https://carnewschina.com/2026/08/03/china-ev-global-sales-in-july-2026-leapmotor-reaches-100k-milestone-sold-more-nevs-than-changan",
-      "published_at": "2026-08-03T03:14:49Z",
-      "first_seen_at": "2026-08-03T06:19:53.702502Z",
-      "last_seen_at": "2026-08-04T00:11:08.506307Z",
-      "title_original": "China EV global sales in July 2026: Leapmotor reaches 100k milestone, sold more NEVs than Changan",
-      "title_en": "China EV global sales in July 2026: Leapmotor reaches 100k milestone, sold more NEVs than Changan",
-      "title_zh": "2026年7月中国电动汽车全球销量：零跑突破10万辆 新能源汽车销量超过长安",
-      "title_bilingual": "2026年7月中国电动汽车全球销量：零跑突破10万辆 新能源汽车销量超过长安 / China EV global sales in July 2026: Leapmotor reaches 100k milestone, sold more NEVs than Changan",
-      "topic_tags": [
-        "新能源",
-        "销量市场",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "c5973299b4e14f4c6a5b79a7ca2a1a36bb48db69",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "BYD Fang Cheng Bao teases Tai 9 as full-size boxy SUV nears debut",
-      "url": "https://cnevpost.com/2026/08/03/byd-fang-cheng-bao-teases-tai-9",
-      "published_at": "2026-08-03T03:09:50Z",
-      "first_seen_at": "2026-08-03T06:19:53.702502Z",
-      "last_seen_at": "2026-08-04T00:11:08.506307Z",
-      "title_original": "BYD Fang Cheng Bao teases Tai 9 as full-size boxy SUV nears debut",
-      "title_en": "BYD Fang Cheng Bao teases Tai 9 as full-size boxy SUV nears debut",
-      "title_zh": "比亚迪方成宝预告太9全尺寸四四方方SUV即将亮相",
-      "title_bilingual": "比亚迪方成宝预告太9全尺寸四四方方SUV即将亮相 / BYD Fang Cheng Bao teases Tai 9 as full-size boxy SUV nears debut",
-      "topic_tags": [
-        "新能源",
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "8cc2d3081468110f76d7d87df987730c3539108f",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Xpeng teases G9L SUV, targeting global market",
-      "url": "https://cnevpost.com/2026/08/03/xpeng-teases-g9l",
-      "published_at": "2026-08-03T02:12:37Z",
-      "first_seen_at": "2026-08-03T02:48:08.663237Z",
-      "last_seen_at": "2026-08-04T00:11:08.506307Z",
-      "title_original": "Xpeng teases G9L SUV, targeting global market",
-      "title_en": "Xpeng teases G9L SUV, targeting global market",
-      "title_zh": "小鹏汽车预告G9L SUV，瞄准全球市场",
-      "title_bilingual": "小鹏汽车预告G9L SUV，瞄准全球市场 / Xpeng teases G9L SUV, targeting global market",
-      "topic_tags": [
-        "新能源",
-        "销量市场",
         "车企竞争",
         "新车上市"
       ]
@@ -610,6 +922,107 @@
   ],
   "items_ai": [
     {
+      "id": "8942b3ef165404c4613725150962e9eef655662c",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Leapmotor to launch international model A05, following the market success of A10",
+      "url": "https://carnewschina.com/2026/08/04/leapmotor-to-launch-international-model-a05-following-the-market-success-of-a10",
+      "published_at": "2026-08-04T03:28:00Z",
+      "first_seen_at": "2026-08-04T03:46:47.934111Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
+      "title_original": "Leapmotor to launch international model A05, following the market success of A10",
+      "title_en": "Leapmotor to launch international model A05, following the market success of A10",
+      "title_zh": "继A10市场成功后，零跑汽车推出国际车型A05",
+      "title_bilingual": "继A10市场成功后，零跑汽车推出国际车型A05 / Leapmotor to launch international model A05, following the market success of A10",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "9b6ee95f74e65ad80165ad9aea90c61cf1b27adf",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "The Xpeng G9L revealed interior with the widest second-row space",
+      "url": "https://carnewschina.com/2026/08/04/the-xpeng-g9l-revealed-interior-with-the-widest-second-row-space",
+      "published_at": "2026-08-04T03:21:27Z",
+      "first_seen_at": "2026-08-04T03:46:47.934111Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
+      "title_original": "The Xpeng G9L revealed interior with the widest second-row space",
+      "title_en": "The Xpeng G9L revealed interior with the widest second-row space",
+      "title_zh": "小鹏G9L内饰曝光，第二排空间最宽",
+      "title_bilingual": "小鹏G9L内饰曝光，第二排空间最宽 / The Xpeng G9L revealed interior with the widest second-row space",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "d6d3bd6b87dcb365797281fe4dcab70479749fd2",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Xpeng details G9L interior with 'first-class cabin' pitch",
+      "url": "https://cnevpost.com/2026/08/04/xpeng-details-g9l-interior",
+      "published_at": "2026-08-04T02:56:55Z",
+      "first_seen_at": "2026-08-04T03:46:47.934111Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
+      "title_original": "Xpeng details G9L interior with 'first-class cabin' pitch",
+      "title_en": "Xpeng details G9L interior with 'first-class cabin' pitch",
+      "title_zh": "小鹏汽车详细介绍G9L内饰，以“头等舱”为主题",
+      "title_bilingual": "小鹏汽车详细介绍G9L内饰，以“头等舱”为主题 / Xpeng details G9L interior with 'first-class cabin' pitch",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "ec11ac1ef8175de4e101070c58dd335bdcc6439f",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Nio's flagship ES9 SUV set to reach 20,000th delivery this week",
+      "url": "https://cnevpost.com/2026/08/04/nio-es9-to-reach-20000th-delivery-this-week",
+      "published_at": "2026-08-04T02:41:01Z",
+      "first_seen_at": "2026-08-04T03:46:47.934111Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
+      "title_original": "Nio's flagship ES9 SUV set to reach 20,000th delivery this week",
+      "title_en": "Nio's flagship ES9 SUV set to reach 20,000th delivery this week",
+      "title_zh": "蔚来旗舰SUV ES9本周交付量将达到第20,000辆",
+      "title_bilingual": "蔚来旗舰SUV ES9本周交付量将达到第20,000辆 / Nio's flagship ES9 SUV set to reach 20,000th delivery this week",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "f55b209b660a1fe99543f9e7371e24d8eb890b14",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "BYD’s Denza Z9S opens pre-sales with CLTC range up to 1,100km and flash charging",
+      "url": "https://carnewschina.com/2026/08/04/byds-denza-z9s-opens-pre-sales-with-cltc-range-up-to-1100km-and-flash-charging",
+      "published_at": "2026-08-04T00:57:06Z",
+      "first_seen_at": "2026-08-04T03:46:47.934111Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
+      "title_original": "BYD’s Denza Z9S opens pre-sales with CLTC range up to 1,100km and flash charging",
+      "title_en": "BYD’s Denza Z9S opens pre-sales with CLTC range up to 1,100km and flash charging",
+      "title_zh": "比亚迪腾势Z9S开启预售，CLTC续航里程达1100公里，支持闪充",
+      "title_bilingual": "比亚迪腾势Z9S开启预售，CLTC续航里程达1100公里，支持闪充 / BYD’s Denza Z9S opens pre-sales with CLTC range up to 1,100km and flash charging",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
       "id": "7ecb91f04d6f4634a7a39eb12406fe7095642cbe",
       "site_id": "newsnow",
       "site_name": "NewsNow",
@@ -618,7 +1031,7 @@
       "url": "https://news.ycombinator.com/item?id=49106935",
       "published_at": "2026-08-03T21:15:28.570000Z",
       "first_seen_at": "2026-08-03T21:38:43.095559Z",
-      "last_seen_at": "2026-08-04T00:11:08.506307Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
       "title_original": "Replacing the Kobo Libra H2O Battery",
       "title_en": "Replacing the Kobo Libra H2O Battery",
       "title_zh": "更换 Kobo Libra H2O 电池",
@@ -636,7 +1049,7 @@
       "url": "http://vc.yiche.com/vplay/12365159.html",
       "published_at": null,
       "first_seen_at": "2026-08-03T20:09:23.793246Z",
-      "last_seen_at": "2026-08-04T00:11:08.506307Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
       "title_original": "比亚迪8系唐来了！续航850公里，价格或在唐L之上",
       "title_en": null,
       "title_zh": "比亚迪8系唐来了！续航850公里，价格或在唐L之上",
@@ -655,7 +1068,7 @@
       "url": "http://vc.yiche.com/vplay/12374602.html",
       "published_at": null,
       "first_seen_at": "2026-08-03T20:09:23.793246Z",
-      "last_seen_at": "2026-08-04T00:11:08.506307Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
       "title_original": "预售21.48万起！大5座可变床车，可城可野——长城H10",
       "title_en": null,
       "title_zh": "预售21.48万起！大5座可变床车，可城可野——长城H10",
@@ -674,7 +1087,7 @@
       "url": "http://vc.yiche.com/vplay/12421425.html",
       "published_at": null,
       "first_seen_at": "2026-08-03T20:09:23.793246Z",
-      "last_seen_at": "2026-08-04T00:11:08.506307Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
       "title_original": "抢先体验2027款海豹06 闪充/超混/智驾辅助全配齐",
       "title_en": null,
       "title_zh": "抢先体验2027款海豹06 闪充/超混/智驾辅助全配齐",
@@ -694,7 +1107,7 @@
       "url": "http://vc.yiche.com/vplay/12345566.html",
       "published_at": null,
       "first_seen_at": "2026-08-03T20:09:23.793246Z",
-      "last_seen_at": "2026-08-04T00:11:08.506307Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
       "title_original": "6月销量提升明显 闪充+云辇空悬 26款腾势N8L放“大招”",
       "title_en": null,
       "title_zh": "6月销量提升明显 闪充+云辇空悬 26款腾势N8L放“大招”",
@@ -713,7 +1126,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/debce8337c64e324/115677033-1.html",
       "published_at": null,
       "first_seen_at": "2026-08-03T18:15:22.129052Z",
-      "last_seen_at": "2026-08-04T00:11:08.506307Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
       "title_original": "红旗HS6 PHEV最真实的用车感受",
       "title_en": null,
       "title_zh": "红旗HS6 PHEV最真实的用车感受",
@@ -732,7 +1145,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/c308b51c50b28d7e/115520035-1.html",
       "published_at": null,
       "first_seen_at": "2026-08-03T18:15:22.129052Z",
-      "last_seen_at": "2026-08-04T00:11:08.506307Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
       "title_original": "适合家用代步 QQ3 EV提车作业分享",
       "title_en": null,
       "title_zh": "适合家用代步 QQ3 EV提车作业分享",
@@ -751,7 +1164,7 @@
       "url": "https://cnevpost.com/2026/08/03/byd-denza-opens-z9s-pre-orders",
       "published_at": "2026-08-03T13:25:06Z",
       "first_seen_at": "2026-08-03T16:00:33.591701Z",
-      "last_seen_at": "2026-08-04T00:11:08.506307Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
       "title_original": "BYD Denza opens Z9S pre-orders from $47,100 with 1,100-km range",
       "title_en": "BYD Denza opens Z9S pre-orders from $47,100 with 1,100-km range",
       "title_zh": "比亚迪腾势 Z9S 开启预订 47,100 美元起，续航里程 1,100 公里",
@@ -759,6 +1172,126 @@
       "topic_tags": [
         "新能源",
         "补能电池",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "5aefd07ca50582eec83ac30fdf9725eed50c4ad0",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "车卖到海外容易，但让全球放心买中国车，难？",
+      "url": "https://auto.gasgoo.com/news/202608/3I70468416C108.shtml",
+      "published_at": "2026-08-03T11:37:30Z",
+      "first_seen_at": "2026-08-04T03:46:47.934111Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
+      "title_original": "车卖到海外容易，但让全球放心买中国车，难？",
+      "title_en": null,
+      "title_zh": "车卖到海外容易，但让全球放心买中国车，难？",
+      "title_bilingual": "车卖到海外容易，但让全球放心买中国车，难？",
+      "topic_tags": []
+    },
+    {
+      "id": "ca0c634efedc43d059c9bf7a94d58455f8971e1d",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-供应链",
+      "title": "走进安道拓丨共探汽车座椅与智能座舱产业创新方向",
+      "url": "https://auto.gasgoo.com/news/202608/3I70468415C106.shtml",
+      "published_at": "2026-08-03T11:20:58Z",
+      "first_seen_at": "2026-08-04T03:46:47.934111Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
+      "title_original": "走进安道拓丨共探汽车座椅与智能座舱产业创新方向",
+      "title_en": null,
+      "title_zh": "走进安道拓丨共探汽车座椅与智能座舱产业创新方向",
+      "title_bilingual": "走进安道拓丨共探汽车座椅与智能座舱产业创新方向",
+      "topic_tags": [
+        "供应链"
+      ]
+    },
+    {
+      "id": "6baa93756edfef8368c0cc245521e44129c9a904",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新技术",
+      "title": "东丽开发出树脂阳极集流体薄膜",
+      "url": "https://auto.gasgoo.com/news/202608/3I70468414C409.shtml",
+      "published_at": "2026-08-03T11:08:54Z",
+      "first_seen_at": "2026-08-04T03:46:47.934111Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
+      "title_original": "东丽开发出树脂阳极集流体薄膜",
+      "title_en": null,
+      "title_zh": "东丽开发出树脂阳极集流体薄膜",
+      "title_bilingual": "东丽开发出树脂阳极集流体薄膜",
+      "topic_tags": []
+    },
+    {
+      "id": "7873f7709c791332b23944467a074ca4b50ac6cd",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新技术",
+      "title": "英飞凌推出面向软件定义汽车的车用电子保险丝",
+      "url": "https://auto.gasgoo.com/news/202608/3I70468413C409.shtml",
+      "published_at": "2026-08-03T11:07:06Z",
+      "first_seen_at": "2026-08-04T03:46:47.934111Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
+      "title_original": "英飞凌推出面向软件定义汽车的车用电子保险丝",
+      "title_en": null,
+      "title_zh": "英飞凌推出面向软件定义汽车的车用电子保险丝",
+      "title_bilingual": "英飞凌推出面向软件定义汽车的车用电子保险丝",
+      "topic_tags": []
+    },
+    {
+      "id": "b19cc3fa1888cd1976837d2e6d2c27fef3223bdf",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新技术",
+      "title": "采埃孚发布针对卡车和挂车的360度安全理念",
+      "url": "https://auto.gasgoo.com/news/202608/3I70468409C409.shtml",
+      "published_at": "2026-08-03T11:01:35Z",
+      "first_seen_at": "2026-08-04T03:46:47.934111Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
+      "title_original": "采埃孚发布针对卡车和挂车的360度安全理念",
+      "title_en": null,
+      "title_zh": "采埃孚发布针对卡车和挂车的360度安全理念",
+      "title_bilingual": "采埃孚发布针对卡车和挂车的360度安全理念",
+      "topic_tags": [
+        "召回安全",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "4cee55f53263ff7d1e1055f868d697d5f5a99a7c",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新技术",
+      "title": "LG将抬头显示与虚拟驾驶舱屏幕合二为一",
+      "url": "https://auto.gasgoo.com/news/202608/3I70468408C409.shtml",
+      "published_at": "2026-08-03T10:57:39Z",
+      "first_seen_at": "2026-08-04T03:46:47.934111Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
+      "title_original": "LG将抬头显示与虚拟驾驶舱屏幕合二为一",
+      "title_en": null,
+      "title_zh": "LG将抬头显示与虚拟驾驶舱屏幕合二为一",
+      "title_bilingual": "LG将抬头显示与虚拟驾驶舱屏幕合二为一",
+      "topic_tags": []
+    },
+    {
+      "id": "084c323418160996f13ab2cc4c824b4617075ba7",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-销量",
+      "title": "长城淡季销量小幅回暖，海外持续爆发",
+      "url": "https://auto.gasgoo.com/news/202608/3I70468431C110.shtml",
+      "published_at": "2026-08-03T10:45:37Z",
+      "first_seen_at": "2026-08-04T03:46:47.934111Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
+      "title_original": "长城淡季销量小幅回暖，海外持续爆发",
+      "title_en": null,
+      "title_zh": "长城淡季销量小幅回暖，海外持续爆发",
+      "title_bilingual": "长城淡季销量小幅回暖，海外持续爆发",
+      "topic_tags": [
+        "销量市场",
         "车企竞争"
       ]
     },
@@ -771,7 +1304,7 @@
       "url": "https://cnevpost.com/2026/08/03/leapmotor-launch-a05-aug-10",
       "published_at": "2026-08-03T10:29:22Z",
       "first_seen_at": "2026-08-03T13:23:49.578707Z",
-      "last_seen_at": "2026-08-04T00:11:08.506307Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
       "title_original": "Leapmotor to launch A05 compact EV on August 10",
       "title_en": "Leapmotor to launch A05 compact EV on August 10",
       "title_zh": "零跑汽车A05紧凑型电动汽车将于8月10日上市",
@@ -780,6 +1313,80 @@
         "新能源",
         "车企竞争",
         "新车上市"
+      ]
+    },
+    {
+      "id": "bb45c33137c5a0ede0921427efd14ab0df21d832",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新能源",
+      "title": "【国际快讯】奇瑞拟向韩国车企KG Mobility投资7,500万美元；美监管机构对120万辆特斯拉车辆启动调查；比亚迪7月海外销量大增124%",
+      "url": "https://auto.gasgoo.com/news/202608/3I70468407C501.shtml",
+      "published_at": "2026-08-03T10:28:26Z",
+      "first_seen_at": "2026-08-04T03:46:47.934111Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
+      "title_original": "【国际快讯】奇瑞拟向韩国车企KG Mobility投资7,500万美元；美监管机构对120万辆特斯拉车辆启动调查；比亚迪7月海外销量大增124%",
+      "title_en": null,
+      "title_zh": "【国际快讯】奇瑞拟向韩国车企KG Mobility投资7,500万美元；美监管机构对120万辆特斯拉车辆启动调查；比亚迪7月海外销量大增124%",
+      "title_bilingual": "【国际快讯】奇瑞拟向韩国车企KG Mobility投资7,500万美元；美监管机构对120万辆特斯拉车辆启动调查；比亚迪7月海外销量大增124%",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "f0d93960c04a7730b591fb5cff6935fbd181c104",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-供应链",
+      "title": "国轩高科上半年净利预增超227%",
+      "url": "https://auto.gasgoo.com/news/202608/3I70468406C501.shtml",
+      "published_at": "2026-08-03T10:10:17Z",
+      "first_seen_at": "2026-08-04T03:46:47.934111Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
+      "title_original": "国轩高科上半年净利预增超227%",
+      "title_en": null,
+      "title_zh": "国轩高科上半年净利预增超227%",
+      "title_bilingual": "国轩高科上半年净利预增超227%",
+      "topic_tags": [
+        "供应链"
+      ]
+    },
+    {
+      "id": "36aa9aa01d289a90117c73da9f0bf0ca3ec23ad1",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "谷歌发布新一代机器人基础模型，搭配Sharpa灵巧手完成高难度任务",
+      "url": "https://auto.gasgoo.com/news/202608/3I70468405C601.shtml",
+      "published_at": "2026-08-03T10:09:00Z",
+      "first_seen_at": "2026-08-04T03:46:47.934111Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
+      "title_original": "谷歌发布新一代机器人基础模型，搭配Sharpa灵巧手完成高难度任务",
+      "title_en": null,
+      "title_zh": "谷歌发布新一代机器人基础模型，搭配Sharpa灵巧手完成高难度任务",
+      "title_bilingual": "谷歌发布新一代机器人基础模型，搭配Sharpa灵巧手完成高难度任务",
+      "topic_tags": [
+        "新车上市"
+      ]
+    },
+    {
+      "id": "d0c8550c92c1228d48dd8f215c852d3ac3cacb05",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-供应链",
+      "title": "赣锋锂业上半年预计扭亏为盈，净利润最高或达46亿元",
+      "url": "https://auto.gasgoo.com/news/202608/3I70468403C501.shtml",
+      "published_at": "2026-08-03T10:02:39Z",
+      "first_seen_at": "2026-08-04T03:46:47.934111Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
+      "title_original": "赣锋锂业上半年预计扭亏为盈，净利润最高或达46亿元",
+      "title_en": null,
+      "title_zh": "赣锋锂业上半年预计扭亏为盈，净利润最高或达46亿元",
+      "title_bilingual": "赣锋锂业上半年预计扭亏为盈，净利润最高或达46亿元",
+      "topic_tags": [
+        "供应链"
       ]
     },
     {
@@ -801,6 +1408,42 @@
       ]
     },
     {
+      "id": "872b5374cb1c8c71f3f02c13c7bbe644a469c3bf",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-供应链",
+      "title": "伊士曼第二季度销售收入达25.13亿美元",
+      "url": "https://auto.gasgoo.com/news/202608/3I70468401C103.shtml",
+      "published_at": "2026-08-03T09:41:11Z",
+      "first_seen_at": "2026-08-04T03:46:47.934111Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
+      "title_original": "伊士曼第二季度销售收入达25.13亿美元",
+      "title_en": null,
+      "title_zh": "伊士曼第二季度销售收入达25.13亿美元",
+      "title_bilingual": "伊士曼第二季度销售收入达25.13亿美元",
+      "topic_tags": [
+        "供应链"
+      ]
+    },
+    {
+      "id": "0728baf8aac5444d8286be3f78ce917b352a9fb8",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-供应链",
+      "title": "彼欧上半年净利润1.02亿欧元",
+      "url": "https://auto.gasgoo.com/news/202608/3I70468400C103.shtml",
+      "published_at": "2026-08-03T09:29:29Z",
+      "first_seen_at": "2026-08-04T03:46:47.934111Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
+      "title_original": "彼欧上半年净利润1.02亿欧元",
+      "title_en": null,
+      "title_zh": "彼欧上半年净利润1.02亿欧元",
+      "title_bilingual": "彼欧上半年净利润1.02亿欧元",
+      "topic_tags": [
+        "供应链"
+      ]
+    },
+    {
       "id": "a7d15c504ceefb37ae13819c25e9560b6be66b3c",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -809,11 +1452,49 @@
       "url": "https://carnewschina.com/2026/08/03/jetta-m6-electric-sedan-from-faw-volkswagen-revealed-in-china",
       "published_at": "2026-08-03T09:27:37Z",
       "first_seen_at": "2026-08-03T10:11:28.288482Z",
-      "last_seen_at": "2026-08-04T00:11:08.506307Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
       "title_original": "Jetta M6 electric sedan from FAW-Volkswagen revealed in China",
       "title_en": "Jetta M6 electric sedan from FAW-Volkswagen revealed in China",
       "title_zh": "一汽大众捷达M6电动轿车在中国发布",
       "title_bilingual": "一汽大众捷达M6电动轿车在中国发布 / Jetta M6 electric sedan from FAW-Volkswagen revealed in China",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "53974f6f2a5df94e7d191041d9816047edd16588",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "大发在印尼累计产量突破900万辆",
+      "url": "https://auto.gasgoo.com/news/202608/3I70468392C109.shtml",
+      "published_at": "2026-08-03T09:24:35Z",
+      "first_seen_at": "2026-08-04T03:46:47.934111Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
+      "title_original": "大发在印尼累计产量突破900万辆",
+      "title_en": null,
+      "title_zh": "大发在印尼累计产量突破900万辆",
+      "title_bilingual": "大发在印尼累计产量突破900万辆",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "d4294ef66d7dec4851cccd25c94729406828b277",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "起亚决定在墨西哥生产EV3电动车型",
+      "url": "https://auto.gasgoo.com/news/202608/3I70468396C109.shtml",
+      "published_at": "2026-08-03T09:24:08Z",
+      "first_seen_at": "2026-08-04T03:46:47.934111Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
+      "title_original": "起亚决定在墨西哥生产EV3电动车型",
+      "title_en": null,
+      "title_zh": "起亚决定在墨西哥生产EV3电动车型",
+      "title_bilingual": "起亚决定在墨西哥生产EV3电动车型",
       "topic_tags": [
         "新能源",
         "车企竞争",
@@ -829,7 +1510,7 @@
       "url": "https://cnevpost.com/2026/08/03/li-auto-launches-new-l9-uzbekistan",
       "published_at": "2026-08-03T09:08:30Z",
       "first_seen_at": "2026-08-03T10:11:28.288482Z",
-      "last_seen_at": "2026-08-04T00:11:08.506307Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
       "title_original": "Li Auto launches all-new L9 in Uzbekistan, deepening Central Asia push",
       "title_en": "Li Auto launches all-new L9 in Uzbekistan, deepening Central Asia push",
       "title_zh": "理想汽车全新L9在乌兹别克斯坦上市 深耕中亚",
@@ -849,7 +1530,7 @@
       "url": "https://cnevpost.com/2026/08/03/chery-to-invest-in-south-korea-kgm",
       "published_at": "2026-08-03T07:58:32Z",
       "first_seen_at": "2026-08-03T10:11:28.288482Z",
-      "last_seen_at": "2026-08-04T00:11:08.506307Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
       "title_original": "Chery to invest $75 million in South Korea's KG Mobility, eyeing global capacity sharing",
       "title_en": "Chery to invest $75 million in South Korea's KG Mobility, eyeing global capacity sharing",
       "title_zh": "奇瑞拟投资7500万美元韩国KG Mobility 着眼全球产能共享",
@@ -869,7 +1550,7 @@
       "url": "https://auto.gasgoo.com/news/202608/3I70468369C601.shtml",
       "published_at": "2026-08-03T07:30:02Z",
       "first_seen_at": "2026-08-04T00:11:08.506307Z",
-      "last_seen_at": "2026-08-04T00:11:08.506307Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
       "title_original": "武汉经开区成立首个低空产业孵化平台",
       "title_en": null,
       "title_zh": "武汉经开区成立首个低空产业孵化平台",
@@ -885,7 +1566,7 @@
       "url": "https://auto.gasgoo.com/news/202608/3I70468368C501.shtml",
       "published_at": "2026-08-03T07:29:14Z",
       "first_seen_at": "2026-08-04T00:11:08.506307Z",
-      "last_seen_at": "2026-08-04T00:11:08.506307Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
       "title_original": "吉利汽车7月销量突破25万辆，新能源渗透率达64%",
       "title_en": null,
       "title_zh": "吉利汽车7月销量突破25万辆，新能源渗透率达64%",
@@ -905,7 +1586,7 @@
       "url": "https://auto.gasgoo.com/news/202608/3I70468367C501.shtml",
       "published_at": "2026-08-03T07:23:13Z",
       "first_seen_at": "2026-08-04T00:11:08.506307Z",
-      "last_seen_at": "2026-08-04T00:11:08.506307Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
       "title_original": "上汽通用五菱7月全球销量破12万辆",
       "title_en": null,
       "title_zh": "上汽通用五菱7月全球销量破12万辆",
@@ -923,7 +1604,7 @@
       "url": "https://auto.gasgoo.com/news/202608/3I70468370C110.shtml",
       "published_at": "2026-08-03T07:10:51Z",
       "first_seen_at": "2026-08-04T00:11:08.506307Z",
-      "last_seen_at": "2026-08-04T00:11:08.506307Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
       "title_original": "长安汽车7月交付新车20.71万辆，海外交付连续6月大涨",
       "title_en": null,
       "title_zh": "长安汽车7月交付新车20.71万辆，海外交付连续6月大涨",
@@ -943,7 +1624,7 @@
       "url": "https://auto.gasgoo.com/news/202608/3I70468344C110.shtml",
       "published_at": "2026-08-03T07:00:06Z",
       "first_seen_at": "2026-08-04T00:11:08.506307Z",
-      "last_seen_at": "2026-08-04T00:11:08.506307Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
       "title_original": "【盖世快讯】零跑7月交付首破10万台；吉利汽车集团成立销售总公司",
       "title_en": null,
       "title_zh": "【盖世快讯】零跑7月交付首破10万台；吉利汽车集团成立销售总公司",
@@ -962,7 +1643,7 @@
       "url": "https://auto.gasgoo.com/news/202608/3I70468165C109.shtml",
       "published_at": "2026-08-03T07:00:00Z",
       "first_seen_at": "2026-08-04T00:11:08.506307Z",
-      "last_seen_at": "2026-08-04T00:11:08.506307Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
       "title_original": "30万级大七座增程，谁在背后撑场？小米澎程N90 Max核心零部件配套供应商一览",
       "title_en": null,
       "title_zh": "30万级大七座增程，谁在背后撑场？小米澎程N90 Max核心零部件配套供应商一览",
@@ -982,7 +1663,7 @@
       "url": "https://cnevpost.com/2026/08/03/weride-enters-denmark",
       "published_at": "2026-08-03T06:46:29Z",
       "first_seen_at": "2026-08-03T10:11:28.288482Z",
-      "last_seen_at": "2026-08-04T00:11:08.506307Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
       "title_original": "WeRide enters Denmark as first Chinese robotaxi company in Nordic region",
       "title_en": "WeRide enters Denmark as first Chinese robotaxi company in Nordic region",
       "title_zh": "文远知行进军丹麦，成为北欧地区第一家中国机器人出租车公司",
@@ -1001,7 +1682,7 @@
       "url": "https://cnevpost.com/2026/08/03/vw-jetta-previews-m6-electric-sedan",
       "published_at": "2026-08-03T06:13:07Z",
       "first_seen_at": "2026-08-03T06:19:53.702502Z",
-      "last_seen_at": "2026-08-04T00:11:08.506307Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
       "title_original": "VW's Jetta brand previews M6 electric sedan as electrification push begins",
       "title_en": "VW's Jetta brand previews M6 electric sedan as electrification push begins",
       "title_zh": "随着电气化进程的开始，大众捷达品牌预览了 M6 电动轿车",
@@ -1021,7 +1702,7 @@
       "url": "https://carnewschina.com/2026/08/03/nio-4000th-battery-swap-station-launches-aug-7-in-china-5th-gen-now-supporting-firefly",
       "published_at": "2026-08-03T04:29:12Z",
       "first_seen_at": "2026-08-03T06:19:53.702502Z",
-      "last_seen_at": "2026-08-04T00:11:08.506307Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
       "title_original": "Nio 4,000th battery swap station launches Aug 7 in China, 5th-gen now supporting Firefly",
       "title_en": "Nio 4,000th battery swap station launches Aug 7 in China, 5th-gen now supporting Firefly",
       "title_zh": "蔚来第 4000 个电池更换站 8 月 7 日在中国启动，第五代电池现已支持 Firefly",
@@ -1041,7 +1722,7 @@
       "url": "https://cnevpost.com/2026/08/03/nio-first-fifth-gen-swap-station-go-live-aug-7",
       "published_at": "2026-08-03T04:22:11Z",
       "first_seen_at": "2026-08-03T06:19:53.702502Z",
-      "last_seen_at": "2026-08-04T00:11:08.506307Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
       "title_original": "Nio's first fifth-gen swap station to go live on August 7, supporting Firefly for first time",
       "title_en": "Nio's first fifth-gen swap station to go live on August 7, supporting Firefly for first time",
       "title_zh": "蔚来首个五代换电站8月7日上线，首次支持Firefly",
@@ -1061,7 +1742,7 @@
       "url": "https://cnevpost.com/2026/08/03/nio-brand-jul-2026-average-transaction-price",
       "published_at": "2026-08-03T04:02:15Z",
       "first_seen_at": "2026-08-03T06:19:53.702502Z",
-      "last_seen_at": "2026-08-04T00:11:08.506307Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
       "title_original": "Nio brand's July average transaction price hits $64,010 as ES8, ES9 anchor premium push",
       "title_en": "Nio brand's July average transaction price hits $64,010 as ES8, ES9 anchor premium push",
       "title_zh": "ES8、ES9主力溢价推升 蔚来品牌7月均价达64010美元",
@@ -1080,74 +1761,13 @@
       "url": "https://carnewschina.com/2026/08/03/xpeng-g9l-five-seat-suv-revealed-in-china-as-a-global-model",
       "published_at": "2026-08-03T03:59:23Z",
       "first_seen_at": "2026-08-03T06:19:53.702502Z",
-      "last_seen_at": "2026-08-04T00:11:08.506307Z",
+      "last_seen_at": "2026-08-04T03:46:47.934111Z",
       "title_original": "Xpeng G9L five-seat SUV revealed in China as a global model",
       "title_en": "Xpeng G9L five-seat SUV revealed in China as a global model",
       "title_zh": "小鹏G9L五座SUV在中国作为全球车型亮相",
       "title_bilingual": "小鹏G9L五座SUV在中国作为全球车型亮相 / Xpeng G9L five-seat SUV revealed in China as a global model",
       "topic_tags": [
         "新能源",
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "40dbc285be1d3fcef4376da551f920b898e5a4ab",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "China EV global sales in July 2026: Leapmotor reaches 100k milestone, sold more NEVs than Changan",
-      "url": "https://carnewschina.com/2026/08/03/china-ev-global-sales-in-july-2026-leapmotor-reaches-100k-milestone-sold-more-nevs-than-changan",
-      "published_at": "2026-08-03T03:14:49Z",
-      "first_seen_at": "2026-08-03T06:19:53.702502Z",
-      "last_seen_at": "2026-08-04T00:11:08.506307Z",
-      "title_original": "China EV global sales in July 2026: Leapmotor reaches 100k milestone, sold more NEVs than Changan",
-      "title_en": "China EV global sales in July 2026: Leapmotor reaches 100k milestone, sold more NEVs than Changan",
-      "title_zh": "2026年7月中国电动汽车全球销量：零跑突破10万辆 新能源汽车销量超过长安",
-      "title_bilingual": "2026年7月中国电动汽车全球销量：零跑突破10万辆 新能源汽车销量超过长安 / China EV global sales in July 2026: Leapmotor reaches 100k milestone, sold more NEVs than Changan",
-      "topic_tags": [
-        "新能源",
-        "销量市场",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "c5973299b4e14f4c6a5b79a7ca2a1a36bb48db69",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "BYD Fang Cheng Bao teases Tai 9 as full-size boxy SUV nears debut",
-      "url": "https://cnevpost.com/2026/08/03/byd-fang-cheng-bao-teases-tai-9",
-      "published_at": "2026-08-03T03:09:50Z",
-      "first_seen_at": "2026-08-03T06:19:53.702502Z",
-      "last_seen_at": "2026-08-04T00:11:08.506307Z",
-      "title_original": "BYD Fang Cheng Bao teases Tai 9 as full-size boxy SUV nears debut",
-      "title_en": "BYD Fang Cheng Bao teases Tai 9 as full-size boxy SUV nears debut",
-      "title_zh": "比亚迪方成宝预告太9全尺寸四四方方SUV即将亮相",
-      "title_bilingual": "比亚迪方成宝预告太9全尺寸四四方方SUV即将亮相 / BYD Fang Cheng Bao teases Tai 9 as full-size boxy SUV nears debut",
-      "topic_tags": [
-        "新能源",
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "8cc2d3081468110f76d7d87df987730c3539108f",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Xpeng teases G9L SUV, targeting global market",
-      "url": "https://cnevpost.com/2026/08/03/xpeng-teases-g9l",
-      "published_at": "2026-08-03T02:12:37Z",
-      "first_seen_at": "2026-08-03T02:48:08.663237Z",
-      "last_seen_at": "2026-08-04T00:11:08.506307Z",
-      "title_original": "Xpeng teases G9L SUV, targeting global market",
-      "title_en": "Xpeng teases G9L SUV, targeting global market",
-      "title_zh": "小鹏汽车预告G9L SUV，瞄准全球市场",
-      "title_bilingual": "小鹏汽车预告G9L SUV，瞄准全球市场 / Xpeng teases G9L SUV, targeting global market",
-      "topic_tags": [
-        "新能源",
-        "销量市场",
         "车企竞争",
         "新车上市"
       ]
