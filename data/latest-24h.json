@@ -1,57 +1,57 @@
 {
-  "generated_at": "2026-08-10T04:12:35.272137Z",
+  "generated_at": "2026-08-10T05:54:15.581746Z",
   "window_hours": 24,
-  "total_items": 20,
-  "total_items_ai_raw": 22,
-  "total_items_raw": 3958,
-  "total_items_all_mode": 3567,
+  "total_items": 21,
+  "total_items_ai_raw": 23,
+  "total_items_raw": 3809,
+  "total_items_all_mode": 3426,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 73339,
+  "archive_total": 73135,
   "site_count": 3,
-  "source_count": 7,
+  "source_count": 6,
   "site_stats": [
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "count": 12,
-      "raw_count": 3719
+      "raw_count": 3569
     },
     {
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "count": 6,
-      "raw_count": 8
+      "count": 8,
+      "raw_count": 10
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
-      "count": 2,
-      "raw_count": 231
+      "count": 1,
+      "raw_count": 230
     }
   ],
   "topic_tag_stats": [
     {
       "tag": "车企竞争",
-      "count": 15
+      "count": 17
+    },
+    {
+      "tag": "新能源",
+      "count": 9
     },
     {
       "tag": "购车决策",
       "count": 8
     },
     {
-      "tag": "新能源",
-      "count": 7
-    },
-    {
       "tag": "新车上市",
       "count": 5
     },
     {
-      "tag": "智能驾驶",
-      "count": 3
+      "tag": "补能电池",
+      "count": 5
     },
     {
-      "tag": "补能电池",
+      "tag": "智能驾驶",
       "count": 3
     },
     {
@@ -65,13 +65,49 @@
     {
       "tag": "价格战",
       "count": 1
-    },
-    {
-      "tag": "销量市场",
-      "count": 1
     }
   ],
   "items": [
+    {
+      "id": "c7ce11433a6b96cf3297dc49a9f72b1c6fd2feeb",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Chinese regulator accuses blogger of false product evaluations amid BYD Blade Battery 2.0 dispute",
+      "url": "https://carnewschina.com/2026/08/10/china-names-blogger-in-national-enforcement-case-over-byd-blade-battery-2-0-dispute",
+      "published_at": "2026-08-10T05:15:30Z",
+      "first_seen_at": "2026-08-10T05:54:15.581746Z",
+      "last_seen_at": "2026-08-10T05:54:15.581746Z",
+      "title_original": "Chinese regulator accuses blogger of false product evaluations amid BYD Blade Battery 2.0 dispute",
+      "title_en": "Chinese regulator accuses blogger of false product evaluations amid BYD Blade Battery 2.0 dispute",
+      "title_zh": "中国监管机构指控博主在比亚迪刀片电池2.0纠纷中虚假产品评价",
+      "title_bilingual": "中国监管机构指控博主在比亚迪刀片电池2.0纠纷中虚假产品评价 / Chinese regulator accuses blogger of false product evaluations amid BYD Blade Battery 2.0 dispute",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "043459beaebcc47bc0b8b24f48382adb2e429ed8",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "CATL joins BYD in targeting 2027 solid-state battery trial production",
+      "url": "https://carnewschina.com/2026/08/10/catl-joins-byd-in-targeting-2027-solid-state-battery-trial-production",
+      "published_at": "2026-08-10T05:13:32Z",
+      "first_seen_at": "2026-08-10T05:54:15.581746Z",
+      "last_seen_at": "2026-08-10T05:54:15.581746Z",
+      "title_original": "CATL joins BYD in targeting 2027 solid-state battery trial production",
+      "title_en": "CATL joins BYD in targeting 2027 solid-state battery trial production",
+      "title_zh": "宁德时代携手比亚迪瞄准2027年固态电池试产",
+      "title_bilingual": "宁德时代携手比亚迪瞄准2027年固态电池试产 / CATL joins BYD in targeting 2027 solid-state battery trial production",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争"
+      ]
+    },
     {
       "id": "2220358f60f179a1197a908e8917c8751fd2fbcc",
       "site_id": "official_auto",
@@ -81,7 +117,7 @@
       "url": "https://carnewschina.com/2026/08/10/zeekr-released-statement-on-the-7x-suv-firing-at-the-charging-station",
       "published_at": "2026-08-10T03:21:57Z",
       "first_seen_at": "2026-08-10T04:12:35.272137Z",
-      "last_seen_at": "2026-08-10T04:12:35.272137Z",
+      "last_seen_at": "2026-08-10T05:54:15.581746Z",
       "title_original": "Zeekr released statement on the 7X SUV firing at the charging station",
       "title_en": "Zeekr released statement on the 7X SUV firing at the charging station",
       "title_zh": "Zeekr就7X SUV在充电站起火事件发表声明",
@@ -103,7 +139,7 @@
       "url": "https://cnevpost.com/2026/08/10/leapmotor-a05-debut-pushed-aug-11-typhoon",
       "published_at": "2026-08-10T01:58:30Z",
       "first_seen_at": "2026-08-10T02:26:03.861833Z",
-      "last_seen_at": "2026-08-10T04:12:35.272137Z",
+      "last_seen_at": "2026-08-10T05:54:15.581746Z",
       "title_original": "Leapmotor A05 launch pushed to August 11 after typhoon disruption",
       "title_en": "Leapmotor A05 launch pushed to August 11 after typhoon disruption",
       "title_zh": "零跑A05上市受台风影响推迟至8月11日",
@@ -123,7 +159,7 @@
       "url": "https://cnevpost.com/2026/08/10/xpeng-g9l-debut-pre-sales-aug-11",
       "published_at": "2026-08-10T01:22:12Z",
       "first_seen_at": "2026-08-10T02:26:03.861833Z",
-      "last_seen_at": "2026-08-10T04:12:35.272137Z",
+      "last_seen_at": "2026-08-10T05:54:15.581746Z",
       "title_original": "Xpeng G9L to make debut, start pre-sales on August 11",
       "title_en": "Xpeng G9L to make debut, start pre-sales on August 11",
       "title_zh": "小鹏G9L首发 8月11日开启预售",
@@ -143,7 +179,7 @@
       "url": "http://vc.yiche.com/vplay/12511844.html",
       "published_at": null,
       "first_seen_at": "2026-08-09T20:28:20.130787Z",
-      "last_seen_at": "2026-08-10T04:12:35.272137Z",
+      "last_seen_at": "2026-08-10T05:54:15.581746Z",
       "title_original": "2.0T油电混动，燃油可选激光雷达，吉利星越L PLUS申报",
       "title_en": null,
       "title_zh": "2.0T油电混动，燃油可选激光雷达，吉利星越L PLUS申报",
@@ -164,7 +200,7 @@
       "url": "http://vc.yiche.com/vplay/12420501.html",
       "published_at": null,
       "first_seen_at": "2026-08-09T20:28:20.130787Z",
-      "last_seen_at": "2026-08-10T04:12:35.272137Z",
+      "last_seen_at": "2026-08-10T05:54:15.581746Z",
       "title_original": "比亚迪海狮08，家用/商务都hold住！定什么价格合适？",
       "title_en": null,
       "title_zh": "比亚迪海狮08，家用/商务都hold住！定什么价格合适？",
@@ -183,7 +219,7 @@
       "url": "http://vc.yiche.com/vplay/12480701.html",
       "published_at": null,
       "first_seen_at": "2026-08-09T20:28:20.130787Z",
-      "last_seen_at": "2026-08-10T04:12:35.272137Z",
+      "last_seen_at": "2026-08-10T05:54:15.581746Z",
       "title_original": "面子里子都有，比亚迪“最狠9系”来了",
       "title_en": null,
       "title_zh": "面子里子都有，比亚迪“最狠9系”来了",
@@ -201,7 +237,7 @@
       "url": "https://carnewschina.com/2026/08/09/here-is-a-list-of-china-made-evs-volkswagen-may-bring-to-europe-next-year",
       "published_at": "2026-08-09T19:02:37Z",
       "first_seen_at": "2026-08-09T19:30:35.437398Z",
-      "last_seen_at": "2026-08-10T04:12:35.272137Z",
+      "last_seen_at": "2026-08-10T05:54:15.581746Z",
       "title_original": "Here is a list of China-made EVs Volkswagen may bring to Europe next year",
       "title_en": "Here is a list of China-made EVs Volkswagen may bring to Europe next year",
       "title_zh": "以下是大众汽车明年可能引入欧洲的中国制造电动汽车清单",
@@ -239,7 +275,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/ac1b32fc416c6437/115688419-1.html",
       "published_at": null,
       "first_seen_at": "2026-08-09T16:44:02.362256Z",
-      "last_seen_at": "2026-08-10T04:12:35.272137Z",
+      "last_seen_at": "2026-08-10T05:54:15.581746Z",
       "title_original": "智驾很满意 海豹06提车作业分享",
       "title_en": null,
       "title_zh": "智驾很满意 海豹06提车作业分享",
@@ -258,7 +294,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/100e71f380d9a097/115709960-1.html",
       "published_at": null,
       "first_seen_at": "2026-08-09T16:44:02.362256Z",
-      "last_seen_at": "2026-08-10T04:12:35.272137Z",
+      "last_seen_at": "2026-08-10T05:54:15.581746Z",
       "title_original": "颜值比较高 小鹏MONA L03提车分享",
       "title_en": null,
       "title_zh": "颜值比较高 小鹏MONA L03提车分享",
@@ -277,7 +313,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/798fc3d3ca530c7e/115683144-1.html",
       "published_at": null,
       "first_seen_at": "2026-08-09T16:44:02.362256Z",
-      "last_seen_at": "2026-08-10T04:12:35.272137Z",
+      "last_seen_at": "2026-08-10T05:54:15.581746Z",
       "title_original": "舒适性很高 极氪8X提车作业分享",
       "title_en": null,
       "title_zh": "舒适性很高 极氪8X提车作业分享",
@@ -296,7 +332,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/27924d0863db24a8/115680302-1.html",
       "published_at": null,
       "first_seen_at": "2026-08-09T16:44:02.362256Z",
-      "last_seen_at": "2026-08-10T04:12:35.272137Z",
+      "last_seen_at": "2026-08-10T05:54:15.581746Z",
       "title_original": "适合城市代步 零跑A10提车作业分享",
       "title_en": null,
       "title_zh": "适合城市代步 零跑A10提车作业分享",
@@ -315,7 +351,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/f886ea4dd4105aa0/115671547-1.html",
       "published_at": null,
       "first_seen_at": "2026-08-09T16:44:02.362256Z",
-      "last_seen_at": "2026-08-10T04:12:35.272137Z",
+      "last_seen_at": "2026-08-10T05:54:15.581746Z",
       "title_original": "配置拉满 长安启源A06提车作业分享",
       "title_en": null,
       "title_zh": "配置拉满 长安启源A06提车作业分享",
@@ -334,7 +370,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/fe776ec1d908866a/115794735-1.html",
       "published_at": null,
       "first_seen_at": "2026-08-09T16:44:02.362256Z",
-      "last_seen_at": "2026-08-10T04:12:35.272137Z",
+      "last_seen_at": "2026-08-10T05:54:15.581746Z",
       "title_original": "性价比不错 极氪001提车作业分享",
       "title_en": null,
       "title_zh": "性价比不错 极氪001提车作业分享",
@@ -354,7 +390,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/6c84339cbc6a3e3c/115533394-1.html",
       "published_at": null,
       "first_seen_at": "2026-08-09T16:44:02.362256Z",
-      "last_seen_at": "2026-08-10T04:12:35.272137Z",
+      "last_seen_at": "2026-08-10T05:54:15.581746Z",
       "title_original": "实测吉利星越L智擎混动全维度分享",
       "title_en": null,
       "title_zh": "实测吉利星越L智擎混动全维度分享",
@@ -373,7 +409,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/c85c4c30b0a73bda/115327498-1.html",
       "published_at": null,
       "first_seen_at": "2026-08-09T16:44:02.362256Z",
-      "last_seen_at": "2026-08-10T04:12:35.272137Z",
+      "last_seen_at": "2026-08-10T05:54:15.581746Z",
       "title_original": "大众初代途锐旗舰SUV历史上篇讲解",
       "title_en": null,
       "title_zh": "大众初代途锐旗舰SUV历史上篇讲解",
@@ -392,7 +428,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/84078a4e4349addc/115669493-1.html",
       "published_at": null,
       "first_seen_at": "2026-08-09T16:44:02.362256Z",
-      "last_seen_at": "2026-08-10T04:12:35.272137Z",
+      "last_seen_at": "2026-08-10T05:54:15.581746Z",
       "title_original": "家用很合适 长安启源Q05提车分享",
       "title_en": null,
       "title_zh": "家用很合适 长安启源Q05提车分享",
@@ -411,7 +447,7 @@
       "url": "https://cnevpost.com/2026/08/09/catl-aviation-battery-clears-key-safety-test",
       "published_at": "2026-08-09T10:41:06Z",
       "first_seen_at": "2026-08-09T11:25:44.607830Z",
-      "last_seen_at": "2026-08-10T04:12:35.272137Z",
+      "last_seen_at": "2026-08-10T05:54:15.581746Z",
       "title_original": "CATL aviation battery clears key safety test, paving way for use in eVTOLs",
       "title_en": "CATL aviation battery clears key safety test, paving way for use in eVTOLs",
       "title_zh": "CATL航空电池通过关键安全测试，为电动垂直起降飞行器的使用铺平道路",
@@ -431,7 +467,7 @@
       "url": "https://auto.gasgoo.com/news/202608/9I70469022C108.shtml",
       "published_at": "2026-08-09T07:01:27Z",
       "first_seen_at": "2026-08-09T23:59:46.556104Z",
-      "last_seen_at": "2026-08-10T04:12:35.272137Z",
+      "last_seen_at": "2026-08-10T05:54:15.581746Z",
       "title_original": "盖世周报 | 上汽与通用合资公司续约20年；自动驾驶“国标”来了",
       "title_en": null,
       "title_zh": "盖世周报 | 上汽与通用合资公司续约20年；自动驾驶“国标”来了",
@@ -439,29 +475,51 @@
       "topic_tags": [
         "智能驾驶",
         "供应链"
-      ]
-    },
-    {
-      "id": "b70fa6989cd60c2c0c2ffc4b399b4f3978a41f80",
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "juejin",
-      "title": "开放权重不是唯一控制权：Kimi K3、Tencent Hy3 与 ByteDance Seed 的九项交付比较",
-      "url": "https://juejin.cn/post/7670011027535986738",
-      "published_at": "2026-08-09T04:45:55.732000Z",
-      "first_seen_at": "2026-08-09T04:45:43.507598Z",
-      "last_seen_at": "2026-08-09T09:36:06.585286Z",
-      "title_original": "开放权重不是唯一控制权：Kimi K3、Tencent Hy3 与 ByteDance Seed 的九项交付比较",
-      "title_en": null,
-      "title_zh": "开放权重不是唯一控制权：Kimi K3、Tencent Hy3 与 ByteDance Seed 的九项交付比较",
-      "title_bilingual": "开放权重不是唯一控制权：Kimi K3、Tencent Hy3 与 ByteDance Seed 的九项交付比较",
-      "topic_tags": [
-        "销量市场"
       ]
     }
   ],
   "items_ai": [
     {
+      "id": "c7ce11433a6b96cf3297dc49a9f72b1c6fd2feeb",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Chinese regulator accuses blogger of false product evaluations amid BYD Blade Battery 2.0 dispute",
+      "url": "https://carnewschina.com/2026/08/10/china-names-blogger-in-national-enforcement-case-over-byd-blade-battery-2-0-dispute",
+      "published_at": "2026-08-10T05:15:30Z",
+      "first_seen_at": "2026-08-10T05:54:15.581746Z",
+      "last_seen_at": "2026-08-10T05:54:15.581746Z",
+      "title_original": "Chinese regulator accuses blogger of false product evaluations amid BYD Blade Battery 2.0 dispute",
+      "title_en": "Chinese regulator accuses blogger of false product evaluations amid BYD Blade Battery 2.0 dispute",
+      "title_zh": "中国监管机构指控博主在比亚迪刀片电池2.0纠纷中虚假产品评价",
+      "title_bilingual": "中国监管机构指控博主在比亚迪刀片电池2.0纠纷中虚假产品评价 / Chinese regulator accuses blogger of false product evaluations amid BYD Blade Battery 2.0 dispute",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "043459beaebcc47bc0b8b24f48382adb2e429ed8",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "CATL joins BYD in targeting 2027 solid-state battery trial production",
+      "url": "https://carnewschina.com/2026/08/10/catl-joins-byd-in-targeting-2027-solid-state-battery-trial-production",
+      "published_at": "2026-08-10T05:13:32Z",
+      "first_seen_at": "2026-08-10T05:54:15.581746Z",
+      "last_seen_at": "2026-08-10T05:54:15.581746Z",
+      "title_original": "CATL joins BYD in targeting 2027 solid-state battery trial production",
+      "title_en": "CATL joins BYD in targeting 2027 solid-state battery trial production",
+      "title_zh": "宁德时代携手比亚迪瞄准2027年固态电池试产",
+      "title_bilingual": "宁德时代携手比亚迪瞄准2027年固态电池试产 / CATL joins BYD in targeting 2027 solid-state battery trial production",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争"
+      ]
+    },
+    {
       "id": "2220358f60f179a1197a908e8917c8751fd2fbcc",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -470,7 +528,7 @@
       "url": "https://carnewschina.com/2026/08/10/zeekr-released-statement-on-the-7x-suv-firing-at-the-charging-station",
       "published_at": "2026-08-10T03:21:57Z",
       "first_seen_at": "2026-08-10T04:12:35.272137Z",
-      "last_seen_at": "2026-08-10T04:12:35.272137Z",
+      "last_seen_at": "2026-08-10T05:54:15.581746Z",
       "title_original": "Zeekr released statement on the 7X SUV firing at the charging station",
       "title_en": "Zeekr released statement on the 7X SUV firing at the charging station",
       "title_zh": "Zeekr就7X SUV在充电站起火事件发表声明",
@@ -492,7 +550,7 @@
       "url": "https://cnevpost.com/2026/08/10/leapmotor-a05-debut-pushed-aug-11-typhoon",
       "published_at": "2026-08-10T01:58:30Z",
       "first_seen_at": "2026-08-10T02:26:03.861833Z",
-      "last_seen_at": "2026-08-10T04:12:35.272137Z",
+      "last_seen_at": "2026-08-10T05:54:15.581746Z",
       "title_original": "Leapmotor A05 launch pushed to August 11 after typhoon disruption",
       "title_en": "Leapmotor A05 launch pushed to August 11 after typhoon disruption",
       "title_zh": "零跑A05上市受台风影响推迟至8月11日",
@@ -512,7 +570,7 @@
       "url": "https://cnevpost.com/2026/08/10/xpeng-g9l-debut-pre-sales-aug-11",
       "published_at": "2026-08-10T01:22:12Z",
       "first_seen_at": "2026-08-10T02:26:03.861833Z",
-      "last_seen_at": "2026-08-10T04:12:35.272137Z",
+      "last_seen_at": "2026-08-10T05:54:15.581746Z",
       "title_original": "Xpeng G9L to make debut, start pre-sales on August 11",
       "title_en": "Xpeng G9L to make debut, start pre-sales on August 11",
       "title_zh": "小鹏G9L首发 8月11日开启预售",
@@ -532,7 +590,7 @@
       "url": "http://vc.yiche.com/vplay/12511844.html",
       "published_at": null,
       "first_seen_at": "2026-08-09T20:28:20.130787Z",
-      "last_seen_at": "2026-08-10T04:12:35.272137Z",
+      "last_seen_at": "2026-08-10T05:54:15.581746Z",
       "title_original": "2.0T油电混动，燃油可选激光雷达，吉利星越L PLUS申报",
       "title_en": null,
       "title_zh": "2.0T油电混动，燃油可选激光雷达，吉利星越L PLUS申报",
@@ -553,7 +611,7 @@
       "url": "http://vc.yiche.com/vplay/12420501.html",
       "published_at": null,
       "first_seen_at": "2026-08-09T20:28:20.130787Z",
-      "last_seen_at": "2026-08-10T04:12:35.272137Z",
+      "last_seen_at": "2026-08-10T05:54:15.581746Z",
       "title_original": "比亚迪海狮08，家用/商务都hold住！定什么价格合适？",
       "title_en": null,
       "title_zh": "比亚迪海狮08，家用/商务都hold住！定什么价格合适？",
@@ -572,7 +630,7 @@
       "url": "http://vc.yiche.com/vplay/12480701.html",
       "published_at": null,
       "first_seen_at": "2026-08-09T20:28:20.130787Z",
-      "last_seen_at": "2026-08-10T04:12:35.272137Z",
+      "last_seen_at": "2026-08-10T05:54:15.581746Z",
       "title_original": "面子里子都有，比亚迪“最狠9系”来了",
       "title_en": null,
       "title_zh": "面子里子都有，比亚迪“最狠9系”来了",
@@ -590,7 +648,7 @@
       "url": "https://carnewschina.com/2026/08/09/here-is-a-list-of-china-made-evs-volkswagen-may-bring-to-europe-next-year",
       "published_at": "2026-08-09T19:02:37Z",
       "first_seen_at": "2026-08-09T19:30:35.437398Z",
-      "last_seen_at": "2026-08-10T04:12:35.272137Z",
+      "last_seen_at": "2026-08-10T05:54:15.581746Z",
       "title_original": "Here is a list of China-made EVs Volkswagen may bring to Europe next year",
       "title_en": "Here is a list of China-made EVs Volkswagen may bring to Europe next year",
       "title_zh": "以下是大众汽车明年可能引入欧洲的中国制造电动汽车清单",
@@ -628,7 +686,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/ac1b32fc416c6437/115688419-1.html",
       "published_at": null,
       "first_seen_at": "2026-08-09T16:44:02.362256Z",
-      "last_seen_at": "2026-08-10T04:12:35.272137Z",
+      "last_seen_at": "2026-08-10T05:54:15.581746Z",
       "title_original": "智驾很满意 海豹06提车作业分享",
       "title_en": null,
       "title_zh": "智驾很满意 海豹06提车作业分享",
@@ -647,7 +705,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/100e71f380d9a097/115709960-1.html",
       "published_at": null,
       "first_seen_at": "2026-08-09T16:44:02.362256Z",
-      "last_seen_at": "2026-08-10T04:12:35.272137Z",
+      "last_seen_at": "2026-08-10T05:54:15.581746Z",
       "title_original": "颜值比较高 小鹏MONA L03提车分享",
       "title_en": null,
       "title_zh": "颜值比较高 小鹏MONA L03提车分享",
@@ -666,7 +724,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/798fc3d3ca530c7e/115683144-1.html",
       "published_at": null,
       "first_seen_at": "2026-08-09T16:44:02.362256Z",
-      "last_seen_at": "2026-08-10T04:12:35.272137Z",
+      "last_seen_at": "2026-08-10T05:54:15.581746Z",
       "title_original": "舒适性很高 极氪8X提车作业分享",
       "title_en": null,
       "title_zh": "舒适性很高 极氪8X提车作业分享",
@@ -685,7 +743,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/27924d0863db24a8/115680302-1.html",
       "published_at": null,
       "first_seen_at": "2026-08-09T16:44:02.362256Z",
-      "last_seen_at": "2026-08-10T04:12:35.272137Z",
+      "last_seen_at": "2026-08-10T05:54:15.581746Z",
       "title_original": "适合城市代步 零跑A10提车作业分享",
       "title_en": null,
       "title_zh": "适合城市代步 零跑A10提车作业分享",
@@ -704,7 +762,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/f886ea4dd4105aa0/115671547-1.html",
       "published_at": null,
       "first_seen_at": "2026-08-09T16:44:02.362256Z",
-      "last_seen_at": "2026-08-10T04:12:35.272137Z",
+      "last_seen_at": "2026-08-10T05:54:15.581746Z",
       "title_original": "配置拉满 长安启源A06提车作业分享",
       "title_en": null,
       "title_zh": "配置拉满 长安启源A06提车作业分享",
@@ -723,7 +781,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/fe776ec1d908866a/115794735-1.html",
       "published_at": null,
       "first_seen_at": "2026-08-09T16:44:02.362256Z",
-      "last_seen_at": "2026-08-10T04:12:35.272137Z",
+      "last_seen_at": "2026-08-10T05:54:15.581746Z",
       "title_original": "性价比不错 极氪001提车作业分享",
       "title_en": null,
       "title_zh": "性价比不错 极氪001提车作业分享",
@@ -743,7 +801,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/6c84339cbc6a3e3c/115533394-1.html",
       "published_at": null,
       "first_seen_at": "2026-08-09T16:44:02.362256Z",
-      "last_seen_at": "2026-08-10T04:12:35.272137Z",
+      "last_seen_at": "2026-08-10T05:54:15.581746Z",
       "title_original": "实测吉利星越L智擎混动全维度分享",
       "title_en": null,
       "title_zh": "实测吉利星越L智擎混动全维度分享",
@@ -762,7 +820,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/c85c4c30b0a73bda/115327498-1.html",
       "published_at": null,
       "first_seen_at": "2026-08-09T16:44:02.362256Z",
-      "last_seen_at": "2026-08-10T04:12:35.272137Z",
+      "last_seen_at": "2026-08-10T05:54:15.581746Z",
       "title_original": "大众初代途锐旗舰SUV历史上篇讲解",
       "title_en": null,
       "title_zh": "大众初代途锐旗舰SUV历史上篇讲解",
@@ -781,7 +839,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/84078a4e4349addc/115669493-1.html",
       "published_at": null,
       "first_seen_at": "2026-08-09T16:44:02.362256Z",
-      "last_seen_at": "2026-08-10T04:12:35.272137Z",
+      "last_seen_at": "2026-08-10T05:54:15.581746Z",
       "title_original": "家用很合适 长安启源Q05提车分享",
       "title_en": null,
       "title_zh": "家用很合适 长安启源Q05提车分享",
@@ -800,7 +858,7 @@
       "url": "https://cnevpost.com/2026/08/09/catl-aviation-battery-clears-key-safety-test",
       "published_at": "2026-08-09T10:41:06Z",
       "first_seen_at": "2026-08-09T11:25:44.607830Z",
-      "last_seen_at": "2026-08-10T04:12:35.272137Z",
+      "last_seen_at": "2026-08-10T05:54:15.581746Z",
       "title_original": "CATL aviation battery clears key safety test, paving way for use in eVTOLs",
       "title_en": "CATL aviation battery clears key safety test, paving way for use in eVTOLs",
       "title_zh": "CATL航空电池通过关键安全测试，为电动垂直起降飞行器的使用铺平道路",
@@ -820,7 +878,7 @@
       "url": "https://auto.gasgoo.com/news/202608/9I70469022C108.shtml",
       "published_at": "2026-08-09T07:01:27Z",
       "first_seen_at": "2026-08-09T23:59:46.556104Z",
-      "last_seen_at": "2026-08-10T04:12:35.272137Z",
+      "last_seen_at": "2026-08-10T05:54:15.581746Z",
       "title_original": "盖世周报 | 上汽与通用合资公司续约20年；自动驾驶“国标”来了",
       "title_en": null,
       "title_zh": "盖世周报 | 上汽与通用合资公司续约20年；自动驾驶“国标”来了",
@@ -828,24 +886,6 @@
       "topic_tags": [
         "智能驾驶",
         "供应链"
-      ]
-    },
-    {
-      "id": "b70fa6989cd60c2c0c2ffc4b399b4f3978a41f80",
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "juejin",
-      "title": "开放权重不是唯一控制权：Kimi K3、Tencent Hy3 与 ByteDance Seed 的九项交付比较",
-      "url": "https://juejin.cn/post/7670011027535986738",
-      "published_at": "2026-08-09T04:45:55.732000Z",
-      "first_seen_at": "2026-08-09T04:45:43.507598Z",
-      "last_seen_at": "2026-08-09T09:36:06.585286Z",
-      "title_original": "开放权重不是唯一控制权：Kimi K3、Tencent Hy3 与 ByteDance Seed 的九项交付比较",
-      "title_en": null,
-      "title_zh": "开放权重不是唯一控制权：Kimi K3、Tencent Hy3 与 ByteDance Seed 的九项交付比较",
-      "title_bilingual": "开放权重不是唯一控制权：Kimi K3、Tencent Hy3 与 ByteDance Seed 的九项交付比较",
-      "topic_tags": [
-        "销量市场"
       ]
     }
   ],
