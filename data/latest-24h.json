@@ -1,69 +1,188 @@
 {
-  "generated_at": "2026-08-15T16:19:59.435226Z",
+  "generated_at": "2026-08-15T16:49:21.728111Z",
   "window_hours": 24,
-  "total_items": 18,
-  "total_items_ai_raw": 18,
-  "total_items_raw": 3824,
-  "total_items_all_mode": 3429,
+  "total_items": 22,
+  "total_items_ai_raw": 22,
+  "total_items_raw": 3794,
+  "total_items_all_mode": 3436,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 75031,
+  "archive_total": 75178,
   "site_count": 3,
-  "source_count": 7,
+  "source_count": 6,
   "site_stats": [
     {
       "site_id": "tophub",
       "site_name": "TopHub",
-      "count": 12,
-      "raw_count": 3578
+      "count": 17,
+      "raw_count": 3546
     },
     {
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "count": 5,
-      "raw_count": 5
+      "count": 4,
+      "raw_count": 4
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "count": 1,
-      "raw_count": 241
+      "raw_count": 244
     }
   ],
   "topic_tag_stats": [
     {
-      "tag": "车企竞争",
-      "count": 10
+      "tag": "购车决策",
+      "count": 12
     },
     {
-      "tag": "购车决策",
-      "count": 7
+      "tag": "车企竞争",
+      "count": 12
     },
     {
       "tag": "新能源",
       "count": 6
     },
     {
+      "tag": "价格战",
+      "count": 2
+    },
+    {
       "tag": "新车上市",
-      "count": 3
+      "count": 2
+    },
+    {
+      "tag": "补能电池",
+      "count": 2
     },
     {
       "tag": "销量市场",
-      "count": 3
+      "count": 2
     },
     {
-      "tag": "价格战",
+      "tag": "供应链",
       "count": 1
     },
     {
       "tag": "智能驾驶",
       "count": 1
-    },
-    {
-      "tag": "补能电池",
-      "count": 1
     }
   ],
   "items": [
+    {
+      "id": "c53acb833f5995e1058d0cc5f8f2c2765ef326ad",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "有这么多感概 体验下焕新极氪007GT",
+      "url": "https://club.autohome.com.cn/bbs/thread/5fffd110a8464d63/115783824-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-08-15T16:49:21.728111Z",
+      "last_seen_at": "2026-08-15T16:49:21.728111Z",
+      "title_original": "有这么多感概 体验下焕新极氪007GT",
+      "title_en": null,
+      "title_zh": "有这么多感概 体验下焕新极氪007GT",
+      "title_bilingual": "有这么多感概 体验下焕新极氪007GT",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "d6386766274cbdd91885533ac795028578f11236",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "性价比拉满 小鹏GX提车作业分享",
+      "url": "https://i.autohome.com.cn/39751874",
+      "published_at": null,
+      "first_seen_at": "2026-08-15T16:49:21.728111Z",
+      "last_seen_at": "2026-08-15T16:49:21.728111Z",
+      "title_original": "性价比拉满 小鹏GX提车作业分享",
+      "title_en": null,
+      "title_zh": "性价比拉满 小鹏GX提车作业分享",
+      "title_bilingual": "性价比拉满 小鹏GX提车作业分享",
+      "topic_tags": [
+        "价格战",
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "1cc9178f3e59e1db27abb70799dded38aa47d3ed",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "可玩性很高 iCAR 超级V23用车分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/bf86ac937a5a7c97/115564413-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-08-15T16:49:21.728111Z",
+      "last_seen_at": "2026-08-15T16:49:21.728111Z",
+      "title_original": "可玩性很高 iCAR 超级V23用车分享",
+      "title_en": null,
+      "title_zh": "可玩性很高 iCAR 超级V23用车分享",
+      "title_bilingual": "可玩性很高 iCAR 超级V23用车分享",
+      "topic_tags": [
+        "购车决策"
+      ]
+    },
+    {
+      "id": "6f53c366e2d64c8968d325493e82963420880f59",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "拥抱理想的生活 理想i6提车分享记",
+      "url": "https://club.autohome.com.cn/bbs/thread/f0e83f6d33f47883/115765582-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-08-15T16:49:21.728111Z",
+      "last_seen_at": "2026-08-15T16:49:21.728111Z",
+      "title_original": "拥抱理想的生活 理想i6提车分享记",
+      "title_en": null,
+      "title_zh": "拥抱理想的生活 理想i6提车分享记",
+      "title_bilingual": "拥抱理想的生活 理想i6提车分享记",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "f2d0709c6937fac774b9b3156151c1fb19211d0c",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "底盘调校很稳 宝马X1提车作业分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/fcb2ba46ee8855ee/115791522-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-08-15T16:49:21.728111Z",
+      "last_seen_at": "2026-08-15T16:49:21.728111Z",
+      "title_original": "底盘调校很稳 宝马X1提车作业分享",
+      "title_en": null,
+      "title_zh": "底盘调校很稳 宝马X1提车作业分享",
+      "title_bilingual": "底盘调校很稳 宝马X1提车作业分享",
+      "topic_tags": [
+        "车企竞争",
+        "供应链",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "bdf195ceccb6806c27a05186b14590dde71cb6bb",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "五代换电站萤火虫车主也能换电了",
+      "url": "https://club.autohome.com.cn/bbs/thread/bfeb2b23b96a6f21/115833637-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-08-15T16:49:21.728111Z",
+      "last_seen_at": "2026-08-15T16:49:21.728111Z",
+      "title_original": "五代换电站萤火虫车主也能换电了",
+      "title_en": null,
+      "title_zh": "五代换电站萤火虫车主也能换电了",
+      "title_bilingual": "五代换电站萤火虫车主也能换电了",
+      "topic_tags": [
+        "补能电池",
+        "购车决策"
+      ]
+    },
     {
       "id": "9f3389f0ad28cc75ded8fa92b4a0c21ee047785c",
       "site_id": "official_auto",
@@ -73,7 +192,7 @@
       "url": "https://cnevpost.com/2026/08/15/voyah-passion-s-goes-on-sale",
       "published_at": "2026-08-15T13:21:40Z",
       "first_seen_at": "2026-08-15T13:27:03.475184Z",
-      "last_seen_at": "2026-08-15T16:19:59.435226Z",
+      "last_seen_at": "2026-08-15T16:49:21.728111Z",
       "title_original": "Voyah Passion S goes on sale from about $33,000 to take on Xiaomi YU7",
       "title_en": "Voyah Passion S goes on sale from about $33,000 to take on Xiaomi YU7",
       "title_zh": "Voyah Passion S 起售价约 33,000 美元，与小米 YU7 抗衡",
@@ -93,7 +212,7 @@
       "url": "https://carnewschina.com/2026/08/15/lynk-co-executive-gets-7500-usd-negative-bonus-after-livestream-leaks-z20-spoiler-kit",
       "published_at": "2026-08-15T11:06:34Z",
       "first_seen_at": "2026-08-15T11:43:27.368200Z",
-      "last_seen_at": "2026-08-15T16:19:59.435226Z",
+      "last_seen_at": "2026-08-15T16:49:21.728111Z",
       "title_original": "Lynk & Co executive gets 7,500 USD “negative bonus” after livestream leaks 02 spoiler kit",
       "title_en": "Lynk & Co executive gets 7,500 USD “negative bonus” after livestream leaks 02 spoiler kit",
       "title_zh": "直播泄露 02 扰流套件后，领克高管获得 7,500 美元“负奖金”",
@@ -129,7 +248,7 @@
       "url": "https://carnewschina.com/2026/08/15/voyah-passion-s-launches-with-uncut-video-to-prove-its-360-tunnel-loop-stunt-authenticity",
       "published_at": "2026-08-15T10:04:50Z",
       "first_seen_at": "2026-08-15T10:18:53.037517Z",
-      "last_seen_at": "2026-08-15T16:19:59.435226Z",
+      "last_seen_at": "2026-08-15T16:49:21.728111Z",
       "title_original": "Voyah Passion S launches with uncut video to prove its 360° tunnel loop stunt authenticity",
       "title_en": "Voyah Passion S launches with uncut video to prove its 360° tunnel loop stunt authenticity",
       "title_zh": "Voyah Passion S 发布未剪辑视频以证明其 360° 隧道循环特技的真实性",
@@ -148,7 +267,7 @@
       "url": "https://www.dongchedi.com/article/7672596791410770457",
       "published_at": null,
       "first_seen_at": "2026-08-15T07:27:10.516614Z",
-      "last_seen_at": "2026-08-15T16:19:59.435226Z",
+      "last_seen_at": "2026-08-15T16:49:21.728111Z",
       "title_original": "经典家轿电动蜕变 试驾吉利帝豪智擎混动",
       "title_en": null,
       "title_zh": "经典家轿电动蜕变 试驾吉利帝豪智擎混动",
@@ -168,7 +287,7 @@
       "url": "https://www.dongchedi.com/article/7672213825638154814",
       "published_at": null,
       "first_seen_at": "2026-08-15T07:27:10.516614Z",
-      "last_seen_at": "2026-08-15T16:19:59.435226Z",
+      "last_seen_at": "2026-08-15T16:49:21.728111Z",
       "title_original": "L3/L4强制国标落地：自动驾驶终于\"有法可依",
       "title_en": null,
       "title_zh": "L3/L4强制国标落地：自动驾驶终于\"有法可依",
@@ -186,7 +305,7 @@
       "url": "http://vc.yiche.com/vplay/12567011.html",
       "published_at": null,
       "first_seen_at": "2026-08-14T20:04:01.654924Z",
-      "last_seen_at": "2026-08-15T16:19:59.435226Z",
+      "last_seen_at": "2026-08-15T16:49:21.728111Z",
       "title_original": "方程豹钛7销量分析，插混纯电二选一抉择？给你结论",
       "title_en": null,
       "title_zh": "方程豹钛7销量分析，插混纯电二选一抉择？给你结论",
@@ -205,7 +324,7 @@
       "url": "http://vc.yiche.com/vplay/12552171.html",
       "published_at": null,
       "first_seen_at": "2026-08-14T20:04:01.654924Z",
-      "last_seen_at": "2026-08-15T16:19:59.435226Z",
+      "last_seen_at": "2026-08-15T16:49:21.728111Z",
       "title_original": "长安CS75 PLUS蓝鲸超擎长测｜开了一周，我对它的第一印象",
       "title_en": null,
       "title_zh": "长安CS75 PLUS蓝鲸超擎长测｜开了一周，我对它的第一印象",
@@ -223,7 +342,7 @@
       "url": "http://vc.yiche.com/vplay/12560592.html",
       "published_at": null,
       "first_seen_at": "2026-08-14T20:04:01.654924Z",
-      "last_seen_at": "2026-08-15T16:19:59.435226Z",
+      "last_seen_at": "2026-08-15T16:49:21.728111Z",
       "title_original": "8月MPV大乱斗，三款重磅新车申报",
       "title_en": null,
       "title_zh": "8月MPV大乱斗，三款重磅新车申报",
@@ -241,7 +360,7 @@
       "url": "http://vc.yiche.com/vplay/12545150.html",
       "published_at": null,
       "first_seen_at": "2026-08-14T20:04:01.654924Z",
-      "last_seen_at": "2026-08-15T16:19:59.435226Z",
+      "last_seen_at": "2026-08-15T16:49:21.728111Z",
       "title_original": "5.3米大方盒子开起来什么样？长城H10试驾报告",
       "title_en": null,
       "title_zh": "5.3米大方盒子开起来什么样？长城H10试驾报告",
@@ -260,7 +379,7 @@
       "url": "http://vc.yiche.com/vplay/12580605.html",
       "published_at": null,
       "first_seen_at": "2026-08-14T20:04:01.654924Z",
-      "last_seen_at": "2026-08-15T16:19:59.435226Z",
+      "last_seen_at": "2026-08-15T16:49:21.728111Z",
       "title_original": "7月销量前十仅剩一款燃油车，丰田卡罗拉锐放，吉利星愿以32306辆夺冠",
       "title_en": null,
       "title_zh": "7月销量前十仅剩一款燃油车，丰田卡罗拉锐放，吉利星愿以32306辆夺冠",
@@ -279,7 +398,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/569fdaa814c2dc24/115827356-1.html",
       "published_at": null,
       "first_seen_at": "2026-08-14T17:27:11.154050Z",
-      "last_seen_at": "2026-08-15T16:19:59.435226Z",
+      "last_seen_at": "2026-08-15T16:49:21.728111Z",
       "title_original": "大五座的空间布局 静态体验小鹏G9L",
       "title_en": null,
       "title_zh": "大五座的空间布局 静态体验小鹏G9L",
@@ -298,7 +417,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/e670981cb20b003a/115787626-1.html",
       "published_at": null,
       "first_seen_at": "2026-08-14T17:27:11.154050Z",
-      "last_seen_at": "2026-08-15T16:19:59.435226Z",
+      "last_seen_at": "2026-08-15T16:49:21.728111Z",
       "title_original": "新款闪600V4AMT 四缸自动挡巡航试驾",
       "title_en": null,
       "title_zh": "新款闪600V4AMT 四缸自动挡巡航试驾",
@@ -316,7 +435,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/b0c382cdc27efef1/115785966-1.html",
       "published_at": null,
       "first_seen_at": "2026-08-14T17:27:11.154050Z",
-      "last_seen_at": "2026-08-15T16:19:59.435226Z",
+      "last_seen_at": "2026-08-15T16:49:21.728111Z",
       "title_original": "放弃二线豪华 理想L6焕新版提车分享",
       "title_en": null,
       "title_zh": "放弃二线豪华 理想L6焕新版提车分享",
@@ -360,51 +479,127 @@
       "title_bilingual": "在澳大利亚，家用电池的繁荣帮助降低了批发电价 / In Australia, a home battery boom has helped cut wholesale power prices",
       "topic_tags": [
         "补能电池",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "32ea8a34b97c34a7b70b6f78eead6aff1388837e",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "大五座SUV市场，再迎新选手",
-      "url": "https://auto.gasgoo.com/news/202608/14I70469284C109.shtml",
-      "published_at": "2026-08-14T16:32:24Z",
-      "first_seen_at": "2026-08-15T08:54:19.686953Z",
-      "last_seen_at": "2026-08-15T16:19:59.435226Z",
-      "title_original": "大五座SUV市场，再迎新选手",
-      "title_en": null,
-      "title_zh": "大五座SUV市场，再迎新选手",
-      "title_bilingual": "大五座SUV市场，再迎新选手",
-      "topic_tags": [
-        "销量市场",
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "9a8664508e5050b195facce3fe63611302952d15",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "特别省油 比亚迪秦L提车作业分享",
-      "url": "https://club.autohome.com.cn/bbs/thread/7c6f15110b785f61/115769156-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-08-14T16:21:52.228491Z",
-      "last_seen_at": "2026-08-15T16:19:59.435226Z",
-      "title_original": "特别省油 比亚迪秦L提车作业分享",
-      "title_en": null,
-      "title_zh": "特别省油 比亚迪秦L提车作业分享",
-      "title_bilingual": "特别省油 比亚迪秦L提车作业分享",
-      "topic_tags": [
-        "车企竞争",
         "购车决策"
       ]
     }
   ],
   "items_ai": [
     {
+      "id": "c53acb833f5995e1058d0cc5f8f2c2765ef326ad",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "有这么多感概 体验下焕新极氪007GT",
+      "url": "https://club.autohome.com.cn/bbs/thread/5fffd110a8464d63/115783824-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-08-15T16:49:21.728111Z",
+      "last_seen_at": "2026-08-15T16:49:21.728111Z",
+      "title_original": "有这么多感概 体验下焕新极氪007GT",
+      "title_en": null,
+      "title_zh": "有这么多感概 体验下焕新极氪007GT",
+      "title_bilingual": "有这么多感概 体验下焕新极氪007GT",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "d6386766274cbdd91885533ac795028578f11236",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "性价比拉满 小鹏GX提车作业分享",
+      "url": "https://i.autohome.com.cn/39751874",
+      "published_at": null,
+      "first_seen_at": "2026-08-15T16:49:21.728111Z",
+      "last_seen_at": "2026-08-15T16:49:21.728111Z",
+      "title_original": "性价比拉满 小鹏GX提车作业分享",
+      "title_en": null,
+      "title_zh": "性价比拉满 小鹏GX提车作业分享",
+      "title_bilingual": "性价比拉满 小鹏GX提车作业分享",
+      "topic_tags": [
+        "价格战",
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "1cc9178f3e59e1db27abb70799dded38aa47d3ed",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "可玩性很高 iCAR 超级V23用车分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/bf86ac937a5a7c97/115564413-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-08-15T16:49:21.728111Z",
+      "last_seen_at": "2026-08-15T16:49:21.728111Z",
+      "title_original": "可玩性很高 iCAR 超级V23用车分享",
+      "title_en": null,
+      "title_zh": "可玩性很高 iCAR 超级V23用车分享",
+      "title_bilingual": "可玩性很高 iCAR 超级V23用车分享",
+      "topic_tags": [
+        "购车决策"
+      ]
+    },
+    {
+      "id": "6f53c366e2d64c8968d325493e82963420880f59",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "拥抱理想的生活 理想i6提车分享记",
+      "url": "https://club.autohome.com.cn/bbs/thread/f0e83f6d33f47883/115765582-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-08-15T16:49:21.728111Z",
+      "last_seen_at": "2026-08-15T16:49:21.728111Z",
+      "title_original": "拥抱理想的生活 理想i6提车分享记",
+      "title_en": null,
+      "title_zh": "拥抱理想的生活 理想i6提车分享记",
+      "title_bilingual": "拥抱理想的生活 理想i6提车分享记",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "f2d0709c6937fac774b9b3156151c1fb19211d0c",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "底盘调校很稳 宝马X1提车作业分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/fcb2ba46ee8855ee/115791522-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-08-15T16:49:21.728111Z",
+      "last_seen_at": "2026-08-15T16:49:21.728111Z",
+      "title_original": "底盘调校很稳 宝马X1提车作业分享",
+      "title_en": null,
+      "title_zh": "底盘调校很稳 宝马X1提车作业分享",
+      "title_bilingual": "底盘调校很稳 宝马X1提车作业分享",
+      "topic_tags": [
+        "车企竞争",
+        "供应链",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "bdf195ceccb6806c27a05186b14590dde71cb6bb",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "五代换电站萤火虫车主也能换电了",
+      "url": "https://club.autohome.com.cn/bbs/thread/bfeb2b23b96a6f21/115833637-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-08-15T16:49:21.728111Z",
+      "last_seen_at": "2026-08-15T16:49:21.728111Z",
+      "title_original": "五代换电站萤火虫车主也能换电了",
+      "title_en": null,
+      "title_zh": "五代换电站萤火虫车主也能换电了",
+      "title_bilingual": "五代换电站萤火虫车主也能换电了",
+      "topic_tags": [
+        "补能电池",
+        "购车决策"
+      ]
+    },
+    {
       "id": "9f3389f0ad28cc75ded8fa92b4a0c21ee047785c",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -413,7 +608,7 @@
       "url": "https://cnevpost.com/2026/08/15/voyah-passion-s-goes-on-sale",
       "published_at": "2026-08-15T13:21:40Z",
       "first_seen_at": "2026-08-15T13:27:03.475184Z",
-      "last_seen_at": "2026-08-15T16:19:59.435226Z",
+      "last_seen_at": "2026-08-15T16:49:21.728111Z",
       "title_original": "Voyah Passion S goes on sale from about $33,000 to take on Xiaomi YU7",
       "title_en": "Voyah Passion S goes on sale from about $33,000 to take on Xiaomi YU7",
       "title_zh": "Voyah Passion S 起售价约 33,000 美元，与小米 YU7 抗衡",
@@ -433,7 +628,7 @@
       "url": "https://carnewschina.com/2026/08/15/lynk-co-executive-gets-7500-usd-negative-bonus-after-livestream-leaks-z20-spoiler-kit",
       "published_at": "2026-08-15T11:06:34Z",
       "first_seen_at": "2026-08-15T11:43:27.368200Z",
-      "last_seen_at": "2026-08-15T16:19:59.435226Z",
+      "last_seen_at": "2026-08-15T16:49:21.728111Z",
       "title_original": "Lynk & Co executive gets 7,500 USD “negative bonus” after livestream leaks 02 spoiler kit",
       "title_en": "Lynk & Co executive gets 7,500 USD “negative bonus” after livestream leaks 02 spoiler kit",
       "title_zh": "直播泄露 02 扰流套件后，领克高管获得 7,500 美元“负奖金”",
@@ -469,7 +664,7 @@
       "url": "https://carnewschina.com/2026/08/15/voyah-passion-s-launches-with-uncut-video-to-prove-its-360-tunnel-loop-stunt-authenticity",
       "published_at": "2026-08-15T10:04:50Z",
       "first_seen_at": "2026-08-15T10:18:53.037517Z",
-      "last_seen_at": "2026-08-15T16:19:59.435226Z",
+      "last_seen_at": "2026-08-15T16:49:21.728111Z",
       "title_original": "Voyah Passion S launches with uncut video to prove its 360° tunnel loop stunt authenticity",
       "title_en": "Voyah Passion S launches with uncut video to prove its 360° tunnel loop stunt authenticity",
       "title_zh": "Voyah Passion S 发布未剪辑视频以证明其 360° 隧道循环特技的真实性",
@@ -488,7 +683,7 @@
       "url": "https://www.dongchedi.com/article/7672596791410770457",
       "published_at": null,
       "first_seen_at": "2026-08-15T07:27:10.516614Z",
-      "last_seen_at": "2026-08-15T16:19:59.435226Z",
+      "last_seen_at": "2026-08-15T16:49:21.728111Z",
       "title_original": "经典家轿电动蜕变 试驾吉利帝豪智擎混动",
       "title_en": null,
       "title_zh": "经典家轿电动蜕变 试驾吉利帝豪智擎混动",
@@ -508,7 +703,7 @@
       "url": "https://www.dongchedi.com/article/7672213825638154814",
       "published_at": null,
       "first_seen_at": "2026-08-15T07:27:10.516614Z",
-      "last_seen_at": "2026-08-15T16:19:59.435226Z",
+      "last_seen_at": "2026-08-15T16:49:21.728111Z",
       "title_original": "L3/L4强制国标落地：自动驾驶终于\"有法可依",
       "title_en": null,
       "title_zh": "L3/L4强制国标落地：自动驾驶终于\"有法可依",
@@ -526,7 +721,7 @@
       "url": "http://vc.yiche.com/vplay/12567011.html",
       "published_at": null,
       "first_seen_at": "2026-08-14T20:04:01.654924Z",
-      "last_seen_at": "2026-08-15T16:19:59.435226Z",
+      "last_seen_at": "2026-08-15T16:49:21.728111Z",
       "title_original": "方程豹钛7销量分析，插混纯电二选一抉择？给你结论",
       "title_en": null,
       "title_zh": "方程豹钛7销量分析，插混纯电二选一抉择？给你结论",
@@ -545,7 +740,7 @@
       "url": "http://vc.yiche.com/vplay/12552171.html",
       "published_at": null,
       "first_seen_at": "2026-08-14T20:04:01.654924Z",
-      "last_seen_at": "2026-08-15T16:19:59.435226Z",
+      "last_seen_at": "2026-08-15T16:49:21.728111Z",
       "title_original": "长安CS75 PLUS蓝鲸超擎长测｜开了一周，我对它的第一印象",
       "title_en": null,
       "title_zh": "长安CS75 PLUS蓝鲸超擎长测｜开了一周，我对它的第一印象",
@@ -563,7 +758,7 @@
       "url": "http://vc.yiche.com/vplay/12560592.html",
       "published_at": null,
       "first_seen_at": "2026-08-14T20:04:01.654924Z",
-      "last_seen_at": "2026-08-15T16:19:59.435226Z",
+      "last_seen_at": "2026-08-15T16:49:21.728111Z",
       "title_original": "8月MPV大乱斗，三款重磅新车申报",
       "title_en": null,
       "title_zh": "8月MPV大乱斗，三款重磅新车申报",
@@ -581,7 +776,7 @@
       "url": "http://vc.yiche.com/vplay/12545150.html",
       "published_at": null,
       "first_seen_at": "2026-08-14T20:04:01.654924Z",
-      "last_seen_at": "2026-08-15T16:19:59.435226Z",
+      "last_seen_at": "2026-08-15T16:49:21.728111Z",
       "title_original": "5.3米大方盒子开起来什么样？长城H10试驾报告",
       "title_en": null,
       "title_zh": "5.3米大方盒子开起来什么样？长城H10试驾报告",
@@ -600,7 +795,7 @@
       "url": "http://vc.yiche.com/vplay/12580605.html",
       "published_at": null,
       "first_seen_at": "2026-08-14T20:04:01.654924Z",
-      "last_seen_at": "2026-08-15T16:19:59.435226Z",
+      "last_seen_at": "2026-08-15T16:49:21.728111Z",
       "title_original": "7月销量前十仅剩一款燃油车，丰田卡罗拉锐放，吉利星愿以32306辆夺冠",
       "title_en": null,
       "title_zh": "7月销量前十仅剩一款燃油车，丰田卡罗拉锐放，吉利星愿以32306辆夺冠",
@@ -619,7 +814,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/569fdaa814c2dc24/115827356-1.html",
       "published_at": null,
       "first_seen_at": "2026-08-14T17:27:11.154050Z",
-      "last_seen_at": "2026-08-15T16:19:59.435226Z",
+      "last_seen_at": "2026-08-15T16:49:21.728111Z",
       "title_original": "大五座的空间布局 静态体验小鹏G9L",
       "title_en": null,
       "title_zh": "大五座的空间布局 静态体验小鹏G9L",
@@ -638,7 +833,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/e670981cb20b003a/115787626-1.html",
       "published_at": null,
       "first_seen_at": "2026-08-14T17:27:11.154050Z",
-      "last_seen_at": "2026-08-15T16:19:59.435226Z",
+      "last_seen_at": "2026-08-15T16:49:21.728111Z",
       "title_original": "新款闪600V4AMT 四缸自动挡巡航试驾",
       "title_en": null,
       "title_zh": "新款闪600V4AMT 四缸自动挡巡航试驾",
@@ -656,7 +851,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/b0c382cdc27efef1/115785966-1.html",
       "published_at": null,
       "first_seen_at": "2026-08-14T17:27:11.154050Z",
-      "last_seen_at": "2026-08-15T16:19:59.435226Z",
+      "last_seen_at": "2026-08-15T16:49:21.728111Z",
       "title_original": "放弃二线豪华 理想L6焕新版提车分享",
       "title_en": null,
       "title_zh": "放弃二线豪华 理想L6焕新版提车分享",
@@ -700,45 +895,6 @@
       "title_bilingual": "在澳大利亚，家用电池的繁荣帮助降低了批发电价 / In Australia, a home battery boom has helped cut wholesale power prices",
       "topic_tags": [
         "补能电池",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "32ea8a34b97c34a7b70b6f78eead6aff1388837e",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "大五座SUV市场，再迎新选手",
-      "url": "https://auto.gasgoo.com/news/202608/14I70469284C109.shtml",
-      "published_at": "2026-08-14T16:32:24Z",
-      "first_seen_at": "2026-08-15T08:54:19.686953Z",
-      "last_seen_at": "2026-08-15T16:19:59.435226Z",
-      "title_original": "大五座SUV市场，再迎新选手",
-      "title_en": null,
-      "title_zh": "大五座SUV市场，再迎新选手",
-      "title_bilingual": "大五座SUV市场，再迎新选手",
-      "topic_tags": [
-        "销量市场",
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "9a8664508e5050b195facce3fe63611302952d15",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "特别省油 比亚迪秦L提车作业分享",
-      "url": "https://club.autohome.com.cn/bbs/thread/7c6f15110b785f61/115769156-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-08-14T16:21:52.228491Z",
-      "last_seen_at": "2026-08-15T16:19:59.435226Z",
-      "title_original": "特别省油 比亚迪秦L提车作业分享",
-      "title_en": null,
-      "title_zh": "特别省油 比亚迪秦L提车作业分享",
-      "title_bilingual": "特别省油 比亚迪秦L提车作业分享",
-      "topic_tags": [
-        "车企竞争",
         "购车决策"
       ]
     }
