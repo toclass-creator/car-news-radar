@@ -1,15 +1,21 @@
 {
-  "generated_at": "2026-08-24T19:26:15.835279Z",
+  "generated_at": "2026-08-24T19:54:53.259540Z",
   "window_hours": 24,
-  "total_items": 20,
-  "total_items_ai_raw": 20,
-  "total_items_raw": 3945,
+  "total_items": 23,
+  "total_items_ai_raw": 23,
+  "total_items_raw": 3949,
   "total_items_all_mode": 3509,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 81804,
+  "archive_total": 81850,
   "site_count": 3,
   "source_count": 6,
   "site_stats": [
+    {
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "count": 12,
+      "raw_count": 3714
+    },
     {
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -17,46 +23,137 @@
       "raw_count": 10
     },
     {
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "count": 9,
-      "raw_count": 3708
-    },
-    {
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "count": 1,
-      "raw_count": 227
+      "raw_count": 225
     }
   ],
   "topic_tag_stats": [
     {
       "tag": "车企竞争",
-      "count": 16
+      "count": 20
     },
     {
       "tag": "新能源",
-      "count": 11
+      "count": 12
     },
     {
       "tag": "新车上市",
-      "count": 7
+      "count": 8
     },
     {
       "tag": "购车决策",
       "count": 3
     },
     {
-      "tag": "智能驾驶",
-      "count": 2
+      "tag": "召回安全",
+      "count": 1
     },
     {
-      "tag": "召回安全",
+      "tag": "智能驾驶",
+      "count": 1
+    },
+    {
+      "tag": "补能电池",
       "count": 1
     }
   ],
   "items": [
     {
+      "id": "bd40ef5573f44dd87614ec152892f1d92444bae1",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "想买大五座SUV的再等等，大众ID.ERA 8X年内上市",
+      "url": "http://vc.yiche.com/vplay/12767813.html",
+      "published_at": null,
+      "first_seen_at": "2026-08-24T19:54:53.259540Z",
+      "last_seen_at": "2026-08-24T19:54:53.259540Z",
+      "title_original": "想买大五座SUV的再等等，大众ID.ERA 8X年内上市",
+      "title_en": null,
+      "title_zh": "想买大五座SUV的再等等，大众ID.ERA 8X年内上市",
+      "title_bilingual": "想买大五座SUV的再等等，大众ID.ERA 8X年内上市",
+      "topic_tags": [
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "9152c99649490b2f0cb082199e1a50930f0edfe5",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "近5.3米尺寸插混旗舰，续航超1600km，天地尾门，方程豹钛9抢先看",
+      "url": "http://vc.yiche.com/vplay/12756207.html",
+      "published_at": null,
+      "first_seen_at": "2026-08-24T19:54:53.259540Z",
+      "last_seen_at": "2026-08-24T19:54:53.259540Z",
+      "title_original": "近5.3米尺寸插混旗舰，续航超1600km，天地尾门，方程豹钛9抢先看",
+      "title_en": null,
+      "title_zh": "近5.3米尺寸插混旗舰，续航超1600km，天地尾门，方程豹钛9抢先看",
+      "title_bilingual": "近5.3米尺寸插混旗舰，续航超1600km，天地尾门，方程豹钛9抢先看",
+      "topic_tags": [
+        "新能源",
+        "补能电池"
+      ]
+    },
+    {
+      "id": "c47e4b16eeffa0361de5298bcc1dbe72d4c89907",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "智界RX，鸿蒙智行X序列首车！",
+      "url": "http://vc.yiche.com/vplay/12792740.html",
+      "published_at": null,
+      "first_seen_at": "2026-08-24T19:54:53.259540Z",
+      "last_seen_at": "2026-08-24T19:54:53.259540Z",
+      "title_original": "智界RX，鸿蒙智行X序列首车！",
+      "title_en": null,
+      "title_zh": "智界RX，鸿蒙智行X序列首车！",
+      "title_bilingual": "智界RX，鸿蒙智行X序列首车！",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "21ff448eb5775323ddb0b5b19ec0e90434caf35f",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "ID.ERA 8X不是小号9X，大众这次把家庭SUV想明白了",
+      "url": "http://vc.yiche.com/vplay/12750334.html",
+      "published_at": null,
+      "first_seen_at": "2026-08-24T19:54:53.259540Z",
+      "last_seen_at": "2026-08-24T19:54:53.259540Z",
+      "title_original": "ID.ERA 8X不是小号9X，大众这次把家庭SUV想明白了",
+      "title_en": null,
+      "title_zh": "ID.ERA 8X不是小号9X，大众这次把家庭SUV想明白了",
+      "title_bilingual": "ID.ERA 8X不是小号9X，大众这次把家庭SUV想明白了",
+      "topic_tags": [
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "5b63eb9b76e5a97cf4a2b778d8815bfcf604adfb",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "踏实造车不搞营销噱头，长城H10这车真行",
+      "url": "http://vc.yiche.com/vplay/12755143.html",
+      "published_at": null,
+      "first_seen_at": "2026-08-24T19:54:53.259540Z",
+      "last_seen_at": "2026-08-24T19:54:53.259540Z",
+      "title_original": "踏实造车不搞营销噱头，长城H10这车真行",
+      "title_en": null,
+      "title_zh": "踏实造车不搞营销噱头，长城H10这车真行",
+      "title_bilingual": "踏实造车不搞营销噱头，长城H10这车真行",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
       "id": "4a7767b5438b3edf52e1441440e43a60c72bc606",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -65,7 +162,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/962e5b66bf51e731/115832559-1.html",
       "published_at": null,
       "first_seen_at": "2026-08-24T17:27:28.462504Z",
-      "last_seen_at": "2026-08-24T19:26:15.835279Z",
+      "last_seen_at": "2026-08-24T19:54:53.259540Z",
       "title_original": "大大大大大！探店体验下小鹏G9L",
       "title_en": null,
       "title_zh": "大大大大大！探店体验下小鹏G9L",
@@ -84,7 +181,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/3247900e9108e44e/115927147-1.html",
       "published_at": null,
       "first_seen_at": "2026-08-24T17:27:28.462504Z",
-      "last_seen_at": "2026-08-24T19:26:15.835279Z",
+      "last_seen_at": "2026-08-24T19:54:53.259540Z",
       "title_original": "三品牌齐发力 车展打卡蔚来展台",
       "title_en": null,
       "title_zh": "三品牌齐发力 车展打卡蔚来展台",
@@ -103,7 +200,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/8a5c1f750a0c78a9/115845783-1.html",
       "published_at": null,
       "first_seen_at": "2026-08-24T17:27:28.462504Z",
-      "last_seen_at": "2026-08-24T19:26:15.835279Z",
+      "last_seen_at": "2026-08-24T19:54:53.259540Z",
       "title_original": "老车主再下单 小鹏MONA L03提车日记",
       "title_en": null,
       "title_zh": "老车主再下单 小鹏MONA L03提车日记",
@@ -122,7 +219,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/f1612678a0ed222b/115827134-1.html",
       "published_at": null,
       "first_seen_at": "2026-08-24T17:27:28.462504Z",
-      "last_seen_at": "2026-08-24T19:26:15.835279Z",
+      "last_seen_at": "2026-08-24T19:54:53.259540Z",
       "title_original": "市区很灵活 长安Lumin提车作业分享",
       "title_en": null,
       "title_zh": "市区很灵活 长安Lumin提车作业分享",
@@ -160,7 +257,7 @@
       "url": "https://news.ycombinator.com/item?id=49420873",
       "published_at": "2026-08-24T16:07:27.264000Z",
       "first_seen_at": "2026-08-24T16:33:28.214748Z",
-      "last_seen_at": "2026-08-24T19:26:15.835279Z",
+      "last_seen_at": "2026-08-24T19:54:53.259540Z",
       "title_original": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
       "title_en": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
       "title_zh": null,
@@ -178,7 +275,7 @@
       "url": "https://carnewschina.com/2026/08/24/byd-to-launch-the-new-great-seagull-ev-hatchback-this-year-ocean-series-gm-shared",
       "published_at": "2026-08-24T14:51:20Z",
       "first_seen_at": "2026-08-24T15:36:06.090052Z",
-      "last_seen_at": "2026-08-24T19:26:15.835279Z",
+      "last_seen_at": "2026-08-24T19:54:53.259540Z",
       "title_original": "BYD to launch the new “Great Seagull” EV hatchback this year, Ocean series GM shared",
       "title_en": "BYD to launch the new “Great Seagull” EV hatchback this year, Ocean series GM shared",
       "title_zh": null,
@@ -197,7 +294,7 @@
       "url": "https://cnevpost.com/2026/08/24/leapmotor-profitable-h1-2026",
       "published_at": "2026-08-24T12:22:08Z",
       "first_seen_at": "2026-08-24T12:42:35.650944Z",
-      "last_seen_at": "2026-08-24T19:26:15.835279Z",
+      "last_seen_at": "2026-08-24T19:54:53.259540Z",
       "title_original": "Leapmotor stays profitable in H1 as margin and cash flow weaken",
       "title_en": "Leapmotor stays profitable in H1 as margin and cash flow weaken",
       "title_zh": null,
@@ -215,7 +312,7 @@
       "url": "https://cnevpost.com/2026/08/24/nio-to-invest-in-startup-by-ren-shaoqing-report",
       "published_at": "2026-08-24T11:23:32Z",
       "first_seen_at": "2026-08-24T11:24:15.268593Z",
-      "last_seen_at": "2026-08-24T19:26:15.835279Z",
+      "last_seen_at": "2026-08-24T19:54:53.259540Z",
       "title_original": "Nio reportedly to invest in embodied AI startup founded by Ren Shaoqing, who will remain smart-driving chief",
       "title_en": "Nio reportedly to invest in embodied AI startup founded by Ren Shaoqing, who will remain smart-driving chief",
       "title_zh": null,
@@ -234,7 +331,7 @@
       "url": "https://cnevpost.com/2026/08/24/xpeng-q2-2026-earnings",
       "published_at": "2026-08-24T10:47:11Z",
       "first_seen_at": "2026-08-24T11:24:15.268593Z",
-      "last_seen_at": "2026-08-24T19:26:15.835279Z",
+      "last_seen_at": "2026-08-24T19:54:53.259540Z",
       "title_original": "Xpeng Q2 revenue rises 8% as net loss nearly triples",
       "title_en": "Xpeng Q2 revenue rises 8% as net loss nearly triples",
       "title_zh": null,
@@ -253,7 +350,7 @@
       "url": "https://carnewschina.com/2026/08/24/byds-denza-z9s-sedan-with-1100-km-of-range-arrived-at-101-dealers-across-china-ahead-of-launch",
       "published_at": "2026-08-24T10:43:29Z",
       "first_seen_at": "2026-08-24T11:24:15.268593Z",
-      "last_seen_at": "2026-08-24T19:26:15.835279Z",
+      "last_seen_at": "2026-08-24T19:54:53.259540Z",
       "title_original": "BYD’s Denza Z9S sedan with 1,100 km of range arrived at 101 dealers across China ahead of launch",
       "title_en": "BYD’s Denza Z9S sedan with 1,100 km of range arrived at 101 dealers across China ahead of launch",
       "title_zh": null,
@@ -273,7 +370,7 @@
       "url": "https://cnevpost.com/2026/08/24/xpeng-carves-out-robotics-business",
       "published_at": "2026-08-24T09:46:18Z",
       "first_seen_at": "2026-08-24T10:34:07.879560Z",
-      "last_seen_at": "2026-08-24T19:26:15.835279Z",
+      "last_seen_at": "2026-08-24T19:54:53.259540Z",
       "title_original": "Xpeng carves out robotics business at $6.3 billion post‑money valuation",
       "title_en": "Xpeng carves out robotics business at $6.3 billion post‑money valuation",
       "title_zh": null,
@@ -292,7 +389,7 @@
       "url": "https://www.dongchedi.com/article/7676689218626404889",
       "published_at": null,
       "first_seen_at": "2026-08-24T07:55:34.471171Z",
-      "last_seen_at": "2026-08-24T19:26:15.835279Z",
+      "last_seen_at": "2026-08-24T19:54:53.259540Z",
       "title_original": "吉利银河与领克启动召回 激光雷达隐患涉及超9万辆车",
       "title_en": null,
       "title_zh": "吉利银河与领克启动召回 激光雷达隐患涉及超9万辆车",
@@ -312,7 +409,7 @@
       "url": "https://www.dongchedi.com/article/7676366125870219838",
       "published_at": null,
       "first_seen_at": "2026-08-24T07:55:34.471171Z",
-      "last_seen_at": "2026-08-24T19:26:15.835279Z",
+      "last_seen_at": "2026-08-24T19:54:53.259540Z",
       "title_original": "2026成都车展 小鹏X9售30.98万起 全系选购指南",
       "title_en": null,
       "title_zh": "2026成都车展 小鹏X9售30.98万起 全系选购指南",
@@ -331,7 +428,7 @@
       "url": "https://cnevpost.com/2026/08/24/xiaomi-unveils-xring-d100-smart-driving-chip",
       "published_at": "2026-08-24T07:44:08Z",
       "first_seen_at": "2026-08-24T07:55:34.471171Z",
-      "last_seen_at": "2026-08-24T19:26:15.835279Z",
+      "last_seen_at": "2026-08-24T19:54:53.259540Z",
       "title_original": "Xiaomi unveils 3-nm Xring D100 smart-driving chip, plans commercial use in 2027",
       "title_en": "Xiaomi unveils 3-nm Xring D100 smart-driving chip, plans commercial use in 2027",
       "title_zh": null,
@@ -350,7 +447,7 @@
       "url": "https://carnewschina.com/2026/08/24/byd-da-han-ev-full-size-sedan-reached-dealers-in-china",
       "published_at": "2026-08-24T07:07:32Z",
       "first_seen_at": "2026-08-24T07:55:34.471171Z",
-      "last_seen_at": "2026-08-24T19:26:15.835279Z",
+      "last_seen_at": "2026-08-24T19:54:53.259540Z",
       "title_original": "BYD Da Han EV full-size sedan reached dealers in China",
       "title_en": "BYD Da Han EV full-size sedan reached dealers in China",
       "title_zh": null,
@@ -370,7 +467,7 @@
       "url": "https://cnevpost.com/2026/08/24/zeekr-7x-orders-top-200000-globally",
       "published_at": "2026-08-24T03:36:13Z",
       "first_seen_at": "2026-08-24T03:52:04.255007Z",
-      "last_seen_at": "2026-08-24T19:26:15.835279Z",
+      "last_seen_at": "2026-08-24T19:54:53.259540Z",
       "title_original": "Zeekr 7X orders top 200,000 globally, now sold in more than 50 countries",
       "title_en": "Zeekr 7X orders top 200,000 globally, now sold in more than 50 countries",
       "title_zh": null,
@@ -389,7 +486,7 @@
       "url": "https://cnevpost.com/2026/08/24/byd-exec-ocean-mpv-may-launch-year-end",
       "published_at": "2026-08-24T02:56:42Z",
       "first_seen_at": "2026-08-24T03:52:04.255007Z",
-      "last_seen_at": "2026-08-24T19:26:15.835279Z",
+      "last_seen_at": "2026-08-24T19:54:53.259540Z",
       "title_original": "BYD exec says Ocean lineup's first MPV may launch by year-end",
       "title_en": "BYD exec says Ocean lineup's first MPV may launch by year-end",
       "title_zh": null,
@@ -398,47 +495,104 @@
         "新能源",
         "车企竞争",
         "新车上市"
-      ]
-    },
-    {
-      "id": "2bcca557f24cd8856c3742d7885793d0a336645c",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "捷途旅行者7，全新造型，方盒子SUV，成都车展首发亮相，新车抢先看",
-      "url": "http://vc.yiche.com/vplay/12742571.html",
-      "published_at": null,
-      "first_seen_at": "2026-08-23T19:44:16.810993Z",
-      "last_seen_at": "2026-08-24T19:26:15.835279Z",
-      "title_original": "捷途旅行者7，全新造型，方盒子SUV，成都车展首发亮相，新车抢先看",
-      "title_en": null,
-      "title_zh": "捷途旅行者7，全新造型，方盒子SUV，成都车展首发亮相，新车抢先看",
-      "title_bilingual": "捷途旅行者7，全新造型，方盒子SUV，成都车展首发亮相，新车抢先看",
-      "topic_tags": [
-        "新车上市"
-      ]
-    },
-    {
-      "id": "72acc109987c1618118c528b5628617accf0182f",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "座舱、智驾都有升级，全新红旗HS5又能大卖？",
-      "url": "http://vc.yiche.com/vplay/12746911.html",
-      "published_at": null,
-      "first_seen_at": "2026-08-23T19:44:16.810993Z",
-      "last_seen_at": "2026-08-24T19:26:15.835279Z",
-      "title_original": "座舱、智驾都有升级，全新红旗HS5又能大卖？",
-      "title_en": null,
-      "title_zh": "座舱、智驾都有升级，全新红旗HS5又能大卖？",
-      "title_bilingual": "座舱、智驾都有升级，全新红旗HS5又能大卖？",
-      "topic_tags": [
-        "智能驾驶"
       ]
     }
   ],
   "items_ai": [
     {
+      "id": "bd40ef5573f44dd87614ec152892f1d92444bae1",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "想买大五座SUV的再等等，大众ID.ERA 8X年内上市",
+      "url": "http://vc.yiche.com/vplay/12767813.html",
+      "published_at": null,
+      "first_seen_at": "2026-08-24T19:54:53.259540Z",
+      "last_seen_at": "2026-08-24T19:54:53.259540Z",
+      "title_original": "想买大五座SUV的再等等，大众ID.ERA 8X年内上市",
+      "title_en": null,
+      "title_zh": "想买大五座SUV的再等等，大众ID.ERA 8X年内上市",
+      "title_bilingual": "想买大五座SUV的再等等，大众ID.ERA 8X年内上市",
+      "topic_tags": [
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "9152c99649490b2f0cb082199e1a50930f0edfe5",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "近5.3米尺寸插混旗舰，续航超1600km，天地尾门，方程豹钛9抢先看",
+      "url": "http://vc.yiche.com/vplay/12756207.html",
+      "published_at": null,
+      "first_seen_at": "2026-08-24T19:54:53.259540Z",
+      "last_seen_at": "2026-08-24T19:54:53.259540Z",
+      "title_original": "近5.3米尺寸插混旗舰，续航超1600km，天地尾门，方程豹钛9抢先看",
+      "title_en": null,
+      "title_zh": "近5.3米尺寸插混旗舰，续航超1600km，天地尾门，方程豹钛9抢先看",
+      "title_bilingual": "近5.3米尺寸插混旗舰，续航超1600km，天地尾门，方程豹钛9抢先看",
+      "topic_tags": [
+        "新能源",
+        "补能电池"
+      ]
+    },
+    {
+      "id": "c47e4b16eeffa0361de5298bcc1dbe72d4c89907",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "智界RX，鸿蒙智行X序列首车！",
+      "url": "http://vc.yiche.com/vplay/12792740.html",
+      "published_at": null,
+      "first_seen_at": "2026-08-24T19:54:53.259540Z",
+      "last_seen_at": "2026-08-24T19:54:53.259540Z",
+      "title_original": "智界RX，鸿蒙智行X序列首车！",
+      "title_en": null,
+      "title_zh": "智界RX，鸿蒙智行X序列首车！",
+      "title_bilingual": "智界RX，鸿蒙智行X序列首车！",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "21ff448eb5775323ddb0b5b19ec0e90434caf35f",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "ID.ERA 8X不是小号9X，大众这次把家庭SUV想明白了",
+      "url": "http://vc.yiche.com/vplay/12750334.html",
+      "published_at": null,
+      "first_seen_at": "2026-08-24T19:54:53.259540Z",
+      "last_seen_at": "2026-08-24T19:54:53.259540Z",
+      "title_original": "ID.ERA 8X不是小号9X，大众这次把家庭SUV想明白了",
+      "title_en": null,
+      "title_zh": "ID.ERA 8X不是小号9X，大众这次把家庭SUV想明白了",
+      "title_bilingual": "ID.ERA 8X不是小号9X，大众这次把家庭SUV想明白了",
+      "topic_tags": [
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "5b63eb9b76e5a97cf4a2b778d8815bfcf604adfb",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "踏实造车不搞营销噱头，长城H10这车真行",
+      "url": "http://vc.yiche.com/vplay/12755143.html",
+      "published_at": null,
+      "first_seen_at": "2026-08-24T19:54:53.259540Z",
+      "last_seen_at": "2026-08-24T19:54:53.259540Z",
+      "title_original": "踏实造车不搞营销噱头，长城H10这车真行",
+      "title_en": null,
+      "title_zh": "踏实造车不搞营销噱头，长城H10这车真行",
+      "title_bilingual": "踏实造车不搞营销噱头，长城H10这车真行",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
       "id": "4a7767b5438b3edf52e1441440e43a60c72bc606",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -447,7 +601,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/962e5b66bf51e731/115832559-1.html",
       "published_at": null,
       "first_seen_at": "2026-08-24T17:27:28.462504Z",
-      "last_seen_at": "2026-08-24T19:26:15.835279Z",
+      "last_seen_at": "2026-08-24T19:54:53.259540Z",
       "title_original": "大大大大大！探店体验下小鹏G9L",
       "title_en": null,
       "title_zh": "大大大大大！探店体验下小鹏G9L",
@@ -466,7 +620,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/3247900e9108e44e/115927147-1.html",
       "published_at": null,
       "first_seen_at": "2026-08-24T17:27:28.462504Z",
-      "last_seen_at": "2026-08-24T19:26:15.835279Z",
+      "last_seen_at": "2026-08-24T19:54:53.259540Z",
       "title_original": "三品牌齐发力 车展打卡蔚来展台",
       "title_en": null,
       "title_zh": "三品牌齐发力 车展打卡蔚来展台",
@@ -485,7 +639,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/8a5c1f750a0c78a9/115845783-1.html",
       "published_at": null,
       "first_seen_at": "2026-08-24T17:27:28.462504Z",
-      "last_seen_at": "2026-08-24T19:26:15.835279Z",
+      "last_seen_at": "2026-08-24T19:54:53.259540Z",
       "title_original": "老车主再下单 小鹏MONA L03提车日记",
       "title_en": null,
       "title_zh": "老车主再下单 小鹏MONA L03提车日记",
@@ -504,7 +658,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/f1612678a0ed222b/115827134-1.html",
       "published_at": null,
       "first_seen_at": "2026-08-24T17:27:28.462504Z",
-      "last_seen_at": "2026-08-24T19:26:15.835279Z",
+      "last_seen_at": "2026-08-24T19:54:53.259540Z",
       "title_original": "市区很灵活 长安Lumin提车作业分享",
       "title_en": null,
       "title_zh": "市区很灵活 长安Lumin提车作业分享",
@@ -542,7 +696,7 @@
       "url": "https://news.ycombinator.com/item?id=49420873",
       "published_at": "2026-08-24T16:07:27.264000Z",
       "first_seen_at": "2026-08-24T16:33:28.214748Z",
-      "last_seen_at": "2026-08-24T19:26:15.835279Z",
+      "last_seen_at": "2026-08-24T19:54:53.259540Z",
       "title_original": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
       "title_en": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
       "title_zh": null,
@@ -560,7 +714,7 @@
       "url": "https://carnewschina.com/2026/08/24/byd-to-launch-the-new-great-seagull-ev-hatchback-this-year-ocean-series-gm-shared",
       "published_at": "2026-08-24T14:51:20Z",
       "first_seen_at": "2026-08-24T15:36:06.090052Z",
-      "last_seen_at": "2026-08-24T19:26:15.835279Z",
+      "last_seen_at": "2026-08-24T19:54:53.259540Z",
       "title_original": "BYD to launch the new “Great Seagull” EV hatchback this year, Ocean series GM shared",
       "title_en": "BYD to launch the new “Great Seagull” EV hatchback this year, Ocean series GM shared",
       "title_zh": null,
@@ -579,7 +733,7 @@
       "url": "https://cnevpost.com/2026/08/24/leapmotor-profitable-h1-2026",
       "published_at": "2026-08-24T12:22:08Z",
       "first_seen_at": "2026-08-24T12:42:35.650944Z",
-      "last_seen_at": "2026-08-24T19:26:15.835279Z",
+      "last_seen_at": "2026-08-24T19:54:53.259540Z",
       "title_original": "Leapmotor stays profitable in H1 as margin and cash flow weaken",
       "title_en": "Leapmotor stays profitable in H1 as margin and cash flow weaken",
       "title_zh": null,
@@ -597,7 +751,7 @@
       "url": "https://cnevpost.com/2026/08/24/nio-to-invest-in-startup-by-ren-shaoqing-report",
       "published_at": "2026-08-24T11:23:32Z",
       "first_seen_at": "2026-08-24T11:24:15.268593Z",
-      "last_seen_at": "2026-08-24T19:26:15.835279Z",
+      "last_seen_at": "2026-08-24T19:54:53.259540Z",
       "title_original": "Nio reportedly to invest in embodied AI startup founded by Ren Shaoqing, who will remain smart-driving chief",
       "title_en": "Nio reportedly to invest in embodied AI startup founded by Ren Shaoqing, who will remain smart-driving chief",
       "title_zh": null,
@@ -616,7 +770,7 @@
       "url": "https://cnevpost.com/2026/08/24/xpeng-q2-2026-earnings",
       "published_at": "2026-08-24T10:47:11Z",
       "first_seen_at": "2026-08-24T11:24:15.268593Z",
-      "last_seen_at": "2026-08-24T19:26:15.835279Z",
+      "last_seen_at": "2026-08-24T19:54:53.259540Z",
       "title_original": "Xpeng Q2 revenue rises 8% as net loss nearly triples",
       "title_en": "Xpeng Q2 revenue rises 8% as net loss nearly triples",
       "title_zh": null,
@@ -635,7 +789,7 @@
       "url": "https://carnewschina.com/2026/08/24/byds-denza-z9s-sedan-with-1100-km-of-range-arrived-at-101-dealers-across-china-ahead-of-launch",
       "published_at": "2026-08-24T10:43:29Z",
       "first_seen_at": "2026-08-24T11:24:15.268593Z",
-      "last_seen_at": "2026-08-24T19:26:15.835279Z",
+      "last_seen_at": "2026-08-24T19:54:53.259540Z",
       "title_original": "BYD’s Denza Z9S sedan with 1,100 km of range arrived at 101 dealers across China ahead of launch",
       "title_en": "BYD’s Denza Z9S sedan with 1,100 km of range arrived at 101 dealers across China ahead of launch",
       "title_zh": null,
@@ -655,7 +809,7 @@
       "url": "https://cnevpost.com/2026/08/24/xpeng-carves-out-robotics-business",
       "published_at": "2026-08-24T09:46:18Z",
       "first_seen_at": "2026-08-24T10:34:07.879560Z",
-      "last_seen_at": "2026-08-24T19:26:15.835279Z",
+      "last_seen_at": "2026-08-24T19:54:53.259540Z",
       "title_original": "Xpeng carves out robotics business at $6.3 billion post‑money valuation",
       "title_en": "Xpeng carves out robotics business at $6.3 billion post‑money valuation",
       "title_zh": null,
@@ -674,7 +828,7 @@
       "url": "https://www.dongchedi.com/article/7676689218626404889",
       "published_at": null,
       "first_seen_at": "2026-08-24T07:55:34.471171Z",
-      "last_seen_at": "2026-08-24T19:26:15.835279Z",
+      "last_seen_at": "2026-08-24T19:54:53.259540Z",
       "title_original": "吉利银河与领克启动召回 激光雷达隐患涉及超9万辆车",
       "title_en": null,
       "title_zh": "吉利银河与领克启动召回 激光雷达隐患涉及超9万辆车",
@@ -694,7 +848,7 @@
       "url": "https://www.dongchedi.com/article/7676366125870219838",
       "published_at": null,
       "first_seen_at": "2026-08-24T07:55:34.471171Z",
-      "last_seen_at": "2026-08-24T19:26:15.835279Z",
+      "last_seen_at": "2026-08-24T19:54:53.259540Z",
       "title_original": "2026成都车展 小鹏X9售30.98万起 全系选购指南",
       "title_en": null,
       "title_zh": "2026成都车展 小鹏X9售30.98万起 全系选购指南",
@@ -713,7 +867,7 @@
       "url": "https://cnevpost.com/2026/08/24/xiaomi-unveils-xring-d100-smart-driving-chip",
       "published_at": "2026-08-24T07:44:08Z",
       "first_seen_at": "2026-08-24T07:55:34.471171Z",
-      "last_seen_at": "2026-08-24T19:26:15.835279Z",
+      "last_seen_at": "2026-08-24T19:54:53.259540Z",
       "title_original": "Xiaomi unveils 3-nm Xring D100 smart-driving chip, plans commercial use in 2027",
       "title_en": "Xiaomi unveils 3-nm Xring D100 smart-driving chip, plans commercial use in 2027",
       "title_zh": null,
@@ -732,7 +886,7 @@
       "url": "https://carnewschina.com/2026/08/24/byd-da-han-ev-full-size-sedan-reached-dealers-in-china",
       "published_at": "2026-08-24T07:07:32Z",
       "first_seen_at": "2026-08-24T07:55:34.471171Z",
-      "last_seen_at": "2026-08-24T19:26:15.835279Z",
+      "last_seen_at": "2026-08-24T19:54:53.259540Z",
       "title_original": "BYD Da Han EV full-size sedan reached dealers in China",
       "title_en": "BYD Da Han EV full-size sedan reached dealers in China",
       "title_zh": null,
@@ -752,7 +906,7 @@
       "url": "https://cnevpost.com/2026/08/24/zeekr-7x-orders-top-200000-globally",
       "published_at": "2026-08-24T03:36:13Z",
       "first_seen_at": "2026-08-24T03:52:04.255007Z",
-      "last_seen_at": "2026-08-24T19:26:15.835279Z",
+      "last_seen_at": "2026-08-24T19:54:53.259540Z",
       "title_original": "Zeekr 7X orders top 200,000 globally, now sold in more than 50 countries",
       "title_en": "Zeekr 7X orders top 200,000 globally, now sold in more than 50 countries",
       "title_zh": null,
@@ -771,7 +925,7 @@
       "url": "https://cnevpost.com/2026/08/24/byd-exec-ocean-mpv-may-launch-year-end",
       "published_at": "2026-08-24T02:56:42Z",
       "first_seen_at": "2026-08-24T03:52:04.255007Z",
-      "last_seen_at": "2026-08-24T19:26:15.835279Z",
+      "last_seen_at": "2026-08-24T19:54:53.259540Z",
       "title_original": "BYD exec says Ocean lineup's first MPV may launch by year-end",
       "title_en": "BYD exec says Ocean lineup's first MPV may launch by year-end",
       "title_zh": null,
@@ -780,42 +934,6 @@
         "新能源",
         "车企竞争",
         "新车上市"
-      ]
-    },
-    {
-      "id": "2bcca557f24cd8856c3742d7885793d0a336645c",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "捷途旅行者7，全新造型，方盒子SUV，成都车展首发亮相，新车抢先看",
-      "url": "http://vc.yiche.com/vplay/12742571.html",
-      "published_at": null,
-      "first_seen_at": "2026-08-23T19:44:16.810993Z",
-      "last_seen_at": "2026-08-24T19:26:15.835279Z",
-      "title_original": "捷途旅行者7，全新造型，方盒子SUV，成都车展首发亮相，新车抢先看",
-      "title_en": null,
-      "title_zh": "捷途旅行者7，全新造型，方盒子SUV，成都车展首发亮相，新车抢先看",
-      "title_bilingual": "捷途旅行者7，全新造型，方盒子SUV，成都车展首发亮相，新车抢先看",
-      "topic_tags": [
-        "新车上市"
-      ]
-    },
-    {
-      "id": "72acc109987c1618118c528b5628617accf0182f",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "座舱、智驾都有升级，全新红旗HS5又能大卖？",
-      "url": "http://vc.yiche.com/vplay/12746911.html",
-      "published_at": null,
-      "first_seen_at": "2026-08-23T19:44:16.810993Z",
-      "last_seen_at": "2026-08-24T19:26:15.835279Z",
-      "title_original": "座舱、智驾都有升级，全新红旗HS5又能大卖？",
-      "title_en": null,
-      "title_zh": "座舱、智驾都有升级，全新红旗HS5又能大卖？",
-      "title_bilingual": "座舱、智驾都有升级，全新红旗HS5又能大卖？",
-      "topic_tags": [
-        "智能驾驶"
       ]
     }
   ],
