@@ -1,58 +1,62 @@
 {
-  "generated_at": "2026-09-02T07:36:35.050413Z",
+  "generated_at": "2026-09-02T12:31:22.573231Z",
   "window_hours": 24,
-  "total_items": 48,
-  "total_items_ai_raw": 55,
-  "total_items_raw": 3353,
-  "total_items_all_mode": 2946,
+  "total_items": 36,
+  "total_items_ai_raw": 43,
+  "total_items_raw": 3211,
+  "total_items_all_mode": 2832,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 75868,
+  "archive_total": 75743,
   "site_count": 3,
-  "source_count": 12,
+  "source_count": 10,
   "site_stats": [
     {
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "count": 33,
-      "raw_count": 40
+      "count": 23,
+      "raw_count": 30
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
-      "count": 15,
-      "raw_count": 3159
+      "count": 12,
+      "raw_count": 3024
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
-      "count": 0,
-      "raw_count": 154
+      "count": 1,
+      "raw_count": 157
     }
   ],
   "topic_tag_stats": [
     {
       "tag": "车企竞争",
-      "count": 32
+      "count": 24
     },
     {
       "tag": "新能源",
-      "count": 20
-    },
-    {
-      "tag": "销量市场",
-      "count": 12
+      "count": 17
     },
     {
       "tag": "新车上市",
-      "count": 11
+      "count": 9
     },
     {
       "tag": "购车决策",
       "count": 8
     },
     {
-      "tag": "供应链",
+      "tag": "销量市场",
+      "count": 8
+    },
+    {
+      "tag": "补能电池",
       "count": 3
+    },
+    {
+      "tag": "供应链",
+      "count": 1
     },
     {
       "tag": "召回安全",
@@ -61,13 +65,105 @@
     {
       "tag": "智能驾驶",
       "count": 1
-    },
-    {
-      "tag": "补能电池",
-      "count": 1
     }
   ],
   "items": [
+    {
+      "id": "5043e03ff428c6d9daf4d7484b573c6542ac4a33",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "hackernews",
+      "title": "Open Battery Information",
+      "url": "https://news.ycombinator.com/item?id=49494236",
+      "published_at": "2026-09-02T12:04:30.746000Z",
+      "first_seen_at": "2026-09-02T12:31:22.573231Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
+      "title_original": "Open Battery Information",
+      "title_en": "Open Battery Information",
+      "title_zh": null,
+      "title_bilingual": "Open Battery Information",
+      "topic_tags": [
+        "补能电池"
+      ]
+    },
+    {
+      "id": "b3005ab5d8dfd9c684a48b999a455a19f50d4f02",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Tesla China's August wholesale sales total 86,166, snapping 3-month sequential gain streak",
+      "url": "https://cnevpost.com/2026/09/02/tesla-china-aug-2026-wholesale-sales",
+      "published_at": "2026-09-02T12:01:47Z",
+      "first_seen_at": "2026-09-02T12:31:22.573231Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
+      "title_original": "Tesla China's August wholesale sales total 86,166, snapping 3-month sequential gain streak",
+      "title_en": "Tesla China's August wholesale sales total 86,166, snapping 3-month sequential gain streak",
+      "title_zh": null,
+      "title_bilingual": "Tesla China's August wholesale sales total 86,166, snapping 3-month sequential gain streak",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "b9efbe87c397c7525d74095c9e371919cb24e6ce",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "BYD launches Sealion 08 SUV, bolstering Ocean lineup's flagship push",
+      "url": "https://cnevpost.com/2026/09/02/byd-launches-sealion-08-suv",
+      "published_at": "2026-09-02T09:58:38Z",
+      "first_seen_at": "2026-09-02T12:31:22.573231Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
+      "title_original": "BYD launches Sealion 08 SUV, bolstering Ocean lineup's flagship push",
+      "title_en": "BYD launches Sealion 08 SUV, bolstering Ocean lineup's flagship push",
+      "title_zh": null,
+      "title_bilingual": "BYD launches Sealion 08 SUV, bolstering Ocean lineup's flagship push",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "1c6ce60291670e2ceb04cae73022104c1a24ee94",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "BYD Sealion 08 launches in China: second-gen Blade Battery on both PHEV and EV models",
+      "url": "https://carnewschina.com/2026/09/02/byd-sealion-08-launches-in-china-second-gen-blade-battery-on-both-phev-and-ev-models",
+      "published_at": "2026-09-02T09:56:25Z",
+      "first_seen_at": "2026-09-02T12:31:22.573231Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
+      "title_original": "BYD Sealion 08 launches in China: second-gen Blade Battery on both PHEV and EV models",
+      "title_en": "BYD Sealion 08 launches in China: second-gen Blade Battery on both PHEV and EV models",
+      "title_zh": null,
+      "title_bilingual": "BYD Sealion 08 launches in China: second-gen Blade Battery on both PHEV and EV models",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "912523b8b7ff98488d05d08710b4a5db0c4f562d",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "BYD starts mass production of new 4D radar chip, deepening in-house push",
+      "url": "https://cnevpost.com/2026/09/02/byd-mass-production-new-4d-radar-chip",
+      "published_at": "2026-09-02T09:05:59Z",
+      "first_seen_at": "2026-09-02T12:31:22.573231Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
+      "title_original": "BYD starts mass production of new 4D radar chip, deepening in-house push",
+      "title_en": "BYD starts mass production of new 4D radar chip, deepening in-house push",
+      "title_zh": null,
+      "title_bilingual": "BYD starts mass production of new 4D radar chip, deepening in-house push",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
     {
       "id": "734e76f4256bc2ecc9f51c817317ce47c0235747",
       "site_id": "tophub",
@@ -77,7 +173,7 @@
       "url": "https://www.dongchedi.com/article/7678526469756420633",
       "published_at": null,
       "first_seen_at": "2026-09-02T07:36:35.050413Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
       "title_original": "2026款大众迈腾PHEV日常实用性测试报告",
       "title_en": null,
       "title_zh": "2026款大众迈腾PHEV日常实用性测试报告",
@@ -97,7 +193,7 @@
       "url": "https://www.dongchedi.com/article/7680016583289750041",
       "published_at": null,
       "first_seen_at": "2026-09-02T07:36:35.050413Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
       "title_original": "智能车机评测：一汽-大众探岳L PHEV",
       "title_en": null,
       "title_zh": "智能车机评测：一汽-大众探岳L PHEV",
@@ -117,7 +213,7 @@
       "url": "https://cnevpost.com/2026/09/02/chery-auto-aug-2026-sales",
       "published_at": "2026-09-02T06:21:11Z",
       "first_seen_at": "2026-09-02T07:36:35.050413Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
       "title_original": "Chery Auto August sales rise 14% as exports account for over 70%",
       "title_en": "Chery Auto August sales rise 14% as exports account for over 70%",
       "title_zh": null,
@@ -135,7 +231,7 @@
       "url": "https://carnewschina.com/2026/09/02/strict-environmental-oversight-and-political-shift-delay-catl-and-byd-production-in-hungary",
       "published_at": "2026-09-02T05:51:45Z",
       "first_seen_at": "2026-09-02T07:36:35.050413Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
       "title_original": "Strict environmental oversight and political shift delay CATL and BYD production in Hungary",
       "title_en": "Strict environmental oversight and political shift delay CATL and BYD production in Hungary",
       "title_zh": null,
@@ -154,7 +250,7 @@
       "url": "https://cnevpost.com/2026/09/02/im-motors-pre-sales-updated-ls6-sept-10",
       "published_at": "2026-09-02T03:59:11Z",
       "first_seen_at": "2026-09-02T07:36:35.050413Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
       "title_original": "IM Motors to open pre-sales of updated LS6 SUV on September 10 with steer-by-wire chassis",
       "title_en": "IM Motors to open pre-sales of updated LS6 SUV on September 10 with steer-by-wire chassis",
       "title_zh": null,
@@ -173,7 +269,7 @@
       "url": "https://cnevpost.com/2026/09/02/gwm-aug-2026-sales",
       "published_at": "2026-09-02T03:14:51Z",
       "first_seen_at": "2026-09-02T07:36:35.050413Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
       "title_original": "GWM August sales fall 1.87%, overseas markets contribute over 55%",
       "title_en": "GWM August sales fall 1.87%, overseas markets contribute over 55%",
       "title_zh": null,
@@ -191,7 +287,7 @@
       "url": "https://cnevpost.com/2026/09/02/geely-aug-2026-sales",
       "published_at": "2026-09-02T02:25:35Z",
       "first_seen_at": "2026-09-02T02:49:18.031654Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
       "title_original": "Geely's August sales rise 8% as record exports offset domestic slump",
       "title_en": "Geely's August sales rise 8% as record exports offset domestic slump",
       "title_zh": null,
@@ -210,7 +306,7 @@
       "url": "https://carnewschina.com/2026/09/02/china-ev-global-sales-in-august-2026-byds-export-volumes-catching-up-with-cherys",
       "published_at": "2026-09-02T01:56:34Z",
       "first_seen_at": "2026-09-02T02:49:18.031654Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
       "title_original": "China EV global sales in August 2026: BYD’s export volumes catching up with Chery’s",
       "title_en": "China EV global sales in August 2026: BYD’s export volumes catching up with Chery’s",
       "title_zh": null,
@@ -229,7 +325,7 @@
       "url": "https://cnevpost.com/2026/09/02/xiaomi-launch-sky-nomad-lineup-sept-7",
       "published_at": "2026-09-02T01:29:50Z",
       "first_seen_at": "2026-09-02T02:49:18.031654Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
       "title_original": "Xiaomi to launch Sky Nomad EREV SUV lineup on September 7",
       "title_en": "Xiaomi to launch Sky Nomad EREV SUV lineup on September 7",
       "title_zh": null,
@@ -249,7 +345,7 @@
       "url": "http://vc.yiche.com/vplay/12987480.html",
       "published_at": null,
       "first_seen_at": "2026-09-01T21:35:01.347384Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
       "title_original": "硬件弱≠能力差！比亚迪大唐/小鹏GX/蔚来ES8城区智驾体验",
       "title_en": null,
       "title_zh": "硬件弱≠能力差！比亚迪大唐/小鹏GX/蔚来ES8城区智驾体验",
@@ -269,7 +365,7 @@
       "url": "http://vc.yiche.com/vplay/12955497.html",
       "published_at": null,
       "first_seen_at": "2026-09-01T21:35:01.347384Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
       "title_original": "30℃广州不开空调，极限实测2.8L油耗！这台7.99万混动SUV值得买吗？",
       "title_en": null,
       "title_zh": "30℃广州不开空调，极限实测2.8L油耗！这台7.99万混动SUV值得买吗？",
@@ -288,7 +384,7 @@
       "url": "http://vc.yiche.com/vplay/12954244.html",
       "published_at": null,
       "first_seen_at": "2026-09-01T21:35:01.347384Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
       "title_original": "比亚迪早这么设计不就好了嘛！海狮08把质感和技术下放玩明白了",
       "title_en": null,
       "title_zh": "比亚迪早这么设计不就好了嘛！海狮08把质感和技术下放玩明白了",
@@ -306,7 +402,7 @@
       "url": "http://vc.yiche.com/vplay/12933923.html",
       "published_at": null,
       "first_seen_at": "2026-09-01T21:35:01.347384Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
       "title_original": "比亚迪海狮 08才是科技旗舰 SUV 王炸",
       "title_en": null,
       "title_zh": "比亚迪海狮 08才是科技旗舰 SUV 王炸",
@@ -325,7 +421,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/98d915c0dea13713/115868200-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-01T18:42:42.807181Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
       "title_original": "外观颜值很高 小鹏P7提车作业分享",
       "title_en": null,
       "title_zh": "外观颜值很高 小鹏P7提车作业分享",
@@ -344,7 +440,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/66e64ac42514ed9d/115763877-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-01T18:42:42.807181Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
       "title_original": "舒适性很高 长安启源Q07提车分享",
       "title_en": null,
       "title_zh": "舒适性很高 长安启源Q07提车分享",
@@ -363,7 +459,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/80056e6339bd060a/115763312-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-01T18:42:42.807181Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
       "title_original": "底盘很扎实 AION i60提车作业分享",
       "title_en": null,
       "title_zh": "底盘很扎实 AION i60提车作业分享",
@@ -382,7 +478,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/108744599b24c851/115814676-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-01T18:42:42.807181Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
       "title_original": "动力很不错 海狮05 EV提车分享",
       "title_en": null,
       "title_zh": "动力很不错 海狮05 EV提车分享",
@@ -401,7 +497,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/e029e65cae6405f9/115767301-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-01T18:42:42.807181Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
       "title_original": "续航很满意 零跑D19提车作业分享",
       "title_en": null,
       "title_zh": "续航很满意 零跑D19提车作业分享",
@@ -421,7 +517,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/de63a8eae9f455f3/115765867-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-01T18:42:42.807181Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
       "title_original": "科技感十足 问界M6提车作业分享",
       "title_en": null,
       "title_zh": "科技感十足 问界M6提车作业分享",
@@ -429,6 +525,24 @@
       "topic_tags": [
         "车企竞争",
         "购车决策"
+      ]
+    },
+    {
+      "id": "172270246d6f2a96a51838247ebac91ce6e4a498",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "福莱新材向灵心巧手交付超3万套触觉传感器",
+      "url": "https://auto.gasgoo.com/news/202609/1I70470885C601.shtml",
+      "published_at": "2026-09-01T17:58:24Z",
+      "first_seen_at": "2026-09-02T12:31:22.573231Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
+      "title_original": "福莱新材向灵心巧手交付超3万套触觉传感器",
+      "title_en": null,
+      "title_zh": "福莱新材向灵心巧手交付超3万套触觉传感器",
+      "title_bilingual": "福莱新材向灵心巧手交付超3万套触觉传感器",
+      "topic_tags": [
+        "销量市场"
       ]
     },
     {
@@ -440,7 +554,7 @@
       "url": "https://carnewschina.com/2026/09/01/byd-made-53-revenue-overseas-as-chinas-sales-crumble",
       "published_at": "2026-09-01T17:54:09Z",
       "first_seen_at": "2026-09-01T18:42:42.807181Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
       "title_original": "BYD made 53% of its revenue overseas as China’s sales crumble",
       "title_en": "BYD made 53% of its revenue overseas as China’s sales crumble",
       "title_zh": null,
@@ -448,6 +562,45 @@
       "topic_tags": [
         "新能源",
         "车企竞争"
+      ]
+    },
+    {
+      "id": "8f51770873cacf20af1a19ae93a525cfe8e838cd",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-销量",
+      "title": "奇瑞集团8月销量28.01万辆，同比增长15.4%",
+      "url": "https://auto.gasgoo.com/news/202609/1I70470884C501.shtml",
+      "published_at": "2026-09-01T17:31:38Z",
+      "first_seen_at": "2026-09-02T12:31:22.573231Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
+      "title_original": "奇瑞集团8月销量28.01万辆，同比增长15.4%",
+      "title_en": null,
+      "title_zh": "奇瑞集团8月销量28.01万辆，同比增长15.4%",
+      "title_bilingual": "奇瑞集团8月销量28.01万辆，同比增长15.4%",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "c3c546f32055e061d51f9056e67378b799b79c05",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "三部门发布汽车行业境外竞争指引：避免境外市场频繁大幅调价",
+      "url": "https://auto.gasgoo.com/news/202609/1I70470870C1103.shtml",
+      "published_at": "2026-09-01T16:36:36Z",
+      "first_seen_at": "2026-09-02T12:31:22.573231Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
+      "title_original": "三部门发布汽车行业境外竞争指引：避免境外市场频繁大幅调价",
+      "title_en": null,
+      "title_zh": "三部门发布汽车行业境外竞争指引：避免境外市场频繁大幅调价",
+      "title_bilingual": "三部门发布汽车行业境外竞争指引：避免境外市场频繁大幅调价",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争",
+        "新车上市"
       ]
     },
     {
@@ -459,7 +612,7 @@
       "url": "https://auto.gasgoo.com/news/202609/1I70470867C110.shtml",
       "published_at": "2026-09-01T15:19:55Z",
       "first_seen_at": "2026-09-02T07:36:35.050413Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
       "title_original": "智界V9旗舰MPV 8月零售交付8312辆",
       "title_en": null,
       "title_zh": "智界V9旗舰MPV 8月零售交付8312辆",
@@ -478,7 +631,7 @@
       "url": "https://auto.gasgoo.com/news/202609/1I70470866C109.shtml",
       "published_at": "2026-09-01T15:08:12Z",
       "first_seen_at": "2026-09-02T07:36:35.050413Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
       "title_original": "Stellantis集团调整传播与公共政策管理层 两项任命即日生效",
       "title_en": null,
       "title_zh": "Stellantis集团调整传播与公共政策管理层 两项任命即日生效",
@@ -496,7 +649,7 @@
       "url": "https://auto.gasgoo.com/news/202609/1I70470862C110.shtml",
       "published_at": "2026-09-01T14:31:45Z",
       "first_seen_at": "2026-09-02T07:36:35.050413Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
       "title_original": "东风本田8月销量16891辆",
       "title_en": null,
       "title_zh": "东风本田8月销量16891辆",
@@ -514,7 +667,7 @@
       "url": "https://auto.gasgoo.com/news/202609/1I70470861C501.shtml",
       "published_at": "2026-09-01T13:29:00Z",
       "first_seen_at": "2026-09-02T07:36:35.050413Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
       "title_original": "小鹏集团8月交付新车39107台，同比增长4%",
       "title_en": null,
       "title_zh": "小鹏集团8月交付新车39107台，同比增长4%",
@@ -534,7 +687,7 @@
       "url": "https://auto.gasgoo.com/news/202609/1I70470860C110.shtml",
       "published_at": "2026-09-01T13:25:44Z",
       "first_seen_at": "2026-09-02T07:36:35.050413Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
       "title_original": "理想汽车8月交付37679辆",
       "title_en": null,
       "title_zh": "理想汽车8月交付37679辆",
@@ -553,7 +706,7 @@
       "url": "https://auto.gasgoo.com/news/202609/1I70470849C501.shtml",
       "published_at": "2026-09-01T13:16:52Z",
       "first_seen_at": "2026-09-02T07:36:35.050413Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
       "title_original": "蔚来8月交付新车35836台，同比增长14.5%",
       "title_en": null,
       "title_zh": "蔚来8月交付新车35836台，同比增长14.5%",
@@ -573,7 +726,7 @@
       "url": "https://auto.gasgoo.com/news/202609/1I70470835C108.shtml",
       "published_at": "2026-09-01T13:16:40Z",
       "first_seen_at": "2026-09-02T07:36:35.050413Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
       "title_original": "晓莺说｜18个月，能造好一辆车吗？",
       "title_en": null,
       "title_zh": "晓莺说｜18个月，能造好一辆车吗？",
@@ -589,390 +742,114 @@
       "url": "https://cnevpost.com/2026/09/01/china-sets-competition-guidelines-automakers-overseas",
       "published_at": "2026-09-01T12:33:10Z",
       "first_seen_at": "2026-09-01T15:03:31.183090Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
       "title_original": "China sets competition guidelines for automakers expanding overseas",
       "title_en": "China sets competition guidelines for automakers expanding overseas",
       "title_zh": null,
       "title_bilingual": "China sets competition guidelines for automakers expanding overseas",
       "topic_tags": [
         "新能源"
-      ]
-    },
-    {
-      "id": "9b224d9fed0b54be75a87faf3eec11d9c77f336d",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-供应链",
-      "title": "2.4亿元天使轮背后，佑驾创新旗下曜行动力集齐物理AI“硬核阵容”",
-      "url": "https://auto.gasgoo.com/news/202609/1I70470841C601.shtml",
-      "published_at": "2026-09-01T12:30:00Z",
-      "first_seen_at": "2026-09-02T07:36:35.050413Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
-      "title_original": "2.4亿元天使轮背后，佑驾创新旗下曜行动力集齐物理AI“硬核阵容”",
-      "title_en": null,
-      "title_zh": "2.4亿元天使轮背后，佑驾创新旗下曜行动力集齐物理AI“硬核阵容”",
-      "title_bilingual": "2.4亿元天使轮背后，佑驾创新旗下曜行动力集齐物理AI“硬核阵容”",
-      "topic_tags": [
-        "供应链"
-      ]
-    },
-    {
-      "id": "d4bd711458122f67d30806303a9b451228e29cb6",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Nio Q2 2026 earnings call: Live updates",
-      "url": "https://cnevpost.com/2026/09/01/nio-q2-2026-earnings-call-live",
-      "published_at": "2026-09-01T12:27:37Z",
-      "first_seen_at": "2026-09-01T15:03:31.183090Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
-      "title_original": "Nio Q2 2026 earnings call: Live updates",
-      "title_en": "Nio Q2 2026 earnings call: Live updates",
-      "title_zh": null,
-      "title_bilingual": "Nio Q2 2026 earnings call: Live updates",
-      "topic_tags": [
-        "新能源",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "7125bdfcdb3206e9278e59895620ec64081a1fd4",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "【国际快讯】美加关税纷争，丰田本田首当其冲；本田日产达成汽车软件联合开发协议；奔驰启动10亿欧元股票回购计划",
-      "url": "https://auto.gasgoo.com/news/202609/1I70470847C108.shtml",
-      "published_at": "2026-09-01T12:14:25Z",
-      "first_seen_at": "2026-09-02T07:36:35.050413Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
-      "title_original": "【国际快讯】美加关税纷争，丰田本田首当其冲；本田日产达成汽车软件联合开发协议；奔驰启动10亿欧元股票回购计划",
-      "title_en": null,
-      "title_zh": "【国际快讯】美加关税纷争，丰田本田首当其冲；本田日产达成汽车软件联合开发协议；奔驰启动10亿欧元股票回购计划",
-      "title_bilingual": "【国际快讯】美加关税纷争，丰田本田首当其冲；本田日产达成汽车软件联合开发协议；奔驰启动10亿欧元股票回购计划",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "3e7dca20a52d43f13db950ca9814e0e40bbe103f",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-销量",
-      "title": "深蓝汽车8月全球销量28,659辆，累计销量逼近百万",
-      "url": "https://auto.gasgoo.com/news/202609/1I70470846C110.shtml",
-      "published_at": "2026-09-01T11:55:50Z",
-      "first_seen_at": "2026-09-02T07:36:35.050413Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
-      "title_original": "深蓝汽车8月全球销量28,659辆，累计销量逼近百万",
-      "title_en": null,
-      "title_zh": "深蓝汽车8月全球销量28,659辆，累计销量逼近百万",
-      "title_bilingual": "深蓝汽车8月全球销量28,659辆，累计销量逼近百万",
-      "topic_tags": [
-        "销量市场"
-      ]
-    },
-    {
-      "id": "0b9bc45269d81f24ce79dc3bf505d6f7b0e699cb",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-供应链",
-      "title": "采埃孚新获两家中国车企项目定点",
-      "url": "https://auto.gasgoo.com/news/202609/1I70470845C103.shtml",
-      "published_at": "2026-09-01T11:43:21Z",
-      "first_seen_at": "2026-09-02T07:36:35.050413Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
-      "title_original": "采埃孚新获两家中国车企项目定点",
-      "title_en": null,
-      "title_zh": "采埃孚新获两家中国车企项目定点",
-      "title_bilingual": "采埃孚新获两家中国车企项目定点",
-      "topic_tags": [
-        "车企竞争",
-        "供应链"
-      ]
-    },
-    {
-      "id": "975cc27221f97d9d11ae8d4b827b0b94f0159dad",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新能源",
-      "title": "零跑8月全球交付103129台",
-      "url": "https://auto.gasgoo.com/news/202609/1I70470844C501.shtml",
-      "published_at": "2026-09-01T11:34:33Z",
-      "first_seen_at": "2026-09-02T07:36:35.050413Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
-      "title_original": "零跑8月全球交付103129台",
-      "title_en": null,
-      "title_zh": "零跑8月全球交付103129台",
-      "title_bilingual": "零跑8月全球交付103129台",
-      "topic_tags": [
-        "新能源",
-        "销量市场",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "6e0c2f07d49ea508c0449cc65efe21367381026f",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新能源",
-      "title": "极氪8月交付新车36981辆",
-      "url": "https://auto.gasgoo.com/news/202609/1I70470843C501.shtml",
-      "published_at": "2026-09-01T11:30:07Z",
-      "first_seen_at": "2026-09-02T07:36:35.050413Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
-      "title_original": "极氪8月交付新车36981辆",
-      "title_en": null,
-      "title_zh": "极氪8月交付新车36981辆",
-      "title_bilingual": "极氪8月交付新车36981辆",
-      "topic_tags": [
-        "新能源",
-        "销量市场",
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "03f5be3ada770c9f6e018fdf78bb52e777345d0f",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "上汽通用五菱8月全球销量达130870辆，海外累计销量突破160万辆",
-      "url": "https://auto.gasgoo.com/news/202609/1I70470842C109.shtml",
-      "published_at": "2026-09-01T11:15:02Z",
-      "first_seen_at": "2026-09-02T07:36:35.050413Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
-      "title_original": "上汽通用五菱8月全球销量达130870辆，海外累计销量突破160万辆",
-      "title_en": null,
-      "title_zh": "上汽通用五菱8月全球销量达130870辆，海外累计销量突破160万辆",
-      "title_bilingual": "上汽通用五菱8月全球销量达130870辆，海外累计销量突破160万辆",
-      "topic_tags": [
-        "销量市场",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "cdaad2e0ee919d9f280ab8b8294f8cb90df2591f",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新车",
-      "title": "MG07大定锁单突破31000+",
-      "url": "https://auto.gasgoo.com/news/202609/1I70470840C107.shtml",
-      "published_at": "2026-09-01T10:53:23Z",
-      "first_seen_at": "2026-09-02T07:36:35.050413Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
-      "title_original": "MG07大定锁单突破31000+",
-      "title_en": null,
-      "title_zh": "MG07大定锁单突破31000+",
-      "title_bilingual": "MG07大定锁单突破31000+",
-      "topic_tags": [
-        "新车上市"
-      ]
-    },
-    {
-      "id": "8bdc866790882a2c5058a8511f6254571cc8f581",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "懂车帝 · 文章排行榜",
-      "title": "2026款iCAR超级V23S新车商品性评价",
-      "url": "https://www.dongchedi.com/article/7679996741509710361",
-      "published_at": null,
-      "first_seen_at": "2026-09-01T10:21:38.735599Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
-      "title_original": "2026款iCAR超级V23S新车商品性评价",
-      "title_en": null,
-      "title_zh": "2026款iCAR超级V23S新车商品性评价",
-      "title_bilingual": "2026款iCAR超级V23S新车商品性评价",
-      "topic_tags": [
-        "新车上市"
-      ]
-    },
-    {
-      "id": "f61455aac639c25a326c726150c1d3126d8ea713",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "懂车帝 · 文章排行榜",
-      "title": "英伟达暴涨带来的红利，特斯拉没拿到，反而是吉利先吃下？",
-      "url": "https://www.dongchedi.com/article/7678948078782562841",
-      "published_at": null,
-      "first_seen_at": "2026-09-01T10:21:38.735599Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
-      "title_original": "英伟达暴涨带来的红利，特斯拉没拿到，反而是吉利先吃下？",
-      "title_en": null,
-      "title_zh": "英伟达暴涨带来的红利，特斯拉没拿到，反而是吉利先吃下？",
-      "title_bilingual": "英伟达暴涨带来的红利，特斯拉没拿到，反而是吉利先吃下？",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "fb0b246c73ed10330182b215a1fc91f4bb637a24",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "懂车帝 · 文章排行榜",
-      "title": "当SUV市场学会理想，理想汽车开始换挡",
-      "url": "https://www.dongchedi.com/article/7678503248332309017",
-      "published_at": null,
-      "first_seen_at": "2026-09-01T10:21:38.735599Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
-      "title_original": "当SUV市场学会理想，理想汽车开始换挡",
-      "title_en": null,
-      "title_zh": "当SUV市场学会理想，理想汽车开始换挡",
-      "title_bilingual": "当SUV市场学会理想，理想汽车开始换挡",
-      "topic_tags": [
-        "销量市场",
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "f2ebb5fdd34ec3bf83eac14f680937ce00c0a9d9",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Nio extends adjusted operating-profit streak as product mix lifts margins",
-      "url": "https://cnevpost.com/2026/09/01/nio-earnings-q2-2026",
-      "published_at": "2026-09-01T10:18:42Z",
-      "first_seen_at": "2026-09-01T10:21:38.735599Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
-      "title_original": "Nio extends adjusted operating-profit streak as product mix lifts margins",
-      "title_en": "Nio extends adjusted operating-profit streak as product mix lifts margins",
-      "title_zh": null,
-      "title_bilingual": "Nio extends adjusted operating-profit streak as product mix lifts margins",
-      "topic_tags": [
-        "新能源",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "12de78c1ba779070c5038b0ce83aa05f23d6cb2e",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-销量",
-      "title": "鸿蒙智行8月交付42101台，累计突破152万台",
-      "url": "https://auto.gasgoo.com/news/202609/1I70470836C110.shtml",
-      "published_at": "2026-09-01T10:00:12Z",
-      "first_seen_at": "2026-09-02T02:49:18.031654Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
-      "title_original": "鸿蒙智行8月交付42101台，累计突破152万台",
-      "title_en": null,
-      "title_zh": "鸿蒙智行8月交付42101台，累计突破152万台",
-      "title_bilingual": "鸿蒙智行8月交付42101台，累计突破152万台",
-      "topic_tags": [
-        "销量市场",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "cd80118c39b777472be259483c5e5228af1e4a6f",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-销量",
-      "title": "小米汽车8月交付量超3万台 连续五月稳居3万台阶",
-      "url": "https://auto.gasgoo.com/news/202609/1I70470834C110.shtml",
-      "published_at": "2026-09-01T09:44:53Z",
-      "first_seen_at": "2026-09-02T02:49:18.031654Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
-      "title_original": "小米汽车8月交付量超3万台 连续五月稳居3万台阶",
-      "title_en": null,
-      "title_zh": "小米汽车8月交付量超3万台 连续五月稳居3万台阶",
-      "title_bilingual": "小米汽车8月交付量超3万台 连续五月稳居3万台阶",
-      "topic_tags": [
-        "销量市场",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "d5e59c7d1571dc979a9d6455bdc7025356aa36dd",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "BYD August sales rise 17.8% to 440,293 as overseas sales hit new record",
-      "url": "https://cnevpost.com/2026/09/01/byd-aug-2026-sales",
-      "published_at": "2026-09-01T09:25:51Z",
-      "first_seen_at": "2026-09-01T10:21:38.735599Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
-      "title_original": "BYD August sales rise 17.8% to 440,293 as overseas sales hit new record",
-      "title_en": "BYD August sales rise 17.8% to 440,293 as overseas sales hit new record",
-      "title_zh": null,
-      "title_bilingual": "BYD August sales rise 17.8% to 440,293 as overseas sales hit new record",
-      "topic_tags": [
-        "新能源",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "3f31a187dcba0e9ba97f5c81afe2300cecc507d9",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "BYD Fang Cheng Bao Formula S GT station wagon arrived at dealers ahead of launch",
-      "url": "https://carnewschina.com/2026/09/01/byd-fang-cheng-bao-formula-s-gt-station-wagon-arrived-at-dealers-ahead-of-launch",
-      "published_at": "2026-09-01T08:24:10Z",
-      "first_seen_at": "2026-09-01T10:21:38.735599Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
-      "title_original": "BYD Fang Cheng Bao Formula S GT station wagon arrived at dealers ahead of launch",
-      "title_en": "BYD Fang Cheng Bao Formula S GT station wagon arrived at dealers ahead of launch",
-      "title_zh": null,
-      "title_bilingual": "BYD Fang Cheng Bao Formula S GT station wagon arrived at dealers ahead of launch",
-      "topic_tags": [
-        "新能源",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "b4199fdb4dab98e8a976bb97c6ce4a5a38fffe16",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-智能网联",
-      "title": "100万小时之后，机器人为什么还喊“饿”？",
-      "url": "https://auto.gasgoo.com/news/202609/1I70470804C601.shtml",
-      "published_at": "2026-09-01T07:45:40Z",
-      "first_seen_at": "2026-09-01T23:46:43.975077Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
-      "title_original": "100万小时之后，机器人为什么还喊“饿”？",
-      "title_en": null,
-      "title_zh": "100万小时之后，机器人为什么还喊“饿”？",
-      "title_bilingual": "100万小时之后，机器人为什么还喊“饿”？",
-      "topic_tags": []
-    },
-    {
-      "id": "7ee244d27934521f9046e124f5206eaa9d9c703e",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-智能网联",
-      "title": "文远知行将于9月14日起纳入港交所科技100指数",
-      "url": "https://auto.gasgoo.com/news/202609/1I70470825C601.shtml",
-      "published_at": "2026-09-01T07:45:18Z",
-      "first_seen_at": "2026-09-01T23:46:43.975077Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
-      "title_original": "文远知行将于9月14日起纳入港交所科技100指数",
-      "title_en": null,
-      "title_zh": "文远知行将于9月14日起纳入港交所科技100指数",
-      "title_bilingual": "文远知行将于9月14日起纳入港交所科技100指数",
-      "topic_tags": []
-    },
-    {
-      "id": "92d11ec5e023adfe590bd414d4c49e2bd7d22238",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Zeekr delivers 36,981 vehicles in August, fifth straight monthly record",
-      "url": "https://cnevpost.com/2026/09/01/zeekr-aug-2026-deliveries",
-      "published_at": "2026-09-01T07:43:08Z",
-      "first_seen_at": "2026-09-01T10:21:38.735599Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
-      "title_original": "Zeekr delivers 36,981 vehicles in August, fifth straight monthly record",
-      "title_en": "Zeekr delivers 36,981 vehicles in August, fifth straight monthly record",
-      "title_zh": null,
-      "title_bilingual": "Zeekr delivers 36,981 vehicles in August, fifth straight monthly record",
-      "topic_tags": [
-        "新能源",
-        "车企竞争"
       ]
     }
   ],
   "items_ai": [
     {
+      "id": "5043e03ff428c6d9daf4d7484b573c6542ac4a33",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "hackernews",
+      "title": "Open Battery Information",
+      "url": "https://news.ycombinator.com/item?id=49494236",
+      "published_at": "2026-09-02T12:04:30.746000Z",
+      "first_seen_at": "2026-09-02T12:31:22.573231Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
+      "title_original": "Open Battery Information",
+      "title_en": "Open Battery Information",
+      "title_zh": null,
+      "title_bilingual": "Open Battery Information",
+      "topic_tags": [
+        "补能电池"
+      ]
+    },
+    {
+      "id": "b3005ab5d8dfd9c684a48b999a455a19f50d4f02",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Tesla China's August wholesale sales total 86,166, snapping 3-month sequential gain streak",
+      "url": "https://cnevpost.com/2026/09/02/tesla-china-aug-2026-wholesale-sales",
+      "published_at": "2026-09-02T12:01:47Z",
+      "first_seen_at": "2026-09-02T12:31:22.573231Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
+      "title_original": "Tesla China's August wholesale sales total 86,166, snapping 3-month sequential gain streak",
+      "title_en": "Tesla China's August wholesale sales total 86,166, snapping 3-month sequential gain streak",
+      "title_zh": null,
+      "title_bilingual": "Tesla China's August wholesale sales total 86,166, snapping 3-month sequential gain streak",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "b9efbe87c397c7525d74095c9e371919cb24e6ce",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "BYD launches Sealion 08 SUV, bolstering Ocean lineup's flagship push",
+      "url": "https://cnevpost.com/2026/09/02/byd-launches-sealion-08-suv",
+      "published_at": "2026-09-02T09:58:38Z",
+      "first_seen_at": "2026-09-02T12:31:22.573231Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
+      "title_original": "BYD launches Sealion 08 SUV, bolstering Ocean lineup's flagship push",
+      "title_en": "BYD launches Sealion 08 SUV, bolstering Ocean lineup's flagship push",
+      "title_zh": null,
+      "title_bilingual": "BYD launches Sealion 08 SUV, bolstering Ocean lineup's flagship push",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "1c6ce60291670e2ceb04cae73022104c1a24ee94",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "BYD Sealion 08 launches in China: second-gen Blade Battery on both PHEV and EV models",
+      "url": "https://carnewschina.com/2026/09/02/byd-sealion-08-launches-in-china-second-gen-blade-battery-on-both-phev-and-ev-models",
+      "published_at": "2026-09-02T09:56:25Z",
+      "first_seen_at": "2026-09-02T12:31:22.573231Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
+      "title_original": "BYD Sealion 08 launches in China: second-gen Blade Battery on both PHEV and EV models",
+      "title_en": "BYD Sealion 08 launches in China: second-gen Blade Battery on both PHEV and EV models",
+      "title_zh": null,
+      "title_bilingual": "BYD Sealion 08 launches in China: second-gen Blade Battery on both PHEV and EV models",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "912523b8b7ff98488d05d08710b4a5db0c4f562d",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "BYD starts mass production of new 4D radar chip, deepening in-house push",
+      "url": "https://cnevpost.com/2026/09/02/byd-mass-production-new-4d-radar-chip",
+      "published_at": "2026-09-02T09:05:59Z",
+      "first_seen_at": "2026-09-02T12:31:22.573231Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
+      "title_original": "BYD starts mass production of new 4D radar chip, deepening in-house push",
+      "title_en": "BYD starts mass production of new 4D radar chip, deepening in-house push",
+      "title_zh": null,
+      "title_bilingual": "BYD starts mass production of new 4D radar chip, deepening in-house push",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
       "id": "734e76f4256bc2ecc9f51c817317ce47c0235747",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -981,7 +858,7 @@
       "url": "https://www.dongchedi.com/article/7678526469756420633",
       "published_at": null,
       "first_seen_at": "2026-09-02T07:36:35.050413Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
       "title_original": "2026款大众迈腾PHEV日常实用性测试报告",
       "title_en": null,
       "title_zh": "2026款大众迈腾PHEV日常实用性测试报告",
@@ -1001,7 +878,7 @@
       "url": "https://www.dongchedi.com/article/7680016583289750041",
       "published_at": null,
       "first_seen_at": "2026-09-02T07:36:35.050413Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
       "title_original": "智能车机评测：一汽-大众探岳L PHEV",
       "title_en": null,
       "title_zh": "智能车机评测：一汽-大众探岳L PHEV",
@@ -1021,7 +898,7 @@
       "url": "https://cnevpost.com/2026/09/02/chery-auto-aug-2026-sales",
       "published_at": "2026-09-02T06:21:11Z",
       "first_seen_at": "2026-09-02T07:36:35.050413Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
       "title_original": "Chery Auto August sales rise 14% as exports account for over 70%",
       "title_en": "Chery Auto August sales rise 14% as exports account for over 70%",
       "title_zh": null,
@@ -1039,7 +916,7 @@
       "url": "https://carnewschina.com/2026/09/02/strict-environmental-oversight-and-political-shift-delay-catl-and-byd-production-in-hungary",
       "published_at": "2026-09-02T05:51:45Z",
       "first_seen_at": "2026-09-02T07:36:35.050413Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
       "title_original": "Strict environmental oversight and political shift delay CATL and BYD production in Hungary",
       "title_en": "Strict environmental oversight and political shift delay CATL and BYD production in Hungary",
       "title_zh": null,
@@ -1058,7 +935,7 @@
       "url": "https://cnevpost.com/2026/09/02/im-motors-pre-sales-updated-ls6-sept-10",
       "published_at": "2026-09-02T03:59:11Z",
       "first_seen_at": "2026-09-02T07:36:35.050413Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
       "title_original": "IM Motors to open pre-sales of updated LS6 SUV on September 10 with steer-by-wire chassis",
       "title_en": "IM Motors to open pre-sales of updated LS6 SUV on September 10 with steer-by-wire chassis",
       "title_zh": null,
@@ -1077,7 +954,7 @@
       "url": "https://cnevpost.com/2026/09/02/gwm-aug-2026-sales",
       "published_at": "2026-09-02T03:14:51Z",
       "first_seen_at": "2026-09-02T07:36:35.050413Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
       "title_original": "GWM August sales fall 1.87%, overseas markets contribute over 55%",
       "title_en": "GWM August sales fall 1.87%, overseas markets contribute over 55%",
       "title_zh": null,
@@ -1095,7 +972,7 @@
       "url": "https://cnevpost.com/2026/09/02/geely-aug-2026-sales",
       "published_at": "2026-09-02T02:25:35Z",
       "first_seen_at": "2026-09-02T02:49:18.031654Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
       "title_original": "Geely's August sales rise 8% as record exports offset domestic slump",
       "title_en": "Geely's August sales rise 8% as record exports offset domestic slump",
       "title_zh": null,
@@ -1114,7 +991,7 @@
       "url": "https://carnewschina.com/2026/09/02/china-ev-global-sales-in-august-2026-byds-export-volumes-catching-up-with-cherys",
       "published_at": "2026-09-02T01:56:34Z",
       "first_seen_at": "2026-09-02T02:49:18.031654Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
       "title_original": "China EV global sales in August 2026: BYD’s export volumes catching up with Chery’s",
       "title_en": "China EV global sales in August 2026: BYD’s export volumes catching up with Chery’s",
       "title_zh": null,
@@ -1133,7 +1010,7 @@
       "url": "https://cnevpost.com/2026/09/02/xiaomi-launch-sky-nomad-lineup-sept-7",
       "published_at": "2026-09-02T01:29:50Z",
       "first_seen_at": "2026-09-02T02:49:18.031654Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
       "title_original": "Xiaomi to launch Sky Nomad EREV SUV lineup on September 7",
       "title_en": "Xiaomi to launch Sky Nomad EREV SUV lineup on September 7",
       "title_zh": null,
@@ -1153,7 +1030,7 @@
       "url": "http://vc.yiche.com/vplay/12987480.html",
       "published_at": null,
       "first_seen_at": "2026-09-01T21:35:01.347384Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
       "title_original": "硬件弱≠能力差！比亚迪大唐/小鹏GX/蔚来ES8城区智驾体验",
       "title_en": null,
       "title_zh": "硬件弱≠能力差！比亚迪大唐/小鹏GX/蔚来ES8城区智驾体验",
@@ -1173,7 +1050,7 @@
       "url": "http://vc.yiche.com/vplay/12955497.html",
       "published_at": null,
       "first_seen_at": "2026-09-01T21:35:01.347384Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
       "title_original": "30℃广州不开空调，极限实测2.8L油耗！这台7.99万混动SUV值得买吗？",
       "title_en": null,
       "title_zh": "30℃广州不开空调，极限实测2.8L油耗！这台7.99万混动SUV值得买吗？",
@@ -1192,7 +1069,7 @@
       "url": "http://vc.yiche.com/vplay/12954244.html",
       "published_at": null,
       "first_seen_at": "2026-09-01T21:35:01.347384Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
       "title_original": "比亚迪早这么设计不就好了嘛！海狮08把质感和技术下放玩明白了",
       "title_en": null,
       "title_zh": "比亚迪早这么设计不就好了嘛！海狮08把质感和技术下放玩明白了",
@@ -1210,7 +1087,7 @@
       "url": "http://vc.yiche.com/vplay/12933923.html",
       "published_at": null,
       "first_seen_at": "2026-09-01T21:35:01.347384Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
       "title_original": "比亚迪海狮 08才是科技旗舰 SUV 王炸",
       "title_en": null,
       "title_zh": "比亚迪海狮 08才是科技旗舰 SUV 王炸",
@@ -1229,7 +1106,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/98d915c0dea13713/115868200-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-01T18:42:42.807181Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
       "title_original": "外观颜值很高 小鹏P7提车作业分享",
       "title_en": null,
       "title_zh": "外观颜值很高 小鹏P7提车作业分享",
@@ -1248,7 +1125,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/66e64ac42514ed9d/115763877-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-01T18:42:42.807181Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
       "title_original": "舒适性很高 长安启源Q07提车分享",
       "title_en": null,
       "title_zh": "舒适性很高 长安启源Q07提车分享",
@@ -1267,7 +1144,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/80056e6339bd060a/115763312-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-01T18:42:42.807181Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
       "title_original": "底盘很扎实 AION i60提车作业分享",
       "title_en": null,
       "title_zh": "底盘很扎实 AION i60提车作业分享",
@@ -1286,7 +1163,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/108744599b24c851/115814676-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-01T18:42:42.807181Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
       "title_original": "动力很不错 海狮05 EV提车分享",
       "title_en": null,
       "title_zh": "动力很不错 海狮05 EV提车分享",
@@ -1305,7 +1182,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/e029e65cae6405f9/115767301-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-01T18:42:42.807181Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
       "title_original": "续航很满意 零跑D19提车作业分享",
       "title_en": null,
       "title_zh": "续航很满意 零跑D19提车作业分享",
@@ -1325,7 +1202,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/de63a8eae9f455f3/115765867-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-01T18:42:42.807181Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
       "title_original": "科技感十足 问界M6提车作业分享",
       "title_en": null,
       "title_zh": "科技感十足 问界M6提车作业分享",
@@ -1333,6 +1210,24 @@
       "topic_tags": [
         "车企竞争",
         "购车决策"
+      ]
+    },
+    {
+      "id": "172270246d6f2a96a51838247ebac91ce6e4a498",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "福莱新材向灵心巧手交付超3万套触觉传感器",
+      "url": "https://auto.gasgoo.com/news/202609/1I70470885C601.shtml",
+      "published_at": "2026-09-01T17:58:24Z",
+      "first_seen_at": "2026-09-02T12:31:22.573231Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
+      "title_original": "福莱新材向灵心巧手交付超3万套触觉传感器",
+      "title_en": null,
+      "title_zh": "福莱新材向灵心巧手交付超3万套触觉传感器",
+      "title_bilingual": "福莱新材向灵心巧手交付超3万套触觉传感器",
+      "topic_tags": [
+        "销量市场"
       ]
     },
     {
@@ -1344,7 +1239,7 @@
       "url": "https://carnewschina.com/2026/09/01/byd-made-53-revenue-overseas-as-chinas-sales-crumble",
       "published_at": "2026-09-01T17:54:09Z",
       "first_seen_at": "2026-09-01T18:42:42.807181Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
       "title_original": "BYD made 53% of its revenue overseas as China’s sales crumble",
       "title_en": "BYD made 53% of its revenue overseas as China’s sales crumble",
       "title_zh": null,
@@ -1352,6 +1247,45 @@
       "topic_tags": [
         "新能源",
         "车企竞争"
+      ]
+    },
+    {
+      "id": "8f51770873cacf20af1a19ae93a525cfe8e838cd",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-销量",
+      "title": "奇瑞集团8月销量28.01万辆，同比增长15.4%",
+      "url": "https://auto.gasgoo.com/news/202609/1I70470884C501.shtml",
+      "published_at": "2026-09-01T17:31:38Z",
+      "first_seen_at": "2026-09-02T12:31:22.573231Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
+      "title_original": "奇瑞集团8月销量28.01万辆，同比增长15.4%",
+      "title_en": null,
+      "title_zh": "奇瑞集团8月销量28.01万辆，同比增长15.4%",
+      "title_bilingual": "奇瑞集团8月销量28.01万辆，同比增长15.4%",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "c3c546f32055e061d51f9056e67378b799b79c05",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "三部门发布汽车行业境外竞争指引：避免境外市场频繁大幅调价",
+      "url": "https://auto.gasgoo.com/news/202609/1I70470870C1103.shtml",
+      "published_at": "2026-09-01T16:36:36Z",
+      "first_seen_at": "2026-09-02T12:31:22.573231Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
+      "title_original": "三部门发布汽车行业境外竞争指引：避免境外市场频繁大幅调价",
+      "title_en": null,
+      "title_zh": "三部门发布汽车行业境外竞争指引：避免境外市场频繁大幅调价",
+      "title_bilingual": "三部门发布汽车行业境外竞争指引：避免境外市场频繁大幅调价",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争",
+        "新车上市"
       ]
     },
     {
@@ -1363,7 +1297,7 @@
       "url": "https://auto.gasgoo.com/news/202609/1I70470867C110.shtml",
       "published_at": "2026-09-01T15:19:55Z",
       "first_seen_at": "2026-09-02T07:36:35.050413Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
       "title_original": "智界V9旗舰MPV 8月零售交付8312辆",
       "title_en": null,
       "title_zh": "智界V9旗舰MPV 8月零售交付8312辆",
@@ -1382,7 +1316,7 @@
       "url": "https://auto.gasgoo.com/news/202609/1I70470866C109.shtml",
       "published_at": "2026-09-01T15:08:12Z",
       "first_seen_at": "2026-09-02T07:36:35.050413Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
       "title_original": "Stellantis集团调整传播与公共政策管理层 两项任命即日生效",
       "title_en": null,
       "title_zh": "Stellantis集团调整传播与公共政策管理层 两项任命即日生效",
@@ -1400,7 +1334,7 @@
       "url": "https://auto.gasgoo.com/news/202609/1I70470862C110.shtml",
       "published_at": "2026-09-01T14:31:45Z",
       "first_seen_at": "2026-09-02T07:36:35.050413Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
       "title_original": "东风本田8月销量16891辆",
       "title_en": null,
       "title_zh": "东风本田8月销量16891辆",
@@ -1418,7 +1352,7 @@
       "url": "https://auto.gasgoo.com/news/202609/1I70470861C501.shtml",
       "published_at": "2026-09-01T13:29:00Z",
       "first_seen_at": "2026-09-02T07:36:35.050413Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
       "title_original": "小鹏集团8月交付新车39107台，同比增长4%",
       "title_en": null,
       "title_zh": "小鹏集团8月交付新车39107台，同比增长4%",
@@ -1438,7 +1372,7 @@
       "url": "https://auto.gasgoo.com/news/202609/1I70470860C110.shtml",
       "published_at": "2026-09-01T13:25:44Z",
       "first_seen_at": "2026-09-02T07:36:35.050413Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
       "title_original": "理想汽车8月交付37679辆",
       "title_en": null,
       "title_zh": "理想汽车8月交付37679辆",
@@ -1457,7 +1391,7 @@
       "url": "https://auto.gasgoo.com/news/202609/1I70470849C501.shtml",
       "published_at": "2026-09-01T13:16:52Z",
       "first_seen_at": "2026-09-02T07:36:35.050413Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
       "title_original": "蔚来8月交付新车35836台，同比增长14.5%",
       "title_en": null,
       "title_zh": "蔚来8月交付新车35836台，同比增长14.5%",
@@ -1477,7 +1411,7 @@
       "url": "https://auto.gasgoo.com/news/202609/1I70470835C108.shtml",
       "published_at": "2026-09-01T13:16:40Z",
       "first_seen_at": "2026-09-02T07:36:35.050413Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
       "title_original": "晓莺说｜18个月，能造好一辆车吗？",
       "title_en": null,
       "title_zh": "晓莺说｜18个月，能造好一辆车吗？",
@@ -1493,385 +1427,13 @@
       "url": "https://cnevpost.com/2026/09/01/china-sets-competition-guidelines-automakers-overseas",
       "published_at": "2026-09-01T12:33:10Z",
       "first_seen_at": "2026-09-01T15:03:31.183090Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
+      "last_seen_at": "2026-09-02T12:31:22.573231Z",
       "title_original": "China sets competition guidelines for automakers expanding overseas",
       "title_en": "China sets competition guidelines for automakers expanding overseas",
       "title_zh": null,
       "title_bilingual": "China sets competition guidelines for automakers expanding overseas",
       "topic_tags": [
         "新能源"
-      ]
-    },
-    {
-      "id": "9b224d9fed0b54be75a87faf3eec11d9c77f336d",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-供应链",
-      "title": "2.4亿元天使轮背后，佑驾创新旗下曜行动力集齐物理AI“硬核阵容”",
-      "url": "https://auto.gasgoo.com/news/202609/1I70470841C601.shtml",
-      "published_at": "2026-09-01T12:30:00Z",
-      "first_seen_at": "2026-09-02T07:36:35.050413Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
-      "title_original": "2.4亿元天使轮背后，佑驾创新旗下曜行动力集齐物理AI“硬核阵容”",
-      "title_en": null,
-      "title_zh": "2.4亿元天使轮背后，佑驾创新旗下曜行动力集齐物理AI“硬核阵容”",
-      "title_bilingual": "2.4亿元天使轮背后，佑驾创新旗下曜行动力集齐物理AI“硬核阵容”",
-      "topic_tags": [
-        "供应链"
-      ]
-    },
-    {
-      "id": "d4bd711458122f67d30806303a9b451228e29cb6",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Nio Q2 2026 earnings call: Live updates",
-      "url": "https://cnevpost.com/2026/09/01/nio-q2-2026-earnings-call-live",
-      "published_at": "2026-09-01T12:27:37Z",
-      "first_seen_at": "2026-09-01T15:03:31.183090Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
-      "title_original": "Nio Q2 2026 earnings call: Live updates",
-      "title_en": "Nio Q2 2026 earnings call: Live updates",
-      "title_zh": null,
-      "title_bilingual": "Nio Q2 2026 earnings call: Live updates",
-      "topic_tags": [
-        "新能源",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "7125bdfcdb3206e9278e59895620ec64081a1fd4",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "【国际快讯】美加关税纷争，丰田本田首当其冲；本田日产达成汽车软件联合开发协议；奔驰启动10亿欧元股票回购计划",
-      "url": "https://auto.gasgoo.com/news/202609/1I70470847C108.shtml",
-      "published_at": "2026-09-01T12:14:25Z",
-      "first_seen_at": "2026-09-02T07:36:35.050413Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
-      "title_original": "【国际快讯】美加关税纷争，丰田本田首当其冲；本田日产达成汽车软件联合开发协议；奔驰启动10亿欧元股票回购计划",
-      "title_en": null,
-      "title_zh": "【国际快讯】美加关税纷争，丰田本田首当其冲；本田日产达成汽车软件联合开发协议；奔驰启动10亿欧元股票回购计划",
-      "title_bilingual": "【国际快讯】美加关税纷争，丰田本田首当其冲；本田日产达成汽车软件联合开发协议；奔驰启动10亿欧元股票回购计划",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "3e7dca20a52d43f13db950ca9814e0e40bbe103f",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-销量",
-      "title": "深蓝汽车8月全球销量28,659辆，累计销量逼近百万",
-      "url": "https://auto.gasgoo.com/news/202609/1I70470846C110.shtml",
-      "published_at": "2026-09-01T11:55:50Z",
-      "first_seen_at": "2026-09-02T07:36:35.050413Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
-      "title_original": "深蓝汽车8月全球销量28,659辆，累计销量逼近百万",
-      "title_en": null,
-      "title_zh": "深蓝汽车8月全球销量28,659辆，累计销量逼近百万",
-      "title_bilingual": "深蓝汽车8月全球销量28,659辆，累计销量逼近百万",
-      "topic_tags": [
-        "销量市场"
-      ]
-    },
-    {
-      "id": "0b9bc45269d81f24ce79dc3bf505d6f7b0e699cb",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-供应链",
-      "title": "采埃孚新获两家中国车企项目定点",
-      "url": "https://auto.gasgoo.com/news/202609/1I70470845C103.shtml",
-      "published_at": "2026-09-01T11:43:21Z",
-      "first_seen_at": "2026-09-02T07:36:35.050413Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
-      "title_original": "采埃孚新获两家中国车企项目定点",
-      "title_en": null,
-      "title_zh": "采埃孚新获两家中国车企项目定点",
-      "title_bilingual": "采埃孚新获两家中国车企项目定点",
-      "topic_tags": [
-        "车企竞争",
-        "供应链"
-      ]
-    },
-    {
-      "id": "975cc27221f97d9d11ae8d4b827b0b94f0159dad",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新能源",
-      "title": "零跑8月全球交付103129台",
-      "url": "https://auto.gasgoo.com/news/202609/1I70470844C501.shtml",
-      "published_at": "2026-09-01T11:34:33Z",
-      "first_seen_at": "2026-09-02T07:36:35.050413Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
-      "title_original": "零跑8月全球交付103129台",
-      "title_en": null,
-      "title_zh": "零跑8月全球交付103129台",
-      "title_bilingual": "零跑8月全球交付103129台",
-      "topic_tags": [
-        "新能源",
-        "销量市场",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "6e0c2f07d49ea508c0449cc65efe21367381026f",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新能源",
-      "title": "极氪8月交付新车36981辆",
-      "url": "https://auto.gasgoo.com/news/202609/1I70470843C501.shtml",
-      "published_at": "2026-09-01T11:30:07Z",
-      "first_seen_at": "2026-09-02T07:36:35.050413Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
-      "title_original": "极氪8月交付新车36981辆",
-      "title_en": null,
-      "title_zh": "极氪8月交付新车36981辆",
-      "title_bilingual": "极氪8月交付新车36981辆",
-      "topic_tags": [
-        "新能源",
-        "销量市场",
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "03f5be3ada770c9f6e018fdf78bb52e777345d0f",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "上汽通用五菱8月全球销量达130870辆，海外累计销量突破160万辆",
-      "url": "https://auto.gasgoo.com/news/202609/1I70470842C109.shtml",
-      "published_at": "2026-09-01T11:15:02Z",
-      "first_seen_at": "2026-09-02T07:36:35.050413Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
-      "title_original": "上汽通用五菱8月全球销量达130870辆，海外累计销量突破160万辆",
-      "title_en": null,
-      "title_zh": "上汽通用五菱8月全球销量达130870辆，海外累计销量突破160万辆",
-      "title_bilingual": "上汽通用五菱8月全球销量达130870辆，海外累计销量突破160万辆",
-      "topic_tags": [
-        "销量市场",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "cdaad2e0ee919d9f280ab8b8294f8cb90df2591f",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新车",
-      "title": "MG07大定锁单突破31000+",
-      "url": "https://auto.gasgoo.com/news/202609/1I70470840C107.shtml",
-      "published_at": "2026-09-01T10:53:23Z",
-      "first_seen_at": "2026-09-02T07:36:35.050413Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
-      "title_original": "MG07大定锁单突破31000+",
-      "title_en": null,
-      "title_zh": "MG07大定锁单突破31000+",
-      "title_bilingual": "MG07大定锁单突破31000+",
-      "topic_tags": [
-        "新车上市"
-      ]
-    },
-    {
-      "id": "8bdc866790882a2c5058a8511f6254571cc8f581",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "懂车帝 · 文章排行榜",
-      "title": "2026款iCAR超级V23S新车商品性评价",
-      "url": "https://www.dongchedi.com/article/7679996741509710361",
-      "published_at": null,
-      "first_seen_at": "2026-09-01T10:21:38.735599Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
-      "title_original": "2026款iCAR超级V23S新车商品性评价",
-      "title_en": null,
-      "title_zh": "2026款iCAR超级V23S新车商品性评价",
-      "title_bilingual": "2026款iCAR超级V23S新车商品性评价",
-      "topic_tags": [
-        "新车上市"
-      ]
-    },
-    {
-      "id": "f61455aac639c25a326c726150c1d3126d8ea713",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "懂车帝 · 文章排行榜",
-      "title": "英伟达暴涨带来的红利，特斯拉没拿到，反而是吉利先吃下？",
-      "url": "https://www.dongchedi.com/article/7678948078782562841",
-      "published_at": null,
-      "first_seen_at": "2026-09-01T10:21:38.735599Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
-      "title_original": "英伟达暴涨带来的红利，特斯拉没拿到，反而是吉利先吃下？",
-      "title_en": null,
-      "title_zh": "英伟达暴涨带来的红利，特斯拉没拿到，反而是吉利先吃下？",
-      "title_bilingual": "英伟达暴涨带来的红利，特斯拉没拿到，反而是吉利先吃下？",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "fb0b246c73ed10330182b215a1fc91f4bb637a24",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "懂车帝 · 文章排行榜",
-      "title": "当SUV市场学会理想，理想汽车开始换挡",
-      "url": "https://www.dongchedi.com/article/7678503248332309017",
-      "published_at": null,
-      "first_seen_at": "2026-09-01T10:21:38.735599Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
-      "title_original": "当SUV市场学会理想，理想汽车开始换挡",
-      "title_en": null,
-      "title_zh": "当SUV市场学会理想，理想汽车开始换挡",
-      "title_bilingual": "当SUV市场学会理想，理想汽车开始换挡",
-      "topic_tags": [
-        "销量市场",
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "f2ebb5fdd34ec3bf83eac14f680937ce00c0a9d9",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Nio extends adjusted operating-profit streak as product mix lifts margins",
-      "url": "https://cnevpost.com/2026/09/01/nio-earnings-q2-2026",
-      "published_at": "2026-09-01T10:18:42Z",
-      "first_seen_at": "2026-09-01T10:21:38.735599Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
-      "title_original": "Nio extends adjusted operating-profit streak as product mix lifts margins",
-      "title_en": "Nio extends adjusted operating-profit streak as product mix lifts margins",
-      "title_zh": null,
-      "title_bilingual": "Nio extends adjusted operating-profit streak as product mix lifts margins",
-      "topic_tags": [
-        "新能源",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "12de78c1ba779070c5038b0ce83aa05f23d6cb2e",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-销量",
-      "title": "鸿蒙智行8月交付42101台，累计突破152万台",
-      "url": "https://auto.gasgoo.com/news/202609/1I70470836C110.shtml",
-      "published_at": "2026-09-01T10:00:12Z",
-      "first_seen_at": "2026-09-02T02:49:18.031654Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
-      "title_original": "鸿蒙智行8月交付42101台，累计突破152万台",
-      "title_en": null,
-      "title_zh": "鸿蒙智行8月交付42101台，累计突破152万台",
-      "title_bilingual": "鸿蒙智行8月交付42101台，累计突破152万台",
-      "topic_tags": [
-        "销量市场",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "cd80118c39b777472be259483c5e5228af1e4a6f",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-销量",
-      "title": "小米汽车8月交付量超3万台 连续五月稳居3万台阶",
-      "url": "https://auto.gasgoo.com/news/202609/1I70470834C110.shtml",
-      "published_at": "2026-09-01T09:44:53Z",
-      "first_seen_at": "2026-09-02T02:49:18.031654Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
-      "title_original": "小米汽车8月交付量超3万台 连续五月稳居3万台阶",
-      "title_en": null,
-      "title_zh": "小米汽车8月交付量超3万台 连续五月稳居3万台阶",
-      "title_bilingual": "小米汽车8月交付量超3万台 连续五月稳居3万台阶",
-      "topic_tags": [
-        "销量市场",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "d5e59c7d1571dc979a9d6455bdc7025356aa36dd",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "BYD August sales rise 17.8% to 440,293 as overseas sales hit new record",
-      "url": "https://cnevpost.com/2026/09/01/byd-aug-2026-sales",
-      "published_at": "2026-09-01T09:25:51Z",
-      "first_seen_at": "2026-09-01T10:21:38.735599Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
-      "title_original": "BYD August sales rise 17.8% to 440,293 as overseas sales hit new record",
-      "title_en": "BYD August sales rise 17.8% to 440,293 as overseas sales hit new record",
-      "title_zh": null,
-      "title_bilingual": "BYD August sales rise 17.8% to 440,293 as overseas sales hit new record",
-      "topic_tags": [
-        "新能源",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "3f31a187dcba0e9ba97f5c81afe2300cecc507d9",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "BYD Fang Cheng Bao Formula S GT station wagon arrived at dealers ahead of launch",
-      "url": "https://carnewschina.com/2026/09/01/byd-fang-cheng-bao-formula-s-gt-station-wagon-arrived-at-dealers-ahead-of-launch",
-      "published_at": "2026-09-01T08:24:10Z",
-      "first_seen_at": "2026-09-01T10:21:38.735599Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
-      "title_original": "BYD Fang Cheng Bao Formula S GT station wagon arrived at dealers ahead of launch",
-      "title_en": "BYD Fang Cheng Bao Formula S GT station wagon arrived at dealers ahead of launch",
-      "title_zh": null,
-      "title_bilingual": "BYD Fang Cheng Bao Formula S GT station wagon arrived at dealers ahead of launch",
-      "topic_tags": [
-        "新能源",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "b4199fdb4dab98e8a976bb97c6ce4a5a38fffe16",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-智能网联",
-      "title": "100万小时之后，机器人为什么还喊“饿”？",
-      "url": "https://auto.gasgoo.com/news/202609/1I70470804C601.shtml",
-      "published_at": "2026-09-01T07:45:40Z",
-      "first_seen_at": "2026-09-01T23:46:43.975077Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
-      "title_original": "100万小时之后，机器人为什么还喊“饿”？",
-      "title_en": null,
-      "title_zh": "100万小时之后，机器人为什么还喊“饿”？",
-      "title_bilingual": "100万小时之后，机器人为什么还喊“饿”？",
-      "topic_tags": []
-    },
-    {
-      "id": "7ee244d27934521f9046e124f5206eaa9d9c703e",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-智能网联",
-      "title": "文远知行将于9月14日起纳入港交所科技100指数",
-      "url": "https://auto.gasgoo.com/news/202609/1I70470825C601.shtml",
-      "published_at": "2026-09-01T07:45:18Z",
-      "first_seen_at": "2026-09-01T23:46:43.975077Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
-      "title_original": "文远知行将于9月14日起纳入港交所科技100指数",
-      "title_en": null,
-      "title_zh": "文远知行将于9月14日起纳入港交所科技100指数",
-      "title_bilingual": "文远知行将于9月14日起纳入港交所科技100指数",
-      "topic_tags": []
-    },
-    {
-      "id": "92d11ec5e023adfe590bd414d4c49e2bd7d22238",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Zeekr delivers 36,981 vehicles in August, fifth straight monthly record",
-      "url": "https://cnevpost.com/2026/09/01/zeekr-aug-2026-deliveries",
-      "published_at": "2026-09-01T07:43:08Z",
-      "first_seen_at": "2026-09-01T10:21:38.735599Z",
-      "last_seen_at": "2026-09-02T07:36:35.050413Z",
-      "title_original": "Zeekr delivers 36,981 vehicles in August, fifth straight monthly record",
-      "title_en": "Zeekr delivers 36,981 vehicles in August, fifth straight monthly record",
-      "title_zh": null,
-      "title_bilingual": "Zeekr delivers 36,981 vehicles in August, fifth straight monthly record",
-      "topic_tags": [
-        "新能源",
-        "车企竞争"
       ]
     }
   ],
