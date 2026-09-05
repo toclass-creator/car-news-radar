@@ -1,50 +1,46 @@
 {
-  "generated_at": "2026-09-05T17:27:23.462511Z",
+  "generated_at": "2026-09-05T19:18:45.272598Z",
   "window_hours": 24,
-  "total_items": 21,
-  "total_items_ai_raw": 24,
-  "total_items_raw": 3095,
-  "total_items_all_mode": 2812,
+  "total_items": 14,
+  "total_items_ai_raw": 14,
+  "total_items_raw": 2851,
+  "total_items_all_mode": 2611,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 72989,
+  "archive_total": 72977,
   "site_count": 3,
-  "source_count": 9,
+  "source_count": 5,
   "site_stats": [
     {
       "site_id": "tophub",
       "site_name": "TopHub",
-      "count": 13,
-      "raw_count": 2947
+      "count": 11,
+      "raw_count": 2707
     },
     {
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "count": 8,
-      "raw_count": 11
+      "count": 3,
+      "raw_count": 3
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "count": 0,
-      "raw_count": 137
+      "raw_count": 141
     }
   ],
   "topic_tag_stats": [
     {
       "tag": "购车决策",
-      "count": 10
-    },
-    {
-      "tag": "车企竞争",
-      "count": 10
-    },
-    {
-      "tag": "新能源",
       "count": 7
     },
     {
-      "tag": "销量市场",
-      "count": 5
+      "tag": "车企竞争",
+      "count": 6
+    },
+    {
+      "tag": "新能源",
+      "count": 4
     },
     {
       "tag": "新车上市",
@@ -52,10 +48,10 @@
     },
     {
       "tag": "补能电池",
-      "count": 3
+      "count": 2
     },
     {
-      "tag": "供应链",
+      "tag": "销量市场",
       "count": 2
     },
     {
@@ -63,12 +59,73 @@
       "count": 1
     },
     {
-      "tag": "智能驾驶",
+      "tag": "供应链",
+      "count": 1
+    },
+    {
+      "tag": "召回安全",
       "count": 1
     }
   ],
   "items": [
     {
+      "id": "dfcb6dc345c7b66abdeb50c273bdce56e3371f6c",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "首款立标MPV，岚图梦想家9升级细节抢先体验！",
+      "url": "http://vc.yiche.com/vplay/13014248.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-05T19:18:45.272598Z",
+      "last_seen_at": "2026-09-05T19:18:45.272598Z",
+      "title_original": "首款立标MPV，岚图梦想家9升级细节抢先体验！",
+      "title_en": null,
+      "title_zh": "首款立标MPV，岚图梦想家9升级细节抢先体验！",
+      "title_bilingual": "首款立标MPV，岚图梦想家9升级细节抢先体验！",
+      "topic_tags": [
+        "购车决策",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "ad3db9353d6b1ae606a604c99a029dd250ce4356",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "奇瑞出了个官方改装版？全新QQ3“摩登版”",
+      "url": "http://vc.yiche.com/vplay/13019260.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-05T19:18:45.272598Z",
+      "last_seen_at": "2026-09-05T19:18:45.272598Z",
+      "title_original": "奇瑞出了个官方改装版？全新QQ3“摩登版”",
+      "title_en": null,
+      "title_zh": "奇瑞出了个官方改装版？全新QQ3“摩登版”",
+      "title_bilingual": "奇瑞出了个官方改装版？全新QQ3“摩登版”",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "0c8eceacb8a0d55ce74426eb230189b5032ccfda",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "试驾问界M9 Ultimate领世加长版！主动悬架+道路预瞄 让出行不仅舒适更安全！",
+      "url": "http://vc.yiche.com/vplay/13039693.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-05T19:18:45.272598Z",
+      "last_seen_at": "2026-09-05T19:18:45.272598Z",
+      "title_original": "试驾问界M9 Ultimate领世加长版！主动悬架+道路预瞄 让出行不仅舒适更安全！",
+      "title_en": null,
+      "title_zh": "试驾问界M9 Ultimate领世加长版！主动悬架+道路预瞄 让出行不仅舒适更安全！",
+      "title_bilingual": "试驾问界M9 Ultimate领世加长版！主动悬架+道路预瞄 让出行不仅舒适更安全！",
+      "topic_tags": [
+        "召回安全",
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
       "id": "a6742107724fd7ecb2b76628b15ac5baddf3f45a",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -77,7 +134,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/89173e09d4f1bfcc/115953892-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-05T17:27:23.462511Z",
-      "last_seen_at": "2026-09-05T17:27:23.462511Z",
+      "last_seen_at": "2026-09-05T19:18:45.272598Z",
       "title_original": "颜值很高 iCAR 超级V23提车分享",
       "title_en": null,
       "title_zh": "颜值很高 iCAR 超级V23提车分享",
@@ -95,7 +152,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/d4a5c2136fb00833/116010078-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-05T17:27:23.462511Z",
-      "last_seen_at": "2026-09-05T17:27:23.462511Z",
+      "last_seen_at": "2026-09-05T19:18:45.272598Z",
       "title_original": "可城可野 北京越野BJ40增程提车分享",
       "title_en": null,
       "title_zh": "可城可野 北京越野BJ40增程提车分享",
@@ -114,7 +171,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/dac861d496182863/115771985-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-05T17:27:23.462511Z",
-      "last_seen_at": "2026-09-05T17:27:23.462511Z",
+      "last_seen_at": "2026-09-05T19:18:45.272598Z",
       "title_original": "性价比不错 零跑C16提车作业分享",
       "title_en": null,
       "title_zh": "性价比不错 零跑C16提车作业分享",
@@ -134,7 +191,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/e5e306ef36673a01/115765521-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-05T17:27:23.462511Z",
-      "last_seen_at": "2026-09-05T17:27:23.462511Z",
+      "last_seen_at": "2026-09-05T19:18:45.272598Z",
       "title_original": "很适合家用 长安启源Q07提车分享",
       "title_en": null,
       "title_zh": "很适合家用 长安启源Q07提车分享",
@@ -153,7 +210,7 @@
       "url": "https://carnewschina.com/2026/09/05/byds-denza-n8l-ev-to-launch-september-14-with-130-kwh-battery-960-km-range-and-208l-frunk",
       "published_at": "2026-09-05T13:46:04Z",
       "first_seen_at": "2026-09-05T15:25:37.666712Z",
-      "last_seen_at": "2026-09-05T17:27:23.462511Z",
+      "last_seen_at": "2026-09-05T19:18:45.272598Z",
       "title_original": "BYD’s Denza N8L EV to launch September 14 with 130 kWh battery, 960 km range and 208L frunk",
       "title_en": "BYD’s Denza N8L EV to launch September 14 with 130 kWh battery, 960 km range and 208L frunk",
       "title_zh": null,
@@ -173,7 +230,7 @@
       "url": "https://www.dongchedi.com/article/7681290601132098072",
       "published_at": null,
       "first_seen_at": "2026-09-05T08:47:48.716538Z",
-      "last_seen_at": "2026-09-05T17:27:23.462511Z",
+      "last_seen_at": "2026-09-05T19:18:45.272598Z",
       "title_original": "土耳其8月销量跌20.3%，关税逼退中国品牌，本土韩系受益？",
       "title_en": null,
       "title_zh": "土耳其8月销量跌20.3%，关税逼退中国品牌，本土韩系受益？",
@@ -191,7 +248,7 @@
       "url": "https://www.dongchedi.com/article/7681334704213918232",
       "published_at": null,
       "first_seen_at": "2026-09-05T08:47:48.716538Z",
-      "last_seen_at": "2026-09-05T17:27:23.462511Z",
+      "last_seen_at": "2026-09-05T19:18:45.272598Z",
       "title_original": "自购车实拍！本田CB500SF评测，6000转共振真实存在",
       "title_en": null,
       "title_zh": "自购车实拍！本田CB500SF评测，6000转共振真实存在",
@@ -209,7 +266,7 @@
       "url": "https://www.dongchedi.com/article/7681555964092547609",
       "published_at": null,
       "first_seen_at": "2026-09-05T08:47:48.716538Z",
-      "last_seen_at": "2026-09-05T17:27:23.462511Z",
+      "last_seen_at": "2026-09-05T19:18:45.272598Z",
       "title_original": "8月德国车市小升2.6%，大众下挫14%，中国品牌份额首次破6",
       "title_en": null,
       "title_zh": "8月德国车市小升2.6%，大众下挫14%，中国品牌份额首次破6",
@@ -228,7 +285,7 @@
       "url": "https://carnewschina.com/2026/09/05/changan-nevo-q06-800v-platform-with-6c-charging-pre-sales-price-starting-at-22000-usd-in-china",
       "published_at": "2026-09-05T08:05:02Z",
       "first_seen_at": "2026-09-05T08:47:48.716538Z",
-      "last_seen_at": "2026-09-05T17:27:23.462511Z",
+      "last_seen_at": "2026-09-05T19:18:45.272598Z",
       "title_original": "Changan Nevo Q06: 800V platform with 6C charging, pre-sales price starting at 22,000 USD in China",
       "title_en": "Changan Nevo Q06: 800V platform with 6C charging, pre-sales price starting at 22,000 USD in China",
       "title_zh": null,
@@ -247,7 +304,7 @@
       "url": "https://cnevpost.com/2026/09/05/voyah-dream-9-begins-pre-sales",
       "published_at": "2026-09-05T06:13:17Z",
       "first_seen_at": "2026-09-05T08:47:48.716538Z",
-      "last_seen_at": "2026-09-05T17:27:23.462511Z",
+      "last_seen_at": "2026-09-05T19:18:45.272598Z",
       "title_original": "Voyah Dream 9 MPV begins pre-sales in China, starting at about $63,420",
       "title_en": "Voyah Dream 9 MPV begins pre-sales in China, starting at about $63,420",
       "title_zh": null,
@@ -266,7 +323,7 @@
       "url": "http://vc.yiche.com/vplay/13003937.html",
       "published_at": null,
       "first_seen_at": "2026-09-04T20:15:19.097316Z",
-      "last_seen_at": "2026-09-05T17:27:23.462511Z",
+      "last_seen_at": "2026-09-05T19:18:45.272598Z",
       "title_original": "雷克萨斯新NX全球首发！底盘、动力、座舱全面革新，这才是换代该有的样子",
       "title_en": null,
       "title_zh": "雷克萨斯新NX全球首发！底盘、动力、座舱全面革新，这才是换代该有的样子",
@@ -274,202 +331,68 @@
       "topic_tags": [
         "供应链",
         "新车上市"
-      ]
-    },
-    {
-      "id": "b750a2c2f410c8a51bd612da2ba1df82389495e1",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新能源",
-      "title": "理想汽车拟26.5亿元战略入股欣旺达动力，深化电池产业链协同",
-      "url": "https://auto.gasgoo.com/news/202609/4I70471226C501.shtml",
-      "published_at": "2026-09-04T19:03:41Z",
-      "first_seen_at": "2026-09-05T12:20:58.804954Z",
-      "last_seen_at": "2026-09-05T17:27:23.462511Z",
-      "title_original": "理想汽车拟26.5亿元战略入股欣旺达动力，深化电池产业链协同",
-      "title_en": null,
-      "title_zh": "理想汽车拟26.5亿元战略入股欣旺达动力，深化电池产业链协同",
-      "title_bilingual": "理想汽车拟26.5亿元战略入股欣旺达动力，深化电池产业链协同",
-      "topic_tags": [
-        "新能源",
-        "补能电池",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "d6a7b046a233a8909b2d4aeb331f7e1406ee7d7c",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "蔚来二季报：连续三季度盈利之后，挑战仍在",
-      "url": "https://auto.gasgoo.com/news/202609/4I70471220C109.shtml",
-      "published_at": "2026-09-04T18:10:02Z",
-      "first_seen_at": "2026-09-05T12:20:58.804954Z",
-      "last_seen_at": "2026-09-05T17:27:23.462511Z",
-      "title_original": "蔚来二季报：连续三季度盈利之后，挑战仍在",
-      "title_en": null,
-      "title_zh": "蔚来二季报：连续三季度盈利之后，挑战仍在",
-      "title_bilingual": "蔚来二季报：连续三季度盈利之后，挑战仍在",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "b85cb50775f5eb4a967c886474c60ac0f403959a",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-销量",
-      "title": "2026年1-7月比亚迪乘用车出口目的地TOP10：巴西近20万辆领跑，纯电与插混加速出海丨盖世汽车研究院",
-      "url": "https://auto.gasgoo.com/news/202609/4I70471221C110.shtml",
-      "published_at": "2026-09-04T18:00:49Z",
-      "first_seen_at": "2026-09-05T12:20:58.804954Z",
-      "last_seen_at": "2026-09-05T17:27:23.462511Z",
-      "title_original": "2026年1-7月比亚迪乘用车出口目的地TOP10：巴西近20万辆领跑，纯电与插混加速出海丨盖世汽车研究院",
-      "title_en": null,
-      "title_zh": "2026年1-7月比亚迪乘用车出口目的地TOP10：巴西近20万辆领跑，纯电与插混加速出海丨盖世汽车研究院",
-      "title_bilingual": "2026年1-7月比亚迪乘用车出口目的地TOP10：巴西近20万辆领跑，纯电与插混加速出海丨盖世汽车研究院",
-      "topic_tags": [
-        "新能源",
-        "销量市场",
-        "车企竞争",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "b7814b696b35bc852913ce16d4fda4fed7fa9e59",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-销量",
-      "title": "2026年1-7月中国乘用车出口到哪了：俄罗斯出口量突破52万，巴西新能源遥遥领先丨盖世汽车研究院",
-      "url": "https://auto.gasgoo.com/news/202609/4I70471219C110.shtml",
-      "published_at": "2026-09-04T17:34:25Z",
-      "first_seen_at": "2026-09-05T12:20:58.804954Z",
-      "last_seen_at": "2026-09-05T17:27:23.462511Z",
-      "title_original": "2026年1-7月中国乘用车出口到哪了：俄罗斯出口量突破52万，巴西新能源遥遥领先丨盖世汽车研究院",
-      "title_en": null,
-      "title_zh": "2026年1-7月中国乘用车出口到哪了：俄罗斯出口量突破52万，巴西新能源遥遥领先丨盖世汽车研究院",
-      "title_bilingual": "2026年1-7月中国乘用车出口到哪了：俄罗斯出口量突破52万，巴西新能源遥遥领先丨盖世汽车研究院",
-      "topic_tags": [
-        "新能源",
-        "销量市场",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "7fdf24327ed0feecbfc872703fd95f09695f30a8",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-供应链",
-      "title": "耐世特常熟年产量突破30万件",
-      "url": "https://auto.gasgoo.com/news/202609/4I70471218C103.shtml",
-      "published_at": "2026-09-04T17:32:26Z",
-      "first_seen_at": "2026-09-05T12:20:58.804954Z",
-      "last_seen_at": "2026-09-05T17:27:23.462511Z",
-      "title_original": "耐世特常熟年产量突破30万件",
-      "title_en": null,
-      "title_zh": "耐世特常熟年产量突破30万件",
-      "title_bilingual": "耐世特常熟年产量突破30万件",
-      "topic_tags": [
-        "供应链"
-      ]
-    },
-    {
-      "id": "15304f4264e1b317e55ecf594cb71368d693c417",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "神行者8亮相成都车展 一个新市场",
-      "url": "https://club.autohome.com.cn/bbs/thread/1e6ef9a7bb45a3b6/115975120-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-09-04T17:32:24.096729Z",
-      "last_seen_at": "2026-09-05T17:27:23.462511Z",
-      "title_original": "神行者8亮相成都车展 一个新市场",
-      "title_en": null,
-      "title_zh": "神行者8亮相成都车展 一个新市场",
-      "title_bilingual": "神行者8亮相成都车展 一个新市场",
-      "topic_tags": [
-        "销量市场",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "e036fe4442da1b03b02aa70892576bd7e7b2b9a5",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "外观颜值拉满 极氪8X提车作业分享",
-      "url": "https://club.autohome.com.cn/bbs/thread/5dae2de0969fe8c2/115763233-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-09-04T17:32:24.096729Z",
-      "last_seen_at": "2026-09-05T15:25:37.666712Z",
-      "title_original": "外观颜值拉满 极氪8X提车作业分享",
-      "title_en": null,
-      "title_zh": "外观颜值拉满 极氪8X提车作业分享",
-      "title_bilingual": "外观颜值拉满 极氪8X提车作业分享",
-      "topic_tags": [
-        "车企竞争",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "35dcb5ae1d08430a0a815bc0fd5ebb310c312caa",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "适合通勤代步 长安启源A07提车分享",
-      "url": "https://club.autohome.com.cn/bbs/thread/bf6530ca59865e97/115951802-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-09-04T17:32:24.096729Z",
-      "last_seen_at": "2026-09-05T15:25:37.666712Z",
-      "title_original": "适合通勤代步 长安启源A07提车分享",
-      "title_en": null,
-      "title_zh": "适合通勤代步 长安启源A07提车分享",
-      "title_bilingual": "适合通勤代步 长安启源A07提车分享",
-      "topic_tags": [
-        "车企竞争",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "06ad49ad66eb949ecea072fd5a7c644f80926074",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "扎实耐用 比亚迪秦L提车作业分享",
-      "url": "https://club.autohome.com.cn/bbs/thread/9efc2c11db9b1ea8/115895745-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-09-04T17:32:24.096729Z",
-      "last_seen_at": "2026-09-05T15:25:37.666712Z",
-      "title_original": "扎实耐用 比亚迪秦L提车作业分享",
-      "title_en": null,
-      "title_zh": "扎实耐用 比亚迪秦L提车作业分享",
-      "title_bilingual": "扎实耐用 比亚迪秦L提车作业分享",
-      "topic_tags": [
-        "车企竞争",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "d6a5c21faf8ff9a03152ed8e9afb24695ae58dfa",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "硬派越野泰钽700车位到车位智驾实测",
-      "url": "https://club.autohome.com.cn/bbs/thread/6ca9bbb2aac56f3e/115911934-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-09-04T17:32:24.096729Z",
-      "last_seen_at": "2026-09-05T15:25:37.666712Z",
-      "title_original": "硬派越野泰钽700车位到车位智驾实测",
-      "title_en": null,
-      "title_zh": "硬派越野泰钽700车位到车位智驾实测",
-      "title_bilingual": "硬派越野泰钽700车位到车位智驾实测",
-      "topic_tags": [
-        "智能驾驶"
       ]
     }
   ],
   "items_ai": [
     {
+      "id": "dfcb6dc345c7b66abdeb50c273bdce56e3371f6c",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "首款立标MPV，岚图梦想家9升级细节抢先体验！",
+      "url": "http://vc.yiche.com/vplay/13014248.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-05T19:18:45.272598Z",
+      "last_seen_at": "2026-09-05T19:18:45.272598Z",
+      "title_original": "首款立标MPV，岚图梦想家9升级细节抢先体验！",
+      "title_en": null,
+      "title_zh": "首款立标MPV，岚图梦想家9升级细节抢先体验！",
+      "title_bilingual": "首款立标MPV，岚图梦想家9升级细节抢先体验！",
+      "topic_tags": [
+        "购车决策",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "ad3db9353d6b1ae606a604c99a029dd250ce4356",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "奇瑞出了个官方改装版？全新QQ3“摩登版”",
+      "url": "http://vc.yiche.com/vplay/13019260.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-05T19:18:45.272598Z",
+      "last_seen_at": "2026-09-05T19:18:45.272598Z",
+      "title_original": "奇瑞出了个官方改装版？全新QQ3“摩登版”",
+      "title_en": null,
+      "title_zh": "奇瑞出了个官方改装版？全新QQ3“摩登版”",
+      "title_bilingual": "奇瑞出了个官方改装版？全新QQ3“摩登版”",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "0c8eceacb8a0d55ce74426eb230189b5032ccfda",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "试驾问界M9 Ultimate领世加长版！主动悬架+道路预瞄 让出行不仅舒适更安全！",
+      "url": "http://vc.yiche.com/vplay/13039693.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-05T19:18:45.272598Z",
+      "last_seen_at": "2026-09-05T19:18:45.272598Z",
+      "title_original": "试驾问界M9 Ultimate领世加长版！主动悬架+道路预瞄 让出行不仅舒适更安全！",
+      "title_en": null,
+      "title_zh": "试驾问界M9 Ultimate领世加长版！主动悬架+道路预瞄 让出行不仅舒适更安全！",
+      "title_bilingual": "试驾问界M9 Ultimate领世加长版！主动悬架+道路预瞄 让出行不仅舒适更安全！",
+      "topic_tags": [
+        "召回安全",
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
       "id": "a6742107724fd7ecb2b76628b15ac5baddf3f45a",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -478,7 +401,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/89173e09d4f1bfcc/115953892-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-05T17:27:23.462511Z",
-      "last_seen_at": "2026-09-05T17:27:23.462511Z",
+      "last_seen_at": "2026-09-05T19:18:45.272598Z",
       "title_original": "颜值很高 iCAR 超级V23提车分享",
       "title_en": null,
       "title_zh": "颜值很高 iCAR 超级V23提车分享",
@@ -496,7 +419,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/d4a5c2136fb00833/116010078-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-05T17:27:23.462511Z",
-      "last_seen_at": "2026-09-05T17:27:23.462511Z",
+      "last_seen_at": "2026-09-05T19:18:45.272598Z",
       "title_original": "可城可野 北京越野BJ40增程提车分享",
       "title_en": null,
       "title_zh": "可城可野 北京越野BJ40增程提车分享",
@@ -515,7 +438,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/dac861d496182863/115771985-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-05T17:27:23.462511Z",
-      "last_seen_at": "2026-09-05T17:27:23.462511Z",
+      "last_seen_at": "2026-09-05T19:18:45.272598Z",
       "title_original": "性价比不错 零跑C16提车作业分享",
       "title_en": null,
       "title_zh": "性价比不错 零跑C16提车作业分享",
@@ -535,7 +458,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/e5e306ef36673a01/115765521-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-05T17:27:23.462511Z",
-      "last_seen_at": "2026-09-05T17:27:23.462511Z",
+      "last_seen_at": "2026-09-05T19:18:45.272598Z",
       "title_original": "很适合家用 长安启源Q07提车分享",
       "title_en": null,
       "title_zh": "很适合家用 长安启源Q07提车分享",
@@ -554,7 +477,7 @@
       "url": "https://carnewschina.com/2026/09/05/byds-denza-n8l-ev-to-launch-september-14-with-130-kwh-battery-960-km-range-and-208l-frunk",
       "published_at": "2026-09-05T13:46:04Z",
       "first_seen_at": "2026-09-05T15:25:37.666712Z",
-      "last_seen_at": "2026-09-05T17:27:23.462511Z",
+      "last_seen_at": "2026-09-05T19:18:45.272598Z",
       "title_original": "BYD’s Denza N8L EV to launch September 14 with 130 kWh battery, 960 km range and 208L frunk",
       "title_en": "BYD’s Denza N8L EV to launch September 14 with 130 kWh battery, 960 km range and 208L frunk",
       "title_zh": null,
@@ -574,7 +497,7 @@
       "url": "https://www.dongchedi.com/article/7681290601132098072",
       "published_at": null,
       "first_seen_at": "2026-09-05T08:47:48.716538Z",
-      "last_seen_at": "2026-09-05T17:27:23.462511Z",
+      "last_seen_at": "2026-09-05T19:18:45.272598Z",
       "title_original": "土耳其8月销量跌20.3%，关税逼退中国品牌，本土韩系受益？",
       "title_en": null,
       "title_zh": "土耳其8月销量跌20.3%，关税逼退中国品牌，本土韩系受益？",
@@ -592,7 +515,7 @@
       "url": "https://www.dongchedi.com/article/7681334704213918232",
       "published_at": null,
       "first_seen_at": "2026-09-05T08:47:48.716538Z",
-      "last_seen_at": "2026-09-05T17:27:23.462511Z",
+      "last_seen_at": "2026-09-05T19:18:45.272598Z",
       "title_original": "自购车实拍！本田CB500SF评测，6000转共振真实存在",
       "title_en": null,
       "title_zh": "自购车实拍！本田CB500SF评测，6000转共振真实存在",
@@ -610,7 +533,7 @@
       "url": "https://www.dongchedi.com/article/7681555964092547609",
       "published_at": null,
       "first_seen_at": "2026-09-05T08:47:48.716538Z",
-      "last_seen_at": "2026-09-05T17:27:23.462511Z",
+      "last_seen_at": "2026-09-05T19:18:45.272598Z",
       "title_original": "8月德国车市小升2.6%，大众下挫14%，中国品牌份额首次破6",
       "title_en": null,
       "title_zh": "8月德国车市小升2.6%，大众下挫14%，中国品牌份额首次破6",
@@ -629,7 +552,7 @@
       "url": "https://carnewschina.com/2026/09/05/changan-nevo-q06-800v-platform-with-6c-charging-pre-sales-price-starting-at-22000-usd-in-china",
       "published_at": "2026-09-05T08:05:02Z",
       "first_seen_at": "2026-09-05T08:47:48.716538Z",
-      "last_seen_at": "2026-09-05T17:27:23.462511Z",
+      "last_seen_at": "2026-09-05T19:18:45.272598Z",
       "title_original": "Changan Nevo Q06: 800V platform with 6C charging, pre-sales price starting at 22,000 USD in China",
       "title_en": "Changan Nevo Q06: 800V platform with 6C charging, pre-sales price starting at 22,000 USD in China",
       "title_zh": null,
@@ -648,7 +571,7 @@
       "url": "https://cnevpost.com/2026/09/05/voyah-dream-9-begins-pre-sales",
       "published_at": "2026-09-05T06:13:17Z",
       "first_seen_at": "2026-09-05T08:47:48.716538Z",
-      "last_seen_at": "2026-09-05T17:27:23.462511Z",
+      "last_seen_at": "2026-09-05T19:18:45.272598Z",
       "title_original": "Voyah Dream 9 MPV begins pre-sales in China, starting at about $63,420",
       "title_en": "Voyah Dream 9 MPV begins pre-sales in China, starting at about $63,420",
       "title_zh": null,
@@ -667,7 +590,7 @@
       "url": "http://vc.yiche.com/vplay/13003937.html",
       "published_at": null,
       "first_seen_at": "2026-09-04T20:15:19.097316Z",
-      "last_seen_at": "2026-09-05T17:27:23.462511Z",
+      "last_seen_at": "2026-09-05T19:18:45.272598Z",
       "title_original": "雷克萨斯新NX全球首发！底盘、动力、座舱全面革新，这才是换代该有的样子",
       "title_en": null,
       "title_zh": "雷克萨斯新NX全球首发！底盘、动力、座舱全面革新，这才是换代该有的样子",
@@ -675,197 +598,6 @@
       "topic_tags": [
         "供应链",
         "新车上市"
-      ]
-    },
-    {
-      "id": "b750a2c2f410c8a51bd612da2ba1df82389495e1",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新能源",
-      "title": "理想汽车拟26.5亿元战略入股欣旺达动力，深化电池产业链协同",
-      "url": "https://auto.gasgoo.com/news/202609/4I70471226C501.shtml",
-      "published_at": "2026-09-04T19:03:41Z",
-      "first_seen_at": "2026-09-05T12:20:58.804954Z",
-      "last_seen_at": "2026-09-05T17:27:23.462511Z",
-      "title_original": "理想汽车拟26.5亿元战略入股欣旺达动力，深化电池产业链协同",
-      "title_en": null,
-      "title_zh": "理想汽车拟26.5亿元战略入股欣旺达动力，深化电池产业链协同",
-      "title_bilingual": "理想汽车拟26.5亿元战略入股欣旺达动力，深化电池产业链协同",
-      "topic_tags": [
-        "新能源",
-        "补能电池",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "d6a7b046a233a8909b2d4aeb331f7e1406ee7d7c",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "蔚来二季报：连续三季度盈利之后，挑战仍在",
-      "url": "https://auto.gasgoo.com/news/202609/4I70471220C109.shtml",
-      "published_at": "2026-09-04T18:10:02Z",
-      "first_seen_at": "2026-09-05T12:20:58.804954Z",
-      "last_seen_at": "2026-09-05T17:27:23.462511Z",
-      "title_original": "蔚来二季报：连续三季度盈利之后，挑战仍在",
-      "title_en": null,
-      "title_zh": "蔚来二季报：连续三季度盈利之后，挑战仍在",
-      "title_bilingual": "蔚来二季报：连续三季度盈利之后，挑战仍在",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "b85cb50775f5eb4a967c886474c60ac0f403959a",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-销量",
-      "title": "2026年1-7月比亚迪乘用车出口目的地TOP10：巴西近20万辆领跑，纯电与插混加速出海丨盖世汽车研究院",
-      "url": "https://auto.gasgoo.com/news/202609/4I70471221C110.shtml",
-      "published_at": "2026-09-04T18:00:49Z",
-      "first_seen_at": "2026-09-05T12:20:58.804954Z",
-      "last_seen_at": "2026-09-05T17:27:23.462511Z",
-      "title_original": "2026年1-7月比亚迪乘用车出口目的地TOP10：巴西近20万辆领跑，纯电与插混加速出海丨盖世汽车研究院",
-      "title_en": null,
-      "title_zh": "2026年1-7月比亚迪乘用车出口目的地TOP10：巴西近20万辆领跑，纯电与插混加速出海丨盖世汽车研究院",
-      "title_bilingual": "2026年1-7月比亚迪乘用车出口目的地TOP10：巴西近20万辆领跑，纯电与插混加速出海丨盖世汽车研究院",
-      "topic_tags": [
-        "新能源",
-        "销量市场",
-        "车企竞争",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "b7814b696b35bc852913ce16d4fda4fed7fa9e59",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-销量",
-      "title": "2026年1-7月中国乘用车出口到哪了：俄罗斯出口量突破52万，巴西新能源遥遥领先丨盖世汽车研究院",
-      "url": "https://auto.gasgoo.com/news/202609/4I70471219C110.shtml",
-      "published_at": "2026-09-04T17:34:25Z",
-      "first_seen_at": "2026-09-05T12:20:58.804954Z",
-      "last_seen_at": "2026-09-05T17:27:23.462511Z",
-      "title_original": "2026年1-7月中国乘用车出口到哪了：俄罗斯出口量突破52万，巴西新能源遥遥领先丨盖世汽车研究院",
-      "title_en": null,
-      "title_zh": "2026年1-7月中国乘用车出口到哪了：俄罗斯出口量突破52万，巴西新能源遥遥领先丨盖世汽车研究院",
-      "title_bilingual": "2026年1-7月中国乘用车出口到哪了：俄罗斯出口量突破52万，巴西新能源遥遥领先丨盖世汽车研究院",
-      "topic_tags": [
-        "新能源",
-        "销量市场",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "7fdf24327ed0feecbfc872703fd95f09695f30a8",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-供应链",
-      "title": "耐世特常熟年产量突破30万件",
-      "url": "https://auto.gasgoo.com/news/202609/4I70471218C103.shtml",
-      "published_at": "2026-09-04T17:32:26Z",
-      "first_seen_at": "2026-09-05T12:20:58.804954Z",
-      "last_seen_at": "2026-09-05T17:27:23.462511Z",
-      "title_original": "耐世特常熟年产量突破30万件",
-      "title_en": null,
-      "title_zh": "耐世特常熟年产量突破30万件",
-      "title_bilingual": "耐世特常熟年产量突破30万件",
-      "topic_tags": [
-        "供应链"
-      ]
-    },
-    {
-      "id": "15304f4264e1b317e55ecf594cb71368d693c417",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "神行者8亮相成都车展 一个新市场",
-      "url": "https://club.autohome.com.cn/bbs/thread/1e6ef9a7bb45a3b6/115975120-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-09-04T17:32:24.096729Z",
-      "last_seen_at": "2026-09-05T17:27:23.462511Z",
-      "title_original": "神行者8亮相成都车展 一个新市场",
-      "title_en": null,
-      "title_zh": "神行者8亮相成都车展 一个新市场",
-      "title_bilingual": "神行者8亮相成都车展 一个新市场",
-      "topic_tags": [
-        "销量市场",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "e036fe4442da1b03b02aa70892576bd7e7b2b9a5",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "外观颜值拉满 极氪8X提车作业分享",
-      "url": "https://club.autohome.com.cn/bbs/thread/5dae2de0969fe8c2/115763233-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-09-04T17:32:24.096729Z",
-      "last_seen_at": "2026-09-05T15:25:37.666712Z",
-      "title_original": "外观颜值拉满 极氪8X提车作业分享",
-      "title_en": null,
-      "title_zh": "外观颜值拉满 极氪8X提车作业分享",
-      "title_bilingual": "外观颜值拉满 极氪8X提车作业分享",
-      "topic_tags": [
-        "车企竞争",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "35dcb5ae1d08430a0a815bc0fd5ebb310c312caa",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "适合通勤代步 长安启源A07提车分享",
-      "url": "https://club.autohome.com.cn/bbs/thread/bf6530ca59865e97/115951802-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-09-04T17:32:24.096729Z",
-      "last_seen_at": "2026-09-05T15:25:37.666712Z",
-      "title_original": "适合通勤代步 长安启源A07提车分享",
-      "title_en": null,
-      "title_zh": "适合通勤代步 长安启源A07提车分享",
-      "title_bilingual": "适合通勤代步 长安启源A07提车分享",
-      "topic_tags": [
-        "车企竞争",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "06ad49ad66eb949ecea072fd5a7c644f80926074",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "扎实耐用 比亚迪秦L提车作业分享",
-      "url": "https://club.autohome.com.cn/bbs/thread/9efc2c11db9b1ea8/115895745-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-09-04T17:32:24.096729Z",
-      "last_seen_at": "2026-09-05T15:25:37.666712Z",
-      "title_original": "扎实耐用 比亚迪秦L提车作业分享",
-      "title_en": null,
-      "title_zh": "扎实耐用 比亚迪秦L提车作业分享",
-      "title_bilingual": "扎实耐用 比亚迪秦L提车作业分享",
-      "topic_tags": [
-        "车企竞争",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "d6a5c21faf8ff9a03152ed8e9afb24695ae58dfa",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "硬派越野泰钽700车位到车位智驾实测",
-      "url": "https://club.autohome.com.cn/bbs/thread/6ca9bbb2aac56f3e/115911934-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-09-04T17:32:24.096729Z",
-      "last_seen_at": "2026-09-05T15:25:37.666712Z",
-      "title_original": "硬派越野泰钽700车位到车位智驾实测",
-      "title_en": null,
-      "title_zh": "硬派越野泰钽700车位到车位智驾实测",
-      "title_bilingual": "硬派越野泰钽700车位到车位智驾实测",
-      "topic_tags": [
-        "智能驾驶"
       ]
     }
   ],
