@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-09-06T17:14:00.724121Z",
+  "generated_at": "2026-09-06T19:23:29.978622Z",
   "window_hours": 24,
-  "total_items": 15,
-  "total_items_ai_raw": 15,
-  "total_items_raw": 2847,
-  "total_items_all_mode": 2586,
+  "total_items": 13,
+  "total_items_ai_raw": 13,
+  "total_items_raw": 2457,
+  "total_items_all_mode": 2243,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 71873,
+  "archive_total": 71685,
   "site_count": 3,
   "source_count": 4,
   "site_stats": [
     {
       "site_id": "tophub",
       "site_name": "TopHub",
-      "count": 13,
-      "raw_count": 2710
+      "count": 11,
+      "raw_count": 2319
     },
     {
       "site_id": "official_auto",
@@ -26,40 +26,36 @@
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "count": 0,
-      "raw_count": 135
+      "raw_count": 136
     }
   ],
   "topic_tag_stats": [
-    {
-      "tag": "购车决策",
-      "count": 9
-    },
-    {
-      "tag": "车企竞争",
-      "count": 8
-    },
     {
       "tag": "新能源",
       "count": 6
     },
     {
-      "tag": "召回安全",
-      "count": 2
+      "tag": "车企竞争",
+      "count": 6
+    },
+    {
+      "tag": "购车决策",
+      "count": 5
     },
     {
       "tag": "新车上市",
+      "count": 4
+    },
+    {
+      "tag": "补能电池",
       "count": 2
     },
     {
-      "tag": "价格战",
+      "tag": "召回安全",
       "count": 1
     },
     {
       "tag": "智能驾驶",
-      "count": 1
-    },
-    {
-      "tag": "补能电池",
       "count": 1
     },
     {
@@ -69,6 +65,100 @@
   ],
   "items": [
     {
+      "id": "399fd733072ed5211122a0c925f2e7411c50e6de",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "全新吉利星越L PLUS，尺寸继续加大，产品实力如何？",
+      "url": "http://vc.yiche.com/vplay/13051180.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-06T19:23:29.978622Z",
+      "last_seen_at": "2026-09-06T19:23:29.978622Z",
+      "title_original": "全新吉利星越L PLUS，尺寸继续加大，产品实力如何？",
+      "title_en": null,
+      "title_zh": "全新吉利星越L PLUS，尺寸继续加大，产品实力如何？",
+      "title_bilingual": "全新吉利星越L PLUS，尺寸继续加大，产品实力如何？",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "3e0b972a4395e6d5b13093249a03c7705d79a69f",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "星越L PLUS来了，家用SUV你会选它吗？",
+      "url": "http://vc.yiche.com/vplay/13068078.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-06T19:23:29.978622Z",
+      "last_seen_at": "2026-09-06T19:23:29.978622Z",
+      "title_original": "星越L PLUS来了，家用SUV你会选它吗？",
+      "title_en": null,
+      "title_zh": "星越L PLUS来了，家用SUV你会选它吗？",
+      "title_bilingual": "星越L PLUS来了，家用SUV你会选它吗？",
+      "topic_tags": [
+        "购车决策",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "d65ebd0e467afc22212bbecb06c33442d4c5399c",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "星越 L PLUS 迭代上新，大五座 SUV 标杆迎来挑战者",
+      "url": "http://vc.yiche.com/vplay/13036207.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-06T19:23:29.978622Z",
+      "last_seen_at": "2026-09-06T19:23:29.978622Z",
+      "title_original": "星越 L PLUS 迭代上新，大五座 SUV 标杆迎来挑战者",
+      "title_en": null,
+      "title_zh": "星越 L PLUS 迭代上新，大五座 SUV 标杆迎来挑战者",
+      "title_bilingual": "星越 L PLUS 迭代上新，大五座 SUV 标杆迎来挑战者",
+      "topic_tags": [
+        "新车上市"
+      ]
+    },
+    {
+      "id": "bdeea7adc741c51607b99934d5a86c734f2b78fa",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "方程豹钛9首发！6座插混续航1600km",
+      "url": "http://vc.yiche.com/vplay/13020380.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-06T19:23:29.978622Z",
+      "last_seen_at": "2026-09-06T19:23:29.978622Z",
+      "title_original": "方程豹钛9首发！6座插混续航1600km",
+      "title_en": null,
+      "title_zh": "方程豹钛9首发！6座插混续航1600km",
+      "title_bilingual": "方程豹钛9首发！6座插混续航1600km",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "9fa6d260ce46cf434c88f91ea1de224d6a79e42a",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "品牌旗舰大五座 静态体验吉利星越L PLUS",
+      "url": "http://vc.yiche.com/vplay/13061897.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-06T19:23:29.978622Z",
+      "last_seen_at": "2026-09-06T19:23:29.978622Z",
+      "title_original": "品牌旗舰大五座 静态体验吉利星越L PLUS",
+      "title_en": null,
+      "title_zh": "品牌旗舰大五座 静态体验吉利星越L PLUS",
+      "title_bilingual": "品牌旗舰大五座 静态体验吉利星越L PLUS",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
       "id": "302665cad55282124aa2c978fd63cc2d1775773c",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -77,7 +167,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/019cd93729b162ef/115764484-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-06T17:14:00.724121Z",
-      "last_seen_at": "2026-09-06T17:14:00.724121Z",
+      "last_seen_at": "2026-09-06T19:23:29.978622Z",
       "title_original": "外观很精致 QQ3 EV提车作业分享",
       "title_en": null,
       "title_zh": "外观很精致 QQ3 EV提车作业分享",
@@ -96,7 +186,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/e231b0aa11a2ec3c/116013731-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-06T17:14:00.724121Z",
-      "last_seen_at": "2026-09-06T17:14:00.724121Z",
+      "last_seen_at": "2026-09-06T19:23:29.978622Z",
       "title_original": "配置很丰富 零跑C16提车作业分享",
       "title_en": null,
       "title_zh": "配置很丰富 零跑C16提车作业分享",
@@ -115,7 +205,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/b9c47fa5cfb202c3/116013715-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-06T17:14:00.724121Z",
-      "last_seen_at": "2026-09-06T17:14:00.724121Z",
+      "last_seen_at": "2026-09-06T19:23:29.978622Z",
       "title_original": "实测长安启源Q06智驾挑战山城重庆",
       "title_en": null,
       "title_zh": "实测长安启源Q06智驾挑战山城重庆",
@@ -134,7 +224,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/f2ce1f90e199b6ba/115763017-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-06T17:14:00.724121Z",
-      "last_seen_at": "2026-09-06T17:14:00.724121Z",
+      "last_seen_at": "2026-09-06T19:23:29.978622Z",
       "title_original": "续航很扎实 Model Y提车作业分享",
       "title_en": null,
       "title_zh": "续航很扎实 Model Y提车作业分享",
@@ -153,7 +243,7 @@
       "url": "https://carnewschina.com/2026/09/06/geely-e2-electric-hatchback-arrived-at-dealers-in-belgium-ahead-of-launch",
       "published_at": "2026-09-06T12:32:12Z",
       "first_seen_at": "2026-09-06T14:19:07.953358Z",
-      "last_seen_at": "2026-09-06T17:14:00.724121Z",
+      "last_seen_at": "2026-09-06T19:23:29.978622Z",
       "title_original": "Geely E2 electric hatchback arrived at dealers in Belgium ahead of launch",
       "title_en": "Geely E2 electric hatchback arrived at dealers in Belgium ahead of launch",
       "title_zh": null,
@@ -172,7 +262,7 @@
       "url": "https://carnewschina.com/2026/09/06/mercedes-backed-prologium-starts-381-wh-kg-solid-state-production-as-carmakers-watch-from-sidelines",
       "published_at": "2026-09-06T11:39:12Z",
       "first_seen_at": "2026-09-06T14:19:07.953358Z",
-      "last_seen_at": "2026-09-06T17:14:00.724121Z",
+      "last_seen_at": "2026-09-06T19:23:29.978622Z",
       "title_original": "Mercedes-backed ProLogium starts 381 Wh/kg solid-state production as carmakers watch from sidelines",
       "title_en": "Mercedes-backed ProLogium starts 381 Wh/kg solid-state production as carmakers watch from sidelines",
       "title_zh": null,
@@ -190,7 +280,7 @@
       "url": "https://www.dongchedi.com/article/7681968393398043198",
       "published_at": null,
       "first_seen_at": "2026-09-06T11:12:38.614642Z",
-      "last_seen_at": "2026-09-06T17:14:00.724121Z",
+      "last_seen_at": "2026-09-06T19:23:29.978622Z",
       "title_original": "8月英国新车销量超9.4万，中国品牌市占率破20%，纯电卡在3成关口",
       "title_en": null,
       "title_zh": "8月英国新车销量超9.4万，中国品牌市占率破20%，纯电卡在3成关口",
@@ -210,7 +300,7 @@
       "url": "https://www.dongchedi.com/article/7681483268696883737",
       "published_at": null,
       "first_seen_at": "2026-09-06T11:12:38.614642Z",
-      "last_seen_at": "2026-09-06T17:14:00.724121Z",
+      "last_seen_at": "2026-09-06T19:23:29.978622Z",
       "title_original": "吉利帝豪智擎混动日常实用性测试报告",
       "title_en": null,
       "title_zh": "吉利帝豪智擎混动日常实用性测试报告",
@@ -219,144 +309,105 @@
         "新能源",
         "召回安全",
         "车企竞争"
-      ]
-    },
-    {
-      "id": "dfcb6dc345c7b66abdeb50c273bdce56e3371f6c",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "首款立标MPV，岚图梦想家9升级细节抢先体验！",
-      "url": "http://vc.yiche.com/vplay/13014248.html",
-      "published_at": null,
-      "first_seen_at": "2026-09-05T19:18:45.272598Z",
-      "last_seen_at": "2026-09-06T17:14:00.724121Z",
-      "title_original": "首款立标MPV，岚图梦想家9升级细节抢先体验！",
-      "title_en": null,
-      "title_zh": "首款立标MPV，岚图梦想家9升级细节抢先体验！",
-      "title_bilingual": "首款立标MPV，岚图梦想家9升级细节抢先体验！",
-      "topic_tags": [
-        "购车决策",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "ad3db9353d6b1ae606a604c99a029dd250ce4356",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "奇瑞出了个官方改装版？全新QQ3“摩登版”",
-      "url": "http://vc.yiche.com/vplay/13019260.html",
-      "published_at": null,
-      "first_seen_at": "2026-09-05T19:18:45.272598Z",
-      "last_seen_at": "2026-09-06T17:14:00.724121Z",
-      "title_original": "奇瑞出了个官方改装版？全新QQ3“摩登版”",
-      "title_en": null,
-      "title_zh": "奇瑞出了个官方改装版？全新QQ3“摩登版”",
-      "title_bilingual": "奇瑞出了个官方改装版？全新QQ3“摩登版”",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "0c8eceacb8a0d55ce74426eb230189b5032ccfda",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "试驾问界M9 Ultimate领世加长版！主动悬架+道路预瞄 让出行不仅舒适更安全！",
-      "url": "http://vc.yiche.com/vplay/13039693.html",
-      "published_at": null,
-      "first_seen_at": "2026-09-05T19:18:45.272598Z",
-      "last_seen_at": "2026-09-06T17:14:00.724121Z",
-      "title_original": "试驾问界M9 Ultimate领世加长版！主动悬架+道路预瞄 让出行不仅舒适更安全！",
-      "title_en": null,
-      "title_zh": "试驾问界M9 Ultimate领世加长版！主动悬架+道路预瞄 让出行不仅舒适更安全！",
-      "title_bilingual": "试驾问界M9 Ultimate领世加长版！主动悬架+道路预瞄 让出行不仅舒适更安全！",
-      "topic_tags": [
-        "召回安全",
-        "车企竞争",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "a6742107724fd7ecb2b76628b15ac5baddf3f45a",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "颜值很高 iCAR 超级V23提车分享",
-      "url": "https://club.autohome.com.cn/bbs/thread/89173e09d4f1bfcc/115953892-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-09-05T17:27:23.462511Z",
-      "last_seen_at": "2026-09-06T14:19:07.953358Z",
-      "title_original": "颜值很高 iCAR 超级V23提车分享",
-      "title_en": null,
-      "title_zh": "颜值很高 iCAR 超级V23提车分享",
-      "title_bilingual": "颜值很高 iCAR 超级V23提车分享",
-      "topic_tags": [
-        "购车决策"
-      ]
-    },
-    {
-      "id": "6fe994853a8d58c6955889e05aa0d1c702b47c28",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "可城可野 北京越野BJ40增程提车分享",
-      "url": "https://club.autohome.com.cn/bbs/thread/d4a5c2136fb00833/116010078-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-09-05T17:27:23.462511Z",
-      "last_seen_at": "2026-09-06T14:19:07.953358Z",
-      "title_original": "可城可野 北京越野BJ40增程提车分享",
-      "title_en": null,
-      "title_zh": "可城可野 北京越野BJ40增程提车分享",
-      "title_bilingual": "可城可野 北京越野BJ40增程提车分享",
-      "topic_tags": [
-        "新能源",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "4fb5bf2926106ecd7758d66c5c62b60797046755",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "性价比不错 零跑C16提车作业分享",
-      "url": "https://club.autohome.com.cn/bbs/thread/dac861d496182863/115771985-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-09-05T17:27:23.462511Z",
-      "last_seen_at": "2026-09-06T14:19:07.953358Z",
-      "title_original": "性价比不错 零跑C16提车作业分享",
-      "title_en": null,
-      "title_zh": "性价比不错 零跑C16提车作业分享",
-      "title_bilingual": "性价比不错 零跑C16提车作业分享",
-      "topic_tags": [
-        "价格战",
-        "车企竞争",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "db03719fb61e501715bb2b13438dbb6f6e8d525a",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "很适合家用 长安启源Q07提车分享",
-      "url": "https://club.autohome.com.cn/bbs/thread/e5e306ef36673a01/115765521-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-09-05T17:27:23.462511Z",
-      "last_seen_at": "2026-09-06T14:19:07.953358Z",
-      "title_original": "很适合家用 长安启源Q07提车分享",
-      "title_en": null,
-      "title_zh": "很适合家用 长安启源Q07提车分享",
-      "title_bilingual": "很适合家用 长安启源Q07提车分享",
-      "topic_tags": [
-        "车企竞争",
-        "购车决策"
       ]
     }
   ],
   "items_ai": [
     {
+      "id": "399fd733072ed5211122a0c925f2e7411c50e6de",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "全新吉利星越L PLUS，尺寸继续加大，产品实力如何？",
+      "url": "http://vc.yiche.com/vplay/13051180.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-06T19:23:29.978622Z",
+      "last_seen_at": "2026-09-06T19:23:29.978622Z",
+      "title_original": "全新吉利星越L PLUS，尺寸继续加大，产品实力如何？",
+      "title_en": null,
+      "title_zh": "全新吉利星越L PLUS，尺寸继续加大，产品实力如何？",
+      "title_bilingual": "全新吉利星越L PLUS，尺寸继续加大，产品实力如何？",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "3e0b972a4395e6d5b13093249a03c7705d79a69f",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "星越L PLUS来了，家用SUV你会选它吗？",
+      "url": "http://vc.yiche.com/vplay/13068078.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-06T19:23:29.978622Z",
+      "last_seen_at": "2026-09-06T19:23:29.978622Z",
+      "title_original": "星越L PLUS来了，家用SUV你会选它吗？",
+      "title_en": null,
+      "title_zh": "星越L PLUS来了，家用SUV你会选它吗？",
+      "title_bilingual": "星越L PLUS来了，家用SUV你会选它吗？",
+      "topic_tags": [
+        "购车决策",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "d65ebd0e467afc22212bbecb06c33442d4c5399c",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "星越 L PLUS 迭代上新，大五座 SUV 标杆迎来挑战者",
+      "url": "http://vc.yiche.com/vplay/13036207.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-06T19:23:29.978622Z",
+      "last_seen_at": "2026-09-06T19:23:29.978622Z",
+      "title_original": "星越 L PLUS 迭代上新，大五座 SUV 标杆迎来挑战者",
+      "title_en": null,
+      "title_zh": "星越 L PLUS 迭代上新，大五座 SUV 标杆迎来挑战者",
+      "title_bilingual": "星越 L PLUS 迭代上新，大五座 SUV 标杆迎来挑战者",
+      "topic_tags": [
+        "新车上市"
+      ]
+    },
+    {
+      "id": "bdeea7adc741c51607b99934d5a86c734f2b78fa",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "方程豹钛9首发！6座插混续航1600km",
+      "url": "http://vc.yiche.com/vplay/13020380.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-06T19:23:29.978622Z",
+      "last_seen_at": "2026-09-06T19:23:29.978622Z",
+      "title_original": "方程豹钛9首发！6座插混续航1600km",
+      "title_en": null,
+      "title_zh": "方程豹钛9首发！6座插混续航1600km",
+      "title_bilingual": "方程豹钛9首发！6座插混续航1600km",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "9fa6d260ce46cf434c88f91ea1de224d6a79e42a",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "品牌旗舰大五座 静态体验吉利星越L PLUS",
+      "url": "http://vc.yiche.com/vplay/13061897.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-06T19:23:29.978622Z",
+      "last_seen_at": "2026-09-06T19:23:29.978622Z",
+      "title_original": "品牌旗舰大五座 静态体验吉利星越L PLUS",
+      "title_en": null,
+      "title_zh": "品牌旗舰大五座 静态体验吉利星越L PLUS",
+      "title_bilingual": "品牌旗舰大五座 静态体验吉利星越L PLUS",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
       "id": "302665cad55282124aa2c978fd63cc2d1775773c",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -365,7 +416,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/019cd93729b162ef/115764484-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-06T17:14:00.724121Z",
-      "last_seen_at": "2026-09-06T17:14:00.724121Z",
+      "last_seen_at": "2026-09-06T19:23:29.978622Z",
       "title_original": "外观很精致 QQ3 EV提车作业分享",
       "title_en": null,
       "title_zh": "外观很精致 QQ3 EV提车作业分享",
@@ -384,7 +435,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/e231b0aa11a2ec3c/116013731-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-06T17:14:00.724121Z",
-      "last_seen_at": "2026-09-06T17:14:00.724121Z",
+      "last_seen_at": "2026-09-06T19:23:29.978622Z",
       "title_original": "配置很丰富 零跑C16提车作业分享",
       "title_en": null,
       "title_zh": "配置很丰富 零跑C16提车作业分享",
@@ -403,7 +454,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/b9c47fa5cfb202c3/116013715-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-06T17:14:00.724121Z",
-      "last_seen_at": "2026-09-06T17:14:00.724121Z",
+      "last_seen_at": "2026-09-06T19:23:29.978622Z",
       "title_original": "实测长安启源Q06智驾挑战山城重庆",
       "title_en": null,
       "title_zh": "实测长安启源Q06智驾挑战山城重庆",
@@ -422,7 +473,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/f2ce1f90e199b6ba/115763017-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-06T17:14:00.724121Z",
-      "last_seen_at": "2026-09-06T17:14:00.724121Z",
+      "last_seen_at": "2026-09-06T19:23:29.978622Z",
       "title_original": "续航很扎实 Model Y提车作业分享",
       "title_en": null,
       "title_zh": "续航很扎实 Model Y提车作业分享",
@@ -441,7 +492,7 @@
       "url": "https://carnewschina.com/2026/09/06/geely-e2-electric-hatchback-arrived-at-dealers-in-belgium-ahead-of-launch",
       "published_at": "2026-09-06T12:32:12Z",
       "first_seen_at": "2026-09-06T14:19:07.953358Z",
-      "last_seen_at": "2026-09-06T17:14:00.724121Z",
+      "last_seen_at": "2026-09-06T19:23:29.978622Z",
       "title_original": "Geely E2 electric hatchback arrived at dealers in Belgium ahead of launch",
       "title_en": "Geely E2 electric hatchback arrived at dealers in Belgium ahead of launch",
       "title_zh": null,
@@ -460,7 +511,7 @@
       "url": "https://carnewschina.com/2026/09/06/mercedes-backed-prologium-starts-381-wh-kg-solid-state-production-as-carmakers-watch-from-sidelines",
       "published_at": "2026-09-06T11:39:12Z",
       "first_seen_at": "2026-09-06T14:19:07.953358Z",
-      "last_seen_at": "2026-09-06T17:14:00.724121Z",
+      "last_seen_at": "2026-09-06T19:23:29.978622Z",
       "title_original": "Mercedes-backed ProLogium starts 381 Wh/kg solid-state production as carmakers watch from sidelines",
       "title_en": "Mercedes-backed ProLogium starts 381 Wh/kg solid-state production as carmakers watch from sidelines",
       "title_zh": null,
@@ -478,7 +529,7 @@
       "url": "https://www.dongchedi.com/article/7681968393398043198",
       "published_at": null,
       "first_seen_at": "2026-09-06T11:12:38.614642Z",
-      "last_seen_at": "2026-09-06T17:14:00.724121Z",
+      "last_seen_at": "2026-09-06T19:23:29.978622Z",
       "title_original": "8月英国新车销量超9.4万，中国品牌市占率破20%，纯电卡在3成关口",
       "title_en": null,
       "title_zh": "8月英国新车销量超9.4万，中国品牌市占率破20%，纯电卡在3成关口",
@@ -498,7 +549,7 @@
       "url": "https://www.dongchedi.com/article/7681483268696883737",
       "published_at": null,
       "first_seen_at": "2026-09-06T11:12:38.614642Z",
-      "last_seen_at": "2026-09-06T17:14:00.724121Z",
+      "last_seen_at": "2026-09-06T19:23:29.978622Z",
       "title_original": "吉利帝豪智擎混动日常实用性测试报告",
       "title_en": null,
       "title_zh": "吉利帝豪智擎混动日常实用性测试报告",
@@ -507,139 +558,6 @@
         "新能源",
         "召回安全",
         "车企竞争"
-      ]
-    },
-    {
-      "id": "dfcb6dc345c7b66abdeb50c273bdce56e3371f6c",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "首款立标MPV，岚图梦想家9升级细节抢先体验！",
-      "url": "http://vc.yiche.com/vplay/13014248.html",
-      "published_at": null,
-      "first_seen_at": "2026-09-05T19:18:45.272598Z",
-      "last_seen_at": "2026-09-06T17:14:00.724121Z",
-      "title_original": "首款立标MPV，岚图梦想家9升级细节抢先体验！",
-      "title_en": null,
-      "title_zh": "首款立标MPV，岚图梦想家9升级细节抢先体验！",
-      "title_bilingual": "首款立标MPV，岚图梦想家9升级细节抢先体验！",
-      "topic_tags": [
-        "购车决策",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "ad3db9353d6b1ae606a604c99a029dd250ce4356",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "奇瑞出了个官方改装版？全新QQ3“摩登版”",
-      "url": "http://vc.yiche.com/vplay/13019260.html",
-      "published_at": null,
-      "first_seen_at": "2026-09-05T19:18:45.272598Z",
-      "last_seen_at": "2026-09-06T17:14:00.724121Z",
-      "title_original": "奇瑞出了个官方改装版？全新QQ3“摩登版”",
-      "title_en": null,
-      "title_zh": "奇瑞出了个官方改装版？全新QQ3“摩登版”",
-      "title_bilingual": "奇瑞出了个官方改装版？全新QQ3“摩登版”",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "0c8eceacb8a0d55ce74426eb230189b5032ccfda",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "试驾问界M9 Ultimate领世加长版！主动悬架+道路预瞄 让出行不仅舒适更安全！",
-      "url": "http://vc.yiche.com/vplay/13039693.html",
-      "published_at": null,
-      "first_seen_at": "2026-09-05T19:18:45.272598Z",
-      "last_seen_at": "2026-09-06T17:14:00.724121Z",
-      "title_original": "试驾问界M9 Ultimate领世加长版！主动悬架+道路预瞄 让出行不仅舒适更安全！",
-      "title_en": null,
-      "title_zh": "试驾问界M9 Ultimate领世加长版！主动悬架+道路预瞄 让出行不仅舒适更安全！",
-      "title_bilingual": "试驾问界M9 Ultimate领世加长版！主动悬架+道路预瞄 让出行不仅舒适更安全！",
-      "topic_tags": [
-        "召回安全",
-        "车企竞争",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "a6742107724fd7ecb2b76628b15ac5baddf3f45a",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "颜值很高 iCAR 超级V23提车分享",
-      "url": "https://club.autohome.com.cn/bbs/thread/89173e09d4f1bfcc/115953892-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-09-05T17:27:23.462511Z",
-      "last_seen_at": "2026-09-06T14:19:07.953358Z",
-      "title_original": "颜值很高 iCAR 超级V23提车分享",
-      "title_en": null,
-      "title_zh": "颜值很高 iCAR 超级V23提车分享",
-      "title_bilingual": "颜值很高 iCAR 超级V23提车分享",
-      "topic_tags": [
-        "购车决策"
-      ]
-    },
-    {
-      "id": "6fe994853a8d58c6955889e05aa0d1c702b47c28",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "可城可野 北京越野BJ40增程提车分享",
-      "url": "https://club.autohome.com.cn/bbs/thread/d4a5c2136fb00833/116010078-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-09-05T17:27:23.462511Z",
-      "last_seen_at": "2026-09-06T14:19:07.953358Z",
-      "title_original": "可城可野 北京越野BJ40增程提车分享",
-      "title_en": null,
-      "title_zh": "可城可野 北京越野BJ40增程提车分享",
-      "title_bilingual": "可城可野 北京越野BJ40增程提车分享",
-      "topic_tags": [
-        "新能源",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "4fb5bf2926106ecd7758d66c5c62b60797046755",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "性价比不错 零跑C16提车作业分享",
-      "url": "https://club.autohome.com.cn/bbs/thread/dac861d496182863/115771985-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-09-05T17:27:23.462511Z",
-      "last_seen_at": "2026-09-06T14:19:07.953358Z",
-      "title_original": "性价比不错 零跑C16提车作业分享",
-      "title_en": null,
-      "title_zh": "性价比不错 零跑C16提车作业分享",
-      "title_bilingual": "性价比不错 零跑C16提车作业分享",
-      "topic_tags": [
-        "价格战",
-        "车企竞争",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "db03719fb61e501715bb2b13438dbb6f6e8d525a",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "很适合家用 长安启源Q07提车分享",
-      "url": "https://club.autohome.com.cn/bbs/thread/e5e306ef36673a01/115765521-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-09-05T17:27:23.462511Z",
-      "last_seen_at": "2026-09-06T14:19:07.953358Z",
-      "title_original": "很适合家用 长安启源Q07提车分享",
-      "title_en": null,
-      "title_zh": "很适合家用 长安启源Q07提车分享",
-      "title_bilingual": "很适合家用 长安启源Q07提车分享",
-      "topic_tags": [
-        "车企竞争",
-        "购车决策"
       ]
     }
   ],
