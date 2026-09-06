@@ -1,57 +1,65 @@
 {
-  "generated_at": "2026-09-06T14:19:07.953358Z",
+  "generated_at": "2026-09-06T17:14:00.724121Z",
   "window_hours": 24,
-  "total_items": 12,
-  "total_items_ai_raw": 12,
-  "total_items_raw": 2784,
-  "total_items_all_mode": 2531,
+  "total_items": 15,
+  "total_items_ai_raw": 15,
+  "total_items_raw": 2847,
+  "total_items_all_mode": 2586,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 71973,
+  "archive_total": 71873,
   "site_count": 3,
-  "source_count": 5,
+  "source_count": 4,
   "site_stats": [
     {
       "site_id": "tophub",
       "site_name": "TopHub",
-      "count": 9,
-      "raw_count": 2655
+      "count": 13,
+      "raw_count": 2710
     },
     {
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "count": 3,
-      "raw_count": 3
+      "count": 2,
+      "raw_count": 2
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "count": 0,
-      "raw_count": 126
+      "raw_count": 135
     }
   ],
   "topic_tag_stats": [
     {
       "tag": "购车决策",
-      "count": 6
+      "count": 9
     },
     {
       "tag": "车企竞争",
-      "count": 6
+      "count": 8
     },
     {
       "tag": "新能源",
-      "count": 5
-    },
-    {
-      "tag": "新车上市",
-      "count": 3
+      "count": 6
     },
     {
       "tag": "召回安全",
       "count": 2
     },
     {
+      "tag": "新车上市",
+      "count": 2
+    },
+    {
       "tag": "价格战",
+      "count": 1
+    },
+    {
+      "tag": "智能驾驶",
+      "count": 1
+    },
+    {
+      "tag": "补能电池",
       "count": 1
     },
     {
@@ -61,6 +69,82 @@
   ],
   "items": [
     {
+      "id": "302665cad55282124aa2c978fd63cc2d1775773c",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "外观很精致 QQ3 EV提车作业分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/019cd93729b162ef/115764484-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-06T17:14:00.724121Z",
+      "last_seen_at": "2026-09-06T17:14:00.724121Z",
+      "title_original": "外观很精致 QQ3 EV提车作业分享",
+      "title_en": null,
+      "title_zh": "外观很精致 QQ3 EV提车作业分享",
+      "title_bilingual": "外观很精致 QQ3 EV提车作业分享",
+      "topic_tags": [
+        "新能源",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "a2ba56568c1fdf03f80fb7cbe0b95478ec620e25",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "配置很丰富 零跑C16提车作业分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/e231b0aa11a2ec3c/116013731-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-06T17:14:00.724121Z",
+      "last_seen_at": "2026-09-06T17:14:00.724121Z",
+      "title_original": "配置很丰富 零跑C16提车作业分享",
+      "title_en": null,
+      "title_zh": "配置很丰富 零跑C16提车作业分享",
+      "title_bilingual": "配置很丰富 零跑C16提车作业分享",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "6ba947260a6098d635f68392b49683cfc1f4a87b",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "实测长安启源Q06智驾挑战山城重庆",
+      "url": "https://club.autohome.com.cn/bbs/thread/b9c47fa5cfb202c3/116013715-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-06T17:14:00.724121Z",
+      "last_seen_at": "2026-09-06T17:14:00.724121Z",
+      "title_original": "实测长安启源Q06智驾挑战山城重庆",
+      "title_en": null,
+      "title_zh": "实测长安启源Q06智驾挑战山城重庆",
+      "title_bilingual": "实测长安启源Q06智驾挑战山城重庆",
+      "topic_tags": [
+        "智能驾驶",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "bac98e5f6779cb46eef5f25e72f4ab45685c9468",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "续航很扎实 Model Y提车作业分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/f2ce1f90e199b6ba/115763017-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-06T17:14:00.724121Z",
+      "last_seen_at": "2026-09-06T17:14:00.724121Z",
+      "title_original": "续航很扎实 Model Y提车作业分享",
+      "title_en": null,
+      "title_zh": "续航很扎实 Model Y提车作业分享",
+      "title_bilingual": "续航很扎实 Model Y提车作业分享",
+      "topic_tags": [
+        "补能电池",
+        "购车决策"
+      ]
+    },
+    {
       "id": "ed93cbcf4972507d1d27707c22874512d82e4a44",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -69,7 +153,7 @@
       "url": "https://carnewschina.com/2026/09/06/geely-e2-electric-hatchback-arrived-at-dealers-in-belgium-ahead-of-launch",
       "published_at": "2026-09-06T12:32:12Z",
       "first_seen_at": "2026-09-06T14:19:07.953358Z",
-      "last_seen_at": "2026-09-06T14:19:07.953358Z",
+      "last_seen_at": "2026-09-06T17:14:00.724121Z",
       "title_original": "Geely E2 electric hatchback arrived at dealers in Belgium ahead of launch",
       "title_en": "Geely E2 electric hatchback arrived at dealers in Belgium ahead of launch",
       "title_zh": null,
@@ -88,7 +172,7 @@
       "url": "https://carnewschina.com/2026/09/06/mercedes-backed-prologium-starts-381-wh-kg-solid-state-production-as-carmakers-watch-from-sidelines",
       "published_at": "2026-09-06T11:39:12Z",
       "first_seen_at": "2026-09-06T14:19:07.953358Z",
-      "last_seen_at": "2026-09-06T14:19:07.953358Z",
+      "last_seen_at": "2026-09-06T17:14:00.724121Z",
       "title_original": "Mercedes-backed ProLogium starts 381 Wh/kg solid-state production as carmakers watch from sidelines",
       "title_en": "Mercedes-backed ProLogium starts 381 Wh/kg solid-state production as carmakers watch from sidelines",
       "title_zh": null,
@@ -106,7 +190,7 @@
       "url": "https://www.dongchedi.com/article/7681968393398043198",
       "published_at": null,
       "first_seen_at": "2026-09-06T11:12:38.614642Z",
-      "last_seen_at": "2026-09-06T14:19:07.953358Z",
+      "last_seen_at": "2026-09-06T17:14:00.724121Z",
       "title_original": "8月英国新车销量超9.4万，中国品牌市占率破20%，纯电卡在3成关口",
       "title_en": null,
       "title_zh": "8月英国新车销量超9.4万，中国品牌市占率破20%，纯电卡在3成关口",
@@ -126,7 +210,7 @@
       "url": "https://www.dongchedi.com/article/7681483268696883737",
       "published_at": null,
       "first_seen_at": "2026-09-06T11:12:38.614642Z",
-      "last_seen_at": "2026-09-06T14:19:07.953358Z",
+      "last_seen_at": "2026-09-06T17:14:00.724121Z",
       "title_original": "吉利帝豪智擎混动日常实用性测试报告",
       "title_en": null,
       "title_zh": "吉利帝豪智擎混动日常实用性测试报告",
@@ -146,7 +230,7 @@
       "url": "http://vc.yiche.com/vplay/13014248.html",
       "published_at": null,
       "first_seen_at": "2026-09-05T19:18:45.272598Z",
-      "last_seen_at": "2026-09-06T14:19:07.953358Z",
+      "last_seen_at": "2026-09-06T17:14:00.724121Z",
       "title_original": "首款立标MPV，岚图梦想家9升级细节抢先体验！",
       "title_en": null,
       "title_zh": "首款立标MPV，岚图梦想家9升级细节抢先体验！",
@@ -165,7 +249,7 @@
       "url": "http://vc.yiche.com/vplay/13019260.html",
       "published_at": null,
       "first_seen_at": "2026-09-05T19:18:45.272598Z",
-      "last_seen_at": "2026-09-06T14:19:07.953358Z",
+      "last_seen_at": "2026-09-06T17:14:00.724121Z",
       "title_original": "奇瑞出了个官方改装版？全新QQ3“摩登版”",
       "title_en": null,
       "title_zh": "奇瑞出了个官方改装版？全新QQ3“摩登版”",
@@ -183,7 +267,7 @@
       "url": "http://vc.yiche.com/vplay/13039693.html",
       "published_at": null,
       "first_seen_at": "2026-09-05T19:18:45.272598Z",
-      "last_seen_at": "2026-09-06T14:19:07.953358Z",
+      "last_seen_at": "2026-09-06T17:14:00.724121Z",
       "title_original": "试驾问界M9 Ultimate领世加长版！主动悬架+道路预瞄 让出行不仅舒适更安全！",
       "title_en": null,
       "title_zh": "试驾问界M9 Ultimate领世加长版！主动悬架+道路预瞄 让出行不仅舒适更安全！",
@@ -268,29 +352,87 @@
       "topic_tags": [
         "车企竞争",
         "购车决策"
-      ]
-    },
-    {
-      "id": "823890a0e138d24e4663e3be79a1d1cbe2c07c68",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新车",
-      "title": "启境GX7预售24.99-31.19万元，起步即标配L3架构",
-      "url": "https://auto.gasgoo.com/news/202609/5I70471296C107.shtml",
-      "published_at": "2026-09-05T15:33:55Z",
-      "first_seen_at": "2026-09-06T11:12:38.614642Z",
-      "last_seen_at": "2026-09-06T14:19:07.953358Z",
-      "title_original": "启境GX7预售24.99-31.19万元，起步即标配L3架构",
-      "title_en": null,
-      "title_zh": "启境GX7预售24.99-31.19万元，起步即标配L3架构",
-      "title_bilingual": "启境GX7预售24.99-31.19万元，起步即标配L3架构",
-      "topic_tags": [
-        "新车上市"
       ]
     }
   ],
   "items_ai": [
     {
+      "id": "302665cad55282124aa2c978fd63cc2d1775773c",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "外观很精致 QQ3 EV提车作业分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/019cd93729b162ef/115764484-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-06T17:14:00.724121Z",
+      "last_seen_at": "2026-09-06T17:14:00.724121Z",
+      "title_original": "外观很精致 QQ3 EV提车作业分享",
+      "title_en": null,
+      "title_zh": "外观很精致 QQ3 EV提车作业分享",
+      "title_bilingual": "外观很精致 QQ3 EV提车作业分享",
+      "topic_tags": [
+        "新能源",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "a2ba56568c1fdf03f80fb7cbe0b95478ec620e25",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "配置很丰富 零跑C16提车作业分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/e231b0aa11a2ec3c/116013731-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-06T17:14:00.724121Z",
+      "last_seen_at": "2026-09-06T17:14:00.724121Z",
+      "title_original": "配置很丰富 零跑C16提车作业分享",
+      "title_en": null,
+      "title_zh": "配置很丰富 零跑C16提车作业分享",
+      "title_bilingual": "配置很丰富 零跑C16提车作业分享",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "6ba947260a6098d635f68392b49683cfc1f4a87b",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "实测长安启源Q06智驾挑战山城重庆",
+      "url": "https://club.autohome.com.cn/bbs/thread/b9c47fa5cfb202c3/116013715-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-06T17:14:00.724121Z",
+      "last_seen_at": "2026-09-06T17:14:00.724121Z",
+      "title_original": "实测长安启源Q06智驾挑战山城重庆",
+      "title_en": null,
+      "title_zh": "实测长安启源Q06智驾挑战山城重庆",
+      "title_bilingual": "实测长安启源Q06智驾挑战山城重庆",
+      "topic_tags": [
+        "智能驾驶",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "bac98e5f6779cb46eef5f25e72f4ab45685c9468",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "续航很扎实 Model Y提车作业分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/f2ce1f90e199b6ba/115763017-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-06T17:14:00.724121Z",
+      "last_seen_at": "2026-09-06T17:14:00.724121Z",
+      "title_original": "续航很扎实 Model Y提车作业分享",
+      "title_en": null,
+      "title_zh": "续航很扎实 Model Y提车作业分享",
+      "title_bilingual": "续航很扎实 Model Y提车作业分享",
+      "topic_tags": [
+        "补能电池",
+        "购车决策"
+      ]
+    },
+    {
       "id": "ed93cbcf4972507d1d27707c22874512d82e4a44",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -299,7 +441,7 @@
       "url": "https://carnewschina.com/2026/09/06/geely-e2-electric-hatchback-arrived-at-dealers-in-belgium-ahead-of-launch",
       "published_at": "2026-09-06T12:32:12Z",
       "first_seen_at": "2026-09-06T14:19:07.953358Z",
-      "last_seen_at": "2026-09-06T14:19:07.953358Z",
+      "last_seen_at": "2026-09-06T17:14:00.724121Z",
       "title_original": "Geely E2 electric hatchback arrived at dealers in Belgium ahead of launch",
       "title_en": "Geely E2 electric hatchback arrived at dealers in Belgium ahead of launch",
       "title_zh": null,
@@ -318,7 +460,7 @@
       "url": "https://carnewschina.com/2026/09/06/mercedes-backed-prologium-starts-381-wh-kg-solid-state-production-as-carmakers-watch-from-sidelines",
       "published_at": "2026-09-06T11:39:12Z",
       "first_seen_at": "2026-09-06T14:19:07.953358Z",
-      "last_seen_at": "2026-09-06T14:19:07.953358Z",
+      "last_seen_at": "2026-09-06T17:14:00.724121Z",
       "title_original": "Mercedes-backed ProLogium starts 381 Wh/kg solid-state production as carmakers watch from sidelines",
       "title_en": "Mercedes-backed ProLogium starts 381 Wh/kg solid-state production as carmakers watch from sidelines",
       "title_zh": null,
@@ -336,7 +478,7 @@
       "url": "https://www.dongchedi.com/article/7681968393398043198",
       "published_at": null,
       "first_seen_at": "2026-09-06T11:12:38.614642Z",
-      "last_seen_at": "2026-09-06T14:19:07.953358Z",
+      "last_seen_at": "2026-09-06T17:14:00.724121Z",
       "title_original": "8月英国新车销量超9.4万，中国品牌市占率破20%，纯电卡在3成关口",
       "title_en": null,
       "title_zh": "8月英国新车销量超9.4万，中国品牌市占率破20%，纯电卡在3成关口",
@@ -356,7 +498,7 @@
       "url": "https://www.dongchedi.com/article/7681483268696883737",
       "published_at": null,
       "first_seen_at": "2026-09-06T11:12:38.614642Z",
-      "last_seen_at": "2026-09-06T14:19:07.953358Z",
+      "last_seen_at": "2026-09-06T17:14:00.724121Z",
       "title_original": "吉利帝豪智擎混动日常实用性测试报告",
       "title_en": null,
       "title_zh": "吉利帝豪智擎混动日常实用性测试报告",
@@ -376,7 +518,7 @@
       "url": "http://vc.yiche.com/vplay/13014248.html",
       "published_at": null,
       "first_seen_at": "2026-09-05T19:18:45.272598Z",
-      "last_seen_at": "2026-09-06T14:19:07.953358Z",
+      "last_seen_at": "2026-09-06T17:14:00.724121Z",
       "title_original": "首款立标MPV，岚图梦想家9升级细节抢先体验！",
       "title_en": null,
       "title_zh": "首款立标MPV，岚图梦想家9升级细节抢先体验！",
@@ -395,7 +537,7 @@
       "url": "http://vc.yiche.com/vplay/13019260.html",
       "published_at": null,
       "first_seen_at": "2026-09-05T19:18:45.272598Z",
-      "last_seen_at": "2026-09-06T14:19:07.953358Z",
+      "last_seen_at": "2026-09-06T17:14:00.724121Z",
       "title_original": "奇瑞出了个官方改装版？全新QQ3“摩登版”",
       "title_en": null,
       "title_zh": "奇瑞出了个官方改装版？全新QQ3“摩登版”",
@@ -413,7 +555,7 @@
       "url": "http://vc.yiche.com/vplay/13039693.html",
       "published_at": null,
       "first_seen_at": "2026-09-05T19:18:45.272598Z",
-      "last_seen_at": "2026-09-06T14:19:07.953358Z",
+      "last_seen_at": "2026-09-06T17:14:00.724121Z",
       "title_original": "试驾问界M9 Ultimate领世加长版！主动悬架+道路预瞄 让出行不仅舒适更安全！",
       "title_en": null,
       "title_zh": "试驾问界M9 Ultimate领世加长版！主动悬架+道路预瞄 让出行不仅舒适更安全！",
@@ -498,24 +640,6 @@
       "topic_tags": [
         "车企竞争",
         "购车决策"
-      ]
-    },
-    {
-      "id": "823890a0e138d24e4663e3be79a1d1cbe2c07c68",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新车",
-      "title": "启境GX7预售24.99-31.19万元，起步即标配L3架构",
-      "url": "https://auto.gasgoo.com/news/202609/5I70471296C107.shtml",
-      "published_at": "2026-09-05T15:33:55Z",
-      "first_seen_at": "2026-09-06T11:12:38.614642Z",
-      "last_seen_at": "2026-09-06T14:19:07.953358Z",
-      "title_original": "启境GX7预售24.99-31.19万元，起步即标配L3架构",
-      "title_en": null,
-      "title_zh": "启境GX7预售24.99-31.19万元，起步即标配L3架构",
-      "title_bilingual": "启境GX7预售24.99-31.19万元，起步即标配L3架构",
-      "topic_tags": [
-        "新车上市"
       ]
     }
   ],
