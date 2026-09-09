@@ -1,65 +1,211 @@
 {
-  "generated_at": "2026-09-09T01:01:51.310986Z",
+  "generated_at": "2026-09-09T06:20:51.497584Z",
   "window_hours": 24,
-  "total_items": 27,
-  "total_items_ai_raw": 31,
-  "total_items_raw": 2868,
-  "total_items_all_mode": 2546,
+  "total_items": 41,
+  "total_items_ai_raw": 47,
+  "total_items_raw": 2971,
+  "total_items_all_mode": 2657,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 69010,
+  "archive_total": 68621,
   "site_count": 3,
-  "source_count": 6,
+  "source_count": 11,
   "site_stats": [
     {
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "count": 17,
-      "raw_count": 21
+      "count": 31,
+      "raw_count": 37
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "count": 10,
-      "raw_count": 2792
+      "raw_count": 2880
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "count": 0,
-      "raw_count": 55
+      "raw_count": 54
     }
   ],
   "topic_tag_stats": [
     {
-      "tag": "新能源",
-      "count": 14
-    },
-    {
       "tag": "车企竞争",
-      "count": 14
+      "count": 18
     },
     {
-      "tag": "购车决策",
-      "count": 6
+      "tag": "新能源",
+      "count": 17
     },
     {
       "tag": "新车上市",
-      "count": 5
+      "count": 12
     },
     {
-      "tag": "智能驾驶",
-      "count": 2
-    },
-    {
-      "tag": "补能电池",
-      "count": 2
+      "tag": "购车决策",
+      "count": 7
     },
     {
       "tag": "供应链",
+      "count": 4
+    },
+    {
+      "tag": "补能电池",
+      "count": 4
+    },
+    {
+      "tag": "销量市场",
+      "count": 4
+    },
+    {
+      "tag": "价格战",
+      "count": 2
+    },
+    {
+      "tag": "召回安全",
+      "count": 1
+    },
+    {
+      "tag": "智能驾驶",
       "count": 1
     }
   ],
   "items": [
+    {
+      "id": "cf91dacb27ac3a7dd60d699ecc639f4a8f9dfaec",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Arcfox Alpha T7 SUV set for September 16 launch",
+      "url": "https://cnevpost.com/2026/09/09/arcfox-alpha-t7-sept-16-launch",
+      "published_at": "2026-09-09T05:46:26Z",
+      "first_seen_at": "2026-09-09T06:20:51.497584Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
+      "title_original": "Arcfox Alpha T7 SUV set for September 16 launch",
+      "title_en": "Arcfox Alpha T7 SUV set for September 16 launch",
+      "title_zh": null,
+      "title_bilingual": "Arcfox Alpha T7 SUV set for September 16 launch",
+      "topic_tags": [
+        "新能源",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "6a4bca1760a430deb885c486fba6ae7c786d3d95",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-Battery",
+      "title": "Dongfeng to unveil in-house hybrid solid-liquid battery in October, mass production in Q4",
+      "url": "https://cnevpost.com/2026/09/09/dongfeng-unveil-hybrid-solid-liquid-battery-oct-2026",
+      "published_at": "2026-09-09T04:51:10Z",
+      "first_seen_at": "2026-09-09T06:20:51.497584Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
+      "title_original": "Dongfeng to unveil in-house hybrid solid-liquid battery in October, mass production in Q4",
+      "title_en": "Dongfeng to unveil in-house hybrid solid-liquid battery in October, mass production in Q4",
+      "title_zh": null,
+      "title_bilingual": "Dongfeng to unveil in-house hybrid solid-liquid battery in October, mass production in Q4",
+      "topic_tags": [
+        "补能电池"
+      ]
+    },
+    {
+      "id": "b44951a7472693cccc5a8390ecdd5e089c3fee47",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Denza Z9 GT adds 1,140-hp tri-motor EV trim at 49,200 USD, 6,000 USD below performance version",
+      "url": "https://carnewschina.com/2026/09/09/denza-z9-gt-adds-1140-hp-tri-motor-ev-trim-at-49200-usd-6000-usd-below-performance-version",
+      "published_at": "2026-09-09T04:40:09Z",
+      "first_seen_at": "2026-09-09T06:20:51.497584Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
+      "title_original": "Denza Z9 GT adds 1,140-hp tri-motor EV trim at 49,200 USD, 6,000 USD below performance version",
+      "title_en": "Denza Z9 GT adds 1,140-hp tri-motor EV trim at 49,200 USD, 6,000 USD below performance version",
+      "title_zh": null,
+      "title_bilingual": "Denza Z9 GT adds 1,140-hp tri-motor EV trim at 49,200 USD, 6,000 USD below performance version",
+      "topic_tags": [
+        "新能源"
+      ]
+    },
+    {
+      "id": "5eb51128f2b999e029c60ed86ff45855cf5b8def",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Li Auto to launch i9 flagship electric SUV on September 16 with focus on family comfort",
+      "url": "https://cnevpost.com/2026/09/09/li-auto-to-launch-i9-sept-16-2026",
+      "published_at": "2026-09-09T03:40:32Z",
+      "first_seen_at": "2026-09-09T06:20:51.497584Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
+      "title_original": "Li Auto to launch i9 flagship electric SUV on September 16 with focus on family comfort",
+      "title_en": "Li Auto to launch i9 flagship electric SUV on September 16 with focus on family comfort",
+      "title_zh": null,
+      "title_bilingual": "Li Auto to launch i9 flagship electric SUV on September 16 with focus on family comfort",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "81857c75188afc7232bf6db5b45a818ebac6aa0d",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "2027 Zeekr 7X revealed in Chinese filings with 496 hp motor and new LFP battery",
+      "url": "https://carnewschina.com/2026/09/09/2027-zeekr-7x-revealed-in-chinese-filings-with-496-hp-motor-and-new-lfp-battery",
+      "published_at": "2026-09-09T03:35:22Z",
+      "first_seen_at": "2026-09-09T06:20:51.497584Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
+      "title_original": "2027 Zeekr 7X revealed in Chinese filings with 496 hp motor and new LFP battery",
+      "title_en": "2027 Zeekr 7X revealed in Chinese filings with 496 hp motor and new LFP battery",
+      "title_zh": null,
+      "title_bilingual": "2027 Zeekr 7X revealed in Chinese filings with 496 hp motor and new LFP battery",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "397857d49913321cf726f642abd49e78f9f74573",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Dongfeng files for new battery-swapping sedan, further expanding CATL’s swapping ecosystem",
+      "url": "https://carnewschina.com/2026/09/09/dongfeng-files-for-new-battery-swapping-sedan-further-expanding-catls-swapping-ecosystem",
+      "published_at": "2026-09-09T02:45:12Z",
+      "first_seen_at": "2026-09-09T06:20:51.497584Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
+      "title_original": "Dongfeng files for new battery-swapping sedan, further expanding CATL’s swapping ecosystem",
+      "title_en": "Dongfeng files for new battery-swapping sedan, further expanding CATL’s swapping ecosystem",
+      "title_zh": null,
+      "title_bilingual": "Dongfeng files for new battery-swapping sedan, further expanding CATL’s swapping ecosystem",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "640811c0eb0f2c561c58db057a66d2cbc618213c",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Avatr's flagship 9-series SUV appears in China filing as T09 with triple-motor plug-in hybrid powertrain",
+      "url": "https://cnevpost.com/2026/09/09/avatr-filing-t09-triple-motor-phev",
+      "published_at": "2026-09-09T02:21:11Z",
+      "first_seen_at": "2026-09-09T06:20:51.497584Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
+      "title_original": "Avatr's flagship 9-series SUV appears in China filing as T09 with triple-motor plug-in hybrid powertrain",
+      "title_en": "Avatr's flagship 9-series SUV appears in China filing as T09 with triple-motor plug-in hybrid powertrain",
+      "title_zh": null,
+      "title_bilingual": "Avatr's flagship 9-series SUV appears in China filing as T09 with triple-motor plug-in hybrid powertrain",
+      "topic_tags": [
+        "新能源",
+        "新车上市"
+      ]
+    },
     {
       "id": "9a5ee836968eef0425c8823d72439c70fe055ee4",
       "site_id": "tophub",
@@ -69,7 +215,7 @@
       "url": "http://vc.yiche.com/vplay/13067665.html",
       "published_at": null,
       "first_seen_at": "2026-09-08T20:03:39.441054Z",
-      "last_seen_at": "2026-09-09T01:01:51.310986Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
       "title_original": "北京BJ30和捷途自由者，这两款方盒子SUV，谁更强",
       "title_en": null,
       "title_zh": "北京BJ30和捷途自由者，这两款方盒子SUV，谁更强",
@@ -87,7 +233,7 @@
       "url": "http://vc.yiche.com/vplay/13049661.html",
       "published_at": null,
       "first_seen_at": "2026-09-08T20:03:39.441054Z",
-      "last_seen_at": "2026-09-09T01:01:51.310986Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
       "title_original": "探店长城H9力魂版，原厂官改个性省心，标配三把锁2.5吨牵引资质",
       "title_en": null,
       "title_zh": "探店长城H9力魂版，原厂官改个性省心，标配三把锁2.5吨牵引资质",
@@ -105,7 +251,7 @@
       "url": "http://vc.yiche.com/vplay/13046924.html",
       "published_at": null,
       "first_seen_at": "2026-09-08T20:03:39.441054Z",
-      "last_seen_at": "2026-09-09T01:01:51.310986Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
       "title_original": "激光雷达上车,尺寸再升级 星越L PLUS",
       "title_en": null,
       "title_zh": "激光雷达上车,尺寸再升级 星越L PLUS",
@@ -123,7 +269,7 @@
       "url": "http://vc.yiche.com/vplay/13067616.html",
       "published_at": null,
       "first_seen_at": "2026-09-08T20:03:39.441054Z",
-      "last_seen_at": "2026-09-09T01:01:51.310986Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
       "title_original": "满油满电跑1000+公里？长城H10千里续航挑战能成功吗？",
       "title_en": null,
       "title_zh": "满油满电跑1000+公里？长城H10千里续航挑战能成功吗？",
@@ -142,7 +288,7 @@
       "url": "https://carnewschina.com/2026/09/08/teslas-china-sales-fell-12-4-in-august-as-exports-rose-for-the-eighth-straight-month",
       "published_at": "2026-09-08T19:23:45Z",
       "first_seen_at": "2026-09-08T20:03:39.441054Z",
-      "last_seen_at": "2026-09-09T01:01:51.310986Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
       "title_original": "Tesla’s China sales fell 12.4% in August as exports rose for the eighth straight month",
       "title_en": "Tesla’s China sales fell 12.4% in August as exports rose for the eighth straight month",
       "title_zh": null,
@@ -161,7 +307,7 @@
       "url": "https://carnewschina.com/2026/09/08/gas-car-sales-fell-40-in-august-in-china-charts",
       "published_at": "2026-09-08T18:16:51Z",
       "first_seen_at": "2026-09-08T20:03:39.441054Z",
-      "last_seen_at": "2026-09-09T01:01:51.310986Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
       "title_original": "Gas car sales fell 40% in August in China [Charts]",
       "title_en": "Gas car sales fell 40% in August in China [Charts]",
       "title_zh": null,
@@ -179,7 +325,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/4ec692e35d92551e/116006655-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-08T17:20:13.326246Z",
-      "last_seen_at": "2026-09-09T01:01:51.310986Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
       "title_original": "适合全家出游 长城H10提车作业分享",
       "title_en": null,
       "title_zh": "适合全家出游 长城H10提车作业分享",
@@ -198,7 +344,7 @@
       "url": "https://i.autohome.com.cn/2700562",
       "published_at": null,
       "first_seen_at": "2026-09-08T17:20:13.326246Z",
-      "last_seen_at": "2026-09-09T01:01:51.310986Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
       "title_original": "购车很省心 Model Y提车作业分享",
       "title_en": null,
       "title_zh": "购车很省心 Model Y提车作业分享",
@@ -216,7 +362,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/66b1757fa8bf2bc5/116072329-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-08T17:20:13.326246Z",
-      "last_seen_at": "2026-09-09T01:01:51.310986Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
       "title_original": "优缺点一次性说透！试驾小米澎程N90",
       "title_en": null,
       "title_zh": "优缺点一次性说透！试驾小米澎程N90",
@@ -234,7 +380,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/e106b51641192e9f/116004595-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-08T17:20:13.326246Z",
-      "last_seen_at": "2026-09-09T01:01:51.310986Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
       "title_original": "符合家用需求 小鹏MONA L03提车分享",
       "title_en": null,
       "title_zh": "符合家用需求 小鹏MONA L03提车分享",
@@ -253,7 +399,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/278ad35fdeab25a2/116004519-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-08T17:20:13.326246Z",
-      "last_seen_at": "2026-09-09T01:01:51.310986Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
       "title_original": "颜值与舒适并存 理想i6提车作业分享",
       "title_en": null,
       "title_zh": "颜值与舒适并存 理想i6提车作业分享",
@@ -272,13 +418,50 @@
       "url": "https://club.autohome.com.cn/bbs/thread/bb06168bc7d9fd4c/116030298-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-08T17:20:13.326246Z",
-      "last_seen_at": "2026-09-09T01:01:51.310986Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
       "title_original": "选车到提车的避坑指南 领克03购车记",
       "title_en": null,
       "title_zh": "选车到提车的避坑指南 领克03购车记",
       "title_bilingual": "选车到提车的避坑指南 领克03购车记",
       "topic_tags": [
         "购车决策"
+      ]
+    },
+    {
+      "id": "8c68232a50ce91b4fa89b3780ebccc911f0e4d15",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-供应链",
+      "title": "日本电机巨头造假结果公布：844起违规行为！",
+      "url": "https://auto.gasgoo.com/news/202609/8I70471457C103.shtml",
+      "published_at": "2026-09-08T14:19:23Z",
+      "first_seen_at": "2026-09-09T06:20:51.497584Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
+      "title_original": "日本电机巨头造假结果公布：844起违规行为！",
+      "title_en": null,
+      "title_zh": "日本电机巨头造假结果公布：844起违规行为！",
+      "title_bilingual": "日本电机巨头造假结果公布：844起违规行为！",
+      "topic_tags": [
+        "供应链"
+      ]
+    },
+    {
+      "id": "2de61825d593e769dc5fa589863797575cdb3247",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-供应链",
+      "title": "7月汽车零部件出口同比增13.9%，进口同比降27.1%",
+      "url": "https://auto.gasgoo.com/news/202609/8I70471458C103.shtml",
+      "published_at": "2026-09-08T14:00:35Z",
+      "first_seen_at": "2026-09-09T06:20:51.497584Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
+      "title_original": "7月汽车零部件出口同比增13.9%，进口同比降27.1%",
+      "title_en": null,
+      "title_zh": "7月汽车零部件出口同比增13.9%，进口同比降27.1%",
+      "title_bilingual": "7月汽车零部件出口同比增13.9%，进口同比降27.1%",
+      "topic_tags": [
+        "销量市场",
+        "供应链"
       ]
     },
     {
@@ -290,7 +473,7 @@
       "url": "https://cnevpost.com/2026/09/08/geely-galaxy-pre-sales-cruiser-700-sept-15",
       "published_at": "2026-09-08T13:35:47Z",
       "first_seen_at": "2026-09-08T17:20:13.326246Z",
-      "last_seen_at": "2026-09-09T01:01:51.310986Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
       "title_original": "Geely Galaxy to begin pre-sales of first rugged off-road SUV Cruiser 700 on September 15",
       "title_en": "Geely Galaxy to begin pre-sales of first rugged off-road SUV Cruiser 700 on September 15",
       "title_zh": null,
@@ -310,7 +493,7 @@
       "url": "https://cnevpost.com/2026/09/08/bmw-neue-klasse-ix3-filing",
       "published_at": "2026-09-08T12:53:36Z",
       "first_seen_at": "2026-09-08T13:26:00.929198Z",
-      "last_seen_at": "2026-09-09T01:01:51.310986Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
       "title_original": "BMW's Neue Klasse iX3 electric SUV appears in China filing ahead of November deliveries",
       "title_en": "BMW's Neue Klasse iX3 electric SUV appears in China filing ahead of November deliveries",
       "title_zh": null,
@@ -329,13 +512,202 @@
       "url": "https://cnevpost.com/2026/09/08/2027-shanghai-auto-show-apr-23-may-2",
       "published_at": "2026-09-08T12:23:55Z",
       "first_seen_at": "2026-09-08T13:26:00.929198Z",
-      "last_seen_at": "2026-09-09T01:01:51.310986Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
       "title_original": "2027 Shanghai Auto Show set for April 23-May 2, with embodied AI zone planned",
       "title_en": "2027 Shanghai Auto Show set for April 23-May 2, with embodied AI zone planned",
       "title_zh": null,
       "title_bilingual": "2027 Shanghai Auto Show set for April 23-May 2, with embodied AI zone planned",
       "topic_tags": [
         "新能源"
+      ]
+    },
+    {
+      "id": "39be09bce08e5b50ffc1240da97566c2ae5a11f8",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "时隔19个月，特斯拉再降价",
+      "url": "https://auto.gasgoo.com/news/202609/8I70471448C109.shtml",
+      "published_at": "2026-09-08T12:15:05Z",
+      "first_seen_at": "2026-09-09T06:20:51.497584Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
+      "title_original": "时隔19个月，特斯拉再降价",
+      "title_en": null,
+      "title_zh": "时隔19个月，特斯拉再降价",
+      "title_bilingual": "时隔19个月，特斯拉再降价",
+      "topic_tags": [
+        "价格战",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "3bcdd3ab28dec822f1fa21da2f573cdf5e3ce6ba",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "【国际快讯】大众出售德国奥斯纳布吕克工厂；马鲁蒂铃木再次宣布车型涨价；俄罗斯电动车销量翻一番",
+      "url": "https://auto.gasgoo.com/news/202609/8I70471454C108.shtml",
+      "published_at": "2026-09-08T12:13:32Z",
+      "first_seen_at": "2026-09-09T06:20:51.497584Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
+      "title_original": "【国际快讯】大众出售德国奥斯纳布吕克工厂；马鲁蒂铃木再次宣布车型涨价；俄罗斯电动车销量翻一番",
+      "title_en": null,
+      "title_zh": "【国际快讯】大众出售德国奥斯纳布吕克工厂；马鲁蒂铃木再次宣布车型涨价；俄罗斯电动车销量翻一番",
+      "title_bilingual": "【国际快讯】大众出售德国奥斯纳布吕克工厂；马鲁蒂铃木再次宣布车型涨价；俄罗斯电动车销量翻一番",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "价格战",
+        "车企竞争",
+        "供应链",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "b645eaaf9d2e9096b0c41ce06a546e07924287e8",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新车",
+      "title": "凯迪拉克XT5 PHEV上市，一口价27.99万起",
+      "url": "https://auto.gasgoo.com/news/202609/8I70471453C501.shtml",
+      "published_at": "2026-09-08T12:03:02Z",
+      "first_seen_at": "2026-09-09T06:20:51.497584Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
+      "title_original": "凯迪拉克XT5 PHEV上市，一口价27.99万起",
+      "title_en": null,
+      "title_zh": "凯迪拉克XT5 PHEV上市，一口价27.99万起",
+      "title_bilingual": "凯迪拉克XT5 PHEV上市，一口价27.99万起",
+      "topic_tags": [
+        "新能源",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "b0b3b1de807d2e03be423884a9e2233d6068167c",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新车",
+      "title": "小米新车，又要卖爆？",
+      "url": "https://auto.gasgoo.com/news/202609/8I70471450C107.shtml",
+      "published_at": "2026-09-08T11:52:20Z",
+      "first_seen_at": "2026-09-09T06:20:51.497584Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
+      "title_original": "小米新车，又要卖爆？",
+      "title_en": null,
+      "title_zh": "小米新车，又要卖爆？",
+      "title_bilingual": "小米新车，又要卖爆？",
+      "topic_tags": [
+        "新车上市"
+      ]
+    },
+    {
+      "id": "88bc6438f736dff0465e09b8fb94aa9348a2955b",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-销量",
+      "title": "极氪7X全球第20万台量产车下线",
+      "url": "https://auto.gasgoo.com/news/202609/8I70471449C110.shtml",
+      "published_at": "2026-09-08T11:25:24Z",
+      "first_seen_at": "2026-09-09T06:20:51.497584Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
+      "title_original": "极氪7X全球第20万台量产车下线",
+      "title_en": null,
+      "title_zh": "极氪7X全球第20万台量产车下线",
+      "title_bilingual": "极氪7X全球第20万台量产车下线",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "f2bc44c44e37fd1500ce4bc31b937b365c0ca261",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "天奇股份具身智能机器人产业项目开工",
+      "url": "https://auto.gasgoo.com/news/202609/8I70471445C601.shtml",
+      "published_at": "2026-09-08T10:24:52Z",
+      "first_seen_at": "2026-09-09T06:20:51.497584Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
+      "title_original": "天奇股份具身智能机器人产业项目开工",
+      "title_en": null,
+      "title_zh": "天奇股份具身智能机器人产业项目开工",
+      "title_bilingual": "天奇股份具身智能机器人产业项目开工",
+      "topic_tags": []
+    },
+    {
+      "id": "c88ae604e27103ff952066a937f5a50d70e87047",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "小鹏机器人生产线正式启用",
+      "url": "https://auto.gasgoo.com/news/202609/8I70471444C601.shtml",
+      "published_at": "2026-09-08T10:07:23Z",
+      "first_seen_at": "2026-09-09T06:20:51.497584Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
+      "title_original": "小鹏机器人生产线正式启用",
+      "title_en": null,
+      "title_zh": "小鹏机器人生产线正式启用",
+      "title_bilingual": "小鹏机器人生产线正式启用",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "95b80904171e8b3e9e40e6bbbce156ee1fadaf0d",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "​四部门启动车辆质量专项整治 广汽回应“不造速成车”",
+      "url": "https://auto.gasgoo.com/news/202609/8I70471443C109.shtml",
+      "published_at": "2026-09-08T10:01:55Z",
+      "first_seen_at": "2026-09-09T06:20:51.497584Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
+      "title_original": "​四部门启动车辆质量专项整治 广汽回应“不造速成车”",
+      "title_en": null,
+      "title_zh": "​四部门启动车辆质量专项整治 广汽回应“不造速成车”",
+      "title_bilingual": "​四部门启动车辆质量专项整治 广汽回应“不造速成车”",
+      "topic_tags": [
+        "召回安全",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "60c42349b09ae6a2b7063c2c02896cc41daf3d94",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新车",
+      "title": "小米澎程上市4分钟锁单突破万台",
+      "url": "https://auto.gasgoo.com/news/202609/8I70471442C107.shtml",
+      "published_at": "2026-09-08T09:54:23Z",
+      "first_seen_at": "2026-09-09T06:20:51.497584Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
+      "title_original": "小米澎程上市4分钟锁单突破万台",
+      "title_en": null,
+      "title_zh": "小米澎程上市4分钟锁单突破万台",
+      "title_bilingual": "小米澎程上市4分钟锁单突破万台",
+      "topic_tags": [
+        "新车上市"
+      ]
+    },
+    {
+      "id": "f0267fcdca1ed5572e839d31626ca33b00fa7eec",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-销量",
+      "title": "2026年1-7月中国乘用车出海，谁在领航：吉利中南美劲增410.7%，中东最大降幅44.5%丨盖世汽车研究院",
+      "url": "https://auto.gasgoo.com/news/202609/8I70471441C110.shtml",
+      "published_at": "2026-09-08T09:49:40Z",
+      "first_seen_at": "2026-09-09T06:20:51.497584Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
+      "title_original": "2026年1-7月中国乘用车出海，谁在领航：吉利中南美劲增410.7%，中东最大降幅44.5%丨盖世汽车研究院",
+      "title_en": null,
+      "title_zh": "2026年1-7月中国乘用车出海，谁在领航：吉利中南美劲增410.7%，中东最大降幅44.5%丨盖世汽车研究院",
+      "title_bilingual": "2026年1-7月中国乘用车出海，谁在领航：吉利中南美劲增410.7%，中东最大降幅44.5%丨盖世汽车研究院",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争",
+        "购车决策"
       ]
     },
     {
@@ -347,7 +719,7 @@
       "url": "https://auto.gasgoo.com/news/202609/8I70471364C601.shtml",
       "published_at": "2026-09-08T08:09:20Z",
       "first_seen_at": "2026-09-09T01:01:51.310986Z",
-      "last_seen_at": "2026-09-09T01:01:51.310986Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
       "title_original": "世界汽车产业，正在等待怎样的中国方案？",
       "title_en": null,
       "title_zh": "世界汽车产业，正在等待怎样的中国方案？",
@@ -363,7 +735,7 @@
       "url": "https://cnevpost.com/2026/09/08/xiaomi-delivers-30153-cars-aug-2026",
       "published_at": "2026-09-08T07:50:38Z",
       "first_seen_at": "2026-09-08T08:58:05.708539Z",
-      "last_seen_at": "2026-09-09T01:01:51.310986Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
       "title_original": "Xiaomi delivers 30,153 cars in August, down 17.15% year-on-year",
       "title_en": "Xiaomi delivers 30,153 cars in August, down 17.15% year-on-year",
       "title_zh": null,
@@ -382,7 +754,7 @@
       "url": "https://cnevpost.com/2026/09/08/china-aug-2026-nev-retail",
       "published_at": "2026-09-08T07:29:54Z",
       "first_seen_at": "2026-09-08T08:58:05.708539Z",
-      "last_seen_at": "2026-09-09T01:01:51.310986Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
       "title_original": "China's August NEV retail sales fall 10%, but penetration hits record 65.2%",
       "title_en": "China's August NEV retail sales fall 10%, but penetration hits record 65.2%",
       "title_zh": null,
@@ -400,7 +772,7 @@
       "url": "https://carnewschina.com/2026/09/08/smart-2-with-camouflage-spotted-on-china-streets",
       "published_at": "2026-09-08T07:10:08Z",
       "first_seen_at": "2026-09-08T08:58:05.708539Z",
-      "last_seen_at": "2026-09-09T01:01:51.310986Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
       "title_original": "Smart #2 with camouflage spotted on China streets",
       "title_en": "Smart #2 with camouflage spotted on China streets",
       "title_zh": null,
@@ -418,7 +790,7 @@
       "url": "https://auto.gasgoo.com/news/202609/8I70471405C109.shtml",
       "published_at": "2026-09-08T07:00:43Z",
       "first_seen_at": "2026-09-09T01:01:51.310986Z",
-      "last_seen_at": "2026-09-09T01:01:51.310986Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
       "title_original": "【盖世快讯】最高法发布首部涉人工智能纠纷裁判规则；捷豹路虎中国回应全球裁员传闻",
       "title_en": null,
       "title_zh": "【盖世快讯】最高法发布首部涉人工智能纠纷裁判规则；捷豹路虎中国回应全球裁员传闻",
@@ -437,7 +809,7 @@
       "url": "https://auto.gasgoo.com/news/202609/8I70471367C108.shtml",
       "published_at": "2026-09-08T07:00:00Z",
       "first_seen_at": "2026-09-09T01:01:51.310986Z",
-      "last_seen_at": "2026-09-09T01:01:51.310986Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
       "title_original": "整车盈利缩水，零部件企业就好过吗？",
       "title_en": null,
       "title_zh": "整车盈利缩水，零部件企业就好过吗？",
@@ -455,108 +827,11 @@
       "url": "https://cnevpost.com/2026/09/08/tesla-china-retail-sales-aug-2026",
       "published_at": "2026-09-08T06:29:26Z",
       "first_seen_at": "2026-09-08T08:58:05.708539Z",
-      "last_seen_at": "2026-09-09T01:01:51.310986Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
       "title_original": "Tesla's China retail sales fall 12.4% in August, marking third straight decline",
       "title_en": "Tesla's China retail sales fall 12.4% in August, marking third straight decline",
       "title_zh": null,
       "title_bilingual": "Tesla's China retail sales fall 12.4% in August, marking third straight decline",
-      "topic_tags": [
-        "新能源",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "d91f4255cdefe17be6a1d4ccf98072a42ee1a701",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Zeekr 7X hits 200,000 units as new 85 kWh version arrives in Q4",
-      "url": "https://carnewschina.com/2026/09/08/zeekr-7x-hits-200000-units-as-new-85-kwh-version-arrives-in-q4",
-      "published_at": "2026-09-08T05:42:36Z",
-      "first_seen_at": "2026-09-08T08:58:05.708539Z",
-      "last_seen_at": "2026-09-09T01:01:51.310986Z",
-      "title_original": "Zeekr 7X hits 200,000 units as new 85 kWh version arrives in Q4",
-      "title_en": "Zeekr 7X hits 200,000 units as new 85 kWh version arrives in Q4",
-      "title_zh": null,
-      "title_bilingual": "Zeekr 7X hits 200,000 units as new 85 kWh version arrives in Q4",
-      "topic_tags": [
-        "新能源",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "d4efe87dccad2a06eeaf042c82c2ae5c3a43b3de",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Avatr teases 9-series flagship SUV co-designed with Huawei Qiankun, due by year-end",
-      "url": "https://cnevpost.com/2026/09/08/avatr-teases-9-series-flagship-suv",
-      "published_at": "2026-09-08T03:43:46Z",
-      "first_seen_at": "2026-09-08T04:02:42.078116Z",
-      "last_seen_at": "2026-09-09T01:01:51.310986Z",
-      "title_original": "Avatr teases 9-series flagship SUV co-designed with Huawei Qiankun, due by year-end",
-      "title_en": "Avatr teases 9-series flagship SUV co-designed with Huawei Qiankun, due by year-end",
-      "title_zh": "Avatr预告与华为乾坤联合设计的9系旗舰SUV将于年底推出",
-      "title_bilingual": "Avatr预告与华为乾坤联合设计的9系旗舰SUV将于年底推出 / Avatr teases 9-series flagship SUV co-designed with Huawei Qiankun, due by year-end",
-      "topic_tags": [
-        "新能源",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "9730cd5659a8c8931eacae5133806ec85dd2ed37",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Xiaomi's L3 autonomous driving lead exits for physical AI, joining auto executive exodus",
-      "url": "https://cnevpost.com/2026/09/08/xiaomi-l3-lead-exits-for-physical-ai",
-      "published_at": "2026-09-08T03:06:00Z",
-      "first_seen_at": "2026-09-08T04:02:42.078116Z",
-      "last_seen_at": "2026-09-09T01:01:51.310986Z",
-      "title_original": "Xiaomi's L3 autonomous driving lead exits for physical AI, joining auto executive exodus",
-      "title_en": "Xiaomi's L3 autonomous driving lead exits for physical AI, joining auto executive exodus",
-      "title_zh": "小米L3级自动驾驶领军人物退出物理AI，加入汽车高管出走行列",
-      "title_bilingual": "小米L3级自动驾驶领军人物退出物理AI，加入汽车高管出走行列 / Xiaomi's L3 autonomous driving lead exits for physical AI, joining auto executive exodus",
-      "topic_tags": [
-        "新能源",
-        "智能驾驶",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "6fc129157bacc7d8db02a52fd03b4b3067a36e33",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Li Auto bids farewell to CATL, echoing Xpeng’s strategic shift",
-      "url": "https://carnewschina.com/2026/09/08/li-auto-bids-farewell-to-catl-echoing-xpengs-strategic-shift",
-      "published_at": "2026-09-08T01:59:06Z",
-      "first_seen_at": "2026-09-08T04:02:42.078116Z",
-      "last_seen_at": "2026-09-09T01:01:51.310986Z",
-      "title_original": "Li Auto bids farewell to CATL, echoing Xpeng’s strategic shift",
-      "title_en": "Li Auto bids farewell to CATL, echoing Xpeng’s strategic shift",
-      "title_zh": "理想汽车告别宁德时代，呼应小鹏汽车战略转变",
-      "title_bilingual": "理想汽车告别宁德时代，呼应小鹏汽车战略转变 / Li Auto bids farewell to CATL, echoing Xpeng’s strategic shift",
-      "topic_tags": [
-        "新能源",
-        "补能电池",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "197e59bb89ea79b65a895711d2ede0eafe524bed",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Xpeng opens Iron humanoid robot production line, paving way for year-end mass production",
-      "url": "https://cnevpost.com/2026/09/08/xpeng-opens-iron-humanoid-robot-production-line",
-      "published_at": "2026-09-08T01:47:50Z",
-      "first_seen_at": "2026-09-08T04:02:42.078116Z",
-      "last_seen_at": "2026-09-09T01:01:51.310986Z",
-      "title_original": "Xpeng opens Iron humanoid robot production line, paving way for year-end mass production",
-      "title_en": "Xpeng opens Iron humanoid robot production line, paving way for year-end mass production",
-      "title_zh": "小鹏钢铁人形机器人生产线投产 为年底量产铺路",
-      "title_bilingual": "小鹏钢铁人形机器人生产线投产 为年底量产铺路 / Xpeng opens Iron humanoid robot production line, paving way for year-end mass production",
       "topic_tags": [
         "新能源",
         "车企竞争"
@@ -565,6 +840,140 @@
   ],
   "items_ai": [
     {
+      "id": "cf91dacb27ac3a7dd60d699ecc639f4a8f9dfaec",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Arcfox Alpha T7 SUV set for September 16 launch",
+      "url": "https://cnevpost.com/2026/09/09/arcfox-alpha-t7-sept-16-launch",
+      "published_at": "2026-09-09T05:46:26Z",
+      "first_seen_at": "2026-09-09T06:20:51.497584Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
+      "title_original": "Arcfox Alpha T7 SUV set for September 16 launch",
+      "title_en": "Arcfox Alpha T7 SUV set for September 16 launch",
+      "title_zh": null,
+      "title_bilingual": "Arcfox Alpha T7 SUV set for September 16 launch",
+      "topic_tags": [
+        "新能源",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "6a4bca1760a430deb885c486fba6ae7c786d3d95",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-Battery",
+      "title": "Dongfeng to unveil in-house hybrid solid-liquid battery in October, mass production in Q4",
+      "url": "https://cnevpost.com/2026/09/09/dongfeng-unveil-hybrid-solid-liquid-battery-oct-2026",
+      "published_at": "2026-09-09T04:51:10Z",
+      "first_seen_at": "2026-09-09T06:20:51.497584Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
+      "title_original": "Dongfeng to unveil in-house hybrid solid-liquid battery in October, mass production in Q4",
+      "title_en": "Dongfeng to unveil in-house hybrid solid-liquid battery in October, mass production in Q4",
+      "title_zh": null,
+      "title_bilingual": "Dongfeng to unveil in-house hybrid solid-liquid battery in October, mass production in Q4",
+      "topic_tags": [
+        "补能电池"
+      ]
+    },
+    {
+      "id": "b44951a7472693cccc5a8390ecdd5e089c3fee47",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Denza Z9 GT adds 1,140-hp tri-motor EV trim at 49,200 USD, 6,000 USD below performance version",
+      "url": "https://carnewschina.com/2026/09/09/denza-z9-gt-adds-1140-hp-tri-motor-ev-trim-at-49200-usd-6000-usd-below-performance-version",
+      "published_at": "2026-09-09T04:40:09Z",
+      "first_seen_at": "2026-09-09T06:20:51.497584Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
+      "title_original": "Denza Z9 GT adds 1,140-hp tri-motor EV trim at 49,200 USD, 6,000 USD below performance version",
+      "title_en": "Denza Z9 GT adds 1,140-hp tri-motor EV trim at 49,200 USD, 6,000 USD below performance version",
+      "title_zh": null,
+      "title_bilingual": "Denza Z9 GT adds 1,140-hp tri-motor EV trim at 49,200 USD, 6,000 USD below performance version",
+      "topic_tags": [
+        "新能源"
+      ]
+    },
+    {
+      "id": "5eb51128f2b999e029c60ed86ff45855cf5b8def",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Li Auto to launch i9 flagship electric SUV on September 16 with focus on family comfort",
+      "url": "https://cnevpost.com/2026/09/09/li-auto-to-launch-i9-sept-16-2026",
+      "published_at": "2026-09-09T03:40:32Z",
+      "first_seen_at": "2026-09-09T06:20:51.497584Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
+      "title_original": "Li Auto to launch i9 flagship electric SUV on September 16 with focus on family comfort",
+      "title_en": "Li Auto to launch i9 flagship electric SUV on September 16 with focus on family comfort",
+      "title_zh": null,
+      "title_bilingual": "Li Auto to launch i9 flagship electric SUV on September 16 with focus on family comfort",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "81857c75188afc7232bf6db5b45a818ebac6aa0d",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "2027 Zeekr 7X revealed in Chinese filings with 496 hp motor and new LFP battery",
+      "url": "https://carnewschina.com/2026/09/09/2027-zeekr-7x-revealed-in-chinese-filings-with-496-hp-motor-and-new-lfp-battery",
+      "published_at": "2026-09-09T03:35:22Z",
+      "first_seen_at": "2026-09-09T06:20:51.497584Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
+      "title_original": "2027 Zeekr 7X revealed in Chinese filings with 496 hp motor and new LFP battery",
+      "title_en": "2027 Zeekr 7X revealed in Chinese filings with 496 hp motor and new LFP battery",
+      "title_zh": null,
+      "title_bilingual": "2027 Zeekr 7X revealed in Chinese filings with 496 hp motor and new LFP battery",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "397857d49913321cf726f642abd49e78f9f74573",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Dongfeng files for new battery-swapping sedan, further expanding CATL’s swapping ecosystem",
+      "url": "https://carnewschina.com/2026/09/09/dongfeng-files-for-new-battery-swapping-sedan-further-expanding-catls-swapping-ecosystem",
+      "published_at": "2026-09-09T02:45:12Z",
+      "first_seen_at": "2026-09-09T06:20:51.497584Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
+      "title_original": "Dongfeng files for new battery-swapping sedan, further expanding CATL’s swapping ecosystem",
+      "title_en": "Dongfeng files for new battery-swapping sedan, further expanding CATL’s swapping ecosystem",
+      "title_zh": null,
+      "title_bilingual": "Dongfeng files for new battery-swapping sedan, further expanding CATL’s swapping ecosystem",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "640811c0eb0f2c561c58db057a66d2cbc618213c",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Avatr's flagship 9-series SUV appears in China filing as T09 with triple-motor plug-in hybrid powertrain",
+      "url": "https://cnevpost.com/2026/09/09/avatr-filing-t09-triple-motor-phev",
+      "published_at": "2026-09-09T02:21:11Z",
+      "first_seen_at": "2026-09-09T06:20:51.497584Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
+      "title_original": "Avatr's flagship 9-series SUV appears in China filing as T09 with triple-motor plug-in hybrid powertrain",
+      "title_en": "Avatr's flagship 9-series SUV appears in China filing as T09 with triple-motor plug-in hybrid powertrain",
+      "title_zh": null,
+      "title_bilingual": "Avatr's flagship 9-series SUV appears in China filing as T09 with triple-motor plug-in hybrid powertrain",
+      "topic_tags": [
+        "新能源",
+        "新车上市"
+      ]
+    },
+    {
       "id": "9a5ee836968eef0425c8823d72439c70fe055ee4",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -573,7 +982,7 @@
       "url": "http://vc.yiche.com/vplay/13067665.html",
       "published_at": null,
       "first_seen_at": "2026-09-08T20:03:39.441054Z",
-      "last_seen_at": "2026-09-09T01:01:51.310986Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
       "title_original": "北京BJ30和捷途自由者，这两款方盒子SUV，谁更强",
       "title_en": null,
       "title_zh": "北京BJ30和捷途自由者，这两款方盒子SUV，谁更强",
@@ -591,7 +1000,7 @@
       "url": "http://vc.yiche.com/vplay/13049661.html",
       "published_at": null,
       "first_seen_at": "2026-09-08T20:03:39.441054Z",
-      "last_seen_at": "2026-09-09T01:01:51.310986Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
       "title_original": "探店长城H9力魂版，原厂官改个性省心，标配三把锁2.5吨牵引资质",
       "title_en": null,
       "title_zh": "探店长城H9力魂版，原厂官改个性省心，标配三把锁2.5吨牵引资质",
@@ -609,7 +1018,7 @@
       "url": "http://vc.yiche.com/vplay/13046924.html",
       "published_at": null,
       "first_seen_at": "2026-09-08T20:03:39.441054Z",
-      "last_seen_at": "2026-09-09T01:01:51.310986Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
       "title_original": "激光雷达上车,尺寸再升级 星越L PLUS",
       "title_en": null,
       "title_zh": "激光雷达上车,尺寸再升级 星越L PLUS",
@@ -627,7 +1036,7 @@
       "url": "http://vc.yiche.com/vplay/13067616.html",
       "published_at": null,
       "first_seen_at": "2026-09-08T20:03:39.441054Z",
-      "last_seen_at": "2026-09-09T01:01:51.310986Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
       "title_original": "满油满电跑1000+公里？长城H10千里续航挑战能成功吗？",
       "title_en": null,
       "title_zh": "满油满电跑1000+公里？长城H10千里续航挑战能成功吗？",
@@ -646,7 +1055,7 @@
       "url": "https://carnewschina.com/2026/09/08/teslas-china-sales-fell-12-4-in-august-as-exports-rose-for-the-eighth-straight-month",
       "published_at": "2026-09-08T19:23:45Z",
       "first_seen_at": "2026-09-08T20:03:39.441054Z",
-      "last_seen_at": "2026-09-09T01:01:51.310986Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
       "title_original": "Tesla’s China sales fell 12.4% in August as exports rose for the eighth straight month",
       "title_en": "Tesla’s China sales fell 12.4% in August as exports rose for the eighth straight month",
       "title_zh": null,
@@ -665,7 +1074,7 @@
       "url": "https://carnewschina.com/2026/09/08/gas-car-sales-fell-40-in-august-in-china-charts",
       "published_at": "2026-09-08T18:16:51Z",
       "first_seen_at": "2026-09-08T20:03:39.441054Z",
-      "last_seen_at": "2026-09-09T01:01:51.310986Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
       "title_original": "Gas car sales fell 40% in August in China [Charts]",
       "title_en": "Gas car sales fell 40% in August in China [Charts]",
       "title_zh": null,
@@ -683,7 +1092,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/4ec692e35d92551e/116006655-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-08T17:20:13.326246Z",
-      "last_seen_at": "2026-09-09T01:01:51.310986Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
       "title_original": "适合全家出游 长城H10提车作业分享",
       "title_en": null,
       "title_zh": "适合全家出游 长城H10提车作业分享",
@@ -702,7 +1111,7 @@
       "url": "https://i.autohome.com.cn/2700562",
       "published_at": null,
       "first_seen_at": "2026-09-08T17:20:13.326246Z",
-      "last_seen_at": "2026-09-09T01:01:51.310986Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
       "title_original": "购车很省心 Model Y提车作业分享",
       "title_en": null,
       "title_zh": "购车很省心 Model Y提车作业分享",
@@ -720,7 +1129,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/66b1757fa8bf2bc5/116072329-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-08T17:20:13.326246Z",
-      "last_seen_at": "2026-09-09T01:01:51.310986Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
       "title_original": "优缺点一次性说透！试驾小米澎程N90",
       "title_en": null,
       "title_zh": "优缺点一次性说透！试驾小米澎程N90",
@@ -738,7 +1147,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/e106b51641192e9f/116004595-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-08T17:20:13.326246Z",
-      "last_seen_at": "2026-09-09T01:01:51.310986Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
       "title_original": "符合家用需求 小鹏MONA L03提车分享",
       "title_en": null,
       "title_zh": "符合家用需求 小鹏MONA L03提车分享",
@@ -757,7 +1166,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/278ad35fdeab25a2/116004519-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-08T17:20:13.326246Z",
-      "last_seen_at": "2026-09-09T01:01:51.310986Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
       "title_original": "颜值与舒适并存 理想i6提车作业分享",
       "title_en": null,
       "title_zh": "颜值与舒适并存 理想i6提车作业分享",
@@ -776,13 +1185,50 @@
       "url": "https://club.autohome.com.cn/bbs/thread/bb06168bc7d9fd4c/116030298-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-08T17:20:13.326246Z",
-      "last_seen_at": "2026-09-09T01:01:51.310986Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
       "title_original": "选车到提车的避坑指南 领克03购车记",
       "title_en": null,
       "title_zh": "选车到提车的避坑指南 领克03购车记",
       "title_bilingual": "选车到提车的避坑指南 领克03购车记",
       "topic_tags": [
         "购车决策"
+      ]
+    },
+    {
+      "id": "8c68232a50ce91b4fa89b3780ebccc911f0e4d15",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-供应链",
+      "title": "日本电机巨头造假结果公布：844起违规行为！",
+      "url": "https://auto.gasgoo.com/news/202609/8I70471457C103.shtml",
+      "published_at": "2026-09-08T14:19:23Z",
+      "first_seen_at": "2026-09-09T06:20:51.497584Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
+      "title_original": "日本电机巨头造假结果公布：844起违规行为！",
+      "title_en": null,
+      "title_zh": "日本电机巨头造假结果公布：844起违规行为！",
+      "title_bilingual": "日本电机巨头造假结果公布：844起违规行为！",
+      "topic_tags": [
+        "供应链"
+      ]
+    },
+    {
+      "id": "2de61825d593e769dc5fa589863797575cdb3247",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-供应链",
+      "title": "7月汽车零部件出口同比增13.9%，进口同比降27.1%",
+      "url": "https://auto.gasgoo.com/news/202609/8I70471458C103.shtml",
+      "published_at": "2026-09-08T14:00:35Z",
+      "first_seen_at": "2026-09-09T06:20:51.497584Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
+      "title_original": "7月汽车零部件出口同比增13.9%，进口同比降27.1%",
+      "title_en": null,
+      "title_zh": "7月汽车零部件出口同比增13.9%，进口同比降27.1%",
+      "title_bilingual": "7月汽车零部件出口同比增13.9%，进口同比降27.1%",
+      "topic_tags": [
+        "销量市场",
+        "供应链"
       ]
     },
     {
@@ -794,7 +1240,7 @@
       "url": "https://cnevpost.com/2026/09/08/geely-galaxy-pre-sales-cruiser-700-sept-15",
       "published_at": "2026-09-08T13:35:47Z",
       "first_seen_at": "2026-09-08T17:20:13.326246Z",
-      "last_seen_at": "2026-09-09T01:01:51.310986Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
       "title_original": "Geely Galaxy to begin pre-sales of first rugged off-road SUV Cruiser 700 on September 15",
       "title_en": "Geely Galaxy to begin pre-sales of first rugged off-road SUV Cruiser 700 on September 15",
       "title_zh": null,
@@ -814,7 +1260,7 @@
       "url": "https://cnevpost.com/2026/09/08/bmw-neue-klasse-ix3-filing",
       "published_at": "2026-09-08T12:53:36Z",
       "first_seen_at": "2026-09-08T13:26:00.929198Z",
-      "last_seen_at": "2026-09-09T01:01:51.310986Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
       "title_original": "BMW's Neue Klasse iX3 electric SUV appears in China filing ahead of November deliveries",
       "title_en": "BMW's Neue Klasse iX3 electric SUV appears in China filing ahead of November deliveries",
       "title_zh": null,
@@ -833,13 +1279,202 @@
       "url": "https://cnevpost.com/2026/09/08/2027-shanghai-auto-show-apr-23-may-2",
       "published_at": "2026-09-08T12:23:55Z",
       "first_seen_at": "2026-09-08T13:26:00.929198Z",
-      "last_seen_at": "2026-09-09T01:01:51.310986Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
       "title_original": "2027 Shanghai Auto Show set for April 23-May 2, with embodied AI zone planned",
       "title_en": "2027 Shanghai Auto Show set for April 23-May 2, with embodied AI zone planned",
       "title_zh": null,
       "title_bilingual": "2027 Shanghai Auto Show set for April 23-May 2, with embodied AI zone planned",
       "topic_tags": [
         "新能源"
+      ]
+    },
+    {
+      "id": "39be09bce08e5b50ffc1240da97566c2ae5a11f8",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "时隔19个月，特斯拉再降价",
+      "url": "https://auto.gasgoo.com/news/202609/8I70471448C109.shtml",
+      "published_at": "2026-09-08T12:15:05Z",
+      "first_seen_at": "2026-09-09T06:20:51.497584Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
+      "title_original": "时隔19个月，特斯拉再降价",
+      "title_en": null,
+      "title_zh": "时隔19个月，特斯拉再降价",
+      "title_bilingual": "时隔19个月，特斯拉再降价",
+      "topic_tags": [
+        "价格战",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "3bcdd3ab28dec822f1fa21da2f573cdf5e3ce6ba",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "【国际快讯】大众出售德国奥斯纳布吕克工厂；马鲁蒂铃木再次宣布车型涨价；俄罗斯电动车销量翻一番",
+      "url": "https://auto.gasgoo.com/news/202609/8I70471454C108.shtml",
+      "published_at": "2026-09-08T12:13:32Z",
+      "first_seen_at": "2026-09-09T06:20:51.497584Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
+      "title_original": "【国际快讯】大众出售德国奥斯纳布吕克工厂；马鲁蒂铃木再次宣布车型涨价；俄罗斯电动车销量翻一番",
+      "title_en": null,
+      "title_zh": "【国际快讯】大众出售德国奥斯纳布吕克工厂；马鲁蒂铃木再次宣布车型涨价；俄罗斯电动车销量翻一番",
+      "title_bilingual": "【国际快讯】大众出售德国奥斯纳布吕克工厂；马鲁蒂铃木再次宣布车型涨价；俄罗斯电动车销量翻一番",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "价格战",
+        "车企竞争",
+        "供应链",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "b645eaaf9d2e9096b0c41ce06a546e07924287e8",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新车",
+      "title": "凯迪拉克XT5 PHEV上市，一口价27.99万起",
+      "url": "https://auto.gasgoo.com/news/202609/8I70471453C501.shtml",
+      "published_at": "2026-09-08T12:03:02Z",
+      "first_seen_at": "2026-09-09T06:20:51.497584Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
+      "title_original": "凯迪拉克XT5 PHEV上市，一口价27.99万起",
+      "title_en": null,
+      "title_zh": "凯迪拉克XT5 PHEV上市，一口价27.99万起",
+      "title_bilingual": "凯迪拉克XT5 PHEV上市，一口价27.99万起",
+      "topic_tags": [
+        "新能源",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "b0b3b1de807d2e03be423884a9e2233d6068167c",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新车",
+      "title": "小米新车，又要卖爆？",
+      "url": "https://auto.gasgoo.com/news/202609/8I70471450C107.shtml",
+      "published_at": "2026-09-08T11:52:20Z",
+      "first_seen_at": "2026-09-09T06:20:51.497584Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
+      "title_original": "小米新车，又要卖爆？",
+      "title_en": null,
+      "title_zh": "小米新车，又要卖爆？",
+      "title_bilingual": "小米新车，又要卖爆？",
+      "topic_tags": [
+        "新车上市"
+      ]
+    },
+    {
+      "id": "88bc6438f736dff0465e09b8fb94aa9348a2955b",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-销量",
+      "title": "极氪7X全球第20万台量产车下线",
+      "url": "https://auto.gasgoo.com/news/202609/8I70471449C110.shtml",
+      "published_at": "2026-09-08T11:25:24Z",
+      "first_seen_at": "2026-09-09T06:20:51.497584Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
+      "title_original": "极氪7X全球第20万台量产车下线",
+      "title_en": null,
+      "title_zh": "极氪7X全球第20万台量产车下线",
+      "title_bilingual": "极氪7X全球第20万台量产车下线",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "f2bc44c44e37fd1500ce4bc31b937b365c0ca261",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "天奇股份具身智能机器人产业项目开工",
+      "url": "https://auto.gasgoo.com/news/202609/8I70471445C601.shtml",
+      "published_at": "2026-09-08T10:24:52Z",
+      "first_seen_at": "2026-09-09T06:20:51.497584Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
+      "title_original": "天奇股份具身智能机器人产业项目开工",
+      "title_en": null,
+      "title_zh": "天奇股份具身智能机器人产业项目开工",
+      "title_bilingual": "天奇股份具身智能机器人产业项目开工",
+      "topic_tags": []
+    },
+    {
+      "id": "c88ae604e27103ff952066a937f5a50d70e87047",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "小鹏机器人生产线正式启用",
+      "url": "https://auto.gasgoo.com/news/202609/8I70471444C601.shtml",
+      "published_at": "2026-09-08T10:07:23Z",
+      "first_seen_at": "2026-09-09T06:20:51.497584Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
+      "title_original": "小鹏机器人生产线正式启用",
+      "title_en": null,
+      "title_zh": "小鹏机器人生产线正式启用",
+      "title_bilingual": "小鹏机器人生产线正式启用",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "95b80904171e8b3e9e40e6bbbce156ee1fadaf0d",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "​四部门启动车辆质量专项整治 广汽回应“不造速成车”",
+      "url": "https://auto.gasgoo.com/news/202609/8I70471443C109.shtml",
+      "published_at": "2026-09-08T10:01:55Z",
+      "first_seen_at": "2026-09-09T06:20:51.497584Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
+      "title_original": "​四部门启动车辆质量专项整治 广汽回应“不造速成车”",
+      "title_en": null,
+      "title_zh": "​四部门启动车辆质量专项整治 广汽回应“不造速成车”",
+      "title_bilingual": "​四部门启动车辆质量专项整治 广汽回应“不造速成车”",
+      "topic_tags": [
+        "召回安全",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "60c42349b09ae6a2b7063c2c02896cc41daf3d94",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新车",
+      "title": "小米澎程上市4分钟锁单突破万台",
+      "url": "https://auto.gasgoo.com/news/202609/8I70471442C107.shtml",
+      "published_at": "2026-09-08T09:54:23Z",
+      "first_seen_at": "2026-09-09T06:20:51.497584Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
+      "title_original": "小米澎程上市4分钟锁单突破万台",
+      "title_en": null,
+      "title_zh": "小米澎程上市4分钟锁单突破万台",
+      "title_bilingual": "小米澎程上市4分钟锁单突破万台",
+      "topic_tags": [
+        "新车上市"
+      ]
+    },
+    {
+      "id": "f0267fcdca1ed5572e839d31626ca33b00fa7eec",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-销量",
+      "title": "2026年1-7月中国乘用车出海，谁在领航：吉利中南美劲增410.7%，中东最大降幅44.5%丨盖世汽车研究院",
+      "url": "https://auto.gasgoo.com/news/202609/8I70471441C110.shtml",
+      "published_at": "2026-09-08T09:49:40Z",
+      "first_seen_at": "2026-09-09T06:20:51.497584Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
+      "title_original": "2026年1-7月中国乘用车出海，谁在领航：吉利中南美劲增410.7%，中东最大降幅44.5%丨盖世汽车研究院",
+      "title_en": null,
+      "title_zh": "2026年1-7月中国乘用车出海，谁在领航：吉利中南美劲增410.7%，中东最大降幅44.5%丨盖世汽车研究院",
+      "title_bilingual": "2026年1-7月中国乘用车出海，谁在领航：吉利中南美劲增410.7%，中东最大降幅44.5%丨盖世汽车研究院",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争",
+        "购车决策"
       ]
     },
     {
@@ -851,7 +1486,7 @@
       "url": "https://auto.gasgoo.com/news/202609/8I70471364C601.shtml",
       "published_at": "2026-09-08T08:09:20Z",
       "first_seen_at": "2026-09-09T01:01:51.310986Z",
-      "last_seen_at": "2026-09-09T01:01:51.310986Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
       "title_original": "世界汽车产业，正在等待怎样的中国方案？",
       "title_en": null,
       "title_zh": "世界汽车产业，正在等待怎样的中国方案？",
@@ -867,7 +1502,7 @@
       "url": "https://cnevpost.com/2026/09/08/xiaomi-delivers-30153-cars-aug-2026",
       "published_at": "2026-09-08T07:50:38Z",
       "first_seen_at": "2026-09-08T08:58:05.708539Z",
-      "last_seen_at": "2026-09-09T01:01:51.310986Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
       "title_original": "Xiaomi delivers 30,153 cars in August, down 17.15% year-on-year",
       "title_en": "Xiaomi delivers 30,153 cars in August, down 17.15% year-on-year",
       "title_zh": null,
@@ -886,7 +1521,7 @@
       "url": "https://cnevpost.com/2026/09/08/china-aug-2026-nev-retail",
       "published_at": "2026-09-08T07:29:54Z",
       "first_seen_at": "2026-09-08T08:58:05.708539Z",
-      "last_seen_at": "2026-09-09T01:01:51.310986Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
       "title_original": "China's August NEV retail sales fall 10%, but penetration hits record 65.2%",
       "title_en": "China's August NEV retail sales fall 10%, but penetration hits record 65.2%",
       "title_zh": null,
@@ -904,7 +1539,7 @@
       "url": "https://carnewschina.com/2026/09/08/smart-2-with-camouflage-spotted-on-china-streets",
       "published_at": "2026-09-08T07:10:08Z",
       "first_seen_at": "2026-09-08T08:58:05.708539Z",
-      "last_seen_at": "2026-09-09T01:01:51.310986Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
       "title_original": "Smart #2 with camouflage spotted on China streets",
       "title_en": "Smart #2 with camouflage spotted on China streets",
       "title_zh": null,
@@ -922,7 +1557,7 @@
       "url": "https://auto.gasgoo.com/news/202609/8I70471405C109.shtml",
       "published_at": "2026-09-08T07:00:43Z",
       "first_seen_at": "2026-09-09T01:01:51.310986Z",
-      "last_seen_at": "2026-09-09T01:01:51.310986Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
       "title_original": "【盖世快讯】最高法发布首部涉人工智能纠纷裁判规则；捷豹路虎中国回应全球裁员传闻",
       "title_en": null,
       "title_zh": "【盖世快讯】最高法发布首部涉人工智能纠纷裁判规则；捷豹路虎中国回应全球裁员传闻",
@@ -941,7 +1576,7 @@
       "url": "https://auto.gasgoo.com/news/202609/8I70471367C108.shtml",
       "published_at": "2026-09-08T07:00:00Z",
       "first_seen_at": "2026-09-09T01:01:51.310986Z",
-      "last_seen_at": "2026-09-09T01:01:51.310986Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
       "title_original": "整车盈利缩水，零部件企业就好过吗？",
       "title_en": null,
       "title_zh": "整车盈利缩水，零部件企业就好过吗？",
@@ -959,108 +1594,11 @@
       "url": "https://cnevpost.com/2026/09/08/tesla-china-retail-sales-aug-2026",
       "published_at": "2026-09-08T06:29:26Z",
       "first_seen_at": "2026-09-08T08:58:05.708539Z",
-      "last_seen_at": "2026-09-09T01:01:51.310986Z",
+      "last_seen_at": "2026-09-09T06:20:51.497584Z",
       "title_original": "Tesla's China retail sales fall 12.4% in August, marking third straight decline",
       "title_en": "Tesla's China retail sales fall 12.4% in August, marking third straight decline",
       "title_zh": null,
       "title_bilingual": "Tesla's China retail sales fall 12.4% in August, marking third straight decline",
-      "topic_tags": [
-        "新能源",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "d91f4255cdefe17be6a1d4ccf98072a42ee1a701",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Zeekr 7X hits 200,000 units as new 85 kWh version arrives in Q4",
-      "url": "https://carnewschina.com/2026/09/08/zeekr-7x-hits-200000-units-as-new-85-kwh-version-arrives-in-q4",
-      "published_at": "2026-09-08T05:42:36Z",
-      "first_seen_at": "2026-09-08T08:58:05.708539Z",
-      "last_seen_at": "2026-09-09T01:01:51.310986Z",
-      "title_original": "Zeekr 7X hits 200,000 units as new 85 kWh version arrives in Q4",
-      "title_en": "Zeekr 7X hits 200,000 units as new 85 kWh version arrives in Q4",
-      "title_zh": null,
-      "title_bilingual": "Zeekr 7X hits 200,000 units as new 85 kWh version arrives in Q4",
-      "topic_tags": [
-        "新能源",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "d4efe87dccad2a06eeaf042c82c2ae5c3a43b3de",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Avatr teases 9-series flagship SUV co-designed with Huawei Qiankun, due by year-end",
-      "url": "https://cnevpost.com/2026/09/08/avatr-teases-9-series-flagship-suv",
-      "published_at": "2026-09-08T03:43:46Z",
-      "first_seen_at": "2026-09-08T04:02:42.078116Z",
-      "last_seen_at": "2026-09-09T01:01:51.310986Z",
-      "title_original": "Avatr teases 9-series flagship SUV co-designed with Huawei Qiankun, due by year-end",
-      "title_en": "Avatr teases 9-series flagship SUV co-designed with Huawei Qiankun, due by year-end",
-      "title_zh": "Avatr预告与华为乾坤联合设计的9系旗舰SUV将于年底推出",
-      "title_bilingual": "Avatr预告与华为乾坤联合设计的9系旗舰SUV将于年底推出 / Avatr teases 9-series flagship SUV co-designed with Huawei Qiankun, due by year-end",
-      "topic_tags": [
-        "新能源",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "9730cd5659a8c8931eacae5133806ec85dd2ed37",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Xiaomi's L3 autonomous driving lead exits for physical AI, joining auto executive exodus",
-      "url": "https://cnevpost.com/2026/09/08/xiaomi-l3-lead-exits-for-physical-ai",
-      "published_at": "2026-09-08T03:06:00Z",
-      "first_seen_at": "2026-09-08T04:02:42.078116Z",
-      "last_seen_at": "2026-09-09T01:01:51.310986Z",
-      "title_original": "Xiaomi's L3 autonomous driving lead exits for physical AI, joining auto executive exodus",
-      "title_en": "Xiaomi's L3 autonomous driving lead exits for physical AI, joining auto executive exodus",
-      "title_zh": "小米L3级自动驾驶领军人物退出物理AI，加入汽车高管出走行列",
-      "title_bilingual": "小米L3级自动驾驶领军人物退出物理AI，加入汽车高管出走行列 / Xiaomi's L3 autonomous driving lead exits for physical AI, joining auto executive exodus",
-      "topic_tags": [
-        "新能源",
-        "智能驾驶",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "6fc129157bacc7d8db02a52fd03b4b3067a36e33",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Li Auto bids farewell to CATL, echoing Xpeng’s strategic shift",
-      "url": "https://carnewschina.com/2026/09/08/li-auto-bids-farewell-to-catl-echoing-xpengs-strategic-shift",
-      "published_at": "2026-09-08T01:59:06Z",
-      "first_seen_at": "2026-09-08T04:02:42.078116Z",
-      "last_seen_at": "2026-09-09T01:01:51.310986Z",
-      "title_original": "Li Auto bids farewell to CATL, echoing Xpeng’s strategic shift",
-      "title_en": "Li Auto bids farewell to CATL, echoing Xpeng’s strategic shift",
-      "title_zh": "理想汽车告别宁德时代，呼应小鹏汽车战略转变",
-      "title_bilingual": "理想汽车告别宁德时代，呼应小鹏汽车战略转变 / Li Auto bids farewell to CATL, echoing Xpeng’s strategic shift",
-      "topic_tags": [
-        "新能源",
-        "补能电池",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "197e59bb89ea79b65a895711d2ede0eafe524bed",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Xpeng opens Iron humanoid robot production line, paving way for year-end mass production",
-      "url": "https://cnevpost.com/2026/09/08/xpeng-opens-iron-humanoid-robot-production-line",
-      "published_at": "2026-09-08T01:47:50Z",
-      "first_seen_at": "2026-09-08T04:02:42.078116Z",
-      "last_seen_at": "2026-09-09T01:01:51.310986Z",
-      "title_original": "Xpeng opens Iron humanoid robot production line, paving way for year-end mass production",
-      "title_en": "Xpeng opens Iron humanoid robot production line, paving way for year-end mass production",
-      "title_zh": "小鹏钢铁人形机器人生产线投产 为年底量产铺路",
-      "title_bilingual": "小鹏钢铁人形机器人生产线投产 为年底量产铺路 / Xpeng opens Iron humanoid robot production line, paving way for year-end mass production",
       "topic_tags": [
         "新能源",
         "车企竞争"
