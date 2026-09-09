@@ -1,62 +1,220 @@
 {
-  "generated_at": "2026-09-09T15:53:52.601998Z",
+  "generated_at": "2026-09-09T19:03:41.230151Z",
   "window_hours": 24,
-  "total_items": 32,
-  "total_items_ai_raw": 36,
-  "total_items_raw": 2886,
-  "total_items_all_mode": 2591,
+  "total_items": 29,
+  "total_items_ai_raw": 30,
+  "total_items_raw": 2841,
+  "total_items_all_mode": 2561,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 68061,
+  "archive_total": 67841,
   "site_count": 3,
-  "source_count": 9,
+  "source_count": 6,
   "site_stats": [
     {
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "count": 21,
-      "raw_count": 25
+      "count": 16,
+      "raw_count": 17
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
-      "count": 11,
-      "raw_count": 2824
+      "count": 13,
+      "raw_count": 2788
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "count": 0,
-      "raw_count": 37
+      "raw_count": 36
     }
   ],
   "topic_tag_stats": [
     {
       "tag": "新能源",
-      "count": 17
+      "count": 16
     },
     {
       "tag": "车企竞争",
-      "count": 15
+      "count": 16
     },
     {
       "tag": "新车上市",
-      "count": 7
-    },
-    {
-      "tag": "购车决策",
-      "count": 6
+      "count": 8
     },
     {
       "tag": "补能电池",
-      "count": 4
+      "count": 5
     },
     {
       "tag": "智能驾驶",
+      "count": 3
+    },
+    {
+      "tag": "购车决策",
+      "count": 3
+    },
+    {
+      "tag": "价格战",
+      "count": 1
+    },
+    {
+      "tag": "供应链",
       "count": 1
     }
   ],
   "items": [
     {
+      "id": "859fadfaa888070e3beb1f65ebaf6c74ed23fb54",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "空间非常大 小鹏GX提车作业分享",
+      "url": "https://i.autohome.com.cn/244620235",
+      "published_at": null,
+      "first_seen_at": "2026-09-09T19:03:41.230151Z",
+      "last_seen_at": "2026-09-09T19:03:41.230151Z",
+      "title_original": "空间非常大 小鹏GX提车作业分享",
+      "title_en": null,
+      "title_zh": "空间非常大 小鹏GX提车作业分享",
+      "title_bilingual": "空间非常大 小鹏GX提车作业分享",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "2d1dac76e6cf87ca0c067b837a2057c046612cba",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "想解决续航焦虑 租辆纯电车自驾游",
+      "url": "https://club.autohome.com.cn/bbs/thread/172be911f98d01ed/116006687-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-09T19:03:41.230151Z",
+      "last_seen_at": "2026-09-09T19:03:41.230151Z",
+      "title_original": "想解决续航焦虑 租辆纯电车自驾游",
+      "title_en": null,
+      "title_zh": "想解决续航焦虑 租辆纯电车自驾游",
+      "title_bilingual": "想解决续航焦虑 租辆纯电车自驾游",
+      "topic_tags": [
+        "新能源",
+        "补能电池"
+      ]
+    },
+    {
+      "id": "00472f53f0110e99c2f39dfdb49212ac80d5f60f",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "智驾很满意 问界M7提车作业分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/59c1d67aeb7624e8/116048000-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-09T19:03:41.230151Z",
+      "last_seen_at": "2026-09-09T19:03:41.230151Z",
+      "title_original": "智驾很满意 问界M7提车作业分享",
+      "title_en": null,
+      "title_zh": "智驾很满意 问界M7提车作业分享",
+      "title_bilingual": "智驾很满意 问界M7提车作业分享",
+      "topic_tags": [
+        "智能驾驶",
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "f47ba3af4879efba72b034efefb48173d6de99a6",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "购车很省心 Model Y提车作业分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/f737b5367cc52cb5/116004619-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-09T19:03:41.230151Z",
+      "last_seen_at": "2026-09-09T19:03:41.230151Z",
+      "title_original": "购车很省心 Model Y提车作业分享",
+      "title_en": null,
+      "title_zh": "购车很省心 Model Y提车作业分享",
+      "title_bilingual": "购车很省心 Model Y提车作业分享",
+      "topic_tags": [
+        "购车决策"
+      ]
+    },
+    {
+      "id": "9a84131725533fd5912cd62f61c68f5815215732",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "穿梭成都小巷吃喝挑战 长安启源Q06的天枢领航Ultra到底咋样？",
+      "url": "http://vc.yiche.com/vplay/13108860.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-09T19:03:41.230151Z",
+      "last_seen_at": "2026-09-09T19:03:41.230151Z",
+      "title_original": "穿梭成都小巷吃喝挑战 长安启源Q06的天枢领航Ultra到底咋样？",
+      "title_en": null,
+      "title_zh": "穿梭成都小巷吃喝挑战 长安启源Q06的天枢领航Ultra到底咋样？",
+      "title_bilingual": "穿梭成都小巷吃喝挑战 长安启源Q06的天枢领航Ultra到底咋样？",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "efe9e64e459e249653174ce9c11bbf631dee6adb",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "山城卡宴！长安启源Q06开启预售，抢订价14.79万元起",
+      "url": "http://vc.yiche.com/vplay/13067931.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-09T19:03:41.230151Z",
+      "last_seen_at": "2026-09-09T19:03:41.230151Z",
+      "title_original": "山城卡宴！长安启源Q06开启预售，抢订价14.79万元起",
+      "title_en": null,
+      "title_zh": "山城卡宴！长安启源Q06开启预售，抢订价14.79万元起",
+      "title_bilingual": "山城卡宴！长安启源Q06开启预售，抢订价14.79万元起",
+      "topic_tags": [
+        "价格战",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "351ed6bd1a11468f5bed3e98f1b9fb1463e906aa",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "激光雷达+后轮转向的燃油车 星越L PLUS大家久等了",
+      "url": "http://vc.yiche.com/vplay/13077892.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-09T19:03:41.230151Z",
+      "last_seen_at": "2026-09-09T19:03:41.230151Z",
+      "title_original": "激光雷达+后轮转向的燃油车 星越L PLUS大家久等了",
+      "title_en": null,
+      "title_zh": "激光雷达+后轮转向的燃油车 星越L PLUS大家久等了",
+      "title_bilingual": "激光雷达+后轮转向的燃油车 星越L PLUS大家久等了",
+      "topic_tags": [
+        "智能驾驶"
+      ]
+    },
+    {
+      "id": "bae90f07e9f79261747ea3027fc898380d64b128",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "方程豹钛9技术拆解，空间性能跟大唐差不多，底盘和设计值30万？",
+      "url": "http://vc.yiche.com/vplay/13077409.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-09T19:03:41.230151Z",
+      "last_seen_at": "2026-09-09T19:03:41.230151Z",
+      "title_original": "方程豹钛9技术拆解，空间性能跟大唐差不多，底盘和设计值30万？",
+      "title_en": null,
+      "title_zh": "方程豹钛9技术拆解，空间性能跟大唐差不多，底盘和设计值30万？",
+      "title_bilingual": "方程豹钛9技术拆解，空间性能跟大唐差不多，底盘和设计值30万？",
+      "topic_tags": [
+        "供应链"
+      ]
+    },
+    {
       "id": "58b1aedd3ce982ac4c86fcab53d5b4ff81239205",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -65,7 +223,7 @@
       "url": "https://cnevpost.com/2026/09/09/china-nev-export-share-aug-2026",
       "published_at": "2026-09-09T12:53:32Z",
       "first_seen_at": "2026-09-09T15:53:52.601998Z",
-      "last_seen_at": "2026-09-09T15:53:52.601998Z",
+      "last_seen_at": "2026-09-09T19:03:41.230151Z",
       "title_original": "China NEV export share in August: BYD leads with 35.4%, Tesla slips to fourth",
       "title_en": "China NEV export share in August: BYD leads with 35.4%, Tesla slips to fourth",
       "title_zh": null,
@@ -84,7 +242,7 @@
       "url": "https://cnevpost.com/2026/09/09/automakers-aug-2026-share-china-nev-market",
       "published_at": "2026-09-09T12:23:17Z",
       "first_seen_at": "2026-09-09T15:53:52.601998Z",
-      "last_seen_at": "2026-09-09T15:53:52.601998Z",
+      "last_seen_at": "2026-09-09T19:03:41.230151Z",
       "title_original": "Automakers' August share of China's NEV market: BYD leads with 23.3%, Tesla returns to top 10",
       "title_en": "Automakers' August share of China's NEV market: BYD leads with 23.3%, Tesla returns to top 10",
       "title_zh": null,
@@ -103,7 +261,7 @@
       "url": "https://www.dongchedi.com/article/7683019872657244696",
       "published_at": null,
       "first_seen_at": "2026-09-09T11:40:55.258878Z",
-      "last_seen_at": "2026-09-09T15:53:52.601998Z",
+      "last_seen_at": "2026-09-09T19:03:41.230151Z",
       "title_original": "美国8月车市：皮卡看F系列，SUV看CR-V，轿车看凯美瑞",
       "title_en": null,
       "title_zh": "美国8月车市：皮卡看F系列，SUV看CR-V，轿车看凯美瑞",
@@ -121,7 +279,7 @@
       "url": "https://carnewschina.com/2026/09/09/top-10-best-selling-cars-in-china-in-august-bev-takes-nine-and-half-spots-gas-cars-disappear",
       "published_at": "2026-09-09T11:02:02Z",
       "first_seen_at": "2026-09-09T15:53:52.601998Z",
-      "last_seen_at": "2026-09-09T15:53:52.601998Z",
+      "last_seen_at": "2026-09-09T19:03:41.230151Z",
       "title_original": "Top 10 best-selling cars in China in August: BEV takes nine and half spots, gas cars disappear",
       "title_en": "Top 10 best-selling cars in China in August: BEV takes nine and half spots, gas cars disappear",
       "title_zh": null,
@@ -139,7 +297,7 @@
       "url": "https://cnevpost.com/2026/09/09/tesla-aug-2026-china-deliveries-breakdown",
       "published_at": "2026-09-09T09:41:45Z",
       "first_seen_at": "2026-09-09T11:40:55.258878Z",
-      "last_seen_at": "2026-09-09T15:53:52.601998Z",
+      "last_seen_at": "2026-09-09T19:03:41.230151Z",
       "title_original": "Tesla August China deliveries breakdown: Model Y falls 26%, extending decline to third month",
       "title_en": "Tesla August China deliveries breakdown: Model Y falls 26%, extending decline to third month",
       "title_zh": null,
@@ -158,7 +316,7 @@
       "url": "https://cnevpost.com/2026/09/09/nio-william-li-urges-focus-core-business",
       "published_at": "2026-09-09T08:34:26Z",
       "first_seen_at": "2026-09-09T11:40:55.258878Z",
-      "last_seen_at": "2026-09-09T15:53:52.601998Z",
+      "last_seen_at": "2026-09-09T19:03:41.230151Z",
       "title_original": "Nio's William Li urges focus on core business for next 3 years, teases major new models for 2027",
       "title_en": "Nio's William Li urges focus on core business for next 3 years, teases major new models for 2027",
       "title_zh": null,
@@ -177,7 +335,7 @@
       "url": "https://cnevpost.com/2026/09/09/denza-adds-z9gt-variant-e3-tri-motor",
       "published_at": "2026-09-09T07:17:52Z",
       "first_seen_at": "2026-09-09T11:40:55.258878Z",
-      "last_seen_at": "2026-09-09T15:53:52.601998Z",
+      "last_seen_at": "2026-09-09T19:03:41.230151Z",
       "title_original": "BYD Denza adds Z9GT variant, lowering entry price for e3 tri-motor tech",
       "title_en": "BYD Denza adds Z9GT variant, lowering entry price for e3 tri-motor tech",
       "title_zh": null,
@@ -196,7 +354,7 @@
       "url": "https://carnewschina.com/2026/09/09/li-auto-announces-its-new-flagship-electric-suv-i9-set-for-september-16-debut",
       "published_at": "2026-09-09T07:05:32Z",
       "first_seen_at": "2026-09-09T11:40:55.258878Z",
-      "last_seen_at": "2026-09-09T15:53:52.601998Z",
+      "last_seen_at": "2026-09-09T19:03:41.230151Z",
       "title_original": "Li Auto announces its new flagship electric SUV i9 set for September 16 debut",
       "title_en": "Li Auto announces its new flagship electric SUV i9 set for September 16 debut",
       "title_zh": null,
@@ -216,7 +374,7 @@
       "url": "https://cnevpost.com/2026/09/09/nio-aug-2026-deliveries-breakdown",
       "published_at": "2026-09-09T06:42:24Z",
       "first_seen_at": "2026-09-09T11:40:55.258878Z",
-      "last_seen_at": "2026-09-09T15:53:52.601998Z",
+      "last_seen_at": "2026-09-09T19:03:41.230151Z",
       "title_original": "Nio August deliveries breakdown: ES9 delivers 6,479 units, joins ES8 in topping 82% of main brand volume",
       "title_en": "Nio August deliveries breakdown: ES9 delivers 6,479 units, joins ES8 in topping 82% of main brand volume",
       "title_zh": null,
@@ -235,7 +393,7 @@
       "url": "https://cnevpost.com/2026/09/09/arcfox-alpha-t7-sept-16-launch",
       "published_at": "2026-09-09T05:46:26Z",
       "first_seen_at": "2026-09-09T06:20:51.497584Z",
-      "last_seen_at": "2026-09-09T15:53:52.601998Z",
+      "last_seen_at": "2026-09-09T19:03:41.230151Z",
       "title_original": "Arcfox Alpha T7 SUV set for September 16 launch",
       "title_en": "Arcfox Alpha T7 SUV set for September 16 launch",
       "title_zh": null,
@@ -254,7 +412,7 @@
       "url": "https://cnevpost.com/2026/09/09/dongfeng-unveil-hybrid-solid-liquid-battery-oct-2026",
       "published_at": "2026-09-09T04:51:10Z",
       "first_seen_at": "2026-09-09T06:20:51.497584Z",
-      "last_seen_at": "2026-09-09T15:53:52.601998Z",
+      "last_seen_at": "2026-09-09T19:03:41.230151Z",
       "title_original": "Dongfeng to unveil in-house hybrid solid-liquid battery in October, mass production in Q4",
       "title_en": "Dongfeng to unveil in-house hybrid solid-liquid battery in October, mass production in Q4",
       "title_zh": null,
@@ -272,7 +430,7 @@
       "url": "https://carnewschina.com/2026/09/09/denza-z9-gt-adds-1140-hp-tri-motor-ev-trim-at-49200-usd-6000-usd-below-performance-version",
       "published_at": "2026-09-09T04:40:09Z",
       "first_seen_at": "2026-09-09T06:20:51.497584Z",
-      "last_seen_at": "2026-09-09T15:53:52.601998Z",
+      "last_seen_at": "2026-09-09T19:03:41.230151Z",
       "title_original": "Denza Z9 GT adds 1,140-hp tri-motor EV trim at 49,200 USD, 6,000 USD below performance version",
       "title_en": "Denza Z9 GT adds 1,140-hp tri-motor EV trim at 49,200 USD, 6,000 USD below performance version",
       "title_zh": null,
@@ -290,7 +448,7 @@
       "url": "https://cnevpost.com/2026/09/09/li-auto-to-launch-i9-sept-16-2026",
       "published_at": "2026-09-09T03:40:32Z",
       "first_seen_at": "2026-09-09T06:20:51.497584Z",
-      "last_seen_at": "2026-09-09T15:53:52.601998Z",
+      "last_seen_at": "2026-09-09T19:03:41.230151Z",
       "title_original": "Li Auto to launch i9 flagship electric SUV on September 16 with focus on family comfort",
       "title_en": "Li Auto to launch i9 flagship electric SUV on September 16 with focus on family comfort",
       "title_zh": null,
@@ -310,7 +468,7 @@
       "url": "https://carnewschina.com/2026/09/09/2027-zeekr-7x-revealed-in-chinese-filings-with-496-hp-motor-and-new-lfp-battery",
       "published_at": "2026-09-09T03:35:22Z",
       "first_seen_at": "2026-09-09T06:20:51.497584Z",
-      "last_seen_at": "2026-09-09T15:53:52.601998Z",
+      "last_seen_at": "2026-09-09T19:03:41.230151Z",
       "title_original": "2027 Zeekr 7X revealed in Chinese filings with 496 hp motor and new LFP battery",
       "title_en": "2027 Zeekr 7X revealed in Chinese filings with 496 hp motor and new LFP battery",
       "title_zh": null,
@@ -330,7 +488,7 @@
       "url": "https://carnewschina.com/2026/09/09/dongfeng-files-for-new-battery-swapping-sedan-further-expanding-catls-swapping-ecosystem",
       "published_at": "2026-09-09T02:45:12Z",
       "first_seen_at": "2026-09-09T06:20:51.497584Z",
-      "last_seen_at": "2026-09-09T15:53:52.601998Z",
+      "last_seen_at": "2026-09-09T19:03:41.230151Z",
       "title_original": "Dongfeng files for new battery-swapping sedan, further expanding CATL’s swapping ecosystem",
       "title_en": "Dongfeng files for new battery-swapping sedan, further expanding CATL’s swapping ecosystem",
       "title_zh": null,
@@ -350,7 +508,7 @@
       "url": "https://cnevpost.com/2026/09/09/avatr-filing-t09-triple-motor-phev",
       "published_at": "2026-09-09T02:21:11Z",
       "first_seen_at": "2026-09-09T06:20:51.497584Z",
-      "last_seen_at": "2026-09-09T15:53:52.601998Z",
+      "last_seen_at": "2026-09-09T19:03:41.230151Z",
       "title_original": "Avatr's flagship 9-series SUV appears in China filing as T09 with triple-motor plug-in hybrid powertrain",
       "title_en": "Avatr's flagship 9-series SUV appears in China filing as T09 with triple-motor plug-in hybrid powertrain",
       "title_zh": null,
@@ -369,7 +527,7 @@
       "url": "http://vc.yiche.com/vplay/13067665.html",
       "published_at": null,
       "first_seen_at": "2026-09-08T20:03:39.441054Z",
-      "last_seen_at": "2026-09-09T15:53:52.601998Z",
+      "last_seen_at": "2026-09-09T19:03:41.230151Z",
       "title_original": "北京BJ30和捷途自由者，这两款方盒子SUV，谁更强",
       "title_en": null,
       "title_zh": "北京BJ30和捷途自由者，这两款方盒子SUV，谁更强",
@@ -442,7 +600,7 @@
       "url": "https://carnewschina.com/2026/09/08/teslas-china-sales-fell-12-4-in-august-as-exports-rose-for-the-eighth-straight-month",
       "published_at": "2026-09-08T19:23:45Z",
       "first_seen_at": "2026-09-08T20:03:39.441054Z",
-      "last_seen_at": "2026-09-09T15:53:52.601998Z",
+      "last_seen_at": "2026-09-09T19:03:41.230151Z",
       "title_original": "Tesla’s China sales fell 12.4% in August as exports rose for the eighth straight month",
       "title_en": "Tesla’s China sales fell 12.4% in August as exports rose for the eighth straight month",
       "title_zh": null,
@@ -451,205 +609,160 @@
         "新能源",
         "车企竞争"
       ]
-    },
-    {
-      "id": "ae6ccac03c9d2a92706348fc3df222e22486f990",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Gas car sales fell 40% in August in China [Charts]",
-      "url": "https://carnewschina.com/2026/09/08/gas-car-sales-fell-40-in-august-in-china-charts",
-      "published_at": "2026-09-08T18:16:51Z",
-      "first_seen_at": "2026-09-08T20:03:39.441054Z",
-      "last_seen_at": "2026-09-09T15:53:52.601998Z",
-      "title_original": "Gas car sales fell 40% in August in China [Charts]",
-      "title_en": "Gas car sales fell 40% in August in China [Charts]",
-      "title_zh": null,
-      "title_bilingual": "Gas car sales fell 40% in August in China [Charts]",
-      "topic_tags": [
-        "新能源"
-      ]
-    },
-    {
-      "id": "fc73dfbaf0fb9d4ce8b6a861d2f90a689b363590",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新能源",
-      "title": "油电切换提速，8月车市的冷与热",
-      "url": "https://auto.gasgoo.com/news/202609/8I70471479C501.shtml",
-      "published_at": "2026-09-08T17:24:27Z",
-      "first_seen_at": "2026-09-09T11:40:55.258878Z",
-      "last_seen_at": "2026-09-09T15:53:52.601998Z",
-      "title_original": "油电切换提速，8月车市的冷与热",
-      "title_en": null,
-      "title_zh": "油电切换提速，8月车市的冷与热",
-      "title_bilingual": "油电切换提速，8月车市的冷与热",
-      "topic_tags": [
-        "新能源"
-      ]
-    },
-    {
-      "id": "ac0a1d3a824ec74a21af19686e63bfdec7b9ec40",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "适合全家出游 长城H10提车作业分享",
-      "url": "https://club.autohome.com.cn/bbs/thread/4ec692e35d92551e/116006655-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-09-08T17:20:13.326246Z",
-      "last_seen_at": "2026-09-09T15:53:52.601998Z",
-      "title_original": "适合全家出游 长城H10提车作业分享",
-      "title_en": null,
-      "title_zh": "适合全家出游 长城H10提车作业分享",
-      "title_bilingual": "适合全家出游 长城H10提车作业分享",
-      "topic_tags": [
-        "车企竞争",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "61750795d4038afa409921cffcda7779090f87e7",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "购车很省心 Model Y提车作业分享",
-      "url": "https://i.autohome.com.cn/2700562",
-      "published_at": null,
-      "first_seen_at": "2026-09-08T17:20:13.326246Z",
-      "last_seen_at": "2026-09-09T15:53:52.601998Z",
-      "title_original": "购车很省心 Model Y提车作业分享",
-      "title_en": null,
-      "title_zh": "购车很省心 Model Y提车作业分享",
-      "title_bilingual": "购车很省心 Model Y提车作业分享",
-      "topic_tags": [
-        "购车决策"
-      ]
-    },
-    {
-      "id": "c17cc73be06edc617dd9cf4cce282393a462c861",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "优缺点一次性说透！试驾小米澎程N90",
-      "url": "https://club.autohome.com.cn/bbs/thread/66b1757fa8bf2bc5/116072329-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-09-08T17:20:13.326246Z",
-      "last_seen_at": "2026-09-09T15:53:52.601998Z",
-      "title_original": "优缺点一次性说透！试驾小米澎程N90",
-      "title_en": null,
-      "title_zh": "优缺点一次性说透！试驾小米澎程N90",
-      "title_bilingual": "优缺点一次性说透！试驾小米澎程N90",
-      "topic_tags": [
-        "购车决策"
-      ]
-    },
-    {
-      "id": "43972b46a397d0b3649bbb76c599c8eb9f107767",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "符合家用需求 小鹏MONA L03提车分享",
-      "url": "https://club.autohome.com.cn/bbs/thread/e106b51641192e9f/116004595-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-09-08T17:20:13.326246Z",
-      "last_seen_at": "2026-09-09T15:53:52.601998Z",
-      "title_original": "符合家用需求 小鹏MONA L03提车分享",
-      "title_en": null,
-      "title_zh": "符合家用需求 小鹏MONA L03提车分享",
-      "title_bilingual": "符合家用需求 小鹏MONA L03提车分享",
-      "topic_tags": [
-        "车企竞争",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "f3be0afd90225d62c4f8f1e77890789135f68225",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "颜值与舒适并存 理想i6提车作业分享",
-      "url": "https://club.autohome.com.cn/bbs/thread/278ad35fdeab25a2/116004519-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-09-08T17:20:13.326246Z",
-      "last_seen_at": "2026-09-09T15:53:52.601998Z",
-      "title_original": "颜值与舒适并存 理想i6提车作业分享",
-      "title_en": null,
-      "title_zh": "颜值与舒适并存 理想i6提车作业分享",
-      "title_bilingual": "颜值与舒适并存 理想i6提车作业分享",
-      "topic_tags": [
-        "车企竞争",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "aaefe620b499c6059aedc293b8bfc189a48d186c",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "选车到提车的避坑指南 领克03购车记",
-      "url": "https://club.autohome.com.cn/bbs/thread/bb06168bc7d9fd4c/116030298-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-09-08T17:20:13.326246Z",
-      "last_seen_at": "2026-09-09T15:53:52.601998Z",
-      "title_original": "选车到提车的避坑指南 领克03购车记",
-      "title_en": null,
-      "title_zh": "选车到提车的避坑指南 领克03购车记",
-      "title_bilingual": "选车到提车的避坑指南 领克03购车记",
-      "topic_tags": [
-        "购车决策"
-      ]
-    },
-    {
-      "id": "ad89ab8ac17254bcdb3a1de01a24461fd5f105c0",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "加拿大对美国200亿美元商品的反制关税正式生效",
-      "url": "https://auto.gasgoo.com/news/202609/8I70471473C108.shtml",
-      "published_at": "2026-09-08T16:56:55Z",
-      "first_seen_at": "2026-09-09T11:40:55.258878Z",
-      "last_seen_at": "2026-09-09T15:53:52.601998Z",
-      "title_original": "加拿大对美国200亿美元商品的反制关税正式生效",
-      "title_en": null,
-      "title_zh": "加拿大对美国200亿美元商品的反制关税正式生效",
-      "title_bilingual": "加拿大对美国200亿美元商品的反制关税正式生效",
-      "topic_tags": []
-    },
-    {
-      "id": "e23138a5eeb50d29b0113a61e246d38245e953d6",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-智能网联",
-      "title": "Seeds | 千诀科技完成数亿元A+轮融资",
-      "url": "https://auto.gasgoo.com/news/202609/8I70471472C601.shtml",
-      "published_at": "2026-09-08T16:09:12Z",
-      "first_seen_at": "2026-09-09T11:40:55.258878Z",
-      "last_seen_at": "2026-09-09T15:53:52.601998Z",
-      "title_original": "Seeds | 千诀科技完成数亿元A+轮融资",
-      "title_en": null,
-      "title_zh": "Seeds | 千诀科技完成数亿元A+轮融资",
-      "title_bilingual": "Seeds | 千诀科技完成数亿元A+轮融资",
-      "topic_tags": []
-    },
-    {
-      "id": "e26bdfd995e51d9e96df5127c5ad0453107bcae5",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-智能网联",
-      "title": "Seeds | 年内第三轮，小雨智造再获数亿元融资",
-      "url": "https://auto.gasgoo.com/news/202609/8I70471471C601.shtml",
-      "published_at": "2026-09-08T15:59:44Z",
-      "first_seen_at": "2026-09-09T11:40:55.258878Z",
-      "last_seen_at": "2026-09-09T15:53:52.601998Z",
-      "title_original": "Seeds | 年内第三轮，小雨智造再获数亿元融资",
-      "title_en": null,
-      "title_zh": "Seeds | 年内第三轮，小雨智造再获数亿元融资",
-      "title_bilingual": "Seeds | 年内第三轮，小雨智造再获数亿元融资",
-      "topic_tags": []
     }
   ],
   "items_ai": [
     {
+      "id": "859fadfaa888070e3beb1f65ebaf6c74ed23fb54",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "空间非常大 小鹏GX提车作业分享",
+      "url": "https://i.autohome.com.cn/244620235",
+      "published_at": null,
+      "first_seen_at": "2026-09-09T19:03:41.230151Z",
+      "last_seen_at": "2026-09-09T19:03:41.230151Z",
+      "title_original": "空间非常大 小鹏GX提车作业分享",
+      "title_en": null,
+      "title_zh": "空间非常大 小鹏GX提车作业分享",
+      "title_bilingual": "空间非常大 小鹏GX提车作业分享",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "2d1dac76e6cf87ca0c067b837a2057c046612cba",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "想解决续航焦虑 租辆纯电车自驾游",
+      "url": "https://club.autohome.com.cn/bbs/thread/172be911f98d01ed/116006687-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-09T19:03:41.230151Z",
+      "last_seen_at": "2026-09-09T19:03:41.230151Z",
+      "title_original": "想解决续航焦虑 租辆纯电车自驾游",
+      "title_en": null,
+      "title_zh": "想解决续航焦虑 租辆纯电车自驾游",
+      "title_bilingual": "想解决续航焦虑 租辆纯电车自驾游",
+      "topic_tags": [
+        "新能源",
+        "补能电池"
+      ]
+    },
+    {
+      "id": "00472f53f0110e99c2f39dfdb49212ac80d5f60f",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "智驾很满意 问界M7提车作业分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/59c1d67aeb7624e8/116048000-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-09T19:03:41.230151Z",
+      "last_seen_at": "2026-09-09T19:03:41.230151Z",
+      "title_original": "智驾很满意 问界M7提车作业分享",
+      "title_en": null,
+      "title_zh": "智驾很满意 问界M7提车作业分享",
+      "title_bilingual": "智驾很满意 问界M7提车作业分享",
+      "topic_tags": [
+        "智能驾驶",
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "f47ba3af4879efba72b034efefb48173d6de99a6",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "购车很省心 Model Y提车作业分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/f737b5367cc52cb5/116004619-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-09T19:03:41.230151Z",
+      "last_seen_at": "2026-09-09T19:03:41.230151Z",
+      "title_original": "购车很省心 Model Y提车作业分享",
+      "title_en": null,
+      "title_zh": "购车很省心 Model Y提车作业分享",
+      "title_bilingual": "购车很省心 Model Y提车作业分享",
+      "topic_tags": [
+        "购车决策"
+      ]
+    },
+    {
+      "id": "9a84131725533fd5912cd62f61c68f5815215732",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "穿梭成都小巷吃喝挑战 长安启源Q06的天枢领航Ultra到底咋样？",
+      "url": "http://vc.yiche.com/vplay/13108860.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-09T19:03:41.230151Z",
+      "last_seen_at": "2026-09-09T19:03:41.230151Z",
+      "title_original": "穿梭成都小巷吃喝挑战 长安启源Q06的天枢领航Ultra到底咋样？",
+      "title_en": null,
+      "title_zh": "穿梭成都小巷吃喝挑战 长安启源Q06的天枢领航Ultra到底咋样？",
+      "title_bilingual": "穿梭成都小巷吃喝挑战 长安启源Q06的天枢领航Ultra到底咋样？",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "efe9e64e459e249653174ce9c11bbf631dee6adb",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "山城卡宴！长安启源Q06开启预售，抢订价14.79万元起",
+      "url": "http://vc.yiche.com/vplay/13067931.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-09T19:03:41.230151Z",
+      "last_seen_at": "2026-09-09T19:03:41.230151Z",
+      "title_original": "山城卡宴！长安启源Q06开启预售，抢订价14.79万元起",
+      "title_en": null,
+      "title_zh": "山城卡宴！长安启源Q06开启预售，抢订价14.79万元起",
+      "title_bilingual": "山城卡宴！长安启源Q06开启预售，抢订价14.79万元起",
+      "topic_tags": [
+        "价格战",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "351ed6bd1a11468f5bed3e98f1b9fb1463e906aa",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "激光雷达+后轮转向的燃油车 星越L PLUS大家久等了",
+      "url": "http://vc.yiche.com/vplay/13077892.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-09T19:03:41.230151Z",
+      "last_seen_at": "2026-09-09T19:03:41.230151Z",
+      "title_original": "激光雷达+后轮转向的燃油车 星越L PLUS大家久等了",
+      "title_en": null,
+      "title_zh": "激光雷达+后轮转向的燃油车 星越L PLUS大家久等了",
+      "title_bilingual": "激光雷达+后轮转向的燃油车 星越L PLUS大家久等了",
+      "topic_tags": [
+        "智能驾驶"
+      ]
+    },
+    {
+      "id": "bae90f07e9f79261747ea3027fc898380d64b128",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "方程豹钛9技术拆解，空间性能跟大唐差不多，底盘和设计值30万？",
+      "url": "http://vc.yiche.com/vplay/13077409.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-09T19:03:41.230151Z",
+      "last_seen_at": "2026-09-09T19:03:41.230151Z",
+      "title_original": "方程豹钛9技术拆解，空间性能跟大唐差不多，底盘和设计值30万？",
+      "title_en": null,
+      "title_zh": "方程豹钛9技术拆解，空间性能跟大唐差不多，底盘和设计值30万？",
+      "title_bilingual": "方程豹钛9技术拆解，空间性能跟大唐差不多，底盘和设计值30万？",
+      "topic_tags": [
+        "供应链"
+      ]
+    },
+    {
       "id": "58b1aedd3ce982ac4c86fcab53d5b4ff81239205",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -658,7 +771,7 @@
       "url": "https://cnevpost.com/2026/09/09/china-nev-export-share-aug-2026",
       "published_at": "2026-09-09T12:53:32Z",
       "first_seen_at": "2026-09-09T15:53:52.601998Z",
-      "last_seen_at": "2026-09-09T15:53:52.601998Z",
+      "last_seen_at": "2026-09-09T19:03:41.230151Z",
       "title_original": "China NEV export share in August: BYD leads with 35.4%, Tesla slips to fourth",
       "title_en": "China NEV export share in August: BYD leads with 35.4%, Tesla slips to fourth",
       "title_zh": null,
@@ -677,7 +790,7 @@
       "url": "https://cnevpost.com/2026/09/09/automakers-aug-2026-share-china-nev-market",
       "published_at": "2026-09-09T12:23:17Z",
       "first_seen_at": "2026-09-09T15:53:52.601998Z",
-      "last_seen_at": "2026-09-09T15:53:52.601998Z",
+      "last_seen_at": "2026-09-09T19:03:41.230151Z",
       "title_original": "Automakers' August share of China's NEV market: BYD leads with 23.3%, Tesla returns to top 10",
       "title_en": "Automakers' August share of China's NEV market: BYD leads with 23.3%, Tesla returns to top 10",
       "title_zh": null,
@@ -696,7 +809,7 @@
       "url": "https://www.dongchedi.com/article/7683019872657244696",
       "published_at": null,
       "first_seen_at": "2026-09-09T11:40:55.258878Z",
-      "last_seen_at": "2026-09-09T15:53:52.601998Z",
+      "last_seen_at": "2026-09-09T19:03:41.230151Z",
       "title_original": "美国8月车市：皮卡看F系列，SUV看CR-V，轿车看凯美瑞",
       "title_en": null,
       "title_zh": "美国8月车市：皮卡看F系列，SUV看CR-V，轿车看凯美瑞",
@@ -714,7 +827,7 @@
       "url": "https://carnewschina.com/2026/09/09/top-10-best-selling-cars-in-china-in-august-bev-takes-nine-and-half-spots-gas-cars-disappear",
       "published_at": "2026-09-09T11:02:02Z",
       "first_seen_at": "2026-09-09T15:53:52.601998Z",
-      "last_seen_at": "2026-09-09T15:53:52.601998Z",
+      "last_seen_at": "2026-09-09T19:03:41.230151Z",
       "title_original": "Top 10 best-selling cars in China in August: BEV takes nine and half spots, gas cars disappear",
       "title_en": "Top 10 best-selling cars in China in August: BEV takes nine and half spots, gas cars disappear",
       "title_zh": null,
@@ -732,7 +845,7 @@
       "url": "https://cnevpost.com/2026/09/09/tesla-aug-2026-china-deliveries-breakdown",
       "published_at": "2026-09-09T09:41:45Z",
       "first_seen_at": "2026-09-09T11:40:55.258878Z",
-      "last_seen_at": "2026-09-09T15:53:52.601998Z",
+      "last_seen_at": "2026-09-09T19:03:41.230151Z",
       "title_original": "Tesla August China deliveries breakdown: Model Y falls 26%, extending decline to third month",
       "title_en": "Tesla August China deliveries breakdown: Model Y falls 26%, extending decline to third month",
       "title_zh": null,
@@ -751,7 +864,7 @@
       "url": "https://cnevpost.com/2026/09/09/nio-william-li-urges-focus-core-business",
       "published_at": "2026-09-09T08:34:26Z",
       "first_seen_at": "2026-09-09T11:40:55.258878Z",
-      "last_seen_at": "2026-09-09T15:53:52.601998Z",
+      "last_seen_at": "2026-09-09T19:03:41.230151Z",
       "title_original": "Nio's William Li urges focus on core business for next 3 years, teases major new models for 2027",
       "title_en": "Nio's William Li urges focus on core business for next 3 years, teases major new models for 2027",
       "title_zh": null,
@@ -770,7 +883,7 @@
       "url": "https://cnevpost.com/2026/09/09/denza-adds-z9gt-variant-e3-tri-motor",
       "published_at": "2026-09-09T07:17:52Z",
       "first_seen_at": "2026-09-09T11:40:55.258878Z",
-      "last_seen_at": "2026-09-09T15:53:52.601998Z",
+      "last_seen_at": "2026-09-09T19:03:41.230151Z",
       "title_original": "BYD Denza adds Z9GT variant, lowering entry price for e3 tri-motor tech",
       "title_en": "BYD Denza adds Z9GT variant, lowering entry price for e3 tri-motor tech",
       "title_zh": null,
@@ -789,7 +902,7 @@
       "url": "https://carnewschina.com/2026/09/09/li-auto-announces-its-new-flagship-electric-suv-i9-set-for-september-16-debut",
       "published_at": "2026-09-09T07:05:32Z",
       "first_seen_at": "2026-09-09T11:40:55.258878Z",
-      "last_seen_at": "2026-09-09T15:53:52.601998Z",
+      "last_seen_at": "2026-09-09T19:03:41.230151Z",
       "title_original": "Li Auto announces its new flagship electric SUV i9 set for September 16 debut",
       "title_en": "Li Auto announces its new flagship electric SUV i9 set for September 16 debut",
       "title_zh": null,
@@ -809,7 +922,7 @@
       "url": "https://cnevpost.com/2026/09/09/nio-aug-2026-deliveries-breakdown",
       "published_at": "2026-09-09T06:42:24Z",
       "first_seen_at": "2026-09-09T11:40:55.258878Z",
-      "last_seen_at": "2026-09-09T15:53:52.601998Z",
+      "last_seen_at": "2026-09-09T19:03:41.230151Z",
       "title_original": "Nio August deliveries breakdown: ES9 delivers 6,479 units, joins ES8 in topping 82% of main brand volume",
       "title_en": "Nio August deliveries breakdown: ES9 delivers 6,479 units, joins ES8 in topping 82% of main brand volume",
       "title_zh": null,
@@ -828,7 +941,7 @@
       "url": "https://cnevpost.com/2026/09/09/arcfox-alpha-t7-sept-16-launch",
       "published_at": "2026-09-09T05:46:26Z",
       "first_seen_at": "2026-09-09T06:20:51.497584Z",
-      "last_seen_at": "2026-09-09T15:53:52.601998Z",
+      "last_seen_at": "2026-09-09T19:03:41.230151Z",
       "title_original": "Arcfox Alpha T7 SUV set for September 16 launch",
       "title_en": "Arcfox Alpha T7 SUV set for September 16 launch",
       "title_zh": null,
@@ -847,7 +960,7 @@
       "url": "https://cnevpost.com/2026/09/09/dongfeng-unveil-hybrid-solid-liquid-battery-oct-2026",
       "published_at": "2026-09-09T04:51:10Z",
       "first_seen_at": "2026-09-09T06:20:51.497584Z",
-      "last_seen_at": "2026-09-09T15:53:52.601998Z",
+      "last_seen_at": "2026-09-09T19:03:41.230151Z",
       "title_original": "Dongfeng to unveil in-house hybrid solid-liquid battery in October, mass production in Q4",
       "title_en": "Dongfeng to unveil in-house hybrid solid-liquid battery in October, mass production in Q4",
       "title_zh": null,
@@ -865,7 +978,7 @@
       "url": "https://carnewschina.com/2026/09/09/denza-z9-gt-adds-1140-hp-tri-motor-ev-trim-at-49200-usd-6000-usd-below-performance-version",
       "published_at": "2026-09-09T04:40:09Z",
       "first_seen_at": "2026-09-09T06:20:51.497584Z",
-      "last_seen_at": "2026-09-09T15:53:52.601998Z",
+      "last_seen_at": "2026-09-09T19:03:41.230151Z",
       "title_original": "Denza Z9 GT adds 1,140-hp tri-motor EV trim at 49,200 USD, 6,000 USD below performance version",
       "title_en": "Denza Z9 GT adds 1,140-hp tri-motor EV trim at 49,200 USD, 6,000 USD below performance version",
       "title_zh": null,
@@ -883,7 +996,7 @@
       "url": "https://cnevpost.com/2026/09/09/li-auto-to-launch-i9-sept-16-2026",
       "published_at": "2026-09-09T03:40:32Z",
       "first_seen_at": "2026-09-09T06:20:51.497584Z",
-      "last_seen_at": "2026-09-09T15:53:52.601998Z",
+      "last_seen_at": "2026-09-09T19:03:41.230151Z",
       "title_original": "Li Auto to launch i9 flagship electric SUV on September 16 with focus on family comfort",
       "title_en": "Li Auto to launch i9 flagship electric SUV on September 16 with focus on family comfort",
       "title_zh": null,
@@ -903,7 +1016,7 @@
       "url": "https://carnewschina.com/2026/09/09/2027-zeekr-7x-revealed-in-chinese-filings-with-496-hp-motor-and-new-lfp-battery",
       "published_at": "2026-09-09T03:35:22Z",
       "first_seen_at": "2026-09-09T06:20:51.497584Z",
-      "last_seen_at": "2026-09-09T15:53:52.601998Z",
+      "last_seen_at": "2026-09-09T19:03:41.230151Z",
       "title_original": "2027 Zeekr 7X revealed in Chinese filings with 496 hp motor and new LFP battery",
       "title_en": "2027 Zeekr 7X revealed in Chinese filings with 496 hp motor and new LFP battery",
       "title_zh": null,
@@ -923,7 +1036,7 @@
       "url": "https://carnewschina.com/2026/09/09/dongfeng-files-for-new-battery-swapping-sedan-further-expanding-catls-swapping-ecosystem",
       "published_at": "2026-09-09T02:45:12Z",
       "first_seen_at": "2026-09-09T06:20:51.497584Z",
-      "last_seen_at": "2026-09-09T15:53:52.601998Z",
+      "last_seen_at": "2026-09-09T19:03:41.230151Z",
       "title_original": "Dongfeng files for new battery-swapping sedan, further expanding CATL’s swapping ecosystem",
       "title_en": "Dongfeng files for new battery-swapping sedan, further expanding CATL’s swapping ecosystem",
       "title_zh": null,
@@ -943,7 +1056,7 @@
       "url": "https://cnevpost.com/2026/09/09/avatr-filing-t09-triple-motor-phev",
       "published_at": "2026-09-09T02:21:11Z",
       "first_seen_at": "2026-09-09T06:20:51.497584Z",
-      "last_seen_at": "2026-09-09T15:53:52.601998Z",
+      "last_seen_at": "2026-09-09T19:03:41.230151Z",
       "title_original": "Avatr's flagship 9-series SUV appears in China filing as T09 with triple-motor plug-in hybrid powertrain",
       "title_en": "Avatr's flagship 9-series SUV appears in China filing as T09 with triple-motor plug-in hybrid powertrain",
       "title_zh": null,
@@ -962,7 +1075,7 @@
       "url": "http://vc.yiche.com/vplay/13067665.html",
       "published_at": null,
       "first_seen_at": "2026-09-08T20:03:39.441054Z",
-      "last_seen_at": "2026-09-09T15:53:52.601998Z",
+      "last_seen_at": "2026-09-09T19:03:41.230151Z",
       "title_original": "北京BJ30和捷途自由者，这两款方盒子SUV，谁更强",
       "title_en": null,
       "title_zh": "北京BJ30和捷途自由者，这两款方盒子SUV，谁更强",
@@ -1035,7 +1148,7 @@
       "url": "https://carnewschina.com/2026/09/08/teslas-china-sales-fell-12-4-in-august-as-exports-rose-for-the-eighth-straight-month",
       "published_at": "2026-09-08T19:23:45Z",
       "first_seen_at": "2026-09-08T20:03:39.441054Z",
-      "last_seen_at": "2026-09-09T15:53:52.601998Z",
+      "last_seen_at": "2026-09-09T19:03:41.230151Z",
       "title_original": "Tesla’s China sales fell 12.4% in August as exports rose for the eighth straight month",
       "title_en": "Tesla’s China sales fell 12.4% in August as exports rose for the eighth straight month",
       "title_zh": null,
@@ -1044,201 +1157,6 @@
         "新能源",
         "车企竞争"
       ]
-    },
-    {
-      "id": "ae6ccac03c9d2a92706348fc3df222e22486f990",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Gas car sales fell 40% in August in China [Charts]",
-      "url": "https://carnewschina.com/2026/09/08/gas-car-sales-fell-40-in-august-in-china-charts",
-      "published_at": "2026-09-08T18:16:51Z",
-      "first_seen_at": "2026-09-08T20:03:39.441054Z",
-      "last_seen_at": "2026-09-09T15:53:52.601998Z",
-      "title_original": "Gas car sales fell 40% in August in China [Charts]",
-      "title_en": "Gas car sales fell 40% in August in China [Charts]",
-      "title_zh": null,
-      "title_bilingual": "Gas car sales fell 40% in August in China [Charts]",
-      "topic_tags": [
-        "新能源"
-      ]
-    },
-    {
-      "id": "fc73dfbaf0fb9d4ce8b6a861d2f90a689b363590",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新能源",
-      "title": "油电切换提速，8月车市的冷与热",
-      "url": "https://auto.gasgoo.com/news/202609/8I70471479C501.shtml",
-      "published_at": "2026-09-08T17:24:27Z",
-      "first_seen_at": "2026-09-09T11:40:55.258878Z",
-      "last_seen_at": "2026-09-09T15:53:52.601998Z",
-      "title_original": "油电切换提速，8月车市的冷与热",
-      "title_en": null,
-      "title_zh": "油电切换提速，8月车市的冷与热",
-      "title_bilingual": "油电切换提速，8月车市的冷与热",
-      "topic_tags": [
-        "新能源"
-      ]
-    },
-    {
-      "id": "ac0a1d3a824ec74a21af19686e63bfdec7b9ec40",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "适合全家出游 长城H10提车作业分享",
-      "url": "https://club.autohome.com.cn/bbs/thread/4ec692e35d92551e/116006655-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-09-08T17:20:13.326246Z",
-      "last_seen_at": "2026-09-09T15:53:52.601998Z",
-      "title_original": "适合全家出游 长城H10提车作业分享",
-      "title_en": null,
-      "title_zh": "适合全家出游 长城H10提车作业分享",
-      "title_bilingual": "适合全家出游 长城H10提车作业分享",
-      "topic_tags": [
-        "车企竞争",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "61750795d4038afa409921cffcda7779090f87e7",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "购车很省心 Model Y提车作业分享",
-      "url": "https://i.autohome.com.cn/2700562",
-      "published_at": null,
-      "first_seen_at": "2026-09-08T17:20:13.326246Z",
-      "last_seen_at": "2026-09-09T15:53:52.601998Z",
-      "title_original": "购车很省心 Model Y提车作业分享",
-      "title_en": null,
-      "title_zh": "购车很省心 Model Y提车作业分享",
-      "title_bilingual": "购车很省心 Model Y提车作业分享",
-      "topic_tags": [
-        "购车决策"
-      ]
-    },
-    {
-      "id": "c17cc73be06edc617dd9cf4cce282393a462c861",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "优缺点一次性说透！试驾小米澎程N90",
-      "url": "https://club.autohome.com.cn/bbs/thread/66b1757fa8bf2bc5/116072329-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-09-08T17:20:13.326246Z",
-      "last_seen_at": "2026-09-09T15:53:52.601998Z",
-      "title_original": "优缺点一次性说透！试驾小米澎程N90",
-      "title_en": null,
-      "title_zh": "优缺点一次性说透！试驾小米澎程N90",
-      "title_bilingual": "优缺点一次性说透！试驾小米澎程N90",
-      "topic_tags": [
-        "购车决策"
-      ]
-    },
-    {
-      "id": "43972b46a397d0b3649bbb76c599c8eb9f107767",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "符合家用需求 小鹏MONA L03提车分享",
-      "url": "https://club.autohome.com.cn/bbs/thread/e106b51641192e9f/116004595-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-09-08T17:20:13.326246Z",
-      "last_seen_at": "2026-09-09T15:53:52.601998Z",
-      "title_original": "符合家用需求 小鹏MONA L03提车分享",
-      "title_en": null,
-      "title_zh": "符合家用需求 小鹏MONA L03提车分享",
-      "title_bilingual": "符合家用需求 小鹏MONA L03提车分享",
-      "topic_tags": [
-        "车企竞争",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "f3be0afd90225d62c4f8f1e77890789135f68225",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "颜值与舒适并存 理想i6提车作业分享",
-      "url": "https://club.autohome.com.cn/bbs/thread/278ad35fdeab25a2/116004519-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-09-08T17:20:13.326246Z",
-      "last_seen_at": "2026-09-09T15:53:52.601998Z",
-      "title_original": "颜值与舒适并存 理想i6提车作业分享",
-      "title_en": null,
-      "title_zh": "颜值与舒适并存 理想i6提车作业分享",
-      "title_bilingual": "颜值与舒适并存 理想i6提车作业分享",
-      "topic_tags": [
-        "车企竞争",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "aaefe620b499c6059aedc293b8bfc189a48d186c",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "选车到提车的避坑指南 领克03购车记",
-      "url": "https://club.autohome.com.cn/bbs/thread/bb06168bc7d9fd4c/116030298-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-09-08T17:20:13.326246Z",
-      "last_seen_at": "2026-09-09T15:53:52.601998Z",
-      "title_original": "选车到提车的避坑指南 领克03购车记",
-      "title_en": null,
-      "title_zh": "选车到提车的避坑指南 领克03购车记",
-      "title_bilingual": "选车到提车的避坑指南 领克03购车记",
-      "topic_tags": [
-        "购车决策"
-      ]
-    },
-    {
-      "id": "ad89ab8ac17254bcdb3a1de01a24461fd5f105c0",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "加拿大对美国200亿美元商品的反制关税正式生效",
-      "url": "https://auto.gasgoo.com/news/202609/8I70471473C108.shtml",
-      "published_at": "2026-09-08T16:56:55Z",
-      "first_seen_at": "2026-09-09T11:40:55.258878Z",
-      "last_seen_at": "2026-09-09T15:53:52.601998Z",
-      "title_original": "加拿大对美国200亿美元商品的反制关税正式生效",
-      "title_en": null,
-      "title_zh": "加拿大对美国200亿美元商品的反制关税正式生效",
-      "title_bilingual": "加拿大对美国200亿美元商品的反制关税正式生效",
-      "topic_tags": []
-    },
-    {
-      "id": "e23138a5eeb50d29b0113a61e246d38245e953d6",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-智能网联",
-      "title": "Seeds | 千诀科技完成数亿元A+轮融资",
-      "url": "https://auto.gasgoo.com/news/202609/8I70471472C601.shtml",
-      "published_at": "2026-09-08T16:09:12Z",
-      "first_seen_at": "2026-09-09T11:40:55.258878Z",
-      "last_seen_at": "2026-09-09T15:53:52.601998Z",
-      "title_original": "Seeds | 千诀科技完成数亿元A+轮融资",
-      "title_en": null,
-      "title_zh": "Seeds | 千诀科技完成数亿元A+轮融资",
-      "title_bilingual": "Seeds | 千诀科技完成数亿元A+轮融资",
-      "topic_tags": []
-    },
-    {
-      "id": "e26bdfd995e51d9e96df5127c5ad0453107bcae5",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-智能网联",
-      "title": "Seeds | 年内第三轮，小雨智造再获数亿元融资",
-      "url": "https://auto.gasgoo.com/news/202609/8I70471471C601.shtml",
-      "published_at": "2026-09-08T15:59:44Z",
-      "first_seen_at": "2026-09-09T11:40:55.258878Z",
-      "last_seen_at": "2026-09-09T15:53:52.601998Z",
-      "title_original": "Seeds | 年内第三轮，小雨智造再获数亿元融资",
-      "title_en": null,
-      "title_zh": "Seeds | 年内第三轮，小雨智造再获数亿元融资",
-      "title_bilingual": "Seeds | 年内第三轮，小雨智造再获数亿元融资",
-      "topic_tags": []
     }
   ],
   "all_mode_data_url": "data/latest-24h-all.json"
