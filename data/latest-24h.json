@@ -1,38 +1,38 @@
 {
-  "generated_at": "2026-09-11T17:29:42.480563Z",
+  "generated_at": "2026-09-11T19:58:53.356885Z",
   "window_hours": 24,
-  "total_items": 31,
-  "total_items_ai_raw": 32,
-  "total_items_raw": 2736,
-  "total_items_all_mode": 2461,
+  "total_items": 19,
+  "total_items_ai_raw": 20,
+  "total_items_raw": 2704,
+  "total_items_all_mode": 2434,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 65392,
+  "archive_total": 65213,
   "site_count": 3,
-  "source_count": 10,
+  "source_count": 6,
   "site_stats": [
     {
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "count": 23,
-      "raw_count": 24
+      "count": 11,
+      "raw_count": 12
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "count": 8,
-      "raw_count": 2644
+      "raw_count": 2625
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "count": 0,
-      "raw_count": 68
+      "raw_count": 67
     }
   ],
   "topic_tag_stats": [
     {
       "tag": "车企竞争",
-      "count": 16
+      "count": 13
     },
     {
       "tag": "新能源",
@@ -40,38 +40,131 @@
     },
     {
       "tag": "新车上市",
-      "count": 9
-    },
-    {
-      "tag": "补能电池",
-      "count": 4
-    },
-    {
-      "tag": "购车决策",
-      "count": 4
+      "count": 5
     },
     {
       "tag": "销量市场",
       "count": 4
     },
     {
-      "tag": "供应链",
+      "tag": "购车决策",
       "count": 3
+    },
+    {
+      "tag": "价格战",
+      "count": 2
     },
     {
       "tag": "智能驾驶",
       "count": 2
     },
     {
-      "tag": "价格战",
-      "count": 1
+      "tag": "补能电池",
+      "count": 2
     },
     {
-      "tag": "召回安全",
+      "tag": "供应链",
       "count": 1
     }
   ],
   "items": [
+    {
+      "id": "e43a404f821ce7af7662a0e1f04b1ac500b3705c",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "吉利星越L PLUS，搭载激光雷达+空悬+后轮转向，i-HEV混动抢先看",
+      "url": "http://vc.yiche.com/vplay/13111926.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T19:58:53.356885Z",
+      "last_seen_at": "2026-09-11T19:58:53.356885Z",
+      "title_original": "吉利星越L PLUS，搭载激光雷达+空悬+后轮转向，i-HEV混动抢先看",
+      "title_en": null,
+      "title_zh": "吉利星越L PLUS，搭载激光雷达+空悬+后轮转向，i-HEV混动抢先看",
+      "title_bilingual": "吉利星越L PLUS，搭载激光雷达+空悬+后轮转向，i-HEV混动抢先看",
+      "topic_tags": [
+        "新能源",
+        "智能驾驶",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "2f88a0563f43f532a98026e2bad996cdc37182f8",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "小米澎程N90动态首测。 纯电续航、充电速度、辅助驾驶实测",
+      "url": "http://vc.yiche.com/vplay/13102483.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T19:58:53.356885Z",
+      "last_seen_at": "2026-09-11T19:58:53.356885Z",
+      "title_original": "小米澎程N90动态首测。 纯电续航、充电速度、辅助驾驶实测",
+      "title_en": null,
+      "title_zh": "小米澎程N90动态首测。 纯电续航、充电速度、辅助驾驶实测",
+      "title_bilingual": "小米澎程N90动态首测。 纯电续航、充电速度、辅助驾驶实测",
+      "topic_tags": [
+        "新能源",
+        "智能驾驶",
+        "补能电池"
+      ]
+    },
+    {
+      "id": "16476152c5858e6686a0ca2e572649206ac0c702",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "时隔一年半特斯拉降价了，Model 3降5000，Model Y降10000",
+      "url": "http://vc.yiche.com/vplay/13089260.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T19:58:53.356885Z",
+      "last_seen_at": "2026-09-11T19:58:53.356885Z",
+      "title_original": "时隔一年半特斯拉降价了，Model 3降5000，Model Y降10000",
+      "title_en": null,
+      "title_zh": "时隔一年半特斯拉降价了，Model 3降5000，Model Y降10000",
+      "title_bilingual": "时隔一年半特斯拉降价了，Model 3降5000，Model Y降10000",
+      "topic_tags": [
+        "价格战",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "50b00b4a7dcf192701816b1bda800c1cea9e79d3",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "宁德时代大电池，豪车悬架，十几万的长安启源Q06，卖贵了吗？",
+      "url": "http://vc.yiche.com/vplay/13109546.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T19:58:53.356885Z",
+      "last_seen_at": "2026-09-11T19:58:53.356885Z",
+      "title_original": "宁德时代大电池，豪车悬架，十几万的长安启源Q06，卖贵了吗？",
+      "title_en": null,
+      "title_zh": "宁德时代大电池，豪车悬架，十几万的长安启源Q06，卖贵了吗？",
+      "title_bilingual": "宁德时代大电池，豪车悬架，十几万的长安启源Q06，卖贵了吗？",
+      "topic_tags": [
+        "补能电池",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "3cd1cbab5463a8a8c8500bd705f3099207ddd333",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "小米澎程N90抢先试驾，优缺点都有 #小米澎程N90 #小米汽车",
+      "url": "http://vc.yiche.com/vplay/13095658.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T19:58:53.356885Z",
+      "last_seen_at": "2026-09-11T19:58:53.356885Z",
+      "title_original": "小米澎程N90抢先试驾，优缺点都有 #小米澎程N90 #小米汽车",
+      "title_en": null,
+      "title_zh": "小米澎程N90抢先试驾，优缺点都有 #小米澎程N90 #小米汽车",
+      "title_bilingual": "小米澎程N90抢先试驾，优缺点都有 #小米澎程N90 #小米汽车",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
     {
       "id": "8339b69b97c2272f79d13ccc23a0a398d3b8ffe3",
       "site_id": "tophub",
@@ -81,7 +174,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/d9a051bd642595a6/115768250-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-11T17:29:42.480563Z",
-      "last_seen_at": "2026-09-11T17:29:42.480563Z",
+      "last_seen_at": "2026-09-11T19:58:53.356885Z",
       "title_original": "底盘非常扎实 探岳提车作业分享",
       "title_en": null,
       "title_zh": "底盘非常扎实 探岳提车作业分享",
@@ -100,7 +193,7 @@
       "url": "https://cnevpost.com/2026/09/11/mg-07-locked-in-orders-42000-20-days",
       "published_at": "2026-09-11T12:21:12Z",
       "first_seen_at": "2026-09-11T13:43:11.130741Z",
-      "last_seen_at": "2026-09-11T17:29:42.480563Z",
+      "last_seen_at": "2026-09-11T19:58:53.356885Z",
       "title_original": "MG 07 locked-in orders top 42,000 in 20 days after launch",
       "title_en": "MG 07 locked-in orders top 42,000 in 20 days after launch",
       "title_zh": "名爵07上市20天锁定订单突破4.2万辆",
@@ -120,7 +213,7 @@
       "url": "https://carnewschina.com/2026/09/11/byd-sealion-08-shipments-underway-across-china",
       "published_at": "2026-09-11T12:10:34Z",
       "first_seen_at": "2026-09-11T13:43:11.130741Z",
-      "last_seen_at": "2026-09-11T17:29:42.480563Z",
+      "last_seen_at": "2026-09-11T19:58:53.356885Z",
       "title_original": "BYD Sealion 08 shipments underway across China",
       "title_en": "BYD Sealion 08 shipments underway across China",
       "title_zh": "比亚迪海狮08正在全国发货",
@@ -139,7 +232,7 @@
       "url": "https://carnewschina.com/2026/09/11/byd-orders-10-more-vessels-with-capacity-for-9200-cars-each-report-says",
       "published_at": "2026-09-11T10:26:25Z",
       "first_seen_at": "2026-09-11T13:43:11.130741Z",
-      "last_seen_at": "2026-09-11T17:29:42.480563Z",
+      "last_seen_at": "2026-09-11T19:58:53.356885Z",
       "title_original": "BYD orders 10 more vessels with capacity for 9,200 cars each, report says",
       "title_en": "BYD orders 10 more vessels with capacity for 9,200 cars each, report says",
       "title_zh": "报告称，比亚迪再订购10艘船，每艘船可容纳9,200辆汽车",
@@ -158,7 +251,7 @@
       "url": "https://www.dongchedi.com/article/7682742324410450456",
       "published_at": null,
       "first_seen_at": "2026-09-11T09:26:52.137038Z",
-      "last_seen_at": "2026-09-11T17:29:42.480563Z",
+      "last_seen_at": "2026-09-11T19:58:53.356885Z",
       "title_original": "懂车帝联合Car4Fun举办山路圈速挑战",
       "title_en": null,
       "title_zh": "懂车帝联合Car4Fun举办山路圈速挑战",
@@ -174,7 +267,7 @@
       "url": "https://www.dongchedi.com/article/7682215069510304318",
       "published_at": null,
       "first_seen_at": "2026-09-11T09:26:52.137038Z",
-      "last_seen_at": "2026-09-11T17:29:42.480563Z",
+      "last_seen_at": "2026-09-11T19:58:53.356885Z",
       "title_original": "奇瑞智能化“关键先生”谢保军被曝离职",
       "title_en": null,
       "title_zh": "奇瑞智能化“关键先生”谢保军被曝离职",
@@ -192,7 +285,7 @@
       "url": "https://cnevpost.com/2026/09/11/faw-vw-launch-id-aura-t6-sept-20",
       "published_at": "2026-09-11T07:27:54Z",
       "first_seen_at": "2026-09-11T09:26:52.137038Z",
-      "last_seen_at": "2026-09-11T17:29:42.480563Z",
+      "last_seen_at": "2026-09-11T19:58:53.356885Z",
       "title_original": "FAW-VW to launch ID. AURA T6 electric SUV on September 20",
       "title_en": "FAW-VW to launch ID. AURA T6 electric SUV on September 20",
       "title_zh": "一汽-大众推出ID. AURA T6电动SUV将于9月20日上市",
@@ -212,7 +305,7 @@
       "url": "https://cnevpost.com/2026/09/11/nio-onvo-launches-l80-styling-package",
       "published_at": "2026-09-11T05:58:07Z",
       "first_seen_at": "2026-09-11T09:26:52.137038Z",
-      "last_seen_at": "2026-09-11T17:29:42.480563Z",
+      "last_seen_at": "2026-09-11T19:58:53.356885Z",
       "title_original": "Nio Onvo launches L80 styling package, echoing Firefly's strategy to boost appeal",
       "title_en": "Nio Onvo launches L80 styling package, echoing Firefly's strategy to boost appeal",
       "title_zh": "Nio Onvo推出L80造型套件，呼应Firefly提升吸引力的策略",
@@ -231,7 +324,7 @@
       "url": "https://cnevpost.com/2026/09/11/xpeng-first-right-hand-drive-g9l-roll-off-line",
       "published_at": "2026-09-11T03:36:31Z",
       "first_seen_at": "2026-09-11T04:58:22.129237Z",
-      "last_seen_at": "2026-09-11T17:29:42.480563Z",
+      "last_seen_at": "2026-09-11T19:58:53.356885Z",
       "title_original": "Xpeng's first right-hand-drive G9L SUVs roll off production line, bound for Australia",
       "title_en": "Xpeng's first right-hand-drive G9L SUVs roll off production line, bound for Australia",
       "title_zh": "小鹏汽车首款右驾SUV G9L下线 发往澳大利亚",
@@ -251,7 +344,7 @@
       "url": "https://carnewschina.com/2026/09/11/mg-07-passes-42000-locked-orders-in-china-after-20-days",
       "published_at": "2026-09-11T02:39:04Z",
       "first_seen_at": "2026-09-11T04:58:22.129237Z",
-      "last_seen_at": "2026-09-11T17:29:42.480563Z",
+      "last_seen_at": "2026-09-11T19:58:53.356885Z",
       "title_original": "MG 07 passes 42,000 locked orders in China after 20 days",
       "title_en": "MG 07 passes 42,000 locked orders in China after 20 days",
       "title_zh": "名爵07国内锁定订单20天突破4.2万辆",
@@ -270,7 +363,7 @@
       "url": "https://cnevpost.com/2026/09/11/china-unveils-five-year-nev-plan",
       "published_at": "2026-09-11T02:03:27Z",
       "first_seen_at": "2026-09-11T04:58:22.129237Z",
-      "last_seen_at": "2026-09-11T17:29:42.480563Z",
+      "last_seen_at": "2026-09-11T19:58:53.356885Z",
       "title_original": "China unveils five-year NEV plan, targets 70% share of passenger-car sales by 2030",
       "title_en": "China unveils five-year NEV plan, targets 70% share of passenger-car sales by 2030",
       "title_zh": "中国公布新能源汽车五年计划 目标到2030年占乘用车销量的70%",
@@ -290,7 +383,7 @@
       "url": "https://carnewschina.com/2026/09/11/geely-galaxy-tt-launches-800v-architecture-and-3-8s-0-100-km-h-starting-at-19100-usd",
       "published_at": "2026-09-11T01:13:51Z",
       "first_seen_at": "2026-09-11T04:58:22.129237Z",
-      "last_seen_at": "2026-09-11T17:29:42.480563Z",
+      "last_seen_at": "2026-09-11T19:58:53.356885Z",
       "title_original": "Geely Galaxy TT launches: 800V Architecture and 3.8s 0-100 km/h starting at 19,100 USD",
       "title_en": "Geely Galaxy TT launches: 800V Architecture and 3.8s 0-100 km/h starting at 19,100 USD",
       "title_zh": "吉利 Galaxy TT 推出：800V 架构和 3.8 秒 0-100 公里/小时起价 19,100 美元",
@@ -309,7 +402,7 @@
       "url": "https://cnevpost.com/2026/09/11/tesla-launches-model-y-performance-china",
       "published_at": "2026-09-11T00:56:57Z",
       "first_seen_at": "2026-09-11T04:58:22.129237Z",
-      "last_seen_at": "2026-09-11T17:29:42.480563Z",
+      "last_seen_at": "2026-09-11T19:58:53.356885Z",
       "title_original": "Tesla launches Model Y Performance in China as sales of key SUV weaken",
       "title_en": "Tesla launches Model Y Performance in China as sales of key SUV weaken",
       "title_zh": "特斯拉在中国推出 Model Y Performance，主力 SUV 销量疲软",
@@ -330,7 +423,7 @@
       "url": "https://auto.gasgoo.com/news/202609/10I70471715C109.shtml",
       "published_at": "2026-09-10T23:21:45Z",
       "first_seen_at": "2026-09-11T17:29:42.480563Z",
-      "last_seen_at": "2026-09-11T17:29:42.480563Z",
+      "last_seen_at": "2026-09-11T19:58:53.356885Z",
       "title_original": "12.99万元起，吉利银河TT上市15分钟大定突破10000台",
       "title_en": null,
       "title_zh": "12.99万元起，吉利银河TT上市15分钟大定突破10000台",
@@ -338,324 +431,109 @@
       "topic_tags": [
         "价格战",
         "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "57073010ee06d28b34e3d7d02ba727866d0807da",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "钛9该卖多少钱？这道题，比亚迪自己也不好答",
-      "url": "http://vc.yiche.com/vplay/13107257.html",
-      "published_at": null,
-      "first_seen_at": "2026-09-10T19:55:45.501079Z",
-      "last_seen_at": "2026-09-11T17:29:42.480563Z",
-      "title_original": "钛9该卖多少钱？这道题，比亚迪自己也不好答",
-      "title_en": null,
-      "title_zh": "钛9该卖多少钱？这道题，比亚迪自己也不好答",
-      "title_bilingual": "钛9该卖多少钱？这道题，比亚迪自己也不好答",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "b64510cca18bb4170083f64521f1f43f9c1b7dbd",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "鎏金覆顶墨绿沉静 一款MPV藏着一个家的从容 抢先体验高山8新版本",
-      "url": "http://vc.yiche.com/vplay/13112136.html",
-      "published_at": null,
-      "first_seen_at": "2026-09-10T19:55:45.501079Z",
-      "last_seen_at": "2026-09-11T17:29:42.480563Z",
-      "title_original": "鎏金覆顶墨绿沉静 一款MPV藏着一个家的从容 抢先体验高山8新版本",
-      "title_en": null,
-      "title_zh": "鎏金覆顶墨绿沉静 一款MPV藏着一个家的从容 抢先体验高山8新版本",
-      "title_bilingual": "鎏金覆顶墨绿沉静 一款MPV藏着一个家的从容 抢先体验高山8新版本",
-      "topic_tags": [
-        "购车决策",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "a927e83c80bc25447e6a71137d960d7fa1026683",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "长城H10为什么这么火？",
-      "url": "http://vc.yiche.com/vplay/13076436.html",
-      "published_at": null,
-      "first_seen_at": "2026-09-10T19:55:45.501079Z",
-      "last_seen_at": "2026-09-11T17:29:42.480563Z",
-      "title_original": "长城H10为什么这么火？",
-      "title_en": null,
-      "title_zh": "长城H10为什么这么火？",
-      "title_bilingual": "长城H10为什么这么火？",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "18ed972c1999ce783b3a1e0af14aed39f1f87ea7",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "20.99的低配也好开么？ 试驾小米澎程N70 Pro/N90 Max",
-      "url": "http://vc.yiche.com/vplay/13110554.html",
-      "published_at": null,
-      "first_seen_at": "2026-09-10T19:55:45.501079Z",
-      "last_seen_at": "2026-09-11T17:29:42.480563Z",
-      "title_original": "20.99的低配也好开么？ 试驾小米澎程N70 Pro/N90 Max",
-      "title_en": null,
-      "title_zh": "20.99的低配也好开么？ 试驾小米澎程N70 Pro/N90 Max",
-      "title_bilingual": "20.99的低配也好开么？ 试驾小米澎程N70 Pro/N90 Max",
-      "topic_tags": [
-        "购车决策"
-      ]
-    },
-    {
-      "id": "4bd16671154a4ed580caebf40527706245617640",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "廉价版特斯拉来了，真是把穷刻在脑门上",
-      "url": "http://vc.yiche.com/vplay/13091024.html",
-      "published_at": null,
-      "first_seen_at": "2026-09-10T19:55:45.501079Z",
-      "last_seen_at": "2026-09-11T17:29:42.480563Z",
-      "title_original": "廉价版特斯拉来了，真是把穷刻在脑门上",
-      "title_en": null,
-      "title_zh": "廉价版特斯拉来了，真是把穷刻在脑门上",
-      "title_bilingual": "廉价版特斯拉来了，真是把穷刻在脑门上",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "759342524bdcf6ab7697c5dcadd2c7af6d62242a",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Another major Chinese automaker heads to Europe: debut in October, sales later this year",
-      "url": "https://carnewschina.com/2026/09/10/another-major-chinese-automaker-heads-to-europe-debut-in-october-sales-later-this-year",
-      "published_at": "2026-09-10T18:41:27Z",
-      "first_seen_at": "2026-09-10T19:55:45.501079Z",
-      "last_seen_at": "2026-09-11T17:29:42.480563Z",
-      "title_original": "Another major Chinese automaker heads to Europe: debut in October, sales later this year",
-      "title_en": "Another major Chinese automaker heads to Europe: debut in October, sales later this year",
-      "title_zh": "又一家中国大型汽车制造商进军欧洲：10月上市，今年晚些时候销售",
-      "title_bilingual": "又一家中国大型汽车制造商进军欧洲：10月上市，今年晚些时候销售 / Another major Chinese automaker heads to Europe: debut in October, sales later this year",
-      "topic_tags": [
-        "新能源",
-        "供应链",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "5455d3c1d71ef6c50a443b0d5ddb864ceeb0d82c",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "车企争抢人形机器人 先撞上续航成本与数字化门槛",
-      "url": "https://auto.gasgoo.com/news/202609/10I70471708C108.shtml",
-      "published_at": "2026-09-10T18:25:36Z",
-      "first_seen_at": "2026-09-11T13:43:11.130741Z",
-      "last_seen_at": "2026-09-11T17:29:42.480563Z",
-      "title_original": "车企争抢人形机器人 先撞上续航成本与数字化门槛",
-      "title_en": null,
-      "title_zh": "车企争抢人形机器人 先撞上续航成本与数字化门槛",
-      "title_bilingual": "车企争抢人形机器人 先撞上续航成本与数字化门槛",
-      "topic_tags": [
-        "补能电池",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "70a2b49216555d9ff08042206ace30aa294a0405",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "停产五年后，众泰把命运押向海外",
-      "url": "https://auto.gasgoo.com/news/202609/10I70471671C109.shtml",
-      "published_at": "2026-09-10T18:18:13Z",
-      "first_seen_at": "2026-09-11T13:43:11.130741Z",
-      "last_seen_at": "2026-09-11T17:29:42.480563Z",
-      "title_original": "停产五年后，众泰把命运押向海外",
-      "title_en": null,
-      "title_zh": "停产五年后，众泰把命运押向海外",
-      "title_bilingual": "停产五年后，众泰把命运押向海外",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "c62d63f045c220df1d5a57561b5666999d616f27",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新技术",
-      "title": "Motional发布开源数据集nuReasoning 助力自动驾驶车辆掌握类人推理能力",
-      "url": "https://auto.gasgoo.com/news/202609/10I70471705C409.shtml",
-      "published_at": "2026-09-10T18:06:55Z",
-      "first_seen_at": "2026-09-11T13:43:11.130741Z",
-      "last_seen_at": "2026-09-11T17:29:42.480563Z",
-      "title_original": "Motional发布开源数据集nuReasoning 助力自动驾驶车辆掌握类人推理能力",
-      "title_en": null,
-      "title_zh": "Motional发布开源数据集nuReasoning 助力自动驾驶车辆掌握类人推理能力",
-      "title_bilingual": "Motional发布开源数据集nuReasoning 助力自动驾驶车辆掌握类人推理能力",
-      "topic_tags": [
-        "智能驾驶",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "39b9d10c027c16a714bd3f0828f3753683546606",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新技术",
-      "title": "科学家研制出用于燃料电池的超稳定催化剂",
-      "url": "https://auto.gasgoo.com/news/202609/10I70471704C409.shtml",
-      "published_at": "2026-09-10T18:04:51Z",
-      "first_seen_at": "2026-09-11T13:43:11.130741Z",
-      "last_seen_at": "2026-09-11T17:29:42.480563Z",
-      "title_original": "科学家研制出用于燃料电池的超稳定催化剂",
-      "title_en": null,
-      "title_zh": "科学家研制出用于燃料电池的超稳定催化剂",
-      "title_bilingual": "科学家研制出用于燃料电池的超稳定催化剂",
-      "topic_tags": [
-        "补能电池"
-      ]
-    },
-    {
-      "id": "bdb839ed1442d9b90fcde7103b83e43efb6e2130",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "BYD to develop Blade batteries for industrial rail locomotives in China",
-      "url": "https://carnewschina.com/2026/09/10/byds-to-develop-blade-batteries-for-industrial-rail-locomotives-in-china",
-      "published_at": "2026-09-10T18:02:36Z",
-      "first_seen_at": "2026-09-10T19:55:45.501079Z",
-      "last_seen_at": "2026-09-11T17:29:42.480563Z",
-      "title_original": "BYD to develop Blade batteries for industrial rail locomotives in China",
-      "title_en": "BYD to develop Blade batteries for industrial rail locomotives in China",
-      "title_zh": "比亚迪将为中国工业轨道机车开发刀片电池",
-      "title_bilingual": "比亚迪将为中国工业轨道机车开发刀片电池 / BYD to develop Blade batteries for industrial rail locomotives in China",
-      "topic_tags": [
-        "新能源",
-        "补能电池",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "885c6dc73647cbb499257e9f88d6bb2c7e8ac79f",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "启境回应“攻防”信息误发：承认处置不专业，称并非策划攻击友商",
-      "url": "https://auto.gasgoo.com/news/202609/10I70471700C109.shtml",
-      "published_at": "2026-09-10T17:59:44Z",
-      "first_seen_at": "2026-09-11T13:43:11.130741Z",
-      "last_seen_at": "2026-09-11T17:29:42.480563Z",
-      "title_original": "启境回应“攻防”信息误发：承认处置不专业，称并非策划攻击友商",
-      "title_en": null,
-      "title_zh": "启境回应“攻防”信息误发：承认处置不专业，称并非策划攻击友商",
-      "title_bilingual": "启境回应“攻防”信息误发：承认处置不专业，称并非策划攻击友商",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "a4ddc7c4f3002d72bea85032ee0be3303639986d",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新技术",
-      "title": "英飞凌推出新款OPTIREG™ TLE9744QK电源管理IC",
-      "url": "https://auto.gasgoo.com/news/202609/10I70471699C409.shtml",
-      "published_at": "2026-09-10T17:57:10Z",
-      "first_seen_at": "2026-09-11T13:43:11.130741Z",
-      "last_seen_at": "2026-09-11T17:29:42.480563Z",
-      "title_original": "英飞凌推出新款OPTIREG™ TLE9744QK电源管理IC",
-      "title_en": null,
-      "title_zh": "英飞凌推出新款OPTIREG™ TLE9744QK电源管理IC",
-      "title_bilingual": "英飞凌推出新款OPTIREG™ TLE9744QK电源管理IC",
-      "topic_tags": []
-    },
-    {
-      "id": "c312c36ae4365b9821e5df5b00309ea889c7242d",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新技术",
-      "title": "森萨塔推出用于商用电动汽车充电的OmniNode",
-      "url": "https://auto.gasgoo.com/news/202609/10I70471698C409.shtml",
-      "published_at": "2026-09-10T17:55:42Z",
-      "first_seen_at": "2026-09-11T13:43:11.130741Z",
-      "last_seen_at": "2026-09-11T17:29:42.480563Z",
-      "title_original": "森萨塔推出用于商用电动汽车充电的OmniNode",
-      "title_en": null,
-      "title_zh": "森萨塔推出用于商用电动汽车充电的OmniNode",
-      "title_bilingual": "森萨塔推出用于商用电动汽车充电的OmniNode",
-      "topic_tags": [
-        "补能电池"
-      ]
-    },
-    {
-      "id": "38c1ed099bb833669557a82122be0e2c80fd89fb",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新技术",
-      "title": "通用汽车推出电动汽车制造中泄漏检测的前沿解决方案BVSeal系统",
-      "url": "https://auto.gasgoo.com/news/202609/10I70471696C409.shtml",
-      "published_at": "2026-09-10T17:53:03Z",
-      "first_seen_at": "2026-09-11T13:43:11.130741Z",
-      "last_seen_at": "2026-09-11T17:29:42.480563Z",
-      "title_original": "通用汽车推出电动汽车制造中泄漏检测的前沿解决方案BVSeal系统",
-      "title_en": null,
-      "title_zh": "通用汽车推出电动汽车制造中泄漏检测的前沿解决方案BVSeal系统",
-      "title_bilingual": "通用汽车推出电动汽车制造中泄漏检测的前沿解决方案BVSeal系统",
-      "topic_tags": [
-        "供应链"
-      ]
-    },
-    {
-      "id": "e9e9bc548aa295ea20171a92efe1b9f48f289ea9",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-智能网联",
-      "title": "小马智行联合Verne启动欧洲首例全无人Robotaxi载客测试",
-      "url": "https://auto.gasgoo.com/news/202609/10I70471697C601.shtml",
-      "published_at": "2026-09-10T17:39:26Z",
-      "first_seen_at": "2026-09-11T13:43:11.130741Z",
-      "last_seen_at": "2026-09-11T17:29:42.480563Z",
-      "title_original": "小马智行联合Verne启动欧洲首例全无人Robotaxi载客测试",
-      "title_en": null,
-      "title_zh": "小马智行联合Verne启动欧洲首例全无人Robotaxi载客测试",
-      "title_bilingual": "小马智行联合Verne启动欧洲首例全无人Robotaxi载客测试",
-      "topic_tags": [
-        "智能驾驶",
-        "召回安全"
-      ]
-    },
-    {
-      "id": "6027de2af0b69cbfa0208f5e18626cb857bbda24",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新技术",
-      "title": "海克斯康发布新一代OPTIV S 4.4.3光学三坐标测量机",
-      "url": "https://auto.gasgoo.com/news/202609/10I70471695C409.shtml",
-      "published_at": "2026-09-10T17:32:19Z",
-      "first_seen_at": "2026-09-11T13:43:11.130741Z",
-      "last_seen_at": "2026-09-11T17:29:42.480563Z",
-      "title_original": "海克斯康发布新一代OPTIV S 4.4.3光学三坐标测量机",
-      "title_en": null,
-      "title_zh": "海克斯康发布新一代OPTIV S 4.4.3光学三坐标测量机",
-      "title_bilingual": "海克斯康发布新一代OPTIV S 4.4.3光学三坐标测量机",
-      "topic_tags": [
         "新车上市"
       ]
     }
   ],
   "items_ai": [
     {
+      "id": "e43a404f821ce7af7662a0e1f04b1ac500b3705c",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "吉利星越L PLUS，搭载激光雷达+空悬+后轮转向，i-HEV混动抢先看",
+      "url": "http://vc.yiche.com/vplay/13111926.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T19:58:53.356885Z",
+      "last_seen_at": "2026-09-11T19:58:53.356885Z",
+      "title_original": "吉利星越L PLUS，搭载激光雷达+空悬+后轮转向，i-HEV混动抢先看",
+      "title_en": null,
+      "title_zh": "吉利星越L PLUS，搭载激光雷达+空悬+后轮转向，i-HEV混动抢先看",
+      "title_bilingual": "吉利星越L PLUS，搭载激光雷达+空悬+后轮转向，i-HEV混动抢先看",
+      "topic_tags": [
+        "新能源",
+        "智能驾驶",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "2f88a0563f43f532a98026e2bad996cdc37182f8",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "小米澎程N90动态首测。 纯电续航、充电速度、辅助驾驶实测",
+      "url": "http://vc.yiche.com/vplay/13102483.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T19:58:53.356885Z",
+      "last_seen_at": "2026-09-11T19:58:53.356885Z",
+      "title_original": "小米澎程N90动态首测。 纯电续航、充电速度、辅助驾驶实测",
+      "title_en": null,
+      "title_zh": "小米澎程N90动态首测。 纯电续航、充电速度、辅助驾驶实测",
+      "title_bilingual": "小米澎程N90动态首测。 纯电续航、充电速度、辅助驾驶实测",
+      "topic_tags": [
+        "新能源",
+        "智能驾驶",
+        "补能电池"
+      ]
+    },
+    {
+      "id": "16476152c5858e6686a0ca2e572649206ac0c702",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "时隔一年半特斯拉降价了，Model 3降5000，Model Y降10000",
+      "url": "http://vc.yiche.com/vplay/13089260.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T19:58:53.356885Z",
+      "last_seen_at": "2026-09-11T19:58:53.356885Z",
+      "title_original": "时隔一年半特斯拉降价了，Model 3降5000，Model Y降10000",
+      "title_en": null,
+      "title_zh": "时隔一年半特斯拉降价了，Model 3降5000，Model Y降10000",
+      "title_bilingual": "时隔一年半特斯拉降价了，Model 3降5000，Model Y降10000",
+      "topic_tags": [
+        "价格战",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "50b00b4a7dcf192701816b1bda800c1cea9e79d3",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "宁德时代大电池，豪车悬架，十几万的长安启源Q06，卖贵了吗？",
+      "url": "http://vc.yiche.com/vplay/13109546.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T19:58:53.356885Z",
+      "last_seen_at": "2026-09-11T19:58:53.356885Z",
+      "title_original": "宁德时代大电池，豪车悬架，十几万的长安启源Q06，卖贵了吗？",
+      "title_en": null,
+      "title_zh": "宁德时代大电池，豪车悬架，十几万的长安启源Q06，卖贵了吗？",
+      "title_bilingual": "宁德时代大电池，豪车悬架，十几万的长安启源Q06，卖贵了吗？",
+      "topic_tags": [
+        "补能电池",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "3cd1cbab5463a8a8c8500bd705f3099207ddd333",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "小米澎程N90抢先试驾，优缺点都有 #小米澎程N90 #小米汽车",
+      "url": "http://vc.yiche.com/vplay/13095658.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T19:58:53.356885Z",
+      "last_seen_at": "2026-09-11T19:58:53.356885Z",
+      "title_original": "小米澎程N90抢先试驾，优缺点都有 #小米澎程N90 #小米汽车",
+      "title_en": null,
+      "title_zh": "小米澎程N90抢先试驾，优缺点都有 #小米澎程N90 #小米汽车",
+      "title_bilingual": "小米澎程N90抢先试驾，优缺点都有 #小米澎程N90 #小米汽车",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
       "id": "8339b69b97c2272f79d13ccc23a0a398d3b8ffe3",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -664,7 +542,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/d9a051bd642595a6/115768250-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-11T17:29:42.480563Z",
-      "last_seen_at": "2026-09-11T17:29:42.480563Z",
+      "last_seen_at": "2026-09-11T19:58:53.356885Z",
       "title_original": "底盘非常扎实 探岳提车作业分享",
       "title_en": null,
       "title_zh": "底盘非常扎实 探岳提车作业分享",
@@ -683,7 +561,7 @@
       "url": "https://cnevpost.com/2026/09/11/mg-07-locked-in-orders-42000-20-days",
       "published_at": "2026-09-11T12:21:12Z",
       "first_seen_at": "2026-09-11T13:43:11.130741Z",
-      "last_seen_at": "2026-09-11T17:29:42.480563Z",
+      "last_seen_at": "2026-09-11T19:58:53.356885Z",
       "title_original": "MG 07 locked-in orders top 42,000 in 20 days after launch",
       "title_en": "MG 07 locked-in orders top 42,000 in 20 days after launch",
       "title_zh": "名爵07上市20天锁定订单突破4.2万辆",
@@ -703,7 +581,7 @@
       "url": "https://carnewschina.com/2026/09/11/byd-sealion-08-shipments-underway-across-china",
       "published_at": "2026-09-11T12:10:34Z",
       "first_seen_at": "2026-09-11T13:43:11.130741Z",
-      "last_seen_at": "2026-09-11T17:29:42.480563Z",
+      "last_seen_at": "2026-09-11T19:58:53.356885Z",
       "title_original": "BYD Sealion 08 shipments underway across China",
       "title_en": "BYD Sealion 08 shipments underway across China",
       "title_zh": "比亚迪海狮08正在全国发货",
@@ -722,7 +600,7 @@
       "url": "https://carnewschina.com/2026/09/11/byd-orders-10-more-vessels-with-capacity-for-9200-cars-each-report-says",
       "published_at": "2026-09-11T10:26:25Z",
       "first_seen_at": "2026-09-11T13:43:11.130741Z",
-      "last_seen_at": "2026-09-11T17:29:42.480563Z",
+      "last_seen_at": "2026-09-11T19:58:53.356885Z",
       "title_original": "BYD orders 10 more vessels with capacity for 9,200 cars each, report says",
       "title_en": "BYD orders 10 more vessels with capacity for 9,200 cars each, report says",
       "title_zh": "报告称，比亚迪再订购10艘船，每艘船可容纳9,200辆汽车",
@@ -741,7 +619,7 @@
       "url": "https://www.dongchedi.com/article/7682742324410450456",
       "published_at": null,
       "first_seen_at": "2026-09-11T09:26:52.137038Z",
-      "last_seen_at": "2026-09-11T17:29:42.480563Z",
+      "last_seen_at": "2026-09-11T19:58:53.356885Z",
       "title_original": "懂车帝联合Car4Fun举办山路圈速挑战",
       "title_en": null,
       "title_zh": "懂车帝联合Car4Fun举办山路圈速挑战",
@@ -757,7 +635,7 @@
       "url": "https://www.dongchedi.com/article/7682215069510304318",
       "published_at": null,
       "first_seen_at": "2026-09-11T09:26:52.137038Z",
-      "last_seen_at": "2026-09-11T17:29:42.480563Z",
+      "last_seen_at": "2026-09-11T19:58:53.356885Z",
       "title_original": "奇瑞智能化“关键先生”谢保军被曝离职",
       "title_en": null,
       "title_zh": "奇瑞智能化“关键先生”谢保军被曝离职",
@@ -775,7 +653,7 @@
       "url": "https://cnevpost.com/2026/09/11/faw-vw-launch-id-aura-t6-sept-20",
       "published_at": "2026-09-11T07:27:54Z",
       "first_seen_at": "2026-09-11T09:26:52.137038Z",
-      "last_seen_at": "2026-09-11T17:29:42.480563Z",
+      "last_seen_at": "2026-09-11T19:58:53.356885Z",
       "title_original": "FAW-VW to launch ID. AURA T6 electric SUV on September 20",
       "title_en": "FAW-VW to launch ID. AURA T6 electric SUV on September 20",
       "title_zh": "一汽-大众推出ID. AURA T6电动SUV将于9月20日上市",
@@ -795,7 +673,7 @@
       "url": "https://cnevpost.com/2026/09/11/nio-onvo-launches-l80-styling-package",
       "published_at": "2026-09-11T05:58:07Z",
       "first_seen_at": "2026-09-11T09:26:52.137038Z",
-      "last_seen_at": "2026-09-11T17:29:42.480563Z",
+      "last_seen_at": "2026-09-11T19:58:53.356885Z",
       "title_original": "Nio Onvo launches L80 styling package, echoing Firefly's strategy to boost appeal",
       "title_en": "Nio Onvo launches L80 styling package, echoing Firefly's strategy to boost appeal",
       "title_zh": "Nio Onvo推出L80造型套件，呼应Firefly提升吸引力的策略",
@@ -814,7 +692,7 @@
       "url": "https://cnevpost.com/2026/09/11/xpeng-first-right-hand-drive-g9l-roll-off-line",
       "published_at": "2026-09-11T03:36:31Z",
       "first_seen_at": "2026-09-11T04:58:22.129237Z",
-      "last_seen_at": "2026-09-11T17:29:42.480563Z",
+      "last_seen_at": "2026-09-11T19:58:53.356885Z",
       "title_original": "Xpeng's first right-hand-drive G9L SUVs roll off production line, bound for Australia",
       "title_en": "Xpeng's first right-hand-drive G9L SUVs roll off production line, bound for Australia",
       "title_zh": "小鹏汽车首款右驾SUV G9L下线 发往澳大利亚",
@@ -834,7 +712,7 @@
       "url": "https://carnewschina.com/2026/09/11/mg-07-passes-42000-locked-orders-in-china-after-20-days",
       "published_at": "2026-09-11T02:39:04Z",
       "first_seen_at": "2026-09-11T04:58:22.129237Z",
-      "last_seen_at": "2026-09-11T17:29:42.480563Z",
+      "last_seen_at": "2026-09-11T19:58:53.356885Z",
       "title_original": "MG 07 passes 42,000 locked orders in China after 20 days",
       "title_en": "MG 07 passes 42,000 locked orders in China after 20 days",
       "title_zh": "名爵07国内锁定订单20天突破4.2万辆",
@@ -853,7 +731,7 @@
       "url": "https://cnevpost.com/2026/09/11/china-unveils-five-year-nev-plan",
       "published_at": "2026-09-11T02:03:27Z",
       "first_seen_at": "2026-09-11T04:58:22.129237Z",
-      "last_seen_at": "2026-09-11T17:29:42.480563Z",
+      "last_seen_at": "2026-09-11T19:58:53.356885Z",
       "title_original": "China unveils five-year NEV plan, targets 70% share of passenger-car sales by 2030",
       "title_en": "China unveils five-year NEV plan, targets 70% share of passenger-car sales by 2030",
       "title_zh": "中国公布新能源汽车五年计划 目标到2030年占乘用车销量的70%",
@@ -873,7 +751,7 @@
       "url": "https://carnewschina.com/2026/09/11/geely-galaxy-tt-launches-800v-architecture-and-3-8s-0-100-km-h-starting-at-19100-usd",
       "published_at": "2026-09-11T01:13:51Z",
       "first_seen_at": "2026-09-11T04:58:22.129237Z",
-      "last_seen_at": "2026-09-11T17:29:42.480563Z",
+      "last_seen_at": "2026-09-11T19:58:53.356885Z",
       "title_original": "Geely Galaxy TT launches: 800V Architecture and 3.8s 0-100 km/h starting at 19,100 USD",
       "title_en": "Geely Galaxy TT launches: 800V Architecture and 3.8s 0-100 km/h starting at 19,100 USD",
       "title_zh": "吉利 Galaxy TT 推出：800V 架构和 3.8 秒 0-100 公里/小时起价 19,100 美元",
@@ -892,7 +770,7 @@
       "url": "https://cnevpost.com/2026/09/11/tesla-launches-model-y-performance-china",
       "published_at": "2026-09-11T00:56:57Z",
       "first_seen_at": "2026-09-11T04:58:22.129237Z",
-      "last_seen_at": "2026-09-11T17:29:42.480563Z",
+      "last_seen_at": "2026-09-11T19:58:53.356885Z",
       "title_original": "Tesla launches Model Y Performance in China as sales of key SUV weaken",
       "title_en": "Tesla launches Model Y Performance in China as sales of key SUV weaken",
       "title_zh": "特斯拉在中国推出 Model Y Performance，主力 SUV 销量疲软",
@@ -913,7 +791,7 @@
       "url": "https://auto.gasgoo.com/news/202609/10I70471715C109.shtml",
       "published_at": "2026-09-10T23:21:45Z",
       "first_seen_at": "2026-09-11T17:29:42.480563Z",
-      "last_seen_at": "2026-09-11T17:29:42.480563Z",
+      "last_seen_at": "2026-09-11T19:58:53.356885Z",
       "title_original": "12.99万元起，吉利银河TT上市15分钟大定突破10000台",
       "title_en": null,
       "title_zh": "12.99万元起，吉利银河TT上市15分钟大定突破10000台",
@@ -921,318 +799,6 @@
       "topic_tags": [
         "价格战",
         "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "57073010ee06d28b34e3d7d02ba727866d0807da",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "钛9该卖多少钱？这道题，比亚迪自己也不好答",
-      "url": "http://vc.yiche.com/vplay/13107257.html",
-      "published_at": null,
-      "first_seen_at": "2026-09-10T19:55:45.501079Z",
-      "last_seen_at": "2026-09-11T17:29:42.480563Z",
-      "title_original": "钛9该卖多少钱？这道题，比亚迪自己也不好答",
-      "title_en": null,
-      "title_zh": "钛9该卖多少钱？这道题，比亚迪自己也不好答",
-      "title_bilingual": "钛9该卖多少钱？这道题，比亚迪自己也不好答",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "b64510cca18bb4170083f64521f1f43f9c1b7dbd",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "鎏金覆顶墨绿沉静 一款MPV藏着一个家的从容 抢先体验高山8新版本",
-      "url": "http://vc.yiche.com/vplay/13112136.html",
-      "published_at": null,
-      "first_seen_at": "2026-09-10T19:55:45.501079Z",
-      "last_seen_at": "2026-09-11T17:29:42.480563Z",
-      "title_original": "鎏金覆顶墨绿沉静 一款MPV藏着一个家的从容 抢先体验高山8新版本",
-      "title_en": null,
-      "title_zh": "鎏金覆顶墨绿沉静 一款MPV藏着一个家的从容 抢先体验高山8新版本",
-      "title_bilingual": "鎏金覆顶墨绿沉静 一款MPV藏着一个家的从容 抢先体验高山8新版本",
-      "topic_tags": [
-        "购车决策",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "a927e83c80bc25447e6a71137d960d7fa1026683",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "长城H10为什么这么火？",
-      "url": "http://vc.yiche.com/vplay/13076436.html",
-      "published_at": null,
-      "first_seen_at": "2026-09-10T19:55:45.501079Z",
-      "last_seen_at": "2026-09-11T17:29:42.480563Z",
-      "title_original": "长城H10为什么这么火？",
-      "title_en": null,
-      "title_zh": "长城H10为什么这么火？",
-      "title_bilingual": "长城H10为什么这么火？",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "18ed972c1999ce783b3a1e0af14aed39f1f87ea7",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "20.99的低配也好开么？ 试驾小米澎程N70 Pro/N90 Max",
-      "url": "http://vc.yiche.com/vplay/13110554.html",
-      "published_at": null,
-      "first_seen_at": "2026-09-10T19:55:45.501079Z",
-      "last_seen_at": "2026-09-11T17:29:42.480563Z",
-      "title_original": "20.99的低配也好开么？ 试驾小米澎程N70 Pro/N90 Max",
-      "title_en": null,
-      "title_zh": "20.99的低配也好开么？ 试驾小米澎程N70 Pro/N90 Max",
-      "title_bilingual": "20.99的低配也好开么？ 试驾小米澎程N70 Pro/N90 Max",
-      "topic_tags": [
-        "购车决策"
-      ]
-    },
-    {
-      "id": "4bd16671154a4ed580caebf40527706245617640",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "廉价版特斯拉来了，真是把穷刻在脑门上",
-      "url": "http://vc.yiche.com/vplay/13091024.html",
-      "published_at": null,
-      "first_seen_at": "2026-09-10T19:55:45.501079Z",
-      "last_seen_at": "2026-09-11T17:29:42.480563Z",
-      "title_original": "廉价版特斯拉来了，真是把穷刻在脑门上",
-      "title_en": null,
-      "title_zh": "廉价版特斯拉来了，真是把穷刻在脑门上",
-      "title_bilingual": "廉价版特斯拉来了，真是把穷刻在脑门上",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "759342524bdcf6ab7697c5dcadd2c7af6d62242a",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Another major Chinese automaker heads to Europe: debut in October, sales later this year",
-      "url": "https://carnewschina.com/2026/09/10/another-major-chinese-automaker-heads-to-europe-debut-in-october-sales-later-this-year",
-      "published_at": "2026-09-10T18:41:27Z",
-      "first_seen_at": "2026-09-10T19:55:45.501079Z",
-      "last_seen_at": "2026-09-11T17:29:42.480563Z",
-      "title_original": "Another major Chinese automaker heads to Europe: debut in October, sales later this year",
-      "title_en": "Another major Chinese automaker heads to Europe: debut in October, sales later this year",
-      "title_zh": "又一家中国大型汽车制造商进军欧洲：10月上市，今年晚些时候销售",
-      "title_bilingual": "又一家中国大型汽车制造商进军欧洲：10月上市，今年晚些时候销售 / Another major Chinese automaker heads to Europe: debut in October, sales later this year",
-      "topic_tags": [
-        "新能源",
-        "供应链",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "5455d3c1d71ef6c50a443b0d5ddb864ceeb0d82c",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "车企争抢人形机器人 先撞上续航成本与数字化门槛",
-      "url": "https://auto.gasgoo.com/news/202609/10I70471708C108.shtml",
-      "published_at": "2026-09-10T18:25:36Z",
-      "first_seen_at": "2026-09-11T13:43:11.130741Z",
-      "last_seen_at": "2026-09-11T17:29:42.480563Z",
-      "title_original": "车企争抢人形机器人 先撞上续航成本与数字化门槛",
-      "title_en": null,
-      "title_zh": "车企争抢人形机器人 先撞上续航成本与数字化门槛",
-      "title_bilingual": "车企争抢人形机器人 先撞上续航成本与数字化门槛",
-      "topic_tags": [
-        "补能电池",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "70a2b49216555d9ff08042206ace30aa294a0405",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "停产五年后，众泰把命运押向海外",
-      "url": "https://auto.gasgoo.com/news/202609/10I70471671C109.shtml",
-      "published_at": "2026-09-10T18:18:13Z",
-      "first_seen_at": "2026-09-11T13:43:11.130741Z",
-      "last_seen_at": "2026-09-11T17:29:42.480563Z",
-      "title_original": "停产五年后，众泰把命运押向海外",
-      "title_en": null,
-      "title_zh": "停产五年后，众泰把命运押向海外",
-      "title_bilingual": "停产五年后，众泰把命运押向海外",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "c62d63f045c220df1d5a57561b5666999d616f27",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新技术",
-      "title": "Motional发布开源数据集nuReasoning 助力自动驾驶车辆掌握类人推理能力",
-      "url": "https://auto.gasgoo.com/news/202609/10I70471705C409.shtml",
-      "published_at": "2026-09-10T18:06:55Z",
-      "first_seen_at": "2026-09-11T13:43:11.130741Z",
-      "last_seen_at": "2026-09-11T17:29:42.480563Z",
-      "title_original": "Motional发布开源数据集nuReasoning 助力自动驾驶车辆掌握类人推理能力",
-      "title_en": null,
-      "title_zh": "Motional发布开源数据集nuReasoning 助力自动驾驶车辆掌握类人推理能力",
-      "title_bilingual": "Motional发布开源数据集nuReasoning 助力自动驾驶车辆掌握类人推理能力",
-      "topic_tags": [
-        "智能驾驶",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "39b9d10c027c16a714bd3f0828f3753683546606",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新技术",
-      "title": "科学家研制出用于燃料电池的超稳定催化剂",
-      "url": "https://auto.gasgoo.com/news/202609/10I70471704C409.shtml",
-      "published_at": "2026-09-10T18:04:51Z",
-      "first_seen_at": "2026-09-11T13:43:11.130741Z",
-      "last_seen_at": "2026-09-11T17:29:42.480563Z",
-      "title_original": "科学家研制出用于燃料电池的超稳定催化剂",
-      "title_en": null,
-      "title_zh": "科学家研制出用于燃料电池的超稳定催化剂",
-      "title_bilingual": "科学家研制出用于燃料电池的超稳定催化剂",
-      "topic_tags": [
-        "补能电池"
-      ]
-    },
-    {
-      "id": "bdb839ed1442d9b90fcde7103b83e43efb6e2130",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "BYD to develop Blade batteries for industrial rail locomotives in China",
-      "url": "https://carnewschina.com/2026/09/10/byds-to-develop-blade-batteries-for-industrial-rail-locomotives-in-china",
-      "published_at": "2026-09-10T18:02:36Z",
-      "first_seen_at": "2026-09-10T19:55:45.501079Z",
-      "last_seen_at": "2026-09-11T17:29:42.480563Z",
-      "title_original": "BYD to develop Blade batteries for industrial rail locomotives in China",
-      "title_en": "BYD to develop Blade batteries for industrial rail locomotives in China",
-      "title_zh": "比亚迪将为中国工业轨道机车开发刀片电池",
-      "title_bilingual": "比亚迪将为中国工业轨道机车开发刀片电池 / BYD to develop Blade batteries for industrial rail locomotives in China",
-      "topic_tags": [
-        "新能源",
-        "补能电池",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "885c6dc73647cbb499257e9f88d6bb2c7e8ac79f",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "启境回应“攻防”信息误发：承认处置不专业，称并非策划攻击友商",
-      "url": "https://auto.gasgoo.com/news/202609/10I70471700C109.shtml",
-      "published_at": "2026-09-10T17:59:44Z",
-      "first_seen_at": "2026-09-11T13:43:11.130741Z",
-      "last_seen_at": "2026-09-11T17:29:42.480563Z",
-      "title_original": "启境回应“攻防”信息误发：承认处置不专业，称并非策划攻击友商",
-      "title_en": null,
-      "title_zh": "启境回应“攻防”信息误发：承认处置不专业，称并非策划攻击友商",
-      "title_bilingual": "启境回应“攻防”信息误发：承认处置不专业，称并非策划攻击友商",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "a4ddc7c4f3002d72bea85032ee0be3303639986d",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新技术",
-      "title": "英飞凌推出新款OPTIREG™ TLE9744QK电源管理IC",
-      "url": "https://auto.gasgoo.com/news/202609/10I70471699C409.shtml",
-      "published_at": "2026-09-10T17:57:10Z",
-      "first_seen_at": "2026-09-11T13:43:11.130741Z",
-      "last_seen_at": "2026-09-11T17:29:42.480563Z",
-      "title_original": "英飞凌推出新款OPTIREG™ TLE9744QK电源管理IC",
-      "title_en": null,
-      "title_zh": "英飞凌推出新款OPTIREG™ TLE9744QK电源管理IC",
-      "title_bilingual": "英飞凌推出新款OPTIREG™ TLE9744QK电源管理IC",
-      "topic_tags": []
-    },
-    {
-      "id": "c312c36ae4365b9821e5df5b00309ea889c7242d",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新技术",
-      "title": "森萨塔推出用于商用电动汽车充电的OmniNode",
-      "url": "https://auto.gasgoo.com/news/202609/10I70471698C409.shtml",
-      "published_at": "2026-09-10T17:55:42Z",
-      "first_seen_at": "2026-09-11T13:43:11.130741Z",
-      "last_seen_at": "2026-09-11T17:29:42.480563Z",
-      "title_original": "森萨塔推出用于商用电动汽车充电的OmniNode",
-      "title_en": null,
-      "title_zh": "森萨塔推出用于商用电动汽车充电的OmniNode",
-      "title_bilingual": "森萨塔推出用于商用电动汽车充电的OmniNode",
-      "topic_tags": [
-        "补能电池"
-      ]
-    },
-    {
-      "id": "38c1ed099bb833669557a82122be0e2c80fd89fb",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新技术",
-      "title": "通用汽车推出电动汽车制造中泄漏检测的前沿解决方案BVSeal系统",
-      "url": "https://auto.gasgoo.com/news/202609/10I70471696C409.shtml",
-      "published_at": "2026-09-10T17:53:03Z",
-      "first_seen_at": "2026-09-11T13:43:11.130741Z",
-      "last_seen_at": "2026-09-11T17:29:42.480563Z",
-      "title_original": "通用汽车推出电动汽车制造中泄漏检测的前沿解决方案BVSeal系统",
-      "title_en": null,
-      "title_zh": "通用汽车推出电动汽车制造中泄漏检测的前沿解决方案BVSeal系统",
-      "title_bilingual": "通用汽车推出电动汽车制造中泄漏检测的前沿解决方案BVSeal系统",
-      "topic_tags": [
-        "供应链"
-      ]
-    },
-    {
-      "id": "e9e9bc548aa295ea20171a92efe1b9f48f289ea9",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-智能网联",
-      "title": "小马智行联合Verne启动欧洲首例全无人Robotaxi载客测试",
-      "url": "https://auto.gasgoo.com/news/202609/10I70471697C601.shtml",
-      "published_at": "2026-09-10T17:39:26Z",
-      "first_seen_at": "2026-09-11T13:43:11.130741Z",
-      "last_seen_at": "2026-09-11T17:29:42.480563Z",
-      "title_original": "小马智行联合Verne启动欧洲首例全无人Robotaxi载客测试",
-      "title_en": null,
-      "title_zh": "小马智行联合Verne启动欧洲首例全无人Robotaxi载客测试",
-      "title_bilingual": "小马智行联合Verne启动欧洲首例全无人Robotaxi载客测试",
-      "topic_tags": [
-        "智能驾驶",
-        "召回安全"
-      ]
-    },
-    {
-      "id": "6027de2af0b69cbfa0208f5e18626cb857bbda24",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新技术",
-      "title": "海克斯康发布新一代OPTIV S 4.4.3光学三坐标测量机",
-      "url": "https://auto.gasgoo.com/news/202609/10I70471695C409.shtml",
-      "published_at": "2026-09-10T17:32:19Z",
-      "first_seen_at": "2026-09-11T13:43:11.130741Z",
-      "last_seen_at": "2026-09-11T17:29:42.480563Z",
-      "title_original": "海克斯康发布新一代OPTIV S 4.4.3光学三坐标测量机",
-      "title_en": null,
-      "title_zh": "海克斯康发布新一代OPTIV S 4.4.3光学三坐标测量机",
-      "title_bilingual": "海克斯康发布新一代OPTIV S 4.4.3光学三坐标测量机",
-      "topic_tags": [
         "新车上市"
       ]
     }
