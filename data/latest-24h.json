@@ -1,69 +1,147 @@
 {
-  "generated_at": "2026-09-15T16:41:13.545759Z",
+  "generated_at": "2026-09-15T19:58:21.068330Z",
   "window_hours": 24,
-  "total_items": 28,
-  "total_items_ai_raw": 29,
-  "total_items_raw": 2892,
-  "total_items_all_mode": 2543,
+  "total_items": 21,
+  "total_items_ai_raw": 22,
+  "total_items_raw": 2599,
+  "total_items_all_mode": 2295,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 59394,
+  "archive_total": 59207,
   "site_count": 3,
-  "source_count": 11,
+  "source_count": 7,
   "site_stats": [
-    {
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "count": 17,
-      "raw_count": 18
-    },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
-      "count": 10,
-      "raw_count": 2834
+      "count": 12,
+      "raw_count": 2555
+    },
+    {
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "count": 9,
+      "raw_count": 10
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
-      "count": 1,
-      "raw_count": 40
+      "count": 0,
+      "raw_count": 34
     }
   ],
   "topic_tag_stats": [
     {
       "tag": "车企竞争",
-      "count": 20
+      "count": 13
+    },
+    {
+      "tag": "新能源",
+      "count": 6
     },
     {
       "tag": "购车决策",
       "count": 6
     },
     {
-      "tag": "新能源",
-      "count": 5
+      "tag": "补能电池",
+      "count": 4
     },
     {
-      "tag": "补能电池",
+      "tag": "新车上市",
       "count": 3
     },
     {
-      "tag": "供应链",
-      "count": 2
+      "tag": "智能驾驶",
+      "count": 3
     },
     {
       "tag": "召回安全",
       "count": 1
     },
     {
-      "tag": "新车上市",
-      "count": 1
-    },
-    {
-      "tag": "智能驾驶",
+      "tag": "销量市场",
       "count": 1
     }
   ],
   "items": [
+    {
+      "id": "dcdbc76519530219e401975301db0998af9d42c0",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "埃安i60新款9月15日上市，192线激光雷达下放十万级市场",
+      "url": "http://vc.yiche.com/vplay/13165063.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-15T19:58:21.068330Z",
+      "last_seen_at": "2026-09-15T19:58:21.068330Z",
+      "title_original": "埃安i60新款9月15日上市，192线激光雷达下放十万级市场",
+      "title_en": null,
+      "title_zh": "埃安i60新款9月15日上市，192线激光雷达下放十万级市场",
+      "title_bilingual": "埃安i60新款9月15日上市，192线激光雷达下放十万级市场",
+      "topic_tags": [
+        "智能驾驶",
+        "销量市场",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "6a3f4fd460c399055b00e0e768aa17809b1cc503",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "预售13.78万起！全系宁德电池，超5米越级尺寸，可选华为乾崑智驾！",
+      "url": "http://vc.yiche.com/vplay/13188338.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-15T19:58:21.068330Z",
+      "last_seen_at": "2026-09-15T19:58:21.068330Z",
+      "title_original": "预售13.78万起！全系宁德电池，超5米越级尺寸，可选华为乾崑智驾！",
+      "title_en": null,
+      "title_zh": "预售13.78万起！全系宁德电池，超5米越级尺寸，可选华为乾崑智驾！",
+      "title_bilingual": "预售13.78万起！全系宁德电池，超5米越级尺寸，可选华为乾崑智驾！",
+      "topic_tags": [
+        "智能驾驶",
+        "补能电池",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "0c4090acd25cd8da59c1c503f8834b506309219f",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "不到14万，华为乾崑+宁德时代+800V，极狐阿尔法T7卖爆了",
+      "url": "http://vc.yiche.com/vplay/13176858.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-15T19:58:21.068330Z",
+      "last_seen_at": "2026-09-15T19:58:21.068330Z",
+      "title_original": "不到14万，华为乾崑+宁德时代+800V，极狐阿尔法T7卖爆了",
+      "title_en": null,
+      "title_zh": "不到14万，华为乾崑+宁德时代+800V，极狐阿尔法T7卖爆了",
+      "title_bilingual": "不到14万，华为乾崑+宁德时代+800V，极狐阿尔法T7卖爆了",
+      "topic_tags": [
+        "补能电池"
+      ]
+    },
+    {
+      "id": "4a8a4990441cd13c2dd890ea51106ae2a5aad35f",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "HI4混动+双激光雷达 动力响应快还配高阶辅助驾驶 抢先试驾高山8新版型",
+      "url": "http://vc.yiche.com/vplay/13187687.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-15T19:58:21.068330Z",
+      "last_seen_at": "2026-09-15T19:58:21.068330Z",
+      "title_original": "HI4混动+双激光雷达 动力响应快还配高阶辅助驾驶 抢先试驾高山8新版型",
+      "title_en": null,
+      "title_zh": "HI4混动+双激光雷达 动力响应快还配高阶辅助驾驶 抢先试驾高山8新版型",
+      "title_bilingual": "HI4混动+双激光雷达 动力响应快还配高阶辅助驾驶 抢先试驾高山8新版型",
+      "topic_tags": [
+        "新能源",
+        "智能驾驶",
+        "购车决策"
+      ]
+    },
     {
       "id": "d1032a5367e69fc22180e226e857de2c255549ba",
       "site_id": "tophub",
@@ -73,7 +151,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/8bfc45a7894e0eca/115855779-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-15T16:41:13.545759Z",
-      "last_seen_at": "2026-09-15T16:41:13.545759Z",
+      "last_seen_at": "2026-09-15T19:58:21.068330Z",
       "title_original": "喜提黑石！长城H10提车作业分享",
       "title_en": null,
       "title_zh": "喜提黑石！长城H10提车作业分享",
@@ -92,7 +170,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/fb77b0b8e33dc4dd/116005404-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-15T16:41:13.545759Z",
-      "last_seen_at": "2026-09-15T16:41:13.545759Z",
+      "last_seen_at": "2026-09-15T19:58:21.068330Z",
       "title_original": "用车成本很低 零跑C16提车作业分享",
       "title_en": null,
       "title_zh": "用车成本很低 零跑C16提车作业分享",
@@ -111,7 +189,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/f68124fd8d42186f/116004203-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-15T16:41:13.545759Z",
-      "last_seen_at": "2026-09-15T16:41:13.545759Z",
+      "last_seen_at": "2026-09-15T19:58:21.068330Z",
       "title_original": "我们第一辆车 理想i6提车交作业啦",
       "title_en": null,
       "title_zh": "我们第一辆车 理想i6提车交作业啦",
@@ -130,7 +208,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/22d9d293e60b9d95/116034343-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-15T16:41:13.545759Z",
-      "last_seen_at": "2026-09-15T16:41:13.545759Z",
+      "last_seen_at": "2026-09-15T19:58:21.068330Z",
       "title_original": "契合我的需求 问界M6提车作业分享",
       "title_en": null,
       "title_zh": "契合我的需求 问界M6提车作业分享",
@@ -149,7 +227,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/84b811dfa2ea5d88/116012870-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-15T16:41:13.545759Z",
-      "last_seen_at": "2026-09-15T16:41:13.545759Z",
+      "last_seen_at": "2026-09-15T19:58:21.068330Z",
       "title_original": "空间宽敞舒适 小鹏GX提车作业分享",
       "title_en": null,
       "title_zh": "空间宽敞舒适 小鹏GX提车作业分享",
@@ -168,7 +246,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/e1bda2c45affa2d4/116005610-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-15T16:41:13.545759Z",
-      "last_seen_at": "2026-09-15T16:41:13.545759Z",
+      "last_seen_at": "2026-09-15T19:58:21.068330Z",
       "title_original": "我的第一台车！外星银理想i6分享",
       "title_en": null,
       "title_zh": "我的第一台车！外星银理想i6分享",
@@ -186,7 +264,7 @@
       "url": "https://cnevpost.com/2026/09/15/geely-galaxy-cruiser-700-pre-sales",
       "published_at": "2026-09-15T15:23:31Z",
       "first_seen_at": "2026-09-15T16:41:13.545759Z",
-      "last_seen_at": "2026-09-15T16:41:13.545759Z",
+      "last_seen_at": "2026-09-15T19:58:21.068330Z",
       "title_original": "Geely Galaxy opens Cruiser 700 pre-sales in China from $29,530",
       "title_en": "Geely Galaxy opens Cruiser 700 pre-sales in China from $29,530",
       "title_zh": null,
@@ -205,7 +283,7 @@
       "url": "https://cnevpost.com/2026/09/15/nio-reaffirms-europe-commitment-william-li-meets-users",
       "published_at": "2026-09-15T15:04:54Z",
       "first_seen_at": "2026-09-15T16:41:13.545759Z",
-      "last_seen_at": "2026-09-15T16:41:13.545759Z",
+      "last_seen_at": "2026-09-15T19:58:21.068330Z",
       "title_original": "Nio reaffirms Europe commitment as William Li meets users and partners",
       "title_en": "Nio reaffirms Europe commitment as William Li meets users and partners",
       "title_zh": null,
@@ -224,7 +302,7 @@
       "url": "https://cnevpost.com/2026/09/15/catl-launches-tectrans-ii-commercial-vehicle-battery",
       "published_at": "2026-09-15T13:52:12Z",
       "first_seen_at": "2026-09-15T16:41:13.545759Z",
-      "last_seen_at": "2026-09-15T16:41:13.545759Z",
+      "last_seen_at": "2026-09-15T19:58:21.068330Z",
       "title_original": "CATL launches Tectrans II commercial vehicle battery with up to 1,000 km of truck range",
       "title_en": "CATL launches Tectrans II commercial vehicle battery with up to 1,000 km of truck range",
       "title_zh": null,
@@ -242,7 +320,7 @@
       "url": "https://cnevpost.com/2026/09/15/huawei-reshapes-aito-partnership-seres-takes-lead",
       "published_at": "2026-09-15T12:38:35Z",
       "first_seen_at": "2026-09-15T16:41:13.545759Z",
-      "last_seen_at": "2026-09-15T16:41:13.545759Z",
+      "last_seen_at": "2026-09-15T19:58:21.068330Z",
       "title_original": "Huawei reshapes Aito partnership as Seres takes operational lead",
       "title_en": "Huawei reshapes Aito partnership as Seres takes operational lead",
       "title_zh": null,
@@ -260,7 +338,7 @@
       "url": "https://www.dongchedi.com/article/7685283390891901465",
       "published_at": null,
       "first_seen_at": "2026-09-15T11:58:12.019757Z",
-      "last_seen_at": "2026-09-15T16:41:13.545759Z",
+      "last_seen_at": "2026-09-15T19:58:21.068330Z",
       "title_original": "中国车企出海，向现代起亚学什么",
       "title_en": null,
       "title_zh": "中国车企出海，向现代起亚学什么",
@@ -278,7 +356,7 @@
       "url": "https://carnewschina.com/2026/09/15/catl-unveils-tectrans-%e2%85%b1-at-iaa-transportation-2026-megawatt-charging-for-commercial-vehicles",
       "published_at": "2026-09-15T11:50:12Z",
       "first_seen_at": "2026-09-15T11:58:12.019757Z",
-      "last_seen_at": "2026-09-15T16:41:13.545759Z",
+      "last_seen_at": "2026-09-15T19:58:21.068330Z",
       "title_original": "CATL unveils Tectrans Ⅱ at IAA Transportation 2026: megawatt charging for commercial vehicles",
       "title_en": "CATL unveils Tectrans Ⅱ at IAA Transportation 2026: megawatt charging for commercial vehicles",
       "title_zh": null,
@@ -297,7 +375,7 @@
       "url": "https://carnewschina.com/2026/09/15/voyah-dream-9-flagship-mpv-with-701-km-range-set-to-launch-on-september-22",
       "published_at": "2026-09-15T06:49:21Z",
       "first_seen_at": "2026-09-15T11:58:12.019757Z",
-      "last_seen_at": "2026-09-15T16:41:13.545759Z",
+      "last_seen_at": "2026-09-15T19:58:21.068330Z",
       "title_original": "Voyah Dream 9 flagship MPV with 701 km range set to launch on September 22",
       "title_en": "Voyah Dream 9 flagship MPV with 701 km range set to launch on September 22",
       "title_zh": null,
@@ -335,7 +413,7 @@
       "url": "https://auto.gasgoo.com/news/202609/14I70472006C109.shtml",
       "published_at": "2026-09-14T21:48:13Z",
       "first_seen_at": "2026-09-15T16:41:13.545759Z",
-      "last_seen_at": "2026-09-15T16:41:13.545759Z",
+      "last_seen_at": "2026-09-15T19:58:21.068330Z",
       "title_original": "从技术底色到全球版图：东风汽车“十五五”开局的战略布局",
       "title_en": null,
       "title_zh": "从技术底色到全球版图：东风汽车“十五五”开局的战略布局",
@@ -353,7 +431,7 @@
       "url": "https://auto.gasgoo.com/news/202609/14I70472005C109.shtml",
       "published_at": "2026-09-14T21:46:59Z",
       "first_seen_at": "2026-09-15T16:41:13.545759Z",
-      "last_seen_at": "2026-09-15T16:41:13.545759Z",
+      "last_seen_at": "2026-09-15T19:58:21.068330Z",
       "title_original": "靴子落地！广汽拟购一汽股份旗下合资公司股权 一汽将成第二大战略股东",
       "title_en": null,
       "title_zh": "靴子落地！广汽拟购一汽股份旗下合资公司股权 一汽将成第二大战略股东",
@@ -371,209 +449,11 @@
       "url": "https://auto.gasgoo.com/news/202609/14I70472003C109.shtml",
       "published_at": "2026-09-14T20:31:55Z",
       "first_seen_at": "2026-09-15T16:41:13.545759Z",
-      "last_seen_at": "2026-09-15T16:41:13.545759Z",
+      "last_seen_at": "2026-09-15T19:58:21.068330Z",
       "title_original": "太乙圣莲拟 30 亿元重整哪吒汽车，尚待表决与法院裁定",
       "title_en": null,
       "title_zh": "太乙圣莲拟 30 亿元重整哪吒汽车，尚待表决与法院裁定",
       "title_bilingual": "太乙圣莲拟 30 亿元重整哪吒汽车，尚待表决与法院裁定",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "ec135d8380eb38b2e19a8860eb49bdf3b64cc45f",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "日产汽车将日本工厂年产能维持在100万辆",
-      "url": "https://auto.gasgoo.com/news/202609/14I70471996C109.shtml",
-      "published_at": "2026-09-14T19:08:29Z",
-      "first_seen_at": "2026-09-15T11:58:12.019757Z",
-      "last_seen_at": "2026-09-15T16:41:13.545759Z",
-      "title_original": "日产汽车将日本工厂年产能维持在100万辆",
-      "title_en": null,
-      "title_zh": "日产汽车将日本工厂年产能维持在100万辆",
-      "title_bilingual": "日产汽车将日本工厂年产能维持在100万辆",
-      "topic_tags": [
-        "车企竞争",
-        "供应链"
-      ]
-    },
-    {
-      "id": "f720489362925f37c5d1451cfdf3b20169d6de1f",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "自驾一万公里 长城猛龙 PLUS旅行记",
-      "url": "https://club.autohome.com.cn/bbs/thread/bbb3e2b0adf1a45b/115829755-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-09-14T19:00:56.781693Z",
-      "last_seen_at": "2026-09-15T11:58:12.019757Z",
-      "title_original": "自驾一万公里 长城猛龙 PLUS旅行记",
-      "title_en": null,
-      "title_zh": "自驾一万公里 长城猛龙 PLUS旅行记",
-      "title_bilingual": "自驾一万公里 长城猛龙 PLUS旅行记",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "946f13ca6bd552b8c5a1eb6eb5d00d50b30eb5bf",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "整车空间很大 理想i6提车作业分享",
-      "url": "https://club.autohome.com.cn/bbs/thread/4379d2cd2c930752/115828615-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-09-14T19:00:56.781693Z",
-      "last_seen_at": "2026-09-15T11:58:12.019757Z",
-      "title_original": "整车空间很大 理想i6提车作业分享",
-      "title_en": null,
-      "title_zh": "整车空间很大 理想i6提车作业分享",
-      "title_bilingual": "整车空间很大 理想i6提车作业分享",
-      "topic_tags": [
-        "车企竞争",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "ccc70ca882da1e04b7ee87d87ed6e1dc3fe68ba5",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-智能网联",
-      "title": "Seeds | 因克斯完成超3亿元B轮融资",
-      "url": "https://auto.gasgoo.com/news/202609/14I70471999C601.shtml",
-      "published_at": "2026-09-14T18:41:17Z",
-      "first_seen_at": "2026-09-15T11:58:12.019757Z",
-      "last_seen_at": "2026-09-15T16:41:13.545759Z",
-      "title_original": "Seeds | 因克斯完成超3亿元B轮融资",
-      "title_en": null,
-      "title_zh": "Seeds | 因克斯完成超3亿元B轮融资",
-      "title_bilingual": "Seeds | 因克斯完成超3亿元B轮融资",
-      "topic_tags": []
-    },
-    {
-      "id": "5c63329816d14bb0c2de0a136cac7d758d644694",
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "sspai",
-      "title": "「正常」已是不易：聊聊不那么标新立异的理想 i6",
-      "url": "https://sspai.com/post/113605",
-      "published_at": "2026-09-14T18:34:52.050000Z",
-      "first_seen_at": "2026-09-14T19:00:56.781693Z",
-      "last_seen_at": "2026-09-15T16:41:13.545759Z",
-      "title_original": "「正常」已是不易：聊聊不那么标新立异的理想 i6",
-      "title_en": null,
-      "title_zh": "「正常」已是不易：聊聊不那么标新立异的理想 i6",
-      "title_bilingual": "「正常」已是不易：聊聊不那么标新立异的理想 i6",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "5c043350572cbfdeba79fbdfc670aaba401fb69b",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-供应链",
-      "title": "Astemo斥资3.8亿美元扩大美国电机产能",
-      "url": "https://auto.gasgoo.com/news/202609/14I70471997C103.shtml",
-      "published_at": "2026-09-14T18:11:19Z",
-      "first_seen_at": "2026-09-15T11:58:12.019757Z",
-      "last_seen_at": "2026-09-15T16:41:13.545759Z",
-      "title_original": "Astemo斥资3.8亿美元扩大美国电机产能",
-      "title_en": null,
-      "title_zh": "Astemo斥资3.8亿美元扩大美国电机产能",
-      "title_bilingual": "Astemo斥资3.8亿美元扩大美国电机产能",
-      "topic_tags": [
-        "供应链"
-      ]
-    },
-    {
-      "id": "e6ee131e3a4b9ef89f59a97aae0bd33f228c55f5",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新技术",
-      "title": "宝马申请新漂移系统专利",
-      "url": "https://auto.gasgoo.com/news/202609/14I70471995C409.shtml",
-      "published_at": "2026-09-14T17:08:22Z",
-      "first_seen_at": "2026-09-15T11:58:12.019757Z",
-      "last_seen_at": "2026-09-15T16:41:13.545759Z",
-      "title_original": "宝马申请新漂移系统专利",
-      "title_en": null,
-      "title_zh": "宝马申请新漂移系统专利",
-      "title_bilingual": "宝马申请新漂移系统专利",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "f330195e707266834f9e9c7a8063e7cfc0fc3af0",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新技术",
-      "title": "福特申请挡风玻璃湿气预处理系统专利",
-      "url": "https://auto.gasgoo.com/news/202609/14I70471994C409.shtml",
-      "published_at": "2026-09-14T17:04:00Z",
-      "first_seen_at": "2026-09-15T11:58:12.019757Z",
-      "last_seen_at": "2026-09-15T16:41:13.545759Z",
-      "title_original": "福特申请挡风玻璃湿气预处理系统专利",
-      "title_en": null,
-      "title_zh": "福特申请挡风玻璃湿气预处理系统专利",
-      "title_bilingual": "福特申请挡风玻璃湿气预处理系统专利",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "22cc8f838e39df69ce30eccf0c19958b28c3945e",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新技术",
-      "title": "INFAC推出创新电动汽车800V电池包设计 实现48V汽车区域架构",
-      "url": "https://auto.gasgoo.com/news/202609/14I70471993C409.shtml",
-      "published_at": "2026-09-14T16:56:27Z",
-      "first_seen_at": "2026-09-15T11:58:12.019757Z",
-      "last_seen_at": "2026-09-15T16:41:13.545759Z",
-      "title_original": "INFAC推出创新电动汽车800V电池包设计 实现48V汽车区域架构",
-      "title_en": null,
-      "title_zh": "INFAC推出创新电动汽车800V电池包设计 实现48V汽车区域架构",
-      "title_bilingual": "INFAC推出创新电动汽车800V电池包设计 实现48V汽车区域架构",
-      "topic_tags": [
-        "补能电池"
-      ]
-    },
-    {
-      "id": "ce44d15a2b096aac8315cf15810b9935ae71271c",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新技术",
-      "title": "SUTD开发出全新AI框架 可为自动驾驶系统生成更逼真的4D激光雷达场景",
-      "url": "https://auto.gasgoo.com/news/202609/14I70471988C409.shtml",
-      "published_at": "2026-09-14T16:53:07Z",
-      "first_seen_at": "2026-09-15T11:58:12.019757Z",
-      "last_seen_at": "2026-09-15T16:41:13.545759Z",
-      "title_original": "SUTD开发出全新AI框架 可为自动驾驶系统生成更逼真的4D激光雷达场景",
-      "title_en": null,
-      "title_zh": "SUTD开发出全新AI框架 可为自动驾驶系统生成更逼真的4D激光雷达场景",
-      "title_bilingual": "SUTD开发出全新AI框架 可为自动驾驶系统生成更逼真的4D激光雷达场景",
-      "topic_tags": [
-        "智能驾驶"
-      ]
-    },
-    {
-      "id": "4edba1215010b4fd547086d1b1aa7e1e8e062a1f",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "广汽停牌，与一汽有关？",
-      "url": "https://auto.gasgoo.com/news/202609/14I70471985C109.shtml",
-      "published_at": "2026-09-14T16:44:00Z",
-      "first_seen_at": "2026-09-15T11:58:12.019757Z",
-      "last_seen_at": "2026-09-15T16:41:13.545759Z",
-      "title_original": "广汽停牌，与一汽有关？",
-      "title_en": null,
-      "title_zh": "广汽停牌，与一汽有关？",
-      "title_bilingual": "广汽停牌，与一汽有关？",
       "topic_tags": [
         "车企竞争"
       ]
@@ -581,6 +461,84 @@
   ],
   "items_ai": [
     {
+      "id": "dcdbc76519530219e401975301db0998af9d42c0",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "埃安i60新款9月15日上市，192线激光雷达下放十万级市场",
+      "url": "http://vc.yiche.com/vplay/13165063.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-15T19:58:21.068330Z",
+      "last_seen_at": "2026-09-15T19:58:21.068330Z",
+      "title_original": "埃安i60新款9月15日上市，192线激光雷达下放十万级市场",
+      "title_en": null,
+      "title_zh": "埃安i60新款9月15日上市，192线激光雷达下放十万级市场",
+      "title_bilingual": "埃安i60新款9月15日上市，192线激光雷达下放十万级市场",
+      "topic_tags": [
+        "智能驾驶",
+        "销量市场",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "6a3f4fd460c399055b00e0e768aa17809b1cc503",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "预售13.78万起！全系宁德电池，超5米越级尺寸，可选华为乾崑智驾！",
+      "url": "http://vc.yiche.com/vplay/13188338.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-15T19:58:21.068330Z",
+      "last_seen_at": "2026-09-15T19:58:21.068330Z",
+      "title_original": "预售13.78万起！全系宁德电池，超5米越级尺寸，可选华为乾崑智驾！",
+      "title_en": null,
+      "title_zh": "预售13.78万起！全系宁德电池，超5米越级尺寸，可选华为乾崑智驾！",
+      "title_bilingual": "预售13.78万起！全系宁德电池，超5米越级尺寸，可选华为乾崑智驾！",
+      "topic_tags": [
+        "智能驾驶",
+        "补能电池",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "0c4090acd25cd8da59c1c503f8834b506309219f",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "不到14万，华为乾崑+宁德时代+800V，极狐阿尔法T7卖爆了",
+      "url": "http://vc.yiche.com/vplay/13176858.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-15T19:58:21.068330Z",
+      "last_seen_at": "2026-09-15T19:58:21.068330Z",
+      "title_original": "不到14万，华为乾崑+宁德时代+800V，极狐阿尔法T7卖爆了",
+      "title_en": null,
+      "title_zh": "不到14万，华为乾崑+宁德时代+800V，极狐阿尔法T7卖爆了",
+      "title_bilingual": "不到14万，华为乾崑+宁德时代+800V，极狐阿尔法T7卖爆了",
+      "topic_tags": [
+        "补能电池"
+      ]
+    },
+    {
+      "id": "4a8a4990441cd13c2dd890ea51106ae2a5aad35f",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "HI4混动+双激光雷达 动力响应快还配高阶辅助驾驶 抢先试驾高山8新版型",
+      "url": "http://vc.yiche.com/vplay/13187687.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-15T19:58:21.068330Z",
+      "last_seen_at": "2026-09-15T19:58:21.068330Z",
+      "title_original": "HI4混动+双激光雷达 动力响应快还配高阶辅助驾驶 抢先试驾高山8新版型",
+      "title_en": null,
+      "title_zh": "HI4混动+双激光雷达 动力响应快还配高阶辅助驾驶 抢先试驾高山8新版型",
+      "title_bilingual": "HI4混动+双激光雷达 动力响应快还配高阶辅助驾驶 抢先试驾高山8新版型",
+      "topic_tags": [
+        "新能源",
+        "智能驾驶",
+        "购车决策"
+      ]
+    },
+    {
       "id": "d1032a5367e69fc22180e226e857de2c255549ba",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -589,7 +547,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/8bfc45a7894e0eca/115855779-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-15T16:41:13.545759Z",
-      "last_seen_at": "2026-09-15T16:41:13.545759Z",
+      "last_seen_at": "2026-09-15T19:58:21.068330Z",
       "title_original": "喜提黑石！长城H10提车作业分享",
       "title_en": null,
       "title_zh": "喜提黑石！长城H10提车作业分享",
@@ -608,7 +566,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/fb77b0b8e33dc4dd/116005404-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-15T16:41:13.545759Z",
-      "last_seen_at": "2026-09-15T16:41:13.545759Z",
+      "last_seen_at": "2026-09-15T19:58:21.068330Z",
       "title_original": "用车成本很低 零跑C16提车作业分享",
       "title_en": null,
       "title_zh": "用车成本很低 零跑C16提车作业分享",
@@ -627,7 +585,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/f68124fd8d42186f/116004203-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-15T16:41:13.545759Z",
-      "last_seen_at": "2026-09-15T16:41:13.545759Z",
+      "last_seen_at": "2026-09-15T19:58:21.068330Z",
       "title_original": "我们第一辆车 理想i6提车交作业啦",
       "title_en": null,
       "title_zh": "我们第一辆车 理想i6提车交作业啦",
@@ -646,7 +604,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/22d9d293e60b9d95/116034343-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-15T16:41:13.545759Z",
-      "last_seen_at": "2026-09-15T16:41:13.545759Z",
+      "last_seen_at": "2026-09-15T19:58:21.068330Z",
       "title_original": "契合我的需求 问界M6提车作业分享",
       "title_en": null,
       "title_zh": "契合我的需求 问界M6提车作业分享",
@@ -665,7 +623,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/84b811dfa2ea5d88/116012870-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-15T16:41:13.545759Z",
-      "last_seen_at": "2026-09-15T16:41:13.545759Z",
+      "last_seen_at": "2026-09-15T19:58:21.068330Z",
       "title_original": "空间宽敞舒适 小鹏GX提车作业分享",
       "title_en": null,
       "title_zh": "空间宽敞舒适 小鹏GX提车作业分享",
@@ -684,7 +642,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/e1bda2c45affa2d4/116005610-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-15T16:41:13.545759Z",
-      "last_seen_at": "2026-09-15T16:41:13.545759Z",
+      "last_seen_at": "2026-09-15T19:58:21.068330Z",
       "title_original": "我的第一台车！外星银理想i6分享",
       "title_en": null,
       "title_zh": "我的第一台车！外星银理想i6分享",
@@ -702,7 +660,7 @@
       "url": "https://cnevpost.com/2026/09/15/geely-galaxy-cruiser-700-pre-sales",
       "published_at": "2026-09-15T15:23:31Z",
       "first_seen_at": "2026-09-15T16:41:13.545759Z",
-      "last_seen_at": "2026-09-15T16:41:13.545759Z",
+      "last_seen_at": "2026-09-15T19:58:21.068330Z",
       "title_original": "Geely Galaxy opens Cruiser 700 pre-sales in China from $29,530",
       "title_en": "Geely Galaxy opens Cruiser 700 pre-sales in China from $29,530",
       "title_zh": null,
@@ -721,7 +679,7 @@
       "url": "https://cnevpost.com/2026/09/15/nio-reaffirms-europe-commitment-william-li-meets-users",
       "published_at": "2026-09-15T15:04:54Z",
       "first_seen_at": "2026-09-15T16:41:13.545759Z",
-      "last_seen_at": "2026-09-15T16:41:13.545759Z",
+      "last_seen_at": "2026-09-15T19:58:21.068330Z",
       "title_original": "Nio reaffirms Europe commitment as William Li meets users and partners",
       "title_en": "Nio reaffirms Europe commitment as William Li meets users and partners",
       "title_zh": null,
@@ -740,7 +698,7 @@
       "url": "https://cnevpost.com/2026/09/15/catl-launches-tectrans-ii-commercial-vehicle-battery",
       "published_at": "2026-09-15T13:52:12Z",
       "first_seen_at": "2026-09-15T16:41:13.545759Z",
-      "last_seen_at": "2026-09-15T16:41:13.545759Z",
+      "last_seen_at": "2026-09-15T19:58:21.068330Z",
       "title_original": "CATL launches Tectrans II commercial vehicle battery with up to 1,000 km of truck range",
       "title_en": "CATL launches Tectrans II commercial vehicle battery with up to 1,000 km of truck range",
       "title_zh": null,
@@ -758,7 +716,7 @@
       "url": "https://cnevpost.com/2026/09/15/huawei-reshapes-aito-partnership-seres-takes-lead",
       "published_at": "2026-09-15T12:38:35Z",
       "first_seen_at": "2026-09-15T16:41:13.545759Z",
-      "last_seen_at": "2026-09-15T16:41:13.545759Z",
+      "last_seen_at": "2026-09-15T19:58:21.068330Z",
       "title_original": "Huawei reshapes Aito partnership as Seres takes operational lead",
       "title_en": "Huawei reshapes Aito partnership as Seres takes operational lead",
       "title_zh": null,
@@ -776,7 +734,7 @@
       "url": "https://www.dongchedi.com/article/7685283390891901465",
       "published_at": null,
       "first_seen_at": "2026-09-15T11:58:12.019757Z",
-      "last_seen_at": "2026-09-15T16:41:13.545759Z",
+      "last_seen_at": "2026-09-15T19:58:21.068330Z",
       "title_original": "中国车企出海，向现代起亚学什么",
       "title_en": null,
       "title_zh": "中国车企出海，向现代起亚学什么",
@@ -794,7 +752,7 @@
       "url": "https://carnewschina.com/2026/09/15/catl-unveils-tectrans-%e2%85%b1-at-iaa-transportation-2026-megawatt-charging-for-commercial-vehicles",
       "published_at": "2026-09-15T11:50:12Z",
       "first_seen_at": "2026-09-15T11:58:12.019757Z",
-      "last_seen_at": "2026-09-15T16:41:13.545759Z",
+      "last_seen_at": "2026-09-15T19:58:21.068330Z",
       "title_original": "CATL unveils Tectrans Ⅱ at IAA Transportation 2026: megawatt charging for commercial vehicles",
       "title_en": "CATL unveils Tectrans Ⅱ at IAA Transportation 2026: megawatt charging for commercial vehicles",
       "title_zh": null,
@@ -813,7 +771,7 @@
       "url": "https://carnewschina.com/2026/09/15/voyah-dream-9-flagship-mpv-with-701-km-range-set-to-launch-on-september-22",
       "published_at": "2026-09-15T06:49:21Z",
       "first_seen_at": "2026-09-15T11:58:12.019757Z",
-      "last_seen_at": "2026-09-15T16:41:13.545759Z",
+      "last_seen_at": "2026-09-15T19:58:21.068330Z",
       "title_original": "Voyah Dream 9 flagship MPV with 701 km range set to launch on September 22",
       "title_en": "Voyah Dream 9 flagship MPV with 701 km range set to launch on September 22",
       "title_zh": null,
@@ -851,7 +809,7 @@
       "url": "https://auto.gasgoo.com/news/202609/14I70472006C109.shtml",
       "published_at": "2026-09-14T21:48:13Z",
       "first_seen_at": "2026-09-15T16:41:13.545759Z",
-      "last_seen_at": "2026-09-15T16:41:13.545759Z",
+      "last_seen_at": "2026-09-15T19:58:21.068330Z",
       "title_original": "从技术底色到全球版图：东风汽车“十五五”开局的战略布局",
       "title_en": null,
       "title_zh": "从技术底色到全球版图：东风汽车“十五五”开局的战略布局",
@@ -869,7 +827,7 @@
       "url": "https://auto.gasgoo.com/news/202609/14I70472005C109.shtml",
       "published_at": "2026-09-14T21:46:59Z",
       "first_seen_at": "2026-09-15T16:41:13.545759Z",
-      "last_seen_at": "2026-09-15T16:41:13.545759Z",
+      "last_seen_at": "2026-09-15T19:58:21.068330Z",
       "title_original": "靴子落地！广汽拟购一汽股份旗下合资公司股权 一汽将成第二大战略股东",
       "title_en": null,
       "title_zh": "靴子落地！广汽拟购一汽股份旗下合资公司股权 一汽将成第二大战略股东",
@@ -887,209 +845,11 @@
       "url": "https://auto.gasgoo.com/news/202609/14I70472003C109.shtml",
       "published_at": "2026-09-14T20:31:55Z",
       "first_seen_at": "2026-09-15T16:41:13.545759Z",
-      "last_seen_at": "2026-09-15T16:41:13.545759Z",
+      "last_seen_at": "2026-09-15T19:58:21.068330Z",
       "title_original": "太乙圣莲拟 30 亿元重整哪吒汽车，尚待表决与法院裁定",
       "title_en": null,
       "title_zh": "太乙圣莲拟 30 亿元重整哪吒汽车，尚待表决与法院裁定",
       "title_bilingual": "太乙圣莲拟 30 亿元重整哪吒汽车，尚待表决与法院裁定",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "ec135d8380eb38b2e19a8860eb49bdf3b64cc45f",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "日产汽车将日本工厂年产能维持在100万辆",
-      "url": "https://auto.gasgoo.com/news/202609/14I70471996C109.shtml",
-      "published_at": "2026-09-14T19:08:29Z",
-      "first_seen_at": "2026-09-15T11:58:12.019757Z",
-      "last_seen_at": "2026-09-15T16:41:13.545759Z",
-      "title_original": "日产汽车将日本工厂年产能维持在100万辆",
-      "title_en": null,
-      "title_zh": "日产汽车将日本工厂年产能维持在100万辆",
-      "title_bilingual": "日产汽车将日本工厂年产能维持在100万辆",
-      "topic_tags": [
-        "车企竞争",
-        "供应链"
-      ]
-    },
-    {
-      "id": "f720489362925f37c5d1451cfdf3b20169d6de1f",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "自驾一万公里 长城猛龙 PLUS旅行记",
-      "url": "https://club.autohome.com.cn/bbs/thread/bbb3e2b0adf1a45b/115829755-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-09-14T19:00:56.781693Z",
-      "last_seen_at": "2026-09-15T11:58:12.019757Z",
-      "title_original": "自驾一万公里 长城猛龙 PLUS旅行记",
-      "title_en": null,
-      "title_zh": "自驾一万公里 长城猛龙 PLUS旅行记",
-      "title_bilingual": "自驾一万公里 长城猛龙 PLUS旅行记",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "946f13ca6bd552b8c5a1eb6eb5d00d50b30eb5bf",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "整车空间很大 理想i6提车作业分享",
-      "url": "https://club.autohome.com.cn/bbs/thread/4379d2cd2c930752/115828615-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-09-14T19:00:56.781693Z",
-      "last_seen_at": "2026-09-15T11:58:12.019757Z",
-      "title_original": "整车空间很大 理想i6提车作业分享",
-      "title_en": null,
-      "title_zh": "整车空间很大 理想i6提车作业分享",
-      "title_bilingual": "整车空间很大 理想i6提车作业分享",
-      "topic_tags": [
-        "车企竞争",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "ccc70ca882da1e04b7ee87d87ed6e1dc3fe68ba5",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-智能网联",
-      "title": "Seeds | 因克斯完成超3亿元B轮融资",
-      "url": "https://auto.gasgoo.com/news/202609/14I70471999C601.shtml",
-      "published_at": "2026-09-14T18:41:17Z",
-      "first_seen_at": "2026-09-15T11:58:12.019757Z",
-      "last_seen_at": "2026-09-15T16:41:13.545759Z",
-      "title_original": "Seeds | 因克斯完成超3亿元B轮融资",
-      "title_en": null,
-      "title_zh": "Seeds | 因克斯完成超3亿元B轮融资",
-      "title_bilingual": "Seeds | 因克斯完成超3亿元B轮融资",
-      "topic_tags": []
-    },
-    {
-      "id": "5c63329816d14bb0c2de0a136cac7d758d644694",
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "sspai",
-      "title": "「正常」已是不易：聊聊不那么标新立异的理想 i6",
-      "url": "https://sspai.com/post/113605",
-      "published_at": "2026-09-14T18:34:52.050000Z",
-      "first_seen_at": "2026-09-14T19:00:56.781693Z",
-      "last_seen_at": "2026-09-15T16:41:13.545759Z",
-      "title_original": "「正常」已是不易：聊聊不那么标新立异的理想 i6",
-      "title_en": null,
-      "title_zh": "「正常」已是不易：聊聊不那么标新立异的理想 i6",
-      "title_bilingual": "「正常」已是不易：聊聊不那么标新立异的理想 i6",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "5c043350572cbfdeba79fbdfc670aaba401fb69b",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-供应链",
-      "title": "Astemo斥资3.8亿美元扩大美国电机产能",
-      "url": "https://auto.gasgoo.com/news/202609/14I70471997C103.shtml",
-      "published_at": "2026-09-14T18:11:19Z",
-      "first_seen_at": "2026-09-15T11:58:12.019757Z",
-      "last_seen_at": "2026-09-15T16:41:13.545759Z",
-      "title_original": "Astemo斥资3.8亿美元扩大美国电机产能",
-      "title_en": null,
-      "title_zh": "Astemo斥资3.8亿美元扩大美国电机产能",
-      "title_bilingual": "Astemo斥资3.8亿美元扩大美国电机产能",
-      "topic_tags": [
-        "供应链"
-      ]
-    },
-    {
-      "id": "e6ee131e3a4b9ef89f59a97aae0bd33f228c55f5",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新技术",
-      "title": "宝马申请新漂移系统专利",
-      "url": "https://auto.gasgoo.com/news/202609/14I70471995C409.shtml",
-      "published_at": "2026-09-14T17:08:22Z",
-      "first_seen_at": "2026-09-15T11:58:12.019757Z",
-      "last_seen_at": "2026-09-15T16:41:13.545759Z",
-      "title_original": "宝马申请新漂移系统专利",
-      "title_en": null,
-      "title_zh": "宝马申请新漂移系统专利",
-      "title_bilingual": "宝马申请新漂移系统专利",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "f330195e707266834f9e9c7a8063e7cfc0fc3af0",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新技术",
-      "title": "福特申请挡风玻璃湿气预处理系统专利",
-      "url": "https://auto.gasgoo.com/news/202609/14I70471994C409.shtml",
-      "published_at": "2026-09-14T17:04:00Z",
-      "first_seen_at": "2026-09-15T11:58:12.019757Z",
-      "last_seen_at": "2026-09-15T16:41:13.545759Z",
-      "title_original": "福特申请挡风玻璃湿气预处理系统专利",
-      "title_en": null,
-      "title_zh": "福特申请挡风玻璃湿气预处理系统专利",
-      "title_bilingual": "福特申请挡风玻璃湿气预处理系统专利",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "22cc8f838e39df69ce30eccf0c19958b28c3945e",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新技术",
-      "title": "INFAC推出创新电动汽车800V电池包设计 实现48V汽车区域架构",
-      "url": "https://auto.gasgoo.com/news/202609/14I70471993C409.shtml",
-      "published_at": "2026-09-14T16:56:27Z",
-      "first_seen_at": "2026-09-15T11:58:12.019757Z",
-      "last_seen_at": "2026-09-15T16:41:13.545759Z",
-      "title_original": "INFAC推出创新电动汽车800V电池包设计 实现48V汽车区域架构",
-      "title_en": null,
-      "title_zh": "INFAC推出创新电动汽车800V电池包设计 实现48V汽车区域架构",
-      "title_bilingual": "INFAC推出创新电动汽车800V电池包设计 实现48V汽车区域架构",
-      "topic_tags": [
-        "补能电池"
-      ]
-    },
-    {
-      "id": "ce44d15a2b096aac8315cf15810b9935ae71271c",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新技术",
-      "title": "SUTD开发出全新AI框架 可为自动驾驶系统生成更逼真的4D激光雷达场景",
-      "url": "https://auto.gasgoo.com/news/202609/14I70471988C409.shtml",
-      "published_at": "2026-09-14T16:53:07Z",
-      "first_seen_at": "2026-09-15T11:58:12.019757Z",
-      "last_seen_at": "2026-09-15T16:41:13.545759Z",
-      "title_original": "SUTD开发出全新AI框架 可为自动驾驶系统生成更逼真的4D激光雷达场景",
-      "title_en": null,
-      "title_zh": "SUTD开发出全新AI框架 可为自动驾驶系统生成更逼真的4D激光雷达场景",
-      "title_bilingual": "SUTD开发出全新AI框架 可为自动驾驶系统生成更逼真的4D激光雷达场景",
-      "topic_tags": [
-        "智能驾驶"
-      ]
-    },
-    {
-      "id": "4edba1215010b4fd547086d1b1aa7e1e8e062a1f",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "广汽停牌，与一汽有关？",
-      "url": "https://auto.gasgoo.com/news/202609/14I70471985C109.shtml",
-      "published_at": "2026-09-14T16:44:00Z",
-      "first_seen_at": "2026-09-15T11:58:12.019757Z",
-      "last_seen_at": "2026-09-15T16:41:13.545759Z",
-      "title_original": "广汽停牌，与一汽有关？",
-      "title_en": null,
-      "title_zh": "广汽停牌，与一汽有关？",
-      "title_bilingual": "广汽停牌，与一汽有关？",
       "topic_tags": [
         "车企竞争"
       ]
