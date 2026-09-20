@@ -1,54 +1,158 @@
 {
-  "generated_at": "2026-09-20T05:10:37.547657Z",
+  "generated_at": "2026-09-20T09:56:52.429412Z",
   "window_hours": 24,
-  "total_items": 13,
-  "total_items_ai_raw": 14,
-  "total_items_raw": 2938,
-  "total_items_all_mode": 2657,
+  "total_items": 19,
+  "total_items_ai_raw": 20,
+  "total_items_raw": 2885,
+  "total_items_all_mode": 2636,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 60111,
+  "archive_total": 60147,
   "site_count": 3,
   "source_count": 7,
   "site_stats": [
     {
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "count": 9,
-      "raw_count": 10
+      "count": 14,
+      "raw_count": 15
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
-      "count": 4,
-      "raw_count": 2820
+      "count": 5,
+      "raw_count": 2740
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "count": 0,
-      "raw_count": 108
+      "raw_count": 130
     }
   ],
   "topic_tag_stats": [
     {
       "tag": "新能源",
+      "count": 9
+    },
+    {
+      "tag": "车企竞争",
       "count": 6
     },
     {
       "tag": "购车决策",
-      "count": 6
+      "count": 5
+    },
+    {
+      "tag": "新车上市",
+      "count": 3
+    },
+    {
+      "tag": "销量市场",
+      "count": 3
+    },
+    {
+      "tag": "供应链",
+      "count": 2
     },
     {
       "tag": "补能电池",
       "count": 2
     },
     {
-      "tag": "车企竞争",
-      "count": 2
+      "tag": "价格战",
+      "count": 1
+    },
+    {
+      "tag": "召回安全",
+      "count": 1
+    },
+    {
+      "tag": "智能驾驶",
+      "count": 1
     }
   ],
   "items": [
     {
+      "id": "d426b5c8592cb00d696e2a2ea82010034caa86c7",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "懂车帝 · 文章排行榜",
+      "title": "9月上旬乘用车销量出炉：新能源零售渗透率达70.3%",
+      "url": "https://www.dongchedi.com/article/7686458881258766872",
+      "published_at": null,
+      "first_seen_at": "2026-09-20T09:56:52.429412Z",
+      "last_seen_at": "2026-09-20T09:56:52.429412Z",
+      "title_original": "9月上旬乘用车销量出炉：新能源零售渗透率达70.3%",
+      "title_en": null,
+      "title_zh": "9月上旬乘用车销量出炉：新能源零售渗透率达70.3%",
+      "title_bilingual": "9月上旬乘用车销量出炉：新能源零售渗透率达70.3%",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "986a3e0e38b04b8eff3ace1d1b0c160fdf19a5eb",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Dongfeng to trial-produce humanoid robots by year-end, targets human-level capability by end of 2027",
+      "url": "https://cnevpost.com/2026/09/20/dongfeng-trial-produce-humanoid-robots-year-end",
+      "published_at": "2026-09-20T08:42:30Z",
+      "first_seen_at": "2026-09-20T09:56:52.429412Z",
+      "last_seen_at": "2026-09-20T09:56:52.429412Z",
+      "title_original": "Dongfeng to trial-produce humanoid robots by year-end, targets human-level capability by end of 2027",
+      "title_en": "Dongfeng to trial-produce humanoid robots by year-end, targets human-level capability by end of 2027",
+      "title_zh": "东风年底试制人形机器人 目标2027年底达到人类水平",
+      "title_bilingual": "东风年底试制人形机器人 目标2027年底达到人类水平 / Dongfeng to trial-produce humanoid robots by year-end, targets human-level capability by end of 2027",
+      "topic_tags": [
+        "新能源"
+      ]
+    },
+    {
+      "id": "0901f3ab8adec9caca15cab6cf27641a926e503d",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Huawei-backed Luxeed adds smaller-battery version of RX, lowering entry pre-sales price",
+      "url": "https://cnevpost.com/2026/09/20/luxeed-adds-smaller-battery-version-rx",
+      "published_at": "2026-09-20T07:18:20Z",
+      "first_seen_at": "2026-09-20T09:56:52.429412Z",
+      "last_seen_at": "2026-09-20T09:56:52.429412Z",
+      "title_original": "Huawei-backed Luxeed adds smaller-battery version of RX, lowering entry pre-sales price",
+      "title_en": "Huawei-backed Luxeed adds smaller-battery version of RX, lowering entry pre-sales price",
+      "title_zh": "华为支持的 Luxeed 推出小电池版 RX，降低入门预售价",
+      "title_bilingual": "华为支持的 Luxeed 推出小电池版 RX，降低入门预售价 / Huawei-backed Luxeed adds smaller-battery version of RX, lowering entry pre-sales price",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "价格战",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "27087baf54dfcb2fe4865b1245ba5065f104e4ff",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Nio's third-gen ES8 hits 150,000 deliveries on first anniversary of launch",
+      "url": "https://cnevpost.com/2026/09/20/nio-3rd-gen-es8-150000-deliveries",
+      "published_at": "2026-09-20T05:37:52Z",
+      "first_seen_at": "2026-09-20T09:56:52.429412Z",
+      "last_seen_at": "2026-09-20T09:56:52.429412Z",
+      "title_original": "Nio's third-gen ES8 hits 150,000 deliveries on first anniversary of launch",
+      "title_en": "Nio's third-gen ES8 hits 150,000 deliveries on first anniversary of launch",
+      "title_zh": "蔚来第三代ES8上市一周年销量突破15万辆",
+      "title_bilingual": "蔚来第三代ES8上市一周年销量突破15万辆 / Nio's third-gen ES8 hits 150,000 deliveries on first anniversary of launch",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
       "id": "2a02e97ebaad2ed665e983e3041d64ea6d807014",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -57,13 +161,14 @@
       "url": "https://cnevpost.com/2026/09/20/epicland-x9-launch-sept-24-2026",
       "published_at": "2026-09-20T04:01:44Z",
       "first_seen_at": "2026-09-20T05:10:37.547657Z",
-      "last_seen_at": "2026-09-20T05:10:37.547657Z",
+      "last_seen_at": "2026-09-20T09:56:52.429412Z",
       "title_original": "Epicland X9 to launch on September 24 as first model from Dongfeng-Huawei brand",
       "title_en": "Epicland X9 to launch on September 24 as first model from Dongfeng-Huawei brand",
-      "title_zh": null,
-      "title_bilingual": "Epicland X9 to launch on September 24 as first model from Dongfeng-Huawei brand",
+      "title_zh": "东风华为品牌首款车型Epicland X9将于9月24日上市",
+      "title_bilingual": "东风华为品牌首款车型Epicland X9将于9月24日上市 / Epicland X9 to launch on September 24 as first model from Dongfeng-Huawei brand",
       "topic_tags": [
-        "新能源"
+        "新能源",
+        "新车上市"
       ]
     },
     {
@@ -75,13 +180,14 @@
       "url": "https://cnevpost.com/2026/09/20/toyota-plans-china-made-erevs-2027",
       "published_at": "2026-09-20T03:04:12Z",
       "first_seen_at": "2026-09-20T05:10:37.547657Z",
-      "last_seen_at": "2026-09-20T05:10:37.547657Z",
+      "last_seen_at": "2026-09-20T09:56:52.429412Z",
       "title_original": "Toyota plans China-made extended-range EVs in 2027 to broaden lineup, report says",
       "title_en": "Toyota plans China-made extended-range EVs in 2027 to broaden lineup, report says",
-      "title_zh": null,
-      "title_bilingual": "Toyota plans China-made extended-range EVs in 2027 to broaden lineup, report says",
+      "title_zh": "报道称，丰田计划在 2027 年推出中国制造的增程电动汽车，以扩大产品阵容",
+      "title_bilingual": "报道称，丰田计划在 2027 年推出中国制造的增程电动汽车，以扩大产品阵容 / Toyota plans China-made extended-range EVs in 2027 to broaden lineup, report says",
       "topic_tags": [
-        "新能源"
+        "新能源",
+        "供应链"
       ]
     },
     {
@@ -93,7 +199,7 @@
       "url": "http://vc.yiche.com/vplay/13292820.html",
       "published_at": null,
       "first_seen_at": "2026-09-19T20:00:54.551993Z",
-      "last_seen_at": "2026-09-20T05:10:37.547657Z",
+      "last_seen_at": "2026-09-20T09:56:52.429412Z",
       "title_original": "“销冠”的再进化 试驾全新第四代博越L",
       "title_en": null,
       "title_zh": "“销冠”的再进化 试驾全新第四代博越L",
@@ -111,7 +217,7 @@
       "url": "http://vc.yiche.com/vplay/13290846.html",
       "published_at": null,
       "first_seen_at": "2026-09-19T20:00:54.551993Z",
-      "last_seen_at": "2026-09-20T05:10:37.547657Z",
+      "last_seen_at": "2026-09-20T09:56:52.429412Z",
       "title_original": "城里是绅士雨林是硬汉 全路况抢先试驾红旗G919",
       "title_en": null,
       "title_zh": "城里是绅士雨林是硬汉 全路况抢先试驾红旗G919",
@@ -129,7 +235,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/56a9f0891ae12c14/115861460-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-19T17:44:44.593787Z",
-      "last_seen_at": "2026-09-20T05:10:37.547657Z",
+      "last_seen_at": "2026-09-20T09:56:52.429412Z",
       "title_original": "靠谱的搭档 小鹏G6用车心得小结",
       "title_en": null,
       "title_zh": "靠谱的搭档 小鹏G6用车心得小结",
@@ -148,7 +254,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/23dec3e9c52c5dbc/115986994-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-19T17:44:44.593787Z",
-      "last_seen_at": "2026-09-20T05:10:37.547657Z",
+      "last_seen_at": "2026-09-20T09:56:52.429412Z",
       "title_original": "用车成本低 海狮05 EV提车分享",
       "title_en": null,
       "title_zh": "用车成本低 海狮05 EV提车分享",
@@ -156,6 +262,101 @@
       "topic_tags": [
         "新能源",
         "购车决策"
+      ]
+    },
+    {
+      "id": "a76b3615a689bab95755d63d9298909f91268d97",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "张桂华：滨海新区集聚整车产能135万辆 上半年新能源产量增长38.2%｜泰达论坛",
+      "url": "https://auto.gasgoo.com/news/202609/19I70472609C108.shtml",
+      "published_at": "2026-09-19T17:10:41Z",
+      "first_seen_at": "2026-09-20T09:56:52.429412Z",
+      "last_seen_at": "2026-09-20T09:56:52.429412Z",
+      "title_original": "张桂华：滨海新区集聚整车产能135万辆 上半年新能源产量增长38.2%｜泰达论坛",
+      "title_en": null,
+      "title_zh": "张桂华：滨海新区集聚整车产能135万辆 上半年新能源产量增长38.2%｜泰达论坛",
+      "title_bilingual": "张桂华：滨海新区集聚整车产能135万辆 上半年新能源产量增长38.2%｜泰达论坛",
+      "topic_tags": [
+        "新能源",
+        "供应链"
+      ]
+    },
+    {
+      "id": "9cb4b0702f4ce145827d0be0b4e990eb64ef62c4",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "王芳：新能源转向市场与技术双轮驱动 固态电池成竞争新赛道｜2026泰达论坛",
+      "url": "https://auto.gasgoo.com/news/202609/19I70472603C108.shtml",
+      "published_at": "2026-09-19T16:30:28Z",
+      "first_seen_at": "2026-09-20T09:56:52.429412Z",
+      "last_seen_at": "2026-09-20T09:56:52.429412Z",
+      "title_original": "王芳：新能源转向市场与技术双轮驱动 固态电池成竞争新赛道｜2026泰达论坛",
+      "title_en": null,
+      "title_zh": "王芳：新能源转向市场与技术双轮驱动 固态电池成竞争新赛道｜2026泰达论坛",
+      "title_bilingual": "王芳：新能源转向市场与技术双轮驱动 固态电池成竞争新赛道｜2026泰达论坛",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "3d38446c5a2feff038aa200d3d3cef27f4547c80",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "赛力斯刘宗成：以“1+2+N”构建开放协同模式 拒绝粗放式增长｜2026泰达论坛",
+      "url": "https://auto.gasgoo.com/news/202609/19I70472602C109.shtml",
+      "published_at": "2026-09-19T16:11:36Z",
+      "first_seen_at": "2026-09-20T09:56:52.429412Z",
+      "last_seen_at": "2026-09-20T09:56:52.429412Z",
+      "title_original": "赛力斯刘宗成：以“1+2+N”构建开放协同模式 拒绝粗放式增长｜2026泰达论坛",
+      "title_en": null,
+      "title_zh": "赛力斯刘宗成：以“1+2+N”构建开放协同模式 拒绝粗放式增长｜2026泰达论坛",
+      "title_bilingual": "赛力斯刘宗成：以“1+2+N”构建开放协同模式 拒绝粗放式增长｜2026泰达论坛",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "74eb77489093d3689ccc7be1b67e8fb737149f59",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "徐剑：干线货运降本安全双重承压 自动驾驶规模化被寄予厚望｜2026泰达论坛",
+      "url": "https://auto.gasgoo.com/news/202609/19I70472601C108.shtml",
+      "published_at": "2026-09-19T15:48:24Z",
+      "first_seen_at": "2026-09-20T09:56:52.429412Z",
+      "last_seen_at": "2026-09-20T09:56:52.429412Z",
+      "title_original": "徐剑：干线货运降本安全双重承压 自动驾驶规模化被寄予厚望｜2026泰达论坛",
+      "title_en": null,
+      "title_zh": "徐剑：干线货运降本安全双重承压 自动驾驶规模化被寄予厚望｜2026泰达论坛",
+      "title_bilingual": "徐剑：干线货运降本安全双重承压 自动驾驶规模化被寄予厚望｜2026泰达论坛",
+      "topic_tags": [
+        "智能驾驶",
+        "召回安全"
+      ]
+    },
+    {
+      "id": "c106baaeff562cc15c9ec30638183c88e824502a",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "张晓宇：智能汽车需打通用户、服务、产业三类生态的有效连接｜2026泰达论坛",
+      "url": "https://auto.gasgoo.com/news/202609/19I70472597C109.shtml",
+      "published_at": "2026-09-19T15:25:54Z",
+      "first_seen_at": "2026-09-20T09:56:52.429412Z",
+      "last_seen_at": "2026-09-20T09:56:52.429412Z",
+      "title_original": "张晓宇：智能汽车需打通用户、服务、产业三类生态的有效连接｜2026泰达论坛",
+      "title_en": null,
+      "title_zh": "张晓宇：智能汽车需打通用户、服务、产业三类生态的有效连接｜2026泰达论坛",
+      "title_bilingual": "张晓宇：智能汽车需打通用户、服务、产业三类生态的有效连接｜2026泰达论坛",
+      "topic_tags": [
+        "车企竞争"
       ]
     },
     {
@@ -167,7 +368,7 @@
       "url": "https://auto.gasgoo.com/news/202609/19I70472447C601.shtml",
       "published_at": "2026-09-19T11:07:27Z",
       "first_seen_at": "2026-09-20T05:10:37.547657Z",
-      "last_seen_at": "2026-09-20T05:10:37.547657Z",
+      "last_seen_at": "2026-09-20T09:56:52.429412Z",
       "title_original": "机器人要上岗，怎样才算“会干活”？",
       "title_en": null,
       "title_zh": "机器人要上岗，怎样才算“会干活”？",
@@ -183,7 +384,7 @@
       "url": "https://auto.gasgoo.com/news/202609/19I70472594C108.shtml",
       "published_at": "2026-09-19T10:57:51Z",
       "first_seen_at": "2026-09-20T05:10:37.547657Z",
-      "last_seen_at": "2026-09-20T05:10:37.547657Z",
+      "last_seen_at": "2026-09-20T09:56:52.429412Z",
       "title_original": "王卫明：下一阶段，将实施汽车标准提升专项行动｜2026泰达论坛",
       "title_en": null,
       "title_zh": "王卫明：下一阶段，将实施汽车标准提升专项行动｜2026泰达论坛",
@@ -199,7 +400,7 @@
       "url": "https://auto.gasgoo.com/news/202609/19I70472593C109.shtml",
       "published_at": "2026-09-19T10:53:50Z",
       "first_seen_at": "2026-09-20T05:10:37.547657Z",
-      "last_seen_at": "2026-09-20T05:10:37.547657Z",
+      "last_seen_at": "2026-09-20T09:56:52.429412Z",
       "title_original": "罗俊杰：车企需摒弃进口依赖思维，国产装备已进入“局部领跑”阶段｜2026泰达论坛",
       "title_en": null,
       "title_zh": "罗俊杰：车企需摒弃进口依赖思维，国产装备已进入“局部领跑”阶段｜2026泰达论坛",
@@ -217,74 +418,96 @@
       "url": "https://auto.gasgoo.com/news/202609/19I70472590C108.shtml",
       "published_at": "2026-09-19T10:15:18Z",
       "first_seen_at": "2026-09-20T05:10:37.547657Z",
-      "last_seen_at": "2026-09-20T05:10:37.547657Z",
+      "last_seen_at": "2026-09-20T09:56:52.429412Z",
       "title_original": "龚进峰：四点建议支撑汽车强国建设｜2026泰达论坛",
       "title_en": null,
       "title_zh": "龚进峰：四点建议支撑汽车强国建设｜2026泰达论坛",
       "title_bilingual": "龚进峰：四点建议支撑汽车强国建设｜2026泰达论坛",
       "topic_tags": []
-    },
-    {
-      "id": "6d0956475ae356d0803d9b2495525f6fe77dbffc",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Aito owners find solidarity with Dongfeng’s budget brand in wake of Huawei & Seres “divorce”",
-      "url": "https://carnewschina.com/2026/09/19/aito-owners-find-solidarity-with-dongfengs-budget-brand-in-wake-of-huawei-seres-divorce",
-      "published_at": "2026-09-19T08:37:50Z",
-      "first_seen_at": "2026-09-19T11:19:40.989501Z",
-      "last_seen_at": "2026-09-20T05:10:37.547657Z",
-      "title_original": "Aito owners find solidarity with Dongfeng’s budget brand in wake of Huawei & Seres “divorce”",
-      "title_en": "Aito owners find solidarity with Dongfeng’s budget brand in wake of Huawei & Seres “divorce”",
-      "title_zh": "华为与塞雷斯“离婚”后，Aito车主与东风的廉价品牌站在一起",
-      "title_bilingual": "华为与塞雷斯“离婚”后，Aito车主与东风的廉价品牌站在一起 / Aito owners find solidarity with Dongfeng’s budget brand in wake of Huawei & Seres “divorce”",
-      "topic_tags": [
-        "新能源",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "b905aa50d7722ee4ba928f98ade9dcc69f266b63",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新能源",
-      "title": "中国换电重卡首次驶入欧非运输走廊，国轩高科提供一体化运力方案",
-      "url": "https://auto.gasgoo.com/news/202609/19I70472586C501.shtml",
-      "published_at": "2026-09-19T07:13:33Z",
-      "first_seen_at": "2026-09-20T00:14:13.414838Z",
-      "last_seen_at": "2026-09-20T05:10:37.547657Z",
-      "title_original": "中国换电重卡首次驶入欧非运输走廊，国轩高科提供一体化运力方案",
-      "title_en": null,
-      "title_zh": "中国换电重卡首次驶入欧非运输走廊，国轩高科提供一体化运力方案",
-      "title_bilingual": "中国换电重卡首次驶入欧非运输走廊，国轩高科提供一体化运力方案",
-      "topic_tags": [
-        "新能源",
-        "补能电池"
-      ]
-    },
-    {
-      "id": "8b039ec834d3867f236e3fadc43bc6ea4d0a6ff9",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新能源",
-      "title": "中汽中心刘仕强：固态电池完成从0到1突破，测评体系与产业化仍是核心挑战｜2026泰达论坛",
-      "url": "https://auto.gasgoo.com/news/202609/19I70472583C501.shtml",
-      "published_at": "2026-09-19T06:36:39Z",
-      "first_seen_at": "2026-09-20T00:14:13.414838Z",
-      "last_seen_at": "2026-09-20T05:10:37.547657Z",
-      "title_original": "中汽中心刘仕强：固态电池完成从0到1突破，测评体系与产业化仍是核心挑战｜2026泰达论坛",
-      "title_en": null,
-      "title_zh": "中汽中心刘仕强：固态电池完成从0到1突破，测评体系与产业化仍是核心挑战｜2026泰达论坛",
-      "title_bilingual": "中汽中心刘仕强：固态电池完成从0到1突破，测评体系与产业化仍是核心挑战｜2026泰达论坛",
-      "topic_tags": [
-        "新能源",
-        "补能电池",
-        "购车决策"
-      ]
     }
   ],
   "items_ai": [
     {
+      "id": "d426b5c8592cb00d696e2a2ea82010034caa86c7",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "懂车帝 · 文章排行榜",
+      "title": "9月上旬乘用车销量出炉：新能源零售渗透率达70.3%",
+      "url": "https://www.dongchedi.com/article/7686458881258766872",
+      "published_at": null,
+      "first_seen_at": "2026-09-20T09:56:52.429412Z",
+      "last_seen_at": "2026-09-20T09:56:52.429412Z",
+      "title_original": "9月上旬乘用车销量出炉：新能源零售渗透率达70.3%",
+      "title_en": null,
+      "title_zh": "9月上旬乘用车销量出炉：新能源零售渗透率达70.3%",
+      "title_bilingual": "9月上旬乘用车销量出炉：新能源零售渗透率达70.3%",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "986a3e0e38b04b8eff3ace1d1b0c160fdf19a5eb",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Dongfeng to trial-produce humanoid robots by year-end, targets human-level capability by end of 2027",
+      "url": "https://cnevpost.com/2026/09/20/dongfeng-trial-produce-humanoid-robots-year-end",
+      "published_at": "2026-09-20T08:42:30Z",
+      "first_seen_at": "2026-09-20T09:56:52.429412Z",
+      "last_seen_at": "2026-09-20T09:56:52.429412Z",
+      "title_original": "Dongfeng to trial-produce humanoid robots by year-end, targets human-level capability by end of 2027",
+      "title_en": "Dongfeng to trial-produce humanoid robots by year-end, targets human-level capability by end of 2027",
+      "title_zh": "东风年底试制人形机器人 目标2027年底达到人类水平",
+      "title_bilingual": "东风年底试制人形机器人 目标2027年底达到人类水平 / Dongfeng to trial-produce humanoid robots by year-end, targets human-level capability by end of 2027",
+      "topic_tags": [
+        "新能源"
+      ]
+    },
+    {
+      "id": "0901f3ab8adec9caca15cab6cf27641a926e503d",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Huawei-backed Luxeed adds smaller-battery version of RX, lowering entry pre-sales price",
+      "url": "https://cnevpost.com/2026/09/20/luxeed-adds-smaller-battery-version-rx",
+      "published_at": "2026-09-20T07:18:20Z",
+      "first_seen_at": "2026-09-20T09:56:52.429412Z",
+      "last_seen_at": "2026-09-20T09:56:52.429412Z",
+      "title_original": "Huawei-backed Luxeed adds smaller-battery version of RX, lowering entry pre-sales price",
+      "title_en": "Huawei-backed Luxeed adds smaller-battery version of RX, lowering entry pre-sales price",
+      "title_zh": "华为支持的 Luxeed 推出小电池版 RX，降低入门预售价",
+      "title_bilingual": "华为支持的 Luxeed 推出小电池版 RX，降低入门预售价 / Huawei-backed Luxeed adds smaller-battery version of RX, lowering entry pre-sales price",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "价格战",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "27087baf54dfcb2fe4865b1245ba5065f104e4ff",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Nio's third-gen ES8 hits 150,000 deliveries on first anniversary of launch",
+      "url": "https://cnevpost.com/2026/09/20/nio-3rd-gen-es8-150000-deliveries",
+      "published_at": "2026-09-20T05:37:52Z",
+      "first_seen_at": "2026-09-20T09:56:52.429412Z",
+      "last_seen_at": "2026-09-20T09:56:52.429412Z",
+      "title_original": "Nio's third-gen ES8 hits 150,000 deliveries on first anniversary of launch",
+      "title_en": "Nio's third-gen ES8 hits 150,000 deliveries on first anniversary of launch",
+      "title_zh": "蔚来第三代ES8上市一周年销量突破15万辆",
+      "title_bilingual": "蔚来第三代ES8上市一周年销量突破15万辆 / Nio's third-gen ES8 hits 150,000 deliveries on first anniversary of launch",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
       "id": "2a02e97ebaad2ed665e983e3041d64ea6d807014",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -293,13 +516,14 @@
       "url": "https://cnevpost.com/2026/09/20/epicland-x9-launch-sept-24-2026",
       "published_at": "2026-09-20T04:01:44Z",
       "first_seen_at": "2026-09-20T05:10:37.547657Z",
-      "last_seen_at": "2026-09-20T05:10:37.547657Z",
+      "last_seen_at": "2026-09-20T09:56:52.429412Z",
       "title_original": "Epicland X9 to launch on September 24 as first model from Dongfeng-Huawei brand",
       "title_en": "Epicland X9 to launch on September 24 as first model from Dongfeng-Huawei brand",
-      "title_zh": null,
-      "title_bilingual": "Epicland X9 to launch on September 24 as first model from Dongfeng-Huawei brand",
+      "title_zh": "东风华为品牌首款车型Epicland X9将于9月24日上市",
+      "title_bilingual": "东风华为品牌首款车型Epicland X9将于9月24日上市 / Epicland X9 to launch on September 24 as first model from Dongfeng-Huawei brand",
       "topic_tags": [
-        "新能源"
+        "新能源",
+        "新车上市"
       ]
     },
     {
@@ -311,13 +535,14 @@
       "url": "https://cnevpost.com/2026/09/20/toyota-plans-china-made-erevs-2027",
       "published_at": "2026-09-20T03:04:12Z",
       "first_seen_at": "2026-09-20T05:10:37.547657Z",
-      "last_seen_at": "2026-09-20T05:10:37.547657Z",
+      "last_seen_at": "2026-09-20T09:56:52.429412Z",
       "title_original": "Toyota plans China-made extended-range EVs in 2027 to broaden lineup, report says",
       "title_en": "Toyota plans China-made extended-range EVs in 2027 to broaden lineup, report says",
-      "title_zh": null,
-      "title_bilingual": "Toyota plans China-made extended-range EVs in 2027 to broaden lineup, report says",
+      "title_zh": "报道称，丰田计划在 2027 年推出中国制造的增程电动汽车，以扩大产品阵容",
+      "title_bilingual": "报道称，丰田计划在 2027 年推出中国制造的增程电动汽车，以扩大产品阵容 / Toyota plans China-made extended-range EVs in 2027 to broaden lineup, report says",
       "topic_tags": [
-        "新能源"
+        "新能源",
+        "供应链"
       ]
     },
     {
@@ -329,7 +554,7 @@
       "url": "http://vc.yiche.com/vplay/13292820.html",
       "published_at": null,
       "first_seen_at": "2026-09-19T20:00:54.551993Z",
-      "last_seen_at": "2026-09-20T05:10:37.547657Z",
+      "last_seen_at": "2026-09-20T09:56:52.429412Z",
       "title_original": "“销冠”的再进化 试驾全新第四代博越L",
       "title_en": null,
       "title_zh": "“销冠”的再进化 试驾全新第四代博越L",
@@ -347,7 +572,7 @@
       "url": "http://vc.yiche.com/vplay/13290846.html",
       "published_at": null,
       "first_seen_at": "2026-09-19T20:00:54.551993Z",
-      "last_seen_at": "2026-09-20T05:10:37.547657Z",
+      "last_seen_at": "2026-09-20T09:56:52.429412Z",
       "title_original": "城里是绅士雨林是硬汉 全路况抢先试驾红旗G919",
       "title_en": null,
       "title_zh": "城里是绅士雨林是硬汉 全路况抢先试驾红旗G919",
@@ -365,7 +590,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/56a9f0891ae12c14/115861460-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-19T17:44:44.593787Z",
-      "last_seen_at": "2026-09-20T05:10:37.547657Z",
+      "last_seen_at": "2026-09-20T09:56:52.429412Z",
       "title_original": "靠谱的搭档 小鹏G6用车心得小结",
       "title_en": null,
       "title_zh": "靠谱的搭档 小鹏G6用车心得小结",
@@ -384,7 +609,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/23dec3e9c52c5dbc/115986994-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-19T17:44:44.593787Z",
-      "last_seen_at": "2026-09-20T05:10:37.547657Z",
+      "last_seen_at": "2026-09-20T09:56:52.429412Z",
       "title_original": "用车成本低 海狮05 EV提车分享",
       "title_en": null,
       "title_zh": "用车成本低 海狮05 EV提车分享",
@@ -392,6 +617,101 @@
       "topic_tags": [
         "新能源",
         "购车决策"
+      ]
+    },
+    {
+      "id": "a76b3615a689bab95755d63d9298909f91268d97",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "张桂华：滨海新区集聚整车产能135万辆 上半年新能源产量增长38.2%｜泰达论坛",
+      "url": "https://auto.gasgoo.com/news/202609/19I70472609C108.shtml",
+      "published_at": "2026-09-19T17:10:41Z",
+      "first_seen_at": "2026-09-20T09:56:52.429412Z",
+      "last_seen_at": "2026-09-20T09:56:52.429412Z",
+      "title_original": "张桂华：滨海新区集聚整车产能135万辆 上半年新能源产量增长38.2%｜泰达论坛",
+      "title_en": null,
+      "title_zh": "张桂华：滨海新区集聚整车产能135万辆 上半年新能源产量增长38.2%｜泰达论坛",
+      "title_bilingual": "张桂华：滨海新区集聚整车产能135万辆 上半年新能源产量增长38.2%｜泰达论坛",
+      "topic_tags": [
+        "新能源",
+        "供应链"
+      ]
+    },
+    {
+      "id": "9cb4b0702f4ce145827d0be0b4e990eb64ef62c4",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "王芳：新能源转向市场与技术双轮驱动 固态电池成竞争新赛道｜2026泰达论坛",
+      "url": "https://auto.gasgoo.com/news/202609/19I70472603C108.shtml",
+      "published_at": "2026-09-19T16:30:28Z",
+      "first_seen_at": "2026-09-20T09:56:52.429412Z",
+      "last_seen_at": "2026-09-20T09:56:52.429412Z",
+      "title_original": "王芳：新能源转向市场与技术双轮驱动 固态电池成竞争新赛道｜2026泰达论坛",
+      "title_en": null,
+      "title_zh": "王芳：新能源转向市场与技术双轮驱动 固态电池成竞争新赛道｜2026泰达论坛",
+      "title_bilingual": "王芳：新能源转向市场与技术双轮驱动 固态电池成竞争新赛道｜2026泰达论坛",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "3d38446c5a2feff038aa200d3d3cef27f4547c80",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "赛力斯刘宗成：以“1+2+N”构建开放协同模式 拒绝粗放式增长｜2026泰达论坛",
+      "url": "https://auto.gasgoo.com/news/202609/19I70472602C109.shtml",
+      "published_at": "2026-09-19T16:11:36Z",
+      "first_seen_at": "2026-09-20T09:56:52.429412Z",
+      "last_seen_at": "2026-09-20T09:56:52.429412Z",
+      "title_original": "赛力斯刘宗成：以“1+2+N”构建开放协同模式 拒绝粗放式增长｜2026泰达论坛",
+      "title_en": null,
+      "title_zh": "赛力斯刘宗成：以“1+2+N”构建开放协同模式 拒绝粗放式增长｜2026泰达论坛",
+      "title_bilingual": "赛力斯刘宗成：以“1+2+N”构建开放协同模式 拒绝粗放式增长｜2026泰达论坛",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "74eb77489093d3689ccc7be1b67e8fb737149f59",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "徐剑：干线货运降本安全双重承压 自动驾驶规模化被寄予厚望｜2026泰达论坛",
+      "url": "https://auto.gasgoo.com/news/202609/19I70472601C108.shtml",
+      "published_at": "2026-09-19T15:48:24Z",
+      "first_seen_at": "2026-09-20T09:56:52.429412Z",
+      "last_seen_at": "2026-09-20T09:56:52.429412Z",
+      "title_original": "徐剑：干线货运降本安全双重承压 自动驾驶规模化被寄予厚望｜2026泰达论坛",
+      "title_en": null,
+      "title_zh": "徐剑：干线货运降本安全双重承压 自动驾驶规模化被寄予厚望｜2026泰达论坛",
+      "title_bilingual": "徐剑：干线货运降本安全双重承压 自动驾驶规模化被寄予厚望｜2026泰达论坛",
+      "topic_tags": [
+        "智能驾驶",
+        "召回安全"
+      ]
+    },
+    {
+      "id": "c106baaeff562cc15c9ec30638183c88e824502a",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "张晓宇：智能汽车需打通用户、服务、产业三类生态的有效连接｜2026泰达论坛",
+      "url": "https://auto.gasgoo.com/news/202609/19I70472597C109.shtml",
+      "published_at": "2026-09-19T15:25:54Z",
+      "first_seen_at": "2026-09-20T09:56:52.429412Z",
+      "last_seen_at": "2026-09-20T09:56:52.429412Z",
+      "title_original": "张晓宇：智能汽车需打通用户、服务、产业三类生态的有效连接｜2026泰达论坛",
+      "title_en": null,
+      "title_zh": "张晓宇：智能汽车需打通用户、服务、产业三类生态的有效连接｜2026泰达论坛",
+      "title_bilingual": "张晓宇：智能汽车需打通用户、服务、产业三类生态的有效连接｜2026泰达论坛",
+      "topic_tags": [
+        "车企竞争"
       ]
     },
     {
@@ -403,7 +723,7 @@
       "url": "https://auto.gasgoo.com/news/202609/19I70472447C601.shtml",
       "published_at": "2026-09-19T11:07:27Z",
       "first_seen_at": "2026-09-20T05:10:37.547657Z",
-      "last_seen_at": "2026-09-20T05:10:37.547657Z",
+      "last_seen_at": "2026-09-20T09:56:52.429412Z",
       "title_original": "机器人要上岗，怎样才算“会干活”？",
       "title_en": null,
       "title_zh": "机器人要上岗，怎样才算“会干活”？",
@@ -419,7 +739,7 @@
       "url": "https://auto.gasgoo.com/news/202609/19I70472594C108.shtml",
       "published_at": "2026-09-19T10:57:51Z",
       "first_seen_at": "2026-09-20T05:10:37.547657Z",
-      "last_seen_at": "2026-09-20T05:10:37.547657Z",
+      "last_seen_at": "2026-09-20T09:56:52.429412Z",
       "title_original": "王卫明：下一阶段，将实施汽车标准提升专项行动｜2026泰达论坛",
       "title_en": null,
       "title_zh": "王卫明：下一阶段，将实施汽车标准提升专项行动｜2026泰达论坛",
@@ -435,7 +755,7 @@
       "url": "https://auto.gasgoo.com/news/202609/19I70472593C109.shtml",
       "published_at": "2026-09-19T10:53:50Z",
       "first_seen_at": "2026-09-20T05:10:37.547657Z",
-      "last_seen_at": "2026-09-20T05:10:37.547657Z",
+      "last_seen_at": "2026-09-20T09:56:52.429412Z",
       "title_original": "罗俊杰：车企需摒弃进口依赖思维，国产装备已进入“局部领跑”阶段｜2026泰达论坛",
       "title_en": null,
       "title_zh": "罗俊杰：车企需摒弃进口依赖思维，国产装备已进入“局部领跑”阶段｜2026泰达论坛",
@@ -453,70 +773,12 @@
       "url": "https://auto.gasgoo.com/news/202609/19I70472590C108.shtml",
       "published_at": "2026-09-19T10:15:18Z",
       "first_seen_at": "2026-09-20T05:10:37.547657Z",
-      "last_seen_at": "2026-09-20T05:10:37.547657Z",
+      "last_seen_at": "2026-09-20T09:56:52.429412Z",
       "title_original": "龚进峰：四点建议支撑汽车强国建设｜2026泰达论坛",
       "title_en": null,
       "title_zh": "龚进峰：四点建议支撑汽车强国建设｜2026泰达论坛",
       "title_bilingual": "龚进峰：四点建议支撑汽车强国建设｜2026泰达论坛",
       "topic_tags": []
-    },
-    {
-      "id": "6d0956475ae356d0803d9b2495525f6fe77dbffc",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Aito owners find solidarity with Dongfeng’s budget brand in wake of Huawei & Seres “divorce”",
-      "url": "https://carnewschina.com/2026/09/19/aito-owners-find-solidarity-with-dongfengs-budget-brand-in-wake-of-huawei-seres-divorce",
-      "published_at": "2026-09-19T08:37:50Z",
-      "first_seen_at": "2026-09-19T11:19:40.989501Z",
-      "last_seen_at": "2026-09-20T05:10:37.547657Z",
-      "title_original": "Aito owners find solidarity with Dongfeng’s budget brand in wake of Huawei & Seres “divorce”",
-      "title_en": "Aito owners find solidarity with Dongfeng’s budget brand in wake of Huawei & Seres “divorce”",
-      "title_zh": "华为与塞雷斯“离婚”后，Aito车主与东风的廉价品牌站在一起",
-      "title_bilingual": "华为与塞雷斯“离婚”后，Aito车主与东风的廉价品牌站在一起 / Aito owners find solidarity with Dongfeng’s budget brand in wake of Huawei & Seres “divorce”",
-      "topic_tags": [
-        "新能源",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "b905aa50d7722ee4ba928f98ade9dcc69f266b63",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新能源",
-      "title": "中国换电重卡首次驶入欧非运输走廊，国轩高科提供一体化运力方案",
-      "url": "https://auto.gasgoo.com/news/202609/19I70472586C501.shtml",
-      "published_at": "2026-09-19T07:13:33Z",
-      "first_seen_at": "2026-09-20T00:14:13.414838Z",
-      "last_seen_at": "2026-09-20T05:10:37.547657Z",
-      "title_original": "中国换电重卡首次驶入欧非运输走廊，国轩高科提供一体化运力方案",
-      "title_en": null,
-      "title_zh": "中国换电重卡首次驶入欧非运输走廊，国轩高科提供一体化运力方案",
-      "title_bilingual": "中国换电重卡首次驶入欧非运输走廊，国轩高科提供一体化运力方案",
-      "topic_tags": [
-        "新能源",
-        "补能电池"
-      ]
-    },
-    {
-      "id": "8b039ec834d3867f236e3fadc43bc6ea4d0a6ff9",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新能源",
-      "title": "中汽中心刘仕强：固态电池完成从0到1突破，测评体系与产业化仍是核心挑战｜2026泰达论坛",
-      "url": "https://auto.gasgoo.com/news/202609/19I70472583C501.shtml",
-      "published_at": "2026-09-19T06:36:39Z",
-      "first_seen_at": "2026-09-20T00:14:13.414838Z",
-      "last_seen_at": "2026-09-20T05:10:37.547657Z",
-      "title_original": "中汽中心刘仕强：固态电池完成从0到1突破，测评体系与产业化仍是核心挑战｜2026泰达论坛",
-      "title_en": null,
-      "title_zh": "中汽中心刘仕强：固态电池完成从0到1突破，测评体系与产业化仍是核心挑战｜2026泰达论坛",
-      "title_bilingual": "中汽中心刘仕强：固态电池完成从0到1突破，测评体系与产业化仍是核心挑战｜2026泰达论坛",
-      "topic_tags": [
-        "新能源",
-        "补能电池",
-        "购车决策"
-      ]
     }
   ],
   "all_mode_data_url": "data/latest-24h-all.json"
