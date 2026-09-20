@@ -1,42 +1,42 @@
 {
-  "generated_at": "2026-09-20T09:56:52.429412Z",
+  "generated_at": "2026-09-20T13:59:33.176597Z",
   "window_hours": 24,
-  "total_items": 19,
-  "total_items_ai_raw": 20,
-  "total_items_raw": 2885,
-  "total_items_all_mode": 2636,
+  "total_items": 18,
+  "total_items_ai_raw": 18,
+  "total_items_raw": 2757,
+  "total_items_all_mode": 2525,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 60147,
+  "archive_total": 60028,
   "site_count": 3,
-  "source_count": 7,
+  "source_count": 6,
   "site_stats": [
     {
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "count": 14,
-      "raw_count": 15
+      "count": 13,
+      "raw_count": 13
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "count": 5,
-      "raw_count": 2740
+      "raw_count": 2619
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "count": 0,
-      "raw_count": 130
+      "raw_count": 125
     }
   ],
   "topic_tag_stats": [
     {
       "tag": "新能源",
-      "count": 9
+      "count": 11
     },
     {
       "tag": "车企竞争",
-      "count": 6
+      "count": 7
     },
     {
       "tag": "购车决策",
@@ -44,14 +44,22 @@
     },
     {
       "tag": "新车上市",
-      "count": 3
+      "count": 4
     },
     {
       "tag": "销量市场",
-      "count": 3
+      "count": 4
     },
     {
       "tag": "供应链",
+      "count": 2
+    },
+    {
+      "tag": "召回安全",
+      "count": 2
+    },
+    {
+      "tag": "智能驾驶",
       "count": 2
     },
     {
@@ -61,18 +69,51 @@
     {
       "tag": "价格战",
       "count": 1
-    },
-    {
-      "tag": "召回安全",
-      "count": 1
-    },
-    {
-      "tag": "智能驾驶",
-      "count": 1
     }
   ],
   "items": [
     {
+      "id": "10bcd600c27db231924cc642cd49225fdaf59c94",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Chery weighs bringing Omoda and Jaecoo to China to boost domestic sales, report says",
+      "url": "https://cnevpost.com/2026/09/20/chery-weighs-bringing-omoda-jaecoo-to-china",
+      "published_at": "2026-09-20T13:08:54Z",
+      "first_seen_at": "2026-09-20T13:59:33.176597Z",
+      "last_seen_at": "2026-09-20T13:59:33.176597Z",
+      "title_original": "Chery weighs bringing Omoda and Jaecoo to China to boost domestic sales, report says",
+      "title_en": "Chery weighs bringing Omoda and Jaecoo to China to boost domestic sales, report says",
+      "title_zh": "报道称，奇瑞考虑将 Omoda 和 Jaecoo 引入中国以提高国内销量",
+      "title_bilingual": "报道称，奇瑞考虑将 Omoda 和 Jaecoo 引入中国以提高国内销量 / Chery weighs bringing Omoda and Jaecoo to China to boost domestic sales, report says",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "d1212857870c9db83520942e8cb67f6342d228ce",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "VW launches its first LiDAR-equipped electric SUV in China",
+      "url": "https://cnevpost.com/2026/09/20/vw-launches-id-aura-t6-china",
+      "published_at": "2026-09-20T12:35:43Z",
+      "first_seen_at": "2026-09-20T13:59:33.176597Z",
+      "last_seen_at": "2026-09-20T13:59:33.176597Z",
+      "title_original": "VW launches its first LiDAR-equipped electric SUV in China",
+      "title_en": "VW launches its first LiDAR-equipped electric SUV in China",
+      "title_zh": "大众在中国推出首款配备激光雷达的电动SUV",
+      "title_bilingual": "大众在中国推出首款配备激光雷达的电动SUV / VW launches its first LiDAR-equipped electric SUV in China",
+      "topic_tags": [
+        "新能源",
+        "智能驾驶",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
       "id": "d426b5c8592cb00d696e2a2ea82010034caa86c7",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -81,7 +122,7 @@
       "url": "https://www.dongchedi.com/article/7686458881258766872",
       "published_at": null,
       "first_seen_at": "2026-09-20T09:56:52.429412Z",
-      "last_seen_at": "2026-09-20T09:56:52.429412Z",
+      "last_seen_at": "2026-09-20T13:59:33.176597Z",
       "title_original": "9月上旬乘用车销量出炉：新能源零售渗透率达70.3%",
       "title_en": null,
       "title_zh": "9月上旬乘用车销量出炉：新能源零售渗透率达70.3%",
@@ -101,7 +142,7 @@
       "url": "https://cnevpost.com/2026/09/20/dongfeng-trial-produce-humanoid-robots-year-end",
       "published_at": "2026-09-20T08:42:30Z",
       "first_seen_at": "2026-09-20T09:56:52.429412Z",
-      "last_seen_at": "2026-09-20T09:56:52.429412Z",
+      "last_seen_at": "2026-09-20T13:59:33.176597Z",
       "title_original": "Dongfeng to trial-produce humanoid robots by year-end, targets human-level capability by end of 2027",
       "title_en": "Dongfeng to trial-produce humanoid robots by year-end, targets human-level capability by end of 2027",
       "title_zh": "东风年底试制人形机器人 目标2027年底达到人类水平",
@@ -119,7 +160,7 @@
       "url": "https://cnevpost.com/2026/09/20/luxeed-adds-smaller-battery-version-rx",
       "published_at": "2026-09-20T07:18:20Z",
       "first_seen_at": "2026-09-20T09:56:52.429412Z",
-      "last_seen_at": "2026-09-20T09:56:52.429412Z",
+      "last_seen_at": "2026-09-20T13:59:33.176597Z",
       "title_original": "Huawei-backed Luxeed adds smaller-battery version of RX, lowering entry pre-sales price",
       "title_en": "Huawei-backed Luxeed adds smaller-battery version of RX, lowering entry pre-sales price",
       "title_zh": "华为支持的 Luxeed 推出小电池版 RX，降低入门预售价",
@@ -140,7 +181,7 @@
       "url": "https://cnevpost.com/2026/09/20/nio-3rd-gen-es8-150000-deliveries",
       "published_at": "2026-09-20T05:37:52Z",
       "first_seen_at": "2026-09-20T09:56:52.429412Z",
-      "last_seen_at": "2026-09-20T09:56:52.429412Z",
+      "last_seen_at": "2026-09-20T13:59:33.176597Z",
       "title_original": "Nio's third-gen ES8 hits 150,000 deliveries on first anniversary of launch",
       "title_en": "Nio's third-gen ES8 hits 150,000 deliveries on first anniversary of launch",
       "title_zh": "蔚来第三代ES8上市一周年销量突破15万辆",
@@ -161,7 +202,7 @@
       "url": "https://cnevpost.com/2026/09/20/epicland-x9-launch-sept-24-2026",
       "published_at": "2026-09-20T04:01:44Z",
       "first_seen_at": "2026-09-20T05:10:37.547657Z",
-      "last_seen_at": "2026-09-20T09:56:52.429412Z",
+      "last_seen_at": "2026-09-20T13:59:33.176597Z",
       "title_original": "Epicland X9 to launch on September 24 as first model from Dongfeng-Huawei brand",
       "title_en": "Epicland X9 to launch on September 24 as first model from Dongfeng-Huawei brand",
       "title_zh": "东风华为品牌首款车型Epicland X9将于9月24日上市",
@@ -180,7 +221,7 @@
       "url": "https://cnevpost.com/2026/09/20/toyota-plans-china-made-erevs-2027",
       "published_at": "2026-09-20T03:04:12Z",
       "first_seen_at": "2026-09-20T05:10:37.547657Z",
-      "last_seen_at": "2026-09-20T09:56:52.429412Z",
+      "last_seen_at": "2026-09-20T13:59:33.176597Z",
       "title_original": "Toyota plans China-made extended-range EVs in 2027 to broaden lineup, report says",
       "title_en": "Toyota plans China-made extended-range EVs in 2027 to broaden lineup, report says",
       "title_zh": "报道称，丰田计划在 2027 年推出中国制造的增程电动汽车，以扩大产品阵容",
@@ -188,6 +229,24 @@
       "topic_tags": [
         "新能源",
         "供应链"
+      ]
+    },
+    {
+      "id": "bb825c56bfd531384929839c3b2586be836e1451",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "召回1.21亿辆次之后，智能汽车的“安全债”该还了",
+      "url": "https://auto.gasgoo.com/news/202609/19I70472617C108.shtml",
+      "published_at": "2026-09-19T20:59:21Z",
+      "first_seen_at": "2026-09-20T13:59:33.176597Z",
+      "last_seen_at": "2026-09-20T13:59:33.176597Z",
+      "title_original": "召回1.21亿辆次之后，智能汽车的“安全债”该还了",
+      "title_en": null,
+      "title_zh": "召回1.21亿辆次之后，智能汽车的“安全债”该还了",
+      "title_bilingual": "召回1.21亿辆次之后，智能汽车的“安全债”该还了",
+      "topic_tags": [
+        "召回安全"
       ]
     },
     {
@@ -199,7 +258,7 @@
       "url": "http://vc.yiche.com/vplay/13292820.html",
       "published_at": null,
       "first_seen_at": "2026-09-19T20:00:54.551993Z",
-      "last_seen_at": "2026-09-20T09:56:52.429412Z",
+      "last_seen_at": "2026-09-20T13:59:33.176597Z",
       "title_original": "“销冠”的再进化 试驾全新第四代博越L",
       "title_en": null,
       "title_zh": "“销冠”的再进化 试驾全新第四代博越L",
@@ -217,7 +276,7 @@
       "url": "http://vc.yiche.com/vplay/13290846.html",
       "published_at": null,
       "first_seen_at": "2026-09-19T20:00:54.551993Z",
-      "last_seen_at": "2026-09-20T09:56:52.429412Z",
+      "last_seen_at": "2026-09-20T13:59:33.176597Z",
       "title_original": "城里是绅士雨林是硬汉 全路况抢先试驾红旗G919",
       "title_en": null,
       "title_zh": "城里是绅士雨林是硬汉 全路况抢先试驾红旗G919",
@@ -235,7 +294,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/56a9f0891ae12c14/115861460-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-19T17:44:44.593787Z",
-      "last_seen_at": "2026-09-20T09:56:52.429412Z",
+      "last_seen_at": "2026-09-20T13:59:33.176597Z",
       "title_original": "靠谱的搭档 小鹏G6用车心得小结",
       "title_en": null,
       "title_zh": "靠谱的搭档 小鹏G6用车心得小结",
@@ -254,7 +313,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/23dec3e9c52c5dbc/115986994-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-19T17:44:44.593787Z",
-      "last_seen_at": "2026-09-20T09:56:52.429412Z",
+      "last_seen_at": "2026-09-20T13:59:33.176597Z",
       "title_original": "用车成本低 海狮05 EV提车分享",
       "title_en": null,
       "title_zh": "用车成本低 海狮05 EV提车分享",
@@ -273,7 +332,7 @@
       "url": "https://auto.gasgoo.com/news/202609/19I70472609C108.shtml",
       "published_at": "2026-09-19T17:10:41Z",
       "first_seen_at": "2026-09-20T09:56:52.429412Z",
-      "last_seen_at": "2026-09-20T09:56:52.429412Z",
+      "last_seen_at": "2026-09-20T13:59:33.176597Z",
       "title_original": "张桂华：滨海新区集聚整车产能135万辆 上半年新能源产量增长38.2%｜泰达论坛",
       "title_en": null,
       "title_zh": "张桂华：滨海新区集聚整车产能135万辆 上半年新能源产量增长38.2%｜泰达论坛",
@@ -292,7 +351,7 @@
       "url": "https://auto.gasgoo.com/news/202609/19I70472603C108.shtml",
       "published_at": "2026-09-19T16:30:28Z",
       "first_seen_at": "2026-09-20T09:56:52.429412Z",
-      "last_seen_at": "2026-09-20T09:56:52.429412Z",
+      "last_seen_at": "2026-09-20T13:59:33.176597Z",
       "title_original": "王芳：新能源转向市场与技术双轮驱动 固态电池成竞争新赛道｜2026泰达论坛",
       "title_en": null,
       "title_zh": "王芳：新能源转向市场与技术双轮驱动 固态电池成竞争新赛道｜2026泰达论坛",
@@ -313,7 +372,7 @@
       "url": "https://auto.gasgoo.com/news/202609/19I70472602C109.shtml",
       "published_at": "2026-09-19T16:11:36Z",
       "first_seen_at": "2026-09-20T09:56:52.429412Z",
-      "last_seen_at": "2026-09-20T09:56:52.429412Z",
+      "last_seen_at": "2026-09-20T13:59:33.176597Z",
       "title_original": "赛力斯刘宗成：以“1+2+N”构建开放协同模式 拒绝粗放式增长｜2026泰达论坛",
       "title_en": null,
       "title_zh": "赛力斯刘宗成：以“1+2+N”构建开放协同模式 拒绝粗放式增长｜2026泰达论坛",
@@ -331,7 +390,7 @@
       "url": "https://auto.gasgoo.com/news/202609/19I70472601C108.shtml",
       "published_at": "2026-09-19T15:48:24Z",
       "first_seen_at": "2026-09-20T09:56:52.429412Z",
-      "last_seen_at": "2026-09-20T09:56:52.429412Z",
+      "last_seen_at": "2026-09-20T13:59:33.176597Z",
       "title_original": "徐剑：干线货运降本安全双重承压 自动驾驶规模化被寄予厚望｜2026泰达论坛",
       "title_en": null,
       "title_zh": "徐剑：干线货运降本安全双重承压 自动驾驶规模化被寄予厚望｜2026泰达论坛",
@@ -350,7 +409,7 @@
       "url": "https://auto.gasgoo.com/news/202609/19I70472597C109.shtml",
       "published_at": "2026-09-19T15:25:54Z",
       "first_seen_at": "2026-09-20T09:56:52.429412Z",
-      "last_seen_at": "2026-09-20T09:56:52.429412Z",
+      "last_seen_at": "2026-09-20T13:59:33.176597Z",
       "title_original": "张晓宇：智能汽车需打通用户、服务、产业三类生态的有效连接｜2026泰达论坛",
       "title_en": null,
       "title_zh": "张晓宇：智能汽车需打通用户、服务、产业三类生态的有效连接｜2026泰达论坛",
@@ -358,76 +417,51 @@
       "topic_tags": [
         "车企竞争"
       ]
-    },
-    {
-      "id": "fa05a556bbc449de51285c1d7c4e1284e953e431",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-智能网联",
-      "title": "机器人要上岗，怎样才算“会干活”？",
-      "url": "https://auto.gasgoo.com/news/202609/19I70472447C601.shtml",
-      "published_at": "2026-09-19T11:07:27Z",
-      "first_seen_at": "2026-09-20T05:10:37.547657Z",
-      "last_seen_at": "2026-09-20T09:56:52.429412Z",
-      "title_original": "机器人要上岗，怎样才算“会干活”？",
-      "title_en": null,
-      "title_zh": "机器人要上岗，怎样才算“会干活”？",
-      "title_bilingual": "机器人要上岗，怎样才算“会干活”？",
-      "topic_tags": []
-    },
-    {
-      "id": "a1d43c838d5b185e3249fceedef1dc1b4fb5bd9f",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "王卫明：下一阶段，将实施汽车标准提升专项行动｜2026泰达论坛",
-      "url": "https://auto.gasgoo.com/news/202609/19I70472594C108.shtml",
-      "published_at": "2026-09-19T10:57:51Z",
-      "first_seen_at": "2026-09-20T05:10:37.547657Z",
-      "last_seen_at": "2026-09-20T09:56:52.429412Z",
-      "title_original": "王卫明：下一阶段，将实施汽车标准提升专项行动｜2026泰达论坛",
-      "title_en": null,
-      "title_zh": "王卫明：下一阶段，将实施汽车标准提升专项行动｜2026泰达论坛",
-      "title_bilingual": "王卫明：下一阶段，将实施汽车标准提升专项行动｜2026泰达论坛",
-      "topic_tags": []
-    },
-    {
-      "id": "f96613056f2e57c081e454357595b776475ee476",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "罗俊杰：车企需摒弃进口依赖思维，国产装备已进入“局部领跑”阶段｜2026泰达论坛",
-      "url": "https://auto.gasgoo.com/news/202609/19I70472593C109.shtml",
-      "published_at": "2026-09-19T10:53:50Z",
-      "first_seen_at": "2026-09-20T05:10:37.547657Z",
-      "last_seen_at": "2026-09-20T09:56:52.429412Z",
-      "title_original": "罗俊杰：车企需摒弃进口依赖思维，国产装备已进入“局部领跑”阶段｜2026泰达论坛",
-      "title_en": null,
-      "title_zh": "罗俊杰：车企需摒弃进口依赖思维，国产装备已进入“局部领跑”阶段｜2026泰达论坛",
-      "title_bilingual": "罗俊杰：车企需摒弃进口依赖思维，国产装备已进入“局部领跑”阶段｜2026泰达论坛",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "86101a0e5ddd64bf8e3c0cc282fad4ec7910310e",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "龚进峰：四点建议支撑汽车强国建设｜2026泰达论坛",
-      "url": "https://auto.gasgoo.com/news/202609/19I70472590C108.shtml",
-      "published_at": "2026-09-19T10:15:18Z",
-      "first_seen_at": "2026-09-20T05:10:37.547657Z",
-      "last_seen_at": "2026-09-20T09:56:52.429412Z",
-      "title_original": "龚进峰：四点建议支撑汽车强国建设｜2026泰达论坛",
-      "title_en": null,
-      "title_zh": "龚进峰：四点建议支撑汽车强国建设｜2026泰达论坛",
-      "title_bilingual": "龚进峰：四点建议支撑汽车强国建设｜2026泰达论坛",
-      "topic_tags": []
     }
   ],
   "items_ai": [
     {
+      "id": "10bcd600c27db231924cc642cd49225fdaf59c94",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Chery weighs bringing Omoda and Jaecoo to China to boost domestic sales, report says",
+      "url": "https://cnevpost.com/2026/09/20/chery-weighs-bringing-omoda-jaecoo-to-china",
+      "published_at": "2026-09-20T13:08:54Z",
+      "first_seen_at": "2026-09-20T13:59:33.176597Z",
+      "last_seen_at": "2026-09-20T13:59:33.176597Z",
+      "title_original": "Chery weighs bringing Omoda and Jaecoo to China to boost domestic sales, report says",
+      "title_en": "Chery weighs bringing Omoda and Jaecoo to China to boost domestic sales, report says",
+      "title_zh": "报道称，奇瑞考虑将 Omoda 和 Jaecoo 引入中国以提高国内销量",
+      "title_bilingual": "报道称，奇瑞考虑将 Omoda 和 Jaecoo 引入中国以提高国内销量 / Chery weighs bringing Omoda and Jaecoo to China to boost domestic sales, report says",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "d1212857870c9db83520942e8cb67f6342d228ce",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "VW launches its first LiDAR-equipped electric SUV in China",
+      "url": "https://cnevpost.com/2026/09/20/vw-launches-id-aura-t6-china",
+      "published_at": "2026-09-20T12:35:43Z",
+      "first_seen_at": "2026-09-20T13:59:33.176597Z",
+      "last_seen_at": "2026-09-20T13:59:33.176597Z",
+      "title_original": "VW launches its first LiDAR-equipped electric SUV in China",
+      "title_en": "VW launches its first LiDAR-equipped electric SUV in China",
+      "title_zh": "大众在中国推出首款配备激光雷达的电动SUV",
+      "title_bilingual": "大众在中国推出首款配备激光雷达的电动SUV / VW launches its first LiDAR-equipped electric SUV in China",
+      "topic_tags": [
+        "新能源",
+        "智能驾驶",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
       "id": "d426b5c8592cb00d696e2a2ea82010034caa86c7",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -436,7 +470,7 @@
       "url": "https://www.dongchedi.com/article/7686458881258766872",
       "published_at": null,
       "first_seen_at": "2026-09-20T09:56:52.429412Z",
-      "last_seen_at": "2026-09-20T09:56:52.429412Z",
+      "last_seen_at": "2026-09-20T13:59:33.176597Z",
       "title_original": "9月上旬乘用车销量出炉：新能源零售渗透率达70.3%",
       "title_en": null,
       "title_zh": "9月上旬乘用车销量出炉：新能源零售渗透率达70.3%",
@@ -456,7 +490,7 @@
       "url": "https://cnevpost.com/2026/09/20/dongfeng-trial-produce-humanoid-robots-year-end",
       "published_at": "2026-09-20T08:42:30Z",
       "first_seen_at": "2026-09-20T09:56:52.429412Z",
-      "last_seen_at": "2026-09-20T09:56:52.429412Z",
+      "last_seen_at": "2026-09-20T13:59:33.176597Z",
       "title_original": "Dongfeng to trial-produce humanoid robots by year-end, targets human-level capability by end of 2027",
       "title_en": "Dongfeng to trial-produce humanoid robots by year-end, targets human-level capability by end of 2027",
       "title_zh": "东风年底试制人形机器人 目标2027年底达到人类水平",
@@ -474,7 +508,7 @@
       "url": "https://cnevpost.com/2026/09/20/luxeed-adds-smaller-battery-version-rx",
       "published_at": "2026-09-20T07:18:20Z",
       "first_seen_at": "2026-09-20T09:56:52.429412Z",
-      "last_seen_at": "2026-09-20T09:56:52.429412Z",
+      "last_seen_at": "2026-09-20T13:59:33.176597Z",
       "title_original": "Huawei-backed Luxeed adds smaller-battery version of RX, lowering entry pre-sales price",
       "title_en": "Huawei-backed Luxeed adds smaller-battery version of RX, lowering entry pre-sales price",
       "title_zh": "华为支持的 Luxeed 推出小电池版 RX，降低入门预售价",
@@ -495,7 +529,7 @@
       "url": "https://cnevpost.com/2026/09/20/nio-3rd-gen-es8-150000-deliveries",
       "published_at": "2026-09-20T05:37:52Z",
       "first_seen_at": "2026-09-20T09:56:52.429412Z",
-      "last_seen_at": "2026-09-20T09:56:52.429412Z",
+      "last_seen_at": "2026-09-20T13:59:33.176597Z",
       "title_original": "Nio's third-gen ES8 hits 150,000 deliveries on first anniversary of launch",
       "title_en": "Nio's third-gen ES8 hits 150,000 deliveries on first anniversary of launch",
       "title_zh": "蔚来第三代ES8上市一周年销量突破15万辆",
@@ -516,7 +550,7 @@
       "url": "https://cnevpost.com/2026/09/20/epicland-x9-launch-sept-24-2026",
       "published_at": "2026-09-20T04:01:44Z",
       "first_seen_at": "2026-09-20T05:10:37.547657Z",
-      "last_seen_at": "2026-09-20T09:56:52.429412Z",
+      "last_seen_at": "2026-09-20T13:59:33.176597Z",
       "title_original": "Epicland X9 to launch on September 24 as first model from Dongfeng-Huawei brand",
       "title_en": "Epicland X9 to launch on September 24 as first model from Dongfeng-Huawei brand",
       "title_zh": "东风华为品牌首款车型Epicland X9将于9月24日上市",
@@ -535,7 +569,7 @@
       "url": "https://cnevpost.com/2026/09/20/toyota-plans-china-made-erevs-2027",
       "published_at": "2026-09-20T03:04:12Z",
       "first_seen_at": "2026-09-20T05:10:37.547657Z",
-      "last_seen_at": "2026-09-20T09:56:52.429412Z",
+      "last_seen_at": "2026-09-20T13:59:33.176597Z",
       "title_original": "Toyota plans China-made extended-range EVs in 2027 to broaden lineup, report says",
       "title_en": "Toyota plans China-made extended-range EVs in 2027 to broaden lineup, report says",
       "title_zh": "报道称，丰田计划在 2027 年推出中国制造的增程电动汽车，以扩大产品阵容",
@@ -543,6 +577,24 @@
       "topic_tags": [
         "新能源",
         "供应链"
+      ]
+    },
+    {
+      "id": "bb825c56bfd531384929839c3b2586be836e1451",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "召回1.21亿辆次之后，智能汽车的“安全债”该还了",
+      "url": "https://auto.gasgoo.com/news/202609/19I70472617C108.shtml",
+      "published_at": "2026-09-19T20:59:21Z",
+      "first_seen_at": "2026-09-20T13:59:33.176597Z",
+      "last_seen_at": "2026-09-20T13:59:33.176597Z",
+      "title_original": "召回1.21亿辆次之后，智能汽车的“安全债”该还了",
+      "title_en": null,
+      "title_zh": "召回1.21亿辆次之后，智能汽车的“安全债”该还了",
+      "title_bilingual": "召回1.21亿辆次之后，智能汽车的“安全债”该还了",
+      "topic_tags": [
+        "召回安全"
       ]
     },
     {
@@ -554,7 +606,7 @@
       "url": "http://vc.yiche.com/vplay/13292820.html",
       "published_at": null,
       "first_seen_at": "2026-09-19T20:00:54.551993Z",
-      "last_seen_at": "2026-09-20T09:56:52.429412Z",
+      "last_seen_at": "2026-09-20T13:59:33.176597Z",
       "title_original": "“销冠”的再进化 试驾全新第四代博越L",
       "title_en": null,
       "title_zh": "“销冠”的再进化 试驾全新第四代博越L",
@@ -572,7 +624,7 @@
       "url": "http://vc.yiche.com/vplay/13290846.html",
       "published_at": null,
       "first_seen_at": "2026-09-19T20:00:54.551993Z",
-      "last_seen_at": "2026-09-20T09:56:52.429412Z",
+      "last_seen_at": "2026-09-20T13:59:33.176597Z",
       "title_original": "城里是绅士雨林是硬汉 全路况抢先试驾红旗G919",
       "title_en": null,
       "title_zh": "城里是绅士雨林是硬汉 全路况抢先试驾红旗G919",
@@ -590,7 +642,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/56a9f0891ae12c14/115861460-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-19T17:44:44.593787Z",
-      "last_seen_at": "2026-09-20T09:56:52.429412Z",
+      "last_seen_at": "2026-09-20T13:59:33.176597Z",
       "title_original": "靠谱的搭档 小鹏G6用车心得小结",
       "title_en": null,
       "title_zh": "靠谱的搭档 小鹏G6用车心得小结",
@@ -609,7 +661,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/23dec3e9c52c5dbc/115986994-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-19T17:44:44.593787Z",
-      "last_seen_at": "2026-09-20T09:56:52.429412Z",
+      "last_seen_at": "2026-09-20T13:59:33.176597Z",
       "title_original": "用车成本低 海狮05 EV提车分享",
       "title_en": null,
       "title_zh": "用车成本低 海狮05 EV提车分享",
@@ -628,7 +680,7 @@
       "url": "https://auto.gasgoo.com/news/202609/19I70472609C108.shtml",
       "published_at": "2026-09-19T17:10:41Z",
       "first_seen_at": "2026-09-20T09:56:52.429412Z",
-      "last_seen_at": "2026-09-20T09:56:52.429412Z",
+      "last_seen_at": "2026-09-20T13:59:33.176597Z",
       "title_original": "张桂华：滨海新区集聚整车产能135万辆 上半年新能源产量增长38.2%｜泰达论坛",
       "title_en": null,
       "title_zh": "张桂华：滨海新区集聚整车产能135万辆 上半年新能源产量增长38.2%｜泰达论坛",
@@ -647,7 +699,7 @@
       "url": "https://auto.gasgoo.com/news/202609/19I70472603C108.shtml",
       "published_at": "2026-09-19T16:30:28Z",
       "first_seen_at": "2026-09-20T09:56:52.429412Z",
-      "last_seen_at": "2026-09-20T09:56:52.429412Z",
+      "last_seen_at": "2026-09-20T13:59:33.176597Z",
       "title_original": "王芳：新能源转向市场与技术双轮驱动 固态电池成竞争新赛道｜2026泰达论坛",
       "title_en": null,
       "title_zh": "王芳：新能源转向市场与技术双轮驱动 固态电池成竞争新赛道｜2026泰达论坛",
@@ -668,7 +720,7 @@
       "url": "https://auto.gasgoo.com/news/202609/19I70472602C109.shtml",
       "published_at": "2026-09-19T16:11:36Z",
       "first_seen_at": "2026-09-20T09:56:52.429412Z",
-      "last_seen_at": "2026-09-20T09:56:52.429412Z",
+      "last_seen_at": "2026-09-20T13:59:33.176597Z",
       "title_original": "赛力斯刘宗成：以“1+2+N”构建开放协同模式 拒绝粗放式增长｜2026泰达论坛",
       "title_en": null,
       "title_zh": "赛力斯刘宗成：以“1+2+N”构建开放协同模式 拒绝粗放式增长｜2026泰达论坛",
@@ -686,7 +738,7 @@
       "url": "https://auto.gasgoo.com/news/202609/19I70472601C108.shtml",
       "published_at": "2026-09-19T15:48:24Z",
       "first_seen_at": "2026-09-20T09:56:52.429412Z",
-      "last_seen_at": "2026-09-20T09:56:52.429412Z",
+      "last_seen_at": "2026-09-20T13:59:33.176597Z",
       "title_original": "徐剑：干线货运降本安全双重承压 自动驾驶规模化被寄予厚望｜2026泰达论坛",
       "title_en": null,
       "title_zh": "徐剑：干线货运降本安全双重承压 自动驾驶规模化被寄予厚望｜2026泰达论坛",
@@ -705,7 +757,7 @@
       "url": "https://auto.gasgoo.com/news/202609/19I70472597C109.shtml",
       "published_at": "2026-09-19T15:25:54Z",
       "first_seen_at": "2026-09-20T09:56:52.429412Z",
-      "last_seen_at": "2026-09-20T09:56:52.429412Z",
+      "last_seen_at": "2026-09-20T13:59:33.176597Z",
       "title_original": "张晓宇：智能汽车需打通用户、服务、产业三类生态的有效连接｜2026泰达论坛",
       "title_en": null,
       "title_zh": "张晓宇：智能汽车需打通用户、服务、产业三类生态的有效连接｜2026泰达论坛",
@@ -713,72 +765,6 @@
       "topic_tags": [
         "车企竞争"
       ]
-    },
-    {
-      "id": "fa05a556bbc449de51285c1d7c4e1284e953e431",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-智能网联",
-      "title": "机器人要上岗，怎样才算“会干活”？",
-      "url": "https://auto.gasgoo.com/news/202609/19I70472447C601.shtml",
-      "published_at": "2026-09-19T11:07:27Z",
-      "first_seen_at": "2026-09-20T05:10:37.547657Z",
-      "last_seen_at": "2026-09-20T09:56:52.429412Z",
-      "title_original": "机器人要上岗，怎样才算“会干活”？",
-      "title_en": null,
-      "title_zh": "机器人要上岗，怎样才算“会干活”？",
-      "title_bilingual": "机器人要上岗，怎样才算“会干活”？",
-      "topic_tags": []
-    },
-    {
-      "id": "a1d43c838d5b185e3249fceedef1dc1b4fb5bd9f",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "王卫明：下一阶段，将实施汽车标准提升专项行动｜2026泰达论坛",
-      "url": "https://auto.gasgoo.com/news/202609/19I70472594C108.shtml",
-      "published_at": "2026-09-19T10:57:51Z",
-      "first_seen_at": "2026-09-20T05:10:37.547657Z",
-      "last_seen_at": "2026-09-20T09:56:52.429412Z",
-      "title_original": "王卫明：下一阶段，将实施汽车标准提升专项行动｜2026泰达论坛",
-      "title_en": null,
-      "title_zh": "王卫明：下一阶段，将实施汽车标准提升专项行动｜2026泰达论坛",
-      "title_bilingual": "王卫明：下一阶段，将实施汽车标准提升专项行动｜2026泰达论坛",
-      "topic_tags": []
-    },
-    {
-      "id": "f96613056f2e57c081e454357595b776475ee476",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "罗俊杰：车企需摒弃进口依赖思维，国产装备已进入“局部领跑”阶段｜2026泰达论坛",
-      "url": "https://auto.gasgoo.com/news/202609/19I70472593C109.shtml",
-      "published_at": "2026-09-19T10:53:50Z",
-      "first_seen_at": "2026-09-20T05:10:37.547657Z",
-      "last_seen_at": "2026-09-20T09:56:52.429412Z",
-      "title_original": "罗俊杰：车企需摒弃进口依赖思维，国产装备已进入“局部领跑”阶段｜2026泰达论坛",
-      "title_en": null,
-      "title_zh": "罗俊杰：车企需摒弃进口依赖思维，国产装备已进入“局部领跑”阶段｜2026泰达论坛",
-      "title_bilingual": "罗俊杰：车企需摒弃进口依赖思维，国产装备已进入“局部领跑”阶段｜2026泰达论坛",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "86101a0e5ddd64bf8e3c0cc282fad4ec7910310e",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "龚进峰：四点建议支撑汽车强国建设｜2026泰达论坛",
-      "url": "https://auto.gasgoo.com/news/202609/19I70472590C108.shtml",
-      "published_at": "2026-09-19T10:15:18Z",
-      "first_seen_at": "2026-09-20T05:10:37.547657Z",
-      "last_seen_at": "2026-09-20T09:56:52.429412Z",
-      "title_original": "龚进峰：四点建议支撑汽车强国建设｜2026泰达论坛",
-      "title_en": null,
-      "title_zh": "龚进峰：四点建议支撑汽车强国建设｜2026泰达论坛",
-      "title_bilingual": "龚进峰：四点建议支撑汽车强国建设｜2026泰达论坛",
-      "topic_tags": []
     }
   ],
   "all_mode_data_url": "data/latest-24h-all.json"
