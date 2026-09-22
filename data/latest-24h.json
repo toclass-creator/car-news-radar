@@ -1,38 +1,38 @@
 {
-  "generated_at": "2026-09-21T23:48:42.822544Z",
+  "generated_at": "2026-09-22T03:16:09.385941Z",
   "window_hours": 24,
-  "total_items": 26,
-  "total_items_ai_raw": 27,
-  "total_items_raw": 2778,
-  "total_items_all_mode": 2460,
+  "total_items": 35,
+  "total_items_ai_raw": 36,
+  "total_items_raw": 3116,
+  "total_items_all_mode": 2726,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 60529,
+  "archive_total": 60369,
   "site_count": 3,
-  "source_count": 9,
+  "source_count": 13,
   "site_stats": [
     {
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "count": 13,
-      "raw_count": 14
+      "count": 22,
+      "raw_count": 23
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "count": 11,
-      "raw_count": 2639
+      "raw_count": 2961
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "count": 2,
-      "raw_count": 125
+      "raw_count": 132
     }
   ],
   "topic_tag_stats": [
     {
       "tag": "车企竞争",
-      "count": 17
+      "count": 18
     },
     {
       "tag": "新能源",
@@ -40,30 +40,93 @@
     },
     {
       "tag": "新车上市",
-      "count": 8
+      "count": 13
     },
     {
       "tag": "购车决策",
       "count": 7
     },
     {
+      "tag": "供应链",
+      "count": 4
+    },
+    {
       "tag": "补能电池",
       "count": 4
     },
     {
-      "tag": "销量市场",
-      "count": 4
-    },
-    {
-      "tag": "供应链",
-      "count": 3
-    },
-    {
       "tag": "智能驾驶",
       "count": 3
+    },
+    {
+      "tag": "价格战",
+      "count": 2
+    },
+    {
+      "tag": "销量市场",
+      "count": 2
     }
   ],
   "items": [
+    {
+      "id": "d18383b6c9a175da0dcc5447b912e2c26b443058",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Hyundai to launch Ioniq V in China on September 29, pre-sale price starting from 17,600 USD",
+      "url": "https://carnewschina.com/2026/09/22/hyundai-to-launch-ioniq-v-in-china-on-september-29-pre-sale-price-starting-from-17600-usd",
+      "published_at": "2026-09-22T02:58:34Z",
+      "first_seen_at": "2026-09-22T03:16:09.385941Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
+      "title_original": "Hyundai to launch Ioniq V in China on September 29, pre-sale price starting from 17,600 USD",
+      "title_en": "Hyundai to launch Ioniq V in China on September 29, pre-sale price starting from 17,600 USD",
+      "title_zh": "现代汽车将于 9 月 29 日在中国推出 Ioniq V，预售价 17,600 美元起",
+      "title_bilingual": "现代汽车将于 9 月 29 日在中国推出 Ioniq V，预售价 17,600 美元起 / Hyundai to launch Ioniq V in China on September 29, pre-sale price starting from 17,600 USD",
+      "topic_tags": [
+        "新能源",
+        "价格战",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "4212ab1ed19511deeeae2da55c5debcb6a3fd9cd",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Nio launches purple-themed EC6 Aura Edition to boost slow-selling coupe SUV",
+      "url": "https://cnevpost.com/2026/09/22/nio-launches-ec6-aura-edition",
+      "published_at": "2026-09-22T02:55:25Z",
+      "first_seen_at": "2026-09-22T03:16:09.385941Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
+      "title_original": "Nio launches purple-themed EC6 Aura Edition to boost slow-selling coupe SUV",
+      "title_en": "Nio launches purple-themed EC6 Aura Edition to boost slow-selling coupe SUV",
+      "title_zh": "蔚来推出紫色主题EC6 Aura版，提振滞销轿跑SUV",
+      "title_bilingual": "蔚来推出紫色主题EC6 Aura版，提振滞销轿跑SUV / Nio launches purple-themed EC6 Aura Edition to boost slow-selling coupe SUV",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "0a7039f212a010991a2e2e241ddde2263f938f5b",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "FAW’s Hongqi Tiangong 07 opens pre-sales in China: 800 V architecture, starting from 25,000 USD",
+      "url": "https://carnewschina.com/2026/09/22/faws-hongqi-tiangong-07-opens-pre-sales-in-china-800-v-architecture-starting-from-25000-usd",
+      "published_at": "2026-09-22T02:29:28Z",
+      "first_seen_at": "2026-09-22T03:16:09.385941Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
+      "title_original": "FAW’s Hongqi Tiangong 07 opens pre-sales in China: 800 V architecture, starting from 25,000 USD",
+      "title_en": "FAW’s Hongqi Tiangong 07 opens pre-sales in China: 800 V architecture, starting from 25,000 USD",
+      "title_zh": "一汽红旗天工07在中国开启预售：800V架构，25,000美元起",
+      "title_bilingual": "一汽红旗天工07在中国开启预售：800V架构，25,000美元起 / FAW’s Hongqi Tiangong 07 opens pre-sales in China: 800 V architecture, starting from 25,000 USD",
+      "topic_tags": [
+        "新能源",
+        "新车上市"
+      ]
+    },
     {
       "id": "874f8e1f325b99532de3631c124d9da816692812",
       "site_id": "tophub",
@@ -73,7 +136,7 @@
       "url": "http://vc.yiche.com/vplay/13289075.html",
       "published_at": null,
       "first_seen_at": "2026-09-21T20:46:28.538292Z",
-      "last_seen_at": "2026-09-21T23:48:42.822544Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
       "title_original": "不充电！开出电车感？试驾星瑞L PLUS",
       "title_en": null,
       "title_zh": "不充电！开出电车感？试驾星瑞L PLUS",
@@ -93,7 +156,7 @@
       "url": "http://vc.yiche.com/vplay/13318069.html",
       "published_at": null,
       "first_seen_at": "2026-09-21T20:46:28.538292Z",
-      "last_seen_at": "2026-09-21T23:48:42.822544Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
       "title_original": "搭载鸿蒙座舱+华为乾崑ADS 5 抢先实拍全新红旗H9",
       "title_en": null,
       "title_zh": "搭载鸿蒙座舱+华为乾崑ADS 5 抢先实拍全新红旗H9",
@@ -109,7 +172,7 @@
       "url": "http://vc.yiche.com/vplay/13279457.html",
       "published_at": null,
       "first_seen_at": "2026-09-21T20:46:28.538292Z",
-      "last_seen_at": "2026-09-21T23:48:42.822544Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
       "title_original": "10万级卷王再进化！800V+6C超充+激光雷达！全新银河E5定档9月23日上市",
       "title_en": null,
       "title_zh": "10万级卷王再进化！800V+6C超充+激光雷达！全新银河E5定档9月23日上市",
@@ -129,7 +192,7 @@
       "url": "http://vc.yiche.com/vplay/13319798.html",
       "published_at": null,
       "first_seen_at": "2026-09-21T20:46:28.538292Z",
-      "last_seen_at": "2026-09-21T23:48:42.822544Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
       "title_original": "试驾体验吉利星耀6EF 一公里成本不到2毛钱",
       "title_en": null,
       "title_zh": "试驾体验吉利星耀6EF 一公里成本不到2毛钱",
@@ -148,11 +211,11 @@
       "url": "https://news.ycombinator.com/item?id=49792730",
       "published_at": "2026-09-21T20:12:12Z",
       "first_seen_at": "2026-09-21T20:46:28.538292Z",
-      "last_seen_at": "2026-09-21T23:48:42.822544Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
       "title_original": "Xiaomi MiMo v2.6",
       "title_en": "Xiaomi MiMo v2.6",
-      "title_zh": null,
-      "title_bilingual": "Xiaomi MiMo v2.6",
+      "title_zh": "小米 MiMo v2.6",
+      "title_bilingual": "小米 MiMo v2.6 / Xiaomi MiMo v2.6",
       "topic_tags": [
         "车企竞争"
       ]
@@ -166,7 +229,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/5b886c2686ec5828/116015292-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-21T16:51:24.712762Z",
-      "last_seen_at": "2026-09-21T23:48:42.822544Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
       "title_original": "首款升降立标MPV 体验岚图梦想家9",
       "title_en": null,
       "title_zh": "首款升降立标MPV 体验岚图梦想家9",
@@ -185,7 +248,7 @@
       "url": "https://i.autohome.com.cn/305169116",
       "published_at": null,
       "first_seen_at": "2026-09-21T16:51:24.712762Z",
-      "last_seen_at": "2026-09-21T23:48:42.822544Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
       "title_original": "颜值在线 长安启源Q05提车作业分享",
       "title_en": null,
       "title_zh": "颜值在线 长安启源Q05提车作业分享",
@@ -204,7 +267,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/60af62630a0b4c43/116027958-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-21T16:51:24.712762Z",
-      "last_seen_at": "2026-09-21T23:48:42.822544Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
       "title_original": "空间很宽敞 问界M6提车作业分享",
       "title_en": null,
       "title_zh": "空间很宽敞 问界M6提车作业分享",
@@ -223,7 +286,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/86e42a4b94945b6f/116148065-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-21T16:51:24.712762Z",
-      "last_seen_at": "2026-09-21T23:48:42.822544Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
       "title_original": "唐新能源续航实测 百公里仅6.5元",
       "title_en": null,
       "title_zh": "唐新能源续航实测 百公里仅6.5元",
@@ -242,7 +305,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/742fa3eac3074802/116008385-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-21T16:51:24.712762Z",
-      "last_seen_at": "2026-09-21T23:48:42.822544Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
       "title_original": "空间是亮点 零跑D99提车作业分享",
       "title_en": null,
       "title_zh": "空间是亮点 零跑D99提车作业分享",
@@ -261,7 +324,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/b1d5bf10bd6bfe0e/116000712-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-21T16:51:24.712762Z",
-      "last_seen_at": "2026-09-21T23:48:42.822544Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
       "title_original": "失能辅助系统 小鹏G9L动态体验",
       "title_en": null,
       "title_zh": "失能辅助系统 小鹏G9L动态体验",
@@ -280,7 +343,7 @@
       "url": "https://cnevpost.com/2026/09/21/li-auto-chip-unit-pursue-first-funding-round",
       "published_at": "2026-09-21T12:03:12Z",
       "first_seen_at": "2026-09-21T16:51:24.712762Z",
-      "last_seen_at": "2026-09-21T23:48:42.822544Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
       "title_original": "Li Auto chip unit said to pursue first funding round at $2.2 billion pre-money valuation",
       "title_en": "Li Auto chip unit said to pursue first funding round at $2.2 billion pre-money valuation",
       "title_zh": "理想汽车芯片部门据称将以 22 亿美元的投前估值进行首轮融资",
@@ -292,6 +355,22 @@
       ]
     },
     {
+      "id": "99f483629336e367a1ad32876301a7e93edc6b2b",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "具身“大脑”之争，不是淘汰赛",
+      "url": "https://auto.gasgoo.com/news/202609/21I70472478C601.shtml",
+      "published_at": "2026-09-21T11:07:21Z",
+      "first_seen_at": "2026-09-22T03:16:09.385941Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
+      "title_original": "具身“大脑”之争，不是淘汰赛",
+      "title_en": null,
+      "title_zh": "具身“大脑”之争，不是淘汰赛",
+      "title_bilingual": "具身“大脑”之争，不是淘汰赛",
+      "topic_tags": []
+    },
+    {
       "id": "f11af3ab16d0b399df4822ea740ccc8cff34f2bb",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -300,13 +379,154 @@
       "url": "https://www.dongchedi.com/article/7687587993237996057",
       "published_at": null,
       "first_seen_at": "2026-09-21T10:57:25.432800Z",
-      "last_seen_at": "2026-09-21T23:48:42.822544Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
       "title_original": "电动汽车时代为什么消费者这么在意电池？",
       "title_en": null,
       "title_zh": "电动汽车时代为什么消费者这么在意电池？",
       "title_bilingual": "电动汽车时代为什么消费者这么在意电池？",
       "topic_tags": [
         "补能电池"
+      ]
+    },
+    {
+      "id": "d3b605a869fdbcf3cf2eacb29d91ad655b236580",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "RISC-V，“碎片化”这关怎么过？",
+      "url": "https://auto.gasgoo.com/news/202609/21I70472745C601.shtml",
+      "published_at": "2026-09-21T10:40:18Z",
+      "first_seen_at": "2026-09-22T03:16:09.385941Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
+      "title_original": "RISC-V，“碎片化”这关怎么过？",
+      "title_en": null,
+      "title_zh": "RISC-V，“碎片化”这关怎么过？",
+      "title_bilingual": "RISC-V，“碎片化”这关怎么过？",
+      "topic_tags": []
+    },
+    {
+      "id": "5f46801d3ee4b6ee5bc8b87a0a6e983bbaddb45b",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "引望重申持续支持问界发展 赛力斯为战略合作伙伴及股东",
+      "url": "https://auto.gasgoo.com/news/202609/21I70472747C108.shtml",
+      "published_at": "2026-09-21T10:36:06Z",
+      "first_seen_at": "2026-09-22T03:16:09.385941Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
+      "title_original": "引望重申持续支持问界发展 赛力斯为战略合作伙伴及股东",
+      "title_en": null,
+      "title_zh": "引望重申持续支持问界发展 赛力斯为战略合作伙伴及股东",
+      "title_bilingual": "引望重申持续支持问界发展 赛力斯为战略合作伙伴及股东",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "639902a7b74bb33cec49877ce3bdeef0e2f3d61e",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新车",
+      "title": "坦克300虎克之路版上市，售价25万元限量300台",
+      "url": "https://auto.gasgoo.com/news/202609/21I70472744C107.shtml",
+      "published_at": "2026-09-21T10:25:05Z",
+      "first_seen_at": "2026-09-22T03:16:09.385941Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
+      "title_original": "坦克300虎克之路版上市，售价25万元限量300台",
+      "title_en": null,
+      "title_zh": "坦克300虎克之路版上市，售价25万元限量300台",
+      "title_bilingual": "坦克300虎克之路版上市，售价25万元限量300台",
+      "topic_tags": [
+        "价格战",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "6c1c950827df9d40f98c0787dfcf54cf1124ef9c",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "美国汽车业联名致信特朗普，要求阻止中国车企进入美国",
+      "url": "https://auto.gasgoo.com/news/202609/21I70472738C108.shtml",
+      "published_at": "2026-09-21T10:07:13Z",
+      "first_seen_at": "2026-09-22T03:16:09.385941Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
+      "title_original": "美国汽车业联名致信特朗普，要求阻止中国车企进入美国",
+      "title_en": null,
+      "title_zh": "美国汽车业联名致信特朗普，要求阻止中国车企进入美国",
+      "title_bilingual": "美国汽车业联名致信特朗普，要求阻止中国车企进入美国",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "8491fc8ce19c89868d7dbb9d00a4ea923ac161d8",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新车",
+      "title": "“听劝”，成为合资品牌的新课题",
+      "url": "https://auto.gasgoo.com/news/202609/21I70472740C107.shtml",
+      "published_at": "2026-09-21T09:59:23Z",
+      "first_seen_at": "2026-09-22T03:16:09.385941Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
+      "title_original": "“听劝”，成为合资品牌的新课题",
+      "title_en": null,
+      "title_zh": "“听劝”，成为合资品牌的新课题",
+      "title_bilingual": "“听劝”，成为合资品牌的新课题",
+      "topic_tags": [
+        "新车上市"
+      ]
+    },
+    {
+      "id": "604a7d0d2ce7183ee633e4512b0f86e265e4b5a9",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "Seeds | 芯驰科技完成C+、C++轮融资，年内C轮融资约10亿元",
+      "url": "https://auto.gasgoo.com/news/202609/21I70472739C601.shtml",
+      "published_at": "2026-09-21T09:52:43Z",
+      "first_seen_at": "2026-09-22T03:16:09.385941Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
+      "title_original": "Seeds | 芯驰科技完成C+、C++轮融资，年内C轮融资约10亿元",
+      "title_en": null,
+      "title_zh": "Seeds | 芯驰科技完成C+、C++轮融资，年内C轮融资约10亿元",
+      "title_bilingual": "Seeds | 芯驰科技完成C+、C++轮融资，年内C轮融资约10亿元",
+      "topic_tags": []
+    },
+    {
+      "id": "6d9b7cdf808fa9dab195719cfe673f527642e30e",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-供应链",
+      "title": "海信集团华东区域总部“落子”嘉定",
+      "url": "https://auto.gasgoo.com/news/202609/21I70472736C103.shtml",
+      "published_at": "2026-09-21T09:24:51Z",
+      "first_seen_at": "2026-09-22T03:16:09.385941Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
+      "title_original": "海信集团华东区域总部“落子”嘉定",
+      "title_en": null,
+      "title_zh": "海信集团华东区域总部“落子”嘉定",
+      "title_bilingual": "海信集团华东区域总部“落子”嘉定",
+      "topic_tags": [
+        "供应链"
+      ]
+    },
+    {
+      "id": "530444a11784769abc983f20422a3da6e3328f8c",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "优艾智合与华为云联合发布CloudRobo具身智能巡检解决方案",
+      "url": "https://auto.gasgoo.com/news/202609/21I70472726C601.shtml",
+      "published_at": "2026-09-21T08:45:58Z",
+      "first_seen_at": "2026-09-22T03:16:09.385941Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
+      "title_original": "优艾智合与华为云联合发布CloudRobo具身智能巡检解决方案",
+      "title_en": null,
+      "title_zh": "优艾智合与华为云联合发布CloudRobo具身智能巡检解决方案",
+      "title_bilingual": "优艾智合与华为云联合发布CloudRobo具身智能巡检解决方案",
+      "topic_tags": [
+        "新车上市"
       ]
     },
     {
@@ -318,7 +538,7 @@
       "url": "https://carnewschina.com/2026/09/21/zeekr-009-mpvs-seat-foam-was-run-over-by-20-ton-truck-and-remained-the-same",
       "published_at": "2026-09-21T08:44:08Z",
       "first_seen_at": "2026-09-21T10:57:25.432800Z",
-      "last_seen_at": "2026-09-21T23:48:42.822544Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
       "title_original": "Zeekr 009 MPV’s seat foam was run over by 20-ton truck and remained the same",
       "title_en": "Zeekr 009 MPV’s seat foam was run over by 20-ton truck and remained the same",
       "title_zh": "Zeekr 009 MPV座椅泡沫被20吨卡车碾过仍保持原状",
@@ -338,7 +558,7 @@
       "url": "https://cnevpost.com/2026/09/21/vw-anhui-sept-24-debut-id-unyx-09",
       "published_at": "2026-09-21T08:22:40Z",
       "first_seen_at": "2026-09-21T10:57:25.432800Z",
-      "last_seen_at": "2026-09-21T23:48:42.822544Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
       "title_original": "VW Anhui sets September 24 debut for ID. UNYX 09 sedan",
       "title_en": "VW Anhui sets September 24 debut for ID. UNYX 09 sedan",
       "title_zh": "安徽大众ID.D将于9月24日首发。 UNYX 09 轿车",
@@ -358,7 +578,7 @@
       "url": "https://carnewschina.com/2026/09/21/new-geely-ex5-revealed-officially-ahead-of-launch-on-september-23",
       "published_at": "2026-09-21T07:21:39Z",
       "first_seen_at": "2026-09-21T10:57:25.432800Z",
-      "last_seen_at": "2026-09-21T23:48:42.822544Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
       "title_original": "New Geely EX5 revealed officially ahead of launch on September 23",
       "title_en": "New Geely EX5 revealed officially ahead of launch on September 23",
       "title_zh": "全新吉利EX5正式发布 9月23日上市",
@@ -378,7 +598,7 @@
       "url": "https://cnevpost.com/2026/09/21/geely-enters-switzerland",
       "published_at": "2026-09-21T07:20:09Z",
       "first_seen_at": "2026-09-21T10:57:25.432800Z",
-      "last_seen_at": "2026-09-21T23:48:42.822544Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
       "title_original": "Geely enters Switzerland with 2 BEVs and 1 plug-in hybrid SUV",
       "title_en": "Geely enters Switzerland with 2 BEVs and 1 plug-in hybrid SUV",
       "title_zh": "吉利携 2 款纯电动汽车和 1 款插电式混合动力 SUV 进军瑞士",
@@ -398,7 +618,7 @@
       "url": "https://auto.gasgoo.com/news/202609/21I70472700C501.shtml",
       "published_at": "2026-09-21T07:00:39Z",
       "first_seen_at": "2026-09-21T23:48:42.822544Z",
-      "last_seen_at": "2026-09-21T23:48:42.822544Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
       "title_original": "【盖世快讯】小鹏汇天签约阿联酋拉斯海玛；蔚来ES8达成15万台新车交付",
       "title_en": null,
       "title_zh": "【盖世快讯】小鹏汇天签约阿联酋拉斯海玛；蔚来ES8达成15万台新车交付",
@@ -419,7 +639,7 @@
       "url": "https://auto.gasgoo.com/news/202609/21I70472671C109.shtml",
       "published_at": "2026-09-21T07:00:00Z",
       "first_seen_at": "2026-09-21T23:48:42.822544Z",
-      "last_seen_at": "2026-09-21T23:48:42.822544Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
       "title_original": "原生无人驾驶量产落地，特斯拉Cybercab核心零部件配套供应商一览",
       "title_en": null,
       "title_zh": "原生无人驾驶量产落地，特斯拉Cybercab核心零部件配套供应商一览",
@@ -439,7 +659,7 @@
       "url": "https://cnevpost.com/2026/09/21/tesla-audits-china-suppliers-optimus-mass-production",
       "published_at": "2026-09-21T06:48:32Z",
       "first_seen_at": "2026-09-21T10:57:25.432800Z",
-      "last_seen_at": "2026-09-21T23:48:42.822544Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
       "title_original": "Tesla audits China suppliers to push Optimus into mass production, report says",
       "title_en": "Tesla audits China suppliers to push Optimus into mass production, report says",
       "title_zh": "报告称特斯拉审核中国供应商以推动擎天柱量产",
@@ -458,7 +678,7 @@
       "url": "https://carnewschina.com/2026/09/21/byds-great-seagull-spotted-in-real-life-featuring-lidar-and-2650-mm-wheelbase",
       "published_at": "2026-09-21T06:33:38Z",
       "first_seen_at": "2026-09-21T10:57:25.432800Z",
-      "last_seen_at": "2026-09-21T23:48:42.822544Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
       "title_original": "BYD’s “Great Seagull” spotted in real life: featuring LiDAR and 2650 mm wheelbase",
       "title_en": "BYD’s “Great Seagull” spotted in real life: featuring LiDAR and 2650 mm wheelbase",
       "title_zh": "比亚迪“大海鸥”现身：配备激光雷达和2650毫米轴距",
@@ -478,7 +698,7 @@
       "url": "https://juejin.cn/post/7687032811338891302",
       "published_at": "2026-09-21T05:15:58.387000Z",
       "first_seen_at": "2026-09-21T05:15:44.001159Z",
-      "last_seen_at": "2026-09-21T23:48:42.822544Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
       "title_original": "GrokBot 核心成员 Lauren Tan：每月交付 2000 个 PR 的人，是怎么用 AI 的",
       "title_en": null,
       "title_zh": "GrokBot 核心成员 Lauren Tan：每月交付 2000 个 PR 的人，是怎么用 AI 的",
@@ -496,7 +716,7 @@
       "url": "https://cnevpost.com/2026/09/21/semidrive-secures-fresh-funding",
       "published_at": "2026-09-21T03:49:28Z",
       "first_seen_at": "2026-09-21T05:15:44.001159Z",
-      "last_seen_at": "2026-09-21T23:48:42.822544Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
       "title_original": "Chinese automotive chipmaker SemiDrive secures fresh funding",
       "title_en": "Chinese automotive chipmaker SemiDrive secures fresh funding",
       "title_zh": "中国汽车芯片制造商芯驰科技获得新融资",
@@ -504,70 +724,70 @@
       "topic_tags": [
         "新能源",
         "供应链"
-      ]
-    },
-    {
-      "id": "b27ff4d0909b50f746e578a5aeb04d80bca78acb",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Nio flagship ES9 set to hit 30,000 deliveries this week in milestone for premium lineup",
-      "url": "https://cnevpost.com/2026/09/21/nio-es9-to-hit-30000-deliveries-this-week",
-      "published_at": "2026-09-21T03:07:59Z",
-      "first_seen_at": "2026-09-21T05:15:44.001159Z",
-      "last_seen_at": "2026-09-21T23:48:42.822544Z",
-      "title_original": "Nio flagship ES9 set to hit 30,000 deliveries this week in milestone for premium lineup",
-      "title_en": "Nio flagship ES9 set to hit 30,000 deliveries this week in milestone for premium lineup",
-      "title_zh": "蔚来旗舰ES9本周交付量将达到3万辆，这是高端产品线的里程碑",
-      "title_bilingual": "蔚来旗舰ES9本周交付量将达到3万辆，这是高端产品线的里程碑 / Nio flagship ES9 set to hit 30,000 deliveries this week in milestone for premium lineup",
-      "topic_tags": [
-        "新能源",
-        "销量市场",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "606cb6cd8cf9041a769487ed792954ff81271234",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Huawei-backed Luxeed to launch RX electric SUV on September 28",
-      "url": "https://cnevpost.com/2026/09/21/luxeed-to-launch-rx-sept-28",
-      "published_at": "2026-09-21T02:44:05Z",
-      "first_seen_at": "2026-09-21T05:15:44.001159Z",
-      "last_seen_at": "2026-09-21T23:48:42.822544Z",
-      "title_original": "Huawei-backed Luxeed to launch RX electric SUV on September 28",
-      "title_en": "Huawei-backed Luxeed to launch RX electric SUV on September 28",
-      "title_zh": "华为支持的 Luxeed 将于 9 月 28 日推出 RX 电动 SUV",
-      "title_bilingual": "华为支持的 Luxeed 将于 9 月 28 日推出 RX 电动 SUV / Huawei-backed Luxeed to launch RX electric SUV on September 28",
-      "topic_tags": [
-        "新能源",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "c03535e89205bab1bd592f054e351ee2df6ae8c7",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Nio adds new ES8 wheel package as deliveries stay strong 1 year after launch",
-      "url": "https://cnevpost.com/2026/09/21/nio-adds-new-es8-wheel-package",
-      "published_at": "2026-09-21T02:25:40Z",
-      "first_seen_at": "2026-09-21T05:15:44.001159Z",
-      "last_seen_at": "2026-09-21T23:48:42.822544Z",
-      "title_original": "Nio adds new ES8 wheel package as deliveries stay strong 1 year after launch",
-      "title_en": "Nio adds new ES8 wheel package as deliveries stay strong 1 year after launch",
-      "title_zh": "蔚来增加了新的 ES8 车轮套件，推出一年后交付量保持强劲",
-      "title_bilingual": "蔚来增加了新的 ES8 车轮套件，推出一年后交付量保持强劲 / Nio adds new ES8 wheel package as deliveries stay strong 1 year after launch",
-      "topic_tags": [
-        "新能源",
-        "销量市场",
-        "车企竞争"
       ]
     }
   ],
   "items_ai": [
     {
+      "id": "d18383b6c9a175da0dcc5447b912e2c26b443058",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Hyundai to launch Ioniq V in China on September 29, pre-sale price starting from 17,600 USD",
+      "url": "https://carnewschina.com/2026/09/22/hyundai-to-launch-ioniq-v-in-china-on-september-29-pre-sale-price-starting-from-17600-usd",
+      "published_at": "2026-09-22T02:58:34Z",
+      "first_seen_at": "2026-09-22T03:16:09.385941Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
+      "title_original": "Hyundai to launch Ioniq V in China on September 29, pre-sale price starting from 17,600 USD",
+      "title_en": "Hyundai to launch Ioniq V in China on September 29, pre-sale price starting from 17,600 USD",
+      "title_zh": "现代汽车将于 9 月 29 日在中国推出 Ioniq V，预售价 17,600 美元起",
+      "title_bilingual": "现代汽车将于 9 月 29 日在中国推出 Ioniq V，预售价 17,600 美元起 / Hyundai to launch Ioniq V in China on September 29, pre-sale price starting from 17,600 USD",
+      "topic_tags": [
+        "新能源",
+        "价格战",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "4212ab1ed19511deeeae2da55c5debcb6a3fd9cd",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Nio launches purple-themed EC6 Aura Edition to boost slow-selling coupe SUV",
+      "url": "https://cnevpost.com/2026/09/22/nio-launches-ec6-aura-edition",
+      "published_at": "2026-09-22T02:55:25Z",
+      "first_seen_at": "2026-09-22T03:16:09.385941Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
+      "title_original": "Nio launches purple-themed EC6 Aura Edition to boost slow-selling coupe SUV",
+      "title_en": "Nio launches purple-themed EC6 Aura Edition to boost slow-selling coupe SUV",
+      "title_zh": "蔚来推出紫色主题EC6 Aura版，提振滞销轿跑SUV",
+      "title_bilingual": "蔚来推出紫色主题EC6 Aura版，提振滞销轿跑SUV / Nio launches purple-themed EC6 Aura Edition to boost slow-selling coupe SUV",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "0a7039f212a010991a2e2e241ddde2263f938f5b",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "FAW’s Hongqi Tiangong 07 opens pre-sales in China: 800 V architecture, starting from 25,000 USD",
+      "url": "https://carnewschina.com/2026/09/22/faws-hongqi-tiangong-07-opens-pre-sales-in-china-800-v-architecture-starting-from-25000-usd",
+      "published_at": "2026-09-22T02:29:28Z",
+      "first_seen_at": "2026-09-22T03:16:09.385941Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
+      "title_original": "FAW’s Hongqi Tiangong 07 opens pre-sales in China: 800 V architecture, starting from 25,000 USD",
+      "title_en": "FAW’s Hongqi Tiangong 07 opens pre-sales in China: 800 V architecture, starting from 25,000 USD",
+      "title_zh": "一汽红旗天工07在中国开启预售：800V架构，25,000美元起",
+      "title_bilingual": "一汽红旗天工07在中国开启预售：800V架构，25,000美元起 / FAW’s Hongqi Tiangong 07 opens pre-sales in China: 800 V architecture, starting from 25,000 USD",
+      "topic_tags": [
+        "新能源",
+        "新车上市"
+      ]
+    },
+    {
       "id": "874f8e1f325b99532de3631c124d9da816692812",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -576,7 +796,7 @@
       "url": "http://vc.yiche.com/vplay/13289075.html",
       "published_at": null,
       "first_seen_at": "2026-09-21T20:46:28.538292Z",
-      "last_seen_at": "2026-09-21T23:48:42.822544Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
       "title_original": "不充电！开出电车感？试驾星瑞L PLUS",
       "title_en": null,
       "title_zh": "不充电！开出电车感？试驾星瑞L PLUS",
@@ -596,7 +816,7 @@
       "url": "http://vc.yiche.com/vplay/13318069.html",
       "published_at": null,
       "first_seen_at": "2026-09-21T20:46:28.538292Z",
-      "last_seen_at": "2026-09-21T23:48:42.822544Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
       "title_original": "搭载鸿蒙座舱+华为乾崑ADS 5 抢先实拍全新红旗H9",
       "title_en": null,
       "title_zh": "搭载鸿蒙座舱+华为乾崑ADS 5 抢先实拍全新红旗H9",
@@ -612,7 +832,7 @@
       "url": "http://vc.yiche.com/vplay/13279457.html",
       "published_at": null,
       "first_seen_at": "2026-09-21T20:46:28.538292Z",
-      "last_seen_at": "2026-09-21T23:48:42.822544Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
       "title_original": "10万级卷王再进化！800V+6C超充+激光雷达！全新银河E5定档9月23日上市",
       "title_en": null,
       "title_zh": "10万级卷王再进化！800V+6C超充+激光雷达！全新银河E5定档9月23日上市",
@@ -632,7 +852,7 @@
       "url": "http://vc.yiche.com/vplay/13319798.html",
       "published_at": null,
       "first_seen_at": "2026-09-21T20:46:28.538292Z",
-      "last_seen_at": "2026-09-21T23:48:42.822544Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
       "title_original": "试驾体验吉利星耀6EF 一公里成本不到2毛钱",
       "title_en": null,
       "title_zh": "试驾体验吉利星耀6EF 一公里成本不到2毛钱",
@@ -651,11 +871,11 @@
       "url": "https://news.ycombinator.com/item?id=49792730",
       "published_at": "2026-09-21T20:12:12Z",
       "first_seen_at": "2026-09-21T20:46:28.538292Z",
-      "last_seen_at": "2026-09-21T23:48:42.822544Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
       "title_original": "Xiaomi MiMo v2.6",
       "title_en": "Xiaomi MiMo v2.6",
-      "title_zh": null,
-      "title_bilingual": "Xiaomi MiMo v2.6",
+      "title_zh": "小米 MiMo v2.6",
+      "title_bilingual": "小米 MiMo v2.6 / Xiaomi MiMo v2.6",
       "topic_tags": [
         "车企竞争"
       ]
@@ -669,7 +889,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/5b886c2686ec5828/116015292-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-21T16:51:24.712762Z",
-      "last_seen_at": "2026-09-21T23:48:42.822544Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
       "title_original": "首款升降立标MPV 体验岚图梦想家9",
       "title_en": null,
       "title_zh": "首款升降立标MPV 体验岚图梦想家9",
@@ -688,7 +908,7 @@
       "url": "https://i.autohome.com.cn/305169116",
       "published_at": null,
       "first_seen_at": "2026-09-21T16:51:24.712762Z",
-      "last_seen_at": "2026-09-21T23:48:42.822544Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
       "title_original": "颜值在线 长安启源Q05提车作业分享",
       "title_en": null,
       "title_zh": "颜值在线 长安启源Q05提车作业分享",
@@ -707,7 +927,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/60af62630a0b4c43/116027958-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-21T16:51:24.712762Z",
-      "last_seen_at": "2026-09-21T23:48:42.822544Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
       "title_original": "空间很宽敞 问界M6提车作业分享",
       "title_en": null,
       "title_zh": "空间很宽敞 问界M6提车作业分享",
@@ -726,7 +946,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/86e42a4b94945b6f/116148065-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-21T16:51:24.712762Z",
-      "last_seen_at": "2026-09-21T23:48:42.822544Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
       "title_original": "唐新能源续航实测 百公里仅6.5元",
       "title_en": null,
       "title_zh": "唐新能源续航实测 百公里仅6.5元",
@@ -745,7 +965,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/742fa3eac3074802/116008385-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-21T16:51:24.712762Z",
-      "last_seen_at": "2026-09-21T23:48:42.822544Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
       "title_original": "空间是亮点 零跑D99提车作业分享",
       "title_en": null,
       "title_zh": "空间是亮点 零跑D99提车作业分享",
@@ -764,7 +984,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/b1d5bf10bd6bfe0e/116000712-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-21T16:51:24.712762Z",
-      "last_seen_at": "2026-09-21T23:48:42.822544Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
       "title_original": "失能辅助系统 小鹏G9L动态体验",
       "title_en": null,
       "title_zh": "失能辅助系统 小鹏G9L动态体验",
@@ -783,7 +1003,7 @@
       "url": "https://cnevpost.com/2026/09/21/li-auto-chip-unit-pursue-first-funding-round",
       "published_at": "2026-09-21T12:03:12Z",
       "first_seen_at": "2026-09-21T16:51:24.712762Z",
-      "last_seen_at": "2026-09-21T23:48:42.822544Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
       "title_original": "Li Auto chip unit said to pursue first funding round at $2.2 billion pre-money valuation",
       "title_en": "Li Auto chip unit said to pursue first funding round at $2.2 billion pre-money valuation",
       "title_zh": "理想汽车芯片部门据称将以 22 亿美元的投前估值进行首轮融资",
@@ -795,6 +1015,22 @@
       ]
     },
     {
+      "id": "99f483629336e367a1ad32876301a7e93edc6b2b",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "具身“大脑”之争，不是淘汰赛",
+      "url": "https://auto.gasgoo.com/news/202609/21I70472478C601.shtml",
+      "published_at": "2026-09-21T11:07:21Z",
+      "first_seen_at": "2026-09-22T03:16:09.385941Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
+      "title_original": "具身“大脑”之争，不是淘汰赛",
+      "title_en": null,
+      "title_zh": "具身“大脑”之争，不是淘汰赛",
+      "title_bilingual": "具身“大脑”之争，不是淘汰赛",
+      "topic_tags": []
+    },
+    {
       "id": "f11af3ab16d0b399df4822ea740ccc8cff34f2bb",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -803,13 +1039,154 @@
       "url": "https://www.dongchedi.com/article/7687587993237996057",
       "published_at": null,
       "first_seen_at": "2026-09-21T10:57:25.432800Z",
-      "last_seen_at": "2026-09-21T23:48:42.822544Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
       "title_original": "电动汽车时代为什么消费者这么在意电池？",
       "title_en": null,
       "title_zh": "电动汽车时代为什么消费者这么在意电池？",
       "title_bilingual": "电动汽车时代为什么消费者这么在意电池？",
       "topic_tags": [
         "补能电池"
+      ]
+    },
+    {
+      "id": "d3b605a869fdbcf3cf2eacb29d91ad655b236580",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "RISC-V，“碎片化”这关怎么过？",
+      "url": "https://auto.gasgoo.com/news/202609/21I70472745C601.shtml",
+      "published_at": "2026-09-21T10:40:18Z",
+      "first_seen_at": "2026-09-22T03:16:09.385941Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
+      "title_original": "RISC-V，“碎片化”这关怎么过？",
+      "title_en": null,
+      "title_zh": "RISC-V，“碎片化”这关怎么过？",
+      "title_bilingual": "RISC-V，“碎片化”这关怎么过？",
+      "topic_tags": []
+    },
+    {
+      "id": "5f46801d3ee4b6ee5bc8b87a0a6e983bbaddb45b",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "引望重申持续支持问界发展 赛力斯为战略合作伙伴及股东",
+      "url": "https://auto.gasgoo.com/news/202609/21I70472747C108.shtml",
+      "published_at": "2026-09-21T10:36:06Z",
+      "first_seen_at": "2026-09-22T03:16:09.385941Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
+      "title_original": "引望重申持续支持问界发展 赛力斯为战略合作伙伴及股东",
+      "title_en": null,
+      "title_zh": "引望重申持续支持问界发展 赛力斯为战略合作伙伴及股东",
+      "title_bilingual": "引望重申持续支持问界发展 赛力斯为战略合作伙伴及股东",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "639902a7b74bb33cec49877ce3bdeef0e2f3d61e",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新车",
+      "title": "坦克300虎克之路版上市，售价25万元限量300台",
+      "url": "https://auto.gasgoo.com/news/202609/21I70472744C107.shtml",
+      "published_at": "2026-09-21T10:25:05Z",
+      "first_seen_at": "2026-09-22T03:16:09.385941Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
+      "title_original": "坦克300虎克之路版上市，售价25万元限量300台",
+      "title_en": null,
+      "title_zh": "坦克300虎克之路版上市，售价25万元限量300台",
+      "title_bilingual": "坦克300虎克之路版上市，售价25万元限量300台",
+      "topic_tags": [
+        "价格战",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "6c1c950827df9d40f98c0787dfcf54cf1124ef9c",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "美国汽车业联名致信特朗普，要求阻止中国车企进入美国",
+      "url": "https://auto.gasgoo.com/news/202609/21I70472738C108.shtml",
+      "published_at": "2026-09-21T10:07:13Z",
+      "first_seen_at": "2026-09-22T03:16:09.385941Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
+      "title_original": "美国汽车业联名致信特朗普，要求阻止中国车企进入美国",
+      "title_en": null,
+      "title_zh": "美国汽车业联名致信特朗普，要求阻止中国车企进入美国",
+      "title_bilingual": "美国汽车业联名致信特朗普，要求阻止中国车企进入美国",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "8491fc8ce19c89868d7dbb9d00a4ea923ac161d8",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新车",
+      "title": "“听劝”，成为合资品牌的新课题",
+      "url": "https://auto.gasgoo.com/news/202609/21I70472740C107.shtml",
+      "published_at": "2026-09-21T09:59:23Z",
+      "first_seen_at": "2026-09-22T03:16:09.385941Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
+      "title_original": "“听劝”，成为合资品牌的新课题",
+      "title_en": null,
+      "title_zh": "“听劝”，成为合资品牌的新课题",
+      "title_bilingual": "“听劝”，成为合资品牌的新课题",
+      "topic_tags": [
+        "新车上市"
+      ]
+    },
+    {
+      "id": "604a7d0d2ce7183ee633e4512b0f86e265e4b5a9",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "Seeds | 芯驰科技完成C+、C++轮融资，年内C轮融资约10亿元",
+      "url": "https://auto.gasgoo.com/news/202609/21I70472739C601.shtml",
+      "published_at": "2026-09-21T09:52:43Z",
+      "first_seen_at": "2026-09-22T03:16:09.385941Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
+      "title_original": "Seeds | 芯驰科技完成C+、C++轮融资，年内C轮融资约10亿元",
+      "title_en": null,
+      "title_zh": "Seeds | 芯驰科技完成C+、C++轮融资，年内C轮融资约10亿元",
+      "title_bilingual": "Seeds | 芯驰科技完成C+、C++轮融资，年内C轮融资约10亿元",
+      "topic_tags": []
+    },
+    {
+      "id": "6d9b7cdf808fa9dab195719cfe673f527642e30e",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-供应链",
+      "title": "海信集团华东区域总部“落子”嘉定",
+      "url": "https://auto.gasgoo.com/news/202609/21I70472736C103.shtml",
+      "published_at": "2026-09-21T09:24:51Z",
+      "first_seen_at": "2026-09-22T03:16:09.385941Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
+      "title_original": "海信集团华东区域总部“落子”嘉定",
+      "title_en": null,
+      "title_zh": "海信集团华东区域总部“落子”嘉定",
+      "title_bilingual": "海信集团华东区域总部“落子”嘉定",
+      "topic_tags": [
+        "供应链"
+      ]
+    },
+    {
+      "id": "530444a11784769abc983f20422a3da6e3328f8c",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "优艾智合与华为云联合发布CloudRobo具身智能巡检解决方案",
+      "url": "https://auto.gasgoo.com/news/202609/21I70472726C601.shtml",
+      "published_at": "2026-09-21T08:45:58Z",
+      "first_seen_at": "2026-09-22T03:16:09.385941Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
+      "title_original": "优艾智合与华为云联合发布CloudRobo具身智能巡检解决方案",
+      "title_en": null,
+      "title_zh": "优艾智合与华为云联合发布CloudRobo具身智能巡检解决方案",
+      "title_bilingual": "优艾智合与华为云联合发布CloudRobo具身智能巡检解决方案",
+      "topic_tags": [
+        "新车上市"
       ]
     },
     {
@@ -821,7 +1198,7 @@
       "url": "https://carnewschina.com/2026/09/21/zeekr-009-mpvs-seat-foam-was-run-over-by-20-ton-truck-and-remained-the-same",
       "published_at": "2026-09-21T08:44:08Z",
       "first_seen_at": "2026-09-21T10:57:25.432800Z",
-      "last_seen_at": "2026-09-21T23:48:42.822544Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
       "title_original": "Zeekr 009 MPV’s seat foam was run over by 20-ton truck and remained the same",
       "title_en": "Zeekr 009 MPV’s seat foam was run over by 20-ton truck and remained the same",
       "title_zh": "Zeekr 009 MPV座椅泡沫被20吨卡车碾过仍保持原状",
@@ -841,7 +1218,7 @@
       "url": "https://cnevpost.com/2026/09/21/vw-anhui-sept-24-debut-id-unyx-09",
       "published_at": "2026-09-21T08:22:40Z",
       "first_seen_at": "2026-09-21T10:57:25.432800Z",
-      "last_seen_at": "2026-09-21T23:48:42.822544Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
       "title_original": "VW Anhui sets September 24 debut for ID. UNYX 09 sedan",
       "title_en": "VW Anhui sets September 24 debut for ID. UNYX 09 sedan",
       "title_zh": "安徽大众ID.D将于9月24日首发。 UNYX 09 轿车",
@@ -861,7 +1238,7 @@
       "url": "https://carnewschina.com/2026/09/21/new-geely-ex5-revealed-officially-ahead-of-launch-on-september-23",
       "published_at": "2026-09-21T07:21:39Z",
       "first_seen_at": "2026-09-21T10:57:25.432800Z",
-      "last_seen_at": "2026-09-21T23:48:42.822544Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
       "title_original": "New Geely EX5 revealed officially ahead of launch on September 23",
       "title_en": "New Geely EX5 revealed officially ahead of launch on September 23",
       "title_zh": "全新吉利EX5正式发布 9月23日上市",
@@ -881,7 +1258,7 @@
       "url": "https://cnevpost.com/2026/09/21/geely-enters-switzerland",
       "published_at": "2026-09-21T07:20:09Z",
       "first_seen_at": "2026-09-21T10:57:25.432800Z",
-      "last_seen_at": "2026-09-21T23:48:42.822544Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
       "title_original": "Geely enters Switzerland with 2 BEVs and 1 plug-in hybrid SUV",
       "title_en": "Geely enters Switzerland with 2 BEVs and 1 plug-in hybrid SUV",
       "title_zh": "吉利携 2 款纯电动汽车和 1 款插电式混合动力 SUV 进军瑞士",
@@ -901,7 +1278,7 @@
       "url": "https://auto.gasgoo.com/news/202609/21I70472700C501.shtml",
       "published_at": "2026-09-21T07:00:39Z",
       "first_seen_at": "2026-09-21T23:48:42.822544Z",
-      "last_seen_at": "2026-09-21T23:48:42.822544Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
       "title_original": "【盖世快讯】小鹏汇天签约阿联酋拉斯海玛；蔚来ES8达成15万台新车交付",
       "title_en": null,
       "title_zh": "【盖世快讯】小鹏汇天签约阿联酋拉斯海玛；蔚来ES8达成15万台新车交付",
@@ -922,7 +1299,7 @@
       "url": "https://auto.gasgoo.com/news/202609/21I70472671C109.shtml",
       "published_at": "2026-09-21T07:00:00Z",
       "first_seen_at": "2026-09-21T23:48:42.822544Z",
-      "last_seen_at": "2026-09-21T23:48:42.822544Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
       "title_original": "原生无人驾驶量产落地，特斯拉Cybercab核心零部件配套供应商一览",
       "title_en": null,
       "title_zh": "原生无人驾驶量产落地，特斯拉Cybercab核心零部件配套供应商一览",
@@ -942,7 +1319,7 @@
       "url": "https://cnevpost.com/2026/09/21/tesla-audits-china-suppliers-optimus-mass-production",
       "published_at": "2026-09-21T06:48:32Z",
       "first_seen_at": "2026-09-21T10:57:25.432800Z",
-      "last_seen_at": "2026-09-21T23:48:42.822544Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
       "title_original": "Tesla audits China suppliers to push Optimus into mass production, report says",
       "title_en": "Tesla audits China suppliers to push Optimus into mass production, report says",
       "title_zh": "报告称特斯拉审核中国供应商以推动擎天柱量产",
@@ -961,7 +1338,7 @@
       "url": "https://carnewschina.com/2026/09/21/byds-great-seagull-spotted-in-real-life-featuring-lidar-and-2650-mm-wheelbase",
       "published_at": "2026-09-21T06:33:38Z",
       "first_seen_at": "2026-09-21T10:57:25.432800Z",
-      "last_seen_at": "2026-09-21T23:48:42.822544Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
       "title_original": "BYD’s “Great Seagull” spotted in real life: featuring LiDAR and 2650 mm wheelbase",
       "title_en": "BYD’s “Great Seagull” spotted in real life: featuring LiDAR and 2650 mm wheelbase",
       "title_zh": "比亚迪“大海鸥”现身：配备激光雷达和2650毫米轴距",
@@ -981,7 +1358,7 @@
       "url": "https://juejin.cn/post/7687032811338891302",
       "published_at": "2026-09-21T05:15:58.387000Z",
       "first_seen_at": "2026-09-21T05:15:44.001159Z",
-      "last_seen_at": "2026-09-21T23:48:42.822544Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
       "title_original": "GrokBot 核心成员 Lauren Tan：每月交付 2000 个 PR 的人，是怎么用 AI 的",
       "title_en": null,
       "title_zh": "GrokBot 核心成员 Lauren Tan：每月交付 2000 个 PR 的人，是怎么用 AI 的",
@@ -999,7 +1376,7 @@
       "url": "https://cnevpost.com/2026/09/21/semidrive-secures-fresh-funding",
       "published_at": "2026-09-21T03:49:28Z",
       "first_seen_at": "2026-09-21T05:15:44.001159Z",
-      "last_seen_at": "2026-09-21T23:48:42.822544Z",
+      "last_seen_at": "2026-09-22T03:16:09.385941Z",
       "title_original": "Chinese automotive chipmaker SemiDrive secures fresh funding",
       "title_en": "Chinese automotive chipmaker SemiDrive secures fresh funding",
       "title_zh": "中国汽车芯片制造商芯驰科技获得新融资",
@@ -1007,65 +1384,6 @@
       "topic_tags": [
         "新能源",
         "供应链"
-      ]
-    },
-    {
-      "id": "b27ff4d0909b50f746e578a5aeb04d80bca78acb",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Nio flagship ES9 set to hit 30,000 deliveries this week in milestone for premium lineup",
-      "url": "https://cnevpost.com/2026/09/21/nio-es9-to-hit-30000-deliveries-this-week",
-      "published_at": "2026-09-21T03:07:59Z",
-      "first_seen_at": "2026-09-21T05:15:44.001159Z",
-      "last_seen_at": "2026-09-21T23:48:42.822544Z",
-      "title_original": "Nio flagship ES9 set to hit 30,000 deliveries this week in milestone for premium lineup",
-      "title_en": "Nio flagship ES9 set to hit 30,000 deliveries this week in milestone for premium lineup",
-      "title_zh": "蔚来旗舰ES9本周交付量将达到3万辆，这是高端产品线的里程碑",
-      "title_bilingual": "蔚来旗舰ES9本周交付量将达到3万辆，这是高端产品线的里程碑 / Nio flagship ES9 set to hit 30,000 deliveries this week in milestone for premium lineup",
-      "topic_tags": [
-        "新能源",
-        "销量市场",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "606cb6cd8cf9041a769487ed792954ff81271234",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Huawei-backed Luxeed to launch RX electric SUV on September 28",
-      "url": "https://cnevpost.com/2026/09/21/luxeed-to-launch-rx-sept-28",
-      "published_at": "2026-09-21T02:44:05Z",
-      "first_seen_at": "2026-09-21T05:15:44.001159Z",
-      "last_seen_at": "2026-09-21T23:48:42.822544Z",
-      "title_original": "Huawei-backed Luxeed to launch RX electric SUV on September 28",
-      "title_en": "Huawei-backed Luxeed to launch RX electric SUV on September 28",
-      "title_zh": "华为支持的 Luxeed 将于 9 月 28 日推出 RX 电动 SUV",
-      "title_bilingual": "华为支持的 Luxeed 将于 9 月 28 日推出 RX 电动 SUV / Huawei-backed Luxeed to launch RX electric SUV on September 28",
-      "topic_tags": [
-        "新能源",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "c03535e89205bab1bd592f054e351ee2df6ae8c7",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Nio adds new ES8 wheel package as deliveries stay strong 1 year after launch",
-      "url": "https://cnevpost.com/2026/09/21/nio-adds-new-es8-wheel-package",
-      "published_at": "2026-09-21T02:25:40Z",
-      "first_seen_at": "2026-09-21T05:15:44.001159Z",
-      "last_seen_at": "2026-09-21T23:48:42.822544Z",
-      "title_original": "Nio adds new ES8 wheel package as deliveries stay strong 1 year after launch",
-      "title_en": "Nio adds new ES8 wheel package as deliveries stay strong 1 year after launch",
-      "title_zh": "蔚来增加了新的 ES8 车轮套件，推出一年后交付量保持强劲",
-      "title_bilingual": "蔚来增加了新的 ES8 车轮套件，推出一年后交付量保持强劲 / Nio adds new ES8 wheel package as deliveries stay strong 1 year after launch",
-      "topic_tags": [
-        "新能源",
-        "销量市场",
-        "车企竞争"
       ]
     }
   ],
