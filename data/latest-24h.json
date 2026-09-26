@@ -1,42 +1,42 @@
 {
-  "generated_at": "2026-09-26T11:39:37.509162Z",
+  "generated_at": "2026-09-26T15:44:50.857058Z",
   "window_hours": 24,
-  "total_items": 6,
-  "total_items_ai_raw": 6,
-  "total_items_raw": 2275,
-  "total_items_all_mode": 2097,
+  "total_items": 7,
+  "total_items_ai_raw": 7,
+  "total_items_raw": 2216,
+  "total_items_all_mode": 2045,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 59569,
+  "archive_total": 59208,
   "site_count": 3,
-  "source_count": 4,
+  "source_count": 5,
   "site_stats": [
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "count": 5,
-      "raw_count": 2142
+      "raw_count": 2115
+    },
+    {
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "count": 1,
+      "raw_count": 100
     },
     {
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
       "count": 1,
       "raw_count": 1
-    },
-    {
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "count": 0,
-      "raw_count": 132
     }
   ],
   "topic_tag_stats": [
     {
       "tag": "车企竞争",
-      "count": 5
+      "count": 4
     },
     {
       "tag": "新车上市",
-      "count": 4
+      "count": 3
     },
     {
       "tag": "新能源",
@@ -47,11 +47,11 @@
       "count": 1
     },
     {
-      "tag": "智能驾驶",
+      "tag": "召回安全",
       "count": 1
     },
     {
-      "tag": "补能电池",
+      "tag": "智能驾驶",
       "count": 1
     },
     {
@@ -61,6 +61,42 @@
   ],
   "items": [
     {
+      "id": "d9ea049ca263bafc971426aebca6998d55ba3260",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "juejin",
+      "title": "别再只卷向量检索了，得物交易搜索如何用“生成式”实现召回范式跃迁？",
+      "url": "https://juejin.cn/post/7688611918492614698",
+      "published_at": "2026-09-26T15:45:02.639000Z",
+      "first_seen_at": "2026-09-26T15:44:50.857058Z",
+      "last_seen_at": "2026-09-26T15:44:50.857058Z",
+      "title_original": "别再只卷向量检索了，得物交易搜索如何用“生成式”实现召回范式跃迁？",
+      "title_en": null,
+      "title_zh": "别再只卷向量检索了，得物交易搜索如何用“生成式”实现召回范式跃迁？",
+      "title_bilingual": "别再只卷向量检索了，得物交易搜索如何用“生成式”实现召回范式跃迁？",
+      "topic_tags": [
+        "召回安全"
+      ]
+    },
+    {
+      "id": "0770bb09c68d3e3c7718361761eb39b0ce8746d5",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Mazda launches updated EZ-60 in China, adds LiDAR variants to close smart driving gap",
+      "url": "https://cnevpost.com/2026/09/26/mazda-launches-updated-ez-60-china-adds-lidar",
+      "published_at": "2026-09-26T13:37:44Z",
+      "first_seen_at": "2026-09-26T15:44:50.857058Z",
+      "last_seen_at": "2026-09-26T15:44:50.857058Z",
+      "title_original": "Mazda launches updated EZ-60 in China, adds LiDAR variants to close smart driving gap",
+      "title_en": "Mazda launches updated EZ-60 in China, adds LiDAR variants to close smart driving gap",
+      "title_zh": null,
+      "title_bilingual": "Mazda launches updated EZ-60 in China, adds LiDAR variants to close smart driving gap",
+      "topic_tags": [
+        "新能源"
+      ]
+    },
+    {
       "id": "c925ce103811d4b57105ca71b854247d09ba44dd",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -69,7 +105,7 @@
       "url": "https://www.dongchedi.com/article/7689237880036770328",
       "published_at": null,
       "first_seen_at": "2026-09-26T11:39:37.509162Z",
-      "last_seen_at": "2026-09-26T11:39:37.509162Z",
+      "last_seen_at": "2026-09-26T15:44:50.857058Z",
       "title_original": "沃尔沃6款中国新车交给吉利造：豪华品牌的“灵魂” 还能剩多少？",
       "title_en": null,
       "title_zh": "沃尔沃6款中国新车交给吉利造：豪华品牌的“灵魂” 还能剩多少？",
@@ -88,7 +124,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/812665b6435877e9/116163993-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-25T19:24:57.834833Z",
-      "last_seen_at": "2026-09-26T11:39:37.509162Z",
+      "last_seen_at": "2026-09-26T15:44:50.857058Z",
       "title_original": "底盘调校扎实 速腾提车作业分享",
       "title_en": null,
       "title_zh": "底盘调校扎实 速腾提车作业分享",
@@ -107,7 +143,7 @@
       "url": "http://vc.yiche.com/vplay/13364486.html",
       "published_at": null,
       "first_seen_at": "2026-09-25T19:24:57.834833Z",
-      "last_seen_at": "2026-09-26T11:39:37.509162Z",
+      "last_seen_at": "2026-09-26T15:44:50.857058Z",
       "title_original": "800V+后驱+激光雷达,全新吉利银河E5",
       "title_en": null,
       "title_zh": "800V+后驱+激光雷达,全新吉利银河E5",
@@ -126,7 +162,7 @@
       "url": "http://vc.yiche.com/vplay/13363968.html",
       "published_at": null,
       "first_seen_at": "2026-09-25T19:24:57.834833Z",
-      "last_seen_at": "2026-09-26T11:39:37.509162Z",
+      "last_seen_at": "2026-09-26T15:44:50.857058Z",
       "title_original": "冬奥滑雪大跳台办发布会！吉利星越 L PLUS 崇礼亮相",
       "title_en": null,
       "title_zh": "冬奥滑雪大跳台办发布会！吉利星越 L PLUS 崇礼亮相",
@@ -145,34 +181,13 @@
       "url": "http://vc.yiche.com/vplay/13355036.html",
       "published_at": null,
       "first_seen_at": "2026-09-25T19:24:57.834833Z",
-      "last_seen_at": "2026-09-26T11:39:37.509162Z",
+      "last_seen_at": "2026-09-26T15:44:50.857058Z",
       "title_original": "全新吉利银河E5上市，领克打配合买纯电吉利闭眼入！",
       "title_en": null,
       "title_zh": "全新吉利银河E5上市，领克打配合买纯电吉利闭眼入！",
       "title_bilingual": "全新吉利银河E5上市，领克打配合买纯电吉利闭眼入！",
       "topic_tags": [
         "新能源",
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "bf25596630f16c632b67651871b196d30f5c794e",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "BYD to launch Da Han sedan on October 13 with up to 1,008 km of EV range",
-      "url": "https://cnevpost.com/2026/09/25/byd-to-launch-da-han-oct-13",
-      "published_at": "2026-09-25T14:00:33Z",
-      "first_seen_at": "2026-09-25T15:24:51.278778Z",
-      "last_seen_at": "2026-09-26T11:39:37.509162Z",
-      "title_original": "BYD to launch Da Han sedan on October 13 with up to 1,008 km of EV range",
-      "title_en": "BYD to launch Da Han sedan on October 13 with up to 1,008 km of EV range",
-      "title_zh": "比亚迪将于10月13日推出大汉轿车，纯电动续航里程可达1,008公里",
-      "title_bilingual": "比亚迪将于10月13日推出大汉轿车，纯电动续航里程可达1,008公里 / BYD to launch Da Han sedan on October 13 with up to 1,008 km of EV range",
-      "topic_tags": [
-        "新能源",
-        "补能电池",
         "车企竞争",
         "新车上市"
       ]
@@ -180,6 +195,42 @@
   ],
   "items_ai": [
     {
+      "id": "d9ea049ca263bafc971426aebca6998d55ba3260",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "juejin",
+      "title": "别再只卷向量检索了，得物交易搜索如何用“生成式”实现召回范式跃迁？",
+      "url": "https://juejin.cn/post/7688611918492614698",
+      "published_at": "2026-09-26T15:45:02.639000Z",
+      "first_seen_at": "2026-09-26T15:44:50.857058Z",
+      "last_seen_at": "2026-09-26T15:44:50.857058Z",
+      "title_original": "别再只卷向量检索了，得物交易搜索如何用“生成式”实现召回范式跃迁？",
+      "title_en": null,
+      "title_zh": "别再只卷向量检索了，得物交易搜索如何用“生成式”实现召回范式跃迁？",
+      "title_bilingual": "别再只卷向量检索了，得物交易搜索如何用“生成式”实现召回范式跃迁？",
+      "topic_tags": [
+        "召回安全"
+      ]
+    },
+    {
+      "id": "0770bb09c68d3e3c7718361761eb39b0ce8746d5",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Mazda launches updated EZ-60 in China, adds LiDAR variants to close smart driving gap",
+      "url": "https://cnevpost.com/2026/09/26/mazda-launches-updated-ez-60-china-adds-lidar",
+      "published_at": "2026-09-26T13:37:44Z",
+      "first_seen_at": "2026-09-26T15:44:50.857058Z",
+      "last_seen_at": "2026-09-26T15:44:50.857058Z",
+      "title_original": "Mazda launches updated EZ-60 in China, adds LiDAR variants to close smart driving gap",
+      "title_en": "Mazda launches updated EZ-60 in China, adds LiDAR variants to close smart driving gap",
+      "title_zh": null,
+      "title_bilingual": "Mazda launches updated EZ-60 in China, adds LiDAR variants to close smart driving gap",
+      "topic_tags": [
+        "新能源"
+      ]
+    },
+    {
       "id": "c925ce103811d4b57105ca71b854247d09ba44dd",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -188,7 +239,7 @@
       "url": "https://www.dongchedi.com/article/7689237880036770328",
       "published_at": null,
       "first_seen_at": "2026-09-26T11:39:37.509162Z",
-      "last_seen_at": "2026-09-26T11:39:37.509162Z",
+      "last_seen_at": "2026-09-26T15:44:50.857058Z",
       "title_original": "沃尔沃6款中国新车交给吉利造：豪华品牌的“灵魂” 还能剩多少？",
       "title_en": null,
       "title_zh": "沃尔沃6款中国新车交给吉利造：豪华品牌的“灵魂” 还能剩多少？",
@@ -207,7 +258,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/812665b6435877e9/116163993-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-25T19:24:57.834833Z",
-      "last_seen_at": "2026-09-26T11:39:37.509162Z",
+      "last_seen_at": "2026-09-26T15:44:50.857058Z",
       "title_original": "底盘调校扎实 速腾提车作业分享",
       "title_en": null,
       "title_zh": "底盘调校扎实 速腾提车作业分享",
@@ -226,7 +277,7 @@
       "url": "http://vc.yiche.com/vplay/13364486.html",
       "published_at": null,
       "first_seen_at": "2026-09-25T19:24:57.834833Z",
-      "last_seen_at": "2026-09-26T11:39:37.509162Z",
+      "last_seen_at": "2026-09-26T15:44:50.857058Z",
       "title_original": "800V+后驱+激光雷达,全新吉利银河E5",
       "title_en": null,
       "title_zh": "800V+后驱+激光雷达,全新吉利银河E5",
@@ -245,7 +296,7 @@
       "url": "http://vc.yiche.com/vplay/13363968.html",
       "published_at": null,
       "first_seen_at": "2026-09-25T19:24:57.834833Z",
-      "last_seen_at": "2026-09-26T11:39:37.509162Z",
+      "last_seen_at": "2026-09-26T15:44:50.857058Z",
       "title_original": "冬奥滑雪大跳台办发布会！吉利星越 L PLUS 崇礼亮相",
       "title_en": null,
       "title_zh": "冬奥滑雪大跳台办发布会！吉利星越 L PLUS 崇礼亮相",
@@ -264,34 +315,13 @@
       "url": "http://vc.yiche.com/vplay/13355036.html",
       "published_at": null,
       "first_seen_at": "2026-09-25T19:24:57.834833Z",
-      "last_seen_at": "2026-09-26T11:39:37.509162Z",
+      "last_seen_at": "2026-09-26T15:44:50.857058Z",
       "title_original": "全新吉利银河E5上市，领克打配合买纯电吉利闭眼入！",
       "title_en": null,
       "title_zh": "全新吉利银河E5上市，领克打配合买纯电吉利闭眼入！",
       "title_bilingual": "全新吉利银河E5上市，领克打配合买纯电吉利闭眼入！",
       "topic_tags": [
         "新能源",
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "bf25596630f16c632b67651871b196d30f5c794e",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "BYD to launch Da Han sedan on October 13 with up to 1,008 km of EV range",
-      "url": "https://cnevpost.com/2026/09/25/byd-to-launch-da-han-oct-13",
-      "published_at": "2026-09-25T14:00:33Z",
-      "first_seen_at": "2026-09-25T15:24:51.278778Z",
-      "last_seen_at": "2026-09-26T11:39:37.509162Z",
-      "title_original": "BYD to launch Da Han sedan on October 13 with up to 1,008 km of EV range",
-      "title_en": "BYD to launch Da Han sedan on October 13 with up to 1,008 km of EV range",
-      "title_zh": "比亚迪将于10月13日推出大汉轿车，纯电动续航里程可达1,008公里",
-      "title_bilingual": "比亚迪将于10月13日推出大汉轿车，纯电动续航里程可达1,008公里 / BYD to launch Da Han sedan on October 13 with up to 1,008 km of EV range",
-      "topic_tags": [
-        "新能源",
-        "补能电池",
         "车企竞争",
         "新车上市"
       ]
