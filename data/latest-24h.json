@@ -1,21 +1,15 @@
 {
-  "generated_at": "2026-09-27T11:22:45.636655Z",
+  "generated_at": "2026-09-27T15:44:52.554478Z",
   "window_hours": 24,
   "total_items": 9,
   "total_items_ai_raw": 9,
-  "total_items_raw": 2514,
-  "total_items_all_mode": 2315,
+  "total_items_raw": 2042,
+  "total_items_all_mode": 1896,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 58770,
+  "archive_total": 58738,
   "site_count": 3,
   "source_count": 7,
   "site_stats": [
-    {
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "count": 4,
-      "raw_count": 2387
-    },
     {
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -25,13 +19,19 @@
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
-      "count": 2,
-      "raw_count": 124
+      "count": 3,
+      "raw_count": 88
+    },
+    {
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "count": 3,
+      "raw_count": 1951
     }
   ],
   "topic_tag_stats": [
     {
-      "tag": "车企竞争",
+      "tag": "补能电池",
       "count": 4
     },
     {
@@ -39,7 +39,7 @@
       "count": 3
     },
     {
-      "tag": "补能电池",
+      "tag": "车企竞争",
       "count": 3
     },
     {
@@ -49,6 +49,10 @@
     {
       "tag": "智能驾驶",
       "count": 2
+    },
+    {
+      "tag": "价格战",
+      "count": 1
     },
     {
       "tag": "召回安全",
@@ -61,6 +65,42 @@
   ],
   "items": [
     {
+      "id": "b14a08ae333bac713dcea03768fb9a3a38f39943",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "EU presses UK to raise tariffs on Chinese EVs, report says",
+      "url": "https://cnevpost.com/2026/09/27/eu-presses-uk-raise-tariffs-chinese-evs",
+      "published_at": "2026-09-27T13:54:54Z",
+      "first_seen_at": "2026-09-27T15:44:52.554478Z",
+      "last_seen_at": "2026-09-27T15:44:52.554478Z",
+      "title_original": "EU presses UK to raise tariffs on Chinese EVs, report says",
+      "title_en": "EU presses UK to raise tariffs on Chinese EVs, report says",
+      "title_zh": "报告称欧盟敦促英国提高对中国电动汽车的关税",
+      "title_bilingual": "报告称欧盟敦促英国提高对中国电动汽车的关税 / EU presses UK to raise tariffs on Chinese EVs, report says",
+      "topic_tags": [
+        "新能源"
+      ]
+    },
+    {
+      "id": "ef49990bc58045ab17fb5efc88c2453814d6b913",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "hackernews",
+      "title": "Replacing the old battery on rechargeable bike lights",
+      "url": "https://news.ycombinator.com/item?id=49866515",
+      "published_at": "2026-09-27T13:30:11Z",
+      "first_seen_at": "2026-09-27T15:44:52.554478Z",
+      "last_seen_at": "2026-09-27T15:44:52.554478Z",
+      "title_original": "Replacing the old battery on rechargeable bike lights",
+      "title_en": "Replacing the old battery on rechargeable bike lights",
+      "title_zh": "更换充电自行车灯上的旧电池",
+      "title_bilingual": "更换充电自行车灯上的旧电池 / Replacing the old battery on rechargeable bike lights",
+      "topic_tags": [
+        "补能电池"
+      ]
+    },
+    {
       "id": "c4d83cb47645cd4f51e625436eb299b79e1f8b2b",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -69,14 +109,16 @@
       "url": "https://carnewschina.com/2026/09/27/mazda-cx-6e-refreshed-with-lidar-self-driving-launches-at-21700-usd-in-china",
       "published_at": "2026-09-27T07:21:42Z",
       "first_seen_at": "2026-09-27T11:22:45.636655Z",
-      "last_seen_at": "2026-09-27T11:22:45.636655Z",
+      "last_seen_at": "2026-09-27T15:44:52.554478Z",
       "title_original": "Mazda CX-6e refreshed with LiDAR “self driving”, launches at 21,700 USD in China",
       "title_en": "Mazda CX-6e refreshed with LiDAR “self driving”, launches at 21,700 USD in China",
-      "title_zh": null,
-      "title_bilingual": "Mazda CX-6e refreshed with LiDAR “self driving”, launches at 21,700 USD in China",
+      "title_zh": "马自达CX-6e配备LiDAR“自动驾驶”更新，在中国上市售价21,700美元",
+      "title_bilingual": "马自达CX-6e配备LiDAR“自动驾驶”更新，在中国上市售价21,700美元 / Mazda CX-6e refreshed with LiDAR “self driving”, launches at 21,700 USD in China",
       "topic_tags": [
         "新能源",
-        "智能驾驶"
+        "智能驾驶",
+        "价格战",
+        "新车上市"
       ]
     },
     {
@@ -88,11 +130,11 @@
       "url": "https://carnewschina.com/2026/09/27/second-gen-byd-seagull-switches-to-rear-wheel-drive-adds-front-trunk-in-major-overhaul",
       "published_at": "2026-09-27T01:04:06Z",
       "first_seen_at": "2026-09-27T05:32:59.565322Z",
-      "last_seen_at": "2026-09-27T11:22:45.636655Z",
+      "last_seen_at": "2026-09-27T15:44:52.554478Z",
       "title_original": "Second-gen BYD Seagull switches to rear-wheel drive, adds front trunk in major overhaul",
       "title_en": "Second-gen BYD Seagull switches to rear-wheel drive, adds front trunk in major overhaul",
-      "title_zh": null,
-      "title_bilingual": "Second-gen BYD Seagull switches to rear-wheel drive, adds front trunk in major overhaul",
+      "title_zh": "二代比亚迪海鸥大修改后驱、增加前行李箱",
+      "title_bilingual": "二代比亚迪海鸥大修改后驱、增加前行李箱 / Second-gen BYD Seagull switches to rear-wheel drive, adds front trunk in major overhaul",
       "topic_tags": [
         "新能源",
         "车企竞争"
@@ -107,7 +149,7 @@
       "url": "http://vc.yiche.com/vplay/13350661.html",
       "published_at": null,
       "first_seen_at": "2026-09-26T21:55:05.973694Z",
-      "last_seen_at": "2026-09-27T11:22:45.636655Z",
+      "last_seen_at": "2026-09-27T15:44:52.554478Z",
       "title_original": "比亚迪第二代海鸥离上市不远了，搭载闪充技术全方位升级",
       "title_en": null,
       "title_zh": "比亚迪第二代海鸥离上市不远了，搭载闪充技术全方位升级",
@@ -127,7 +169,7 @@
       "url": "http://vc.yiche.com/vplay/13370856.html",
       "published_at": null,
       "first_seen_at": "2026-09-26T21:55:05.973694Z",
-      "last_seen_at": "2026-09-27T11:22:45.636655Z",
+      "last_seen_at": "2026-09-27T15:44:52.554478Z",
       "title_original": "8.39万起 配宁德时代电芯 奇瑞全新QQ3摩登版来了！",
       "title_en": null,
       "title_zh": "8.39万起 配宁德时代电芯 奇瑞全新QQ3摩登版来了！",
@@ -146,7 +188,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/01e0124424eac69b/116181080-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-26T18:58:42.674462Z",
-      "last_seen_at": "2026-09-27T11:22:45.636655Z",
+      "last_seen_at": "2026-09-27T15:44:52.554478Z",
       "title_original": "方程豹钛7天神之眼B智驾体验报告",
       "title_en": null,
       "title_zh": "方程豹钛7天神之眼B智驾体验报告",
@@ -165,7 +207,7 @@
       "url": "https://sspai.com/post/114904",
       "published_at": "2026-09-26T18:39:46.763000Z",
       "first_seen_at": "2026-09-26T18:58:42.674462Z",
-      "last_seen_at": "2026-09-27T11:22:45.636655Z",
+      "last_seen_at": "2026-09-27T15:44:52.554478Z",
       "title_original": "社区速递 159 | 便携卡片充电器与库克十五年改变生活的产品",
       "title_en": null,
       "title_zh": "社区速递 159 | 便携卡片充电器与库克十五年改变生活的产品",
@@ -183,55 +225,54 @@
       "url": "https://juejin.cn/post/7688611918492614698",
       "published_at": "2026-09-26T15:45:02.639000Z",
       "first_seen_at": "2026-09-26T15:44:50.857058Z",
-      "last_seen_at": "2026-09-27T11:22:45.636655Z",
+      "last_seen_at": "2026-09-27T15:44:52.554478Z",
       "title_original": "别再只卷向量检索了，得物交易搜索如何用“生成式”实现召回范式跃迁？",
       "title_en": null,
       "title_zh": "别再只卷向量检索了，得物交易搜索如何用“生成式”实现召回范式跃迁？",
       "title_bilingual": "别再只卷向量检索了，得物交易搜索如何用“生成式”实现召回范式跃迁？",
       "topic_tags": [
         "召回安全"
-      ]
-    },
-    {
-      "id": "0770bb09c68d3e3c7718361761eb39b0ce8746d5",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Mazda launches updated EZ-60 in China, adds LiDAR variants to close smart driving gap",
-      "url": "https://cnevpost.com/2026/09/26/mazda-launches-updated-ez-60-china-adds-lidar",
-      "published_at": "2026-09-26T13:37:44Z",
-      "first_seen_at": "2026-09-26T15:44:50.857058Z",
-      "last_seen_at": "2026-09-27T11:22:45.636655Z",
-      "title_original": "Mazda launches updated EZ-60 in China, adds LiDAR variants to close smart driving gap",
-      "title_en": "Mazda launches updated EZ-60 in China, adds LiDAR variants to close smart driving gap",
-      "title_zh": null,
-      "title_bilingual": "Mazda launches updated EZ-60 in China, adds LiDAR variants to close smart driving gap",
-      "topic_tags": [
-        "新能源"
-      ]
-    },
-    {
-      "id": "c925ce103811d4b57105ca71b854247d09ba44dd",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "懂车帝 · 文章排行榜",
-      "title": "沃尔沃6款中国新车交给吉利造：豪华品牌的“灵魂” 还能剩多少？",
-      "url": "https://www.dongchedi.com/article/7689237880036770328",
-      "published_at": null,
-      "first_seen_at": "2026-09-26T11:39:37.509162Z",
-      "last_seen_at": "2026-09-27T11:22:45.636655Z",
-      "title_original": "沃尔沃6款中国新车交给吉利造：豪华品牌的“灵魂” 还能剩多少？",
-      "title_en": null,
-      "title_zh": "沃尔沃6款中国新车交给吉利造：豪华品牌的“灵魂” 还能剩多少？",
-      "title_bilingual": "沃尔沃6款中国新车交给吉利造：豪华品牌的“灵魂” 还能剩多少？",
-      "topic_tags": [
-        "车企竞争",
-        "新车上市"
       ]
     }
   ],
   "items_ai": [
     {
+      "id": "b14a08ae333bac713dcea03768fb9a3a38f39943",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "EU presses UK to raise tariffs on Chinese EVs, report says",
+      "url": "https://cnevpost.com/2026/09/27/eu-presses-uk-raise-tariffs-chinese-evs",
+      "published_at": "2026-09-27T13:54:54Z",
+      "first_seen_at": "2026-09-27T15:44:52.554478Z",
+      "last_seen_at": "2026-09-27T15:44:52.554478Z",
+      "title_original": "EU presses UK to raise tariffs on Chinese EVs, report says",
+      "title_en": "EU presses UK to raise tariffs on Chinese EVs, report says",
+      "title_zh": "报告称欧盟敦促英国提高对中国电动汽车的关税",
+      "title_bilingual": "报告称欧盟敦促英国提高对中国电动汽车的关税 / EU presses UK to raise tariffs on Chinese EVs, report says",
+      "topic_tags": [
+        "新能源"
+      ]
+    },
+    {
+      "id": "ef49990bc58045ab17fb5efc88c2453814d6b913",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "hackernews",
+      "title": "Replacing the old battery on rechargeable bike lights",
+      "url": "https://news.ycombinator.com/item?id=49866515",
+      "published_at": "2026-09-27T13:30:11Z",
+      "first_seen_at": "2026-09-27T15:44:52.554478Z",
+      "last_seen_at": "2026-09-27T15:44:52.554478Z",
+      "title_original": "Replacing the old battery on rechargeable bike lights",
+      "title_en": "Replacing the old battery on rechargeable bike lights",
+      "title_zh": "更换充电自行车灯上的旧电池",
+      "title_bilingual": "更换充电自行车灯上的旧电池 / Replacing the old battery on rechargeable bike lights",
+      "topic_tags": [
+        "补能电池"
+      ]
+    },
+    {
       "id": "c4d83cb47645cd4f51e625436eb299b79e1f8b2b",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -240,14 +281,16 @@
       "url": "https://carnewschina.com/2026/09/27/mazda-cx-6e-refreshed-with-lidar-self-driving-launches-at-21700-usd-in-china",
       "published_at": "2026-09-27T07:21:42Z",
       "first_seen_at": "2026-09-27T11:22:45.636655Z",
-      "last_seen_at": "2026-09-27T11:22:45.636655Z",
+      "last_seen_at": "2026-09-27T15:44:52.554478Z",
       "title_original": "Mazda CX-6e refreshed with LiDAR “self driving”, launches at 21,700 USD in China",
       "title_en": "Mazda CX-6e refreshed with LiDAR “self driving”, launches at 21,700 USD in China",
-      "title_zh": null,
-      "title_bilingual": "Mazda CX-6e refreshed with LiDAR “self driving”, launches at 21,700 USD in China",
+      "title_zh": "马自达CX-6e配备LiDAR“自动驾驶”更新，在中国上市售价21,700美元",
+      "title_bilingual": "马自达CX-6e配备LiDAR“自动驾驶”更新，在中国上市售价21,700美元 / Mazda CX-6e refreshed with LiDAR “self driving”, launches at 21,700 USD in China",
       "topic_tags": [
         "新能源",
-        "智能驾驶"
+        "智能驾驶",
+        "价格战",
+        "新车上市"
       ]
     },
     {
@@ -259,11 +302,11 @@
       "url": "https://carnewschina.com/2026/09/27/second-gen-byd-seagull-switches-to-rear-wheel-drive-adds-front-trunk-in-major-overhaul",
       "published_at": "2026-09-27T01:04:06Z",
       "first_seen_at": "2026-09-27T05:32:59.565322Z",
-      "last_seen_at": "2026-09-27T11:22:45.636655Z",
+      "last_seen_at": "2026-09-27T15:44:52.554478Z",
       "title_original": "Second-gen BYD Seagull switches to rear-wheel drive, adds front trunk in major overhaul",
       "title_en": "Second-gen BYD Seagull switches to rear-wheel drive, adds front trunk in major overhaul",
-      "title_zh": null,
-      "title_bilingual": "Second-gen BYD Seagull switches to rear-wheel drive, adds front trunk in major overhaul",
+      "title_zh": "二代比亚迪海鸥大修改后驱、增加前行李箱",
+      "title_bilingual": "二代比亚迪海鸥大修改后驱、增加前行李箱 / Second-gen BYD Seagull switches to rear-wheel drive, adds front trunk in major overhaul",
       "topic_tags": [
         "新能源",
         "车企竞争"
@@ -278,7 +321,7 @@
       "url": "http://vc.yiche.com/vplay/13350661.html",
       "published_at": null,
       "first_seen_at": "2026-09-26T21:55:05.973694Z",
-      "last_seen_at": "2026-09-27T11:22:45.636655Z",
+      "last_seen_at": "2026-09-27T15:44:52.554478Z",
       "title_original": "比亚迪第二代海鸥离上市不远了，搭载闪充技术全方位升级",
       "title_en": null,
       "title_zh": "比亚迪第二代海鸥离上市不远了，搭载闪充技术全方位升级",
@@ -298,7 +341,7 @@
       "url": "http://vc.yiche.com/vplay/13370856.html",
       "published_at": null,
       "first_seen_at": "2026-09-26T21:55:05.973694Z",
-      "last_seen_at": "2026-09-27T11:22:45.636655Z",
+      "last_seen_at": "2026-09-27T15:44:52.554478Z",
       "title_original": "8.39万起 配宁德时代电芯 奇瑞全新QQ3摩登版来了！",
       "title_en": null,
       "title_zh": "8.39万起 配宁德时代电芯 奇瑞全新QQ3摩登版来了！",
@@ -317,7 +360,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/01e0124424eac69b/116181080-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-26T18:58:42.674462Z",
-      "last_seen_at": "2026-09-27T11:22:45.636655Z",
+      "last_seen_at": "2026-09-27T15:44:52.554478Z",
       "title_original": "方程豹钛7天神之眼B智驾体验报告",
       "title_en": null,
       "title_zh": "方程豹钛7天神之眼B智驾体验报告",
@@ -336,7 +379,7 @@
       "url": "https://sspai.com/post/114904",
       "published_at": "2026-09-26T18:39:46.763000Z",
       "first_seen_at": "2026-09-26T18:58:42.674462Z",
-      "last_seen_at": "2026-09-27T11:22:45.636655Z",
+      "last_seen_at": "2026-09-27T15:44:52.554478Z",
       "title_original": "社区速递 159 | 便携卡片充电器与库克十五年改变生活的产品",
       "title_en": null,
       "title_zh": "社区速递 159 | 便携卡片充电器与库克十五年改变生活的产品",
@@ -354,50 +397,13 @@
       "url": "https://juejin.cn/post/7688611918492614698",
       "published_at": "2026-09-26T15:45:02.639000Z",
       "first_seen_at": "2026-09-26T15:44:50.857058Z",
-      "last_seen_at": "2026-09-27T11:22:45.636655Z",
+      "last_seen_at": "2026-09-27T15:44:52.554478Z",
       "title_original": "别再只卷向量检索了，得物交易搜索如何用“生成式”实现召回范式跃迁？",
       "title_en": null,
       "title_zh": "别再只卷向量检索了，得物交易搜索如何用“生成式”实现召回范式跃迁？",
       "title_bilingual": "别再只卷向量检索了，得物交易搜索如何用“生成式”实现召回范式跃迁？",
       "topic_tags": [
         "召回安全"
-      ]
-    },
-    {
-      "id": "0770bb09c68d3e3c7718361761eb39b0ce8746d5",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Mazda launches updated EZ-60 in China, adds LiDAR variants to close smart driving gap",
-      "url": "https://cnevpost.com/2026/09/26/mazda-launches-updated-ez-60-china-adds-lidar",
-      "published_at": "2026-09-26T13:37:44Z",
-      "first_seen_at": "2026-09-26T15:44:50.857058Z",
-      "last_seen_at": "2026-09-27T11:22:45.636655Z",
-      "title_original": "Mazda launches updated EZ-60 in China, adds LiDAR variants to close smart driving gap",
-      "title_en": "Mazda launches updated EZ-60 in China, adds LiDAR variants to close smart driving gap",
-      "title_zh": null,
-      "title_bilingual": "Mazda launches updated EZ-60 in China, adds LiDAR variants to close smart driving gap",
-      "topic_tags": [
-        "新能源"
-      ]
-    },
-    {
-      "id": "c925ce103811d4b57105ca71b854247d09ba44dd",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "懂车帝 · 文章排行榜",
-      "title": "沃尔沃6款中国新车交给吉利造：豪华品牌的“灵魂” 还能剩多少？",
-      "url": "https://www.dongchedi.com/article/7689237880036770328",
-      "published_at": null,
-      "first_seen_at": "2026-09-26T11:39:37.509162Z",
-      "last_seen_at": "2026-09-27T11:22:45.636655Z",
-      "title_original": "沃尔沃6款中国新车交给吉利造：豪华品牌的“灵魂” 还能剩多少？",
-      "title_en": null,
-      "title_zh": "沃尔沃6款中国新车交给吉利造：豪华品牌的“灵魂” 还能剩多少？",
-      "title_bilingual": "沃尔沃6款中国新车交给吉利造：豪华品牌的“灵魂” 还能剩多少？",
-      "topic_tags": [
-        "车企竞争",
-        "新车上市"
       ]
     }
   ],
