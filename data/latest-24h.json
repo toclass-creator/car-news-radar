@@ -1,15 +1,21 @@
 {
-  "generated_at": "2026-09-27T15:44:52.554478Z",
+  "generated_at": "2026-09-27T19:31:00.444306Z",
   "window_hours": 24,
-  "total_items": 9,
-  "total_items_ai_raw": 9,
-  "total_items_raw": 2042,
-  "total_items_all_mode": 1896,
+  "total_items": 18,
+  "total_items_ai_raw": 18,
+  "total_items_raw": 2043,
+  "total_items_all_mode": 1922,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 58738,
+  "archive_total": 58763,
   "site_count": 3,
-  "source_count": 7,
+  "source_count": 5,
   "site_stats": [
+    {
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "count": 14,
+      "raw_count": 1957
+    },
     {
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -19,52 +25,278 @@
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
-      "count": 3,
-      "raw_count": 88
-    },
-    {
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "count": 3,
-      "raw_count": 1951
+      "count": 1,
+      "raw_count": 83
     }
   ],
   "topic_tag_stats": [
     {
-      "tag": "补能电池",
-      "count": 4
+      "tag": "车企竞争",
+      "count": 10
     },
     {
       "tag": "新能源",
-      "count": 3
+      "count": 8
     },
     {
-      "tag": "车企竞争",
-      "count": 3
+      "tag": "购车决策",
+      "count": 7
     },
     {
       "tag": "新车上市",
-      "count": 2
+      "count": 5
+    },
+    {
+      "tag": "补能电池",
+      "count": 5
     },
     {
       "tag": "智能驾驶",
-      "count": 2
+      "count": 4
     },
     {
       "tag": "价格战",
       "count": 1
     },
     {
-      "tag": "召回安全",
-      "count": 1
-    },
-    {
-      "tag": "购车决策",
+      "tag": "销量市场",
       "count": 1
     }
   ],
   "items": [
     {
+      "id": "6a6e46dc998d82e87b07381d79351c64a91f6aa1",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "购车遇交付延期 一波三折提埃安i60",
+      "url": "https://club.autohome.com.cn/bbs/thread/a1b7ab0cd42c952b/116154297-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-27T19:31:00.444306Z",
+      "last_seen_at": "2026-09-27T19:31:00.444306Z",
+      "title_original": "购车遇交付延期 一波三折提埃安i60",
+      "title_en": null,
+      "title_zh": "购车遇交付延期 一波三折提埃安i60",
+      "title_bilingual": "购车遇交付延期 一波三折提埃安i60",
+      "topic_tags": [
+        "销量市场",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "051e81a77a0e7e6aac71cf217b817f01dfc5b595",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "外观造型协调 iCAR V27提车作业分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/3ffa92e496161600/116117877-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-27T19:31:00.444306Z",
+      "last_seen_at": "2026-09-27T19:31:00.444306Z",
+      "title_original": "外观造型协调 iCAR V27提车作业分享",
+      "title_en": null,
+      "title_zh": "外观造型协调 iCAR V27提车作业分享",
+      "title_bilingual": "外观造型协调 iCAR V27提车作业分享",
+      "topic_tags": [
+        "购车决策"
+      ]
+    },
+    {
+      "id": "63c344967a1ce408467763d12a961cc660073044",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "坦克300L新能源城市智驾实测分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/0a292f39688cacf7/116084466-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-27T19:31:00.444306Z",
+      "last_seen_at": "2026-09-27T19:31:00.444306Z",
+      "title_original": "坦克300L新能源城市智驾实测分享",
+      "title_en": null,
+      "title_zh": "坦克300L新能源城市智驾实测分享",
+      "title_bilingual": "坦克300L新能源城市智驾实测分享",
+      "topic_tags": [
+        "新能源",
+        "智能驾驶"
+      ]
+    },
+    {
+      "id": "518dd108dd4ec075a7c19310d86320490338f2e1",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "省钱省心 零跑Lafa5提车作业分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/1cb1755c8d6b5718/116025015-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-27T19:31:00.444306Z",
+      "last_seen_at": "2026-09-27T19:31:00.444306Z",
+      "title_original": "省钱省心 零跑Lafa5提车作业分享",
+      "title_en": null,
+      "title_zh": "省钱省心 零跑Lafa5提车作业分享",
+      "title_bilingual": "省钱省心 零跑Lafa5提车作业分享",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "f76cd3543974d820629fda5c077ebb60d06d9b34",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "没有续航压力 唐新能源提车作业分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/206791641edea36e/116014056-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-27T19:31:00.444306Z",
+      "last_seen_at": "2026-09-27T19:31:00.444306Z",
+      "title_original": "没有续航压力 唐新能源提车作业分享",
+      "title_en": null,
+      "title_zh": "没有续航压力 唐新能源提车作业分享",
+      "title_bilingual": "没有续航压力 唐新能源提车作业分享",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "affd54e8e2df9ed4e4c5343adb9f1e979adba722",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "心心念念的车 长城H10提车作业分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/f5fbb129e8efe44e/116005549-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-27T19:31:00.444306Z",
+      "last_seen_at": "2026-09-27T19:31:00.444306Z",
+      "title_original": "心心念念的车 长城H10提车作业分享",
+      "title_en": null,
+      "title_zh": "心心念念的车 长城H10提车作业分享",
+      "title_bilingual": "心心念念的车 长城H10提车作业分享",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "c7cf1c0d30b74a9918e333f0b11dc802c6302340",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "智驾终于跟上时代 试驾全新奥迪Q5L",
+      "url": "https://club.autohome.com.cn/bbs/thread/60e20425a17c7b65/115971342-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-27T19:31:00.444306Z",
+      "last_seen_at": "2026-09-27T19:31:00.444306Z",
+      "title_original": "智驾终于跟上时代 试驾全新奥迪Q5L",
+      "title_en": null,
+      "title_zh": "智驾终于跟上时代 试驾全新奥迪Q5L",
+      "title_bilingual": "智驾终于跟上时代 试驾全新奥迪Q5L",
+      "topic_tags": [
+        "智能驾驶",
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "7cee563aea6eb7ce4cf475f95f8c9358057c92ed",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "没有续航焦虑 银河星舰7用车分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/826fce0937e5d812/115883916-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-27T19:31:00.444306Z",
+      "last_seen_at": "2026-09-27T19:31:00.444306Z",
+      "title_original": "没有续航焦虑 银河星舰7用车分享",
+      "title_en": null,
+      "title_zh": "没有续航焦虑 银河星舰7用车分享",
+      "title_bilingual": "没有续航焦虑 银河星舰7用车分享",
+      "topic_tags": [
+        "补能电池",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "94b2564127b207fa4d38f2572996529912117e3d",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "AI试车，长城猛龙PLUS 力魂版，Hi4插混+后锁+AT胎，配置更硬核",
+      "url": "http://vc.yiche.com/vplay/13397337.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-27T19:31:00.444306Z",
+      "last_seen_at": "2026-09-27T19:31:00.444306Z",
+      "title_original": "AI试车，长城猛龙PLUS 力魂版，Hi4插混+后锁+AT胎，配置更硬核",
+      "title_en": null,
+      "title_zh": "AI试车，长城猛龙PLUS 力魂版，Hi4插混+后锁+AT胎，配置更硬核",
+      "title_bilingual": "AI试车，长城猛龙PLUS 力魂版，Hi4插混+后锁+AT胎，配置更硬核",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "6baf29d7d537af9a871c211905f9093202c140a1",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "长城H10上市！1.5T插混+4.9秒破百+激光雷达，20.18万起！",
+      "url": "http://vc.yiche.com/vplay/13374545.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-27T19:31:00.444306Z",
+      "last_seen_at": "2026-09-27T19:31:00.444306Z",
+      "title_original": "长城H10上市！1.5T插混+4.9秒破百+激光雷达，20.18万起！",
+      "title_en": null,
+      "title_zh": "长城H10上市！1.5T插混+4.9秒破百+激光雷达，20.18万起！",
+      "title_bilingual": "长城H10上市！1.5T插混+4.9秒破百+激光雷达，20.18万起！",
+      "topic_tags": [
+        "新能源",
+        "智能驾驶",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "f2269485440d98da7fbf69b73c4153d3cd12eab1",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "长城大狗混动版 真省够爽更智 锁定9月28上市直播间",
+      "url": "http://vc.yiche.com/vplay/13390029.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-27T19:31:00.444306Z",
+      "last_seen_at": "2026-09-27T19:31:00.444306Z",
+      "title_original": "长城大狗混动版 真省够爽更智 锁定9月28上市直播间",
+      "title_en": null,
+      "title_zh": "长城大狗混动版 真省够爽更智 锁定9月28上市直播间",
+      "title_bilingual": "长城大狗混动版 真省够爽更智 锁定9月28上市直播间",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "a4b5b3c5eece8fafae0f61717db68ac18a6598e9",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "比亚迪全新方盒子SUV即将到来！和豹5大小相当，钛6会卖多少钱？",
+      "url": "http://vc.yiche.com/vplay/13411561.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-27T19:31:00.444306Z",
+      "last_seen_at": "2026-09-27T19:31:00.444306Z",
+      "title_original": "比亚迪全新方盒子SUV即将到来！和豹5大小相当，钛6会卖多少钱？",
+      "title_en": null,
+      "title_zh": "比亚迪全新方盒子SUV即将到来！和豹5大小相当，钛6会卖多少钱？",
+      "title_bilingual": "比亚迪全新方盒子SUV即将到来！和豹5大小相当，钛6会卖多少钱？",
+      "topic_tags": [
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
       "id": "b14a08ae333bac713dcea03768fb9a3a38f39943",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -73,7 +305,7 @@
       "url": "https://cnevpost.com/2026/09/27/eu-presses-uk-raise-tariffs-chinese-evs",
       "published_at": "2026-09-27T13:54:54Z",
       "first_seen_at": "2026-09-27T15:44:52.554478Z",
-      "last_seen_at": "2026-09-27T15:44:52.554478Z",
+      "last_seen_at": "2026-09-27T19:31:00.444306Z",
       "title_original": "EU presses UK to raise tariffs on Chinese EVs, report says",
       "title_en": "EU presses UK to raise tariffs on Chinese EVs, report says",
       "title_zh": "报告称欧盟敦促英国提高对中国电动汽车的关税",
@@ -91,7 +323,7 @@
       "url": "https://news.ycombinator.com/item?id=49866515",
       "published_at": "2026-09-27T13:30:11Z",
       "first_seen_at": "2026-09-27T15:44:52.554478Z",
-      "last_seen_at": "2026-09-27T15:44:52.554478Z",
+      "last_seen_at": "2026-09-27T19:31:00.444306Z",
       "title_original": "Replacing the old battery on rechargeable bike lights",
       "title_en": "Replacing the old battery on rechargeable bike lights",
       "title_zh": "更换充电自行车灯上的旧电池",
@@ -109,7 +341,7 @@
       "url": "https://carnewschina.com/2026/09/27/mazda-cx-6e-refreshed-with-lidar-self-driving-launches-at-21700-usd-in-china",
       "published_at": "2026-09-27T07:21:42Z",
       "first_seen_at": "2026-09-27T11:22:45.636655Z",
-      "last_seen_at": "2026-09-27T15:44:52.554478Z",
+      "last_seen_at": "2026-09-27T19:31:00.444306Z",
       "title_original": "Mazda CX-6e refreshed with LiDAR “self driving”, launches at 21,700 USD in China",
       "title_en": "Mazda CX-6e refreshed with LiDAR “self driving”, launches at 21,700 USD in China",
       "title_zh": "马自达CX-6e配备LiDAR“自动驾驶”更新，在中国上市售价21,700美元",
@@ -130,7 +362,7 @@
       "url": "https://carnewschina.com/2026/09/27/second-gen-byd-seagull-switches-to-rear-wheel-drive-adds-front-trunk-in-major-overhaul",
       "published_at": "2026-09-27T01:04:06Z",
       "first_seen_at": "2026-09-27T05:32:59.565322Z",
-      "last_seen_at": "2026-09-27T15:44:52.554478Z",
+      "last_seen_at": "2026-09-27T19:31:00.444306Z",
       "title_original": "Second-gen BYD Seagull switches to rear-wheel drive, adds front trunk in major overhaul",
       "title_en": "Second-gen BYD Seagull switches to rear-wheel drive, adds front trunk in major overhaul",
       "title_zh": "二代比亚迪海鸥大修改后驱、增加前行李箱",
@@ -177,66 +409,243 @@
       "topic_tags": [
         "补能电池",
         "车企竞争"
-      ]
-    },
-    {
-      "id": "6c72aacb0174264e1df19663a07526a20a91dafe",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "方程豹钛7天神之眼B智驾体验报告",
-      "url": "https://club.autohome.com.cn/bbs/thread/01e0124424eac69b/116181080-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-09-26T18:58:42.674462Z",
-      "last_seen_at": "2026-09-27T15:44:52.554478Z",
-      "title_original": "方程豹钛7天神之眼B智驾体验报告",
-      "title_en": null,
-      "title_zh": "方程豹钛7天神之眼B智驾体验报告",
-      "title_bilingual": "方程豹钛7天神之眼B智驾体验报告",
-      "topic_tags": [
-        "智能驾驶",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "22f8d2c660275e4dc4c073ddb7213f7bc0563fef",
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "sspai",
-      "title": "社区速递 159 | 便携卡片充电器与库克十五年改变生活的产品",
-      "url": "https://sspai.com/post/114904",
-      "published_at": "2026-09-26T18:39:46.763000Z",
-      "first_seen_at": "2026-09-26T18:58:42.674462Z",
-      "last_seen_at": "2026-09-27T15:44:52.554478Z",
-      "title_original": "社区速递 159 | 便携卡片充电器与库克十五年改变生活的产品",
-      "title_en": null,
-      "title_zh": "社区速递 159 | 便携卡片充电器与库克十五年改变生活的产品",
-      "title_bilingual": "社区速递 159 | 便携卡片充电器与库克十五年改变生活的产品",
-      "topic_tags": [
-        "补能电池"
-      ]
-    },
-    {
-      "id": "d9ea049ca263bafc971426aebca6998d55ba3260",
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "juejin",
-      "title": "别再只卷向量检索了，得物交易搜索如何用“生成式”实现召回范式跃迁？",
-      "url": "https://juejin.cn/post/7688611918492614698",
-      "published_at": "2026-09-26T15:45:02.639000Z",
-      "first_seen_at": "2026-09-26T15:44:50.857058Z",
-      "last_seen_at": "2026-09-27T15:44:52.554478Z",
-      "title_original": "别再只卷向量检索了，得物交易搜索如何用“生成式”实现召回范式跃迁？",
-      "title_en": null,
-      "title_zh": "别再只卷向量检索了，得物交易搜索如何用“生成式”实现召回范式跃迁？",
-      "title_bilingual": "别再只卷向量检索了，得物交易搜索如何用“生成式”实现召回范式跃迁？",
-      "topic_tags": [
-        "召回安全"
       ]
     }
   ],
   "items_ai": [
     {
+      "id": "6a6e46dc998d82e87b07381d79351c64a91f6aa1",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "购车遇交付延期 一波三折提埃安i60",
+      "url": "https://club.autohome.com.cn/bbs/thread/a1b7ab0cd42c952b/116154297-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-27T19:31:00.444306Z",
+      "last_seen_at": "2026-09-27T19:31:00.444306Z",
+      "title_original": "购车遇交付延期 一波三折提埃安i60",
+      "title_en": null,
+      "title_zh": "购车遇交付延期 一波三折提埃安i60",
+      "title_bilingual": "购车遇交付延期 一波三折提埃安i60",
+      "topic_tags": [
+        "销量市场",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "051e81a77a0e7e6aac71cf217b817f01dfc5b595",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "外观造型协调 iCAR V27提车作业分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/3ffa92e496161600/116117877-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-27T19:31:00.444306Z",
+      "last_seen_at": "2026-09-27T19:31:00.444306Z",
+      "title_original": "外观造型协调 iCAR V27提车作业分享",
+      "title_en": null,
+      "title_zh": "外观造型协调 iCAR V27提车作业分享",
+      "title_bilingual": "外观造型协调 iCAR V27提车作业分享",
+      "topic_tags": [
+        "购车决策"
+      ]
+    },
+    {
+      "id": "63c344967a1ce408467763d12a961cc660073044",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "坦克300L新能源城市智驾实测分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/0a292f39688cacf7/116084466-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-27T19:31:00.444306Z",
+      "last_seen_at": "2026-09-27T19:31:00.444306Z",
+      "title_original": "坦克300L新能源城市智驾实测分享",
+      "title_en": null,
+      "title_zh": "坦克300L新能源城市智驾实测分享",
+      "title_bilingual": "坦克300L新能源城市智驾实测分享",
+      "topic_tags": [
+        "新能源",
+        "智能驾驶"
+      ]
+    },
+    {
+      "id": "518dd108dd4ec075a7c19310d86320490338f2e1",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "省钱省心 零跑Lafa5提车作业分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/1cb1755c8d6b5718/116025015-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-27T19:31:00.444306Z",
+      "last_seen_at": "2026-09-27T19:31:00.444306Z",
+      "title_original": "省钱省心 零跑Lafa5提车作业分享",
+      "title_en": null,
+      "title_zh": "省钱省心 零跑Lafa5提车作业分享",
+      "title_bilingual": "省钱省心 零跑Lafa5提车作业分享",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "f76cd3543974d820629fda5c077ebb60d06d9b34",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "没有续航压力 唐新能源提车作业分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/206791641edea36e/116014056-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-27T19:31:00.444306Z",
+      "last_seen_at": "2026-09-27T19:31:00.444306Z",
+      "title_original": "没有续航压力 唐新能源提车作业分享",
+      "title_en": null,
+      "title_zh": "没有续航压力 唐新能源提车作业分享",
+      "title_bilingual": "没有续航压力 唐新能源提车作业分享",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "affd54e8e2df9ed4e4c5343adb9f1e979adba722",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "心心念念的车 长城H10提车作业分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/f5fbb129e8efe44e/116005549-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-27T19:31:00.444306Z",
+      "last_seen_at": "2026-09-27T19:31:00.444306Z",
+      "title_original": "心心念念的车 长城H10提车作业分享",
+      "title_en": null,
+      "title_zh": "心心念念的车 长城H10提车作业分享",
+      "title_bilingual": "心心念念的车 长城H10提车作业分享",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "c7cf1c0d30b74a9918e333f0b11dc802c6302340",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "智驾终于跟上时代 试驾全新奥迪Q5L",
+      "url": "https://club.autohome.com.cn/bbs/thread/60e20425a17c7b65/115971342-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-27T19:31:00.444306Z",
+      "last_seen_at": "2026-09-27T19:31:00.444306Z",
+      "title_original": "智驾终于跟上时代 试驾全新奥迪Q5L",
+      "title_en": null,
+      "title_zh": "智驾终于跟上时代 试驾全新奥迪Q5L",
+      "title_bilingual": "智驾终于跟上时代 试驾全新奥迪Q5L",
+      "topic_tags": [
+        "智能驾驶",
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "7cee563aea6eb7ce4cf475f95f8c9358057c92ed",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "没有续航焦虑 银河星舰7用车分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/826fce0937e5d812/115883916-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-27T19:31:00.444306Z",
+      "last_seen_at": "2026-09-27T19:31:00.444306Z",
+      "title_original": "没有续航焦虑 银河星舰7用车分享",
+      "title_en": null,
+      "title_zh": "没有续航焦虑 银河星舰7用车分享",
+      "title_bilingual": "没有续航焦虑 银河星舰7用车分享",
+      "topic_tags": [
+        "补能电池",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "94b2564127b207fa4d38f2572996529912117e3d",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "AI试车，长城猛龙PLUS 力魂版，Hi4插混+后锁+AT胎，配置更硬核",
+      "url": "http://vc.yiche.com/vplay/13397337.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-27T19:31:00.444306Z",
+      "last_seen_at": "2026-09-27T19:31:00.444306Z",
+      "title_original": "AI试车，长城猛龙PLUS 力魂版，Hi4插混+后锁+AT胎，配置更硬核",
+      "title_en": null,
+      "title_zh": "AI试车，长城猛龙PLUS 力魂版，Hi4插混+后锁+AT胎，配置更硬核",
+      "title_bilingual": "AI试车，长城猛龙PLUS 力魂版，Hi4插混+后锁+AT胎，配置更硬核",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "6baf29d7d537af9a871c211905f9093202c140a1",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "长城H10上市！1.5T插混+4.9秒破百+激光雷达，20.18万起！",
+      "url": "http://vc.yiche.com/vplay/13374545.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-27T19:31:00.444306Z",
+      "last_seen_at": "2026-09-27T19:31:00.444306Z",
+      "title_original": "长城H10上市！1.5T插混+4.9秒破百+激光雷达，20.18万起！",
+      "title_en": null,
+      "title_zh": "长城H10上市！1.5T插混+4.9秒破百+激光雷达，20.18万起！",
+      "title_bilingual": "长城H10上市！1.5T插混+4.9秒破百+激光雷达，20.18万起！",
+      "topic_tags": [
+        "新能源",
+        "智能驾驶",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "f2269485440d98da7fbf69b73c4153d3cd12eab1",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "长城大狗混动版 真省够爽更智 锁定9月28上市直播间",
+      "url": "http://vc.yiche.com/vplay/13390029.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-27T19:31:00.444306Z",
+      "last_seen_at": "2026-09-27T19:31:00.444306Z",
+      "title_original": "长城大狗混动版 真省够爽更智 锁定9月28上市直播间",
+      "title_en": null,
+      "title_zh": "长城大狗混动版 真省够爽更智 锁定9月28上市直播间",
+      "title_bilingual": "长城大狗混动版 真省够爽更智 锁定9月28上市直播间",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "a4b5b3c5eece8fafae0f61717db68ac18a6598e9",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "比亚迪全新方盒子SUV即将到来！和豹5大小相当，钛6会卖多少钱？",
+      "url": "http://vc.yiche.com/vplay/13411561.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-27T19:31:00.444306Z",
+      "last_seen_at": "2026-09-27T19:31:00.444306Z",
+      "title_original": "比亚迪全新方盒子SUV即将到来！和豹5大小相当，钛6会卖多少钱？",
+      "title_en": null,
+      "title_zh": "比亚迪全新方盒子SUV即将到来！和豹5大小相当，钛6会卖多少钱？",
+      "title_bilingual": "比亚迪全新方盒子SUV即将到来！和豹5大小相当，钛6会卖多少钱？",
+      "topic_tags": [
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
       "id": "b14a08ae333bac713dcea03768fb9a3a38f39943",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -245,7 +654,7 @@
       "url": "https://cnevpost.com/2026/09/27/eu-presses-uk-raise-tariffs-chinese-evs",
       "published_at": "2026-09-27T13:54:54Z",
       "first_seen_at": "2026-09-27T15:44:52.554478Z",
-      "last_seen_at": "2026-09-27T15:44:52.554478Z",
+      "last_seen_at": "2026-09-27T19:31:00.444306Z",
       "title_original": "EU presses UK to raise tariffs on Chinese EVs, report says",
       "title_en": "EU presses UK to raise tariffs on Chinese EVs, report says",
       "title_zh": "报告称欧盟敦促英国提高对中国电动汽车的关税",
@@ -263,7 +672,7 @@
       "url": "https://news.ycombinator.com/item?id=49866515",
       "published_at": "2026-09-27T13:30:11Z",
       "first_seen_at": "2026-09-27T15:44:52.554478Z",
-      "last_seen_at": "2026-09-27T15:44:52.554478Z",
+      "last_seen_at": "2026-09-27T19:31:00.444306Z",
       "title_original": "Replacing the old battery on rechargeable bike lights",
       "title_en": "Replacing the old battery on rechargeable bike lights",
       "title_zh": "更换充电自行车灯上的旧电池",
@@ -281,7 +690,7 @@
       "url": "https://carnewschina.com/2026/09/27/mazda-cx-6e-refreshed-with-lidar-self-driving-launches-at-21700-usd-in-china",
       "published_at": "2026-09-27T07:21:42Z",
       "first_seen_at": "2026-09-27T11:22:45.636655Z",
-      "last_seen_at": "2026-09-27T15:44:52.554478Z",
+      "last_seen_at": "2026-09-27T19:31:00.444306Z",
       "title_original": "Mazda CX-6e refreshed with LiDAR “self driving”, launches at 21,700 USD in China",
       "title_en": "Mazda CX-6e refreshed with LiDAR “self driving”, launches at 21,700 USD in China",
       "title_zh": "马自达CX-6e配备LiDAR“自动驾驶”更新，在中国上市售价21,700美元",
@@ -302,7 +711,7 @@
       "url": "https://carnewschina.com/2026/09/27/second-gen-byd-seagull-switches-to-rear-wheel-drive-adds-front-trunk-in-major-overhaul",
       "published_at": "2026-09-27T01:04:06Z",
       "first_seen_at": "2026-09-27T05:32:59.565322Z",
-      "last_seen_at": "2026-09-27T15:44:52.554478Z",
+      "last_seen_at": "2026-09-27T19:31:00.444306Z",
       "title_original": "Second-gen BYD Seagull switches to rear-wheel drive, adds front trunk in major overhaul",
       "title_en": "Second-gen BYD Seagull switches to rear-wheel drive, adds front trunk in major overhaul",
       "title_zh": "二代比亚迪海鸥大修改后驱、增加前行李箱",
@@ -349,61 +758,6 @@
       "topic_tags": [
         "补能电池",
         "车企竞争"
-      ]
-    },
-    {
-      "id": "6c72aacb0174264e1df19663a07526a20a91dafe",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "方程豹钛7天神之眼B智驾体验报告",
-      "url": "https://club.autohome.com.cn/bbs/thread/01e0124424eac69b/116181080-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-09-26T18:58:42.674462Z",
-      "last_seen_at": "2026-09-27T15:44:52.554478Z",
-      "title_original": "方程豹钛7天神之眼B智驾体验报告",
-      "title_en": null,
-      "title_zh": "方程豹钛7天神之眼B智驾体验报告",
-      "title_bilingual": "方程豹钛7天神之眼B智驾体验报告",
-      "topic_tags": [
-        "智能驾驶",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "22f8d2c660275e4dc4c073ddb7213f7bc0563fef",
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "sspai",
-      "title": "社区速递 159 | 便携卡片充电器与库克十五年改变生活的产品",
-      "url": "https://sspai.com/post/114904",
-      "published_at": "2026-09-26T18:39:46.763000Z",
-      "first_seen_at": "2026-09-26T18:58:42.674462Z",
-      "last_seen_at": "2026-09-27T15:44:52.554478Z",
-      "title_original": "社区速递 159 | 便携卡片充电器与库克十五年改变生活的产品",
-      "title_en": null,
-      "title_zh": "社区速递 159 | 便携卡片充电器与库克十五年改变生活的产品",
-      "title_bilingual": "社区速递 159 | 便携卡片充电器与库克十五年改变生活的产品",
-      "topic_tags": [
-        "补能电池"
-      ]
-    },
-    {
-      "id": "d9ea049ca263bafc971426aebca6998d55ba3260",
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "juejin",
-      "title": "别再只卷向量检索了，得物交易搜索如何用“生成式”实现召回范式跃迁？",
-      "url": "https://juejin.cn/post/7688611918492614698",
-      "published_at": "2026-09-26T15:45:02.639000Z",
-      "first_seen_at": "2026-09-26T15:44:50.857058Z",
-      "last_seen_at": "2026-09-27T15:44:52.554478Z",
-      "title_original": "别再只卷向量检索了，得物交易搜索如何用“生成式”实现召回范式跃迁？",
-      "title_en": null,
-      "title_zh": "别再只卷向量检索了，得物交易搜索如何用“生成式”实现召回范式跃迁？",
-      "title_bilingual": "别再只卷向量检索了，得物交易搜索如何用“生成式”实现召回范式跃迁？",
-      "topic_tags": [
-        "召回安全"
       ]
     }
   ],
