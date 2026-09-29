@@ -1,66 +1,62 @@
 {
-  "generated_at": "2026-09-29T14:13:05.037702Z",
+  "generated_at": "2026-09-29T19:33:06.392100Z",
   "window_hours": 24,
-  "total_items": 31,
-  "total_items_ai_raw": 34,
-  "total_items_raw": 2844,
-  "total_items_all_mode": 2585,
+  "total_items": 26,
+  "total_items_ai_raw": 27,
+  "total_items_raw": 2550,
+  "total_items_all_mode": 2324,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 58000,
+  "archive_total": 58199,
   "site_count": 3,
-  "source_count": 11,
+  "source_count": 7,
   "site_stats": [
-    {
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "count": 23,
-      "raw_count": 26
-    },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
-      "count": 8,
-      "raw_count": 2675
+      "count": 14,
+      "raw_count": 2443
+    },
+    {
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "count": 12,
+      "raw_count": 13
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "count": 0,
-      "raw_count": 143
+      "raw_count": 94
     }
   ],
   "topic_tag_stats": [
     {
       "tag": "新能源",
-      "count": 16
+      "count": 14
     },
     {
       "tag": "车企竞争",
-      "count": 8
-    },
-    {
-      "tag": "新车上市",
-      "count": 7
-    },
-    {
-      "tag": "补能电池",
-      "count": 4
+      "count": 10
     },
     {
       "tag": "购车决策",
-      "count": 4
+      "count": 9
     },
     {
-      "tag": "供应链",
+      "tag": "新车上市",
+      "count": 5
+    },
+    {
+      "tag": "补能电池",
       "count": 3
     },
     {
-      "tag": "销量市场",
+      "tag": "价格战",
       "count": 2
     },
     {
-      "tag": "价格战",
-      "count": 1
+      "tag": "供应链",
+      "count": 2
     },
     {
       "tag": "智能驾驶",
@@ -69,6 +65,121 @@
   ],
   "items": [
     {
+      "id": "e9c129070d32ac2faca4ce8a8558f3fd80572eb1",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "外观很好看 小鹏MONA L03提车分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/1aad33b2984ab58a/116166339-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-29T19:33:06.392100Z",
+      "last_seen_at": "2026-09-29T19:33:06.392100Z",
+      "title_original": "外观很好看 小鹏MONA L03提车分享",
+      "title_en": null,
+      "title_zh": "外观很好看 小鹏MONA L03提车分享",
+      "title_bilingual": "外观很好看 小鹏MONA L03提车分享",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "96eb24383d057f1a3d163bd43b4ef70dbe9a868e",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "外观沉稳大气 问界M8提车作业分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/f2087e00d1fb563b/116168402-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-29T19:33:06.392100Z",
+      "last_seen_at": "2026-09-29T19:33:06.392100Z",
+      "title_original": "外观沉稳大气 问界M8提车作业分享",
+      "title_en": null,
+      "title_zh": "外观沉稳大气 问界M8提车作业分享",
+      "title_bilingual": "外观沉稳大气 问界M8提车作业分享",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "b8c7dfe33eca3534fa4c4cb832f8faca2e70e199",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "性价比很高 零跑C10提车作业分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/32ec381a8f498135/116164208-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-29T19:33:06.392100Z",
+      "last_seen_at": "2026-09-29T19:33:06.392100Z",
+      "title_original": "性价比很高 零跑C10提车作业分享",
+      "title_en": null,
+      "title_zh": "性价比很高 零跑C10提车作业分享",
+      "title_bilingual": "性价比很高 零跑C10提车作业分享",
+      "topic_tags": [
+        "价格战",
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "9c3242bdbce6bc53c392e9bc7a892ef81e90e93f",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "预算13万起，大五座、激光雷达全给到，荣威家越07开窍了？",
+      "url": "http://vc.yiche.com/vplay/13413717.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-29T19:33:06.392100Z",
+      "last_seen_at": "2026-09-29T19:33:06.392100Z",
+      "title_original": "预算13万起，大五座、激光雷达全给到，荣威家越07开窍了？",
+      "title_en": null,
+      "title_zh": "预算13万起，大五座、激光雷达全给到，荣威家越07开窍了？",
+      "title_bilingual": "预算13万起，大五座、激光雷达全给到，荣威家越07开窍了？",
+      "topic_tags": [
+        "智能驾驶",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "752dc183064dc3e07ff3037ae013e4a0089b3217",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "动力强 且省油 还有四驱  试驾长城大狗HEV混动版",
+      "url": "http://vc.yiche.com/vplay/13414326.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-29T19:33:06.392100Z",
+      "last_seen_at": "2026-09-29T19:33:06.392100Z",
+      "title_original": "动力强 且省油 还有四驱  试驾长城大狗HEV混动版",
+      "title_en": null,
+      "title_zh": "动力强 且省油 还有四驱  试驾长城大狗HEV混动版",
+      "title_bilingual": "动力强 且省油 还有四驱  试驾长城大狗HEV混动版",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "0aab5eb5fe4727cfaf568bc9b50440128afbff59",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "捷达M6把国标翻了8倍，传统大厂做电车到底在卷什么？",
+      "url": "http://vc.yiche.com/vplay/13412842.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-29T19:33:06.392100Z",
+      "last_seen_at": "2026-09-29T19:33:06.392100Z",
+      "title_original": "捷达M6把国标翻了8倍，传统大厂做电车到底在卷什么？",
+      "title_en": null,
+      "title_zh": "捷达M6把国标翻了8倍，传统大厂做电车到底在卷什么？",
+      "title_bilingual": "捷达M6把国标翻了8倍，传统大厂做电车到底在卷什么？",
+      "topic_tags": [
+        "新能源"
+      ]
+    },
+    {
       "id": "c1a20160addac35f23ee75e24112abd463178587",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -77,7 +188,7 @@
       "url": "https://cnevpost.com/2026/09/29/hyundai-launches-china-tailored-ioniq-v",
       "published_at": "2026-09-29T10:52:33Z",
       "first_seen_at": "2026-09-29T14:13:05.037702Z",
-      "last_seen_at": "2026-09-29T14:13:05.037702Z",
+      "last_seen_at": "2026-09-29T19:33:06.392100Z",
       "title_original": "Hyundai launches China-tailored Ioniq V electric sedan from under $15,000",
       "title_en": "Hyundai launches China-tailored Ioniq V electric sedan from under $15,000",
       "title_zh": null,
@@ -96,7 +207,7 @@
       "url": "https://carnewschina.com/2026/09/29/hyundai-ioniq-v-launched-at-16380-usd-in-china-ahead-of-global-rollout",
       "published_at": "2026-09-29T10:24:53Z",
       "first_seen_at": "2026-09-29T14:13:05.037702Z",
-      "last_seen_at": "2026-09-29T14:13:05.037702Z",
+      "last_seen_at": "2026-09-29T19:33:06.392100Z",
       "title_original": "Hyundai Ioniq V launched at 16,380 USD in China ahead of global rollout",
       "title_en": "Hyundai Ioniq V launched at 16,380 USD in China ahead of global rollout",
       "title_zh": null,
@@ -114,7 +225,7 @@
       "url": "https://carnewschina.com/2026/09/29/geely-has-deployed-2250-kwh-charging-stations-in-five-cities-across-china",
       "published_at": "2026-09-29T09:11:52Z",
       "first_seen_at": "2026-09-29T14:13:05.037702Z",
-      "last_seen_at": "2026-09-29T14:13:05.037702Z",
+      "last_seen_at": "2026-09-29T19:33:06.392100Z",
       "title_original": "Geely has deployed 2,250 kWh charging stations in five cities across China",
       "title_en": "Geely has deployed 2,250 kWh charging stations in five cities across China",
       "title_zh": null,
@@ -134,7 +245,7 @@
       "url": "https://carnewschina.com/2026/09/29/changan-auto-consolidates-avatr-and-deepal-to-streamline-operations-report-says",
       "published_at": "2026-09-29T08:41:42Z",
       "first_seen_at": "2026-09-29T14:13:05.037702Z",
-      "last_seen_at": "2026-09-29T14:13:05.037702Z",
+      "last_seen_at": "2026-09-29T19:33:06.392100Z",
       "title_original": "Changan Auto consolidates Avatr and Deepal to streamline operations, report says",
       "title_en": "Changan Auto consolidates Avatr and Deepal to streamline operations, report says",
       "title_zh": null,
@@ -152,7 +263,7 @@
       "url": "https://carnewschina.com/2026/09/29/the-10-millionth-byd-dynasty-car-rolled-off-the-production-line-in-china",
       "published_at": "2026-09-29T07:57:32Z",
       "first_seen_at": "2026-09-29T14:13:05.037702Z",
-      "last_seen_at": "2026-09-29T14:13:05.037702Z",
+      "last_seen_at": "2026-09-29T19:33:06.392100Z",
       "title_original": "The 10 millionth BYD Dynasty car rolled off the production line in China",
       "title_en": "The 10 millionth BYD Dynasty car rolled off the production line in China",
       "title_zh": null,
@@ -171,7 +282,7 @@
       "url": "https://www.dongchedi.com/article/7690472297077735961",
       "published_at": null,
       "first_seen_at": "2026-09-29T07:21:26.044505Z",
-      "last_seen_at": "2026-09-29T14:13:05.037702Z",
+      "last_seen_at": "2026-09-29T19:33:06.392100Z",
       "title_original": "车企造电池的坑，通用先看明白了",
       "title_en": null,
       "title_zh": "车企造电池的坑，通用先看明白了",
@@ -190,7 +301,7 @@
       "url": "https://cnevpost.com/2026/09/29/byd-da-han-marks-dynasty-10-millionth-vehicle",
       "published_at": "2026-09-29T07:10:07Z",
       "first_seen_at": "2026-09-29T07:21:26.044505Z",
-      "last_seen_at": "2026-09-29T14:13:05.037702Z",
+      "last_seen_at": "2026-09-29T19:33:06.392100Z",
       "title_original": "BYD Da Han marks Dynasty lineup's 10 millionth vehicle ahead of October 13 launch",
       "title_en": "BYD Da Han marks Dynasty lineup's 10 millionth vehicle ahead of October 13 launch",
       "title_zh": null,
@@ -209,7 +320,7 @@
       "url": "https://carnewschina.com/2026/09/29/gac-to-replace-faw-in-the-faw-toyota-joint-venture-to-streamline-operations",
       "published_at": "2026-09-29T06:50:23Z",
       "first_seen_at": "2026-09-29T07:21:26.044505Z",
-      "last_seen_at": "2026-09-29T14:13:05.037702Z",
+      "last_seen_at": "2026-09-29T19:33:06.392100Z",
       "title_original": "GAC to replace FAW in the FAW Toyota joint venture to streamline operations",
       "title_en": "GAC to replace FAW in the FAW Toyota joint venture to streamline operations",
       "title_zh": null,
@@ -227,7 +338,7 @@
       "url": "https://carnewschina.com/2026/09/29/new-lynk-co-02-got-14663-orders-in-one-hour-after-the-launch-in-china",
       "published_at": "2026-09-29T04:05:22Z",
       "first_seen_at": "2026-09-29T07:21:26.044505Z",
-      "last_seen_at": "2026-09-29T14:13:05.037702Z",
+      "last_seen_at": "2026-09-29T19:33:06.392100Z",
       "title_original": "New Lynk & Co 02 got 14,663 orders in one hour after the launch in China",
       "title_en": "New Lynk & Co 02 got 14,663 orders in one hour after the launch in China",
       "title_zh": null,
@@ -245,7 +356,7 @@
       "url": "https://cnevpost.com/2026/09/29/lynk-co-launches-20-compact-electric-suv",
       "published_at": "2026-09-29T03:44:45Z",
       "first_seen_at": "2026-09-29T07:21:26.044505Z",
-      "last_seen_at": "2026-09-29T14:13:05.037702Z",
+      "last_seen_at": "2026-09-29T19:33:06.392100Z",
       "title_original": "Lynk & Co launches 20 compact electric SUV, reports over 14,663 firm orders in 1 hour",
       "title_en": "Lynk & Co launches 20 compact electric SUV, reports over 14,663 firm orders in 1 hour",
       "title_zh": null,
@@ -264,7 +375,7 @@
       "url": "https://cnevpost.com/2026/09/29/aito-to-open-pre-sales-updated-m8-sept-30",
       "published_at": "2026-09-29T01:49:00Z",
       "first_seen_at": "2026-09-29T07:21:26.044505Z",
-      "last_seen_at": "2026-09-29T14:13:05.037702Z",
+      "last_seen_at": "2026-09-29T19:33:06.392100Z",
       "title_original": "Aito to open pre-sales of updated M8 SUV on September 30 with L3-ready architecture",
       "title_en": "Aito to open pre-sales of updated M8 SUV on September 30 with L3-ready architecture",
       "title_zh": null,
@@ -283,7 +394,7 @@
       "url": "https://auto.gasgoo.com/news/202609/28I70473528C501.shtml",
       "published_at": "2026-09-28T22:10:16Z",
       "first_seen_at": "2026-09-29T14:13:05.037702Z",
-      "last_seen_at": "2026-09-29T14:13:05.037702Z",
+      "last_seen_at": "2026-09-29T19:33:06.392100Z",
       "title_original": "领克20上市：用入门即高配，赌一次纯电翻身仗",
       "title_en": null,
       "title_zh": "领克20上市：用入门即高配，赌一次纯电翻身仗",
@@ -302,7 +413,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/8a5cf2154e6f0f8b/116132064-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-28T21:34:26.376070Z",
-      "last_seen_at": "2026-09-29T14:13:05.037702Z",
+      "last_seen_at": "2026-09-29T19:33:06.392100Z",
       "title_original": "越野能力更强 长城H9力魂版到店看车",
       "title_en": null,
       "title_zh": "越野能力更强 长城H9力魂版到店看车",
@@ -320,7 +431,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/497baedea341938f/116164035-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-28T21:34:26.376070Z",
-      "last_seen_at": "2026-09-29T14:13:05.037702Z",
+      "last_seen_at": "2026-09-29T19:33:06.392100Z",
       "title_original": "家用很香 零跑C10提车作业分享",
       "title_en": null,
       "title_zh": "家用很香 零跑C10提车作业分享",
@@ -339,7 +450,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/e55d56e771ca5ad5/116163585-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-28T21:34:26.376070Z",
-      "last_seen_at": "2026-09-29T14:13:05.037702Z",
+      "last_seen_at": "2026-09-29T19:33:06.392100Z",
       "title_original": "越看越喜欢 QQ3 EV提车作业分享",
       "title_en": null,
       "title_zh": "越看越喜欢 QQ3 EV提车作业分享",
@@ -433,214 +544,131 @@
       "url": "https://auto.gasgoo.com/news/202609/28I70473526C1101.shtml",
       "published_at": "2026-09-28T21:00:27Z",
       "first_seen_at": "2026-09-29T14:13:05.037702Z",
-      "last_seen_at": "2026-09-29T14:13:05.037702Z",
+      "last_seen_at": "2026-09-29T19:33:06.392100Z",
       "title_original": "华诚认证CCC业务被停业整顿，涉擅自增设认证标准",
       "title_en": null,
       "title_zh": "华诚认证CCC业务被停业整顿，涉擅自增设认证标准",
       "title_bilingual": "华诚认证CCC业务被停业整顿，涉擅自增设认证标准",
       "topic_tags": []
-    },
-    {
-      "id": "493d48aa1d6409a2045c50b222e3b9ba9bd03229",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新能源",
-      "title": "分析师：尽管峰会未达成协议，中国电动汽车或仍将进入美国市场",
-      "url": "https://auto.gasgoo.com/news/202609/28I70473521C501.shtml",
-      "published_at": "2026-09-28T18:37:57Z",
-      "first_seen_at": "2026-09-29T14:13:05.037702Z",
-      "last_seen_at": "2026-09-29T14:13:05.037702Z",
-      "title_original": "分析师：尽管峰会未达成协议，中国电动汽车或仍将进入美国市场",
-      "title_en": null,
-      "title_zh": "分析师：尽管峰会未达成协议，中国电动汽车或仍将进入美国市场",
-      "title_bilingual": "分析师：尽管峰会未达成协议，中国电动汽车或仍将进入美国市场",
-      "topic_tags": [
-        "新能源",
-        "销量市场"
-      ]
-    },
-    {
-      "id": "fbc9a919ed837948d24582de922109ec2f4bfe52",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "传奔驰计划削减9.11亿美元人力成本",
-      "url": "https://auto.gasgoo.com/news/202609/28I70473520C109.shtml",
-      "published_at": "2026-09-28T18:25:01Z",
-      "first_seen_at": "2026-09-29T14:13:05.037702Z",
-      "last_seen_at": "2026-09-29T14:13:05.037702Z",
-      "title_original": "传奔驰计划削减9.11亿美元人力成本",
-      "title_en": null,
-      "title_zh": "传奔驰计划削减9.11亿美元人力成本",
-      "title_bilingual": "传奔驰计划削减9.11亿美元人力成本",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "49772e1af753f60cbe1b695a317bf07bc94fe340",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新车",
-      "title": "捷达M6正式开启预售",
-      "url": "https://auto.gasgoo.com/news/202609/28I70473518C107.shtml",
-      "published_at": "2026-09-28T18:11:38Z",
-      "first_seen_at": "2026-09-29T14:13:05.037702Z",
-      "last_seen_at": "2026-09-29T14:13:05.037702Z",
-      "title_original": "捷达M6正式开启预售",
-      "title_en": null,
-      "title_zh": "捷达M6正式开启预售",
-      "title_bilingual": "捷达M6正式开启预售",
-      "topic_tags": [
-        "新车上市"
-      ]
-    },
-    {
-      "id": "6b5a3f5f4116e1e5796502a46d10021b45a245dc",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-智能网联",
-      "title": "西井科技20台无人IGV投运南沙二期，2027年将扩至60台",
-      "url": "https://auto.gasgoo.com/news/202609/28I70473513C601.shtml",
-      "published_at": "2026-09-28T17:51:48Z",
-      "first_seen_at": "2026-09-29T14:13:05.037702Z",
-      "last_seen_at": "2026-09-29T14:13:05.037702Z",
-      "title_original": "西井科技20台无人IGV投运南沙二期，2027年将扩至60台",
-      "title_en": null,
-      "title_zh": "西井科技20台无人IGV投运南沙二期，2027年将扩至60台",
-      "title_bilingual": "西井科技20台无人IGV投运南沙二期，2027年将扩至60台",
-      "topic_tags": []
-    },
-    {
-      "id": "5858855f4f9938968cdd03ee4cb5f528c977fe93",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-供应链",
-      "title": "持续加码中国，奥托立夫底气何在？",
-      "url": "https://auto.gasgoo.com/news/202609/28I70473463C103.shtml",
-      "published_at": "2026-09-28T17:14:57Z",
-      "first_seen_at": "2026-09-29T14:13:05.037702Z",
-      "last_seen_at": "2026-09-29T14:13:05.037702Z",
-      "title_original": "持续加码中国，奥托立夫底气何在？",
-      "title_en": null,
-      "title_zh": "持续加码中国，奥托立夫底气何在？",
-      "title_bilingual": "持续加码中国，奥托立夫底气何在？",
-      "topic_tags": [
-        "供应链"
-      ]
-    },
-    {
-      "id": "4eb9559fc32961fc715ac4382ce4cbecacebb8f2",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新能源",
-      "title": "七部门印发“十五五”新型电池产业发展规划，2030年实现全固态电池初步规模化应用",
-      "url": "https://auto.gasgoo.com/news/202609/28I70473490C501.shtml",
-      "published_at": "2026-09-28T16:22:55Z",
-      "first_seen_at": "2026-09-29T14:13:05.037702Z",
-      "last_seen_at": "2026-09-29T14:13:05.037702Z",
-      "title_original": "七部门印发“十五五”新型电池产业发展规划，2030年实现全固态电池初步规模化应用",
-      "title_en": null,
-      "title_zh": "七部门印发“十五五”新型电池产业发展规划，2030年实现全固态电池初步规模化应用",
-      "title_bilingual": "七部门印发“十五五”新型电池产业发展规划，2030年实现全固态电池初步规模化应用",
-      "topic_tags": [
-        "新能源",
-        "补能电池"
-      ]
-    },
-    {
-      "id": "db8c8173ecc2a97db70c13d89164d0bf0f2e62fb",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "摩根士丹利：若美国实施柴油出口禁令，汽油价格或将上涨",
-      "url": "https://auto.gasgoo.com/news/202609/28I70473489C108.shtml",
-      "published_at": "2026-09-28T16:05:20Z",
-      "first_seen_at": "2026-09-29T14:13:05.037702Z",
-      "last_seen_at": "2026-09-29T14:13:05.037702Z",
-      "title_original": "摩根士丹利：若美国实施柴油出口禁令，汽油价格或将上涨",
-      "title_en": null,
-      "title_zh": "摩根士丹利：若美国实施柴油出口禁令，汽油价格或将上涨",
-      "title_bilingual": "摩根士丹利：若美国实施柴油出口禁令，汽油价格或将上涨",
-      "topic_tags": [
-        "销量市场"
-      ]
-    },
-    {
-      "id": "76e433289e19743cfebadf1f629e705ffa931c39",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "曝欧盟敦促英国提高对华汽车关税",
-      "url": "https://auto.gasgoo.com/news/202609/28I70473482C108.shtml",
-      "published_at": "2026-09-28T15:58:49Z",
-      "first_seen_at": "2026-09-29T14:13:05.037702Z",
-      "last_seen_at": "2026-09-29T14:13:05.037702Z",
-      "title_original": "曝欧盟敦促英国提高对华汽车关税",
-      "title_en": null,
-      "title_zh": "曝欧盟敦促英国提高对华汽车关税",
-      "title_bilingual": "曝欧盟敦促英国提高对华汽车关税",
-      "topic_tags": []
-    },
-    {
-      "id": "5e407eca0453a2fed17aed1c9c46862847cde005",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "VW ID. ERA 8X EREV SUV opens for pre-sales in China, launch set for October 12",
-      "url": "https://cnevpost.com/2026/09/28/vw-id-era-8x-erev-suv-opens-pre-sales-china",
-      "published_at": "2026-09-28T14:50:33Z",
-      "first_seen_at": "2026-09-28T15:44:52.708118Z",
-      "last_seen_at": "2026-09-29T14:13:05.037702Z",
-      "title_original": "VW ID. ERA 8X EREV SUV opens for pre-sales in China, launch set for October 12",
-      "title_en": "VW ID. ERA 8X EREV SUV opens for pre-sales in China, launch set for October 12",
-      "title_zh": "大众汽车 ID。 ERA 8X EREV SUV在中国开启预售，预计10月12日上市",
-      "title_bilingual": "大众汽车 ID。 ERA 8X EREV SUV在中国开启预售，预计10月12日上市 / VW ID. ERA 8X EREV SUV opens for pre-sales in China, launch set for October 12",
-      "topic_tags": [
-        "新能源",
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "358cc83d7e8ad50ebc545677a718eaad9d7f2eda",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-智能网联",
-      "title": "保隆科技第二代11V ADAS视觉感知方案规模化量产",
-      "url": "https://auto.gasgoo.com/news/202609/28I70473462C601.shtml",
-      "published_at": "2026-09-28T14:26:25Z",
-      "first_seen_at": "2026-09-29T07:21:26.044505Z",
-      "last_seen_at": "2026-09-29T14:13:05.037702Z",
-      "title_original": "保隆科技第二代11V ADAS视觉感知方案规模化量产",
-      "title_en": null,
-      "title_zh": "保隆科技第二代11V ADAS视觉感知方案规模化量产",
-      "title_bilingual": "保隆科技第二代11V ADAS视觉感知方案规模化量产",
-      "topic_tags": [
-        "智能驾驶"
-      ]
-    },
-    {
-      "id": "7e91fc64942b4200940313f3b00e45b7cac4b1a0",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "GAC plans to buy 50% of FAW Toyota to coordinate operations at Toyota's 2 China joint ventures",
-      "url": "https://cnevpost.com/2026/09/28/gac-to-buy-50-faw-toyota-coordinate-toyota-china-jvs",
-      "published_at": "2026-09-28T14:14:18Z",
-      "first_seen_at": "2026-09-28T15:44:52.708118Z",
-      "last_seen_at": "2026-09-29T14:13:05.037702Z",
-      "title_original": "GAC plans to buy 50% of FAW Toyota to coordinate operations at Toyota's 2 China joint ventures",
-      "title_en": "GAC plans to buy 50% of FAW Toyota to coordinate operations at Toyota's 2 China joint ventures",
-      "title_zh": "广汽拟收购一汽丰田50%股权，协调丰田在华两家合资企业运营",
-      "title_bilingual": "广汽拟收购一汽丰田50%股权，协调丰田在华两家合资企业运营 / GAC plans to buy 50% of FAW Toyota to coordinate operations at Toyota's 2 China joint ventures",
-      "topic_tags": [
-        "新能源"
-      ]
     }
   ],
   "items_ai": [
     {
+      "id": "e9c129070d32ac2faca4ce8a8558f3fd80572eb1",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "外观很好看 小鹏MONA L03提车分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/1aad33b2984ab58a/116166339-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-29T19:33:06.392100Z",
+      "last_seen_at": "2026-09-29T19:33:06.392100Z",
+      "title_original": "外观很好看 小鹏MONA L03提车分享",
+      "title_en": null,
+      "title_zh": "外观很好看 小鹏MONA L03提车分享",
+      "title_bilingual": "外观很好看 小鹏MONA L03提车分享",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "96eb24383d057f1a3d163bd43b4ef70dbe9a868e",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "外观沉稳大气 问界M8提车作业分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/f2087e00d1fb563b/116168402-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-29T19:33:06.392100Z",
+      "last_seen_at": "2026-09-29T19:33:06.392100Z",
+      "title_original": "外观沉稳大气 问界M8提车作业分享",
+      "title_en": null,
+      "title_zh": "外观沉稳大气 问界M8提车作业分享",
+      "title_bilingual": "外观沉稳大气 问界M8提车作业分享",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "b8c7dfe33eca3534fa4c4cb832f8faca2e70e199",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "性价比很高 零跑C10提车作业分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/32ec381a8f498135/116164208-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-29T19:33:06.392100Z",
+      "last_seen_at": "2026-09-29T19:33:06.392100Z",
+      "title_original": "性价比很高 零跑C10提车作业分享",
+      "title_en": null,
+      "title_zh": "性价比很高 零跑C10提车作业分享",
+      "title_bilingual": "性价比很高 零跑C10提车作业分享",
+      "topic_tags": [
+        "价格战",
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "9c3242bdbce6bc53c392e9bc7a892ef81e90e93f",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "预算13万起，大五座、激光雷达全给到，荣威家越07开窍了？",
+      "url": "http://vc.yiche.com/vplay/13413717.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-29T19:33:06.392100Z",
+      "last_seen_at": "2026-09-29T19:33:06.392100Z",
+      "title_original": "预算13万起，大五座、激光雷达全给到，荣威家越07开窍了？",
+      "title_en": null,
+      "title_zh": "预算13万起，大五座、激光雷达全给到，荣威家越07开窍了？",
+      "title_bilingual": "预算13万起，大五座、激光雷达全给到，荣威家越07开窍了？",
+      "topic_tags": [
+        "智能驾驶",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "752dc183064dc3e07ff3037ae013e4a0089b3217",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "动力强 且省油 还有四驱  试驾长城大狗HEV混动版",
+      "url": "http://vc.yiche.com/vplay/13414326.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-29T19:33:06.392100Z",
+      "last_seen_at": "2026-09-29T19:33:06.392100Z",
+      "title_original": "动力强 且省油 还有四驱  试驾长城大狗HEV混动版",
+      "title_en": null,
+      "title_zh": "动力强 且省油 还有四驱  试驾长城大狗HEV混动版",
+      "title_bilingual": "动力强 且省油 还有四驱  试驾长城大狗HEV混动版",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "0aab5eb5fe4727cfaf568bc9b50440128afbff59",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "捷达M6把国标翻了8倍，传统大厂做电车到底在卷什么？",
+      "url": "http://vc.yiche.com/vplay/13412842.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-29T19:33:06.392100Z",
+      "last_seen_at": "2026-09-29T19:33:06.392100Z",
+      "title_original": "捷达M6把国标翻了8倍，传统大厂做电车到底在卷什么？",
+      "title_en": null,
+      "title_zh": "捷达M6把国标翻了8倍，传统大厂做电车到底在卷什么？",
+      "title_bilingual": "捷达M6把国标翻了8倍，传统大厂做电车到底在卷什么？",
+      "topic_tags": [
+        "新能源"
+      ]
+    },
+    {
       "id": "c1a20160addac35f23ee75e24112abd463178587",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -649,7 +677,7 @@
       "url": "https://cnevpost.com/2026/09/29/hyundai-launches-china-tailored-ioniq-v",
       "published_at": "2026-09-29T10:52:33Z",
       "first_seen_at": "2026-09-29T14:13:05.037702Z",
-      "last_seen_at": "2026-09-29T14:13:05.037702Z",
+      "last_seen_at": "2026-09-29T19:33:06.392100Z",
       "title_original": "Hyundai launches China-tailored Ioniq V electric sedan from under $15,000",
       "title_en": "Hyundai launches China-tailored Ioniq V electric sedan from under $15,000",
       "title_zh": null,
@@ -668,7 +696,7 @@
       "url": "https://carnewschina.com/2026/09/29/hyundai-ioniq-v-launched-at-16380-usd-in-china-ahead-of-global-rollout",
       "published_at": "2026-09-29T10:24:53Z",
       "first_seen_at": "2026-09-29T14:13:05.037702Z",
-      "last_seen_at": "2026-09-29T14:13:05.037702Z",
+      "last_seen_at": "2026-09-29T19:33:06.392100Z",
       "title_original": "Hyundai Ioniq V launched at 16,380 USD in China ahead of global rollout",
       "title_en": "Hyundai Ioniq V launched at 16,380 USD in China ahead of global rollout",
       "title_zh": null,
@@ -686,7 +714,7 @@
       "url": "https://carnewschina.com/2026/09/29/geely-has-deployed-2250-kwh-charging-stations-in-five-cities-across-china",
       "published_at": "2026-09-29T09:11:52Z",
       "first_seen_at": "2026-09-29T14:13:05.037702Z",
-      "last_seen_at": "2026-09-29T14:13:05.037702Z",
+      "last_seen_at": "2026-09-29T19:33:06.392100Z",
       "title_original": "Geely has deployed 2,250 kWh charging stations in five cities across China",
       "title_en": "Geely has deployed 2,250 kWh charging stations in five cities across China",
       "title_zh": null,
@@ -706,7 +734,7 @@
       "url": "https://carnewschina.com/2026/09/29/changan-auto-consolidates-avatr-and-deepal-to-streamline-operations-report-says",
       "published_at": "2026-09-29T08:41:42Z",
       "first_seen_at": "2026-09-29T14:13:05.037702Z",
-      "last_seen_at": "2026-09-29T14:13:05.037702Z",
+      "last_seen_at": "2026-09-29T19:33:06.392100Z",
       "title_original": "Changan Auto consolidates Avatr and Deepal to streamline operations, report says",
       "title_en": "Changan Auto consolidates Avatr and Deepal to streamline operations, report says",
       "title_zh": null,
@@ -724,7 +752,7 @@
       "url": "https://carnewschina.com/2026/09/29/the-10-millionth-byd-dynasty-car-rolled-off-the-production-line-in-china",
       "published_at": "2026-09-29T07:57:32Z",
       "first_seen_at": "2026-09-29T14:13:05.037702Z",
-      "last_seen_at": "2026-09-29T14:13:05.037702Z",
+      "last_seen_at": "2026-09-29T19:33:06.392100Z",
       "title_original": "The 10 millionth BYD Dynasty car rolled off the production line in China",
       "title_en": "The 10 millionth BYD Dynasty car rolled off the production line in China",
       "title_zh": null,
@@ -743,7 +771,7 @@
       "url": "https://www.dongchedi.com/article/7690472297077735961",
       "published_at": null,
       "first_seen_at": "2026-09-29T07:21:26.044505Z",
-      "last_seen_at": "2026-09-29T14:13:05.037702Z",
+      "last_seen_at": "2026-09-29T19:33:06.392100Z",
       "title_original": "车企造电池的坑，通用先看明白了",
       "title_en": null,
       "title_zh": "车企造电池的坑，通用先看明白了",
@@ -762,7 +790,7 @@
       "url": "https://cnevpost.com/2026/09/29/byd-da-han-marks-dynasty-10-millionth-vehicle",
       "published_at": "2026-09-29T07:10:07Z",
       "first_seen_at": "2026-09-29T07:21:26.044505Z",
-      "last_seen_at": "2026-09-29T14:13:05.037702Z",
+      "last_seen_at": "2026-09-29T19:33:06.392100Z",
       "title_original": "BYD Da Han marks Dynasty lineup's 10 millionth vehicle ahead of October 13 launch",
       "title_en": "BYD Da Han marks Dynasty lineup's 10 millionth vehicle ahead of October 13 launch",
       "title_zh": null,
@@ -781,7 +809,7 @@
       "url": "https://carnewschina.com/2026/09/29/gac-to-replace-faw-in-the-faw-toyota-joint-venture-to-streamline-operations",
       "published_at": "2026-09-29T06:50:23Z",
       "first_seen_at": "2026-09-29T07:21:26.044505Z",
-      "last_seen_at": "2026-09-29T14:13:05.037702Z",
+      "last_seen_at": "2026-09-29T19:33:06.392100Z",
       "title_original": "GAC to replace FAW in the FAW Toyota joint venture to streamline operations",
       "title_en": "GAC to replace FAW in the FAW Toyota joint venture to streamline operations",
       "title_zh": null,
@@ -799,7 +827,7 @@
       "url": "https://carnewschina.com/2026/09/29/new-lynk-co-02-got-14663-orders-in-one-hour-after-the-launch-in-china",
       "published_at": "2026-09-29T04:05:22Z",
       "first_seen_at": "2026-09-29T07:21:26.044505Z",
-      "last_seen_at": "2026-09-29T14:13:05.037702Z",
+      "last_seen_at": "2026-09-29T19:33:06.392100Z",
       "title_original": "New Lynk & Co 02 got 14,663 orders in one hour after the launch in China",
       "title_en": "New Lynk & Co 02 got 14,663 orders in one hour after the launch in China",
       "title_zh": null,
@@ -817,7 +845,7 @@
       "url": "https://cnevpost.com/2026/09/29/lynk-co-launches-20-compact-electric-suv",
       "published_at": "2026-09-29T03:44:45Z",
       "first_seen_at": "2026-09-29T07:21:26.044505Z",
-      "last_seen_at": "2026-09-29T14:13:05.037702Z",
+      "last_seen_at": "2026-09-29T19:33:06.392100Z",
       "title_original": "Lynk & Co launches 20 compact electric SUV, reports over 14,663 firm orders in 1 hour",
       "title_en": "Lynk & Co launches 20 compact electric SUV, reports over 14,663 firm orders in 1 hour",
       "title_zh": null,
@@ -836,7 +864,7 @@
       "url": "https://cnevpost.com/2026/09/29/aito-to-open-pre-sales-updated-m8-sept-30",
       "published_at": "2026-09-29T01:49:00Z",
       "first_seen_at": "2026-09-29T07:21:26.044505Z",
-      "last_seen_at": "2026-09-29T14:13:05.037702Z",
+      "last_seen_at": "2026-09-29T19:33:06.392100Z",
       "title_original": "Aito to open pre-sales of updated M8 SUV on September 30 with L3-ready architecture",
       "title_en": "Aito to open pre-sales of updated M8 SUV on September 30 with L3-ready architecture",
       "title_zh": null,
@@ -855,7 +883,7 @@
       "url": "https://auto.gasgoo.com/news/202609/28I70473528C501.shtml",
       "published_at": "2026-09-28T22:10:16Z",
       "first_seen_at": "2026-09-29T14:13:05.037702Z",
-      "last_seen_at": "2026-09-29T14:13:05.037702Z",
+      "last_seen_at": "2026-09-29T19:33:06.392100Z",
       "title_original": "领克20上市：用入门即高配，赌一次纯电翻身仗",
       "title_en": null,
       "title_zh": "领克20上市：用入门即高配，赌一次纯电翻身仗",
@@ -874,7 +902,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/8a5cf2154e6f0f8b/116132064-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-28T21:34:26.376070Z",
-      "last_seen_at": "2026-09-29T14:13:05.037702Z",
+      "last_seen_at": "2026-09-29T19:33:06.392100Z",
       "title_original": "越野能力更强 长城H9力魂版到店看车",
       "title_en": null,
       "title_zh": "越野能力更强 长城H9力魂版到店看车",
@@ -892,7 +920,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/497baedea341938f/116164035-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-28T21:34:26.376070Z",
-      "last_seen_at": "2026-09-29T14:13:05.037702Z",
+      "last_seen_at": "2026-09-29T19:33:06.392100Z",
       "title_original": "家用很香 零跑C10提车作业分享",
       "title_en": null,
       "title_zh": "家用很香 零跑C10提车作业分享",
@@ -911,7 +939,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/e55d56e771ca5ad5/116163585-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-28T21:34:26.376070Z",
-      "last_seen_at": "2026-09-29T14:13:05.037702Z",
+      "last_seen_at": "2026-09-29T19:33:06.392100Z",
       "title_original": "越看越喜欢 QQ3 EV提车作业分享",
       "title_en": null,
       "title_zh": "越看越喜欢 QQ3 EV提车作业分享",
@@ -1005,210 +1033,12 @@
       "url": "https://auto.gasgoo.com/news/202609/28I70473526C1101.shtml",
       "published_at": "2026-09-28T21:00:27Z",
       "first_seen_at": "2026-09-29T14:13:05.037702Z",
-      "last_seen_at": "2026-09-29T14:13:05.037702Z",
+      "last_seen_at": "2026-09-29T19:33:06.392100Z",
       "title_original": "华诚认证CCC业务被停业整顿，涉擅自增设认证标准",
       "title_en": null,
       "title_zh": "华诚认证CCC业务被停业整顿，涉擅自增设认证标准",
       "title_bilingual": "华诚认证CCC业务被停业整顿，涉擅自增设认证标准",
       "topic_tags": []
-    },
-    {
-      "id": "493d48aa1d6409a2045c50b222e3b9ba9bd03229",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新能源",
-      "title": "分析师：尽管峰会未达成协议，中国电动汽车或仍将进入美国市场",
-      "url": "https://auto.gasgoo.com/news/202609/28I70473521C501.shtml",
-      "published_at": "2026-09-28T18:37:57Z",
-      "first_seen_at": "2026-09-29T14:13:05.037702Z",
-      "last_seen_at": "2026-09-29T14:13:05.037702Z",
-      "title_original": "分析师：尽管峰会未达成协议，中国电动汽车或仍将进入美国市场",
-      "title_en": null,
-      "title_zh": "分析师：尽管峰会未达成协议，中国电动汽车或仍将进入美国市场",
-      "title_bilingual": "分析师：尽管峰会未达成协议，中国电动汽车或仍将进入美国市场",
-      "topic_tags": [
-        "新能源",
-        "销量市场"
-      ]
-    },
-    {
-      "id": "fbc9a919ed837948d24582de922109ec2f4bfe52",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "传奔驰计划削减9.11亿美元人力成本",
-      "url": "https://auto.gasgoo.com/news/202609/28I70473520C109.shtml",
-      "published_at": "2026-09-28T18:25:01Z",
-      "first_seen_at": "2026-09-29T14:13:05.037702Z",
-      "last_seen_at": "2026-09-29T14:13:05.037702Z",
-      "title_original": "传奔驰计划削减9.11亿美元人力成本",
-      "title_en": null,
-      "title_zh": "传奔驰计划削减9.11亿美元人力成本",
-      "title_bilingual": "传奔驰计划削减9.11亿美元人力成本",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "49772e1af753f60cbe1b695a317bf07bc94fe340",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新车",
-      "title": "捷达M6正式开启预售",
-      "url": "https://auto.gasgoo.com/news/202609/28I70473518C107.shtml",
-      "published_at": "2026-09-28T18:11:38Z",
-      "first_seen_at": "2026-09-29T14:13:05.037702Z",
-      "last_seen_at": "2026-09-29T14:13:05.037702Z",
-      "title_original": "捷达M6正式开启预售",
-      "title_en": null,
-      "title_zh": "捷达M6正式开启预售",
-      "title_bilingual": "捷达M6正式开启预售",
-      "topic_tags": [
-        "新车上市"
-      ]
-    },
-    {
-      "id": "6b5a3f5f4116e1e5796502a46d10021b45a245dc",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-智能网联",
-      "title": "西井科技20台无人IGV投运南沙二期，2027年将扩至60台",
-      "url": "https://auto.gasgoo.com/news/202609/28I70473513C601.shtml",
-      "published_at": "2026-09-28T17:51:48Z",
-      "first_seen_at": "2026-09-29T14:13:05.037702Z",
-      "last_seen_at": "2026-09-29T14:13:05.037702Z",
-      "title_original": "西井科技20台无人IGV投运南沙二期，2027年将扩至60台",
-      "title_en": null,
-      "title_zh": "西井科技20台无人IGV投运南沙二期，2027年将扩至60台",
-      "title_bilingual": "西井科技20台无人IGV投运南沙二期，2027年将扩至60台",
-      "topic_tags": []
-    },
-    {
-      "id": "5858855f4f9938968cdd03ee4cb5f528c977fe93",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-供应链",
-      "title": "持续加码中国，奥托立夫底气何在？",
-      "url": "https://auto.gasgoo.com/news/202609/28I70473463C103.shtml",
-      "published_at": "2026-09-28T17:14:57Z",
-      "first_seen_at": "2026-09-29T14:13:05.037702Z",
-      "last_seen_at": "2026-09-29T14:13:05.037702Z",
-      "title_original": "持续加码中国，奥托立夫底气何在？",
-      "title_en": null,
-      "title_zh": "持续加码中国，奥托立夫底气何在？",
-      "title_bilingual": "持续加码中国，奥托立夫底气何在？",
-      "topic_tags": [
-        "供应链"
-      ]
-    },
-    {
-      "id": "4eb9559fc32961fc715ac4382ce4cbecacebb8f2",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新能源",
-      "title": "七部门印发“十五五”新型电池产业发展规划，2030年实现全固态电池初步规模化应用",
-      "url": "https://auto.gasgoo.com/news/202609/28I70473490C501.shtml",
-      "published_at": "2026-09-28T16:22:55Z",
-      "first_seen_at": "2026-09-29T14:13:05.037702Z",
-      "last_seen_at": "2026-09-29T14:13:05.037702Z",
-      "title_original": "七部门印发“十五五”新型电池产业发展规划，2030年实现全固态电池初步规模化应用",
-      "title_en": null,
-      "title_zh": "七部门印发“十五五”新型电池产业发展规划，2030年实现全固态电池初步规模化应用",
-      "title_bilingual": "七部门印发“十五五”新型电池产业发展规划，2030年实现全固态电池初步规模化应用",
-      "topic_tags": [
-        "新能源",
-        "补能电池"
-      ]
-    },
-    {
-      "id": "db8c8173ecc2a97db70c13d89164d0bf0f2e62fb",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "摩根士丹利：若美国实施柴油出口禁令，汽油价格或将上涨",
-      "url": "https://auto.gasgoo.com/news/202609/28I70473489C108.shtml",
-      "published_at": "2026-09-28T16:05:20Z",
-      "first_seen_at": "2026-09-29T14:13:05.037702Z",
-      "last_seen_at": "2026-09-29T14:13:05.037702Z",
-      "title_original": "摩根士丹利：若美国实施柴油出口禁令，汽油价格或将上涨",
-      "title_en": null,
-      "title_zh": "摩根士丹利：若美国实施柴油出口禁令，汽油价格或将上涨",
-      "title_bilingual": "摩根士丹利：若美国实施柴油出口禁令，汽油价格或将上涨",
-      "topic_tags": [
-        "销量市场"
-      ]
-    },
-    {
-      "id": "76e433289e19743cfebadf1f629e705ffa931c39",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "曝欧盟敦促英国提高对华汽车关税",
-      "url": "https://auto.gasgoo.com/news/202609/28I70473482C108.shtml",
-      "published_at": "2026-09-28T15:58:49Z",
-      "first_seen_at": "2026-09-29T14:13:05.037702Z",
-      "last_seen_at": "2026-09-29T14:13:05.037702Z",
-      "title_original": "曝欧盟敦促英国提高对华汽车关税",
-      "title_en": null,
-      "title_zh": "曝欧盟敦促英国提高对华汽车关税",
-      "title_bilingual": "曝欧盟敦促英国提高对华汽车关税",
-      "topic_tags": []
-    },
-    {
-      "id": "5e407eca0453a2fed17aed1c9c46862847cde005",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "VW ID. ERA 8X EREV SUV opens for pre-sales in China, launch set for October 12",
-      "url": "https://cnevpost.com/2026/09/28/vw-id-era-8x-erev-suv-opens-pre-sales-china",
-      "published_at": "2026-09-28T14:50:33Z",
-      "first_seen_at": "2026-09-28T15:44:52.708118Z",
-      "last_seen_at": "2026-09-29T14:13:05.037702Z",
-      "title_original": "VW ID. ERA 8X EREV SUV opens for pre-sales in China, launch set for October 12",
-      "title_en": "VW ID. ERA 8X EREV SUV opens for pre-sales in China, launch set for October 12",
-      "title_zh": "大众汽车 ID。 ERA 8X EREV SUV在中国开启预售，预计10月12日上市",
-      "title_bilingual": "大众汽车 ID。 ERA 8X EREV SUV在中国开启预售，预计10月12日上市 / VW ID. ERA 8X EREV SUV opens for pre-sales in China, launch set for October 12",
-      "topic_tags": [
-        "新能源",
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "358cc83d7e8ad50ebc545677a718eaad9d7f2eda",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-智能网联",
-      "title": "保隆科技第二代11V ADAS视觉感知方案规模化量产",
-      "url": "https://auto.gasgoo.com/news/202609/28I70473462C601.shtml",
-      "published_at": "2026-09-28T14:26:25Z",
-      "first_seen_at": "2026-09-29T07:21:26.044505Z",
-      "last_seen_at": "2026-09-29T14:13:05.037702Z",
-      "title_original": "保隆科技第二代11V ADAS视觉感知方案规模化量产",
-      "title_en": null,
-      "title_zh": "保隆科技第二代11V ADAS视觉感知方案规模化量产",
-      "title_bilingual": "保隆科技第二代11V ADAS视觉感知方案规模化量产",
-      "topic_tags": [
-        "智能驾驶"
-      ]
-    },
-    {
-      "id": "7e91fc64942b4200940313f3b00e45b7cac4b1a0",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "GAC plans to buy 50% of FAW Toyota to coordinate operations at Toyota's 2 China joint ventures",
-      "url": "https://cnevpost.com/2026/09/28/gac-to-buy-50-faw-toyota-coordinate-toyota-china-jvs",
-      "published_at": "2026-09-28T14:14:18Z",
-      "first_seen_at": "2026-09-28T15:44:52.708118Z",
-      "last_seen_at": "2026-09-29T14:13:05.037702Z",
-      "title_original": "GAC plans to buy 50% of FAW Toyota to coordinate operations at Toyota's 2 China joint ventures",
-      "title_en": "GAC plans to buy 50% of FAW Toyota to coordinate operations at Toyota's 2 China joint ventures",
-      "title_zh": "广汽拟收购一汽丰田50%股权，协调丰田在华两家合资企业运营",
-      "title_bilingual": "广汽拟收购一汽丰田50%股权，协调丰田在华两家合资企业运营 / GAC plans to buy 50% of FAW Toyota to coordinate operations at Toyota's 2 China joint ventures",
-      "topic_tags": [
-        "新能源"
-      ]
     }
   ],
   "all_mode_data_url": "data/latest-24h-all.json"
