@@ -1,53 +1,178 @@
 {
-  "generated_at": "2026-10-01T00:20:23.451373Z",
+  "generated_at": "2026-10-01T06:19:47.462338Z",
   "window_hours": 24,
-  "total_items": 17,
-  "total_items_ai_raw": 18,
-  "total_items_raw": 2486,
-  "total_items_all_mode": 2195,
+  "total_items": 29,
+  "total_items_ai_raw": 34,
+  "total_items_raw": 2645,
+  "total_items_all_mode": 2330,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 57310,
+  "archive_total": 57259,
   "site_count": 3,
-  "source_count": 6,
+  "source_count": 9,
   "site_stats": [
+    {
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "count": 18,
+      "raw_count": 23
+    },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "count": 11,
-      "raw_count": 2378
-    },
-    {
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "count": 6,
-      "raw_count": 7
+      "raw_count": 2515
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "count": 0,
-      "raw_count": 101
+      "raw_count": 107
     }
   ],
   "topic_tag_stats": [
     {
       "tag": "车企竞争",
-      "count": 11
+      "count": 17
     },
     {
       "tag": "新能源",
-      "count": 8
+      "count": 14
     },
     {
       "tag": "购车决策",
       "count": 8
     },
     {
+      "tag": "供应链",
+      "count": 3
+    },
+    {
       "tag": "新车上市",
       "count": 3
+    },
+    {
+      "tag": "补能电池",
+      "count": 1
+    },
+    {
+      "tag": "销量市场",
+      "count": 1
     }
   ],
   "items": [
+    {
+      "id": "6dc5df2ea61fdbabfb665ff933e0a11fba537548",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Nio delivers 37,408 vehicles in September, meets Q3 guidance",
+      "url": "https://cnevpost.com/2026/10/01/nio-sept-2026-deliveries",
+      "published_at": "2026-10-01T04:31:23Z",
+      "first_seen_at": "2026-10-01T06:19:47.462338Z",
+      "last_seen_at": "2026-10-01T06:19:47.462338Z",
+      "title_original": "Nio delivers 37,408 vehicles in September, meets Q3 guidance",
+      "title_en": "Nio delivers 37,408 vehicles in September, meets Q3 guidance",
+      "title_zh": null,
+      "title_bilingual": "Nio delivers 37,408 vehicles in September, meets Q3 guidance",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "3a1b2df88fdd71beca541816b050249ed5ddfc41",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Leapmotor posts record September deliveries, tops 100,000 for third straight month",
+      "url": "https://cnevpost.com/2026/10/01/leapmotor-sept-2026-deliveries",
+      "published_at": "2026-10-01T03:50:12Z",
+      "first_seen_at": "2026-10-01T06:19:47.462338Z",
+      "last_seen_at": "2026-10-01T06:19:47.462338Z",
+      "title_original": "Leapmotor posts record September deliveries, tops 100,000 for third straight month",
+      "title_en": "Leapmotor posts record September deliveries, tops 100,000 for third straight month",
+      "title_zh": null,
+      "title_bilingual": "Leapmotor posts record September deliveries, tops 100,000 for third straight month",
+      "topic_tags": [
+        "新能源"
+      ]
+    },
+    {
+      "id": "67e9f4bc4f6529c1017a8e1a044b42152bff57d9",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Zeekr plans 001 update in Q1 2027, offers incentives on current model",
+      "url": "https://cnevpost.com/2026/10/01/zeekr-plans-001-update-q1-2027-incentives-current-model",
+      "published_at": "2026-10-01T03:24:32Z",
+      "first_seen_at": "2026-10-01T06:19:47.462338Z",
+      "last_seen_at": "2026-10-01T06:19:47.462338Z",
+      "title_original": "Zeekr plans 001 update in Q1 2027, offers incentives on current model",
+      "title_en": "Zeekr plans 001 update in Q1 2027, offers incentives on current model",
+      "title_zh": null,
+      "title_bilingual": "Zeekr plans 001 update in Q1 2027, offers incentives on current model",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "e36a93e6373dec7c35abeeedaef3227515af65fc",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Xiaomi Auto September deliveries top 40,000 as Sky Nomad adds volume",
+      "url": "https://cnevpost.com/2026/10/01/xiaomi-auto-sept-2026-deliveries",
+      "published_at": "2026-10-01T02:50:50Z",
+      "first_seen_at": "2026-10-01T06:19:47.462338Z",
+      "last_seen_at": "2026-10-01T06:19:47.462338Z",
+      "title_original": "Xiaomi Auto September deliveries top 40,000 as Sky Nomad adds volume",
+      "title_en": "Xiaomi Auto September deliveries top 40,000 as Sky Nomad adds volume",
+      "title_zh": null,
+      "title_bilingual": "Xiaomi Auto September deliveries top 40,000 as Sky Nomad adds volume",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "4bcbd36d633e679050baadfa261814b1040d3aaa",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Li Auto September deliveries fall 6.29% to 31,817",
+      "url": "https://cnevpost.com/2026/10/01/li-auto-sept-2026-deliveries",
+      "published_at": "2026-10-01T02:19:59Z",
+      "first_seen_at": "2026-10-01T06:19:47.462338Z",
+      "last_seen_at": "2026-10-01T06:19:47.462338Z",
+      "title_original": "Li Auto September deliveries fall 6.29% to 31,817",
+      "title_en": "Li Auto September deliveries fall 6.29% to 31,817",
+      "title_zh": null,
+      "title_bilingual": "Li Auto September deliveries fall 6.29% to 31,817",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "beff577dd5b14d5c0b93ad84fdeb70ff20f77245",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Tesla gives Model 3 minor upgrades in China, keeps prices unchanged",
+      "url": "https://cnevpost.com/2026/10/01/tesla-gives-model-3-minor-upgrades-in-china",
+      "published_at": "2026-10-01T01:50:46Z",
+      "first_seen_at": "2026-10-01T06:19:47.462338Z",
+      "last_seen_at": "2026-10-01T06:19:47.462338Z",
+      "title_original": "Tesla gives Model 3 minor upgrades in China, keeps prices unchanged",
+      "title_en": "Tesla gives Model 3 minor upgrades in China, keeps prices unchanged",
+      "title_zh": null,
+      "title_bilingual": "Tesla gives Model 3 minor upgrades in China, keeps prices unchanged",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
     {
       "id": "58cf50461d3e9ccbfe5a8c8baef4a9f9f5516ad0",
       "site_id": "tophub",
@@ -57,7 +182,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/0ab52025595b0675/116164088-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-30T20:31:00.699030Z",
-      "last_seen_at": "2026-10-01T00:20:23.451373Z",
+      "last_seen_at": "2026-10-01T06:19:47.462338Z",
       "title_original": "适合带娃出行 QQ3 EV提车作业分享",
       "title_en": null,
       "title_zh": "适合带娃出行 QQ3 EV提车作业分享",
@@ -76,7 +201,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/3caa58196a21ea5e/116185512-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-30T20:31:00.699030Z",
-      "last_seen_at": "2026-10-01T00:20:23.451373Z",
+      "last_seen_at": "2026-10-01T06:19:47.462338Z",
       "title_original": "家用很舒服 问界M7提车作业分享",
       "title_en": null,
       "title_zh": "家用很舒服 问界M7提车作业分享",
@@ -95,7 +220,7 @@
       "url": "https://i.autohome.com.cn/269577494",
       "published_at": null,
       "first_seen_at": "2026-09-30T20:31:00.699030Z",
-      "last_seen_at": "2026-10-01T00:20:23.451373Z",
+      "last_seen_at": "2026-10-01T06:19:47.462338Z",
       "title_original": "舒适性不错 零跑D19提车作业分享",
       "title_en": null,
       "title_zh": "舒适性不错 零跑D19提车作业分享",
@@ -114,7 +239,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/4cd5f7e4523a2720/116180775-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-30T20:31:00.699030Z",
-      "last_seen_at": "2026-10-01T00:20:23.451373Z",
+      "last_seen_at": "2026-10-01T06:19:47.462338Z",
       "title_original": "出行好伙伴 理想i6提车作业分享",
       "title_en": null,
       "title_zh": "出行好伙伴 理想i6提车作业分享",
@@ -133,7 +258,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/132cda073b122254/116174256-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-30T20:31:00.699030Z",
-      "last_seen_at": "2026-10-01T00:20:23.451373Z",
+      "last_seen_at": "2026-10-01T06:19:47.462338Z",
       "title_original": "纠结到提车 特斯拉Model YL避坑汇总",
       "title_en": null,
       "title_zh": "纠结到提车 特斯拉Model YL避坑汇总",
@@ -152,7 +277,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/bde0554b04e35ead/116164252-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-30T20:31:00.699030Z",
-      "last_seen_at": "2026-10-01T00:20:23.451373Z",
+      "last_seen_at": "2026-10-01T06:19:47.462338Z",
       "title_original": "外观硬朗耐看 喜提长城猛龙 PLUS",
       "title_en": null,
       "title_zh": "外观硬朗耐看 喜提长城猛龙 PLUS",
@@ -170,7 +295,7 @@
       "url": "http://vc.yiche.com/vplay/13410714.html",
       "published_at": null,
       "first_seen_at": "2026-09-30T20:31:00.699030Z",
-      "last_seen_at": "2026-10-01T00:20:23.451373Z",
+      "last_seen_at": "2026-10-01T06:19:47.462338Z",
       "title_original": "深度评测长城大狗混动版，谁说方盒子一定是油老虎！",
       "title_en": null,
       "title_zh": "深度评测长城大狗混动版，谁说方盒子一定是油老虎！",
@@ -190,7 +315,7 @@
       "url": "http://vc.yiche.com/vplay/13443075.html",
       "published_at": null,
       "first_seen_at": "2026-09-30T20:31:00.699030Z",
-      "last_seen_at": "2026-10-01T00:20:23.451373Z",
+      "last_seen_at": "2026-10-01T06:19:47.462338Z",
       "title_original": "自家旗舰级SUV，三排配置拉满还有天地门设计，体验方程豹钛9",
       "title_en": null,
       "title_zh": "自家旗舰级SUV，三排配置拉满还有天地门设计，体验方程豹钛9",
@@ -209,7 +334,7 @@
       "url": "http://vc.yiche.com/vplay/13469395.html",
       "published_at": null,
       "first_seen_at": "2026-09-30T20:31:00.699030Z",
-      "last_seen_at": "2026-10-01T00:20:23.451373Z",
+      "last_seen_at": "2026-10-01T06:19:47.462338Z",
       "title_original": "问界新M8静态体验！舒适、智能全面进化 家庭出行头等舱！",
       "title_en": null,
       "title_zh": "问界新M8静态体验！舒适、智能全面进化 家庭出行头等舱！",
@@ -217,6 +342,59 @@
       "topic_tags": [
         "车企竞争",
         "购车决策"
+      ]
+    },
+    {
+      "id": "bfddb55e6c99135c7686376b71908a94c0fadb2a",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "统一智能体：汽车AI下一站",
+      "url": "https://auto.gasgoo.com/news/202609/30I70473175C108.shtml",
+      "published_at": "2026-09-30T14:16:36Z",
+      "first_seen_at": "2026-10-01T06:19:47.462338Z",
+      "last_seen_at": "2026-10-01T06:19:47.462338Z",
+      "title_original": "统一智能体：汽车AI下一站",
+      "title_en": null,
+      "title_zh": "统一智能体：汽车AI下一站",
+      "title_bilingual": "统一智能体：汽车AI下一站",
+      "topic_tags": []
+    },
+    {
+      "id": "98b7d4d49604d035ff433f06634549bc85b435fa",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-供应链",
+      "title": "又一半导体项目在广州黄埔动工",
+      "url": "https://auto.gasgoo.com/news/202609/30I70473707C501.shtml",
+      "published_at": "2026-09-30T13:30:51Z",
+      "first_seen_at": "2026-10-01T06:19:47.462338Z",
+      "last_seen_at": "2026-10-01T06:19:47.462338Z",
+      "title_original": "又一半导体项目在广州黄埔动工",
+      "title_en": null,
+      "title_zh": "又一半导体项目在广州黄埔动工",
+      "title_bilingual": "又一半导体项目在广州黄埔动工",
+      "topic_tags": [
+        "供应链"
+      ]
+    },
+    {
+      "id": "b7d665703d745b8267cfb0ba7ebfc99b7e4621bb",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "【国际快讯】大众集团 与国轩高科深化战略合作；丰田汽车8月在华销量同比大跌23%",
+      "url": "https://auto.gasgoo.com/news/202609/30I70473704C108.shtml",
+      "published_at": "2026-09-30T12:42:10Z",
+      "first_seen_at": "2026-10-01T06:19:47.462338Z",
+      "last_seen_at": "2026-10-01T06:19:47.462338Z",
+      "title_original": "【国际快讯】大众集团 与国轩高科深化战略合作；丰田汽车8月在华销量同比大跌23%",
+      "title_en": null,
+      "title_zh": "【国际快讯】大众集团 与国轩高科深化战略合作；丰田汽车8月在华销量同比大跌23%",
+      "title_bilingual": "【国际快讯】大众集团 与国轩高科深化战略合作；丰田汽车8月在华销量同比大跌23%",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争"
       ]
     },
     {
@@ -228,13 +406,31 @@
       "url": "https://cnevpost.com/2026/09/30/china-nev-retail-sales-first-27-days-sept",
       "published_at": "2026-09-30T12:10:40Z",
       "first_seen_at": "2026-09-30T15:36:15.245108Z",
-      "last_seen_at": "2026-10-01T00:20:23.451373Z",
+      "last_seen_at": "2026-10-01T06:19:47.462338Z",
       "title_original": "China NEV retail sales fall 20% in first 27 days of September as decline deepens",
       "title_en": "China NEV retail sales fall 20% in first 27 days of September as decline deepens",
       "title_zh": null,
       "title_bilingual": "China NEV retail sales fall 20% in first 27 days of September as decline deepens",
       "topic_tags": [
         "新能源"
+      ]
+    },
+    {
+      "id": "6fbcd516e36c49b1e2b24901fbab69d1bcbfa14d",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-供应链",
+      "title": "圣戈班汽车玻璃芜湖服务中心投产，未来将建百万片级制造基地",
+      "url": "https://auto.gasgoo.com/news/202609/30I70473703C103.shtml",
+      "published_at": "2026-09-30T11:55:34Z",
+      "first_seen_at": "2026-10-01T06:19:47.462338Z",
+      "last_seen_at": "2026-10-01T06:19:47.462338Z",
+      "title_original": "圣戈班汽车玻璃芜湖服务中心投产，未来将建百万片级制造基地",
+      "title_en": null,
+      "title_zh": "圣戈班汽车玻璃芜湖服务中心投产，未来将建百万片级制造基地",
+      "title_bilingual": "圣戈班汽车玻璃芜湖服务中心投产，未来将建百万片级制造基地",
+      "topic_tags": [
+        "供应链"
       ]
     },
     {
@@ -246,7 +442,7 @@
       "url": "https://carnewschina.com/2026/09/30/second-gen-byd-seagull-revealed-massaged-drivers-seat-94l-frunk",
       "published_at": "2026-09-30T11:40:41Z",
       "first_seen_at": "2026-09-30T15:36:15.245108Z",
-      "last_seen_at": "2026-10-01T00:20:23.451373Z",
+      "last_seen_at": "2026-10-01T06:19:47.462338Z",
       "title_original": "Second-gen BYD Seagull revealed massaged driver’s seat & 94L frunk",
       "title_en": "Second-gen BYD Seagull revealed massaged driver’s seat & 94L frunk",
       "title_zh": null,
@@ -265,7 +461,7 @@
       "url": "https://cnevpost.com/2026/09/30/aito-opens-pre-sales-updated-m8-suv",
       "published_at": "2026-09-30T11:28:07Z",
       "first_seen_at": "2026-09-30T15:36:15.245108Z",
-      "last_seen_at": "2026-10-01T00:20:23.451373Z",
+      "last_seen_at": "2026-10-01T06:19:47.462338Z",
       "title_original": "Aito opens pre-sales for updated M8 SUV as Seres and Huawei reshape partnership",
       "title_en": "Aito opens pre-sales for updated M8 SUV as Seres and Huawei reshape partnership",
       "title_zh": null,
@@ -273,6 +469,78 @@
       "topic_tags": [
         "新能源",
         "新车上市"
+      ]
+    },
+    {
+      "id": "07a0c8ec31e4d6e01d47f52dff49151800a4ba2e",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "AI裁不掉的人，长什么样？",
+      "url": "https://auto.gasgoo.com/news/202609/30I70473697C108.shtml",
+      "published_at": "2026-09-30T11:04:53Z",
+      "first_seen_at": "2026-10-01T06:19:47.462338Z",
+      "last_seen_at": "2026-10-01T06:19:47.462338Z",
+      "title_original": "AI裁不掉的人，长什么样？",
+      "title_en": null,
+      "title_zh": "AI裁不掉的人，长什么样？",
+      "title_bilingual": "AI裁不掉的人，长什么样？",
+      "topic_tags": []
+    },
+    {
+      "id": "d786c5fb93fb2e862c052d994f1abeb722a0c4b9",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新能源",
+      "title": "中创新航与汉高联合创新中心在常州开幕",
+      "url": "https://auto.gasgoo.com/news/202609/30I70473696C501.shtml",
+      "published_at": "2026-09-30T10:08:05Z",
+      "first_seen_at": "2026-10-01T06:19:47.462338Z",
+      "last_seen_at": "2026-10-01T06:19:47.462338Z",
+      "title_original": "中创新航与汉高联合创新中心在常州开幕",
+      "title_en": null,
+      "title_zh": "中创新航与汉高联合创新中心在常州开幕",
+      "title_bilingual": "中创新航与汉高联合创新中心在常州开幕",
+      "topic_tags": [
+        "新能源"
+      ]
+    },
+    {
+      "id": "877893544010dd7b157f548b9f66ffd7ea68d251",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新能源",
+      "title": "蔚来NIO Power单日上线28座站点，全国累计充换电站达9492座",
+      "url": "https://auto.gasgoo.com/news/202609/30I70473695C501.shtml",
+      "published_at": "2026-09-30T10:03:39Z",
+      "first_seen_at": "2026-10-01T06:19:47.462338Z",
+      "last_seen_at": "2026-10-01T06:19:47.462338Z",
+      "title_original": "蔚来NIO Power单日上线28座站点，全国累计充换电站达9492座",
+      "title_en": null,
+      "title_zh": "蔚来NIO Power单日上线28座站点，全国累计充换电站达9492座",
+      "title_bilingual": "蔚来NIO Power单日上线28座站点，全国累计充换电站达9492座",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "cfa4b29e67e52e1ef0102ecd78b4a562c9c9ceaf",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-供应链",
+      "title": "Physical AI ，正在改写芯片产业分工",
+      "url": "https://auto.gasgoo.com/news/202609/30I70473623C601.shtml",
+      "published_at": "2026-09-30T09:13:59Z",
+      "first_seen_at": "2026-10-01T06:19:47.462338Z",
+      "last_seen_at": "2026-10-01T06:19:47.462338Z",
+      "title_original": "Physical AI ，正在改写芯片产业分工",
+      "title_en": null,
+      "title_zh": "Physical AI ，正在改写芯片产业分工",
+      "title_bilingual": "Physical AI ，正在改写芯片产业分工",
+      "topic_tags": [
+        "供应链"
       ]
     },
     {
@@ -284,7 +552,7 @@
       "url": "https://www.dongchedi.com/article/7690769121046856216",
       "published_at": null,
       "first_seen_at": "2026-09-30T08:51:09.860988Z",
-      "last_seen_at": "2026-10-01T00:20:23.451373Z",
+      "last_seen_at": "2026-10-01T06:19:47.462338Z",
       "title_original": "改款的理想L6变化大吗",
       "title_en": null,
       "title_zh": "改款的理想L6变化大吗",
@@ -302,7 +570,7 @@
       "url": "https://www.dongchedi.com/article/7690765649064362521",
       "published_at": null,
       "first_seen_at": "2026-09-30T08:51:09.860988Z",
-      "last_seen_at": "2026-10-01T00:20:23.451373Z",
+      "last_seen_at": "2026-10-01T06:19:47.462338Z",
       "title_original": "四款新能源紧凑型SUV商品性横评",
       "title_en": null,
       "title_zh": "四款新能源紧凑型SUV商品性横评",
@@ -321,55 +589,131 @@
       "url": "https://auto.gasgoo.com/news/202609/30I70473646C109.shtml",
       "published_at": "2026-09-30T07:09:25Z",
       "first_seen_at": "2026-10-01T00:20:23.451373Z",
-      "last_seen_at": "2026-10-01T00:20:23.451373Z",
+      "last_seen_at": "2026-10-01T06:19:47.462338Z",
       "title_original": "中国车企开始向欧洲巨头“卖碳”了",
       "title_en": null,
       "title_zh": "中国车企开始向欧洲巨头“卖碳”了",
       "title_bilingual": "中国车企开始向欧洲巨头“卖碳”了",
       "topic_tags": [
         "车企竞争"
-      ]
-    },
-    {
-      "id": "b25e03fd68a1018c3280ba8180027cc693c3e57b",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "BYD expects Formula S series sales to reach 15,000 units monthly",
-      "url": "https://carnewschina.com/2026/09/30/byd-expects-formula-s-series-sales-to-reach-15000-units-monthly",
-      "published_at": "2026-09-30T04:20:33Z",
-      "first_seen_at": "2026-09-30T08:51:09.860988Z",
-      "last_seen_at": "2026-10-01T00:20:23.451373Z",
-      "title_original": "BYD expects Formula S series sales to reach 15,000 units monthly",
-      "title_en": "BYD expects Formula S series sales to reach 15,000 units monthly",
-      "title_zh": null,
-      "title_bilingual": "BYD expects Formula S series sales to reach 15,000 units monthly",
-      "topic_tags": [
-        "新能源",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "c48f8dba6cd0501e5b2c9af455ce81c7eb1be887",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Seres and CATL-backed Aiva unveils ME7 in Paris",
-      "url": "https://carnewschina.com/2026/09/30/seres-and-catl-backed-aiva-unveils-me7-in-paris",
-      "published_at": "2026-09-30T00:51:59Z",
-      "first_seen_at": "2026-09-30T02:16:19.967107Z",
-      "last_seen_at": "2026-10-01T00:20:23.451373Z",
-      "title_original": "Seres and CATL-backed Aiva unveils ME7 in Paris",
-      "title_en": "Seres and CATL-backed Aiva unveils ME7 in Paris",
-      "title_zh": null,
-      "title_bilingual": "Seres and CATL-backed Aiva unveils ME7 in Paris",
-      "topic_tags": [
-        "新能源"
       ]
     }
   ],
   "items_ai": [
     {
+      "id": "6dc5df2ea61fdbabfb665ff933e0a11fba537548",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Nio delivers 37,408 vehicles in September, meets Q3 guidance",
+      "url": "https://cnevpost.com/2026/10/01/nio-sept-2026-deliveries",
+      "published_at": "2026-10-01T04:31:23Z",
+      "first_seen_at": "2026-10-01T06:19:47.462338Z",
+      "last_seen_at": "2026-10-01T06:19:47.462338Z",
+      "title_original": "Nio delivers 37,408 vehicles in September, meets Q3 guidance",
+      "title_en": "Nio delivers 37,408 vehicles in September, meets Q3 guidance",
+      "title_zh": null,
+      "title_bilingual": "Nio delivers 37,408 vehicles in September, meets Q3 guidance",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "3a1b2df88fdd71beca541816b050249ed5ddfc41",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Leapmotor posts record September deliveries, tops 100,000 for third straight month",
+      "url": "https://cnevpost.com/2026/10/01/leapmotor-sept-2026-deliveries",
+      "published_at": "2026-10-01T03:50:12Z",
+      "first_seen_at": "2026-10-01T06:19:47.462338Z",
+      "last_seen_at": "2026-10-01T06:19:47.462338Z",
+      "title_original": "Leapmotor posts record September deliveries, tops 100,000 for third straight month",
+      "title_en": "Leapmotor posts record September deliveries, tops 100,000 for third straight month",
+      "title_zh": null,
+      "title_bilingual": "Leapmotor posts record September deliveries, tops 100,000 for third straight month",
+      "topic_tags": [
+        "新能源"
+      ]
+    },
+    {
+      "id": "67e9f4bc4f6529c1017a8e1a044b42152bff57d9",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Zeekr plans 001 update in Q1 2027, offers incentives on current model",
+      "url": "https://cnevpost.com/2026/10/01/zeekr-plans-001-update-q1-2027-incentives-current-model",
+      "published_at": "2026-10-01T03:24:32Z",
+      "first_seen_at": "2026-10-01T06:19:47.462338Z",
+      "last_seen_at": "2026-10-01T06:19:47.462338Z",
+      "title_original": "Zeekr plans 001 update in Q1 2027, offers incentives on current model",
+      "title_en": "Zeekr plans 001 update in Q1 2027, offers incentives on current model",
+      "title_zh": null,
+      "title_bilingual": "Zeekr plans 001 update in Q1 2027, offers incentives on current model",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "e36a93e6373dec7c35abeeedaef3227515af65fc",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Xiaomi Auto September deliveries top 40,000 as Sky Nomad adds volume",
+      "url": "https://cnevpost.com/2026/10/01/xiaomi-auto-sept-2026-deliveries",
+      "published_at": "2026-10-01T02:50:50Z",
+      "first_seen_at": "2026-10-01T06:19:47.462338Z",
+      "last_seen_at": "2026-10-01T06:19:47.462338Z",
+      "title_original": "Xiaomi Auto September deliveries top 40,000 as Sky Nomad adds volume",
+      "title_en": "Xiaomi Auto September deliveries top 40,000 as Sky Nomad adds volume",
+      "title_zh": null,
+      "title_bilingual": "Xiaomi Auto September deliveries top 40,000 as Sky Nomad adds volume",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "4bcbd36d633e679050baadfa261814b1040d3aaa",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Li Auto September deliveries fall 6.29% to 31,817",
+      "url": "https://cnevpost.com/2026/10/01/li-auto-sept-2026-deliveries",
+      "published_at": "2026-10-01T02:19:59Z",
+      "first_seen_at": "2026-10-01T06:19:47.462338Z",
+      "last_seen_at": "2026-10-01T06:19:47.462338Z",
+      "title_original": "Li Auto September deliveries fall 6.29% to 31,817",
+      "title_en": "Li Auto September deliveries fall 6.29% to 31,817",
+      "title_zh": null,
+      "title_bilingual": "Li Auto September deliveries fall 6.29% to 31,817",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "beff577dd5b14d5c0b93ad84fdeb70ff20f77245",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Tesla gives Model 3 minor upgrades in China, keeps prices unchanged",
+      "url": "https://cnevpost.com/2026/10/01/tesla-gives-model-3-minor-upgrades-in-china",
+      "published_at": "2026-10-01T01:50:46Z",
+      "first_seen_at": "2026-10-01T06:19:47.462338Z",
+      "last_seen_at": "2026-10-01T06:19:47.462338Z",
+      "title_original": "Tesla gives Model 3 minor upgrades in China, keeps prices unchanged",
+      "title_en": "Tesla gives Model 3 minor upgrades in China, keeps prices unchanged",
+      "title_zh": null,
+      "title_bilingual": "Tesla gives Model 3 minor upgrades in China, keeps prices unchanged",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
       "id": "58cf50461d3e9ccbfe5a8c8baef4a9f9f5516ad0",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -378,7 +722,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/0ab52025595b0675/116164088-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-30T20:31:00.699030Z",
-      "last_seen_at": "2026-10-01T00:20:23.451373Z",
+      "last_seen_at": "2026-10-01T06:19:47.462338Z",
       "title_original": "适合带娃出行 QQ3 EV提车作业分享",
       "title_en": null,
       "title_zh": "适合带娃出行 QQ3 EV提车作业分享",
@@ -397,7 +741,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/3caa58196a21ea5e/116185512-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-30T20:31:00.699030Z",
-      "last_seen_at": "2026-10-01T00:20:23.451373Z",
+      "last_seen_at": "2026-10-01T06:19:47.462338Z",
       "title_original": "家用很舒服 问界M7提车作业分享",
       "title_en": null,
       "title_zh": "家用很舒服 问界M7提车作业分享",
@@ -416,7 +760,7 @@
       "url": "https://i.autohome.com.cn/269577494",
       "published_at": null,
       "first_seen_at": "2026-09-30T20:31:00.699030Z",
-      "last_seen_at": "2026-10-01T00:20:23.451373Z",
+      "last_seen_at": "2026-10-01T06:19:47.462338Z",
       "title_original": "舒适性不错 零跑D19提车作业分享",
       "title_en": null,
       "title_zh": "舒适性不错 零跑D19提车作业分享",
@@ -435,7 +779,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/4cd5f7e4523a2720/116180775-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-30T20:31:00.699030Z",
-      "last_seen_at": "2026-10-01T00:20:23.451373Z",
+      "last_seen_at": "2026-10-01T06:19:47.462338Z",
       "title_original": "出行好伙伴 理想i6提车作业分享",
       "title_en": null,
       "title_zh": "出行好伙伴 理想i6提车作业分享",
@@ -454,7 +798,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/132cda073b122254/116174256-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-30T20:31:00.699030Z",
-      "last_seen_at": "2026-10-01T00:20:23.451373Z",
+      "last_seen_at": "2026-10-01T06:19:47.462338Z",
       "title_original": "纠结到提车 特斯拉Model YL避坑汇总",
       "title_en": null,
       "title_zh": "纠结到提车 特斯拉Model YL避坑汇总",
@@ -473,7 +817,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/bde0554b04e35ead/116164252-1.html",
       "published_at": null,
       "first_seen_at": "2026-09-30T20:31:00.699030Z",
-      "last_seen_at": "2026-10-01T00:20:23.451373Z",
+      "last_seen_at": "2026-10-01T06:19:47.462338Z",
       "title_original": "外观硬朗耐看 喜提长城猛龙 PLUS",
       "title_en": null,
       "title_zh": "外观硬朗耐看 喜提长城猛龙 PLUS",
@@ -491,7 +835,7 @@
       "url": "http://vc.yiche.com/vplay/13410714.html",
       "published_at": null,
       "first_seen_at": "2026-09-30T20:31:00.699030Z",
-      "last_seen_at": "2026-10-01T00:20:23.451373Z",
+      "last_seen_at": "2026-10-01T06:19:47.462338Z",
       "title_original": "深度评测长城大狗混动版，谁说方盒子一定是油老虎！",
       "title_en": null,
       "title_zh": "深度评测长城大狗混动版，谁说方盒子一定是油老虎！",
@@ -511,7 +855,7 @@
       "url": "http://vc.yiche.com/vplay/13443075.html",
       "published_at": null,
       "first_seen_at": "2026-09-30T20:31:00.699030Z",
-      "last_seen_at": "2026-10-01T00:20:23.451373Z",
+      "last_seen_at": "2026-10-01T06:19:47.462338Z",
       "title_original": "自家旗舰级SUV，三排配置拉满还有天地门设计，体验方程豹钛9",
       "title_en": null,
       "title_zh": "自家旗舰级SUV，三排配置拉满还有天地门设计，体验方程豹钛9",
@@ -530,7 +874,7 @@
       "url": "http://vc.yiche.com/vplay/13469395.html",
       "published_at": null,
       "first_seen_at": "2026-09-30T20:31:00.699030Z",
-      "last_seen_at": "2026-10-01T00:20:23.451373Z",
+      "last_seen_at": "2026-10-01T06:19:47.462338Z",
       "title_original": "问界新M8静态体验！舒适、智能全面进化 家庭出行头等舱！",
       "title_en": null,
       "title_zh": "问界新M8静态体验！舒适、智能全面进化 家庭出行头等舱！",
@@ -538,6 +882,59 @@
       "topic_tags": [
         "车企竞争",
         "购车决策"
+      ]
+    },
+    {
+      "id": "bfddb55e6c99135c7686376b71908a94c0fadb2a",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "统一智能体：汽车AI下一站",
+      "url": "https://auto.gasgoo.com/news/202609/30I70473175C108.shtml",
+      "published_at": "2026-09-30T14:16:36Z",
+      "first_seen_at": "2026-10-01T06:19:47.462338Z",
+      "last_seen_at": "2026-10-01T06:19:47.462338Z",
+      "title_original": "统一智能体：汽车AI下一站",
+      "title_en": null,
+      "title_zh": "统一智能体：汽车AI下一站",
+      "title_bilingual": "统一智能体：汽车AI下一站",
+      "topic_tags": []
+    },
+    {
+      "id": "98b7d4d49604d035ff433f06634549bc85b435fa",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-供应链",
+      "title": "又一半导体项目在广州黄埔动工",
+      "url": "https://auto.gasgoo.com/news/202609/30I70473707C501.shtml",
+      "published_at": "2026-09-30T13:30:51Z",
+      "first_seen_at": "2026-10-01T06:19:47.462338Z",
+      "last_seen_at": "2026-10-01T06:19:47.462338Z",
+      "title_original": "又一半导体项目在广州黄埔动工",
+      "title_en": null,
+      "title_zh": "又一半导体项目在广州黄埔动工",
+      "title_bilingual": "又一半导体项目在广州黄埔动工",
+      "topic_tags": [
+        "供应链"
+      ]
+    },
+    {
+      "id": "b7d665703d745b8267cfb0ba7ebfc99b7e4621bb",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "【国际快讯】大众集团 与国轩高科深化战略合作；丰田汽车8月在华销量同比大跌23%",
+      "url": "https://auto.gasgoo.com/news/202609/30I70473704C108.shtml",
+      "published_at": "2026-09-30T12:42:10Z",
+      "first_seen_at": "2026-10-01T06:19:47.462338Z",
+      "last_seen_at": "2026-10-01T06:19:47.462338Z",
+      "title_original": "【国际快讯】大众集团 与国轩高科深化战略合作；丰田汽车8月在华销量同比大跌23%",
+      "title_en": null,
+      "title_zh": "【国际快讯】大众集团 与国轩高科深化战略合作；丰田汽车8月在华销量同比大跌23%",
+      "title_bilingual": "【国际快讯】大众集团 与国轩高科深化战略合作；丰田汽车8月在华销量同比大跌23%",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争"
       ]
     },
     {
@@ -549,13 +946,31 @@
       "url": "https://cnevpost.com/2026/09/30/china-nev-retail-sales-first-27-days-sept",
       "published_at": "2026-09-30T12:10:40Z",
       "first_seen_at": "2026-09-30T15:36:15.245108Z",
-      "last_seen_at": "2026-10-01T00:20:23.451373Z",
+      "last_seen_at": "2026-10-01T06:19:47.462338Z",
       "title_original": "China NEV retail sales fall 20% in first 27 days of September as decline deepens",
       "title_en": "China NEV retail sales fall 20% in first 27 days of September as decline deepens",
       "title_zh": null,
       "title_bilingual": "China NEV retail sales fall 20% in first 27 days of September as decline deepens",
       "topic_tags": [
         "新能源"
+      ]
+    },
+    {
+      "id": "6fbcd516e36c49b1e2b24901fbab69d1bcbfa14d",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-供应链",
+      "title": "圣戈班汽车玻璃芜湖服务中心投产，未来将建百万片级制造基地",
+      "url": "https://auto.gasgoo.com/news/202609/30I70473703C103.shtml",
+      "published_at": "2026-09-30T11:55:34Z",
+      "first_seen_at": "2026-10-01T06:19:47.462338Z",
+      "last_seen_at": "2026-10-01T06:19:47.462338Z",
+      "title_original": "圣戈班汽车玻璃芜湖服务中心投产，未来将建百万片级制造基地",
+      "title_en": null,
+      "title_zh": "圣戈班汽车玻璃芜湖服务中心投产，未来将建百万片级制造基地",
+      "title_bilingual": "圣戈班汽车玻璃芜湖服务中心投产，未来将建百万片级制造基地",
+      "topic_tags": [
+        "供应链"
       ]
     },
     {
@@ -567,7 +982,7 @@
       "url": "https://carnewschina.com/2026/09/30/second-gen-byd-seagull-revealed-massaged-drivers-seat-94l-frunk",
       "published_at": "2026-09-30T11:40:41Z",
       "first_seen_at": "2026-09-30T15:36:15.245108Z",
-      "last_seen_at": "2026-10-01T00:20:23.451373Z",
+      "last_seen_at": "2026-10-01T06:19:47.462338Z",
       "title_original": "Second-gen BYD Seagull revealed massaged driver’s seat & 94L frunk",
       "title_en": "Second-gen BYD Seagull revealed massaged driver’s seat & 94L frunk",
       "title_zh": null,
@@ -586,7 +1001,7 @@
       "url": "https://cnevpost.com/2026/09/30/aito-opens-pre-sales-updated-m8-suv",
       "published_at": "2026-09-30T11:28:07Z",
       "first_seen_at": "2026-09-30T15:36:15.245108Z",
-      "last_seen_at": "2026-10-01T00:20:23.451373Z",
+      "last_seen_at": "2026-10-01T06:19:47.462338Z",
       "title_original": "Aito opens pre-sales for updated M8 SUV as Seres and Huawei reshape partnership",
       "title_en": "Aito opens pre-sales for updated M8 SUV as Seres and Huawei reshape partnership",
       "title_zh": null,
@@ -594,6 +1009,78 @@
       "topic_tags": [
         "新能源",
         "新车上市"
+      ]
+    },
+    {
+      "id": "07a0c8ec31e4d6e01d47f52dff49151800a4ba2e",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "AI裁不掉的人，长什么样？",
+      "url": "https://auto.gasgoo.com/news/202609/30I70473697C108.shtml",
+      "published_at": "2026-09-30T11:04:53Z",
+      "first_seen_at": "2026-10-01T06:19:47.462338Z",
+      "last_seen_at": "2026-10-01T06:19:47.462338Z",
+      "title_original": "AI裁不掉的人，长什么样？",
+      "title_en": null,
+      "title_zh": "AI裁不掉的人，长什么样？",
+      "title_bilingual": "AI裁不掉的人，长什么样？",
+      "topic_tags": []
+    },
+    {
+      "id": "d786c5fb93fb2e862c052d994f1abeb722a0c4b9",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新能源",
+      "title": "中创新航与汉高联合创新中心在常州开幕",
+      "url": "https://auto.gasgoo.com/news/202609/30I70473696C501.shtml",
+      "published_at": "2026-09-30T10:08:05Z",
+      "first_seen_at": "2026-10-01T06:19:47.462338Z",
+      "last_seen_at": "2026-10-01T06:19:47.462338Z",
+      "title_original": "中创新航与汉高联合创新中心在常州开幕",
+      "title_en": null,
+      "title_zh": "中创新航与汉高联合创新中心在常州开幕",
+      "title_bilingual": "中创新航与汉高联合创新中心在常州开幕",
+      "topic_tags": [
+        "新能源"
+      ]
+    },
+    {
+      "id": "877893544010dd7b157f548b9f66ffd7ea68d251",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新能源",
+      "title": "蔚来NIO Power单日上线28座站点，全国累计充换电站达9492座",
+      "url": "https://auto.gasgoo.com/news/202609/30I70473695C501.shtml",
+      "published_at": "2026-09-30T10:03:39Z",
+      "first_seen_at": "2026-10-01T06:19:47.462338Z",
+      "last_seen_at": "2026-10-01T06:19:47.462338Z",
+      "title_original": "蔚来NIO Power单日上线28座站点，全国累计充换电站达9492座",
+      "title_en": null,
+      "title_zh": "蔚来NIO Power单日上线28座站点，全国累计充换电站达9492座",
+      "title_bilingual": "蔚来NIO Power单日上线28座站点，全国累计充换电站达9492座",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "cfa4b29e67e52e1ef0102ecd78b4a562c9c9ceaf",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-供应链",
+      "title": "Physical AI ，正在改写芯片产业分工",
+      "url": "https://auto.gasgoo.com/news/202609/30I70473623C601.shtml",
+      "published_at": "2026-09-30T09:13:59Z",
+      "first_seen_at": "2026-10-01T06:19:47.462338Z",
+      "last_seen_at": "2026-10-01T06:19:47.462338Z",
+      "title_original": "Physical AI ，正在改写芯片产业分工",
+      "title_en": null,
+      "title_zh": "Physical AI ，正在改写芯片产业分工",
+      "title_bilingual": "Physical AI ，正在改写芯片产业分工",
+      "topic_tags": [
+        "供应链"
       ]
     },
     {
@@ -605,7 +1092,7 @@
       "url": "https://www.dongchedi.com/article/7690769121046856216",
       "published_at": null,
       "first_seen_at": "2026-09-30T08:51:09.860988Z",
-      "last_seen_at": "2026-10-01T00:20:23.451373Z",
+      "last_seen_at": "2026-10-01T06:19:47.462338Z",
       "title_original": "改款的理想L6变化大吗",
       "title_en": null,
       "title_zh": "改款的理想L6变化大吗",
@@ -623,7 +1110,7 @@
       "url": "https://www.dongchedi.com/article/7690765649064362521",
       "published_at": null,
       "first_seen_at": "2026-09-30T08:51:09.860988Z",
-      "last_seen_at": "2026-10-01T00:20:23.451373Z",
+      "last_seen_at": "2026-10-01T06:19:47.462338Z",
       "title_original": "四款新能源紧凑型SUV商品性横评",
       "title_en": null,
       "title_zh": "四款新能源紧凑型SUV商品性横评",
@@ -642,50 +1129,13 @@
       "url": "https://auto.gasgoo.com/news/202609/30I70473646C109.shtml",
       "published_at": "2026-09-30T07:09:25Z",
       "first_seen_at": "2026-10-01T00:20:23.451373Z",
-      "last_seen_at": "2026-10-01T00:20:23.451373Z",
+      "last_seen_at": "2026-10-01T06:19:47.462338Z",
       "title_original": "中国车企开始向欧洲巨头“卖碳”了",
       "title_en": null,
       "title_zh": "中国车企开始向欧洲巨头“卖碳”了",
       "title_bilingual": "中国车企开始向欧洲巨头“卖碳”了",
       "topic_tags": [
         "车企竞争"
-      ]
-    },
-    {
-      "id": "b25e03fd68a1018c3280ba8180027cc693c3e57b",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "BYD expects Formula S series sales to reach 15,000 units monthly",
-      "url": "https://carnewschina.com/2026/09/30/byd-expects-formula-s-series-sales-to-reach-15000-units-monthly",
-      "published_at": "2026-09-30T04:20:33Z",
-      "first_seen_at": "2026-09-30T08:51:09.860988Z",
-      "last_seen_at": "2026-10-01T00:20:23.451373Z",
-      "title_original": "BYD expects Formula S series sales to reach 15,000 units monthly",
-      "title_en": "BYD expects Formula S series sales to reach 15,000 units monthly",
-      "title_zh": null,
-      "title_bilingual": "BYD expects Formula S series sales to reach 15,000 units monthly",
-      "topic_tags": [
-        "新能源",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "c48f8dba6cd0501e5b2c9af455ce81c7eb1be887",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Seres and CATL-backed Aiva unveils ME7 in Paris",
-      "url": "https://carnewschina.com/2026/09/30/seres-and-catl-backed-aiva-unveils-me7-in-paris",
-      "published_at": "2026-09-30T00:51:59Z",
-      "first_seen_at": "2026-09-30T02:16:19.967107Z",
-      "last_seen_at": "2026-10-01T00:20:23.451373Z",
-      "title_original": "Seres and CATL-backed Aiva unveils ME7 in Paris",
-      "title_en": "Seres and CATL-backed Aiva unveils ME7 in Paris",
-      "title_zh": null,
-      "title_bilingual": "Seres and CATL-backed Aiva unveils ME7 in Paris",
-      "topic_tags": [
-        "新能源"
       ]
     }
   ],
