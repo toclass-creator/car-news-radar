@@ -1,54 +1,54 @@
 {
-  "generated_at": "2026-10-02T08:49:24.406399Z",
+  "generated_at": "2026-10-02T15:21:50.618789Z",
   "window_hours": 24,
-  "total_items": 19,
-  "total_items_ai_raw": 19,
-  "total_items_raw": 2311,
-  "total_items_all_mode": 2116,
+  "total_items": 27,
+  "total_items_ai_raw": 28,
+  "total_items_raw": 2200,
+  "total_items_all_mode": 2017,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 56892,
+  "archive_total": 56383,
   "site_count": 3,
-  "source_count": 6,
+  "source_count": 8,
   "site_stats": [
-    {
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "count": 9,
-      "raw_count": 2167
-    },
     {
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "count": 9,
-      "raw_count": 9
+      "count": 17,
+      "raw_count": 18
+    },
+    {
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "count": 8,
+      "raw_count": 2067
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
-      "count": 1,
-      "raw_count": 135
+      "count": 2,
+      "raw_count": 115
     }
   ],
   "topic_tag_stats": [
     {
-      "tag": "新能源",
-      "count": 11
-    },
-    {
       "tag": "车企竞争",
-      "count": 10
+      "count": 17
     },
     {
       "tag": "销量市场",
-      "count": 8
+      "count": 16
+    },
+    {
+      "tag": "新能源",
+      "count": 7
     },
     {
       "tag": "购车决策",
       "count": 4
     },
     {
-      "tag": "供应链",
-      "count": 1
+      "tag": "补能电池",
+      "count": 3
     },
     {
       "tag": "新车上市",
@@ -57,13 +57,89 @@
     {
       "tag": "智能驾驶",
       "count": 1
-    },
-    {
-      "tag": "补能电池",
-      "count": 1
     }
   ],
   "items": [
+    {
+      "id": "807325102496a92d87de82b0c573d6e6a0f5701e",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "juejin",
+      "title": "GitHub 今日推荐｜DiPlay：让 iPhone CarPlay 直连 BYD 车机，无需硬件适配器",
+      "url": "https://juejin.cn/post/7691151105850310694",
+      "published_at": "2026-10-02T15:03:27.759000Z",
+      "first_seen_at": "2026-10-02T15:21:50.618789Z",
+      "last_seen_at": "2026-10-02T15:21:50.618789Z",
+      "title_original": "GitHub 今日推荐｜DiPlay：让 iPhone CarPlay 直连 BYD 车机，无需硬件适配器",
+      "title_en": null,
+      "title_zh": "GitHub 今日推荐｜DiPlay：让 iPhone CarPlay 直连 BYD 车机，无需硬件适配器",
+      "title_bilingual": "GitHub 今日推荐｜DiPlay：让 iPhone CarPlay 直连 BYD 车机，无需硬件适配器",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "85e2fb7ced96ba73292fd049f1e861a63687b05f",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Global EV battery market share in January-August 2026: CATL 39.4%, BYD 15.1%",
+      "url": "https://cnevpost.com/2026/10/02/global-ev-battery-market-share-jan-aug-2026",
+      "published_at": "2026-10-02T14:18:56Z",
+      "first_seen_at": "2026-10-02T15:21:50.618789Z",
+      "last_seen_at": "2026-10-02T15:21:50.618789Z",
+      "title_original": "Global EV battery market share in January-August 2026: CATL 39.4%, BYD 15.1%",
+      "title_en": "Global EV battery market share in January-August 2026: CATL 39.4%, BYD 15.1%",
+      "title_zh": "2026年1-8月全球电动汽车电池市场份额：宁德时代39.4%、比亚迪15.1%",
+      "title_bilingual": "2026年1-8月全球电动汽车电池市场份额：宁德时代39.4%、比亚迪15.1% / Global EV battery market share in January-August 2026: CATL 39.4%, BYD 15.1%",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "bf5ef08ab99fe689d1a27617471ef99e54b47322",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Tesla beats Q3 delivery expectations but falls further behind BYD in BEV sales",
+      "url": "https://cnevpost.com/2026/10/02/tesla-q3-delivery-byd-bev-sales",
+      "published_at": "2026-10-02T13:33:22Z",
+      "first_seen_at": "2026-10-02T15:21:50.618789Z",
+      "last_seen_at": "2026-10-02T15:21:50.618789Z",
+      "title_original": "Tesla beats Q3 delivery expectations but falls further behind BYD in BEV sales",
+      "title_en": "Tesla beats Q3 delivery expectations but falls further behind BYD in BEV sales",
+      "title_zh": "特斯拉第三季度交付超出预期，但纯电动汽车销量进一步落后于比亚迪",
+      "title_bilingual": "特斯拉第三季度交付超出预期，但纯电动汽车销量进一步落后于比亚迪 / Tesla beats Q3 delivery expectations but falls further behind BYD in BEV sales",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "963d9433efba6869aa0f5805c00c889943418f86",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Volkswagen ID. Aura T6 began deliveries in China with 660 km of range",
+      "url": "https://carnewschina.com/2026/10/02/volkswagen-id-aura-t6-began-deliveries-in-china-with-660-km-of-range",
+      "published_at": "2026-10-02T09:49:40Z",
+      "first_seen_at": "2026-10-02T15:21:50.618789Z",
+      "last_seen_at": "2026-10-02T15:21:50.618789Z",
+      "title_original": "Volkswagen ID. Aura T6 began deliveries in China with 660 km of range",
+      "title_en": "Volkswagen ID. Aura T6 began deliveries in China with 660 km of range",
+      "title_zh": "大众汽车 ID。 Aura T6开始在中国交付，续航里程为660公里",
+      "title_bilingual": "大众汽车 ID。 Aura T6开始在中国交付，续航里程为660公里 / Volkswagen ID. Aura T6 began deliveries in China with 660 km of range",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "销量市场",
+        "车企竞争"
+      ]
+    },
     {
       "id": "902708e85fe5165dd467557b4c83f93c0d49466b",
       "site_id": "tophub",
@@ -73,7 +149,7 @@
       "url": "https://www.dongchedi.com/article/7691510950487622206",
       "published_at": null,
       "first_seen_at": "2026-10-02T08:49:24.406399Z",
-      "last_seen_at": "2026-10-02T08:49:24.406399Z",
+      "last_seen_at": "2026-10-02T15:21:50.618789Z",
       "title_original": "市区代步好选择 四款8万以内纯电动车推荐",
       "title_en": null,
       "title_zh": "市区代步好选择 四款8万以内纯电动车推荐",
@@ -91,7 +167,7 @@
       "url": "https://juejin.cn/post/7690841638806421538",
       "published_at": "2026-10-02T08:37:45.016000Z",
       "first_seen_at": "2026-10-02T08:49:24.406399Z",
-      "last_seen_at": "2026-10-02T08:49:24.406399Z",
+      "last_seen_at": "2026-10-02T15:21:50.618789Z",
       "title_original": "3 个 AI Agent 交付一个企业项目：4 人团队 2 个月，我 3 周做完",
       "title_en": null,
       "title_zh": "3 个 AI Agent 交付一个企业项目：4 人团队 2 个月，我 3 周做完",
@@ -109,7 +185,7 @@
       "url": "https://carnewschina.com/2026/10/02/what-to-expect-from-chinese-car-brands-at-the-paris-auto-show-2026",
       "published_at": "2026-10-02T07:18:04Z",
       "first_seen_at": "2026-10-02T08:49:24.406399Z",
-      "last_seen_at": "2026-10-02T08:49:24.406399Z",
+      "last_seen_at": "2026-10-02T15:21:50.618789Z",
       "title_original": "What to expect from Chinese car brands at the Paris Auto Show 2026",
       "title_en": "What to expect from Chinese car brands at the Paris Auto Show 2026",
       "title_zh": "中国汽车品牌对2026年巴黎车展有何期待",
@@ -117,6 +193,136 @@
       "topic_tags": [
         "新能源",
         "新车上市"
+      ]
+    },
+    {
+      "id": "f4855b2882a84afbe8f0c52c4119d5b0285aaa91",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-销量",
+      "title": "阿维塔9月交付量达8,183辆",
+      "url": "https://auto.gasgoo.com/news/202610/1I70473861C110.shtml",
+      "published_at": "2026-10-01T21:20:43Z",
+      "first_seen_at": "2026-10-02T15:21:50.618789Z",
+      "last_seen_at": "2026-10-02T15:21:50.618789Z",
+      "title_original": "阿维塔9月交付量达8,183辆",
+      "title_en": null,
+      "title_zh": "阿维塔9月交付量达8,183辆",
+      "title_bilingual": "阿维塔9月交付量达8,183辆",
+      "topic_tags": [
+        "销量市场"
+      ]
+    },
+    {
+      "id": "290b906421233c02e808180b1172ed5f8818ae34",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-销量",
+      "title": "深蓝汽车9月销量超3万辆，前三季度累计同比增长8.59%",
+      "url": "https://auto.gasgoo.com/news/202610/1I70473859C110.shtml",
+      "published_at": "2026-10-01T21:15:44Z",
+      "first_seen_at": "2026-10-02T15:21:50.618789Z",
+      "last_seen_at": "2026-10-02T15:21:50.618789Z",
+      "title_original": "深蓝汽车9月销量超3万辆，前三季度累计同比增长8.59%",
+      "title_en": null,
+      "title_zh": "深蓝汽车9月销量超3万辆，前三季度累计同比增长8.59%",
+      "title_bilingual": "深蓝汽车9月销量超3万辆，前三季度累计同比增长8.59%",
+      "topic_tags": [
+        "销量市场"
+      ]
+    },
+    {
+      "id": "605e2d4efd6c670f3c4a012316b6c6172d2fe87f",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-销量",
+      "title": "极氪9月交付数据出炉：单月交付37,216辆，同比增长103.85%",
+      "url": "https://auto.gasgoo.com/news/202610/1I70473858C110.shtml",
+      "published_at": "2026-10-01T21:11:58Z",
+      "first_seen_at": "2026-10-02T15:21:50.618789Z",
+      "last_seen_at": "2026-10-02T15:21:50.618789Z",
+      "title_original": "极氪9月交付数据出炉：单月交付37,216辆，同比增长103.85%",
+      "title_en": null,
+      "title_zh": "极氪9月交付数据出炉：单月交付37,216辆，同比增长103.85%",
+      "title_bilingual": "极氪9月交付数据出炉：单月交付37,216辆，同比增长103.85%",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "0c99dd009e7978738b2e5eec9f80e1eb30fb3297",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-销量",
+      "title": "理想汽车9月交付31,817辆 历史累计交付达1,833,651辆",
+      "url": "https://auto.gasgoo.com/news/202610/1I70473857C110.shtml",
+      "published_at": "2026-10-01T21:06:27Z",
+      "first_seen_at": "2026-10-02T15:21:50.618789Z",
+      "last_seen_at": "2026-10-02T15:21:50.618789Z",
+      "title_original": "理想汽车9月交付31,817辆 历史累计交付达1,833,651辆",
+      "title_en": null,
+      "title_zh": "理想汽车9月交付31,817辆 历史累计交付达1,833,651辆",
+      "title_bilingual": "理想汽车9月交付31,817辆 历史累计交付达1,833,651辆",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "7b9bf112ac98fddeb0dc7bbf9cec9bd26b8ff4c0",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-销量",
+      "title": "比亚迪9月销量达46.3万辆，海外市场同比大增153.9%",
+      "url": "https://auto.gasgoo.com/news/202610/1I70473856C110.shtml",
+      "published_at": "2026-10-01T21:01:44Z",
+      "first_seen_at": "2026-10-02T15:21:50.618789Z",
+      "last_seen_at": "2026-10-02T15:21:50.618789Z",
+      "title_original": "比亚迪9月销量达46.3万辆，海外市场同比大增153.9%",
+      "title_en": null,
+      "title_zh": "比亚迪9月销量达46.3万辆，海外市场同比大增153.9%",
+      "title_bilingual": "比亚迪9月销量达46.3万辆，海外市场同比大增153.9%",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "1ae836e92f5c5b067ef08d2c537bcc3a4c5c83cf",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-销量",
+      "title": "领克9月销量达18,493台，新能源占比创新高",
+      "url": "https://auto.gasgoo.com/news/202610/1I70473855C110.shtml",
+      "published_at": "2026-10-01T20:23:21Z",
+      "first_seen_at": "2026-10-02T15:21:50.618789Z",
+      "last_seen_at": "2026-10-02T15:21:50.618789Z",
+      "title_original": "领克9月销量达18,493台，新能源占比创新高",
+      "title_en": null,
+      "title_zh": "领克9月销量达18,493台，新能源占比创新高",
+      "title_bilingual": "领克9月销量达18,493台，新能源占比创新高",
+      "topic_tags": [
+        "新能源",
+        "销量市场"
+      ]
+    },
+    {
+      "id": "f63f14548617379309728d89483d040d4618d111",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "华为和赛力斯的合作，又有新进展？",
+      "url": "https://auto.gasgoo.com/news/202610/1I70473854C109.shtml",
+      "published_at": "2026-10-01T19:55:04Z",
+      "first_seen_at": "2026-10-02T15:21:50.618789Z",
+      "last_seen_at": "2026-10-02T15:21:50.618789Z",
+      "title_original": "华为和赛力斯的合作，又有新进展？",
+      "title_en": null,
+      "title_zh": "华为和赛力斯的合作，又有新进展？",
+      "title_bilingual": "华为和赛力斯的合作，又有新进展？",
+      "topic_tags": [
+        "车企竞争"
       ]
     },
     {
@@ -128,7 +334,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/8b9217154f558f98/116269454-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-01T19:15:31.663030Z",
-      "last_seen_at": "2026-10-02T08:49:24.406399Z",
+      "last_seen_at": "2026-10-02T15:21:50.618789Z",
       "title_original": "最高1100km续航 腾势Z9S怎么选？",
       "title_en": null,
       "title_zh": "最高1100km续航 腾势Z9S怎么选？",
@@ -146,7 +352,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/a574b6fbcc3e9fc5/116198725-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-01T19:15:31.663030Z",
-      "last_seen_at": "2026-10-02T08:49:24.406399Z",
+      "last_seen_at": "2026-10-02T15:21:50.618789Z",
       "title_original": "家用有面子 极氪8X提车作业分享",
       "title_en": null,
       "title_zh": "家用有面子 极氪8X提车作业分享",
@@ -165,7 +371,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/e0fecde88babfe21/116190154-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-01T19:15:31.663030Z",
-      "last_seen_at": "2026-10-02T08:49:24.406399Z",
+      "last_seen_at": "2026-10-02T15:21:50.618789Z",
       "title_original": "外观造型很大气 问界M6提车作业分享",
       "title_en": null,
       "title_zh": "外观造型很大气 问界M6提车作业分享",
@@ -184,7 +390,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/393bcd53ef287875/116165644-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-01T19:15:31.663030Z",
-      "last_seen_at": "2026-10-02T08:49:24.406399Z",
+      "last_seen_at": "2026-10-02T15:21:50.618789Z",
       "title_original": "舒适性不错 零跑D19提车作业分享",
       "title_en": null,
       "title_zh": "舒适性不错 零跑D19提车作业分享",
@@ -203,7 +409,7 @@
       "url": "http://vc.yiche.com/vplay/13420220.html",
       "published_at": null,
       "first_seen_at": "2026-10-01T19:15:31.663030Z",
-      "last_seen_at": "2026-10-02T08:49:24.406399Z",
+      "last_seen_at": "2026-10-02T15:21:50.618789Z",
       "title_original": "25.99万，凯迪拉克这次把混动的遮羞布给掀了",
       "title_en": null,
       "title_zh": "25.99万，凯迪拉克这次把混动的遮羞布给掀了",
@@ -221,7 +427,7 @@
       "url": "http://vc.yiche.com/vplay/13432708.html",
       "published_at": null,
       "first_seen_at": "2026-10-01T19:15:31.663030Z",
-      "last_seen_at": "2026-10-02T08:49:24.406399Z",
+      "last_seen_at": "2026-10-02T15:21:50.618789Z",
       "title_original": "体验2027款吉利博越，外观调整 配置升级，十万元左右家用挺合适",
       "title_en": null,
       "title_zh": "体验2027款吉利博越，外观调整 配置升级，十万元左右家用挺合适",
@@ -240,7 +446,7 @@
       "url": "http://vc.yiche.com/vplay/13426940.html",
       "published_at": null,
       "first_seen_at": "2026-10-01T19:15:31.663030Z",
-      "last_seen_at": "2026-10-02T08:49:24.406399Z",
+      "last_seen_at": "2026-10-02T15:21:50.618789Z",
       "title_original": "15万级带激光雷达，深蓝S07智能辅助驾驶真能跑明白重庆？",
       "title_en": null,
       "title_zh": "15万级带激光雷达，深蓝S07智能辅助驾驶真能跑明白重庆？",
@@ -250,183 +456,201 @@
       ]
     },
     {
-      "id": "8891a9d4bc097448d3df49d7ae0511c15c05e7f0",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "懂车帝 · 文章排行榜",
-      "title": "赔给吉利6个亿，越卖越亏的欣旺达，凭什么让小米理想抢着买单？",
-      "url": "https://www.dongchedi.com/article/7691218992372220440",
-      "published_at": null,
-      "first_seen_at": "2026-10-01T13:42:46.675637Z",
-      "last_seen_at": "2026-10-02T08:49:24.406399Z",
-      "title_original": "赔给吉利6个亿，越卖越亏的欣旺达，凭什么让小米理想抢着买单？",
+      "id": "8a67a061ea0fef7061b742a1d25475974af9563e",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-销量",
+      "title": "小鹏9月交付41,256台 全球化、智能化进程持续提速",
+      "url": "https://auto.gasgoo.com/news/202610/1I70473849C110.shtml",
+      "published_at": "2026-10-01T19:15:30Z",
+      "first_seen_at": "2026-10-02T15:21:50.618789Z",
+      "last_seen_at": "2026-10-02T15:21:50.618789Z",
+      "title_original": "小鹏9月交付41,256台 全球化、智能化进程持续提速",
       "title_en": null,
-      "title_zh": "赔给吉利6个亿，越卖越亏的欣旺达，凭什么让小米理想抢着买单？",
-      "title_bilingual": "赔给吉利6个亿，越卖越亏的欣旺达，凭什么让小米理想抢着买单？",
+      "title_zh": "小鹏9月交付41,256台 全球化、智能化进程持续提速",
+      "title_bilingual": "小鹏9月交付41,256台 全球化、智能化进程持续提速",
       "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "5c761ed26c2e4801a760838f821bd070af62ff3e",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "GWM September sales fall 14% in steepest drop this year as domestic slump deepens",
-      "url": "https://cnevpost.com/2026/10/01/gwm-sept-2026-sales",
-      "published_at": "2026-10-01T12:50:38Z",
-      "first_seen_at": "2026-10-01T13:42:46.675637Z",
-      "last_seen_at": "2026-10-02T08:49:24.406399Z",
-      "title_original": "GWM September sales fall 14% in steepest drop this year as domestic slump deepens",
-      "title_en": "GWM September sales fall 14% in steepest drop this year as domestic slump deepens",
-      "title_zh": "国内经济衰退加剧 长城汽车9月销量跌14%创今年最大跌幅",
-      "title_bilingual": "国内经济衰退加剧 长城汽车9月销量跌14%创今年最大跌幅 / GWM September sales fall 14% in steepest drop this year as domestic slump deepens",
-      "topic_tags": [
-        "新能源",
         "销量市场",
         "车企竞争"
       ]
     },
     {
-      "id": "ea2b4c1fa9fae4aefb934ef84c3535cd40224eb9",
+      "id": "2461018ad30e4447eb6d4e2750b83772338d8e52",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Geely September sales rise 7% to 2026 high as record export streak ends",
-      "url": "https://cnevpost.com/2026/10/01/geely-sept-2026-sales",
-      "published_at": "2026-10-01T12:29:42Z",
-      "first_seen_at": "2026-10-01T13:42:46.675637Z",
-      "last_seen_at": "2026-10-02T08:49:24.406399Z",
-      "title_original": "Geely September sales rise 7% to 2026 high as record export streak ends",
-      "title_en": "Geely September sales rise 7% to 2026 high as record export streak ends",
-      "title_zh": "吉利9月销量增长7%创2026年新高 创纪录的出口记录结束",
-      "title_bilingual": "吉利9月销量增长7%创2026年新高 创纪录的出口记录结束 / Geely September sales rise 7% to 2026 high as record export streak ends",
+      "source": "盖世汽车-销量",
+      "title": "蔚来汽车9月交付3.74万台，前三季度累计交付超30万台",
+      "url": "https://auto.gasgoo.com/news/202610/1I70473847C110.shtml",
+      "published_at": "2026-10-01T19:04:08Z",
+      "first_seen_at": "2026-10-02T15:21:50.618789Z",
+      "last_seen_at": "2026-10-02T15:21:50.618789Z",
+      "title_original": "蔚来汽车9月交付3.74万台，前三季度累计交付超30万台",
+      "title_en": null,
+      "title_zh": "蔚来汽车9月交付3.74万台，前三季度累计交付超30万台",
+      "title_bilingual": "蔚来汽车9月交付3.74万台，前三季度累计交付超30万台",
       "topic_tags": [
-        "新能源",
         "销量市场",
         "车企竞争"
       ]
     },
     {
-      "id": "c886b38bb83fbe474058ffe915d875c36e1e526c",
+      "id": "36c4cc6c84e6500226d7254dc01812da6ddf88ae",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Chinese NEV sales rankings in September 2026: BYD, Leapmotor, Changan Nevo",
-      "url": "https://carnewschina.com/2026/10/01/chinese-nev-sales-rankings-in-september-2026-byd-leapmotor-changan-nevo",
-      "published_at": "2026-10-01T12:13:30Z",
-      "first_seen_at": "2026-10-01T13:42:46.675637Z",
-      "last_seen_at": "2026-10-02T02:25:59.566163Z",
-      "title_original": "Chinese NEV sales rankings in September 2026: BYD, Leapmotor, Changan Nevo",
-      "title_en": "Chinese NEV sales rankings in September 2026: BYD, Leapmotor, Changan Nevo",
-      "title_zh": "2026年9月中国新能源汽车销量排名：比亚迪、零跑、长安NEVO",
-      "title_bilingual": "2026年9月中国新能源汽车销量排名：比亚迪、零跑、长安NEVO / Chinese NEV sales rankings in September 2026: BYD, Leapmotor, Changan Nevo",
+      "source": "盖世汽车-销量",
+      "title": "小米汽车9月交付超4万台",
+      "url": "https://auto.gasgoo.com/news/202610/1I70473841C110.shtml",
+      "published_at": "2026-10-01T18:53:55Z",
+      "first_seen_at": "2026-10-02T15:21:50.618789Z",
+      "last_seen_at": "2026-10-02T15:21:50.618789Z",
+      "title_original": "小米汽车9月交付超4万台",
+      "title_en": null,
+      "title_zh": "小米汽车9月交付超4万台",
+      "title_bilingual": "小米汽车9月交付超4万台",
       "topic_tags": [
-        "新能源",
         "销量市场",
         "车企竞争"
       ]
     },
     {
-      "id": "def52a7ac5a1f5209178aa3afc964c1006c754d5",
+      "id": "49dfc10fa111dd6a74d3cfb1e5b544b69e207f4e",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Chinese NEV sales rankings in September 2026: BYD, Geely Galaxy, Leapmotor",
-      "url": "https://carnewschina.com/2026/10/01/chinese-nev-sales-rankings-in-september-2026-byd-leapmotor-changan-nevo",
-      "published_at": "2026-10-01T12:13:30Z",
-      "first_seen_at": "2026-10-02T08:49:24.406399Z",
-      "last_seen_at": "2026-10-02T08:49:24.406399Z",
-      "title_original": "Chinese NEV sales rankings in September 2026: BYD, Geely Galaxy, Leapmotor",
-      "title_en": "Chinese NEV sales rankings in September 2026: BYD, Geely Galaxy, Leapmotor",
-      "title_zh": "2026年9月中国新能源汽车销量排名：比亚迪、吉利银河、零跑汽车",
-      "title_bilingual": "2026年9月中国新能源汽车销量排名：比亚迪、吉利银河、零跑汽车 / Chinese NEV sales rankings in September 2026: BYD, Geely Galaxy, Leapmotor",
+      "source": "盖世汽车-销量",
+      "title": "极狐汽车9月销量达21,518台，前三季度累计交付超13.5万台",
+      "url": "https://auto.gasgoo.com/news/202610/1I70473840C110.shtml",
+      "published_at": "2026-10-01T18:45:00Z",
+      "first_seen_at": "2026-10-02T15:21:50.618789Z",
+      "last_seen_at": "2026-10-02T15:21:50.618789Z",
+      "title_original": "极狐汽车9月销量达21,518台，前三季度累计交付超13.5万台",
+      "title_en": null,
+      "title_zh": "极狐汽车9月销量达21,518台，前三季度累计交付超13.5万台",
+      "title_bilingual": "极狐汽车9月销量达21,518台，前三季度累计交付超13.5万台",
       "topic_tags": [
-        "新能源",
-        "销量市场",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "e656fad4b0e306f6ddb3bd81462ea33ced40d6e9",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Huawei, Seres sign new 5-year deal to upgrade Aito business",
-      "url": "https://cnevpost.com/2026/10/01/huawei-seres-sign-5-year-deal-upgrade-aito",
-      "published_at": "2026-10-01T11:46:03Z",
-      "first_seen_at": "2026-10-01T13:42:46.675637Z",
-      "last_seen_at": "2026-10-02T08:49:24.406399Z",
-      "title_original": "Huawei, Seres sign new 5-year deal to upgrade Aito business",
-      "title_en": "Huawei, Seres sign new 5-year deal to upgrade Aito business",
-      "title_zh": "华为与Seres签署新的5年协议以升级Aito业务",
-      "title_bilingual": "华为与Seres签署新的5年协议以升级Aito业务 / Huawei, Seres sign new 5-year deal to upgrade Aito business",
-      "topic_tags": [
-        "新能源"
-      ]
-    },
-    {
-      "id": "47417b493722bb1b4b314674c36e3a47c738e19b",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "BYD September sales rise 16.98% to 463,561, hitting new high for 2026",
-      "url": "https://cnevpost.com/2026/10/01/byd-sept-2026-sales",
-      "published_at": "2026-10-01T10:51:22Z",
-      "first_seen_at": "2026-10-01T13:42:46.675637Z",
-      "last_seen_at": "2026-10-02T08:49:24.406399Z",
-      "title_original": "BYD September sales rise 16.98% to 463,561, hitting new high for 2026",
-      "title_en": "BYD September sales rise 16.98% to 463,561, hitting new high for 2026",
-      "title_zh": "比亚迪9月销量增长16.98%至463,561辆，创2026年新高",
-      "title_bilingual": "比亚迪9月销量增长16.98%至463,561辆，创2026年新高 / BYD September sales rise 16.98% to 463,561, hitting new high for 2026",
-      "topic_tags": [
-        "新能源",
-        "销量市场",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "919ebbabc542e2be82512fcc0c8f1a35a3963016",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Roundup: September 2026 deliveries by major Chinese automakers",
-      "url": "https://cnevpost.com/2026/10/01/roundup-sept-2026-deliveries-china-automakers",
-      "published_at": "2026-10-01T10:16:45Z",
-      "first_seen_at": "2026-10-01T13:42:46.675637Z",
-      "last_seen_at": "2026-10-02T08:49:24.406399Z",
-      "title_original": "Roundup: September 2026 deliveries by major Chinese automakers",
-      "title_en": "Roundup: September 2026 deliveries by major Chinese automakers",
-      "title_zh": "综述：2026 年 9 月中国主要汽车制造商的交付量",
-      "title_bilingual": "综述：2026 年 9 月中国主要汽车制造商的交付量 / Roundup: September 2026 deliveries by major Chinese automakers",
-      "topic_tags": [
-        "新能源",
-        "销量市场",
-        "供应链"
-      ]
-    },
-    {
-      "id": "5553e5a9af385c7c8c39582a9160a9017cc38ef1",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Huawei HIMA delivers 37,490 vehicles in September, extending year-on-year decline to fourth month",
-      "url": "https://cnevpost.com/2026/10/01/huawei-hima-sept-2026-deliveries",
-      "published_at": "2026-10-01T09:16:27Z",
-      "first_seen_at": "2026-10-01T13:42:46.675637Z",
-      "last_seen_at": "2026-10-02T08:49:24.406399Z",
-      "title_original": "Huawei HIMA delivers 37,490 vehicles in September, extending year-on-year decline to fourth month",
-      "title_en": "Huawei HIMA delivers 37,490 vehicles in September, extending year-on-year decline to fourth month",
-      "title_zh": "华为HIMA 9月交付37,490辆 同比跌幅延续至第四个月",
-      "title_bilingual": "华为HIMA 9月交付37,490辆 同比跌幅延续至第四个月 / Huawei HIMA delivers 37,490 vehicles in September, extending year-on-year decline to fourth month",
-      "topic_tags": [
-        "新能源",
         "销量市场"
+      ]
+    },
+    {
+      "id": "8b296b831cc0bd068d5993ef6006393ca3881297",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-销量",
+      "title": "鸿蒙智行9月交付37490台，累计交付破156万台",
+      "url": "https://auto.gasgoo.com/news/202610/1I70473839C110.shtml",
+      "published_at": "2026-10-01T18:39:43Z",
+      "first_seen_at": "2026-10-02T15:21:50.618789Z",
+      "last_seen_at": "2026-10-02T15:21:50.618789Z",
+      "title_original": "鸿蒙智行9月交付37490台，累计交付破156万台",
+      "title_en": null,
+      "title_zh": "鸿蒙智行9月交付37490台，累计交付破156万台",
+      "title_bilingual": "鸿蒙智行9月交付37490台，累计交付破156万台",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "6da1a459d0f408790ba8f5347a7c871f2a81acc3",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-销量",
+      "title": "零跑汽车9月销量再超10万台，全球交付105,656台",
+      "url": "https://auto.gasgoo.com/news/202610/1I70473838C110.shtml",
+      "published_at": "2026-10-01T18:18:44Z",
+      "first_seen_at": "2026-10-02T15:21:50.618789Z",
+      "last_seen_at": "2026-10-02T15:21:50.618789Z",
+      "title_original": "零跑汽车9月销量再超10万台，全球交付105,656台",
+      "title_en": null,
+      "title_zh": "零跑汽车9月销量再超10万台，全球交付105,656台",
+      "title_bilingual": "零跑汽车9月销量再超10万台，全球交付105,656台",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争"
       ]
     }
   ],
   "items_ai": [
     {
+      "id": "807325102496a92d87de82b0c573d6e6a0f5701e",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "juejin",
+      "title": "GitHub 今日推荐｜DiPlay：让 iPhone CarPlay 直连 BYD 车机，无需硬件适配器",
+      "url": "https://juejin.cn/post/7691151105850310694",
+      "published_at": "2026-10-02T15:03:27.759000Z",
+      "first_seen_at": "2026-10-02T15:21:50.618789Z",
+      "last_seen_at": "2026-10-02T15:21:50.618789Z",
+      "title_original": "GitHub 今日推荐｜DiPlay：让 iPhone CarPlay 直连 BYD 车机，无需硬件适配器",
+      "title_en": null,
+      "title_zh": "GitHub 今日推荐｜DiPlay：让 iPhone CarPlay 直连 BYD 车机，无需硬件适配器",
+      "title_bilingual": "GitHub 今日推荐｜DiPlay：让 iPhone CarPlay 直连 BYD 车机，无需硬件适配器",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "85e2fb7ced96ba73292fd049f1e861a63687b05f",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Global EV battery market share in January-August 2026: CATL 39.4%, BYD 15.1%",
+      "url": "https://cnevpost.com/2026/10/02/global-ev-battery-market-share-jan-aug-2026",
+      "published_at": "2026-10-02T14:18:56Z",
+      "first_seen_at": "2026-10-02T15:21:50.618789Z",
+      "last_seen_at": "2026-10-02T15:21:50.618789Z",
+      "title_original": "Global EV battery market share in January-August 2026: CATL 39.4%, BYD 15.1%",
+      "title_en": "Global EV battery market share in January-August 2026: CATL 39.4%, BYD 15.1%",
+      "title_zh": "2026年1-8月全球电动汽车电池市场份额：宁德时代39.4%、比亚迪15.1%",
+      "title_bilingual": "2026年1-8月全球电动汽车电池市场份额：宁德时代39.4%、比亚迪15.1% / Global EV battery market share in January-August 2026: CATL 39.4%, BYD 15.1%",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "bf5ef08ab99fe689d1a27617471ef99e54b47322",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Tesla beats Q3 delivery expectations but falls further behind BYD in BEV sales",
+      "url": "https://cnevpost.com/2026/10/02/tesla-q3-delivery-byd-bev-sales",
+      "published_at": "2026-10-02T13:33:22Z",
+      "first_seen_at": "2026-10-02T15:21:50.618789Z",
+      "last_seen_at": "2026-10-02T15:21:50.618789Z",
+      "title_original": "Tesla beats Q3 delivery expectations but falls further behind BYD in BEV sales",
+      "title_en": "Tesla beats Q3 delivery expectations but falls further behind BYD in BEV sales",
+      "title_zh": "特斯拉第三季度交付超出预期，但纯电动汽车销量进一步落后于比亚迪",
+      "title_bilingual": "特斯拉第三季度交付超出预期，但纯电动汽车销量进一步落后于比亚迪 / Tesla beats Q3 delivery expectations but falls further behind BYD in BEV sales",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "963d9433efba6869aa0f5805c00c889943418f86",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Volkswagen ID. Aura T6 began deliveries in China with 660 km of range",
+      "url": "https://carnewschina.com/2026/10/02/volkswagen-id-aura-t6-began-deliveries-in-china-with-660-km-of-range",
+      "published_at": "2026-10-02T09:49:40Z",
+      "first_seen_at": "2026-10-02T15:21:50.618789Z",
+      "last_seen_at": "2026-10-02T15:21:50.618789Z",
+      "title_original": "Volkswagen ID. Aura T6 began deliveries in China with 660 km of range",
+      "title_en": "Volkswagen ID. Aura T6 began deliveries in China with 660 km of range",
+      "title_zh": "大众汽车 ID。 Aura T6开始在中国交付，续航里程为660公里",
+      "title_bilingual": "大众汽车 ID。 Aura T6开始在中国交付，续航里程为660公里 / Volkswagen ID. Aura T6 began deliveries in China with 660 km of range",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
       "id": "902708e85fe5165dd467557b4c83f93c0d49466b",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -435,7 +659,7 @@
       "url": "https://www.dongchedi.com/article/7691510950487622206",
       "published_at": null,
       "first_seen_at": "2026-10-02T08:49:24.406399Z",
-      "last_seen_at": "2026-10-02T08:49:24.406399Z",
+      "last_seen_at": "2026-10-02T15:21:50.618789Z",
       "title_original": "市区代步好选择 四款8万以内纯电动车推荐",
       "title_en": null,
       "title_zh": "市区代步好选择 四款8万以内纯电动车推荐",
@@ -453,7 +677,7 @@
       "url": "https://juejin.cn/post/7690841638806421538",
       "published_at": "2026-10-02T08:37:45.016000Z",
       "first_seen_at": "2026-10-02T08:49:24.406399Z",
-      "last_seen_at": "2026-10-02T08:49:24.406399Z",
+      "last_seen_at": "2026-10-02T15:21:50.618789Z",
       "title_original": "3 个 AI Agent 交付一个企业项目：4 人团队 2 个月，我 3 周做完",
       "title_en": null,
       "title_zh": "3 个 AI Agent 交付一个企业项目：4 人团队 2 个月，我 3 周做完",
@@ -471,7 +695,7 @@
       "url": "https://carnewschina.com/2026/10/02/what-to-expect-from-chinese-car-brands-at-the-paris-auto-show-2026",
       "published_at": "2026-10-02T07:18:04Z",
       "first_seen_at": "2026-10-02T08:49:24.406399Z",
-      "last_seen_at": "2026-10-02T08:49:24.406399Z",
+      "last_seen_at": "2026-10-02T15:21:50.618789Z",
       "title_original": "What to expect from Chinese car brands at the Paris Auto Show 2026",
       "title_en": "What to expect from Chinese car brands at the Paris Auto Show 2026",
       "title_zh": "中国汽车品牌对2026年巴黎车展有何期待",
@@ -479,6 +703,136 @@
       "topic_tags": [
         "新能源",
         "新车上市"
+      ]
+    },
+    {
+      "id": "f4855b2882a84afbe8f0c52c4119d5b0285aaa91",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-销量",
+      "title": "阿维塔9月交付量达8,183辆",
+      "url": "https://auto.gasgoo.com/news/202610/1I70473861C110.shtml",
+      "published_at": "2026-10-01T21:20:43Z",
+      "first_seen_at": "2026-10-02T15:21:50.618789Z",
+      "last_seen_at": "2026-10-02T15:21:50.618789Z",
+      "title_original": "阿维塔9月交付量达8,183辆",
+      "title_en": null,
+      "title_zh": "阿维塔9月交付量达8,183辆",
+      "title_bilingual": "阿维塔9月交付量达8,183辆",
+      "topic_tags": [
+        "销量市场"
+      ]
+    },
+    {
+      "id": "290b906421233c02e808180b1172ed5f8818ae34",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-销量",
+      "title": "深蓝汽车9月销量超3万辆，前三季度累计同比增长8.59%",
+      "url": "https://auto.gasgoo.com/news/202610/1I70473859C110.shtml",
+      "published_at": "2026-10-01T21:15:44Z",
+      "first_seen_at": "2026-10-02T15:21:50.618789Z",
+      "last_seen_at": "2026-10-02T15:21:50.618789Z",
+      "title_original": "深蓝汽车9月销量超3万辆，前三季度累计同比增长8.59%",
+      "title_en": null,
+      "title_zh": "深蓝汽车9月销量超3万辆，前三季度累计同比增长8.59%",
+      "title_bilingual": "深蓝汽车9月销量超3万辆，前三季度累计同比增长8.59%",
+      "topic_tags": [
+        "销量市场"
+      ]
+    },
+    {
+      "id": "605e2d4efd6c670f3c4a012316b6c6172d2fe87f",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-销量",
+      "title": "极氪9月交付数据出炉：单月交付37,216辆，同比增长103.85%",
+      "url": "https://auto.gasgoo.com/news/202610/1I70473858C110.shtml",
+      "published_at": "2026-10-01T21:11:58Z",
+      "first_seen_at": "2026-10-02T15:21:50.618789Z",
+      "last_seen_at": "2026-10-02T15:21:50.618789Z",
+      "title_original": "极氪9月交付数据出炉：单月交付37,216辆，同比增长103.85%",
+      "title_en": null,
+      "title_zh": "极氪9月交付数据出炉：单月交付37,216辆，同比增长103.85%",
+      "title_bilingual": "极氪9月交付数据出炉：单月交付37,216辆，同比增长103.85%",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "0c99dd009e7978738b2e5eec9f80e1eb30fb3297",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-销量",
+      "title": "理想汽车9月交付31,817辆 历史累计交付达1,833,651辆",
+      "url": "https://auto.gasgoo.com/news/202610/1I70473857C110.shtml",
+      "published_at": "2026-10-01T21:06:27Z",
+      "first_seen_at": "2026-10-02T15:21:50.618789Z",
+      "last_seen_at": "2026-10-02T15:21:50.618789Z",
+      "title_original": "理想汽车9月交付31,817辆 历史累计交付达1,833,651辆",
+      "title_en": null,
+      "title_zh": "理想汽车9月交付31,817辆 历史累计交付达1,833,651辆",
+      "title_bilingual": "理想汽车9月交付31,817辆 历史累计交付达1,833,651辆",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "7b9bf112ac98fddeb0dc7bbf9cec9bd26b8ff4c0",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-销量",
+      "title": "比亚迪9月销量达46.3万辆，海外市场同比大增153.9%",
+      "url": "https://auto.gasgoo.com/news/202610/1I70473856C110.shtml",
+      "published_at": "2026-10-01T21:01:44Z",
+      "first_seen_at": "2026-10-02T15:21:50.618789Z",
+      "last_seen_at": "2026-10-02T15:21:50.618789Z",
+      "title_original": "比亚迪9月销量达46.3万辆，海外市场同比大增153.9%",
+      "title_en": null,
+      "title_zh": "比亚迪9月销量达46.3万辆，海外市场同比大增153.9%",
+      "title_bilingual": "比亚迪9月销量达46.3万辆，海外市场同比大增153.9%",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "1ae836e92f5c5b067ef08d2c537bcc3a4c5c83cf",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-销量",
+      "title": "领克9月销量达18,493台，新能源占比创新高",
+      "url": "https://auto.gasgoo.com/news/202610/1I70473855C110.shtml",
+      "published_at": "2026-10-01T20:23:21Z",
+      "first_seen_at": "2026-10-02T15:21:50.618789Z",
+      "last_seen_at": "2026-10-02T15:21:50.618789Z",
+      "title_original": "领克9月销量达18,493台，新能源占比创新高",
+      "title_en": null,
+      "title_zh": "领克9月销量达18,493台，新能源占比创新高",
+      "title_bilingual": "领克9月销量达18,493台，新能源占比创新高",
+      "topic_tags": [
+        "新能源",
+        "销量市场"
+      ]
+    },
+    {
+      "id": "f63f14548617379309728d89483d040d4618d111",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "华为和赛力斯的合作，又有新进展？",
+      "url": "https://auto.gasgoo.com/news/202610/1I70473854C109.shtml",
+      "published_at": "2026-10-01T19:55:04Z",
+      "first_seen_at": "2026-10-02T15:21:50.618789Z",
+      "last_seen_at": "2026-10-02T15:21:50.618789Z",
+      "title_original": "华为和赛力斯的合作，又有新进展？",
+      "title_en": null,
+      "title_zh": "华为和赛力斯的合作，又有新进展？",
+      "title_bilingual": "华为和赛力斯的合作，又有新进展？",
+      "topic_tags": [
+        "车企竞争"
       ]
     },
     {
@@ -490,7 +844,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/8b9217154f558f98/116269454-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-01T19:15:31.663030Z",
-      "last_seen_at": "2026-10-02T08:49:24.406399Z",
+      "last_seen_at": "2026-10-02T15:21:50.618789Z",
       "title_original": "最高1100km续航 腾势Z9S怎么选？",
       "title_en": null,
       "title_zh": "最高1100km续航 腾势Z9S怎么选？",
@@ -508,7 +862,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/a574b6fbcc3e9fc5/116198725-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-01T19:15:31.663030Z",
-      "last_seen_at": "2026-10-02T08:49:24.406399Z",
+      "last_seen_at": "2026-10-02T15:21:50.618789Z",
       "title_original": "家用有面子 极氪8X提车作业分享",
       "title_en": null,
       "title_zh": "家用有面子 极氪8X提车作业分享",
@@ -527,7 +881,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/e0fecde88babfe21/116190154-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-01T19:15:31.663030Z",
-      "last_seen_at": "2026-10-02T08:49:24.406399Z",
+      "last_seen_at": "2026-10-02T15:21:50.618789Z",
       "title_original": "外观造型很大气 问界M6提车作业分享",
       "title_en": null,
       "title_zh": "外观造型很大气 问界M6提车作业分享",
@@ -546,7 +900,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/393bcd53ef287875/116165644-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-01T19:15:31.663030Z",
-      "last_seen_at": "2026-10-02T08:49:24.406399Z",
+      "last_seen_at": "2026-10-02T15:21:50.618789Z",
       "title_original": "舒适性不错 零跑D19提车作业分享",
       "title_en": null,
       "title_zh": "舒适性不错 零跑D19提车作业分享",
@@ -565,7 +919,7 @@
       "url": "http://vc.yiche.com/vplay/13420220.html",
       "published_at": null,
       "first_seen_at": "2026-10-01T19:15:31.663030Z",
-      "last_seen_at": "2026-10-02T08:49:24.406399Z",
+      "last_seen_at": "2026-10-02T15:21:50.618789Z",
       "title_original": "25.99万，凯迪拉克这次把混动的遮羞布给掀了",
       "title_en": null,
       "title_zh": "25.99万，凯迪拉克这次把混动的遮羞布给掀了",
@@ -583,7 +937,7 @@
       "url": "http://vc.yiche.com/vplay/13432708.html",
       "published_at": null,
       "first_seen_at": "2026-10-01T19:15:31.663030Z",
-      "last_seen_at": "2026-10-02T08:49:24.406399Z",
+      "last_seen_at": "2026-10-02T15:21:50.618789Z",
       "title_original": "体验2027款吉利博越，外观调整 配置升级，十万元左右家用挺合适",
       "title_en": null,
       "title_zh": "体验2027款吉利博越，外观调整 配置升级，十万元左右家用挺合适",
@@ -602,7 +956,7 @@
       "url": "http://vc.yiche.com/vplay/13426940.html",
       "published_at": null,
       "first_seen_at": "2026-10-01T19:15:31.663030Z",
-      "last_seen_at": "2026-10-02T08:49:24.406399Z",
+      "last_seen_at": "2026-10-02T15:21:50.618789Z",
       "title_original": "15万级带激光雷达，深蓝S07智能辅助驾驶真能跑明白重庆？",
       "title_en": null,
       "title_zh": "15万级带激光雷达，深蓝S07智能辅助驾驶真能跑明白重庆？",
@@ -612,178 +966,116 @@
       ]
     },
     {
-      "id": "8891a9d4bc097448d3df49d7ae0511c15c05e7f0",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "懂车帝 · 文章排行榜",
-      "title": "赔给吉利6个亿，越卖越亏的欣旺达，凭什么让小米理想抢着买单？",
-      "url": "https://www.dongchedi.com/article/7691218992372220440",
-      "published_at": null,
-      "first_seen_at": "2026-10-01T13:42:46.675637Z",
-      "last_seen_at": "2026-10-02T08:49:24.406399Z",
-      "title_original": "赔给吉利6个亿，越卖越亏的欣旺达，凭什么让小米理想抢着买单？",
+      "id": "8a67a061ea0fef7061b742a1d25475974af9563e",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-销量",
+      "title": "小鹏9月交付41,256台 全球化、智能化进程持续提速",
+      "url": "https://auto.gasgoo.com/news/202610/1I70473849C110.shtml",
+      "published_at": "2026-10-01T19:15:30Z",
+      "first_seen_at": "2026-10-02T15:21:50.618789Z",
+      "last_seen_at": "2026-10-02T15:21:50.618789Z",
+      "title_original": "小鹏9月交付41,256台 全球化、智能化进程持续提速",
       "title_en": null,
-      "title_zh": "赔给吉利6个亿，越卖越亏的欣旺达，凭什么让小米理想抢着买单？",
-      "title_bilingual": "赔给吉利6个亿，越卖越亏的欣旺达，凭什么让小米理想抢着买单？",
+      "title_zh": "小鹏9月交付41,256台 全球化、智能化进程持续提速",
+      "title_bilingual": "小鹏9月交付41,256台 全球化、智能化进程持续提速",
       "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "5c761ed26c2e4801a760838f821bd070af62ff3e",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "GWM September sales fall 14% in steepest drop this year as domestic slump deepens",
-      "url": "https://cnevpost.com/2026/10/01/gwm-sept-2026-sales",
-      "published_at": "2026-10-01T12:50:38Z",
-      "first_seen_at": "2026-10-01T13:42:46.675637Z",
-      "last_seen_at": "2026-10-02T08:49:24.406399Z",
-      "title_original": "GWM September sales fall 14% in steepest drop this year as domestic slump deepens",
-      "title_en": "GWM September sales fall 14% in steepest drop this year as domestic slump deepens",
-      "title_zh": "国内经济衰退加剧 长城汽车9月销量跌14%创今年最大跌幅",
-      "title_bilingual": "国内经济衰退加剧 长城汽车9月销量跌14%创今年最大跌幅 / GWM September sales fall 14% in steepest drop this year as domestic slump deepens",
-      "topic_tags": [
-        "新能源",
         "销量市场",
         "车企竞争"
       ]
     },
     {
-      "id": "ea2b4c1fa9fae4aefb934ef84c3535cd40224eb9",
+      "id": "2461018ad30e4447eb6d4e2750b83772338d8e52",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Geely September sales rise 7% to 2026 high as record export streak ends",
-      "url": "https://cnevpost.com/2026/10/01/geely-sept-2026-sales",
-      "published_at": "2026-10-01T12:29:42Z",
-      "first_seen_at": "2026-10-01T13:42:46.675637Z",
-      "last_seen_at": "2026-10-02T08:49:24.406399Z",
-      "title_original": "Geely September sales rise 7% to 2026 high as record export streak ends",
-      "title_en": "Geely September sales rise 7% to 2026 high as record export streak ends",
-      "title_zh": "吉利9月销量增长7%创2026年新高 创纪录的出口记录结束",
-      "title_bilingual": "吉利9月销量增长7%创2026年新高 创纪录的出口记录结束 / Geely September sales rise 7% to 2026 high as record export streak ends",
+      "source": "盖世汽车-销量",
+      "title": "蔚来汽车9月交付3.74万台，前三季度累计交付超30万台",
+      "url": "https://auto.gasgoo.com/news/202610/1I70473847C110.shtml",
+      "published_at": "2026-10-01T19:04:08Z",
+      "first_seen_at": "2026-10-02T15:21:50.618789Z",
+      "last_seen_at": "2026-10-02T15:21:50.618789Z",
+      "title_original": "蔚来汽车9月交付3.74万台，前三季度累计交付超30万台",
+      "title_en": null,
+      "title_zh": "蔚来汽车9月交付3.74万台，前三季度累计交付超30万台",
+      "title_bilingual": "蔚来汽车9月交付3.74万台，前三季度累计交付超30万台",
       "topic_tags": [
-        "新能源",
         "销量市场",
         "车企竞争"
       ]
     },
     {
-      "id": "c886b38bb83fbe474058ffe915d875c36e1e526c",
+      "id": "36c4cc6c84e6500226d7254dc01812da6ddf88ae",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Chinese NEV sales rankings in September 2026: BYD, Leapmotor, Changan Nevo",
-      "url": "https://carnewschina.com/2026/10/01/chinese-nev-sales-rankings-in-september-2026-byd-leapmotor-changan-nevo",
-      "published_at": "2026-10-01T12:13:30Z",
-      "first_seen_at": "2026-10-01T13:42:46.675637Z",
-      "last_seen_at": "2026-10-02T02:25:59.566163Z",
-      "title_original": "Chinese NEV sales rankings in September 2026: BYD, Leapmotor, Changan Nevo",
-      "title_en": "Chinese NEV sales rankings in September 2026: BYD, Leapmotor, Changan Nevo",
-      "title_zh": "2026年9月中国新能源汽车销量排名：比亚迪、零跑、长安NEVO",
-      "title_bilingual": "2026年9月中国新能源汽车销量排名：比亚迪、零跑、长安NEVO / Chinese NEV sales rankings in September 2026: BYD, Leapmotor, Changan Nevo",
+      "source": "盖世汽车-销量",
+      "title": "小米汽车9月交付超4万台",
+      "url": "https://auto.gasgoo.com/news/202610/1I70473841C110.shtml",
+      "published_at": "2026-10-01T18:53:55Z",
+      "first_seen_at": "2026-10-02T15:21:50.618789Z",
+      "last_seen_at": "2026-10-02T15:21:50.618789Z",
+      "title_original": "小米汽车9月交付超4万台",
+      "title_en": null,
+      "title_zh": "小米汽车9月交付超4万台",
+      "title_bilingual": "小米汽车9月交付超4万台",
       "topic_tags": [
-        "新能源",
         "销量市场",
         "车企竞争"
       ]
     },
     {
-      "id": "def52a7ac5a1f5209178aa3afc964c1006c754d5",
+      "id": "49dfc10fa111dd6a74d3cfb1e5b544b69e207f4e",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Chinese NEV sales rankings in September 2026: BYD, Geely Galaxy, Leapmotor",
-      "url": "https://carnewschina.com/2026/10/01/chinese-nev-sales-rankings-in-september-2026-byd-leapmotor-changan-nevo",
-      "published_at": "2026-10-01T12:13:30Z",
-      "first_seen_at": "2026-10-02T08:49:24.406399Z",
-      "last_seen_at": "2026-10-02T08:49:24.406399Z",
-      "title_original": "Chinese NEV sales rankings in September 2026: BYD, Geely Galaxy, Leapmotor",
-      "title_en": "Chinese NEV sales rankings in September 2026: BYD, Geely Galaxy, Leapmotor",
-      "title_zh": "2026年9月中国新能源汽车销量排名：比亚迪、吉利银河、零跑汽车",
-      "title_bilingual": "2026年9月中国新能源汽车销量排名：比亚迪、吉利银河、零跑汽车 / Chinese NEV sales rankings in September 2026: BYD, Geely Galaxy, Leapmotor",
+      "source": "盖世汽车-销量",
+      "title": "极狐汽车9月销量达21,518台，前三季度累计交付超13.5万台",
+      "url": "https://auto.gasgoo.com/news/202610/1I70473840C110.shtml",
+      "published_at": "2026-10-01T18:45:00Z",
+      "first_seen_at": "2026-10-02T15:21:50.618789Z",
+      "last_seen_at": "2026-10-02T15:21:50.618789Z",
+      "title_original": "极狐汽车9月销量达21,518台，前三季度累计交付超13.5万台",
+      "title_en": null,
+      "title_zh": "极狐汽车9月销量达21,518台，前三季度累计交付超13.5万台",
+      "title_bilingual": "极狐汽车9月销量达21,518台，前三季度累计交付超13.5万台",
       "topic_tags": [
-        "新能源",
-        "销量市场",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "e656fad4b0e306f6ddb3bd81462ea33ced40d6e9",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Huawei, Seres sign new 5-year deal to upgrade Aito business",
-      "url": "https://cnevpost.com/2026/10/01/huawei-seres-sign-5-year-deal-upgrade-aito",
-      "published_at": "2026-10-01T11:46:03Z",
-      "first_seen_at": "2026-10-01T13:42:46.675637Z",
-      "last_seen_at": "2026-10-02T08:49:24.406399Z",
-      "title_original": "Huawei, Seres sign new 5-year deal to upgrade Aito business",
-      "title_en": "Huawei, Seres sign new 5-year deal to upgrade Aito business",
-      "title_zh": "华为与Seres签署新的5年协议以升级Aito业务",
-      "title_bilingual": "华为与Seres签署新的5年协议以升级Aito业务 / Huawei, Seres sign new 5-year deal to upgrade Aito business",
-      "topic_tags": [
-        "新能源"
-      ]
-    },
-    {
-      "id": "47417b493722bb1b4b314674c36e3a47c738e19b",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "BYD September sales rise 16.98% to 463,561, hitting new high for 2026",
-      "url": "https://cnevpost.com/2026/10/01/byd-sept-2026-sales",
-      "published_at": "2026-10-01T10:51:22Z",
-      "first_seen_at": "2026-10-01T13:42:46.675637Z",
-      "last_seen_at": "2026-10-02T08:49:24.406399Z",
-      "title_original": "BYD September sales rise 16.98% to 463,561, hitting new high for 2026",
-      "title_en": "BYD September sales rise 16.98% to 463,561, hitting new high for 2026",
-      "title_zh": "比亚迪9月销量增长16.98%至463,561辆，创2026年新高",
-      "title_bilingual": "比亚迪9月销量增长16.98%至463,561辆，创2026年新高 / BYD September sales rise 16.98% to 463,561, hitting new high for 2026",
-      "topic_tags": [
-        "新能源",
-        "销量市场",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "919ebbabc542e2be82512fcc0c8f1a35a3963016",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Roundup: September 2026 deliveries by major Chinese automakers",
-      "url": "https://cnevpost.com/2026/10/01/roundup-sept-2026-deliveries-china-automakers",
-      "published_at": "2026-10-01T10:16:45Z",
-      "first_seen_at": "2026-10-01T13:42:46.675637Z",
-      "last_seen_at": "2026-10-02T08:49:24.406399Z",
-      "title_original": "Roundup: September 2026 deliveries by major Chinese automakers",
-      "title_en": "Roundup: September 2026 deliveries by major Chinese automakers",
-      "title_zh": "综述：2026 年 9 月中国主要汽车制造商的交付量",
-      "title_bilingual": "综述：2026 年 9 月中国主要汽车制造商的交付量 / Roundup: September 2026 deliveries by major Chinese automakers",
-      "topic_tags": [
-        "新能源",
-        "销量市场",
-        "供应链"
-      ]
-    },
-    {
-      "id": "5553e5a9af385c7c8c39582a9160a9017cc38ef1",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Huawei HIMA delivers 37,490 vehicles in September, extending year-on-year decline to fourth month",
-      "url": "https://cnevpost.com/2026/10/01/huawei-hima-sept-2026-deliveries",
-      "published_at": "2026-10-01T09:16:27Z",
-      "first_seen_at": "2026-10-01T13:42:46.675637Z",
-      "last_seen_at": "2026-10-02T08:49:24.406399Z",
-      "title_original": "Huawei HIMA delivers 37,490 vehicles in September, extending year-on-year decline to fourth month",
-      "title_en": "Huawei HIMA delivers 37,490 vehicles in September, extending year-on-year decline to fourth month",
-      "title_zh": "华为HIMA 9月交付37,490辆 同比跌幅延续至第四个月",
-      "title_bilingual": "华为HIMA 9月交付37,490辆 同比跌幅延续至第四个月 / Huawei HIMA delivers 37,490 vehicles in September, extending year-on-year decline to fourth month",
-      "topic_tags": [
-        "新能源",
         "销量市场"
+      ]
+    },
+    {
+      "id": "8b296b831cc0bd068d5993ef6006393ca3881297",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-销量",
+      "title": "鸿蒙智行9月交付37490台，累计交付破156万台",
+      "url": "https://auto.gasgoo.com/news/202610/1I70473839C110.shtml",
+      "published_at": "2026-10-01T18:39:43Z",
+      "first_seen_at": "2026-10-02T15:21:50.618789Z",
+      "last_seen_at": "2026-10-02T15:21:50.618789Z",
+      "title_original": "鸿蒙智行9月交付37490台，累计交付破156万台",
+      "title_en": null,
+      "title_zh": "鸿蒙智行9月交付37490台，累计交付破156万台",
+      "title_bilingual": "鸿蒙智行9月交付37490台，累计交付破156万台",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "6da1a459d0f408790ba8f5347a7c871f2a81acc3",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-销量",
+      "title": "零跑汽车9月销量再超10万台，全球交付105,656台",
+      "url": "https://auto.gasgoo.com/news/202610/1I70473838C110.shtml",
+      "published_at": "2026-10-01T18:18:44Z",
+      "first_seen_at": "2026-10-02T15:21:50.618789Z",
+      "last_seen_at": "2026-10-02T15:21:50.618789Z",
+      "title_original": "零跑汽车9月销量再超10万台，全球交付105,656台",
+      "title_en": null,
+      "title_zh": "零跑汽车9月销量再超10万台，全球交付105,656台",
+      "title_bilingual": "零跑汽车9月销量再超10万台，全球交付105,656台",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争"
       ]
     }
   ],
