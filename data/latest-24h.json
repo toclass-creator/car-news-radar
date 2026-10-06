@@ -1,38 +1,38 @@
 {
-  "generated_at": "2026-10-06T07:09:56.770348Z",
+  "generated_at": "2026-10-06T14:21:21.041152Z",
   "window_hours": 24,
   "total_items": 18,
   "total_items_ai_raw": 18,
-  "total_items_raw": 2295,
-  "total_items_all_mode": 2092,
+  "total_items_raw": 2218,
+  "total_items_all_mode": 2049,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 54485,
+  "archive_total": 54483,
   "site_count": 3,
-  "source_count": 4,
+  "source_count": 3,
   "site_stats": [
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "count": 15,
-      "raw_count": 2182
-    },
-    {
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "count": 2,
-      "raw_count": 112
+      "raw_count": 2103
     },
     {
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "count": 1,
-      "raw_count": 1
+      "count": 3,
+      "raw_count": 3
+    },
+    {
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "count": 0,
+      "raw_count": 112
     }
   ],
   "topic_tag_stats": [
     {
       "tag": "车企竞争",
-      "count": 10
+      "count": 12
     },
     {
       "tag": "购车决策",
@@ -43,19 +43,19 @@
       "count": 5
     },
     {
+      "tag": "新能源",
+      "count": 4
+    },
+    {
       "tag": "价格战",
+      "count": 3
+    },
+    {
+      "tag": "新车上市",
       "count": 2
     },
     {
       "tag": "供应链",
-      "count": 2
-    },
-    {
-      "tag": "新能源",
-      "count": 2
-    },
-    {
-      "tag": "新车上市",
       "count": 1
     },
     {
@@ -65,6 +65,46 @@
   ],
   "items": [
     {
+      "id": "5c27f32fb58edcb37b31488ff582a49b0fb0b941",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Leapmotor B03X crossover revealed price for Australia",
+      "url": "https://carnewschina.com/2026/10/06/leapmotor-b03x-crossover-revealed-price-for-australia",
+      "published_at": "2026-10-06T13:41:30Z",
+      "first_seen_at": "2026-10-06T14:21:21.041152Z",
+      "last_seen_at": "2026-10-06T14:21:21.041152Z",
+      "title_original": "Leapmotor B03X crossover revealed price for Australia",
+      "title_en": "Leapmotor B03X crossover revealed price for Australia",
+      "title_zh": "零跑B03X跨界车澳大利亚售价公布",
+      "title_bilingual": "零跑B03X跨界车澳大利亚售价公布 / Leapmotor B03X crossover revealed price for Australia",
+      "topic_tags": [
+        "新能源",
+        "价格战",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "0c79a5cf4bb9964349d8997695d6cdd185d2596a",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "BYD’s Racco Kei EV jumps out of Japan, prepares for launch in Sri Lanka and Macau",
+      "url": "https://carnewschina.com/2026/10/06/byds-racco-kei-ev-jumps-out-of-japan-prepares-for-launch-in-sri-lanka-and-macau",
+      "published_at": "2026-10-06T09:01:39Z",
+      "first_seen_at": "2026-10-06T14:21:21.041152Z",
+      "last_seen_at": "2026-10-06T14:21:21.041152Z",
+      "title_original": "BYD’s Racco Kei EV jumps out of Japan, prepares for launch in Sri Lanka and Macau",
+      "title_en": "BYD’s Racco Kei EV jumps out of Japan, prepares for launch in Sri Lanka and Macau",
+      "title_zh": "比亚迪Racco Kei EV走出日本，准备在斯里兰卡和澳门上市",
+      "title_bilingual": "比亚迪Racco Kei EV走出日本，准备在斯里兰卡和澳门上市 / BYD’s Racco Kei EV jumps out of Japan, prepares for launch in Sri Lanka and Macau",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
       "id": "07bc2cfd39fe6edbe8f3f4d41e9283c9cd72c352",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -73,7 +113,7 @@
       "url": "https://carnewschina.com/2026/10/06/byd-puts-battery-cells-directly-in-cooling-liquid-in-new-patent",
       "published_at": "2026-10-06T04:09:39Z",
       "first_seen_at": "2026-10-06T07:09:56.770348Z",
-      "last_seen_at": "2026-10-06T07:09:56.770348Z",
+      "last_seen_at": "2026-10-06T14:21:21.041152Z",
       "title_original": "BYD puts battery cells directly in cooling liquid in new patent",
       "title_en": "BYD puts battery cells directly in cooling liquid in new patent",
       "title_zh": "比亚迪新专利将电池直接放入冷却液中",
@@ -93,7 +133,7 @@
       "url": "http://vc.yiche.com/vplay/13520236.html",
       "published_at": null,
       "first_seen_at": "2026-10-06T00:34:36.223478Z",
-      "last_seen_at": "2026-10-06T07:09:56.770348Z",
+      "last_seen_at": "2026-10-06T14:21:21.041152Z",
       "title_original": "油耗4L级还带空悬配激光雷达？星越L PLUS三大硬核揭秘",
       "title_en": null,
       "title_zh": "油耗4L级还带空悬配激光雷达？星越L PLUS三大硬核揭秘",
@@ -111,7 +151,7 @@
       "url": "http://vc.yiche.com/vplay/13505991.html",
       "published_at": null,
       "first_seen_at": "2026-10-06T00:34:36.223478Z",
-      "last_seen_at": "2026-10-06T07:09:56.770348Z",
+      "last_seen_at": "2026-10-06T14:21:21.041152Z",
       "title_original": "千里亏电实测！官方宣传1600公里续航的别克至境E7续航有没有水分",
       "title_en": null,
       "title_zh": "千里亏电实测！官方宣传1600公里续航的别克至境E7续航有没有水分",
@@ -129,7 +169,7 @@
       "url": "http://vc.yiche.com/vplay/13509596.html",
       "published_at": null,
       "first_seen_at": "2026-10-06T00:34:36.223478Z",
-      "last_seen_at": "2026-10-06T07:09:56.770348Z",
+      "last_seen_at": "2026-10-06T14:21:21.041152Z",
       "title_original": "吉利中国星PLUS双旗舰亮相十一芒果车展，好看、好开、好省油",
       "title_en": null,
       "title_zh": "吉利中国星PLUS双旗舰亮相十一芒果车展，好看、好开、好省油",
@@ -148,7 +188,7 @@
       "url": "http://vc.yiche.com/vplay/13494273.html",
       "published_at": null,
       "first_seen_at": "2026-10-06T00:34:36.223478Z",
-      "last_seen_at": "2026-10-06T07:09:56.770348Z",
+      "last_seen_at": "2026-10-06T14:21:21.041152Z",
       "title_original": "这么会玩？长城H10把星级酒店搬进沙漠",
       "title_en": null,
       "title_zh": "这么会玩？长城H10把星级酒店搬进沙漠",
@@ -166,7 +206,7 @@
       "url": "http://vc.yiche.com/vplay/13507874.html",
       "published_at": null,
       "first_seen_at": "2026-10-06T00:34:36.223478Z",
-      "last_seen_at": "2026-10-06T07:09:56.770348Z",
+      "last_seen_at": "2026-10-06T14:21:21.041152Z",
       "title_original": "“坪山幻影”曝光！首搭比亚迪固态电池，真要卖到200万？",
       "title_en": null,
       "title_zh": "“坪山幻影”曝光！首搭比亚迪固态电池，真要卖到200万？",
@@ -185,7 +225,7 @@
       "url": "https://i.autohome.com.cn/6233934",
       "published_at": null,
       "first_seen_at": "2026-10-05T18:43:38.693176Z",
-      "last_seen_at": "2026-10-06T07:09:56.770348Z",
+      "last_seen_at": "2026-10-06T14:21:21.041152Z",
       "title_original": "精神焕发 普拉多全车底盘维修整备",
       "title_en": null,
       "title_zh": "精神焕发 普拉多全车底盘维修整备",
@@ -203,7 +243,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/35205ebcee261666/116247038-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-05T18:43:38.693176Z",
-      "last_seen_at": "2026-10-06T07:09:56.770348Z",
+      "last_seen_at": "2026-10-06T14:21:21.041152Z",
       "title_original": "综合自己的喜好 小鹏MONA M03提车",
       "title_en": null,
       "title_zh": "综合自己的喜好 小鹏MONA M03提车",
@@ -222,7 +262,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/3be7558763eb813d/116243156-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-05T18:43:38.693176Z",
-      "last_seen_at": "2026-10-06T07:09:56.770348Z",
+      "last_seen_at": "2026-10-06T14:21:21.041152Z",
       "title_original": "适合家用的电车 Model Y提车分享",
       "title_en": null,
       "title_zh": "适合家用的电车 Model Y提车分享",
@@ -241,7 +281,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/aa165baeb029b581/116234048-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-05T18:43:38.693176Z",
-      "last_seen_at": "2026-10-06T07:09:56.770348Z",
+      "last_seen_at": "2026-10-06T14:21:21.041152Z",
       "title_original": "超级性价比 理想L6提车作业分享",
       "title_en": null,
       "title_zh": "超级性价比 理想L6提车作业分享",
@@ -261,7 +301,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/1610797e94b81ae6/116214437-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-05T18:43:38.693176Z",
-      "last_seen_at": "2026-10-06T07:09:56.770348Z",
+      "last_seen_at": "2026-10-06T14:21:21.041152Z",
       "title_original": "性价比十分的高 极氪9X提车作业分享",
       "title_en": null,
       "title_zh": "性价比十分的高 极氪9X提车作业分享",
@@ -281,7 +321,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/71608495306c3a92/116209209-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-05T18:43:38.693176Z",
-      "last_seen_at": "2026-10-06T07:09:56.770348Z",
+      "last_seen_at": "2026-10-06T14:21:21.041152Z",
       "title_original": "三十二边长城探 左云马头山断崖登高",
       "title_en": null,
       "title_zh": "三十二边长城探 左云马头山断崖登高",
@@ -299,7 +339,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/d1b048748a2f7321/116193722-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-05T18:43:38.693176Z",
-      "last_seen_at": "2026-10-06T07:09:56.770348Z",
+      "last_seen_at": "2026-10-06T14:21:21.041152Z",
       "title_original": "舒适性很高 问界M9提车作业分享",
       "title_en": null,
       "title_zh": "舒适性很高 问界M9提车作业分享",
@@ -318,7 +358,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/157430e9cf07727a/116189170-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-05T18:43:38.693176Z",
-      "last_seen_at": "2026-10-06T07:09:56.770348Z",
+      "last_seen_at": "2026-10-06T14:21:21.041152Z",
       "title_original": "开起来很轻巧 零跑B01提车作业分享",
       "title_en": null,
       "title_zh": "开起来很轻巧 零跑B01提车作业分享",
@@ -337,7 +377,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/ef1a551af097fb36/116163726-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-05T18:43:38.693176Z",
-      "last_seen_at": "2026-10-06T07:09:56.770348Z",
+      "last_seen_at": "2026-10-06T14:21:21.041152Z",
       "title_original": "续航很扎实 小米SU7提车作业分享",
       "title_en": null,
       "title_zh": "续航很扎实 小米SU7提车作业分享",
@@ -356,7 +396,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/a2a38f93288bfb9b/116158394-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-05T18:43:38.693176Z",
-      "last_seen_at": "2026-10-06T07:09:56.770348Z",
+      "last_seen_at": "2026-10-06T14:21:21.041152Z",
       "title_original": "续航很扎实 领克10真实用车体验",
       "title_en": null,
       "title_zh": "续航很扎实 领克10真实用车体验",
@@ -364,45 +404,51 @@
       "topic_tags": [
         "补能电池",
         "购车决策"
-      ]
-    },
-    {
-      "id": "25c3ad4041cb39f8fc71b0a7257e83cd87a962bd",
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "hackernews",
-      "title": "Huawei and Qualcomm announce broad patent license agreement",
-      "url": "https://news.ycombinator.com/item?id=49961861",
-      "published_at": "2026-10-05T07:46:10Z",
-      "first_seen_at": "2026-10-05T09:26:04.795879Z",
-      "last_seen_at": "2026-10-05T18:43:38.693176Z",
-      "title_original": "Huawei and Qualcomm announce broad patent license agreement",
-      "title_en": "Huawei and Qualcomm announce broad patent license agreement",
-      "title_zh": "华为与高通宣布广泛的专利许可协议",
-      "title_bilingual": "华为与高通宣布广泛的专利许可协议 / Huawei and Qualcomm announce broad patent license agreement",
-      "topic_tags": []
-    },
-    {
-      "id": "f4bd8e4c2b3b6053bbc6ad09adbec1204ad7ab01",
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "hackernews",
-      "title": "Qualcomm licenses patents on Huawei’s LogicFolding chip tech",
-      "url": "https://news.ycombinator.com/item?id=49961861",
-      "published_at": "2026-10-05T07:46:10Z",
-      "first_seen_at": "2026-10-06T07:09:56.770348Z",
-      "last_seen_at": "2026-10-06T07:09:56.770348Z",
-      "title_original": "Qualcomm licenses patents on Huawei’s LogicFolding chip tech",
-      "title_en": "Qualcomm licenses patents on Huawei’s LogicFolding chip tech",
-      "title_zh": "高通获得华为 LogicFolding 芯片技术专利授权",
-      "title_bilingual": "高通获得华为 LogicFolding 芯片技术专利授权 / Qualcomm licenses patents on Huawei’s LogicFolding chip tech",
-      "topic_tags": [
-        "供应链"
       ]
     }
   ],
   "items_ai": [
     {
+      "id": "5c27f32fb58edcb37b31488ff582a49b0fb0b941",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Leapmotor B03X crossover revealed price for Australia",
+      "url": "https://carnewschina.com/2026/10/06/leapmotor-b03x-crossover-revealed-price-for-australia",
+      "published_at": "2026-10-06T13:41:30Z",
+      "first_seen_at": "2026-10-06T14:21:21.041152Z",
+      "last_seen_at": "2026-10-06T14:21:21.041152Z",
+      "title_original": "Leapmotor B03X crossover revealed price for Australia",
+      "title_en": "Leapmotor B03X crossover revealed price for Australia",
+      "title_zh": "零跑B03X跨界车澳大利亚售价公布",
+      "title_bilingual": "零跑B03X跨界车澳大利亚售价公布 / Leapmotor B03X crossover revealed price for Australia",
+      "topic_tags": [
+        "新能源",
+        "价格战",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "0c79a5cf4bb9964349d8997695d6cdd185d2596a",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "BYD’s Racco Kei EV jumps out of Japan, prepares for launch in Sri Lanka and Macau",
+      "url": "https://carnewschina.com/2026/10/06/byds-racco-kei-ev-jumps-out-of-japan-prepares-for-launch-in-sri-lanka-and-macau",
+      "published_at": "2026-10-06T09:01:39Z",
+      "first_seen_at": "2026-10-06T14:21:21.041152Z",
+      "last_seen_at": "2026-10-06T14:21:21.041152Z",
+      "title_original": "BYD’s Racco Kei EV jumps out of Japan, prepares for launch in Sri Lanka and Macau",
+      "title_en": "BYD’s Racco Kei EV jumps out of Japan, prepares for launch in Sri Lanka and Macau",
+      "title_zh": "比亚迪Racco Kei EV走出日本，准备在斯里兰卡和澳门上市",
+      "title_bilingual": "比亚迪Racco Kei EV走出日本，准备在斯里兰卡和澳门上市 / BYD’s Racco Kei EV jumps out of Japan, prepares for launch in Sri Lanka and Macau",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
       "id": "07bc2cfd39fe6edbe8f3f4d41e9283c9cd72c352",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -411,7 +457,7 @@
       "url": "https://carnewschina.com/2026/10/06/byd-puts-battery-cells-directly-in-cooling-liquid-in-new-patent",
       "published_at": "2026-10-06T04:09:39Z",
       "first_seen_at": "2026-10-06T07:09:56.770348Z",
-      "last_seen_at": "2026-10-06T07:09:56.770348Z",
+      "last_seen_at": "2026-10-06T14:21:21.041152Z",
       "title_original": "BYD puts battery cells directly in cooling liquid in new patent",
       "title_en": "BYD puts battery cells directly in cooling liquid in new patent",
       "title_zh": "比亚迪新专利将电池直接放入冷却液中",
@@ -431,7 +477,7 @@
       "url": "http://vc.yiche.com/vplay/13520236.html",
       "published_at": null,
       "first_seen_at": "2026-10-06T00:34:36.223478Z",
-      "last_seen_at": "2026-10-06T07:09:56.770348Z",
+      "last_seen_at": "2026-10-06T14:21:21.041152Z",
       "title_original": "油耗4L级还带空悬配激光雷达？星越L PLUS三大硬核揭秘",
       "title_en": null,
       "title_zh": "油耗4L级还带空悬配激光雷达？星越L PLUS三大硬核揭秘",
@@ -449,7 +495,7 @@
       "url": "http://vc.yiche.com/vplay/13505991.html",
       "published_at": null,
       "first_seen_at": "2026-10-06T00:34:36.223478Z",
-      "last_seen_at": "2026-10-06T07:09:56.770348Z",
+      "last_seen_at": "2026-10-06T14:21:21.041152Z",
       "title_original": "千里亏电实测！官方宣传1600公里续航的别克至境E7续航有没有水分",
       "title_en": null,
       "title_zh": "千里亏电实测！官方宣传1600公里续航的别克至境E7续航有没有水分",
@@ -467,7 +513,7 @@
       "url": "http://vc.yiche.com/vplay/13509596.html",
       "published_at": null,
       "first_seen_at": "2026-10-06T00:34:36.223478Z",
-      "last_seen_at": "2026-10-06T07:09:56.770348Z",
+      "last_seen_at": "2026-10-06T14:21:21.041152Z",
       "title_original": "吉利中国星PLUS双旗舰亮相十一芒果车展，好看、好开、好省油",
       "title_en": null,
       "title_zh": "吉利中国星PLUS双旗舰亮相十一芒果车展，好看、好开、好省油",
@@ -486,7 +532,7 @@
       "url": "http://vc.yiche.com/vplay/13494273.html",
       "published_at": null,
       "first_seen_at": "2026-10-06T00:34:36.223478Z",
-      "last_seen_at": "2026-10-06T07:09:56.770348Z",
+      "last_seen_at": "2026-10-06T14:21:21.041152Z",
       "title_original": "这么会玩？长城H10把星级酒店搬进沙漠",
       "title_en": null,
       "title_zh": "这么会玩？长城H10把星级酒店搬进沙漠",
@@ -504,7 +550,7 @@
       "url": "http://vc.yiche.com/vplay/13507874.html",
       "published_at": null,
       "first_seen_at": "2026-10-06T00:34:36.223478Z",
-      "last_seen_at": "2026-10-06T07:09:56.770348Z",
+      "last_seen_at": "2026-10-06T14:21:21.041152Z",
       "title_original": "“坪山幻影”曝光！首搭比亚迪固态电池，真要卖到200万？",
       "title_en": null,
       "title_zh": "“坪山幻影”曝光！首搭比亚迪固态电池，真要卖到200万？",
@@ -523,7 +569,7 @@
       "url": "https://i.autohome.com.cn/6233934",
       "published_at": null,
       "first_seen_at": "2026-10-05T18:43:38.693176Z",
-      "last_seen_at": "2026-10-06T07:09:56.770348Z",
+      "last_seen_at": "2026-10-06T14:21:21.041152Z",
       "title_original": "精神焕发 普拉多全车底盘维修整备",
       "title_en": null,
       "title_zh": "精神焕发 普拉多全车底盘维修整备",
@@ -541,7 +587,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/35205ebcee261666/116247038-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-05T18:43:38.693176Z",
-      "last_seen_at": "2026-10-06T07:09:56.770348Z",
+      "last_seen_at": "2026-10-06T14:21:21.041152Z",
       "title_original": "综合自己的喜好 小鹏MONA M03提车",
       "title_en": null,
       "title_zh": "综合自己的喜好 小鹏MONA M03提车",
@@ -560,7 +606,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/3be7558763eb813d/116243156-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-05T18:43:38.693176Z",
-      "last_seen_at": "2026-10-06T07:09:56.770348Z",
+      "last_seen_at": "2026-10-06T14:21:21.041152Z",
       "title_original": "适合家用的电车 Model Y提车分享",
       "title_en": null,
       "title_zh": "适合家用的电车 Model Y提车分享",
@@ -579,7 +625,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/aa165baeb029b581/116234048-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-05T18:43:38.693176Z",
-      "last_seen_at": "2026-10-06T07:09:56.770348Z",
+      "last_seen_at": "2026-10-06T14:21:21.041152Z",
       "title_original": "超级性价比 理想L6提车作业分享",
       "title_en": null,
       "title_zh": "超级性价比 理想L6提车作业分享",
@@ -599,7 +645,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/1610797e94b81ae6/116214437-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-05T18:43:38.693176Z",
-      "last_seen_at": "2026-10-06T07:09:56.770348Z",
+      "last_seen_at": "2026-10-06T14:21:21.041152Z",
       "title_original": "性价比十分的高 极氪9X提车作业分享",
       "title_en": null,
       "title_zh": "性价比十分的高 极氪9X提车作业分享",
@@ -619,7 +665,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/71608495306c3a92/116209209-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-05T18:43:38.693176Z",
-      "last_seen_at": "2026-10-06T07:09:56.770348Z",
+      "last_seen_at": "2026-10-06T14:21:21.041152Z",
       "title_original": "三十二边长城探 左云马头山断崖登高",
       "title_en": null,
       "title_zh": "三十二边长城探 左云马头山断崖登高",
@@ -637,7 +683,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/d1b048748a2f7321/116193722-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-05T18:43:38.693176Z",
-      "last_seen_at": "2026-10-06T07:09:56.770348Z",
+      "last_seen_at": "2026-10-06T14:21:21.041152Z",
       "title_original": "舒适性很高 问界M9提车作业分享",
       "title_en": null,
       "title_zh": "舒适性很高 问界M9提车作业分享",
@@ -656,7 +702,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/157430e9cf07727a/116189170-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-05T18:43:38.693176Z",
-      "last_seen_at": "2026-10-06T07:09:56.770348Z",
+      "last_seen_at": "2026-10-06T14:21:21.041152Z",
       "title_original": "开起来很轻巧 零跑B01提车作业分享",
       "title_en": null,
       "title_zh": "开起来很轻巧 零跑B01提车作业分享",
@@ -675,7 +721,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/ef1a551af097fb36/116163726-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-05T18:43:38.693176Z",
-      "last_seen_at": "2026-10-06T07:09:56.770348Z",
+      "last_seen_at": "2026-10-06T14:21:21.041152Z",
       "title_original": "续航很扎实 小米SU7提车作业分享",
       "title_en": null,
       "title_zh": "续航很扎实 小米SU7提车作业分享",
@@ -694,7 +740,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/a2a38f93288bfb9b/116158394-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-05T18:43:38.693176Z",
-      "last_seen_at": "2026-10-06T07:09:56.770348Z",
+      "last_seen_at": "2026-10-06T14:21:21.041152Z",
       "title_original": "续航很扎实 领克10真实用车体验",
       "title_en": null,
       "title_zh": "续航很扎实 领克10真实用车体验",
@@ -702,40 +748,6 @@
       "topic_tags": [
         "补能电池",
         "购车决策"
-      ]
-    },
-    {
-      "id": "25c3ad4041cb39f8fc71b0a7257e83cd87a962bd",
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "hackernews",
-      "title": "Huawei and Qualcomm announce broad patent license agreement",
-      "url": "https://news.ycombinator.com/item?id=49961861",
-      "published_at": "2026-10-05T07:46:10Z",
-      "first_seen_at": "2026-10-05T09:26:04.795879Z",
-      "last_seen_at": "2026-10-05T18:43:38.693176Z",
-      "title_original": "Huawei and Qualcomm announce broad patent license agreement",
-      "title_en": "Huawei and Qualcomm announce broad patent license agreement",
-      "title_zh": "华为与高通宣布广泛的专利许可协议",
-      "title_bilingual": "华为与高通宣布广泛的专利许可协议 / Huawei and Qualcomm announce broad patent license agreement",
-      "topic_tags": []
-    },
-    {
-      "id": "f4bd8e4c2b3b6053bbc6ad09adbec1204ad7ab01",
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "hackernews",
-      "title": "Qualcomm licenses patents on Huawei’s LogicFolding chip tech",
-      "url": "https://news.ycombinator.com/item?id=49961861",
-      "published_at": "2026-10-05T07:46:10Z",
-      "first_seen_at": "2026-10-06T07:09:56.770348Z",
-      "last_seen_at": "2026-10-06T07:09:56.770348Z",
-      "title_original": "Qualcomm licenses patents on Huawei’s LogicFolding chip tech",
-      "title_en": "Qualcomm licenses patents on Huawei’s LogicFolding chip tech",
-      "title_zh": "高通获得华为 LogicFolding 芯片技术专利授权",
-      "title_bilingual": "高通获得华为 LogicFolding 芯片技术专利授权 / Qualcomm licenses patents on Huawei’s LogicFolding chip tech",
-      "topic_tags": [
-        "供应链"
       ]
     }
   ],
