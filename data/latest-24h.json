@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-07T04:15:25.307667Z",
+  "generated_at": "2026-10-07T11:14:30.758161Z",
   "window_hours": 24,
-  "total_items": 15,
-  "total_items_ai_raw": 15,
-  "total_items_raw": 2449,
-  "total_items_all_mode": 2190,
+  "total_items": 17,
+  "total_items_ai_raw": 17,
+  "total_items_raw": 2456,
+  "total_items_all_mode": 2214,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 54213,
+  "archive_total": 54312,
   "site_count": 3,
   "source_count": 3,
   "site_stats": [
@@ -14,36 +14,40 @@
       "site_id": "tophub",
       "site_name": "TopHub",
       "count": 13,
-      "raw_count": 2344
+      "raw_count": 2322
     },
     {
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "count": 2,
-      "raw_count": 2
+      "count": 4,
+      "raw_count": 4
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "count": 0,
-      "raw_count": 103
+      "raw_count": 130
     }
   ],
   "topic_tag_stats": [
     {
       "tag": "车企竞争",
-      "count": 10
+      "count": 12
+    },
+    {
+      "tag": "新能源",
+      "count": 7
     },
     {
       "tag": "购车决策",
       "count": 6
     },
     {
-      "tag": "新能源",
-      "count": 5
+      "tag": "新车上市",
+      "count": 3
     },
     {
-      "tag": "新车上市",
+      "tag": "补能电池",
       "count": 3
     },
     {
@@ -59,12 +63,73 @@
       "count": 1
     },
     {
-      "tag": "补能电池",
+      "tag": "销量市场",
       "count": 1
     }
   ],
   "items": [
     {
+      "id": "ec0fd8a0c53725f470797ae66d17427843ff3568",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Suzuki utilises BYD’s battery to launch Japan’s most affordable Kei-car EV",
+      "url": "https://carnewschina.com/2026/10/07/suzuki-utilises-byds-battery-to-launch-japans-most-affordable-kei-car-ev",
+      "published_at": "2026-10-07T09:58:59Z",
+      "first_seen_at": "2026-10-07T11:14:30.758161Z",
+      "last_seen_at": "2026-10-07T11:14:30.758161Z",
+      "title_original": "Suzuki utilises BYD’s battery to launch Japan’s most affordable Kei-car EV",
+      "title_en": "Suzuki utilises BYD’s battery to launch Japan’s most affordable Kei-car EV",
+      "title_zh": "铃木利用比亚迪电池推出日本最实惠的Kei-car EV",
+      "title_bilingual": "铃木利用比亚迪电池推出日本最实惠的Kei-car EV / Suzuki utilises BYD’s battery to launch Japan’s most affordable Kei-car EV",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "78dbba2f58ae0636aab110340188c839701bde97",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Li Auto plans to enter Thailand by the end of 2026 as one more RHD market",
+      "url": "https://carnewschina.com/2026/10/07/li-auto-plans-to-enter-thailand-by-the-end-of-2026-as-one-more-rhd-market",
+      "published_at": "2026-10-07T06:24:47Z",
+      "first_seen_at": "2026-10-07T11:14:30.758161Z",
+      "last_seen_at": "2026-10-07T11:14:30.758161Z",
+      "title_original": "Li Auto plans to enter Thailand by the end of 2026 as one more RHD market",
+      "title_en": "Li Auto plans to enter Thailand by the end of 2026 as one more RHD market",
+      "title_zh": "理想汽车计划于2026年底进军泰国，成为又一个右驾市场",
+      "title_bilingual": "理想汽车计划于2026年底进军泰国，成为又一个右驾市场 / Li Auto plans to enter Thailand by the end of 2026 as one more RHD market",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "526fea93d6108830b2dff86eddc7371c10af588a",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "BYD Da Han EV to launch October 13 with 0.197 Cd drag and 1,008 km range",
+      "url": "https://carnewschina.com/2026/10/07/byd-da-han-ev-to-launch-october-13-with-0-197-cd-drag-and-1008-km-range",
+      "published_at": "2026-10-07T05:03:53Z",
+      "first_seen_at": "2026-10-07T11:14:30.758161Z",
+      "last_seen_at": "2026-10-07T11:14:30.758161Z",
+      "title_original": "BYD Da Han EV to launch October 13 with 0.197 Cd drag and 1,008 km range",
+      "title_en": "BYD Da Han EV to launch October 13 with 0.197 Cd drag and 1,008 km range",
+      "title_zh": "比亚迪大汉电动车将于 10 月 13 日上市，阻力 0.197 Cd，续航里程 1,008 公里",
+      "title_bilingual": "比亚迪大汉电动车将于 10 月 13 日上市，阻力 0.197 Cd，续航里程 1,008 公里 / BYD Da Han EV to launch October 13 with 0.197 Cd drag and 1,008 km range",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
       "id": "aa87f8132e100500d45a9a476d8e19554fed5051",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -73,7 +138,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/999fee519aaad6ab/116278815-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-06T19:41:15.732445Z",
-      "last_seen_at": "2026-10-07T04:15:25.307667Z",
+      "last_seen_at": "2026-10-07T11:14:30.758161Z",
       "title_original": "MPV才是王炸！喜提魏牌 高山新能源",
       "title_en": null,
       "title_zh": "MPV才是王炸！喜提魏牌 高山新能源",
@@ -92,7 +157,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/ccfb875f6a0b8c97/116275535-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-06T19:41:15.732445Z",
-      "last_seen_at": "2026-10-07T04:15:25.307667Z",
+      "last_seen_at": "2026-10-07T11:14:30.758161Z",
       "title_original": "比较偏向于SUV 奥迪Q3提车分享",
       "title_en": null,
       "title_zh": "比较偏向于SUV 奥迪Q3提车分享",
@@ -112,7 +177,7 @@
       "url": "https://i.autohome.com.cn/4407516",
       "published_at": null,
       "first_seen_at": "2026-10-06T19:41:15.732445Z",
-      "last_seen_at": "2026-10-07T04:15:25.307667Z",
+      "last_seen_at": "2026-10-07T11:14:30.758161Z",
       "title_original": "总体没让我失望 零跑D99提车分享",
       "title_en": null,
       "title_zh": "总体没让我失望 零跑D99提车分享",
@@ -131,7 +196,7 @@
       "url": "https://i.autohome.com.cn/306168998",
       "published_at": null,
       "first_seen_at": "2026-10-06T19:41:15.732445Z",
-      "last_seen_at": "2026-10-07T04:15:25.307667Z",
+      "last_seen_at": "2026-10-07T11:14:30.758161Z",
       "title_original": "想要这种个性造型 iCAR V27提车",
       "title_en": null,
       "title_zh": "想要这种个性造型 iCAR V27提车",
@@ -149,7 +214,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/8b9694fb7ea27b1e/116236202-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-06T19:41:15.732445Z",
-      "last_seen_at": "2026-10-07T04:15:25.307667Z",
+      "last_seen_at": "2026-10-07T11:14:30.758161Z",
       "title_original": "高级感直接拉满 我的极氪8X提车分享",
       "title_en": null,
       "title_zh": "高级感直接拉满 我的极氪8X提车分享",
@@ -168,7 +233,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/2a4d3461d1d38edd/116168042-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-06T19:41:15.732445Z",
-      "last_seen_at": "2026-10-07T04:15:25.307667Z",
+      "last_seen_at": "2026-10-07T11:14:30.758161Z",
       "title_original": "外观霸气威猛 长城H10提车作业分享",
       "title_en": null,
       "title_zh": "外观霸气威猛 长城H10提车作业分享",
@@ -187,7 +252,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/24b11a0e2b840683/116159012-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-06T19:41:15.732445Z",
-      "last_seen_at": "2026-10-07T04:15:25.307667Z",
+      "last_seen_at": "2026-10-07T11:14:30.758161Z",
       "title_original": "家用代步小车 入手比亚迪海豚智驾版",
       "title_en": null,
       "title_zh": "家用代步小车 入手比亚迪海豚智驾版",
@@ -207,7 +272,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/b83043ec2e68832e/116253344-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-06T19:41:15.732445Z",
-      "last_seen_at": "2026-10-07T04:15:25.307667Z",
+      "last_seen_at": "2026-10-07T11:14:30.758161Z",
       "title_original": "精神焕发 普拉多全车底盘维修整备",
       "title_en": null,
       "title_zh": "精神焕发 普拉多全车底盘维修整备",
@@ -225,7 +290,7 @@
       "url": "http://vc.yiche.com/vplay/13520544.html",
       "published_at": null,
       "first_seen_at": "2026-10-06T19:41:15.732445Z",
-      "last_seen_at": "2026-10-07T04:15:25.307667Z",
+      "last_seen_at": "2026-10-07T11:14:30.758161Z",
       "title_original": "实拍艾尼氪V：个性设计+宁德电池，入门版就很香？",
       "title_en": null,
       "title_zh": "实拍艾尼氪V：个性设计+宁德电池，入门版就很香？",
@@ -243,7 +308,7 @@
       "url": "http://vc.yiche.com/vplay/13520796.html",
       "published_at": null,
       "first_seen_at": "2026-10-06T19:41:15.732445Z",
-      "last_seen_at": "2026-10-07T04:15:25.307667Z",
+      "last_seen_at": "2026-10-07T11:14:30.758161Z",
       "title_original": "探店丨比亚迪大汉，新中式竟然这么豪华？",
       "title_en": null,
       "title_zh": "探店丨比亚迪大汉，新中式竟然这么豪华？",
@@ -261,7 +326,7 @@
       "url": "http://vc.yiche.com/vplay/13510863.html",
       "published_at": null,
       "first_seen_at": "2026-10-06T19:41:15.732445Z",
-      "last_seen_at": "2026-10-07T04:15:25.307667Z",
+      "last_seen_at": "2026-10-07T11:14:30.758161Z",
       "title_original": "吉利银河TT探馆：12.99万起的C级纯电运动轿跑",
       "title_en": null,
       "title_zh": "吉利银河TT探馆：12.99万起的C级纯电运动轿跑",
@@ -280,7 +345,7 @@
       "url": "http://vc.yiche.com/vplay/13520495.html",
       "published_at": null,
       "first_seen_at": "2026-10-06T19:41:15.732445Z",
-      "last_seen_at": "2026-10-07T04:15:25.307667Z",
+      "last_seen_at": "2026-10-07T11:14:30.758161Z",
       "title_original": "29.98万起，纯电比插混还便宜！腾势N8L纯电这次想清楚了",
       "title_en": null,
       "title_zh": "29.98万起，纯电比插混还便宜！腾势N8L纯电这次想清楚了",
@@ -298,7 +363,7 @@
       "url": "http://vc.yiche.com/vplay/13508084.html",
       "published_at": null,
       "first_seen_at": "2026-10-06T19:41:15.732445Z",
-      "last_seen_at": "2026-10-07T04:15:25.307667Z",
+      "last_seen_at": "2026-10-07T11:14:30.758161Z",
       "title_original": "别人冲沙拼性能！长城H10把星级总统套房搬进阿拉善沙漠",
       "title_en": null,
       "title_zh": "别人冲沙拼性能！长城H10把星级总统套房搬进阿拉善沙漠",
@@ -316,7 +381,7 @@
       "url": "https://carnewschina.com/2026/10/06/leapmotor-b03x-crossover-revealed-price-for-australia",
       "published_at": "2026-10-06T13:41:30Z",
       "first_seen_at": "2026-10-06T14:21:21.041152Z",
-      "last_seen_at": "2026-10-07T04:15:25.307667Z",
+      "last_seen_at": "2026-10-07T11:14:30.758161Z",
       "title_original": "Leapmotor B03X crossover revealed price for Australia",
       "title_en": "Leapmotor B03X crossover revealed price for Australia",
       "title_zh": "零跑B03X跨界车澳大利亚售价公布",
@@ -325,31 +390,72 @@
         "新能源",
         "价格战",
         "车企竞争"
-      ]
-    },
-    {
-      "id": "0c79a5cf4bb9964349d8997695d6cdd185d2596a",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "BYD’s Racco Kei EV jumps out of Japan, prepares for launch in Sri Lanka and Macau",
-      "url": "https://carnewschina.com/2026/10/06/byds-racco-kei-ev-jumps-out-of-japan-prepares-for-launch-in-sri-lanka-and-macau",
-      "published_at": "2026-10-06T09:01:39Z",
-      "first_seen_at": "2026-10-06T14:21:21.041152Z",
-      "last_seen_at": "2026-10-07T04:15:25.307667Z",
-      "title_original": "BYD’s Racco Kei EV jumps out of Japan, prepares for launch in Sri Lanka and Macau",
-      "title_en": "BYD’s Racco Kei EV jumps out of Japan, prepares for launch in Sri Lanka and Macau",
-      "title_zh": "比亚迪Racco Kei EV走出日本，准备在斯里兰卡和澳门上市",
-      "title_bilingual": "比亚迪Racco Kei EV走出日本，准备在斯里兰卡和澳门上市 / BYD’s Racco Kei EV jumps out of Japan, prepares for launch in Sri Lanka and Macau",
-      "topic_tags": [
-        "新能源",
-        "车企竞争",
-        "新车上市"
       ]
     }
   ],
   "items_ai": [
     {
+      "id": "ec0fd8a0c53725f470797ae66d17427843ff3568",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Suzuki utilises BYD’s battery to launch Japan’s most affordable Kei-car EV",
+      "url": "https://carnewschina.com/2026/10/07/suzuki-utilises-byds-battery-to-launch-japans-most-affordable-kei-car-ev",
+      "published_at": "2026-10-07T09:58:59Z",
+      "first_seen_at": "2026-10-07T11:14:30.758161Z",
+      "last_seen_at": "2026-10-07T11:14:30.758161Z",
+      "title_original": "Suzuki utilises BYD’s battery to launch Japan’s most affordable Kei-car EV",
+      "title_en": "Suzuki utilises BYD’s battery to launch Japan’s most affordable Kei-car EV",
+      "title_zh": "铃木利用比亚迪电池推出日本最实惠的Kei-car EV",
+      "title_bilingual": "铃木利用比亚迪电池推出日本最实惠的Kei-car EV / Suzuki utilises BYD’s battery to launch Japan’s most affordable Kei-car EV",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "78dbba2f58ae0636aab110340188c839701bde97",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Li Auto plans to enter Thailand by the end of 2026 as one more RHD market",
+      "url": "https://carnewschina.com/2026/10/07/li-auto-plans-to-enter-thailand-by-the-end-of-2026-as-one-more-rhd-market",
+      "published_at": "2026-10-07T06:24:47Z",
+      "first_seen_at": "2026-10-07T11:14:30.758161Z",
+      "last_seen_at": "2026-10-07T11:14:30.758161Z",
+      "title_original": "Li Auto plans to enter Thailand by the end of 2026 as one more RHD market",
+      "title_en": "Li Auto plans to enter Thailand by the end of 2026 as one more RHD market",
+      "title_zh": "理想汽车计划于2026年底进军泰国，成为又一个右驾市场",
+      "title_bilingual": "理想汽车计划于2026年底进军泰国，成为又一个右驾市场 / Li Auto plans to enter Thailand by the end of 2026 as one more RHD market",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "526fea93d6108830b2dff86eddc7371c10af588a",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "BYD Da Han EV to launch October 13 with 0.197 Cd drag and 1,008 km range",
+      "url": "https://carnewschina.com/2026/10/07/byd-da-han-ev-to-launch-october-13-with-0-197-cd-drag-and-1008-km-range",
+      "published_at": "2026-10-07T05:03:53Z",
+      "first_seen_at": "2026-10-07T11:14:30.758161Z",
+      "last_seen_at": "2026-10-07T11:14:30.758161Z",
+      "title_original": "BYD Da Han EV to launch October 13 with 0.197 Cd drag and 1,008 km range",
+      "title_en": "BYD Da Han EV to launch October 13 with 0.197 Cd drag and 1,008 km range",
+      "title_zh": "比亚迪大汉电动车将于 10 月 13 日上市，阻力 0.197 Cd，续航里程 1,008 公里",
+      "title_bilingual": "比亚迪大汉电动车将于 10 月 13 日上市，阻力 0.197 Cd，续航里程 1,008 公里 / BYD Da Han EV to launch October 13 with 0.197 Cd drag and 1,008 km range",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
       "id": "aa87f8132e100500d45a9a476d8e19554fed5051",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -358,7 +464,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/999fee519aaad6ab/116278815-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-06T19:41:15.732445Z",
-      "last_seen_at": "2026-10-07T04:15:25.307667Z",
+      "last_seen_at": "2026-10-07T11:14:30.758161Z",
       "title_original": "MPV才是王炸！喜提魏牌 高山新能源",
       "title_en": null,
       "title_zh": "MPV才是王炸！喜提魏牌 高山新能源",
@@ -377,7 +483,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/ccfb875f6a0b8c97/116275535-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-06T19:41:15.732445Z",
-      "last_seen_at": "2026-10-07T04:15:25.307667Z",
+      "last_seen_at": "2026-10-07T11:14:30.758161Z",
       "title_original": "比较偏向于SUV 奥迪Q3提车分享",
       "title_en": null,
       "title_zh": "比较偏向于SUV 奥迪Q3提车分享",
@@ -397,7 +503,7 @@
       "url": "https://i.autohome.com.cn/4407516",
       "published_at": null,
       "first_seen_at": "2026-10-06T19:41:15.732445Z",
-      "last_seen_at": "2026-10-07T04:15:25.307667Z",
+      "last_seen_at": "2026-10-07T11:14:30.758161Z",
       "title_original": "总体没让我失望 零跑D99提车分享",
       "title_en": null,
       "title_zh": "总体没让我失望 零跑D99提车分享",
@@ -416,7 +522,7 @@
       "url": "https://i.autohome.com.cn/306168998",
       "published_at": null,
       "first_seen_at": "2026-10-06T19:41:15.732445Z",
-      "last_seen_at": "2026-10-07T04:15:25.307667Z",
+      "last_seen_at": "2026-10-07T11:14:30.758161Z",
       "title_original": "想要这种个性造型 iCAR V27提车",
       "title_en": null,
       "title_zh": "想要这种个性造型 iCAR V27提车",
@@ -434,7 +540,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/8b9694fb7ea27b1e/116236202-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-06T19:41:15.732445Z",
-      "last_seen_at": "2026-10-07T04:15:25.307667Z",
+      "last_seen_at": "2026-10-07T11:14:30.758161Z",
       "title_original": "高级感直接拉满 我的极氪8X提车分享",
       "title_en": null,
       "title_zh": "高级感直接拉满 我的极氪8X提车分享",
@@ -453,7 +559,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/2a4d3461d1d38edd/116168042-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-06T19:41:15.732445Z",
-      "last_seen_at": "2026-10-07T04:15:25.307667Z",
+      "last_seen_at": "2026-10-07T11:14:30.758161Z",
       "title_original": "外观霸气威猛 长城H10提车作业分享",
       "title_en": null,
       "title_zh": "外观霸气威猛 长城H10提车作业分享",
@@ -472,7 +578,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/24b11a0e2b840683/116159012-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-06T19:41:15.732445Z",
-      "last_seen_at": "2026-10-07T04:15:25.307667Z",
+      "last_seen_at": "2026-10-07T11:14:30.758161Z",
       "title_original": "家用代步小车 入手比亚迪海豚智驾版",
       "title_en": null,
       "title_zh": "家用代步小车 入手比亚迪海豚智驾版",
@@ -492,7 +598,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/b83043ec2e68832e/116253344-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-06T19:41:15.732445Z",
-      "last_seen_at": "2026-10-07T04:15:25.307667Z",
+      "last_seen_at": "2026-10-07T11:14:30.758161Z",
       "title_original": "精神焕发 普拉多全车底盘维修整备",
       "title_en": null,
       "title_zh": "精神焕发 普拉多全车底盘维修整备",
@@ -510,7 +616,7 @@
       "url": "http://vc.yiche.com/vplay/13520544.html",
       "published_at": null,
       "first_seen_at": "2026-10-06T19:41:15.732445Z",
-      "last_seen_at": "2026-10-07T04:15:25.307667Z",
+      "last_seen_at": "2026-10-07T11:14:30.758161Z",
       "title_original": "实拍艾尼氪V：个性设计+宁德电池，入门版就很香？",
       "title_en": null,
       "title_zh": "实拍艾尼氪V：个性设计+宁德电池，入门版就很香？",
@@ -528,7 +634,7 @@
       "url": "http://vc.yiche.com/vplay/13520796.html",
       "published_at": null,
       "first_seen_at": "2026-10-06T19:41:15.732445Z",
-      "last_seen_at": "2026-10-07T04:15:25.307667Z",
+      "last_seen_at": "2026-10-07T11:14:30.758161Z",
       "title_original": "探店丨比亚迪大汉，新中式竟然这么豪华？",
       "title_en": null,
       "title_zh": "探店丨比亚迪大汉，新中式竟然这么豪华？",
@@ -546,7 +652,7 @@
       "url": "http://vc.yiche.com/vplay/13510863.html",
       "published_at": null,
       "first_seen_at": "2026-10-06T19:41:15.732445Z",
-      "last_seen_at": "2026-10-07T04:15:25.307667Z",
+      "last_seen_at": "2026-10-07T11:14:30.758161Z",
       "title_original": "吉利银河TT探馆：12.99万起的C级纯电运动轿跑",
       "title_en": null,
       "title_zh": "吉利银河TT探馆：12.99万起的C级纯电运动轿跑",
@@ -565,7 +671,7 @@
       "url": "http://vc.yiche.com/vplay/13520495.html",
       "published_at": null,
       "first_seen_at": "2026-10-06T19:41:15.732445Z",
-      "last_seen_at": "2026-10-07T04:15:25.307667Z",
+      "last_seen_at": "2026-10-07T11:14:30.758161Z",
       "title_original": "29.98万起，纯电比插混还便宜！腾势N8L纯电这次想清楚了",
       "title_en": null,
       "title_zh": "29.98万起，纯电比插混还便宜！腾势N8L纯电这次想清楚了",
@@ -583,7 +689,7 @@
       "url": "http://vc.yiche.com/vplay/13508084.html",
       "published_at": null,
       "first_seen_at": "2026-10-06T19:41:15.732445Z",
-      "last_seen_at": "2026-10-07T04:15:25.307667Z",
+      "last_seen_at": "2026-10-07T11:14:30.758161Z",
       "title_original": "别人冲沙拼性能！长城H10把星级总统套房搬进阿拉善沙漠",
       "title_en": null,
       "title_zh": "别人冲沙拼性能！长城H10把星级总统套房搬进阿拉善沙漠",
@@ -601,7 +707,7 @@
       "url": "https://carnewschina.com/2026/10/06/leapmotor-b03x-crossover-revealed-price-for-australia",
       "published_at": "2026-10-06T13:41:30Z",
       "first_seen_at": "2026-10-06T14:21:21.041152Z",
-      "last_seen_at": "2026-10-07T04:15:25.307667Z",
+      "last_seen_at": "2026-10-07T11:14:30.758161Z",
       "title_original": "Leapmotor B03X crossover revealed price for Australia",
       "title_en": "Leapmotor B03X crossover revealed price for Australia",
       "title_zh": "零跑B03X跨界车澳大利亚售价公布",
@@ -610,26 +716,6 @@
         "新能源",
         "价格战",
         "车企竞争"
-      ]
-    },
-    {
-      "id": "0c79a5cf4bb9964349d8997695d6cdd185d2596a",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "BYD’s Racco Kei EV jumps out of Japan, prepares for launch in Sri Lanka and Macau",
-      "url": "https://carnewschina.com/2026/10/06/byds-racco-kei-ev-jumps-out-of-japan-prepares-for-launch-in-sri-lanka-and-macau",
-      "published_at": "2026-10-06T09:01:39Z",
-      "first_seen_at": "2026-10-06T14:21:21.041152Z",
-      "last_seen_at": "2026-10-07T04:15:25.307667Z",
-      "title_original": "BYD’s Racco Kei EV jumps out of Japan, prepares for launch in Sri Lanka and Macau",
-      "title_en": "BYD’s Racco Kei EV jumps out of Japan, prepares for launch in Sri Lanka and Macau",
-      "title_zh": "比亚迪Racco Kei EV走出日本，准备在斯里兰卡和澳门上市",
-      "title_bilingual": "比亚迪Racco Kei EV走出日本，准备在斯里兰卡和澳门上市 / BYD’s Racco Kei EV jumps out of Japan, prepares for launch in Sri Lanka and Macau",
-      "topic_tags": [
-        "新能源",
-        "车企竞争",
-        "新车上市"
       ]
     }
   ],
