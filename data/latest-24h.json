@@ -1,53 +1,53 @@
 {
-  "generated_at": "2026-10-08T09:23:43.684083Z",
+  "generated_at": "2026-10-08T16:46:23.627071Z",
   "window_hours": 24,
-  "total_items": 21,
-  "total_items_ai_raw": 21,
-  "total_items_raw": 2748,
-  "total_items_all_mode": 2443,
+  "total_items": 27,
+  "total_items_ai_raw": 27,
+  "total_items_raw": 2743,
+  "total_items_all_mode": 2444,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 53793,
+  "archive_total": 53671,
   "site_count": 3,
-  "source_count": 4,
+  "source_count": 6,
   "site_stats": [
-    {
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "count": 11,
-      "raw_count": 11
-    },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
-      "count": 10,
-      "raw_count": 2623
+      "count": 13,
+      "raw_count": 2629
+    },
+    {
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "count": 13,
+      "raw_count": 13
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
-      "count": 0,
-      "raw_count": 114
+      "count": 1,
+      "raw_count": 101
     }
   ],
   "topic_tag_stats": [
     {
       "tag": "新能源",
-      "count": 15
+      "count": 18
     },
     {
       "tag": "车企竞争",
-      "count": 13
+      "count": 14
     },
     {
       "tag": "新车上市",
-      "count": 8
+      "count": 10
     },
     {
       "tag": "购车决策",
-      "count": 6
+      "count": 8
     },
     {
-      "tag": "召回安全",
+      "tag": "智能驾驶",
       "count": 2
     },
     {
@@ -55,7 +55,7 @@
       "count": 2
     },
     {
-      "tag": "智能驾驶",
+      "tag": "召回安全",
       "count": 1
     },
     {
@@ -65,6 +65,156 @@
   ],
   "items": [
     {
+      "id": "3aff57468b4ffe7dec17a00711e7d6be6a11af82",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "买一台空间大的suv 哈弗H6l提车分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/3d71c537c91dbe94/116279850-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-10-08T16:46:23.627071Z",
+      "last_seen_at": "2026-10-08T16:46:23.627071Z",
+      "title_original": "买一台空间大的suv 哈弗H6l提车分享",
+      "title_en": null,
+      "title_zh": "买一台空间大的suv 哈弗H6l提车分享",
+      "title_bilingual": "买一台空间大的suv 哈弗H6l提车分享",
+      "topic_tags": [
+        "购车决策",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "60304d81fbf25e693955fa6b746b4a484f5f917f",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "硬派新能源SUV 传祺越7给出新答案",
+      "url": "https://club.autohome.com.cn/bbs/thread/74b6cdcefb95243b/116363068-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-10-08T16:46:23.627071Z",
+      "last_seen_at": "2026-10-08T16:46:23.627071Z",
+      "title_original": "硬派新能源SUV 传祺越7给出新答案",
+      "title_en": null,
+      "title_zh": "硬派新能源SUV 传祺越7给出新答案",
+      "title_bilingual": "硬派新能源SUV 传祺越7给出新答案",
+      "topic_tags": [
+        "新能源",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "6e55255a89f1d83e998cc256fd4639496bc3a7f2",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "二孩家庭购车历程 大唐提车分享记",
+      "url": "https://club.autohome.com.cn/bbs/thread/64ed66398af75def/116231389-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-10-08T16:46:23.627071Z",
+      "last_seen_at": "2026-10-08T16:46:23.627071Z",
+      "title_original": "二孩家庭购车历程 大唐提车分享记",
+      "title_en": null,
+      "title_zh": "二孩家庭购车历程 大唐提车分享记",
+      "title_bilingual": "二孩家庭购车历程 大唐提车分享记",
+      "topic_tags": [
+        "购车决策"
+      ]
+    },
+    {
+      "id": "0b8a6a6b9bb559eddbddc1ceb09813122d5e6ae9",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "hackernews",
+      "title": "4-hour battery storage is cheaper to install than gas turbines all across globe",
+      "url": "https://news.ycombinator.com/item?id=50007519",
+      "published_at": "2026-10-08T16:03:33Z",
+      "first_seen_at": "2026-10-08T16:46:23.627071Z",
+      "last_seen_at": "2026-10-08T16:46:23.627071Z",
+      "title_original": "4-hour battery storage is cheaper to install than gas turbines all across globe",
+      "title_en": "4-hour battery storage is cheaper to install than gas turbines all across globe",
+      "title_zh": null,
+      "title_bilingual": "4-hour battery storage is cheaper to install than gas turbines all across globe",
+      "topic_tags": [
+        "补能电池"
+      ]
+    },
+    {
+      "id": "6e27cd68aea21150ad6f5fbe9e73d9e204d90ec4",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Xpeng release invite-only Yoyo robotaxi pilot in China",
+      "url": "https://carnewschina.com/2026/10/08/xpeng-release-invite-only-yoyo-robotaxi-pilot-in-china",
+      "published_at": "2026-10-08T15:22:13Z",
+      "first_seen_at": "2026-10-08T16:46:23.627071Z",
+      "last_seen_at": "2026-10-08T16:46:23.627071Z",
+      "title_original": "Xpeng release invite-only Yoyo robotaxi pilot in China",
+      "title_en": "Xpeng release invite-only Yoyo robotaxi pilot in China",
+      "title_zh": null,
+      "title_bilingual": "Xpeng release invite-only Yoyo robotaxi pilot in China",
+      "topic_tags": [
+        "新能源",
+        "智能驾驶",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "3f0edfaa2d4231c99380f6f51ea9b479a4287dcb",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Huawei-JAC brand Maextro pledges component redesign after brake test controversy",
+      "url": "https://cnevpost.com/2026/10/08/maextro-pledges-component-redesign-brake-test-controversy",
+      "published_at": "2026-10-08T13:46:26Z",
+      "first_seen_at": "2026-10-08T16:46:23.627071Z",
+      "last_seen_at": "2026-10-08T16:46:23.627071Z",
+      "title_original": "Huawei-JAC brand Maextro pledges component redesign after brake test controversy",
+      "title_en": "Huawei-JAC brand Maextro pledges component redesign after brake test controversy",
+      "title_zh": null,
+      "title_bilingual": "Huawei-JAC brand Maextro pledges component redesign after brake test controversy",
+      "topic_tags": [
+        "新能源"
+      ]
+    },
+    {
+      "id": "0c2fce30e9b27329a7a5fd8c1ca5b9ad7a2ceb56",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "BYD launches Fang Cheng Bao Tai 7 in Uzbekistan as BYD Ti 7",
+      "url": "https://cnevpost.com/2026/10/08/byd-launches-fang-cheng-bao-tai-7-uzbekistan",
+      "published_at": "2026-10-08T12:49:42Z",
+      "first_seen_at": "2026-10-08T16:46:23.627071Z",
+      "last_seen_at": "2026-10-08T16:46:23.627071Z",
+      "title_original": "BYD launches Fang Cheng Bao Tai 7 in Uzbekistan as BYD Ti 7",
+      "title_en": "BYD launches Fang Cheng Bao Tai 7 in Uzbekistan as BYD Ti 7",
+      "title_zh": null,
+      "title_bilingual": "BYD launches Fang Cheng Bao Tai 7 in Uzbekistan as BYD Ti 7",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "d729ef7b67e61c62df6957b1d29eebc03b726f20",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Xiaomi Sky Nomad tops 70,000 locked-in orders, bolstering EREV push",
+      "url": "https://cnevpost.com/2026/10/08/xiaomi-sky-nomad-70000-locked-in-orders",
+      "published_at": "2026-10-08T09:58:56Z",
+      "first_seen_at": "2026-10-08T16:46:23.627071Z",
+      "last_seen_at": "2026-10-08T16:46:23.627071Z",
+      "title_original": "Xiaomi Sky Nomad tops 70,000 locked-in orders, bolstering EREV push",
+      "title_en": "Xiaomi Sky Nomad tops 70,000 locked-in orders, bolstering EREV push",
+      "title_zh": null,
+      "title_bilingual": "Xiaomi Sky Nomad tops 70,000 locked-in orders, bolstering EREV push",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
       "id": "475e39193b107b494300967f9995de444dce6b3d",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -73,7 +223,7 @@
       "url": "https://cnevpost.com/2026/10/08/china-highway-nev-charging-demand-climbs-national-day-holiday",
       "published_at": "2026-10-08T09:13:18Z",
       "first_seen_at": "2026-10-08T09:23:43.684083Z",
-      "last_seen_at": "2026-10-08T09:23:43.684083Z",
+      "last_seen_at": "2026-10-08T16:46:23.627071Z",
       "title_original": "China's highway NEV charging demand climbs over 50% during National Day holiday",
       "title_en": "China's highway NEV charging demand climbs over 50% during National Day holiday",
       "title_zh": "国庆假期中国公路新能源汽车充电需求增长超50%",
@@ -92,7 +242,7 @@
       "url": "https://cnevpost.com/2026/10/08/zeekr-007-gt-q4-australian-launch",
       "published_at": "2026-10-08T07:33:08Z",
       "first_seen_at": "2026-10-08T09:23:43.684083Z",
-      "last_seen_at": "2026-10-08T09:23:43.684083Z",
+      "last_seen_at": "2026-10-08T16:46:23.627071Z",
       "title_original": "Zeekr 007 GT set for Q4 Australian launch after roll-out in 16 European countries",
       "title_en": "Zeekr 007 GT set for Q4 Australian launch after roll-out in 16 European countries",
       "title_zh": "Zeekr 007 GT 继在 16 个欧洲国家推出后，将于第四季度在澳大利亚上市",
@@ -112,7 +262,7 @@
       "url": "https://cnevpost.com/2026/10/08/byd-reveals-interior-third-gen-tang",
       "published_at": "2026-10-08T06:25:43Z",
       "first_seen_at": "2026-10-08T09:23:43.684083Z",
-      "last_seen_at": "2026-10-08T09:23:43.684083Z",
+      "last_seen_at": "2026-10-08T16:46:23.627071Z",
       "title_original": "BYD reveals dual-screen interior for third-gen Tang ahead of Q4 launch",
       "title_en": "BYD reveals dual-screen interior for third-gen Tang ahead of Q4 launch",
       "title_zh": "比亚迪在第四季度发布前展示了第三代唐的双屏内饰",
@@ -132,7 +282,7 @@
       "url": "https://cnevpost.com/2026/10/08/maextro-v800-brake-test-controversy-jac-shares-fall",
       "published_at": "2026-10-08T06:00:09Z",
       "first_seen_at": "2026-10-08T09:23:43.684083Z",
-      "last_seen_at": "2026-10-08T09:23:43.684083Z",
+      "last_seen_at": "2026-10-08T16:46:23.627071Z",
       "title_original": "Huawei-backed Maextro V800 faces brake test controversy as JAC shares fall by daily limit",
       "title_en": "Huawei-backed Maextro V800 faces brake test controversy as JAC shares fall by daily limit",
       "title_zh": "华为支持的Maextro V800面临制动测试争议，江淮汽车股价跌停",
@@ -151,7 +301,7 @@
       "url": "https://carnewschina.com/2026/10/08/byd-unveils-interior-of-its-third-generation-tang-ev",
       "published_at": "2026-10-08T05:20:39Z",
       "first_seen_at": "2026-10-08T09:23:43.684083Z",
-      "last_seen_at": "2026-10-08T09:23:43.684083Z",
+      "last_seen_at": "2026-10-08T16:46:23.627071Z",
       "title_original": "BYD unveils interior of its third-generation Tang EV",
       "title_en": "BYD unveils interior of its third-generation Tang EV",
       "title_zh": "比亚迪发布第三代唐EV内饰",
@@ -171,7 +321,7 @@
       "url": "https://cnevpost.com/2026/10/08/changan-deepal-to-launch-2027-l06-oct-9",
       "published_at": "2026-10-08T04:27:05Z",
       "first_seen_at": "2026-10-08T09:23:43.684083Z",
-      "last_seen_at": "2026-10-08T09:23:43.684083Z",
+      "last_seen_at": "2026-10-08T16:46:23.627071Z",
       "title_original": "Changan Deepal to launch 2027 L06 sedan October 9, bring S07 and S05 to Paris Motor Show",
       "title_en": "Changan Deepal to launch 2027 L06 sedan October 9, bring S07 and S05 to Paris Motor Show",
       "title_zh": "长安深派将于10月9日推出2027款L06轿车，携S07、S05亮相巴黎车展",
@@ -191,7 +341,7 @@
       "url": "https://cnevpost.com/2026/10/08/onvo-reaches-200000-deliveries",
       "published_at": "2026-10-08T02:55:46Z",
       "first_seen_at": "2026-10-08T09:23:43.684083Z",
-      "last_seen_at": "2026-10-08T09:23:43.684083Z",
+      "last_seen_at": "2026-10-08T16:46:23.627071Z",
       "title_original": "Nio Onvo reaches 200,000 deliveries about 2 years after first handover",
       "title_en": "Nio Onvo reaches 200,000 deliveries about 2 years after first handover",
       "title_zh": "Nio Onvo 首次交付约两年后交付量达到 20 万辆",
@@ -229,7 +379,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/9f64cbe4ba036f54/116231406-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-08T02:29:17.170367Z",
-      "last_seen_at": "2026-10-08T09:23:43.684083Z",
+      "last_seen_at": "2026-10-08T16:46:23.627071Z",
       "title_original": "不纠结MPV、SUV 小米澎程N90提车",
       "title_en": null,
       "title_zh": "不纠结MPV、SUV 小米澎程N90提车",
@@ -248,7 +398,7 @@
       "url": "https://cnevpost.com/2026/10/08/xpeng-unveils-yoyo-robotaxi-name",
       "published_at": "2026-10-08T02:15:05Z",
       "first_seen_at": "2026-10-08T02:29:17.170367Z",
-      "last_seen_at": "2026-10-08T09:23:43.684083Z",
+      "last_seen_at": "2026-10-08T16:46:23.627071Z",
       "title_original": "Xpeng unveils Yoyo name as it advances robotaxi business",
       "title_en": "Xpeng unveils Yoyo name as it advances robotaxi business",
       "title_zh": "小鹏汽车推出 Yoyo 名称，推进机器人出租车业务",
@@ -260,6 +410,24 @@
       ]
     },
     {
+      "id": "ecd42f1339a9e40e98a19dfb5f19a1ccd446df4e",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "英国考虑对中国电动车加征关税，与欧盟政策对齐",
+      "url": "https://auto.gasgoo.com/news/202610/7I70474179C108.shtml",
+      "published_at": "2026-10-07T23:43:00Z",
+      "first_seen_at": "2026-10-08T16:46:23.627071Z",
+      "last_seen_at": "2026-10-08T16:46:23.627071Z",
+      "title_original": "英国考虑对中国电动车加征关税，与欧盟政策对齐",
+      "title_en": null,
+      "title_zh": "英国考虑对中国电动车加征关税，与欧盟政策对齐",
+      "title_bilingual": "英国考虑对中国电动车加征关税，与欧盟政策对齐",
+      "topic_tags": [
+        "新能源"
+      ]
+    },
+    {
       "id": "d13564c9d4a878fb525472342272ac8321e7fdc0",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -268,7 +436,7 @@
       "url": "http://vc.yiche.com/vplay/13534278.html",
       "published_at": null,
       "first_seen_at": "2026-10-07T22:40:56.845429Z",
-      "last_seen_at": "2026-10-08T09:23:43.684083Z",
+      "last_seen_at": "2026-10-08T16:46:23.627071Z",
       "title_original": "有机会成为国产混动SUV车圈旗舰 吉利星越L PLUS广东首秀",
       "title_en": null,
       "title_zh": "有机会成为国产混动SUV车圈旗舰 吉利星越L PLUS广东首秀",
@@ -288,7 +456,7 @@
       "url": "http://vc.yiche.com/vplay/13522105.html",
       "published_at": null,
       "first_seen_at": "2026-10-07T22:40:56.845429Z",
-      "last_seen_at": "2026-10-08T09:23:43.684083Z",
+      "last_seen_at": "2026-10-08T16:46:23.627071Z",
       "title_original": "长城大狗HEV混动版上市，发布会开了1000多公里",
       "title_en": null,
       "title_zh": "长城大狗HEV混动版上市，发布会开了1000多公里",
@@ -308,7 +476,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/83db68809b6f3c7d/116263847-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-07T17:53:54.961484Z",
-      "last_seen_at": "2026-10-08T09:23:43.684083Z",
+      "last_seen_at": "2026-10-08T16:46:23.627071Z",
       "title_original": "目前大致挺满意 极氪9X提车分享",
       "title_en": null,
       "title_zh": "目前大致挺满意 极氪9X提车分享",
@@ -327,7 +495,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/56143c62046921c1/116180148-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-07T17:53:54.961484Z",
-      "last_seen_at": "2026-10-08T09:23:43.684083Z",
+      "last_seen_at": "2026-10-08T16:46:23.627071Z",
       "title_original": "外观很霸气 长城H10提车作业分享",
       "title_en": null,
       "title_zh": "外观很霸气 长城H10提车作业分享",
@@ -402,76 +570,168 @@
       "url": "https://club.autohome.com.cn/bbs/thread/a116febf14e86e0c/115999839-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-07T17:53:54.961484Z",
-      "last_seen_at": "2026-10-07T22:40:56.845429Z",
+      "last_seen_at": "2026-10-08T16:46:23.627071Z",
       "title_original": "电车盛行时代回味沃尔沃S90岁月相伴",
       "title_en": null,
       "title_zh": "电车盛行时代回味沃尔沃S90岁月相伴",
       "title_bilingual": "电车盛行时代回味沃尔沃S90岁月相伴",
       "topic_tags": [
         "新能源"
-      ]
-    },
-    {
-      "id": "1a7967d769825a03575ca5d0f6ff005adb22e290",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Chery to turn Jetour into high-end brand in a strategy shift",
-      "url": "https://carnewschina.com/2026/10/07/chery-to-turn-jetour-into-high-end-brand-in-a-strategy-shift",
-      "published_at": "2026-10-07T14:19:02Z",
-      "first_seen_at": "2026-10-07T17:53:54.961484Z",
-      "last_seen_at": "2026-10-08T09:23:43.684083Z",
-      "title_original": "Chery to turn Jetour into high-end brand in a strategy shift",
-      "title_en": "Chery to turn Jetour into high-end brand in a strategy shift",
-      "title_zh": "奇瑞战略转型 捷途转型高端品牌",
-      "title_bilingual": "奇瑞战略转型 捷途转型高端品牌 / Chery to turn Jetour into high-end brand in a strategy shift",
-      "topic_tags": [
-        "新能源",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "7ce3d2245170364bcd084d07d1a7c00def40c7c5",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "EU plans Chinese hybrid import curbs as test case for trade rebalancing, report says",
-      "url": "https://cnevpost.com/2026/10/07/eu-plans-chinese-hybrid-import-curbs",
-      "published_at": "2026-10-07T11:37:35Z",
-      "first_seen_at": "2026-10-07T17:53:54.961484Z",
-      "last_seen_at": "2026-10-08T09:23:43.684083Z",
-      "title_original": "EU plans Chinese hybrid import curbs as test case for trade rebalancing, report says",
-      "title_en": "EU plans Chinese hybrid import curbs as test case for trade rebalancing, report says",
-      "title_zh": "报告称欧盟计划将中国混合进口限制作为贸易再平衡的测试案例",
-      "title_bilingual": "报告称欧盟计划将中国混合进口限制作为贸易再平衡的测试案例 / EU plans Chinese hybrid import curbs as test case for trade rebalancing, report says",
-      "topic_tags": [
-        "新能源",
-        "召回安全"
-      ]
-    },
-    {
-      "id": "ec0fd8a0c53725f470797ae66d17427843ff3568",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Suzuki utilises BYD’s battery to launch Japan’s most affordable Kei-car EV",
-      "url": "https://carnewschina.com/2026/10/07/suzuki-utilises-byds-battery-to-launch-japans-most-affordable-kei-car-ev",
-      "published_at": "2026-10-07T09:58:59Z",
-      "first_seen_at": "2026-10-07T11:14:30.758161Z",
-      "last_seen_at": "2026-10-08T09:23:43.684083Z",
-      "title_original": "Suzuki utilises BYD’s battery to launch Japan’s most affordable Kei-car EV",
-      "title_en": "Suzuki utilises BYD’s battery to launch Japan’s most affordable Kei-car EV",
-      "title_zh": "铃木利用比亚迪电池推出日本最实惠的Kei-car EV",
-      "title_bilingual": "铃木利用比亚迪电池推出日本最实惠的Kei-car EV / Suzuki utilises BYD’s battery to launch Japan’s most affordable Kei-car EV",
-      "topic_tags": [
-        "新能源",
-        "补能电池",
-        "车企竞争"
       ]
     }
   ],
   "items_ai": [
     {
+      "id": "3aff57468b4ffe7dec17a00711e7d6be6a11af82",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "买一台空间大的suv 哈弗H6l提车分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/3d71c537c91dbe94/116279850-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-10-08T16:46:23.627071Z",
+      "last_seen_at": "2026-10-08T16:46:23.627071Z",
+      "title_original": "买一台空间大的suv 哈弗H6l提车分享",
+      "title_en": null,
+      "title_zh": "买一台空间大的suv 哈弗H6l提车分享",
+      "title_bilingual": "买一台空间大的suv 哈弗H6l提车分享",
+      "topic_tags": [
+        "购车决策",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "60304d81fbf25e693955fa6b746b4a484f5f917f",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "硬派新能源SUV 传祺越7给出新答案",
+      "url": "https://club.autohome.com.cn/bbs/thread/74b6cdcefb95243b/116363068-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-10-08T16:46:23.627071Z",
+      "last_seen_at": "2026-10-08T16:46:23.627071Z",
+      "title_original": "硬派新能源SUV 传祺越7给出新答案",
+      "title_en": null,
+      "title_zh": "硬派新能源SUV 传祺越7给出新答案",
+      "title_bilingual": "硬派新能源SUV 传祺越7给出新答案",
+      "topic_tags": [
+        "新能源",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "6e55255a89f1d83e998cc256fd4639496bc3a7f2",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "二孩家庭购车历程 大唐提车分享记",
+      "url": "https://club.autohome.com.cn/bbs/thread/64ed66398af75def/116231389-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-10-08T16:46:23.627071Z",
+      "last_seen_at": "2026-10-08T16:46:23.627071Z",
+      "title_original": "二孩家庭购车历程 大唐提车分享记",
+      "title_en": null,
+      "title_zh": "二孩家庭购车历程 大唐提车分享记",
+      "title_bilingual": "二孩家庭购车历程 大唐提车分享记",
+      "topic_tags": [
+        "购车决策"
+      ]
+    },
+    {
+      "id": "0b8a6a6b9bb559eddbddc1ceb09813122d5e6ae9",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "hackernews",
+      "title": "4-hour battery storage is cheaper to install than gas turbines all across globe",
+      "url": "https://news.ycombinator.com/item?id=50007519",
+      "published_at": "2026-10-08T16:03:33Z",
+      "first_seen_at": "2026-10-08T16:46:23.627071Z",
+      "last_seen_at": "2026-10-08T16:46:23.627071Z",
+      "title_original": "4-hour battery storage is cheaper to install than gas turbines all across globe",
+      "title_en": "4-hour battery storage is cheaper to install than gas turbines all across globe",
+      "title_zh": null,
+      "title_bilingual": "4-hour battery storage is cheaper to install than gas turbines all across globe",
+      "topic_tags": [
+        "补能电池"
+      ]
+    },
+    {
+      "id": "6e27cd68aea21150ad6f5fbe9e73d9e204d90ec4",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Xpeng release invite-only Yoyo robotaxi pilot in China",
+      "url": "https://carnewschina.com/2026/10/08/xpeng-release-invite-only-yoyo-robotaxi-pilot-in-china",
+      "published_at": "2026-10-08T15:22:13Z",
+      "first_seen_at": "2026-10-08T16:46:23.627071Z",
+      "last_seen_at": "2026-10-08T16:46:23.627071Z",
+      "title_original": "Xpeng release invite-only Yoyo robotaxi pilot in China",
+      "title_en": "Xpeng release invite-only Yoyo robotaxi pilot in China",
+      "title_zh": null,
+      "title_bilingual": "Xpeng release invite-only Yoyo robotaxi pilot in China",
+      "topic_tags": [
+        "新能源",
+        "智能驾驶",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "3f0edfaa2d4231c99380f6f51ea9b479a4287dcb",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Huawei-JAC brand Maextro pledges component redesign after brake test controversy",
+      "url": "https://cnevpost.com/2026/10/08/maextro-pledges-component-redesign-brake-test-controversy",
+      "published_at": "2026-10-08T13:46:26Z",
+      "first_seen_at": "2026-10-08T16:46:23.627071Z",
+      "last_seen_at": "2026-10-08T16:46:23.627071Z",
+      "title_original": "Huawei-JAC brand Maextro pledges component redesign after brake test controversy",
+      "title_en": "Huawei-JAC brand Maextro pledges component redesign after brake test controversy",
+      "title_zh": null,
+      "title_bilingual": "Huawei-JAC brand Maextro pledges component redesign after brake test controversy",
+      "topic_tags": [
+        "新能源"
+      ]
+    },
+    {
+      "id": "0c2fce30e9b27329a7a5fd8c1ca5b9ad7a2ceb56",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "BYD launches Fang Cheng Bao Tai 7 in Uzbekistan as BYD Ti 7",
+      "url": "https://cnevpost.com/2026/10/08/byd-launches-fang-cheng-bao-tai-7-uzbekistan",
+      "published_at": "2026-10-08T12:49:42Z",
+      "first_seen_at": "2026-10-08T16:46:23.627071Z",
+      "last_seen_at": "2026-10-08T16:46:23.627071Z",
+      "title_original": "BYD launches Fang Cheng Bao Tai 7 in Uzbekistan as BYD Ti 7",
+      "title_en": "BYD launches Fang Cheng Bao Tai 7 in Uzbekistan as BYD Ti 7",
+      "title_zh": null,
+      "title_bilingual": "BYD launches Fang Cheng Bao Tai 7 in Uzbekistan as BYD Ti 7",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "d729ef7b67e61c62df6957b1d29eebc03b726f20",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Xiaomi Sky Nomad tops 70,000 locked-in orders, bolstering EREV push",
+      "url": "https://cnevpost.com/2026/10/08/xiaomi-sky-nomad-70000-locked-in-orders",
+      "published_at": "2026-10-08T09:58:56Z",
+      "first_seen_at": "2026-10-08T16:46:23.627071Z",
+      "last_seen_at": "2026-10-08T16:46:23.627071Z",
+      "title_original": "Xiaomi Sky Nomad tops 70,000 locked-in orders, bolstering EREV push",
+      "title_en": "Xiaomi Sky Nomad tops 70,000 locked-in orders, bolstering EREV push",
+      "title_zh": null,
+      "title_bilingual": "Xiaomi Sky Nomad tops 70,000 locked-in orders, bolstering EREV push",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
       "id": "475e39193b107b494300967f9995de444dce6b3d",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -480,7 +740,7 @@
       "url": "https://cnevpost.com/2026/10/08/china-highway-nev-charging-demand-climbs-national-day-holiday",
       "published_at": "2026-10-08T09:13:18Z",
       "first_seen_at": "2026-10-08T09:23:43.684083Z",
-      "last_seen_at": "2026-10-08T09:23:43.684083Z",
+      "last_seen_at": "2026-10-08T16:46:23.627071Z",
       "title_original": "China's highway NEV charging demand climbs over 50% during National Day holiday",
       "title_en": "China's highway NEV charging demand climbs over 50% during National Day holiday",
       "title_zh": "国庆假期中国公路新能源汽车充电需求增长超50%",
@@ -499,7 +759,7 @@
       "url": "https://cnevpost.com/2026/10/08/zeekr-007-gt-q4-australian-launch",
       "published_at": "2026-10-08T07:33:08Z",
       "first_seen_at": "2026-10-08T09:23:43.684083Z",
-      "last_seen_at": "2026-10-08T09:23:43.684083Z",
+      "last_seen_at": "2026-10-08T16:46:23.627071Z",
       "title_original": "Zeekr 007 GT set for Q4 Australian launch after roll-out in 16 European countries",
       "title_en": "Zeekr 007 GT set for Q4 Australian launch after roll-out in 16 European countries",
       "title_zh": "Zeekr 007 GT 继在 16 个欧洲国家推出后，将于第四季度在澳大利亚上市",
@@ -519,7 +779,7 @@
       "url": "https://cnevpost.com/2026/10/08/byd-reveals-interior-third-gen-tang",
       "published_at": "2026-10-08T06:25:43Z",
       "first_seen_at": "2026-10-08T09:23:43.684083Z",
-      "last_seen_at": "2026-10-08T09:23:43.684083Z",
+      "last_seen_at": "2026-10-08T16:46:23.627071Z",
       "title_original": "BYD reveals dual-screen interior for third-gen Tang ahead of Q4 launch",
       "title_en": "BYD reveals dual-screen interior for third-gen Tang ahead of Q4 launch",
       "title_zh": "比亚迪在第四季度发布前展示了第三代唐的双屏内饰",
@@ -539,7 +799,7 @@
       "url": "https://cnevpost.com/2026/10/08/maextro-v800-brake-test-controversy-jac-shares-fall",
       "published_at": "2026-10-08T06:00:09Z",
       "first_seen_at": "2026-10-08T09:23:43.684083Z",
-      "last_seen_at": "2026-10-08T09:23:43.684083Z",
+      "last_seen_at": "2026-10-08T16:46:23.627071Z",
       "title_original": "Huawei-backed Maextro V800 faces brake test controversy as JAC shares fall by daily limit",
       "title_en": "Huawei-backed Maextro V800 faces brake test controversy as JAC shares fall by daily limit",
       "title_zh": "华为支持的Maextro V800面临制动测试争议，江淮汽车股价跌停",
@@ -558,7 +818,7 @@
       "url": "https://carnewschina.com/2026/10/08/byd-unveils-interior-of-its-third-generation-tang-ev",
       "published_at": "2026-10-08T05:20:39Z",
       "first_seen_at": "2026-10-08T09:23:43.684083Z",
-      "last_seen_at": "2026-10-08T09:23:43.684083Z",
+      "last_seen_at": "2026-10-08T16:46:23.627071Z",
       "title_original": "BYD unveils interior of its third-generation Tang EV",
       "title_en": "BYD unveils interior of its third-generation Tang EV",
       "title_zh": "比亚迪发布第三代唐EV内饰",
@@ -578,7 +838,7 @@
       "url": "https://cnevpost.com/2026/10/08/changan-deepal-to-launch-2027-l06-oct-9",
       "published_at": "2026-10-08T04:27:05Z",
       "first_seen_at": "2026-10-08T09:23:43.684083Z",
-      "last_seen_at": "2026-10-08T09:23:43.684083Z",
+      "last_seen_at": "2026-10-08T16:46:23.627071Z",
       "title_original": "Changan Deepal to launch 2027 L06 sedan October 9, bring S07 and S05 to Paris Motor Show",
       "title_en": "Changan Deepal to launch 2027 L06 sedan October 9, bring S07 and S05 to Paris Motor Show",
       "title_zh": "长安深派将于10月9日推出2027款L06轿车，携S07、S05亮相巴黎车展",
@@ -598,7 +858,7 @@
       "url": "https://cnevpost.com/2026/10/08/onvo-reaches-200000-deliveries",
       "published_at": "2026-10-08T02:55:46Z",
       "first_seen_at": "2026-10-08T09:23:43.684083Z",
-      "last_seen_at": "2026-10-08T09:23:43.684083Z",
+      "last_seen_at": "2026-10-08T16:46:23.627071Z",
       "title_original": "Nio Onvo reaches 200,000 deliveries about 2 years after first handover",
       "title_en": "Nio Onvo reaches 200,000 deliveries about 2 years after first handover",
       "title_zh": "Nio Onvo 首次交付约两年后交付量达到 20 万辆",
@@ -636,7 +896,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/9f64cbe4ba036f54/116231406-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-08T02:29:17.170367Z",
-      "last_seen_at": "2026-10-08T09:23:43.684083Z",
+      "last_seen_at": "2026-10-08T16:46:23.627071Z",
       "title_original": "不纠结MPV、SUV 小米澎程N90提车",
       "title_en": null,
       "title_zh": "不纠结MPV、SUV 小米澎程N90提车",
@@ -655,7 +915,7 @@
       "url": "https://cnevpost.com/2026/10/08/xpeng-unveils-yoyo-robotaxi-name",
       "published_at": "2026-10-08T02:15:05Z",
       "first_seen_at": "2026-10-08T02:29:17.170367Z",
-      "last_seen_at": "2026-10-08T09:23:43.684083Z",
+      "last_seen_at": "2026-10-08T16:46:23.627071Z",
       "title_original": "Xpeng unveils Yoyo name as it advances robotaxi business",
       "title_en": "Xpeng unveils Yoyo name as it advances robotaxi business",
       "title_zh": "小鹏汽车推出 Yoyo 名称，推进机器人出租车业务",
@@ -667,6 +927,24 @@
       ]
     },
     {
+      "id": "ecd42f1339a9e40e98a19dfb5f19a1ccd446df4e",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "英国考虑对中国电动车加征关税，与欧盟政策对齐",
+      "url": "https://auto.gasgoo.com/news/202610/7I70474179C108.shtml",
+      "published_at": "2026-10-07T23:43:00Z",
+      "first_seen_at": "2026-10-08T16:46:23.627071Z",
+      "last_seen_at": "2026-10-08T16:46:23.627071Z",
+      "title_original": "英国考虑对中国电动车加征关税，与欧盟政策对齐",
+      "title_en": null,
+      "title_zh": "英国考虑对中国电动车加征关税，与欧盟政策对齐",
+      "title_bilingual": "英国考虑对中国电动车加征关税，与欧盟政策对齐",
+      "topic_tags": [
+        "新能源"
+      ]
+    },
+    {
       "id": "d13564c9d4a878fb525472342272ac8321e7fdc0",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -675,7 +953,7 @@
       "url": "http://vc.yiche.com/vplay/13534278.html",
       "published_at": null,
       "first_seen_at": "2026-10-07T22:40:56.845429Z",
-      "last_seen_at": "2026-10-08T09:23:43.684083Z",
+      "last_seen_at": "2026-10-08T16:46:23.627071Z",
       "title_original": "有机会成为国产混动SUV车圈旗舰 吉利星越L PLUS广东首秀",
       "title_en": null,
       "title_zh": "有机会成为国产混动SUV车圈旗舰 吉利星越L PLUS广东首秀",
@@ -695,7 +973,7 @@
       "url": "http://vc.yiche.com/vplay/13522105.html",
       "published_at": null,
       "first_seen_at": "2026-10-07T22:40:56.845429Z",
-      "last_seen_at": "2026-10-08T09:23:43.684083Z",
+      "last_seen_at": "2026-10-08T16:46:23.627071Z",
       "title_original": "长城大狗HEV混动版上市，发布会开了1000多公里",
       "title_en": null,
       "title_zh": "长城大狗HEV混动版上市，发布会开了1000多公里",
@@ -715,7 +993,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/83db68809b6f3c7d/116263847-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-07T17:53:54.961484Z",
-      "last_seen_at": "2026-10-08T09:23:43.684083Z",
+      "last_seen_at": "2026-10-08T16:46:23.627071Z",
       "title_original": "目前大致挺满意 极氪9X提车分享",
       "title_en": null,
       "title_zh": "目前大致挺满意 极氪9X提车分享",
@@ -734,7 +1012,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/56143c62046921c1/116180148-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-07T17:53:54.961484Z",
-      "last_seen_at": "2026-10-08T09:23:43.684083Z",
+      "last_seen_at": "2026-10-08T16:46:23.627071Z",
       "title_original": "外观很霸气 长城H10提车作业分享",
       "title_en": null,
       "title_zh": "外观很霸气 长城H10提车作业分享",
@@ -809,71 +1087,13 @@
       "url": "https://club.autohome.com.cn/bbs/thread/a116febf14e86e0c/115999839-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-07T17:53:54.961484Z",
-      "last_seen_at": "2026-10-07T22:40:56.845429Z",
+      "last_seen_at": "2026-10-08T16:46:23.627071Z",
       "title_original": "电车盛行时代回味沃尔沃S90岁月相伴",
       "title_en": null,
       "title_zh": "电车盛行时代回味沃尔沃S90岁月相伴",
       "title_bilingual": "电车盛行时代回味沃尔沃S90岁月相伴",
       "topic_tags": [
         "新能源"
-      ]
-    },
-    {
-      "id": "1a7967d769825a03575ca5d0f6ff005adb22e290",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Chery to turn Jetour into high-end brand in a strategy shift",
-      "url": "https://carnewschina.com/2026/10/07/chery-to-turn-jetour-into-high-end-brand-in-a-strategy-shift",
-      "published_at": "2026-10-07T14:19:02Z",
-      "first_seen_at": "2026-10-07T17:53:54.961484Z",
-      "last_seen_at": "2026-10-08T09:23:43.684083Z",
-      "title_original": "Chery to turn Jetour into high-end brand in a strategy shift",
-      "title_en": "Chery to turn Jetour into high-end brand in a strategy shift",
-      "title_zh": "奇瑞战略转型 捷途转型高端品牌",
-      "title_bilingual": "奇瑞战略转型 捷途转型高端品牌 / Chery to turn Jetour into high-end brand in a strategy shift",
-      "topic_tags": [
-        "新能源",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "7ce3d2245170364bcd084d07d1a7c00def40c7c5",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "EU plans Chinese hybrid import curbs as test case for trade rebalancing, report says",
-      "url": "https://cnevpost.com/2026/10/07/eu-plans-chinese-hybrid-import-curbs",
-      "published_at": "2026-10-07T11:37:35Z",
-      "first_seen_at": "2026-10-07T17:53:54.961484Z",
-      "last_seen_at": "2026-10-08T09:23:43.684083Z",
-      "title_original": "EU plans Chinese hybrid import curbs as test case for trade rebalancing, report says",
-      "title_en": "EU plans Chinese hybrid import curbs as test case for trade rebalancing, report says",
-      "title_zh": "报告称欧盟计划将中国混合进口限制作为贸易再平衡的测试案例",
-      "title_bilingual": "报告称欧盟计划将中国混合进口限制作为贸易再平衡的测试案例 / EU plans Chinese hybrid import curbs as test case for trade rebalancing, report says",
-      "topic_tags": [
-        "新能源",
-        "召回安全"
-      ]
-    },
-    {
-      "id": "ec0fd8a0c53725f470797ae66d17427843ff3568",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Suzuki utilises BYD’s battery to launch Japan’s most affordable Kei-car EV",
-      "url": "https://carnewschina.com/2026/10/07/suzuki-utilises-byds-battery-to-launch-japans-most-affordable-kei-car-ev",
-      "published_at": "2026-10-07T09:58:59Z",
-      "first_seen_at": "2026-10-07T11:14:30.758161Z",
-      "last_seen_at": "2026-10-08T09:23:43.684083Z",
-      "title_original": "Suzuki utilises BYD’s battery to launch Japan’s most affordable Kei-car EV",
-      "title_en": "Suzuki utilises BYD’s battery to launch Japan’s most affordable Kei-car EV",
-      "title_zh": "铃木利用比亚迪电池推出日本最实惠的Kei-car EV",
-      "title_bilingual": "铃木利用比亚迪电池推出日本最实惠的Kei-car EV / Suzuki utilises BYD’s battery to launch Japan’s most affordable Kei-car EV",
-      "topic_tags": [
-        "新能源",
-        "补能电池",
-        "车企竞争"
       ]
     }
   ],
