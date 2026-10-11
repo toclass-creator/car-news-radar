@@ -1,49 +1,45 @@
 {
-  "generated_at": "2026-10-11T06:09:11.141370Z",
+  "generated_at": "2026-10-11T13:15:50.257166Z",
   "window_hours": 24,
-  "total_items": 24,
-  "total_items_ai_raw": 26,
-  "total_items_raw": 2856,
-  "total_items_all_mode": 2569,
+  "total_items": 21,
+  "total_items_ai_raw": 24,
+  "total_items_raw": 2149,
+  "total_items_all_mode": 1954,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 52340,
+  "archive_total": 52527,
   "site_count": 3,
-  "source_count": 7,
+  "source_count": 11,
   "site_stats": [
     {
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "count": 19,
-      "raw_count": 21
+      "count": 13,
+      "raw_count": 16
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
-      "count": 5,
-      "raw_count": 2766
+      "count": 8,
+      "raw_count": 2051
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "count": 0,
-      "raw_count": 69
+      "raw_count": 82
     }
   ],
   "topic_tag_stats": [
     {
       "tag": "车企竞争",
-      "count": 13
-    },
-    {
-      "tag": "新能源",
       "count": 10
     },
     {
-      "tag": "销量市场",
-      "count": 7
+      "tag": "新能源",
+      "count": 8
     },
     {
-      "tag": "新车上市",
+      "tag": "销量市场",
       "count": 5
     },
     {
@@ -51,19 +47,93 @@
       "count": 3
     },
     {
-      "tag": "补能电池",
-      "count": 2
+      "tag": "新车上市",
+      "count": 3
     },
     {
-      "tag": "价格战",
-      "count": 1
+      "tag": "补能电池",
+      "count": 3
     },
     {
       "tag": "购车决策",
-      "count": 1
+      "count": 3
     }
   ],
   "items": [
+    {
+      "id": "de6109b56e78f17b6a7ece5497c40666afbc7e92",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "懂车帝 · 文章排行榜",
+      "title": "领克07GT动态体验：MRC性格分明、双电机性能兜底，够S的旅行车",
+      "url": "https://www.dongchedi.com/article/7692768536607310360",
+      "published_at": null,
+      "first_seen_at": "2026-10-11T13:15:50.257166Z",
+      "last_seen_at": "2026-10-11T13:15:50.257166Z",
+      "title_original": "领克07GT动态体验：MRC性格分明、双电机性能兜底，够S的旅行车",
+      "title_en": null,
+      "title_zh": "领克07GT动态体验：MRC性格分明、双电机性能兜底，够S的旅行车",
+      "title_bilingual": "领克07GT动态体验：MRC性格分明、双电机性能兜底，够S的旅行车",
+      "topic_tags": [
+        "供应链",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "280d247ba99eba1bfb075e1bf6d221bb3de50ae3",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "懂车帝 · 文章排行榜",
+      "title": "欧盟对中国混动车“出手”了，四年内对欧出口或减半",
+      "url": "https://www.dongchedi.com/article/7695040692598915646",
+      "published_at": null,
+      "first_seen_at": "2026-10-11T13:15:50.257166Z",
+      "last_seen_at": "2026-10-11T13:15:50.257166Z",
+      "title_original": "欧盟对中国混动车“出手”了，四年内对欧出口或减半",
+      "title_en": null,
+      "title_zh": "欧盟对中国混动车“出手”了，四年内对欧出口或减半",
+      "title_bilingual": "欧盟对中国混动车“出手”了，四年内对欧出口或减半",
+      "topic_tags": [
+        "新能源",
+        "销量市场"
+      ]
+    },
+    {
+      "id": "c1f6fe62e48914077a053e24ccf1f7c02b7747dd",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "懂车帝 · 文章排行榜",
+      "title": "车市“金九”大考：自主五强战略分野，全球竞速重构增长曲线",
+      "url": "https://www.dongchedi.com/article/7694976344308400664",
+      "published_at": null,
+      "first_seen_at": "2026-10-11T13:15:50.257166Z",
+      "last_seen_at": "2026-10-11T13:15:50.257166Z",
+      "title_original": "车市“金九”大考：自主五强战略分野，全球竞速重构增长曲线",
+      "title_en": null,
+      "title_zh": "车市“金九”大考：自主五强战略分野，全球竞速重构增长曲线",
+      "title_bilingual": "车市“金九”大考：自主五强战略分野，全球竞速重构增长曲线",
+      "topic_tags": []
+    },
+    {
+      "id": "2368abf39040172d08da38167028c34dc9a8bc14",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Nio reaches 500 swap stations in Guangdong, with over 17 million swaps completed",
+      "url": "https://cnevpost.com/2026/10/11/nio-500-swap-stations-guangdong",
+      "published_at": "2026-10-11T08:24:13Z",
+      "first_seen_at": "2026-10-11T13:15:50.257166Z",
+      "last_seen_at": "2026-10-11T13:15:50.257166Z",
+      "title_original": "Nio reaches 500 swap stations in Guangdong, with over 17 million swaps completed",
+      "title_en": "Nio reaches 500 swap stations in Guangdong, with over 17 million swaps completed",
+      "title_zh": "蔚来广东换电站已达500座，完成换电站超1700万次",
+      "title_bilingual": "蔚来广东换电站已达500座，完成换电站超1700万次 / Nio reaches 500 swap stations in Guangdong, with over 17 million swaps completed",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争"
+      ]
+    },
     {
       "id": "fcb32865e3a73f9b344443149861f22205398a0a",
       "site_id": "official_auto",
@@ -73,7 +143,7 @@
       "url": "https://cnevpost.com/2026/10/11/catl-deal-seres-expand-aito-battery-capacity",
       "published_at": "2026-10-11T01:17:40Z",
       "first_seen_at": "2026-10-11T06:09:11.141370Z",
-      "last_seen_at": "2026-10-11T06:09:11.141370Z",
+      "last_seen_at": "2026-10-11T13:15:50.257166Z",
       "title_original": "CATL signs long-term strategic deal with Seres to expand Aito battery capacity",
       "title_en": "CATL signs long-term strategic deal with Seres to expand Aito battery capacity",
       "title_zh": "CATL与Seres签署长期战略协议，扩大Aito电池产能",
@@ -92,7 +162,7 @@
       "url": "https://carnewschina.com/2026/10/11/byd-launches-13-usd-flash-charger-cat-bed-promises-faster-naps-sells-out-immediately",
       "published_at": "2026-10-10T22:02:18Z",
       "first_seen_at": "2026-10-11T00:19:40.144771Z",
-      "last_seen_at": "2026-10-11T06:09:11.141370Z",
+      "last_seen_at": "2026-10-11T13:15:50.257166Z",
       "title_original": "BYD launches 13 USD “Flash Charger” cat bed, promises faster naps, sells out immediately",
       "title_en": "BYD launches 13 USD “Flash Charger” cat bed, promises faster naps, sells out immediately",
       "title_zh": "比亚迪推出13美元“Flash Charger”猫床，承诺更快小憩，立即售空",
@@ -111,7 +181,7 @@
       "url": "http://vc.yiche.com/vplay/13560157.html",
       "published_at": null,
       "first_seen_at": "2026-10-10T21:08:17.696138Z",
-      "last_seen_at": "2026-10-11T06:09:11.141370Z",
+      "last_seen_at": "2026-10-11T13:15:50.257166Z",
       "title_original": "入手20.18万起，顶配不过22.38万！长城H10为何建议直接选顶配？",
       "title_en": null,
       "title_zh": "入手20.18万起，顶配不过22.38万！长城H10为何建议直接选顶配？",
@@ -129,7 +199,7 @@
       "url": "http://vc.yiche.com/vplay/13581892.html",
       "published_at": null,
       "first_seen_at": "2026-10-10T21:08:17.696138Z",
-      "last_seen_at": "2026-10-11T06:09:11.141370Z",
+      "last_seen_at": "2026-10-11T13:15:50.257166Z",
       "title_original": "比油车更省钱，比电车更抗冻",
       "title_en": null,
       "title_zh": "比油车更省钱，比电车更抗冻",
@@ -147,7 +217,7 @@
       "url": "http://vc.yiche.com/vplay/13585476.html",
       "published_at": null,
       "first_seen_at": "2026-10-10T21:08:17.696138Z",
-      "last_seen_at": "2026-10-11T06:09:11.141370Z",
+      "last_seen_at": "2026-10-11T13:15:50.257166Z",
       "title_original": "试驾体验别克新款君越 实力稳步提升",
       "title_en": null,
       "title_zh": "试驾体验别克新款君越 实力稳步提升",
@@ -165,7 +235,7 @@
       "url": "http://vc.yiche.com/vplay/13560416.html",
       "published_at": null,
       "first_seen_at": "2026-10-10T21:08:17.696138Z",
-      "last_seen_at": "2026-10-11T06:09:11.141370Z",
+      "last_seen_at": "2026-10-11T13:15:50.257166Z",
       "title_original": "10万元就有1.5T+CMA架构的SUV博越L，给个不买理由",
       "title_en": null,
       "title_zh": "10万元就有1.5T+CMA架构的SUV博越L，给个不买理由",
@@ -183,13 +253,163 @@
       "url": "http://vc.yiche.com/vplay/13557854.html",
       "published_at": null,
       "first_seen_at": "2026-10-10T21:08:17.696138Z",
-      "last_seen_at": "2026-10-11T06:09:11.141370Z",
+      "last_seen_at": "2026-10-11T13:15:50.257166Z",
       "title_original": "比亚迪海狮06真实落地价，看完再去4S店不被坑！",
       "title_en": null,
       "title_zh": "比亚迪海狮06真实落地价，看完再去4S店不被坑！",
       "title_bilingual": "比亚迪海狮06真实落地价，看完再去4S店不被坑！",
       "topic_tags": [
         "车企竞争"
+      ]
+    },
+    {
+      "id": "258c62ce01eb8e80c19e76b811ab2a316dff6e3c",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-销量",
+      "title": "2026年8月乘用车自主品牌销量榜：比亚迪以368,323辆断层领跑丨盖世汽车研究院",
+      "url": "https://auto.gasgoo.com/news/202610/10I70474468C110.shtml",
+      "published_at": "2026-10-10T18:24:14Z",
+      "first_seen_at": "2026-10-11T13:15:50.257166Z",
+      "last_seen_at": "2026-10-11T13:15:50.257166Z",
+      "title_original": "2026年8月乘用车自主品牌销量榜：比亚迪以368,323辆断层领跑丨盖世汽车研究院",
+      "title_en": null,
+      "title_zh": "2026年8月乘用车自主品牌销量榜：比亚迪以368,323辆断层领跑丨盖世汽车研究院",
+      "title_bilingual": "2026年8月乘用车自主品牌销量榜：比亚迪以368,323辆断层领跑丨盖世汽车研究院",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "ce962f0d0a255bc7bed2e5ec80b6527015d8908e",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新能源",
+      "title": "全球电动车准备度排名：中国挪威前二，美国日本跌出前20",
+      "url": "https://auto.gasgoo.com/news/202610/10I70474460C501.shtml",
+      "published_at": "2026-10-10T17:39:57Z",
+      "first_seen_at": "2026-10-11T13:15:50.257166Z",
+      "last_seen_at": "2026-10-11T13:15:50.257166Z",
+      "title_original": "全球电动车准备度排名：中国挪威前二，美国日本跌出前20",
+      "title_en": null,
+      "title_zh": "全球电动车准备度排名：中国挪威前二，美国日本跌出前20",
+      "title_bilingual": "全球电动车准备度排名：中国挪威前二，美国日本跌出前20",
+      "topic_tags": [
+        "新能源",
+        "销量市场"
+      ]
+    },
+    {
+      "id": "df2ef760fc40df725360fee0723ac4261e2b6dcc",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "奇瑞全球化3.0：当海外收入近七成，奇瑞重构管理架构",
+      "url": "https://auto.gasgoo.com/news/202610/10I70474357C109.shtml",
+      "published_at": "2026-10-10T17:14:43Z",
+      "first_seen_at": "2026-10-11T13:15:50.257166Z",
+      "last_seen_at": "2026-10-11T13:15:50.257166Z",
+      "title_original": "奇瑞全球化3.0：当海外收入近七成，奇瑞重构管理架构",
+      "title_en": null,
+      "title_zh": "奇瑞全球化3.0：当海外收入近七成，奇瑞重构管理架构",
+      "title_bilingual": "奇瑞全球化3.0：当海外收入近七成，奇瑞重构管理架构",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "ac0a0e185c0d3ed6ef42266ab03c8e52912c05c5",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新能源",
+      "title": "吉利旗下吉曜通行开始卖电池",
+      "url": "https://auto.gasgoo.com/news/202610/10I70474452C501.shtml",
+      "published_at": "2026-10-10T16:51:31Z",
+      "first_seen_at": "2026-10-11T13:15:50.257166Z",
+      "last_seen_at": "2026-10-11T13:15:50.257166Z",
+      "title_original": "吉利旗下吉曜通行开始卖电池",
+      "title_en": null,
+      "title_zh": "吉利旗下吉曜通行开始卖电池",
+      "title_bilingual": "吉利旗下吉曜通行开始卖电池",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "062d7c75cccb617c49058f7084c5550b45e9aa79",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-供应链",
+      "title": "光谷高端微电子器件产业园一期建成",
+      "url": "https://auto.gasgoo.com/news/202610/10I70474450C103.shtml",
+      "published_at": "2026-10-10T16:13:26Z",
+      "first_seen_at": "2026-10-11T13:15:50.257166Z",
+      "last_seen_at": "2026-10-11T13:15:50.257166Z",
+      "title_original": "光谷高端微电子器件产业园一期建成",
+      "title_en": null,
+      "title_zh": "光谷高端微电子器件产业园一期建成",
+      "title_bilingual": "光谷高端微电子器件产业园一期建成",
+      "topic_tags": [
+        "供应链"
+      ]
+    },
+    {
+      "id": "777242e10868cba9e4bdb0827d3f66985effdd29",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-销量",
+      "title": "2026年8月越野/高端/猎装销量榜：特斯拉Model Y领跑，方程豹钛7表现亮眼丨盖世汽车研究院",
+      "url": "https://auto.gasgoo.com/news/202610/10I70474444C110.shtml",
+      "published_at": "2026-10-10T16:02:28Z",
+      "first_seen_at": "2026-10-11T13:15:50.257166Z",
+      "last_seen_at": "2026-10-11T13:15:50.257166Z",
+      "title_original": "2026年8月越野/高端/猎装销量榜：特斯拉Model Y领跑，方程豹钛7表现亮眼丨盖世汽车研究院",
+      "title_en": null,
+      "title_zh": "2026年8月越野/高端/猎装销量榜：特斯拉Model Y领跑，方程豹钛7表现亮眼丨盖世汽车研究院",
+      "title_bilingual": "2026年8月越野/高端/猎装销量榜：特斯拉Model Y领跑，方程豹钛7表现亮眼丨盖世汽车研究院",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "16db7810c055d9eecacf1633137faa0b856da1c1",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "Unifor呼吁对中国进口电动车实施严格、覆盖面广的保护措施",
+      "url": "https://auto.gasgoo.com/news/202610/10I70474443C108.shtml",
+      "published_at": "2026-10-10T15:37:54Z",
+      "first_seen_at": "2026-10-11T13:15:50.257166Z",
+      "last_seen_at": "2026-10-11T13:15:50.257166Z",
+      "title_original": "Unifor呼吁对中国进口电动车实施严格、覆盖面广的保护措施",
+      "title_en": null,
+      "title_zh": "Unifor呼吁对中国进口电动车实施严格、覆盖面广的保护措施",
+      "title_bilingual": "Unifor呼吁对中国进口电动车实施严格、覆盖面广的保护措施",
+      "topic_tags": [
+        "新能源"
+      ]
+    },
+    {
+      "id": "a3a39a91d3ef77295a9afc1f353b6567470e19a4",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新车",
+      "title": "猛士X700首台量产车在襄阳下线",
+      "url": "https://auto.gasgoo.com/news/202610/10I70474442C107.shtml",
+      "published_at": "2026-10-10T15:23:46Z",
+      "first_seen_at": "2026-10-11T13:15:50.257166Z",
+      "last_seen_at": "2026-10-11T13:15:50.257166Z",
+      "title_original": "猛士X700首台量产车在襄阳下线",
+      "title_en": null,
+      "title_zh": "猛士X700首台量产车在襄阳下线",
+      "title_bilingual": "猛士X700首台量产车在襄阳下线",
+      "topic_tags": [
+        "新车上市"
       ]
     },
     {
@@ -201,7 +421,7 @@
       "url": "https://cnevpost.com/2026/10/10/geely-galaxy-launches-cruiser-700-suv",
       "published_at": "2026-10-10T14:07:06Z",
       "first_seen_at": "2026-10-10T17:38:06.292431Z",
-      "last_seen_at": "2026-10-11T06:09:11.141370Z",
+      "last_seen_at": "2026-10-11T13:15:50.257166Z",
       "title_original": "Geely Galaxy launches Cruiser 700 to take on BYD, GWM in off-road SUV market",
       "title_en": "Geely Galaxy launches Cruiser 700 to take on BYD, GWM in off-road SUV market",
       "title_zh": "吉利银河推出漫步者700 与比亚迪、长城汽车争夺越野SUV市场",
@@ -222,301 +442,92 @@
       "url": "https://auto.gasgoo.com/news/202610/10I70474431C108.shtml",
       "published_at": "2026-10-10T13:24:52Z",
       "first_seen_at": "2026-10-11T06:09:11.141370Z",
-      "last_seen_at": "2026-10-11T06:09:11.141370Z",
+      "last_seen_at": "2026-10-11T13:15:50.257166Z",
       "title_original": "配置竞争的话语权，从来不在车企",
       "title_en": null,
       "title_zh": "配置竞争的话语权，从来不在车企",
       "title_bilingual": "配置竞争的话语权，从来不在车企",
       "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "5a2088930101f468fa8240cd4776bb2316026f89",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "China's September NEV retail sales fall 12% as month-end surge narrows decline, preliminary CPCA data shows",
-      "url": "https://cnevpost.com/2026/10/10/china-sept-nev-retail-preliminary-cpca",
-      "published_at": "2026-10-10T13:12:52Z",
-      "first_seen_at": "2026-10-10T17:38:06.292431Z",
-      "last_seen_at": "2026-10-11T06:09:11.141370Z",
-      "title_original": "China's September NEV retail sales fall 12% as month-end surge narrows decline, preliminary CPCA data shows",
-      "title_en": "China's September NEV retail sales fall 12% as month-end surge narrows decline, preliminary CPCA data shows",
-      "title_zh": "CPCA初步数据显示，中国9月新能源汽车零售量下降12%，月末激增，降幅收窄",
-      "title_bilingual": "CPCA初步数据显示，中国9月新能源汽车零售量下降12%，月末激增，降幅收窄 / China's September NEV retail sales fall 12% as month-end surge narrows decline, preliminary CPCA data shows",
-      "topic_tags": [
-        "新能源"
-      ]
-    },
-    {
-      "id": "6ac81c04222202b5eb2d9a01af548c74d942c3ed",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "China proposes tighter vehicle design rules, reiterates concealed-handle ban and targets foldable screens",
-      "url": "https://cnevpost.com/2026/10/10/china-proposes-tighter-vehicle-design-rules",
-      "published_at": "2026-10-10T12:37:54Z",
-      "first_seen_at": "2026-10-10T12:51:47.460192Z",
-      "last_seen_at": "2026-10-11T06:09:11.141370Z",
-      "title_original": "China proposes tighter vehicle design rules, reiterates concealed-handle ban and targets foldable screens",
-      "title_en": "China proposes tighter vehicle design rules, reiterates concealed-handle ban and targets foldable screens",
-      "title_zh": "中国提出更严格的车辆设计规则，重申隐藏把手禁令并瞄准可折叠屏幕",
-      "title_bilingual": "中国提出更严格的车辆设计规则，重申隐藏把手禁令并瞄准可折叠屏幕 / China proposes tighter vehicle design rules, reiterates concealed-handle ban and targets foldable screens",
-      "topic_tags": [
-        "新能源"
-      ]
-    },
-    {
-      "id": "41b906e16e4e76c33ef409551862dc2ddc017bc5",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "中欧达成混动车贸易谅解：中国混动车对欧出口四年内或减半",
-      "url": "https://auto.gasgoo.com/news/202610/10I70474428C108.shtml",
-      "published_at": "2026-10-10T12:27:44Z",
-      "first_seen_at": "2026-10-11T06:09:11.141370Z",
-      "last_seen_at": "2026-10-11T06:09:11.141370Z",
-      "title_original": "中欧达成混动车贸易谅解：中国混动车对欧出口四年内或减半",
-      "title_en": null,
-      "title_zh": "中欧达成混动车贸易谅解：中国混动车对欧出口四年内或减半",
-      "title_bilingual": "中欧达成混动车贸易谅解：中国混动车对欧出口四年内或减半",
-      "topic_tags": [
-        "新能源",
-        "销量市场"
-      ]
-    },
-    {
-      "id": "e6240d81c399d2f9abee6590ba7b1daf59346a70",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "【国际快讯】中欧就混动汽车出口达成协议；加拿大工会Unifor呼吁对中国EV加征100%附加税；吉利汽车正式进入加拿大市场",
-      "url": "https://auto.gasgoo.com/news/202610/10I70474429C108.shtml",
-      "published_at": "2026-10-10T12:08:32Z",
-      "first_seen_at": "2026-10-11T06:09:11.141370Z",
-      "last_seen_at": "2026-10-11T06:09:11.141370Z",
-      "title_original": "【国际快讯】中欧就混动汽车出口达成协议；加拿大工会Unifor呼吁对中国EV加征100%附加税；吉利汽车正式进入加拿大市场",
-      "title_en": null,
-      "title_zh": "【国际快讯】中欧就混动汽车出口达成协议；加拿大工会Unifor呼吁对中国EV加征100%附加税；吉利汽车正式进入加拿大市场",
-      "title_bilingual": "【国际快讯】中欧就混动汽车出口达成协议；加拿大工会Unifor呼吁对中国EV加征100%附加税；吉利汽车正式进入加拿大市场",
-      "topic_tags": [
-        "新能源",
-        "销量市场",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "51a3b8c69f9464d7f0fafbf10329b24ce82713c7",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "雷诺携多款新车及三款概念车亮相2026巴黎车展",
-      "url": "https://auto.gasgoo.com/news/202610/10I70474427C109.shtml",
-      "published_at": "2026-10-10T11:41:40Z",
-      "first_seen_at": "2026-10-11T06:09:11.141370Z",
-      "last_seen_at": "2026-10-11T06:09:11.141370Z",
-      "title_original": "雷诺携多款新车及三款概念车亮相2026巴黎车展",
-      "title_en": null,
-      "title_zh": "雷诺携多款新车及三款概念车亮相2026巴黎车展",
-      "title_bilingual": "雷诺携多款新车及三款概念车亮相2026巴黎车展",
-      "topic_tags": [
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "19331e4aea058d72bd0e22a7d7264957d387aee9",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "岚图2026秋招，扩容释放500+岗位",
-      "url": "https://auto.gasgoo.com/news/202610/10I70474421C109.shtml",
-      "published_at": "2026-10-10T10:40:34Z",
-      "first_seen_at": "2026-10-11T06:09:11.141370Z",
-      "last_seen_at": "2026-10-11T06:09:11.141370Z",
-      "title_original": "岚图2026秋招，扩容释放500+岗位",
-      "title_en": null,
-      "title_zh": "岚图2026秋招，扩容释放500+岗位",
-      "title_bilingual": "岚图2026秋招，扩容释放500+岗位",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "1864caf9879fc529c6a1fdb91bcca5c5308d95af",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "欧盟称中国将大幅削减对欧混合动力汽车出口",
-      "url": "https://auto.gasgoo.com/news/202610/10I70474420C108.shtml",
-      "published_at": "2026-10-10T10:21:21Z",
-      "first_seen_at": "2026-10-11T06:09:11.141370Z",
-      "last_seen_at": "2026-10-11T06:09:11.141370Z",
-      "title_original": "欧盟称中国将大幅削减对欧混合动力汽车出口",
-      "title_en": null,
-      "title_zh": "欧盟称中国将大幅削减对欧混合动力汽车出口",
-      "title_bilingual": "欧盟称中国将大幅削减对欧混合动力汽车出口",
-      "topic_tags": [
-        "销量市场"
-      ]
-    },
-    {
-      "id": "67b9970103ed539978fc9dbc718b21bd2ded1344",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "小鹏G9L将于巴黎车展全球上市，计划登陆64个国家和地区",
-      "url": "https://auto.gasgoo.com/news/202610/10I70474418C109.shtml",
-      "published_at": "2026-10-10T10:05:22Z",
-      "first_seen_at": "2026-10-11T06:09:11.141370Z",
-      "last_seen_at": "2026-10-11T06:09:11.141370Z",
-      "title_original": "小鹏G9L将于巴黎车展全球上市，计划登陆64个国家和地区",
-      "title_en": null,
-      "title_zh": "小鹏G9L将于巴黎车展全球上市，计划登陆64个国家和地区",
-      "title_bilingual": "小鹏G9L将于巴黎车展全球上市，计划登陆64个国家和地区",
-      "topic_tags": [
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "1951db435617d24263c97f44d534927d96a720d0",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "吉利汽车正式宣布进军加拿大市场",
-      "url": "https://auto.gasgoo.com/news/202610/10I70474415C109.shtml",
-      "published_at": "2026-10-10T09:53:24Z",
-      "first_seen_at": "2026-10-11T06:09:11.141370Z",
-      "last_seen_at": "2026-10-11T06:09:11.141370Z",
-      "title_original": "吉利汽车正式宣布进军加拿大市场",
-      "title_en": null,
-      "title_zh": "吉利汽车正式宣布进军加拿大市场",
-      "title_bilingual": "吉利汽车正式宣布进军加拿大市场",
-      "topic_tags": [
-        "销量市场",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "41f6e2570274dde6cf95f574fb8658ad443150af",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Xpeng completes G9L trial production in Austria ahead of Paris global premiere",
-      "url": "https://cnevpost.com/2026/10/10/xpeng-g9l-trial-production-austria",
-      "published_at": "2026-10-10T09:23:41Z",
-      "first_seen_at": "2026-10-10T12:51:47.460192Z",
-      "last_seen_at": "2026-10-11T06:09:11.141370Z",
-      "title_original": "Xpeng completes G9L trial production in Austria ahead of Paris global premiere",
-      "title_en": "Xpeng completes G9L trial production in Austria ahead of Paris global premiere",
-      "title_zh": "小鹏汽车G9L在奥地利完成试制 巴黎全球首发",
-      "title_bilingual": "小鹏汽车G9L在奥地利完成试制 巴黎全球首发 / Xpeng completes G9L trial production in Austria ahead of Paris global premiere",
-      "topic_tags": [
-        "新能源",
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "3ca45b97792774c19338bb0ed21e66f4966e73a7",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "CATL surpasses LG Energy Solution to claim top spot in global battery patents",
-      "url": "https://carnewschina.com/2026/10/10/catl-surpasses-lg-energy-solution-to-claim-top-spot-in-global-battery-patents",
-      "published_at": "2026-10-10T08:18:18Z",
-      "first_seen_at": "2026-10-10T12:51:47.460192Z",
-      "last_seen_at": "2026-10-11T06:09:11.141370Z",
-      "title_original": "CATL surpasses LG Energy Solution to claim top spot in global battery patents",
-      "title_en": "CATL surpasses LG Energy Solution to claim top spot in global battery patents",
-      "title_zh": "CATL超越LG Energy Solution夺得全球电池专利第一名",
-      "title_bilingual": "CATL超越LG Energy Solution夺得全球电池专利第一名 / CATL surpasses LG Energy Solution to claim top spot in global battery patents",
-      "topic_tags": [
-        "新能源",
-        "补能电池"
-      ]
-    },
-    {
-      "id": "25007360b3b6312e03c2f35e0a9413ff7d43d312",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-供应链",
-      "title": "佛瑞亚海拉斩获两项量产订单",
-      "url": "https://auto.gasgoo.com/news/202610/10I70474406C103.shtml",
-      "published_at": "2026-10-10T07:54:51Z",
-      "first_seen_at": "2026-10-11T00:19:40.144771Z",
-      "last_seen_at": "2026-10-11T06:09:11.141370Z",
-      "title_original": "佛瑞亚海拉斩获两项量产订单",
-      "title_en": null,
-      "title_zh": "佛瑞亚海拉斩获两项量产订单",
-      "title_bilingual": "佛瑞亚海拉斩获两项量产订单",
-      "topic_tags": [
-        "销量市场",
-        "供应链"
-      ]
-    },
-    {
-      "id": "3c879d9579d2ab618f0edee6a7b026bc887e462e",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "吉利汽车正式进入加拿大市场",
-      "url": "https://auto.gasgoo.com/news/202610/10I70474405C109.shtml",
-      "published_at": "2026-10-10T07:49:35Z",
-      "first_seen_at": "2026-10-11T00:19:40.144771Z",
-      "last_seen_at": "2026-10-11T06:09:11.141370Z",
-      "title_original": "吉利汽车正式进入加拿大市场",
-      "title_en": null,
-      "title_zh": "吉利汽车正式进入加拿大市场",
-      "title_bilingual": "吉利汽车正式进入加拿大市场",
-      "topic_tags": [
-        "销量市场",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "cba89a89b61becf63fcffae8d7e49058b95a3983",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-供应链",
-      "title": "涨价函又又又来了，汽车业站上成本“高墙”",
-      "url": "https://auto.gasgoo.com/news/202610/10I70474358C601.shtml",
-      "published_at": "2026-10-10T07:36:13Z",
-      "first_seen_at": "2026-10-11T00:19:40.144771Z",
-      "last_seen_at": "2026-10-11T06:09:11.141370Z",
-      "title_original": "涨价函又又又来了，汽车业站上成本“高墙”",
-      "title_en": null,
-      "title_zh": "涨价函又又又来了，汽车业站上成本“高墙”",
-      "title_bilingual": "涨价函又又又来了，汽车业站上成本“高墙”",
-      "topic_tags": [
-        "价格战",
-        "供应链"
-      ]
-    },
-    {
-      "id": "8ac9de0a86d2d7450e34cd241e09281afcc9caff",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "BYD unveils design for its first self-developed humanoid robot",
-      "url": "https://carnewschina.com/2026/10/10/byd-unveils-design-for-its-first-self-developed-humanoid-robot",
-      "published_at": "2026-10-10T06:25:20Z",
-      "first_seen_at": "2026-10-10T12:51:47.460192Z",
-      "last_seen_at": "2026-10-11T06:09:11.141370Z",
-      "title_original": "BYD unveils design for its first self-developed humanoid robot",
-      "title_en": "BYD unveils design for its first self-developed humanoid robot",
-      "title_zh": "比亚迪推出首款自主研发的人形机器人设计",
-      "title_bilingual": "比亚迪推出首款自主研发的人形机器人设计 / BYD unveils design for its first self-developed humanoid robot",
-      "topic_tags": [
-        "新能源",
         "车企竞争"
       ]
     }
   ],
   "items_ai": [
     {
+      "id": "de6109b56e78f17b6a7ece5497c40666afbc7e92",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "懂车帝 · 文章排行榜",
+      "title": "领克07GT动态体验：MRC性格分明、双电机性能兜底，够S的旅行车",
+      "url": "https://www.dongchedi.com/article/7692768536607310360",
+      "published_at": null,
+      "first_seen_at": "2026-10-11T13:15:50.257166Z",
+      "last_seen_at": "2026-10-11T13:15:50.257166Z",
+      "title_original": "领克07GT动态体验：MRC性格分明、双电机性能兜底，够S的旅行车",
+      "title_en": null,
+      "title_zh": "领克07GT动态体验：MRC性格分明、双电机性能兜底，够S的旅行车",
+      "title_bilingual": "领克07GT动态体验：MRC性格分明、双电机性能兜底，够S的旅行车",
+      "topic_tags": [
+        "供应链",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "280d247ba99eba1bfb075e1bf6d221bb3de50ae3",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "懂车帝 · 文章排行榜",
+      "title": "欧盟对中国混动车“出手”了，四年内对欧出口或减半",
+      "url": "https://www.dongchedi.com/article/7695040692598915646",
+      "published_at": null,
+      "first_seen_at": "2026-10-11T13:15:50.257166Z",
+      "last_seen_at": "2026-10-11T13:15:50.257166Z",
+      "title_original": "欧盟对中国混动车“出手”了，四年内对欧出口或减半",
+      "title_en": null,
+      "title_zh": "欧盟对中国混动车“出手”了，四年内对欧出口或减半",
+      "title_bilingual": "欧盟对中国混动车“出手”了，四年内对欧出口或减半",
+      "topic_tags": [
+        "新能源",
+        "销量市场"
+      ]
+    },
+    {
+      "id": "c1f6fe62e48914077a053e24ccf1f7c02b7747dd",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "懂车帝 · 文章排行榜",
+      "title": "车市“金九”大考：自主五强战略分野，全球竞速重构增长曲线",
+      "url": "https://www.dongchedi.com/article/7694976344308400664",
+      "published_at": null,
+      "first_seen_at": "2026-10-11T13:15:50.257166Z",
+      "last_seen_at": "2026-10-11T13:15:50.257166Z",
+      "title_original": "车市“金九”大考：自主五强战略分野，全球竞速重构增长曲线",
+      "title_en": null,
+      "title_zh": "车市“金九”大考：自主五强战略分野，全球竞速重构增长曲线",
+      "title_bilingual": "车市“金九”大考：自主五强战略分野，全球竞速重构增长曲线",
+      "topic_tags": []
+    },
+    {
+      "id": "2368abf39040172d08da38167028c34dc9a8bc14",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Nio reaches 500 swap stations in Guangdong, with over 17 million swaps completed",
+      "url": "https://cnevpost.com/2026/10/11/nio-500-swap-stations-guangdong",
+      "published_at": "2026-10-11T08:24:13Z",
+      "first_seen_at": "2026-10-11T13:15:50.257166Z",
+      "last_seen_at": "2026-10-11T13:15:50.257166Z",
+      "title_original": "Nio reaches 500 swap stations in Guangdong, with over 17 million swaps completed",
+      "title_en": "Nio reaches 500 swap stations in Guangdong, with over 17 million swaps completed",
+      "title_zh": "蔚来广东换电站已达500座，完成换电站超1700万次",
+      "title_bilingual": "蔚来广东换电站已达500座，完成换电站超1700万次 / Nio reaches 500 swap stations in Guangdong, with over 17 million swaps completed",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争"
+      ]
+    },
+    {
       "id": "fcb32865e3a73f9b344443149861f22205398a0a",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -525,7 +536,7 @@
       "url": "https://cnevpost.com/2026/10/11/catl-deal-seres-expand-aito-battery-capacity",
       "published_at": "2026-10-11T01:17:40Z",
       "first_seen_at": "2026-10-11T06:09:11.141370Z",
-      "last_seen_at": "2026-10-11T06:09:11.141370Z",
+      "last_seen_at": "2026-10-11T13:15:50.257166Z",
       "title_original": "CATL signs long-term strategic deal with Seres to expand Aito battery capacity",
       "title_en": "CATL signs long-term strategic deal with Seres to expand Aito battery capacity",
       "title_zh": "CATL与Seres签署长期战略协议，扩大Aito电池产能",
@@ -544,7 +555,7 @@
       "url": "https://carnewschina.com/2026/10/11/byd-launches-13-usd-flash-charger-cat-bed-promises-faster-naps-sells-out-immediately",
       "published_at": "2026-10-10T22:02:18Z",
       "first_seen_at": "2026-10-11T00:19:40.144771Z",
-      "last_seen_at": "2026-10-11T06:09:11.141370Z",
+      "last_seen_at": "2026-10-11T13:15:50.257166Z",
       "title_original": "BYD launches 13 USD “Flash Charger” cat bed, promises faster naps, sells out immediately",
       "title_en": "BYD launches 13 USD “Flash Charger” cat bed, promises faster naps, sells out immediately",
       "title_zh": "比亚迪推出13美元“Flash Charger”猫床，承诺更快小憩，立即售空",
@@ -563,7 +574,7 @@
       "url": "http://vc.yiche.com/vplay/13560157.html",
       "published_at": null,
       "first_seen_at": "2026-10-10T21:08:17.696138Z",
-      "last_seen_at": "2026-10-11T06:09:11.141370Z",
+      "last_seen_at": "2026-10-11T13:15:50.257166Z",
       "title_original": "入手20.18万起，顶配不过22.38万！长城H10为何建议直接选顶配？",
       "title_en": null,
       "title_zh": "入手20.18万起，顶配不过22.38万！长城H10为何建议直接选顶配？",
@@ -581,7 +592,7 @@
       "url": "http://vc.yiche.com/vplay/13581892.html",
       "published_at": null,
       "first_seen_at": "2026-10-10T21:08:17.696138Z",
-      "last_seen_at": "2026-10-11T06:09:11.141370Z",
+      "last_seen_at": "2026-10-11T13:15:50.257166Z",
       "title_original": "比油车更省钱，比电车更抗冻",
       "title_en": null,
       "title_zh": "比油车更省钱，比电车更抗冻",
@@ -599,7 +610,7 @@
       "url": "http://vc.yiche.com/vplay/13585476.html",
       "published_at": null,
       "first_seen_at": "2026-10-10T21:08:17.696138Z",
-      "last_seen_at": "2026-10-11T06:09:11.141370Z",
+      "last_seen_at": "2026-10-11T13:15:50.257166Z",
       "title_original": "试驾体验别克新款君越 实力稳步提升",
       "title_en": null,
       "title_zh": "试驾体验别克新款君越 实力稳步提升",
@@ -617,7 +628,7 @@
       "url": "http://vc.yiche.com/vplay/13560416.html",
       "published_at": null,
       "first_seen_at": "2026-10-10T21:08:17.696138Z",
-      "last_seen_at": "2026-10-11T06:09:11.141370Z",
+      "last_seen_at": "2026-10-11T13:15:50.257166Z",
       "title_original": "10万元就有1.5T+CMA架构的SUV博越L，给个不买理由",
       "title_en": null,
       "title_zh": "10万元就有1.5T+CMA架构的SUV博越L，给个不买理由",
@@ -635,13 +646,163 @@
       "url": "http://vc.yiche.com/vplay/13557854.html",
       "published_at": null,
       "first_seen_at": "2026-10-10T21:08:17.696138Z",
-      "last_seen_at": "2026-10-11T06:09:11.141370Z",
+      "last_seen_at": "2026-10-11T13:15:50.257166Z",
       "title_original": "比亚迪海狮06真实落地价，看完再去4S店不被坑！",
       "title_en": null,
       "title_zh": "比亚迪海狮06真实落地价，看完再去4S店不被坑！",
       "title_bilingual": "比亚迪海狮06真实落地价，看完再去4S店不被坑！",
       "topic_tags": [
         "车企竞争"
+      ]
+    },
+    {
+      "id": "258c62ce01eb8e80c19e76b811ab2a316dff6e3c",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-销量",
+      "title": "2026年8月乘用车自主品牌销量榜：比亚迪以368,323辆断层领跑丨盖世汽车研究院",
+      "url": "https://auto.gasgoo.com/news/202610/10I70474468C110.shtml",
+      "published_at": "2026-10-10T18:24:14Z",
+      "first_seen_at": "2026-10-11T13:15:50.257166Z",
+      "last_seen_at": "2026-10-11T13:15:50.257166Z",
+      "title_original": "2026年8月乘用车自主品牌销量榜：比亚迪以368,323辆断层领跑丨盖世汽车研究院",
+      "title_en": null,
+      "title_zh": "2026年8月乘用车自主品牌销量榜：比亚迪以368,323辆断层领跑丨盖世汽车研究院",
+      "title_bilingual": "2026年8月乘用车自主品牌销量榜：比亚迪以368,323辆断层领跑丨盖世汽车研究院",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "ce962f0d0a255bc7bed2e5ec80b6527015d8908e",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新能源",
+      "title": "全球电动车准备度排名：中国挪威前二，美国日本跌出前20",
+      "url": "https://auto.gasgoo.com/news/202610/10I70474460C501.shtml",
+      "published_at": "2026-10-10T17:39:57Z",
+      "first_seen_at": "2026-10-11T13:15:50.257166Z",
+      "last_seen_at": "2026-10-11T13:15:50.257166Z",
+      "title_original": "全球电动车准备度排名：中国挪威前二，美国日本跌出前20",
+      "title_en": null,
+      "title_zh": "全球电动车准备度排名：中国挪威前二，美国日本跌出前20",
+      "title_bilingual": "全球电动车准备度排名：中国挪威前二，美国日本跌出前20",
+      "topic_tags": [
+        "新能源",
+        "销量市场"
+      ]
+    },
+    {
+      "id": "df2ef760fc40df725360fee0723ac4261e2b6dcc",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "奇瑞全球化3.0：当海外收入近七成，奇瑞重构管理架构",
+      "url": "https://auto.gasgoo.com/news/202610/10I70474357C109.shtml",
+      "published_at": "2026-10-10T17:14:43Z",
+      "first_seen_at": "2026-10-11T13:15:50.257166Z",
+      "last_seen_at": "2026-10-11T13:15:50.257166Z",
+      "title_original": "奇瑞全球化3.0：当海外收入近七成，奇瑞重构管理架构",
+      "title_en": null,
+      "title_zh": "奇瑞全球化3.0：当海外收入近七成，奇瑞重构管理架构",
+      "title_bilingual": "奇瑞全球化3.0：当海外收入近七成，奇瑞重构管理架构",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "ac0a0e185c0d3ed6ef42266ab03c8e52912c05c5",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新能源",
+      "title": "吉利旗下吉曜通行开始卖电池",
+      "url": "https://auto.gasgoo.com/news/202610/10I70474452C501.shtml",
+      "published_at": "2026-10-10T16:51:31Z",
+      "first_seen_at": "2026-10-11T13:15:50.257166Z",
+      "last_seen_at": "2026-10-11T13:15:50.257166Z",
+      "title_original": "吉利旗下吉曜通行开始卖电池",
+      "title_en": null,
+      "title_zh": "吉利旗下吉曜通行开始卖电池",
+      "title_bilingual": "吉利旗下吉曜通行开始卖电池",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "062d7c75cccb617c49058f7084c5550b45e9aa79",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-供应链",
+      "title": "光谷高端微电子器件产业园一期建成",
+      "url": "https://auto.gasgoo.com/news/202610/10I70474450C103.shtml",
+      "published_at": "2026-10-10T16:13:26Z",
+      "first_seen_at": "2026-10-11T13:15:50.257166Z",
+      "last_seen_at": "2026-10-11T13:15:50.257166Z",
+      "title_original": "光谷高端微电子器件产业园一期建成",
+      "title_en": null,
+      "title_zh": "光谷高端微电子器件产业园一期建成",
+      "title_bilingual": "光谷高端微电子器件产业园一期建成",
+      "topic_tags": [
+        "供应链"
+      ]
+    },
+    {
+      "id": "777242e10868cba9e4bdb0827d3f66985effdd29",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-销量",
+      "title": "2026年8月越野/高端/猎装销量榜：特斯拉Model Y领跑，方程豹钛7表现亮眼丨盖世汽车研究院",
+      "url": "https://auto.gasgoo.com/news/202610/10I70474444C110.shtml",
+      "published_at": "2026-10-10T16:02:28Z",
+      "first_seen_at": "2026-10-11T13:15:50.257166Z",
+      "last_seen_at": "2026-10-11T13:15:50.257166Z",
+      "title_original": "2026年8月越野/高端/猎装销量榜：特斯拉Model Y领跑，方程豹钛7表现亮眼丨盖世汽车研究院",
+      "title_en": null,
+      "title_zh": "2026年8月越野/高端/猎装销量榜：特斯拉Model Y领跑，方程豹钛7表现亮眼丨盖世汽车研究院",
+      "title_bilingual": "2026年8月越野/高端/猎装销量榜：特斯拉Model Y领跑，方程豹钛7表现亮眼丨盖世汽车研究院",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "16db7810c055d9eecacf1633137faa0b856da1c1",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "Unifor呼吁对中国进口电动车实施严格、覆盖面广的保护措施",
+      "url": "https://auto.gasgoo.com/news/202610/10I70474443C108.shtml",
+      "published_at": "2026-10-10T15:37:54Z",
+      "first_seen_at": "2026-10-11T13:15:50.257166Z",
+      "last_seen_at": "2026-10-11T13:15:50.257166Z",
+      "title_original": "Unifor呼吁对中国进口电动车实施严格、覆盖面广的保护措施",
+      "title_en": null,
+      "title_zh": "Unifor呼吁对中国进口电动车实施严格、覆盖面广的保护措施",
+      "title_bilingual": "Unifor呼吁对中国进口电动车实施严格、覆盖面广的保护措施",
+      "topic_tags": [
+        "新能源"
+      ]
+    },
+    {
+      "id": "a3a39a91d3ef77295a9afc1f353b6567470e19a4",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新车",
+      "title": "猛士X700首台量产车在襄阳下线",
+      "url": "https://auto.gasgoo.com/news/202610/10I70474442C107.shtml",
+      "published_at": "2026-10-10T15:23:46Z",
+      "first_seen_at": "2026-10-11T13:15:50.257166Z",
+      "last_seen_at": "2026-10-11T13:15:50.257166Z",
+      "title_original": "猛士X700首台量产车在襄阳下线",
+      "title_en": null,
+      "title_zh": "猛士X700首台量产车在襄阳下线",
+      "title_bilingual": "猛士X700首台量产车在襄阳下线",
+      "topic_tags": [
+        "新车上市"
       ]
     },
     {
@@ -653,7 +814,7 @@
       "url": "https://cnevpost.com/2026/10/10/geely-galaxy-launches-cruiser-700-suv",
       "published_at": "2026-10-10T14:07:06Z",
       "first_seen_at": "2026-10-10T17:38:06.292431Z",
-      "last_seen_at": "2026-10-11T06:09:11.141370Z",
+      "last_seen_at": "2026-10-11T13:15:50.257166Z",
       "title_original": "Geely Galaxy launches Cruiser 700 to take on BYD, GWM in off-road SUV market",
       "title_en": "Geely Galaxy launches Cruiser 700 to take on BYD, GWM in off-road SUV market",
       "title_zh": "吉利银河推出漫步者700 与比亚迪、长城汽车争夺越野SUV市场",
@@ -674,295 +835,12 @@
       "url": "https://auto.gasgoo.com/news/202610/10I70474431C108.shtml",
       "published_at": "2026-10-10T13:24:52Z",
       "first_seen_at": "2026-10-11T06:09:11.141370Z",
-      "last_seen_at": "2026-10-11T06:09:11.141370Z",
+      "last_seen_at": "2026-10-11T13:15:50.257166Z",
       "title_original": "配置竞争的话语权，从来不在车企",
       "title_en": null,
       "title_zh": "配置竞争的话语权，从来不在车企",
       "title_bilingual": "配置竞争的话语权，从来不在车企",
       "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "5a2088930101f468fa8240cd4776bb2316026f89",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "China's September NEV retail sales fall 12% as month-end surge narrows decline, preliminary CPCA data shows",
-      "url": "https://cnevpost.com/2026/10/10/china-sept-nev-retail-preliminary-cpca",
-      "published_at": "2026-10-10T13:12:52Z",
-      "first_seen_at": "2026-10-10T17:38:06.292431Z",
-      "last_seen_at": "2026-10-11T06:09:11.141370Z",
-      "title_original": "China's September NEV retail sales fall 12% as month-end surge narrows decline, preliminary CPCA data shows",
-      "title_en": "China's September NEV retail sales fall 12% as month-end surge narrows decline, preliminary CPCA data shows",
-      "title_zh": "CPCA初步数据显示，中国9月新能源汽车零售量下降12%，月末激增，降幅收窄",
-      "title_bilingual": "CPCA初步数据显示，中国9月新能源汽车零售量下降12%，月末激增，降幅收窄 / China's September NEV retail sales fall 12% as month-end surge narrows decline, preliminary CPCA data shows",
-      "topic_tags": [
-        "新能源"
-      ]
-    },
-    {
-      "id": "6ac81c04222202b5eb2d9a01af548c74d942c3ed",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "China proposes tighter vehicle design rules, reiterates concealed-handle ban and targets foldable screens",
-      "url": "https://cnevpost.com/2026/10/10/china-proposes-tighter-vehicle-design-rules",
-      "published_at": "2026-10-10T12:37:54Z",
-      "first_seen_at": "2026-10-10T12:51:47.460192Z",
-      "last_seen_at": "2026-10-11T06:09:11.141370Z",
-      "title_original": "China proposes tighter vehicle design rules, reiterates concealed-handle ban and targets foldable screens",
-      "title_en": "China proposes tighter vehicle design rules, reiterates concealed-handle ban and targets foldable screens",
-      "title_zh": "中国提出更严格的车辆设计规则，重申隐藏把手禁令并瞄准可折叠屏幕",
-      "title_bilingual": "中国提出更严格的车辆设计规则，重申隐藏把手禁令并瞄准可折叠屏幕 / China proposes tighter vehicle design rules, reiterates concealed-handle ban and targets foldable screens",
-      "topic_tags": [
-        "新能源"
-      ]
-    },
-    {
-      "id": "41b906e16e4e76c33ef409551862dc2ddc017bc5",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "中欧达成混动车贸易谅解：中国混动车对欧出口四年内或减半",
-      "url": "https://auto.gasgoo.com/news/202610/10I70474428C108.shtml",
-      "published_at": "2026-10-10T12:27:44Z",
-      "first_seen_at": "2026-10-11T06:09:11.141370Z",
-      "last_seen_at": "2026-10-11T06:09:11.141370Z",
-      "title_original": "中欧达成混动车贸易谅解：中国混动车对欧出口四年内或减半",
-      "title_en": null,
-      "title_zh": "中欧达成混动车贸易谅解：中国混动车对欧出口四年内或减半",
-      "title_bilingual": "中欧达成混动车贸易谅解：中国混动车对欧出口四年内或减半",
-      "topic_tags": [
-        "新能源",
-        "销量市场"
-      ]
-    },
-    {
-      "id": "e6240d81c399d2f9abee6590ba7b1daf59346a70",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "【国际快讯】中欧就混动汽车出口达成协议；加拿大工会Unifor呼吁对中国EV加征100%附加税；吉利汽车正式进入加拿大市场",
-      "url": "https://auto.gasgoo.com/news/202610/10I70474429C108.shtml",
-      "published_at": "2026-10-10T12:08:32Z",
-      "first_seen_at": "2026-10-11T06:09:11.141370Z",
-      "last_seen_at": "2026-10-11T06:09:11.141370Z",
-      "title_original": "【国际快讯】中欧就混动汽车出口达成协议；加拿大工会Unifor呼吁对中国EV加征100%附加税；吉利汽车正式进入加拿大市场",
-      "title_en": null,
-      "title_zh": "【国际快讯】中欧就混动汽车出口达成协议；加拿大工会Unifor呼吁对中国EV加征100%附加税；吉利汽车正式进入加拿大市场",
-      "title_bilingual": "【国际快讯】中欧就混动汽车出口达成协议；加拿大工会Unifor呼吁对中国EV加征100%附加税；吉利汽车正式进入加拿大市场",
-      "topic_tags": [
-        "新能源",
-        "销量市场",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "51a3b8c69f9464d7f0fafbf10329b24ce82713c7",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "雷诺携多款新车及三款概念车亮相2026巴黎车展",
-      "url": "https://auto.gasgoo.com/news/202610/10I70474427C109.shtml",
-      "published_at": "2026-10-10T11:41:40Z",
-      "first_seen_at": "2026-10-11T06:09:11.141370Z",
-      "last_seen_at": "2026-10-11T06:09:11.141370Z",
-      "title_original": "雷诺携多款新车及三款概念车亮相2026巴黎车展",
-      "title_en": null,
-      "title_zh": "雷诺携多款新车及三款概念车亮相2026巴黎车展",
-      "title_bilingual": "雷诺携多款新车及三款概念车亮相2026巴黎车展",
-      "topic_tags": [
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "19331e4aea058d72bd0e22a7d7264957d387aee9",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "岚图2026秋招，扩容释放500+岗位",
-      "url": "https://auto.gasgoo.com/news/202610/10I70474421C109.shtml",
-      "published_at": "2026-10-10T10:40:34Z",
-      "first_seen_at": "2026-10-11T06:09:11.141370Z",
-      "last_seen_at": "2026-10-11T06:09:11.141370Z",
-      "title_original": "岚图2026秋招，扩容释放500+岗位",
-      "title_en": null,
-      "title_zh": "岚图2026秋招，扩容释放500+岗位",
-      "title_bilingual": "岚图2026秋招，扩容释放500+岗位",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "1864caf9879fc529c6a1fdb91bcca5c5308d95af",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "欧盟称中国将大幅削减对欧混合动力汽车出口",
-      "url": "https://auto.gasgoo.com/news/202610/10I70474420C108.shtml",
-      "published_at": "2026-10-10T10:21:21Z",
-      "first_seen_at": "2026-10-11T06:09:11.141370Z",
-      "last_seen_at": "2026-10-11T06:09:11.141370Z",
-      "title_original": "欧盟称中国将大幅削减对欧混合动力汽车出口",
-      "title_en": null,
-      "title_zh": "欧盟称中国将大幅削减对欧混合动力汽车出口",
-      "title_bilingual": "欧盟称中国将大幅削减对欧混合动力汽车出口",
-      "topic_tags": [
-        "销量市场"
-      ]
-    },
-    {
-      "id": "67b9970103ed539978fc9dbc718b21bd2ded1344",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "小鹏G9L将于巴黎车展全球上市，计划登陆64个国家和地区",
-      "url": "https://auto.gasgoo.com/news/202610/10I70474418C109.shtml",
-      "published_at": "2026-10-10T10:05:22Z",
-      "first_seen_at": "2026-10-11T06:09:11.141370Z",
-      "last_seen_at": "2026-10-11T06:09:11.141370Z",
-      "title_original": "小鹏G9L将于巴黎车展全球上市，计划登陆64个国家和地区",
-      "title_en": null,
-      "title_zh": "小鹏G9L将于巴黎车展全球上市，计划登陆64个国家和地区",
-      "title_bilingual": "小鹏G9L将于巴黎车展全球上市，计划登陆64个国家和地区",
-      "topic_tags": [
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "1951db435617d24263c97f44d534927d96a720d0",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "吉利汽车正式宣布进军加拿大市场",
-      "url": "https://auto.gasgoo.com/news/202610/10I70474415C109.shtml",
-      "published_at": "2026-10-10T09:53:24Z",
-      "first_seen_at": "2026-10-11T06:09:11.141370Z",
-      "last_seen_at": "2026-10-11T06:09:11.141370Z",
-      "title_original": "吉利汽车正式宣布进军加拿大市场",
-      "title_en": null,
-      "title_zh": "吉利汽车正式宣布进军加拿大市场",
-      "title_bilingual": "吉利汽车正式宣布进军加拿大市场",
-      "topic_tags": [
-        "销量市场",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "41f6e2570274dde6cf95f574fb8658ad443150af",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Xpeng completes G9L trial production in Austria ahead of Paris global premiere",
-      "url": "https://cnevpost.com/2026/10/10/xpeng-g9l-trial-production-austria",
-      "published_at": "2026-10-10T09:23:41Z",
-      "first_seen_at": "2026-10-10T12:51:47.460192Z",
-      "last_seen_at": "2026-10-11T06:09:11.141370Z",
-      "title_original": "Xpeng completes G9L trial production in Austria ahead of Paris global premiere",
-      "title_en": "Xpeng completes G9L trial production in Austria ahead of Paris global premiere",
-      "title_zh": "小鹏汽车G9L在奥地利完成试制 巴黎全球首发",
-      "title_bilingual": "小鹏汽车G9L在奥地利完成试制 巴黎全球首发 / Xpeng completes G9L trial production in Austria ahead of Paris global premiere",
-      "topic_tags": [
-        "新能源",
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "3ca45b97792774c19338bb0ed21e66f4966e73a7",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "CATL surpasses LG Energy Solution to claim top spot in global battery patents",
-      "url": "https://carnewschina.com/2026/10/10/catl-surpasses-lg-energy-solution-to-claim-top-spot-in-global-battery-patents",
-      "published_at": "2026-10-10T08:18:18Z",
-      "first_seen_at": "2026-10-10T12:51:47.460192Z",
-      "last_seen_at": "2026-10-11T06:09:11.141370Z",
-      "title_original": "CATL surpasses LG Energy Solution to claim top spot in global battery patents",
-      "title_en": "CATL surpasses LG Energy Solution to claim top spot in global battery patents",
-      "title_zh": "CATL超越LG Energy Solution夺得全球电池专利第一名",
-      "title_bilingual": "CATL超越LG Energy Solution夺得全球电池专利第一名 / CATL surpasses LG Energy Solution to claim top spot in global battery patents",
-      "topic_tags": [
-        "新能源",
-        "补能电池"
-      ]
-    },
-    {
-      "id": "25007360b3b6312e03c2f35e0a9413ff7d43d312",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-供应链",
-      "title": "佛瑞亚海拉斩获两项量产订单",
-      "url": "https://auto.gasgoo.com/news/202610/10I70474406C103.shtml",
-      "published_at": "2026-10-10T07:54:51Z",
-      "first_seen_at": "2026-10-11T00:19:40.144771Z",
-      "last_seen_at": "2026-10-11T06:09:11.141370Z",
-      "title_original": "佛瑞亚海拉斩获两项量产订单",
-      "title_en": null,
-      "title_zh": "佛瑞亚海拉斩获两项量产订单",
-      "title_bilingual": "佛瑞亚海拉斩获两项量产订单",
-      "topic_tags": [
-        "销量市场",
-        "供应链"
-      ]
-    },
-    {
-      "id": "3c879d9579d2ab618f0edee6a7b026bc887e462e",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "吉利汽车正式进入加拿大市场",
-      "url": "https://auto.gasgoo.com/news/202610/10I70474405C109.shtml",
-      "published_at": "2026-10-10T07:49:35Z",
-      "first_seen_at": "2026-10-11T00:19:40.144771Z",
-      "last_seen_at": "2026-10-11T06:09:11.141370Z",
-      "title_original": "吉利汽车正式进入加拿大市场",
-      "title_en": null,
-      "title_zh": "吉利汽车正式进入加拿大市场",
-      "title_bilingual": "吉利汽车正式进入加拿大市场",
-      "topic_tags": [
-        "销量市场",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "cba89a89b61becf63fcffae8d7e49058b95a3983",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-供应链",
-      "title": "涨价函又又又来了，汽车业站上成本“高墙”",
-      "url": "https://auto.gasgoo.com/news/202610/10I70474358C601.shtml",
-      "published_at": "2026-10-10T07:36:13Z",
-      "first_seen_at": "2026-10-11T00:19:40.144771Z",
-      "last_seen_at": "2026-10-11T06:09:11.141370Z",
-      "title_original": "涨价函又又又来了，汽车业站上成本“高墙”",
-      "title_en": null,
-      "title_zh": "涨价函又又又来了，汽车业站上成本“高墙”",
-      "title_bilingual": "涨价函又又又来了，汽车业站上成本“高墙”",
-      "topic_tags": [
-        "价格战",
-        "供应链"
-      ]
-    },
-    {
-      "id": "8ac9de0a86d2d7450e34cd241e09281afcc9caff",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "BYD unveils design for its first self-developed humanoid robot",
-      "url": "https://carnewschina.com/2026/10/10/byd-unveils-design-for-its-first-self-developed-humanoid-robot",
-      "published_at": "2026-10-10T06:25:20Z",
-      "first_seen_at": "2026-10-10T12:51:47.460192Z",
-      "last_seen_at": "2026-10-11T06:09:11.141370Z",
-      "title_original": "BYD unveils design for its first self-developed humanoid robot",
-      "title_en": "BYD unveils design for its first self-developed humanoid robot",
-      "title_zh": "比亚迪推出首款自主研发的人形机器人设计",
-      "title_bilingual": "比亚迪推出首款自主研发的人形机器人设计 / BYD unveils design for its first self-developed humanoid robot",
-      "topic_tags": [
-        "新能源",
         "车企竞争"
       ]
     }
