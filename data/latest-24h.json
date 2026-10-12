@@ -1,62 +1,70 @@
 {
-  "generated_at": "2026-10-12T08:35:07.419186Z",
+  "generated_at": "2026-10-12T18:34:12.833773Z",
   "window_hours": 24,
-  "total_items": 23,
-  "total_items_ai_raw": 23,
-  "total_items_raw": 2467,
-  "total_items_all_mode": 2247,
+  "total_items": 32,
+  "total_items_ai_raw": 32,
+  "total_items_raw": 2140,
+  "total_items_all_mode": 1937,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 51858,
+  "archive_total": 51728,
   "site_count": 3,
-  "source_count": 7,
+  "source_count": 4,
   "site_stats": [
+    {
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "count": 19,
+      "raw_count": 19
+    },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "count": 13,
-      "raw_count": 2326
-    },
-    {
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "count": 10,
-      "raw_count": 10
+      "raw_count": 2007
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "count": 0,
-      "raw_count": 131
+      "raw_count": 114
     }
   ],
   "topic_tag_stats": [
     {
       "tag": "新能源",
-      "count": 10
+      "count": 20
     },
     {
       "tag": "车企竞争",
-      "count": 10
-    },
-    {
-      "tag": "销量市场",
-      "count": 6
-    },
-    {
-      "tag": "购车决策",
-      "count": 5
-    },
-    {
-      "tag": "供应链",
-      "count": 4
+      "count": 16
     },
     {
       "tag": "新车上市",
+      "count": 10
+    },
+    {
+      "tag": "购车决策",
+      "count": 8
+    },
+    {
+      "tag": "销量市场",
+      "count": 7
+    },
+    {
+      "tag": "供应链",
       "count": 3
     },
     {
-      "tag": "召回安全",
+      "tag": "补能电池",
       "count": 2
+    },
+    {
+      "tag": "价格战",
+      "count": 1
+    },
+    {
+      "tag": "召回安全",
+      "count": 1
     },
     {
       "tag": "智能驾驶",
@@ -65,6 +73,338 @@
   ],
   "items": [
     {
+      "id": "31113d8a3cd77a85cebc3ad0ff4b6d14ee37f24a",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "优缺点全覆盖 试驾NX8大师版",
+      "url": "https://club.autohome.com.cn/bbs/thread/55322374250e85a2/116080993-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-10-12T18:34:12.833773Z",
+      "last_seen_at": "2026-10-12T18:34:12.833773Z",
+      "title_original": "优缺点全覆盖 试驾NX8大师版",
+      "title_en": null,
+      "title_zh": "优缺点全覆盖 试驾NX8大师版",
+      "title_bilingual": "优缺点全覆盖 试驾NX8大师版",
+      "topic_tags": [
+        "购车决策"
+      ]
+    },
+    {
+      "id": "5f421dbf863719c5fd3af692004b163f3399791e",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "迫不及待 零跑D19纯电提车分享",
+      "url": "https://i.autohome.com.cn/308748412",
+      "published_at": null,
+      "first_seen_at": "2026-10-12T18:34:12.833773Z",
+      "last_seen_at": "2026-10-12T18:34:12.833773Z",
+      "title_original": "迫不及待 零跑D19纯电提车分享",
+      "title_en": null,
+      "title_zh": "迫不及待 零跑D19纯电提车分享",
+      "title_bilingual": "迫不及待 零跑D19纯电提车分享",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "0c5bd4feb981379eeef93b7a839102245f2ac727",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "长续航无压力 Model Y提车作业",
+      "url": "https://club.autohome.com.cn/bbs/thread/6d699400b50710a2/116362700-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-10-12T18:34:12.833773Z",
+      "last_seen_at": "2026-10-12T18:34:12.833773Z",
+      "title_original": "长续航无压力 Model Y提车作业",
+      "title_en": null,
+      "title_zh": "长续航无压力 Model Y提车作业",
+      "title_bilingual": "长续航无压力 Model Y提车作业",
+      "topic_tags": [
+        "补能电池",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "dcc017fb1d412c5d53bc1a0c0c0d7cd29c444def",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "家用省油省心 比亚迪秦L提车分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/792bde144dc01f63/116166266-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-10-12T18:34:12.833773Z",
+      "last_seen_at": "2026-10-12T18:34:12.833773Z",
+      "title_original": "家用省油省心 比亚迪秦L提车分享",
+      "title_en": null,
+      "title_zh": "家用省油省心 比亚迪秦L提车分享",
+      "title_bilingual": "家用省油省心 比亚迪秦L提车分享",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "446e23b94ebb1826fab0368f870ff81d7eddacbc",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "底盘质感优秀 帕萨特提车作业分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/bf65e81429ed234e/115885121-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-10-12T18:34:12.833773Z",
+      "last_seen_at": "2026-10-12T18:34:12.833773Z",
+      "title_original": "底盘质感优秀 帕萨特提车作业分享",
+      "title_en": null,
+      "title_zh": "底盘质感优秀 帕萨特提车作业分享",
+      "title_bilingual": "底盘质感优秀 帕萨特提车作业分享",
+      "topic_tags": [
+        "供应链",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "16f3c3a8d62c74f1c8ee256fb838f80ab609cde4",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "底盘扎实稳重 途观L用车心得分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/c824de1419db6937/115948259-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-10-12T18:34:12.833773Z",
+      "last_seen_at": "2026-10-12T18:34:12.833773Z",
+      "title_original": "底盘扎实稳重 途观L用车心得分享",
+      "title_en": null,
+      "title_zh": "底盘扎实稳重 途观L用车心得分享",
+      "title_bilingual": "底盘扎实稳重 途观L用车心得分享",
+      "topic_tags": [
+        "供应链",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "a5d53b85796502f0ca5dc5a84f3bbaf5bb1be085",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Xpeng’s Tesla FSD rival arrives in Europe for test drives. I tried NGP for 30 minutes in chaotic Paris traffic",
+      "url": "https://carnewschina.com/2026/10/12/xpengs-tesla-fsd-rival-arrives-in-europe-for-test-drives-i-tried-ngp-for-30-minutes-in-chaotic-paris-traffic",
+      "published_at": "2026-10-12T17:57:49Z",
+      "first_seen_at": "2026-10-12T18:34:12.833773Z",
+      "last_seen_at": "2026-10-12T18:34:12.833773Z",
+      "title_original": "Xpeng’s Tesla FSD rival arrives in Europe for test drives. I tried NGP for 30 minutes in chaotic Paris traffic",
+      "title_en": "Xpeng’s Tesla FSD rival arrives in Europe for test drives. I tried NGP for 30 minutes in chaotic Paris traffic",
+      "title_zh": "小鹏汽车的特斯拉 FSD 竞争对手抵达欧洲进行试驾。我在巴黎交通混乱的情况下尝试了 30 分钟 NGP",
+      "title_bilingual": "小鹏汽车的特斯拉 FSD 竞争对手抵达欧洲进行试驾。我在巴黎交通混乱的情况下尝试了 30 分钟 NGP / Xpeng’s Tesla FSD rival arrives in Europe for test drives. I tried NGP for 30 minutes in chaotic Paris traffic",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "e75d4576319386defafb37069412ee4e646cbb6e",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Li Auto i6 makes European debut ahead of Q1 2027 launch in Norway and Netherlands",
+      "url": "https://cnevpost.com/2026/10/12/li-auto-i6-european-debut",
+      "published_at": "2026-10-12T15:48:22Z",
+      "first_seen_at": "2026-10-12T18:34:12.833773Z",
+      "last_seen_at": "2026-10-12T18:34:12.833773Z",
+      "title_original": "Li Auto i6 makes European debut ahead of Q1 2027 launch in Norway and Netherlands",
+      "title_en": "Li Auto i6 makes European debut ahead of Q1 2027 launch in Norway and Netherlands",
+      "title_zh": "理想汽车 i6 在欧洲首次亮相，将于 2027 年第一季度在挪威和荷兰上市",
+      "title_bilingual": "理想汽车 i6 在欧洲首次亮相，将于 2027 年第一季度在挪威和荷兰上市 / Li Auto i6 makes European debut ahead of Q1 2027 launch in Norway and Netherlands",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "e313713b51f37c222fe5311eac306835fc717c37",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Aito confirms 2027 European entry at Paris Motor Show",
+      "url": "https://cnevpost.com/2026/10/12/aito-confirms-2027-european-entry-paris-show",
+      "published_at": "2026-10-12T15:23:35Z",
+      "first_seen_at": "2026-10-12T18:34:12.833773Z",
+      "last_seen_at": "2026-10-12T18:34:12.833773Z",
+      "title_original": "Aito confirms 2027 European entry at Paris Motor Show",
+      "title_en": "Aito confirms 2027 European entry at Paris Motor Show",
+      "title_zh": "Aito 确认 2027 年将参加巴黎车展欧洲市场",
+      "title_bilingual": "Aito 确认 2027 年将参加巴黎车展欧洲市场 / Aito confirms 2027 European entry at Paris Motor Show",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "b7f6d03cf83e24ae3a0494b130b540a0a750b290",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "China cuts NEV export tax rebates, testing profitability of automakers' overseas growth",
+      "url": "https://cnevpost.com/2026/10/12/china-cuts-nev-export-tax-rebates",
+      "published_at": "2026-10-12T13:50:08Z",
+      "first_seen_at": "2026-10-12T18:34:12.833773Z",
+      "last_seen_at": "2026-10-12T18:34:12.833773Z",
+      "title_original": "China cuts NEV export tax rebates, testing profitability of automakers' overseas growth",
+      "title_en": "China cuts NEV export tax rebates, testing profitability of automakers' overseas growth",
+      "title_zh": "中国下调新能源汽车出口退税，考验车企海外扩张盈利能力",
+      "title_bilingual": "中国下调新能源汽车出口退税，考验车企海外扩张盈利能力 / China cuts NEV export tax rebates, testing profitability of automakers' overseas growth",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "289b709d207b6513d36829a25de0191eff1597c5",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Xpeng launches G9L SUV in Europe as monthly overseas sales top 10,000 for first time",
+      "url": "https://cnevpost.com/2026/10/12/xpeng-launches-g9l-europe",
+      "published_at": "2026-10-12T12:52:54Z",
+      "first_seen_at": "2026-10-12T18:34:12.833773Z",
+      "last_seen_at": "2026-10-12T18:34:12.833773Z",
+      "title_original": "Xpeng launches G9L SUV in Europe as monthly overseas sales top 10,000 for first time",
+      "title_en": "Xpeng launches G9L SUV in Europe as monthly overseas sales top 10,000 for first time",
+      "title_zh": "小鹏SUV G9L欧洲上市 海外月销量首破万辆",
+      "title_bilingual": "小鹏SUV G9L欧洲上市 海外月销量首破万辆 / Xpeng launches G9L SUV in Europe as monthly overseas sales top 10,000 for first time",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "c0c69e3d978110ed9b8b49e22576f1a54fc99b32",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Xpeng G9L EV crossover launches in Europe at 83,850 USD",
+      "url": "https://carnewschina.com/2026/10/12/xpeng-g9l-ev-crossover-launches-in-europe-at-83850-usd",
+      "published_at": "2026-10-12T11:45:57Z",
+      "first_seen_at": "2026-10-12T18:34:12.833773Z",
+      "last_seen_at": "2026-10-12T18:34:12.833773Z",
+      "title_original": "Xpeng G9L EV crossover launches in Europe at 83,850 USD",
+      "title_en": "Xpeng G9L EV crossover launches in Europe at 83,850 USD",
+      "title_zh": "小鹏 G9L 电动跨界车在欧洲上市，售价 83,850 美元",
+      "title_bilingual": "小鹏 G9L 电动跨界车在欧洲上市，售价 83,850 美元 / Xpeng G9L EV crossover launches in Europe at 83,850 USD",
+      "topic_tags": [
+        "新能源",
+        "价格战",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "c885fff240608e6c6bde5b54f477d60e7d41d5d3",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "BYD Atto 8 large 7-seater becomes the brand’s first car with flash charging in Europe",
+      "url": "https://carnewschina.com/2026/10/12/byd-atto-8-becomes-the-brands-first-car-with-flash-charging-in-europe",
+      "published_at": "2026-10-12T10:41:23Z",
+      "first_seen_at": "2026-10-12T18:34:12.833773Z",
+      "last_seen_at": "2026-10-12T18:34:12.833773Z",
+      "title_original": "BYD Atto 8 large 7-seater becomes the brand’s first car with flash charging in Europe",
+      "title_en": "BYD Atto 8 large 7-seater becomes the brand’s first car with flash charging in Europe",
+      "title_zh": "比亚迪Atto 8大型7座车成为该品牌在欧洲首款配备闪充功能的汽车",
+      "title_bilingual": "比亚迪Atto 8大型7座车成为该品牌在欧洲首款配备闪充功能的汽车 / BYD Atto 8 large 7-seater becomes the brand’s first car with flash charging in Europe",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "65550f044de8a1453c9e11d852ab53ddc77342d5",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Smart #2 debuts in Paris as Couture Edition launches in China",
+      "url": "https://cnevpost.com/2026/10/12/smart-2-debuts-paris-couture-edition-launches-china",
+      "published_at": "2026-10-12T10:39:26Z",
+      "first_seen_at": "2026-10-12T18:34:12.833773Z",
+      "last_seen_at": "2026-10-12T18:34:12.833773Z",
+      "title_original": "Smart #2 debuts in Paris as Couture Edition launches in China",
+      "title_en": "Smart #2 debuts in Paris as Couture Edition launches in China",
+      "title_zh": "Smart #2 在巴黎首次亮相，Couture Edition 在中国推出",
+      "title_bilingual": "Smart #2 在巴黎首次亮相，Couture Edition 在中国推出 / Smart #2 debuts in Paris as Couture Edition launches in China",
+      "topic_tags": [
+        "新能源",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "bae46344848f939aab7f0526cb7806db2617c193",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Huawei-backed Aito announce European entry in autumn 2027",
+      "url": "https://carnewschina.com/2026/10/12/huawei-backed-aito-announce-european-entry-in-autumn-2027",
+      "published_at": "2026-10-12T09:03:30Z",
+      "first_seen_at": "2026-10-12T18:34:12.833773Z",
+      "last_seen_at": "2026-10-12T18:34:12.833773Z",
+      "title_original": "Huawei-backed Aito announce European entry in autumn 2027",
+      "title_en": "Huawei-backed Aito announce European entry in autumn 2027",
+      "title_zh": "华为支持的 Aito 宣布将于 2027 年秋季进入欧洲",
+      "title_bilingual": "华为支持的 Aito 宣布将于 2027 年秋季进入欧洲 / Huawei-backed Aito announce European entry in autumn 2027",
+      "topic_tags": [
+        "新能源"
+      ]
+    },
+    {
+      "id": "8d5c30cab1b2d2d187e551773d16aa55d1b1b350",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Smart #2 makes global debut at Paris Motor Show, starts at 19,990 EUR",
+      "url": "https://carnewschina.com/2026/10/12/smart-2-makes-global-debut-at-paris-motor-show-couture-edition-launches-in-china",
+      "published_at": "2026-10-12T09:02:35Z",
+      "first_seen_at": "2026-10-12T18:34:12.833773Z",
+      "last_seen_at": "2026-10-12T18:34:12.833773Z",
+      "title_original": "Smart #2 makes global debut at Paris Motor Show, starts at 19,990 EUR",
+      "title_en": "Smart #2 makes global debut at Paris Motor Show, starts at 19,990 EUR",
+      "title_zh": "Smart #2 在巴黎车展全球首发，起价 19,990 欧元",
+      "title_bilingual": "Smart #2 在巴黎车展全球首发，起价 19,990 欧元 / Smart #2 makes global debut at Paris Motor Show, starts at 19,990 EUR",
+      "topic_tags": [
+        "新能源",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "4d70a713db2fb38235575c52847bbd0c694a628b",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "VW steps up China EREV push with ID. ERA 8X launch; ID. ERA 5X to follow in November",
+      "url": "https://cnevpost.com/2026/10/12/vw-id-era-8x-launch-china",
+      "published_at": "2026-10-12T08:52:45Z",
+      "first_seen_at": "2026-10-12T18:34:12.833773Z",
+      "last_seen_at": "2026-10-12T18:34:12.833773Z",
+      "title_original": "VW steps up China EREV push with ID. ERA 8X launch; ID. ERA 5X to follow in November",
+      "title_en": "VW steps up China EREV push with ID. ERA 8X launch; ID. ERA 5X to follow in November",
+      "title_zh": "大众凭借ID加大在中国增程式电动汽车的推广力度。 ERA 8X 发布； ID。 ERA 5X 将于 11 月推出",
+      "title_bilingual": "大众凭借ID加大在中国增程式电动汽车的推广力度。 ERA 8X 发布； ID。 ERA 5X 将于 11 月推出 / VW steps up China EREV push with ID. ERA 8X launch; ID. ERA 5X to follow in November",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
       "id": "6f46ca82e283129be3abd2f0f3a8c9622dd2bc02",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -73,7 +413,7 @@
       "url": "https://cnevpost.com/2026/10/12/china-sept-2026-nev-sales-caam",
       "published_at": "2026-10-12T08:13:55Z",
       "first_seen_at": "2026-10-12T08:35:07.419186Z",
-      "last_seen_at": "2026-10-12T08:35:07.419186Z",
+      "last_seen_at": "2026-10-12T18:34:12.833773Z",
       "title_original": "China NEV sales hit year-to-date high in September as export surge offsets domestic decline, CAAM data shows",
       "title_en": "China NEV sales hit year-to-date high in September as export surge offsets domestic decline, CAAM data shows",
       "title_zh": "中国汽车工业协会数据显示，出口激增抵消了国内下滑，9月份中国新能源汽车销量创今年迄今新高",
@@ -92,7 +432,7 @@
       "url": "https://cnevpost.com/2026/10/12/china-sept-2026-nev-retail-cpca",
       "published_at": "2026-10-12T07:10:45Z",
       "first_seen_at": "2026-10-12T08:35:07.419186Z",
-      "last_seen_at": "2026-10-12T08:35:07.419186Z",
+      "last_seen_at": "2026-10-12T18:34:12.833773Z",
       "title_original": "China September NEV retail sales fall 16.7% as penetration hits record 67%, CPCA data shows",
       "title_en": "China September NEV retail sales fall 16.7% as penetration hits record 67%, CPCA data shows",
       "title_zh": "CPCA数据显示，中国9月新能源汽车零售量下降16.7%，渗透率创历史新高67%",
@@ -111,7 +451,7 @@
       "url": "https://cnevpost.com/2026/10/12/xpeng-mona-l03-launch-australia-new-zealand",
       "published_at": "2026-10-12T06:20:05Z",
       "first_seen_at": "2026-10-12T08:35:07.419186Z",
-      "last_seen_at": "2026-10-12T08:35:07.419186Z",
+      "last_seen_at": "2026-10-12T18:34:12.833773Z",
       "title_original": "Xpeng steps up Australia, New Zealand push with Mona L03 launch",
       "title_en": "Xpeng steps up Australia, New Zealand push with Mona L03 launch",
       "title_zh": "小鹏汽车加大力度推动澳大利亚和新西兰市场，推出 Mona L03",
@@ -131,7 +471,7 @@
       "url": "https://cnevpost.com/2026/10/12/china-eu-hybrid-trade-allows-growth",
       "published_at": "2026-10-12T05:30:27Z",
       "first_seen_at": "2026-10-12T08:35:07.419186Z",
-      "last_seen_at": "2026-10-12T08:35:07.419186Z",
+      "last_seen_at": "2026-10-12T18:34:12.833773Z",
       "title_original": "China says EU hybrid trade deal allows export growth from 2025 levels",
       "title_en": "China says EU hybrid trade deal allows export growth from 2025 levels",
       "title_zh": "中国称欧盟混合贸易协议允许出口在2025年水平基础上增长",
@@ -150,7 +490,7 @@
       "url": "https://cnevpost.com/2026/10/12/aito-plans-european-expansion-2027",
       "published_at": "2026-10-12T03:38:00Z",
       "first_seen_at": "2026-10-12T08:35:07.419186Z",
-      "last_seen_at": "2026-10-12T08:35:07.419186Z",
+      "last_seen_at": "2026-10-12T18:34:12.833773Z",
       "title_original": "Huawei-backed Aito plans European expansion next year, report says",
       "title_en": "Huawei-backed Aito plans European expansion next year, report says",
       "title_zh": "报告称，华为支持的 Aito 计划明年在欧洲扩张",
@@ -168,7 +508,7 @@
       "url": "https://cnevpost.com/2026/10/12/chery-recalls-omoda-5-malaysia",
       "published_at": "2026-10-12T02:35:46Z",
       "first_seen_at": "2026-10-12T08:35:07.419186Z",
-      "last_seen_at": "2026-10-12T08:35:07.419186Z",
+      "last_seen_at": "2026-10-12T18:34:12.833773Z",
       "title_original": "Chery recalls Omoda 5 in Malaysia after rear axle detachment incident",
       "title_en": "Chery recalls Omoda 5 in Malaysia after rear axle detachment incident",
       "title_zh": "奇瑞在马来西亚召回 Omoda 5 后轴脱落事件",
@@ -188,7 +528,7 @@
       "url": "https://cnevpost.com/2026/10/12/xpeng-teases-mona-l05",
       "published_at": "2026-10-12T01:55:34Z",
       "first_seen_at": "2026-10-12T08:35:07.419186Z",
-      "last_seen_at": "2026-10-12T08:35:07.419186Z",
+      "last_seen_at": "2026-10-12T18:34:12.833773Z",
       "title_original": "Xpeng teases Mona L05 debut ahead of planned Q4 launch",
       "title_en": "Xpeng teases Mona L05 debut ahead of planned Q4 launch",
       "title_zh": "小鹏汽车在计划第四季度发布之前预告 Mona L05 首次亮相",
@@ -208,7 +548,7 @@
       "url": "http://vc.yiche.com/vplay/13582816.html",
       "published_at": null,
       "first_seen_at": "2026-10-11T22:15:36.084900Z",
-      "last_seen_at": "2026-10-12T08:35:07.419186Z",
+      "last_seen_at": "2026-10-12T18:34:12.833773Z",
       "title_original": "长城H10 Hi4智能电四驱的表现能算泛越野？",
       "title_en": null,
       "title_zh": "长城H10 Hi4智能电四驱的表现能算泛越野？",
@@ -226,7 +566,7 @@
       "url": "http://vc.yiche.com/vplay/13562684.html",
       "published_at": null,
       "first_seen_at": "2026-10-11T22:15:36.084900Z",
-      "last_seen_at": "2026-10-12T08:35:07.419186Z",
+      "last_seen_at": "2026-10-12T18:34:12.833773Z",
       "title_original": "长城H10爆单背后 靠实力撑起底气",
       "title_en": null,
       "title_zh": "长城H10爆单背后 靠实力撑起底气",
@@ -244,7 +584,7 @@
       "url": "http://vc.yiche.com/vplay/13571105.html",
       "published_at": null,
       "first_seen_at": "2026-10-11T22:15:36.084900Z",
-      "last_seen_at": "2026-10-12T08:35:07.419186Z",
+      "last_seen_at": "2026-10-12T18:34:12.833773Z",
       "title_original": "2026款日产轩逸：双12.3英寸联屏 + 8155芯片，智能升级代步轿车",
       "title_en": null,
       "title_zh": "2026款日产轩逸：双12.3英寸联屏 + 8155芯片，智能升级代步轿车",
@@ -262,7 +602,7 @@
       "url": "http://vc.yiche.com/vplay/13573415.html",
       "published_at": null,
       "first_seen_at": "2026-10-11T22:15:36.084900Z",
-      "last_seen_at": "2026-10-12T08:35:07.419186Z",
+      "last_seen_at": "2026-10-12T18:34:12.833773Z",
       "title_original": "体验ID. ERA 8X：德系驾控+高阶智驾，合资开启新攻势？",
       "title_en": null,
       "title_zh": "体验ID. ERA 8X：德系驾控+高阶智驾，合资开启新攻势？",
@@ -281,7 +621,7 @@
       "url": "http://vc.yiche.com/vplay/13471607.html",
       "published_at": null,
       "first_seen_at": "2026-10-11T22:15:36.084900Z",
-      "last_seen_at": "2026-10-12T08:35:07.419186Z",
+      "last_seen_at": "2026-10-12T18:34:12.833773Z",
       "title_original": "探店小鹏MONA L03 15万内配置拉满！年轻人看了都喜欢？",
       "title_en": null,
       "title_zh": "探店小鹏MONA L03 15万内配置拉满！年轻人看了都喜欢？",
@@ -299,7 +639,7 @@
       "url": "http://vc.yiche.com/vplay/13582144.html",
       "published_at": null,
       "first_seen_at": "2026-10-11T22:15:36.084900Z",
-      "last_seen_at": "2026-10-12T08:35:07.419186Z",
+      "last_seen_at": "2026-10-12T18:34:12.833773Z",
       "title_original": "新款库斯途中期改款 合资MPV在15万级 能否占据一席之地？",
       "title_en": null,
       "title_zh": "新款库斯途中期改款 合资MPV在15万级 能否占据一席之地？",
@@ -317,7 +657,7 @@
       "url": "http://vc.yiche.com/vplay/13550798.html",
       "published_at": null,
       "first_seen_at": "2026-10-11T22:15:36.084900Z",
-      "last_seen_at": "2026-10-12T08:35:07.419186Z",
+      "last_seen_at": "2026-10-12T18:34:12.833773Z",
       "title_original": "吉利星愿每小时70公里紧急变线",
       "title_en": null,
       "title_zh": "吉利星愿每小时70公里紧急变线",
@@ -335,7 +675,7 @@
       "url": "https://carnewschina.com/2026/10/11/china-tightens-rules-on-new-car-tech-limits-zero-g-seats-excessive-screens-and-headlight-messaging",
       "published_at": "2026-10-11T21:42:36Z",
       "first_seen_at": "2026-10-11T22:15:36.084900Z",
-      "last_seen_at": "2026-10-12T08:35:07.419186Z",
+      "last_seen_at": "2026-10-12T18:34:12.833773Z",
       "title_original": "China tightens rules on new car tech, limits zero-G seats, excessive screens, and headlight messaging",
       "title_en": "China tightens rules on new car tech, limits zero-G seats, excessive screens, and headlight messaging",
       "title_zh": "中国收紧对新车技术的规定，限制零重力座椅、过多的屏幕和车头灯消息",
@@ -343,161 +683,343 @@
       "topic_tags": [
         "新能源",
         "新车上市"
-      ]
-    },
-    {
-      "id": "bade1786a120595c12e1734bfae4d388a88d1afc",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "底盘扎实稳重 途观L用车心得分享",
-      "url": "https://i.autohome.com.cn/173057560",
-      "published_at": null,
-      "first_seen_at": "2026-10-11T18:16:50.546799Z",
-      "last_seen_at": "2026-10-12T08:35:07.419186Z",
-      "title_original": "底盘扎实稳重 途观L用车心得分享",
-      "title_en": null,
-      "title_zh": "底盘扎实稳重 途观L用车心得分享",
-      "title_bilingual": "底盘扎实稳重 途观L用车心得分享",
-      "topic_tags": [
-        "供应链",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "bda2aa7785b00510013a8f03363b4da572c2c034",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "底盘扎实稳重 零跑C11提车作业分享",
-      "url": "https://club.autohome.com.cn/bbs/thread/dc474d6235a1eaf1/116366510-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-10-11T18:16:50.546799Z",
-      "last_seen_at": "2026-10-12T08:35:07.419186Z",
-      "title_original": "底盘扎实稳重 零跑C11提车作业分享",
-      "title_en": null,
-      "title_zh": "底盘扎实稳重 零跑C11提车作业分享",
-      "title_bilingual": "底盘扎实稳重 零跑C11提车作业分享",
-      "topic_tags": [
-        "车企竞争",
-        "供应链",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "95963b37be8e56397fe8c74444383b64f3c44586",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "动力没对手 特斯拉Model Y提车分享",
-      "url": "https://club.autohome.com.cn/bbs/thread/c2ac5537cb05ddbe/116362140-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-10-11T18:16:50.546799Z",
-      "last_seen_at": "2026-10-12T08:35:07.419186Z",
-      "title_original": "动力没对手 特斯拉Model Y提车分享",
-      "title_en": null,
-      "title_zh": "动力没对手 特斯拉Model Y提车分享",
-      "title_bilingual": "动力没对手 特斯拉Model Y提车分享",
-      "topic_tags": [
-        "车企竞争",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "cf48466af69042b7e8b92b0c27b65a36539ef48b",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新能源",
-      "title": "E周看点 | 吉利汽车进入加拿大市场；中国将大幅削减对欧混动车出口",
-      "url": "https://auto.gasgoo.com/news/202610/11I70474473C501.shtml",
-      "published_at": "2026-10-11T16:35:13Z",
-      "first_seen_at": "2026-10-12T08:35:07.419186Z",
-      "last_seen_at": "2026-10-12T08:35:07.419186Z",
-      "title_original": "E周看点 | 吉利汽车进入加拿大市场；中国将大幅削减对欧混动车出口",
-      "title_en": null,
-      "title_zh": "E周看点 | 吉利汽车进入加拿大市场；中国将大幅削减对欧混动车出口",
-      "title_bilingual": "E周看点 | 吉利汽车进入加拿大市场；中国将大幅削减对欧混动车出口",
-      "topic_tags": [
-        "新能源",
-        "销量市场",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "de6109b56e78f17b6a7ece5497c40666afbc7e92",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "懂车帝 · 文章排行榜",
-      "title": "领克07GT动态体验：MRC性格分明、双电机性能兜底，够S的旅行车",
-      "url": "https://www.dongchedi.com/article/7692768536607310360",
-      "published_at": null,
-      "first_seen_at": "2026-10-11T13:15:50.257166Z",
-      "last_seen_at": "2026-10-12T01:31:23.748826Z",
-      "title_original": "领克07GT动态体验：MRC性格分明、双电机性能兜底，够S的旅行车",
-      "title_en": null,
-      "title_zh": "领克07GT动态体验：MRC性格分明、双电机性能兜底，够S的旅行车",
-      "title_bilingual": "领克07GT动态体验：MRC性格分明、双电机性能兜底，够S的旅行车",
-      "topic_tags": [
-        "供应链",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "280d247ba99eba1bfb075e1bf6d221bb3de50ae3",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "懂车帝 · 文章排行榜",
-      "title": "欧盟对中国混动车“出手”了，四年内对欧出口或减半",
-      "url": "https://www.dongchedi.com/article/7695040692598915646",
-      "published_at": null,
-      "first_seen_at": "2026-10-11T13:15:50.257166Z",
-      "last_seen_at": "2026-10-12T08:35:07.419186Z",
-      "title_original": "欧盟对中国混动车“出手”了，四年内对欧出口或减半",
-      "title_en": null,
-      "title_zh": "欧盟对中国混动车“出手”了，四年内对欧出口或减半",
-      "title_bilingual": "欧盟对中国混动车“出手”了，四年内对欧出口或减半",
-      "topic_tags": [
-        "新能源",
-        "销量市场"
-      ]
-    },
-    {
-      "id": "c1f6fe62e48914077a053e24ccf1f7c02b7747dd",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "懂车帝 · 文章排行榜",
-      "title": "车市“金九”大考：自主五强战略分野，全球竞速重构增长曲线",
-      "url": "https://www.dongchedi.com/article/7694976344308400664",
-      "published_at": null,
-      "first_seen_at": "2026-10-11T13:15:50.257166Z",
-      "last_seen_at": "2026-10-12T08:35:07.419186Z",
-      "title_original": "车市“金九”大考：自主五强战略分野，全球竞速重构增长曲线",
-      "title_en": null,
-      "title_zh": "车市“金九”大考：自主五强战略分野，全球竞速重构增长曲线",
-      "title_bilingual": "车市“金九”大考：自主五强战略分野，全球竞速重构增长曲线",
-      "topic_tags": []
-    },
-    {
-      "id": "459f13ad915c003b0425d9562213267a5ed47619",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "12个月造车？监管开始踩刹车",
-      "url": "https://auto.gasgoo.com/news/202610/11I70474492C108.shtml",
-      "published_at": "2026-10-11T08:57:53Z",
-      "first_seen_at": "2026-10-12T01:31:23.748826Z",
-      "last_seen_at": "2026-10-12T08:35:07.419186Z",
-      "title_original": "12个月造车？监管开始踩刹车",
-      "title_en": null,
-      "title_zh": "12个月造车？监管开始踩刹车",
-      "title_bilingual": "12个月造车？监管开始踩刹车",
-      "topic_tags": [
-        "召回安全"
       ]
     }
   ],
   "items_ai": [
     {
+      "id": "31113d8a3cd77a85cebc3ad0ff4b6d14ee37f24a",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "优缺点全覆盖 试驾NX8大师版",
+      "url": "https://club.autohome.com.cn/bbs/thread/55322374250e85a2/116080993-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-10-12T18:34:12.833773Z",
+      "last_seen_at": "2026-10-12T18:34:12.833773Z",
+      "title_original": "优缺点全覆盖 试驾NX8大师版",
+      "title_en": null,
+      "title_zh": "优缺点全覆盖 试驾NX8大师版",
+      "title_bilingual": "优缺点全覆盖 试驾NX8大师版",
+      "topic_tags": [
+        "购车决策"
+      ]
+    },
+    {
+      "id": "5f421dbf863719c5fd3af692004b163f3399791e",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "迫不及待 零跑D19纯电提车分享",
+      "url": "https://i.autohome.com.cn/308748412",
+      "published_at": null,
+      "first_seen_at": "2026-10-12T18:34:12.833773Z",
+      "last_seen_at": "2026-10-12T18:34:12.833773Z",
+      "title_original": "迫不及待 零跑D19纯电提车分享",
+      "title_en": null,
+      "title_zh": "迫不及待 零跑D19纯电提车分享",
+      "title_bilingual": "迫不及待 零跑D19纯电提车分享",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "0c5bd4feb981379eeef93b7a839102245f2ac727",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "长续航无压力 Model Y提车作业",
+      "url": "https://club.autohome.com.cn/bbs/thread/6d699400b50710a2/116362700-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-10-12T18:34:12.833773Z",
+      "last_seen_at": "2026-10-12T18:34:12.833773Z",
+      "title_original": "长续航无压力 Model Y提车作业",
+      "title_en": null,
+      "title_zh": "长续航无压力 Model Y提车作业",
+      "title_bilingual": "长续航无压力 Model Y提车作业",
+      "topic_tags": [
+        "补能电池",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "dcc017fb1d412c5d53bc1a0c0c0d7cd29c444def",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "家用省油省心 比亚迪秦L提车分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/792bde144dc01f63/116166266-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-10-12T18:34:12.833773Z",
+      "last_seen_at": "2026-10-12T18:34:12.833773Z",
+      "title_original": "家用省油省心 比亚迪秦L提车分享",
+      "title_en": null,
+      "title_zh": "家用省油省心 比亚迪秦L提车分享",
+      "title_bilingual": "家用省油省心 比亚迪秦L提车分享",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "446e23b94ebb1826fab0368f870ff81d7eddacbc",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "底盘质感优秀 帕萨特提车作业分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/bf65e81429ed234e/115885121-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-10-12T18:34:12.833773Z",
+      "last_seen_at": "2026-10-12T18:34:12.833773Z",
+      "title_original": "底盘质感优秀 帕萨特提车作业分享",
+      "title_en": null,
+      "title_zh": "底盘质感优秀 帕萨特提车作业分享",
+      "title_bilingual": "底盘质感优秀 帕萨特提车作业分享",
+      "topic_tags": [
+        "供应链",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "16f3c3a8d62c74f1c8ee256fb838f80ab609cde4",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "底盘扎实稳重 途观L用车心得分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/c824de1419db6937/115948259-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-10-12T18:34:12.833773Z",
+      "last_seen_at": "2026-10-12T18:34:12.833773Z",
+      "title_original": "底盘扎实稳重 途观L用车心得分享",
+      "title_en": null,
+      "title_zh": "底盘扎实稳重 途观L用车心得分享",
+      "title_bilingual": "底盘扎实稳重 途观L用车心得分享",
+      "topic_tags": [
+        "供应链",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "a5d53b85796502f0ca5dc5a84f3bbaf5bb1be085",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Xpeng’s Tesla FSD rival arrives in Europe for test drives. I tried NGP for 30 minutes in chaotic Paris traffic",
+      "url": "https://carnewschina.com/2026/10/12/xpengs-tesla-fsd-rival-arrives-in-europe-for-test-drives-i-tried-ngp-for-30-minutes-in-chaotic-paris-traffic",
+      "published_at": "2026-10-12T17:57:49Z",
+      "first_seen_at": "2026-10-12T18:34:12.833773Z",
+      "last_seen_at": "2026-10-12T18:34:12.833773Z",
+      "title_original": "Xpeng’s Tesla FSD rival arrives in Europe for test drives. I tried NGP for 30 minutes in chaotic Paris traffic",
+      "title_en": "Xpeng’s Tesla FSD rival arrives in Europe for test drives. I tried NGP for 30 minutes in chaotic Paris traffic",
+      "title_zh": "小鹏汽车的特斯拉 FSD 竞争对手抵达欧洲进行试驾。我在巴黎交通混乱的情况下尝试了 30 分钟 NGP",
+      "title_bilingual": "小鹏汽车的特斯拉 FSD 竞争对手抵达欧洲进行试驾。我在巴黎交通混乱的情况下尝试了 30 分钟 NGP / Xpeng’s Tesla FSD rival arrives in Europe for test drives. I tried NGP for 30 minutes in chaotic Paris traffic",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "e75d4576319386defafb37069412ee4e646cbb6e",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Li Auto i6 makes European debut ahead of Q1 2027 launch in Norway and Netherlands",
+      "url": "https://cnevpost.com/2026/10/12/li-auto-i6-european-debut",
+      "published_at": "2026-10-12T15:48:22Z",
+      "first_seen_at": "2026-10-12T18:34:12.833773Z",
+      "last_seen_at": "2026-10-12T18:34:12.833773Z",
+      "title_original": "Li Auto i6 makes European debut ahead of Q1 2027 launch in Norway and Netherlands",
+      "title_en": "Li Auto i6 makes European debut ahead of Q1 2027 launch in Norway and Netherlands",
+      "title_zh": "理想汽车 i6 在欧洲首次亮相，将于 2027 年第一季度在挪威和荷兰上市",
+      "title_bilingual": "理想汽车 i6 在欧洲首次亮相，将于 2027 年第一季度在挪威和荷兰上市 / Li Auto i6 makes European debut ahead of Q1 2027 launch in Norway and Netherlands",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "e313713b51f37c222fe5311eac306835fc717c37",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Aito confirms 2027 European entry at Paris Motor Show",
+      "url": "https://cnevpost.com/2026/10/12/aito-confirms-2027-european-entry-paris-show",
+      "published_at": "2026-10-12T15:23:35Z",
+      "first_seen_at": "2026-10-12T18:34:12.833773Z",
+      "last_seen_at": "2026-10-12T18:34:12.833773Z",
+      "title_original": "Aito confirms 2027 European entry at Paris Motor Show",
+      "title_en": "Aito confirms 2027 European entry at Paris Motor Show",
+      "title_zh": "Aito 确认 2027 年将参加巴黎车展欧洲市场",
+      "title_bilingual": "Aito 确认 2027 年将参加巴黎车展欧洲市场 / Aito confirms 2027 European entry at Paris Motor Show",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "b7f6d03cf83e24ae3a0494b130b540a0a750b290",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "China cuts NEV export tax rebates, testing profitability of automakers' overseas growth",
+      "url": "https://cnevpost.com/2026/10/12/china-cuts-nev-export-tax-rebates",
+      "published_at": "2026-10-12T13:50:08Z",
+      "first_seen_at": "2026-10-12T18:34:12.833773Z",
+      "last_seen_at": "2026-10-12T18:34:12.833773Z",
+      "title_original": "China cuts NEV export tax rebates, testing profitability of automakers' overseas growth",
+      "title_en": "China cuts NEV export tax rebates, testing profitability of automakers' overseas growth",
+      "title_zh": "中国下调新能源汽车出口退税，考验车企海外扩张盈利能力",
+      "title_bilingual": "中国下调新能源汽车出口退税，考验车企海外扩张盈利能力 / China cuts NEV export tax rebates, testing profitability of automakers' overseas growth",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "289b709d207b6513d36829a25de0191eff1597c5",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Xpeng launches G9L SUV in Europe as monthly overseas sales top 10,000 for first time",
+      "url": "https://cnevpost.com/2026/10/12/xpeng-launches-g9l-europe",
+      "published_at": "2026-10-12T12:52:54Z",
+      "first_seen_at": "2026-10-12T18:34:12.833773Z",
+      "last_seen_at": "2026-10-12T18:34:12.833773Z",
+      "title_original": "Xpeng launches G9L SUV in Europe as monthly overseas sales top 10,000 for first time",
+      "title_en": "Xpeng launches G9L SUV in Europe as monthly overseas sales top 10,000 for first time",
+      "title_zh": "小鹏SUV G9L欧洲上市 海外月销量首破万辆",
+      "title_bilingual": "小鹏SUV G9L欧洲上市 海外月销量首破万辆 / Xpeng launches G9L SUV in Europe as monthly overseas sales top 10,000 for first time",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "c0c69e3d978110ed9b8b49e22576f1a54fc99b32",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Xpeng G9L EV crossover launches in Europe at 83,850 USD",
+      "url": "https://carnewschina.com/2026/10/12/xpeng-g9l-ev-crossover-launches-in-europe-at-83850-usd",
+      "published_at": "2026-10-12T11:45:57Z",
+      "first_seen_at": "2026-10-12T18:34:12.833773Z",
+      "last_seen_at": "2026-10-12T18:34:12.833773Z",
+      "title_original": "Xpeng G9L EV crossover launches in Europe at 83,850 USD",
+      "title_en": "Xpeng G9L EV crossover launches in Europe at 83,850 USD",
+      "title_zh": "小鹏 G9L 电动跨界车在欧洲上市，售价 83,850 美元",
+      "title_bilingual": "小鹏 G9L 电动跨界车在欧洲上市，售价 83,850 美元 / Xpeng G9L EV crossover launches in Europe at 83,850 USD",
+      "topic_tags": [
+        "新能源",
+        "价格战",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "c885fff240608e6c6bde5b54f477d60e7d41d5d3",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "BYD Atto 8 large 7-seater becomes the brand’s first car with flash charging in Europe",
+      "url": "https://carnewschina.com/2026/10/12/byd-atto-8-becomes-the-brands-first-car-with-flash-charging-in-europe",
+      "published_at": "2026-10-12T10:41:23Z",
+      "first_seen_at": "2026-10-12T18:34:12.833773Z",
+      "last_seen_at": "2026-10-12T18:34:12.833773Z",
+      "title_original": "BYD Atto 8 large 7-seater becomes the brand’s first car with flash charging in Europe",
+      "title_en": "BYD Atto 8 large 7-seater becomes the brand’s first car with flash charging in Europe",
+      "title_zh": "比亚迪Atto 8大型7座车成为该品牌在欧洲首款配备闪充功能的汽车",
+      "title_bilingual": "比亚迪Atto 8大型7座车成为该品牌在欧洲首款配备闪充功能的汽车 / BYD Atto 8 large 7-seater becomes the brand’s first car with flash charging in Europe",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "65550f044de8a1453c9e11d852ab53ddc77342d5",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Smart #2 debuts in Paris as Couture Edition launches in China",
+      "url": "https://cnevpost.com/2026/10/12/smart-2-debuts-paris-couture-edition-launches-china",
+      "published_at": "2026-10-12T10:39:26Z",
+      "first_seen_at": "2026-10-12T18:34:12.833773Z",
+      "last_seen_at": "2026-10-12T18:34:12.833773Z",
+      "title_original": "Smart #2 debuts in Paris as Couture Edition launches in China",
+      "title_en": "Smart #2 debuts in Paris as Couture Edition launches in China",
+      "title_zh": "Smart #2 在巴黎首次亮相，Couture Edition 在中国推出",
+      "title_bilingual": "Smart #2 在巴黎首次亮相，Couture Edition 在中国推出 / Smart #2 debuts in Paris as Couture Edition launches in China",
+      "topic_tags": [
+        "新能源",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "bae46344848f939aab7f0526cb7806db2617c193",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Huawei-backed Aito announce European entry in autumn 2027",
+      "url": "https://carnewschina.com/2026/10/12/huawei-backed-aito-announce-european-entry-in-autumn-2027",
+      "published_at": "2026-10-12T09:03:30Z",
+      "first_seen_at": "2026-10-12T18:34:12.833773Z",
+      "last_seen_at": "2026-10-12T18:34:12.833773Z",
+      "title_original": "Huawei-backed Aito announce European entry in autumn 2027",
+      "title_en": "Huawei-backed Aito announce European entry in autumn 2027",
+      "title_zh": "华为支持的 Aito 宣布将于 2027 年秋季进入欧洲",
+      "title_bilingual": "华为支持的 Aito 宣布将于 2027 年秋季进入欧洲 / Huawei-backed Aito announce European entry in autumn 2027",
+      "topic_tags": [
+        "新能源"
+      ]
+    },
+    {
+      "id": "8d5c30cab1b2d2d187e551773d16aa55d1b1b350",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Smart #2 makes global debut at Paris Motor Show, starts at 19,990 EUR",
+      "url": "https://carnewschina.com/2026/10/12/smart-2-makes-global-debut-at-paris-motor-show-couture-edition-launches-in-china",
+      "published_at": "2026-10-12T09:02:35Z",
+      "first_seen_at": "2026-10-12T18:34:12.833773Z",
+      "last_seen_at": "2026-10-12T18:34:12.833773Z",
+      "title_original": "Smart #2 makes global debut at Paris Motor Show, starts at 19,990 EUR",
+      "title_en": "Smart #2 makes global debut at Paris Motor Show, starts at 19,990 EUR",
+      "title_zh": "Smart #2 在巴黎车展全球首发，起价 19,990 欧元",
+      "title_bilingual": "Smart #2 在巴黎车展全球首发，起价 19,990 欧元 / Smart #2 makes global debut at Paris Motor Show, starts at 19,990 EUR",
+      "topic_tags": [
+        "新能源",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "4d70a713db2fb38235575c52847bbd0c694a628b",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "VW steps up China EREV push with ID. ERA 8X launch; ID. ERA 5X to follow in November",
+      "url": "https://cnevpost.com/2026/10/12/vw-id-era-8x-launch-china",
+      "published_at": "2026-10-12T08:52:45Z",
+      "first_seen_at": "2026-10-12T18:34:12.833773Z",
+      "last_seen_at": "2026-10-12T18:34:12.833773Z",
+      "title_original": "VW steps up China EREV push with ID. ERA 8X launch; ID. ERA 5X to follow in November",
+      "title_en": "VW steps up China EREV push with ID. ERA 8X launch; ID. ERA 5X to follow in November",
+      "title_zh": "大众凭借ID加大在中国增程式电动汽车的推广力度。 ERA 8X 发布； ID。 ERA 5X 将于 11 月推出",
+      "title_bilingual": "大众凭借ID加大在中国增程式电动汽车的推广力度。 ERA 8X 发布； ID。 ERA 5X 将于 11 月推出 / VW steps up China EREV push with ID. ERA 8X launch; ID. ERA 5X to follow in November",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
       "id": "6f46ca82e283129be3abd2f0f3a8c9622dd2bc02",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -506,7 +1028,7 @@
       "url": "https://cnevpost.com/2026/10/12/china-sept-2026-nev-sales-caam",
       "published_at": "2026-10-12T08:13:55Z",
       "first_seen_at": "2026-10-12T08:35:07.419186Z",
-      "last_seen_at": "2026-10-12T08:35:07.419186Z",
+      "last_seen_at": "2026-10-12T18:34:12.833773Z",
       "title_original": "China NEV sales hit year-to-date high in September as export surge offsets domestic decline, CAAM data shows",
       "title_en": "China NEV sales hit year-to-date high in September as export surge offsets domestic decline, CAAM data shows",
       "title_zh": "中国汽车工业协会数据显示，出口激增抵消了国内下滑，9月份中国新能源汽车销量创今年迄今新高",
@@ -525,7 +1047,7 @@
       "url": "https://cnevpost.com/2026/10/12/china-sept-2026-nev-retail-cpca",
       "published_at": "2026-10-12T07:10:45Z",
       "first_seen_at": "2026-10-12T08:35:07.419186Z",
-      "last_seen_at": "2026-10-12T08:35:07.419186Z",
+      "last_seen_at": "2026-10-12T18:34:12.833773Z",
       "title_original": "China September NEV retail sales fall 16.7% as penetration hits record 67%, CPCA data shows",
       "title_en": "China September NEV retail sales fall 16.7% as penetration hits record 67%, CPCA data shows",
       "title_zh": "CPCA数据显示，中国9月新能源汽车零售量下降16.7%，渗透率创历史新高67%",
@@ -544,7 +1066,7 @@
       "url": "https://cnevpost.com/2026/10/12/xpeng-mona-l03-launch-australia-new-zealand",
       "published_at": "2026-10-12T06:20:05Z",
       "first_seen_at": "2026-10-12T08:35:07.419186Z",
-      "last_seen_at": "2026-10-12T08:35:07.419186Z",
+      "last_seen_at": "2026-10-12T18:34:12.833773Z",
       "title_original": "Xpeng steps up Australia, New Zealand push with Mona L03 launch",
       "title_en": "Xpeng steps up Australia, New Zealand push with Mona L03 launch",
       "title_zh": "小鹏汽车加大力度推动澳大利亚和新西兰市场，推出 Mona L03",
@@ -564,7 +1086,7 @@
       "url": "https://cnevpost.com/2026/10/12/china-eu-hybrid-trade-allows-growth",
       "published_at": "2026-10-12T05:30:27Z",
       "first_seen_at": "2026-10-12T08:35:07.419186Z",
-      "last_seen_at": "2026-10-12T08:35:07.419186Z",
+      "last_seen_at": "2026-10-12T18:34:12.833773Z",
       "title_original": "China says EU hybrid trade deal allows export growth from 2025 levels",
       "title_en": "China says EU hybrid trade deal allows export growth from 2025 levels",
       "title_zh": "中国称欧盟混合贸易协议允许出口在2025年水平基础上增长",
@@ -583,7 +1105,7 @@
       "url": "https://cnevpost.com/2026/10/12/aito-plans-european-expansion-2027",
       "published_at": "2026-10-12T03:38:00Z",
       "first_seen_at": "2026-10-12T08:35:07.419186Z",
-      "last_seen_at": "2026-10-12T08:35:07.419186Z",
+      "last_seen_at": "2026-10-12T18:34:12.833773Z",
       "title_original": "Huawei-backed Aito plans European expansion next year, report says",
       "title_en": "Huawei-backed Aito plans European expansion next year, report says",
       "title_zh": "报告称，华为支持的 Aito 计划明年在欧洲扩张",
@@ -601,7 +1123,7 @@
       "url": "https://cnevpost.com/2026/10/12/chery-recalls-omoda-5-malaysia",
       "published_at": "2026-10-12T02:35:46Z",
       "first_seen_at": "2026-10-12T08:35:07.419186Z",
-      "last_seen_at": "2026-10-12T08:35:07.419186Z",
+      "last_seen_at": "2026-10-12T18:34:12.833773Z",
       "title_original": "Chery recalls Omoda 5 in Malaysia after rear axle detachment incident",
       "title_en": "Chery recalls Omoda 5 in Malaysia after rear axle detachment incident",
       "title_zh": "奇瑞在马来西亚召回 Omoda 5 后轴脱落事件",
@@ -621,7 +1143,7 @@
       "url": "https://cnevpost.com/2026/10/12/xpeng-teases-mona-l05",
       "published_at": "2026-10-12T01:55:34Z",
       "first_seen_at": "2026-10-12T08:35:07.419186Z",
-      "last_seen_at": "2026-10-12T08:35:07.419186Z",
+      "last_seen_at": "2026-10-12T18:34:12.833773Z",
       "title_original": "Xpeng teases Mona L05 debut ahead of planned Q4 launch",
       "title_en": "Xpeng teases Mona L05 debut ahead of planned Q4 launch",
       "title_zh": "小鹏汽车在计划第四季度发布之前预告 Mona L05 首次亮相",
@@ -641,7 +1163,7 @@
       "url": "http://vc.yiche.com/vplay/13582816.html",
       "published_at": null,
       "first_seen_at": "2026-10-11T22:15:36.084900Z",
-      "last_seen_at": "2026-10-12T08:35:07.419186Z",
+      "last_seen_at": "2026-10-12T18:34:12.833773Z",
       "title_original": "长城H10 Hi4智能电四驱的表现能算泛越野？",
       "title_en": null,
       "title_zh": "长城H10 Hi4智能电四驱的表现能算泛越野？",
@@ -659,7 +1181,7 @@
       "url": "http://vc.yiche.com/vplay/13562684.html",
       "published_at": null,
       "first_seen_at": "2026-10-11T22:15:36.084900Z",
-      "last_seen_at": "2026-10-12T08:35:07.419186Z",
+      "last_seen_at": "2026-10-12T18:34:12.833773Z",
       "title_original": "长城H10爆单背后 靠实力撑起底气",
       "title_en": null,
       "title_zh": "长城H10爆单背后 靠实力撑起底气",
@@ -677,7 +1199,7 @@
       "url": "http://vc.yiche.com/vplay/13571105.html",
       "published_at": null,
       "first_seen_at": "2026-10-11T22:15:36.084900Z",
-      "last_seen_at": "2026-10-12T08:35:07.419186Z",
+      "last_seen_at": "2026-10-12T18:34:12.833773Z",
       "title_original": "2026款日产轩逸：双12.3英寸联屏 + 8155芯片，智能升级代步轿车",
       "title_en": null,
       "title_zh": "2026款日产轩逸：双12.3英寸联屏 + 8155芯片，智能升级代步轿车",
@@ -695,7 +1217,7 @@
       "url": "http://vc.yiche.com/vplay/13573415.html",
       "published_at": null,
       "first_seen_at": "2026-10-11T22:15:36.084900Z",
-      "last_seen_at": "2026-10-12T08:35:07.419186Z",
+      "last_seen_at": "2026-10-12T18:34:12.833773Z",
       "title_original": "体验ID. ERA 8X：德系驾控+高阶智驾，合资开启新攻势？",
       "title_en": null,
       "title_zh": "体验ID. ERA 8X：德系驾控+高阶智驾，合资开启新攻势？",
@@ -714,7 +1236,7 @@
       "url": "http://vc.yiche.com/vplay/13471607.html",
       "published_at": null,
       "first_seen_at": "2026-10-11T22:15:36.084900Z",
-      "last_seen_at": "2026-10-12T08:35:07.419186Z",
+      "last_seen_at": "2026-10-12T18:34:12.833773Z",
       "title_original": "探店小鹏MONA L03 15万内配置拉满！年轻人看了都喜欢？",
       "title_en": null,
       "title_zh": "探店小鹏MONA L03 15万内配置拉满！年轻人看了都喜欢？",
@@ -732,7 +1254,7 @@
       "url": "http://vc.yiche.com/vplay/13582144.html",
       "published_at": null,
       "first_seen_at": "2026-10-11T22:15:36.084900Z",
-      "last_seen_at": "2026-10-12T08:35:07.419186Z",
+      "last_seen_at": "2026-10-12T18:34:12.833773Z",
       "title_original": "新款库斯途中期改款 合资MPV在15万级 能否占据一席之地？",
       "title_en": null,
       "title_zh": "新款库斯途中期改款 合资MPV在15万级 能否占据一席之地？",
@@ -750,7 +1272,7 @@
       "url": "http://vc.yiche.com/vplay/13550798.html",
       "published_at": null,
       "first_seen_at": "2026-10-11T22:15:36.084900Z",
-      "last_seen_at": "2026-10-12T08:35:07.419186Z",
+      "last_seen_at": "2026-10-12T18:34:12.833773Z",
       "title_original": "吉利星愿每小时70公里紧急变线",
       "title_en": null,
       "title_zh": "吉利星愿每小时70公里紧急变线",
@@ -768,7 +1290,7 @@
       "url": "https://carnewschina.com/2026/10/11/china-tightens-rules-on-new-car-tech-limits-zero-g-seats-excessive-screens-and-headlight-messaging",
       "published_at": "2026-10-11T21:42:36Z",
       "first_seen_at": "2026-10-11T22:15:36.084900Z",
-      "last_seen_at": "2026-10-12T08:35:07.419186Z",
+      "last_seen_at": "2026-10-12T18:34:12.833773Z",
       "title_original": "China tightens rules on new car tech, limits zero-G seats, excessive screens, and headlight messaging",
       "title_en": "China tightens rules on new car tech, limits zero-G seats, excessive screens, and headlight messaging",
       "title_zh": "中国收紧对新车技术的规定，限制零重力座椅、过多的屏幕和车头灯消息",
@@ -776,156 +1298,6 @@
       "topic_tags": [
         "新能源",
         "新车上市"
-      ]
-    },
-    {
-      "id": "bade1786a120595c12e1734bfae4d388a88d1afc",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "底盘扎实稳重 途观L用车心得分享",
-      "url": "https://i.autohome.com.cn/173057560",
-      "published_at": null,
-      "first_seen_at": "2026-10-11T18:16:50.546799Z",
-      "last_seen_at": "2026-10-12T08:35:07.419186Z",
-      "title_original": "底盘扎实稳重 途观L用车心得分享",
-      "title_en": null,
-      "title_zh": "底盘扎实稳重 途观L用车心得分享",
-      "title_bilingual": "底盘扎实稳重 途观L用车心得分享",
-      "topic_tags": [
-        "供应链",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "bda2aa7785b00510013a8f03363b4da572c2c034",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "底盘扎实稳重 零跑C11提车作业分享",
-      "url": "https://club.autohome.com.cn/bbs/thread/dc474d6235a1eaf1/116366510-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-10-11T18:16:50.546799Z",
-      "last_seen_at": "2026-10-12T08:35:07.419186Z",
-      "title_original": "底盘扎实稳重 零跑C11提车作业分享",
-      "title_en": null,
-      "title_zh": "底盘扎实稳重 零跑C11提车作业分享",
-      "title_bilingual": "底盘扎实稳重 零跑C11提车作业分享",
-      "topic_tags": [
-        "车企竞争",
-        "供应链",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "95963b37be8e56397fe8c74444383b64f3c44586",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "动力没对手 特斯拉Model Y提车分享",
-      "url": "https://club.autohome.com.cn/bbs/thread/c2ac5537cb05ddbe/116362140-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-10-11T18:16:50.546799Z",
-      "last_seen_at": "2026-10-12T08:35:07.419186Z",
-      "title_original": "动力没对手 特斯拉Model Y提车分享",
-      "title_en": null,
-      "title_zh": "动力没对手 特斯拉Model Y提车分享",
-      "title_bilingual": "动力没对手 特斯拉Model Y提车分享",
-      "topic_tags": [
-        "车企竞争",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "cf48466af69042b7e8b92b0c27b65a36539ef48b",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新能源",
-      "title": "E周看点 | 吉利汽车进入加拿大市场；中国将大幅削减对欧混动车出口",
-      "url": "https://auto.gasgoo.com/news/202610/11I70474473C501.shtml",
-      "published_at": "2026-10-11T16:35:13Z",
-      "first_seen_at": "2026-10-12T08:35:07.419186Z",
-      "last_seen_at": "2026-10-12T08:35:07.419186Z",
-      "title_original": "E周看点 | 吉利汽车进入加拿大市场；中国将大幅削减对欧混动车出口",
-      "title_en": null,
-      "title_zh": "E周看点 | 吉利汽车进入加拿大市场；中国将大幅削减对欧混动车出口",
-      "title_bilingual": "E周看点 | 吉利汽车进入加拿大市场；中国将大幅削减对欧混动车出口",
-      "topic_tags": [
-        "新能源",
-        "销量市场",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "de6109b56e78f17b6a7ece5497c40666afbc7e92",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "懂车帝 · 文章排行榜",
-      "title": "领克07GT动态体验：MRC性格分明、双电机性能兜底，够S的旅行车",
-      "url": "https://www.dongchedi.com/article/7692768536607310360",
-      "published_at": null,
-      "first_seen_at": "2026-10-11T13:15:50.257166Z",
-      "last_seen_at": "2026-10-12T01:31:23.748826Z",
-      "title_original": "领克07GT动态体验：MRC性格分明、双电机性能兜底，够S的旅行车",
-      "title_en": null,
-      "title_zh": "领克07GT动态体验：MRC性格分明、双电机性能兜底，够S的旅行车",
-      "title_bilingual": "领克07GT动态体验：MRC性格分明、双电机性能兜底，够S的旅行车",
-      "topic_tags": [
-        "供应链",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "280d247ba99eba1bfb075e1bf6d221bb3de50ae3",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "懂车帝 · 文章排行榜",
-      "title": "欧盟对中国混动车“出手”了，四年内对欧出口或减半",
-      "url": "https://www.dongchedi.com/article/7695040692598915646",
-      "published_at": null,
-      "first_seen_at": "2026-10-11T13:15:50.257166Z",
-      "last_seen_at": "2026-10-12T08:35:07.419186Z",
-      "title_original": "欧盟对中国混动车“出手”了，四年内对欧出口或减半",
-      "title_en": null,
-      "title_zh": "欧盟对中国混动车“出手”了，四年内对欧出口或减半",
-      "title_bilingual": "欧盟对中国混动车“出手”了，四年内对欧出口或减半",
-      "topic_tags": [
-        "新能源",
-        "销量市场"
-      ]
-    },
-    {
-      "id": "c1f6fe62e48914077a053e24ccf1f7c02b7747dd",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "懂车帝 · 文章排行榜",
-      "title": "车市“金九”大考：自主五强战略分野，全球竞速重构增长曲线",
-      "url": "https://www.dongchedi.com/article/7694976344308400664",
-      "published_at": null,
-      "first_seen_at": "2026-10-11T13:15:50.257166Z",
-      "last_seen_at": "2026-10-12T08:35:07.419186Z",
-      "title_original": "车市“金九”大考：自主五强战略分野，全球竞速重构增长曲线",
-      "title_en": null,
-      "title_zh": "车市“金九”大考：自主五强战略分野，全球竞速重构增长曲线",
-      "title_bilingual": "车市“金九”大考：自主五强战略分野，全球竞速重构增长曲线",
-      "topic_tags": []
-    },
-    {
-      "id": "459f13ad915c003b0425d9562213267a5ed47619",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "12个月造车？监管开始踩刹车",
-      "url": "https://auto.gasgoo.com/news/202610/11I70474492C108.shtml",
-      "published_at": "2026-10-11T08:57:53Z",
-      "first_seen_at": "2026-10-12T01:31:23.748826Z",
-      "last_seen_at": "2026-10-12T08:35:07.419186Z",
-      "title_original": "12个月造车？监管开始踩刹车",
-      "title_en": null,
-      "title_zh": "12个月造车？监管开始踩刹车",
-      "title_bilingual": "12个月造车？监管开始踩刹车",
-      "topic_tags": [
-        "召回安全"
       ]
     }
   ],
