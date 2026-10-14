@@ -1,74 +1,185 @@
 {
-  "generated_at": "2026-10-14T05:15:11.841169Z",
+  "generated_at": "2026-10-14T10:25:50.488312Z",
   "window_hours": 24,
-  "total_items": 33,
-  "total_items_ai_raw": 37,
-  "total_items_raw": 2627,
-  "total_items_all_mode": 2320,
+  "total_items": 40,
+  "total_items_ai_raw": 43,
+  "total_items_raw": 2467,
+  "total_items_all_mode": 2222,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 50765,
+  "archive_total": 50830,
   "site_count": 3,
-  "source_count": 11,
+  "source_count": 13,
   "site_stats": [
     {
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "count": 24,
-      "raw_count": 28
+      "count": 32,
+      "raw_count": 35
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
-      "count": 9,
-      "raw_count": 2482
+      "count": 8,
+      "raw_count": 2325
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "count": 0,
-      "raw_count": 117
+      "raw_count": 107
     }
   ],
   "topic_tag_stats": [
     {
       "tag": "车企竞争",
-      "count": 23
+      "count": 22
     },
     {
       "tag": "新能源",
-      "count": 14
+      "count": 16
+    },
+    {
+      "tag": "销量市场",
+      "count": 10
     },
     {
       "tag": "新车上市",
       "count": 9
     },
     {
-      "tag": "补能电池",
-      "count": 5
-    },
-    {
       "tag": "购车决策",
-      "count": 5
-    },
-    {
-      "tag": "销量市场",
-      "count": 5
-    },
-    {
-      "tag": "供应链",
-      "count": 3
+      "count": 6
     },
     {
       "tag": "智能驾驶",
-      "count": 3
+      "count": 5
+    },
+    {
+      "tag": "补能电池",
+      "count": 4
     },
     {
       "tag": "召回安全",
+      "count": 2
+    },
+    {
+      "tag": "供应链",
       "count": 1
     }
   ],
   "items": [
     {
+      "id": "3a08bbd295fdd7ef55309e88500d48b7fe3451c6",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "懂车帝 · 文章排行榜",
+      "title": "出口有望突破1000万辆\n\n中汽协：汽车市场“内冷外热”",
+      "url": "https://www.dongchedi.com/article/7696112642431271486",
+      "published_at": null,
+      "first_seen_at": "2026-10-14T10:25:50.488312Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
+      "title_original": "出口有望突破1000万辆\n\n中汽协：汽车市场“内冷外热”",
+      "title_en": null,
+      "title_zh": "出口有望突破1000万辆\n\n中汽协：汽车市场“内冷外热”",
+      "title_bilingual": "出口有望突破1000万辆\n\n中汽协：汽车市场“内冷外热”",
+      "topic_tags": [
+        "销量市场"
+      ]
+    },
+    {
+      "id": "7ef06ba05a8c0028d6e39bdf3734bd199f22a4c5",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Updated Zeekr 7X launched in Europe with a 40 hp power boost at 59,990 EUR",
+      "url": "https://carnewschina.com/2026/10/14/updated-zeekr-7x-launched-in-europe-with-a-40-hp-power-boost-at-59990-eur",
+      "published_at": "2026-10-14T10:25:18Z",
+      "first_seen_at": "2026-10-14T10:25:50.488312Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
+      "title_original": "Updated Zeekr 7X launched in Europe with a 40 hp power boost at 59,990 EUR",
+      "title_en": "Updated Zeekr 7X launched in Europe with a 40 hp power boost at 59,990 EUR",
+      "title_zh": null,
+      "title_bilingual": "Updated Zeekr 7X launched in Europe with a 40 hp power boost at 59,990 EUR",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "e0c0dbebb550dd775d2e8516f152fed60b42dd18",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Changan and CATL to collaborate on 1,500 km solid state cells, establish 75 GWh battery lines",
+      "url": "https://carnewschina.com/2026/10/14/changan-and-catl-to-collaborate-on-1500-km-solid-state-cells-establish-75-gwh-battery-lines",
+      "published_at": "2026-10-14T09:13:57Z",
+      "first_seen_at": "2026-10-14T10:25:50.488312Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
+      "title_original": "Changan and CATL to collaborate on 1,500 km solid state cells, establish 75 GWh battery lines",
+      "title_en": "Changan and CATL to collaborate on 1,500 km solid state cells, establish 75 GWh battery lines",
+      "title_zh": null,
+      "title_bilingual": "Changan and CATL to collaborate on 1,500 km solid state cells, establish 75 GWh battery lines",
+      "topic_tags": [
+        "新能源",
+        "补能电池"
+      ]
+    },
+    {
+      "id": "b69f56b441aefcd70a14e563c79c9db1ac3366cc",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "China NEV retail sales fall 13% in October 1-11 as penetration slips to 61.2%",
+      "url": "https://cnevpost.com/2026/10/14/china-nev-retail-sales-fall-oct-1-11",
+      "published_at": "2026-10-14T09:08:38Z",
+      "first_seen_at": "2026-10-14T10:25:50.488312Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
+      "title_original": "China NEV retail sales fall 13% in October 1-11 as penetration slips to 61.2%",
+      "title_en": "China NEV retail sales fall 13% in October 1-11 as penetration slips to 61.2%",
+      "title_zh": null,
+      "title_bilingual": "China NEV retail sales fall 13% in October 1-11 as penetration slips to 61.2%",
+      "topic_tags": [
+        "新能源"
+      ]
+    },
+    {
+      "id": "e4adcc36208ca8da2cf212e62922537ac1faa574",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "FAW-VW teases new model, potentially second in ID. AURA lineup",
+      "url": "https://cnevpost.com/2026/10/14/faw-vw-teases-new-model-2nd-id-aura",
+      "published_at": "2026-10-14T07:54:02Z",
+      "first_seen_at": "2026-10-14T10:25:50.488312Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
+      "title_original": "FAW-VW teases new model, potentially second in ID. AURA lineup",
+      "title_en": "FAW-VW teases new model, potentially second in ID. AURA lineup",
+      "title_zh": null,
+      "title_bilingual": "FAW-VW teases new model, potentially second in ID. AURA lineup",
+      "topic_tags": [
+        "新能源"
+      ]
+    },
+    {
+      "id": "ca7fe2df2357d190249e962049282a5fba591244",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Leapmotor teases A10s electric SUV with sporty black-and-red styling",
+      "url": "https://cnevpost.com/2026/10/14/leapmotor-teases-a10s",
+      "published_at": "2026-10-14T06:58:56Z",
+      "first_seen_at": "2026-10-14T10:25:50.488312Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
+      "title_original": "Leapmotor teases A10s electric SUV with sporty black-and-red styling",
+      "title_en": "Leapmotor teases A10s electric SUV with sporty black-and-red styling",
+      "title_zh": null,
+      "title_bilingual": "Leapmotor teases A10s electric SUV with sporty black-and-red styling",
+      "topic_tags": [
+        "新能源",
+        "新车上市"
+      ]
+    },
+    {
       "id": "a4474ba041f08a14d7aa3c51eb3b9894dc5f232e",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -77,7 +188,7 @@
       "url": "https://carnewschina.com/2026/10/14/second-generation-byd-seagull-set-for-october-20-launch-with-lidar-and-expanded-dimensions",
       "published_at": "2026-10-14T04:13:41Z",
       "first_seen_at": "2026-10-14T05:15:11.841169Z",
-      "last_seen_at": "2026-10-14T05:15:11.841169Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
       "title_original": "Second-generation BYD Seagull set for October 20 launch with LiDAR and expanded dimensions",
       "title_en": "Second-generation BYD Seagull set for October 20 launch with LiDAR and expanded dimensions",
       "title_zh": null,
@@ -96,7 +207,7 @@
       "url": "https://cnevpost.com/2026/10/14/byd-launch-2nd-gen-seagull-oct-20",
       "published_at": "2026-10-14T03:01:49Z",
       "first_seen_at": "2026-10-14T05:15:11.841169Z",
-      "last_seen_at": "2026-10-14T05:15:11.841169Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
       "title_original": "BYD to launch second-gen Seagull on October 20",
       "title_en": "BYD to launch second-gen Seagull on October 20",
       "title_zh": null,
@@ -115,7 +226,7 @@
       "url": "https://cnevpost.com/2026/10/14/byd-tang-l-debuts-as-atto-8-paris-motor-show",
       "published_at": "2026-10-14T02:07:32Z",
       "first_seen_at": "2026-10-14T05:15:11.841169Z",
-      "last_seen_at": "2026-10-14T05:15:11.841169Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
       "title_original": "BYD Tang L debuts as Atto 8 at Paris Motor Show with flash charging",
       "title_en": "BYD Tang L debuts as Atto 8 at Paris Motor Show with flash charging",
       "title_zh": null,
@@ -135,7 +246,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/8d31febb3a8d993e/116361439-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-13T21:24:23.684417Z",
-      "last_seen_at": "2026-10-14T05:15:11.841169Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
       "title_original": "车机体验良好 小米YU7提车作业",
       "title_en": null,
       "title_zh": "车机体验良好 小米YU7提车作业",
@@ -153,7 +264,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/c0e52aa1224354e7/116364548-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-13T21:24:23.684417Z",
-      "last_seen_at": "2026-10-14T05:15:11.841169Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
       "title_original": "预算符合预期 比亚迪大唐提车分享",
       "title_en": null,
       "title_zh": "预算符合预期 比亚迪大唐提车分享",
@@ -172,7 +283,7 @@
       "url": "http://vc.yiche.com/vplay/13623556.html",
       "published_at": null,
       "first_seen_at": "2026-10-13T21:24:23.684417Z",
-      "last_seen_at": "2026-10-14T05:15:11.841169Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
       "title_original": "神行者8加华为智驾，有搞头吗？",
       "title_en": null,
       "title_zh": "神行者8加华为智驾，有搞头吗？",
@@ -190,7 +301,7 @@
       "url": "http://vc.yiche.com/vplay/13600379.html",
       "published_at": null,
       "first_seen_at": "2026-10-13T21:24:23.684417Z",
-      "last_seen_at": "2026-10-14T05:15:11.841169Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
       "title_original": "长城H10辅助驾驶，挑战广东龙王寨挂壁公路",
       "title_en": null,
       "title_zh": "长城H10辅助驾驶，挑战广东龙王寨挂壁公路",
@@ -209,7 +320,7 @@
       "url": "http://vc.yiche.com/vplay/13587191.html",
       "published_at": null,
       "first_seen_at": "2026-10-13T21:24:23.684417Z",
-      "last_seen_at": "2026-10-14T05:15:11.841169Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
       "title_original": "便宜没好货？试驾星光560",
       "title_en": null,
       "title_zh": "便宜没好货？试驾星光560",
@@ -227,13 +338,71 @@
       "url": "http://vc.yiche.com/vplay/13614435.html",
       "published_at": null,
       "first_seen_at": "2026-10-13T21:24:23.684417Z",
-      "last_seen_at": "2026-10-14T05:15:11.841169Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
       "title_original": "品类革新 魏牌二代蓝山重塑豪华SUV价值",
       "title_en": null,
       "title_zh": "品类革新 魏牌二代蓝山重塑豪华SUV价值",
       "title_bilingual": "品类革新 魏牌二代蓝山重塑豪华SUV价值",
       "topic_tags": [
         "新车上市"
+      ]
+    },
+    {
+      "id": "71f70f58a44f16172f04e1d7ec15a32fcba6be08",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-销量",
+      "title": "2026年1-8月比亚迪乘用车出口目的地TOP10：巴西超20万辆登顶，欧洲多国上榜丨盖世汽车研究院",
+      "url": "https://auto.gasgoo.com/news/202610/13I70474675C110.shtml",
+      "published_at": "2026-10-13T17:08:52Z",
+      "first_seen_at": "2026-10-14T10:25:50.488312Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
+      "title_original": "2026年1-8月比亚迪乘用车出口目的地TOP10：巴西超20万辆登顶，欧洲多国上榜丨盖世汽车研究院",
+      "title_en": null,
+      "title_zh": "2026年1-8月比亚迪乘用车出口目的地TOP10：巴西超20万辆登顶，欧洲多国上榜丨盖世汽车研究院",
+      "title_bilingual": "2026年1-8月比亚迪乘用车出口目的地TOP10：巴西超20万辆登顶，欧洲多国上榜丨盖世汽车研究院",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "3449ffc9d11222a0c553765baaf7d49ae2bf6bd3",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新能源",
+      "title": "问界M6累计交付突破60000台",
+      "url": "https://auto.gasgoo.com/news/202610/13I70474673C501.shtml",
+      "published_at": "2026-10-13T17:06:26Z",
+      "first_seen_at": "2026-10-14T10:25:50.488312Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
+      "title_original": "问界M6累计交付突破60000台",
+      "title_en": null,
+      "title_zh": "问界M6累计交付突破60000台",
+      "title_bilingual": "问界M6累计交付突破60000台",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "48012eb1722d5342e96154ce9b6a4ca1962db3ba",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-销量",
+      "title": "2026年1-8月智能座舱供应商装机量排行榜：HUD迈入规模普及与价值升级新阶段丨盖世汽车研究院",
+      "url": "https://auto.gasgoo.com/news/202610/13I70474668C110.shtml",
+      "published_at": "2026-10-13T16:47:41Z",
+      "first_seen_at": "2026-10-14T10:25:50.488312Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
+      "title_original": "2026年1-8月智能座舱供应商装机量排行榜：HUD迈入规模普及与价值升级新阶段丨盖世汽车研究院",
+      "title_en": null,
+      "title_zh": "2026年1-8月智能座舱供应商装机量排行榜：HUD迈入规模普及与价值升级新阶段丨盖世汽车研究院",
+      "title_bilingual": "2026年1-8月智能座舱供应商装机量排行榜：HUD迈入规模普及与价值升级新阶段丨盖世汽车研究院",
+      "topic_tags": [
+        "销量市场"
       ]
     },
     {
@@ -245,7 +414,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/3ee5d3d2d8a3564b/116366762-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-13T16:13:58.586610Z",
-      "last_seen_at": "2026-10-14T05:15:11.841169Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
       "title_original": "迫不及待 零跑D19纯电提车分享",
       "title_en": null,
       "title_zh": "迫不及待 零跑D19纯电提车分享",
@@ -257,6 +426,190 @@
       ]
     },
     {
+      "id": "4bcec7a4bdc4030a88eea90f0d2b5f6bd0651cca",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新技术",
+      "title": "FBH发明新型远紫外LED 能以创纪录速度传输数据",
+      "url": "https://auto.gasgoo.com/news/202610/13I70474667C409.shtml",
+      "published_at": "2026-10-13T16:10:12Z",
+      "first_seen_at": "2026-10-14T10:25:50.488312Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
+      "title_original": "FBH发明新型远紫外LED 能以创纪录速度传输数据",
+      "title_en": null,
+      "title_zh": "FBH发明新型远紫外LED 能以创纪录速度传输数据",
+      "title_bilingual": "FBH发明新型远紫外LED 能以创纪录速度传输数据",
+      "topic_tags": []
+    },
+    {
+      "id": "695f3a39ab2d83083e34124c2ad5ff4f571dc108",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新技术",
+      "title": "通用汽车申请车载系统专利 或许能助驾驶员缓解压力",
+      "url": "https://auto.gasgoo.com/news/202610/13I70474665C409.shtml",
+      "published_at": "2026-10-13T16:08:50Z",
+      "first_seen_at": "2026-10-14T10:25:50.488312Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
+      "title_original": "通用汽车申请车载系统专利 或许能助驾驶员缓解压力",
+      "title_en": null,
+      "title_zh": "通用汽车申请车载系统专利 或许能助驾驶员缓解压力",
+      "title_bilingual": "通用汽车申请车载系统专利 或许能助驾驶员缓解压力",
+      "topic_tags": []
+    },
+    {
+      "id": "f9cbfaa8b68f42f6be0a0102b42ebc75f5596c4f",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新技术",
+      "title": "华东交通大学提出框架P-LLM 使大语言模型主导自动驾驶车队调度",
+      "url": "https://auto.gasgoo.com/news/202610/13I70474660C409.shtml",
+      "published_at": "2026-10-13T15:30:08Z",
+      "first_seen_at": "2026-10-14T10:25:50.488312Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
+      "title_original": "华东交通大学提出框架P-LLM 使大语言模型主导自动驾驶车队调度",
+      "title_en": null,
+      "title_zh": "华东交通大学提出框架P-LLM 使大语言模型主导自动驾驶车队调度",
+      "title_bilingual": "华东交通大学提出框架P-LLM 使大语言模型主导自动驾驶车队调度",
+      "topic_tags": [
+        "智能驾驶"
+      ]
+    },
+    {
+      "id": "e9e933c83b6d4f1db92bd0dcb8fb4b593ffb70da",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "晓莺说 | 巴黎车展前线观察：改变、扎根与竞争",
+      "url": "https://auto.gasgoo.com/news/202610/13I70474661C109.shtml",
+      "published_at": "2026-10-13T15:11:02Z",
+      "first_seen_at": "2026-10-14T10:25:50.488312Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
+      "title_original": "晓莺说 | 巴黎车展前线观察：改变、扎根与竞争",
+      "title_en": null,
+      "title_zh": "晓莺说 | 巴黎车展前线观察：改变、扎根与竞争",
+      "title_bilingual": "晓莺说 | 巴黎车展前线观察：改变、扎根与竞争",
+      "topic_tags": [
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "3370fd4dd55807c98ee5befe08773932993a6649",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-销量",
+      "title": "零跑Lafa5海外订单4个月破12000台",
+      "url": "https://auto.gasgoo.com/news/202610/13I70474654C110.shtml",
+      "published_at": "2026-10-13T14:05:21Z",
+      "first_seen_at": "2026-10-14T10:25:50.488312Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
+      "title_original": "零跑Lafa5海外订单4个月破12000台",
+      "title_en": null,
+      "title_zh": "零跑Lafa5海外订单4个月破12000台",
+      "title_bilingual": "零跑Lafa5海外订单4个月破12000台",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "d2c5d4901ce4de9c520a74acee86a44edf97c246",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新车",
+      "title": "长安汽车亮相巴黎车展，启源入欧、混动产品阵容扩容",
+      "url": "https://auto.gasgoo.com/news/202610/13I70474653C109.shtml",
+      "published_at": "2026-10-13T13:57:39Z",
+      "first_seen_at": "2026-10-14T10:25:50.488312Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
+      "title_original": "长安汽车亮相巴黎车展，启源入欧、混动产品阵容扩容",
+      "title_en": null,
+      "title_zh": "长安汽车亮相巴黎车展，启源入欧、混动产品阵容扩容",
+      "title_bilingual": "长安汽车亮相巴黎车展，启源入欧、混动产品阵容扩容",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "9050b70d4b91da10e1e2415e900ddb3aba91f372",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-销量",
+      "title": "问界M9连续四个月蝉联50万以上车型销量第一",
+      "url": "https://auto.gasgoo.com/news/202610/13I70474652C110.shtml",
+      "published_at": "2026-10-13T13:54:51Z",
+      "first_seen_at": "2026-10-14T10:25:50.488312Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
+      "title_original": "问界M9连续四个月蝉联50万以上车型销量第一",
+      "title_en": null,
+      "title_zh": "问界M9连续四个月蝉联50万以上车型销量第一",
+      "title_bilingual": "问界M9连续四个月蝉联50万以上车型销量第一",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "ac170b913a9c3823bccad542f50e041d52923e68",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-销量",
+      "title": "智界V9连续四个月蝉联40万元以上MPV销量冠军",
+      "url": "https://auto.gasgoo.com/news/202610/13I70474651C110.shtml",
+      "published_at": "2026-10-13T13:47:22Z",
+      "first_seen_at": "2026-10-14T10:25:50.488312Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
+      "title_original": "智界V9连续四个月蝉联40万元以上MPV销量冠军",
+      "title_en": null,
+      "title_zh": "智界V9连续四个月蝉联40万元以上MPV销量冠军",
+      "title_bilingual": "智界V9连续四个月蝉联40万元以上MPV销量冠军",
+      "topic_tags": [
+        "销量市场",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "b7fcb486f9432a4c90f32828c2e539c388830098",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "比亚迪与荣耀战略合作 共创AI语音融合",
+      "url": "https://auto.gasgoo.com/news/202610/13I70474650C109.shtml",
+      "published_at": "2026-10-13T13:39:34Z",
+      "first_seen_at": "2026-10-14T10:25:50.488312Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
+      "title_original": "比亚迪与荣耀战略合作 共创AI语音融合",
+      "title_en": null,
+      "title_zh": "比亚迪与荣耀战略合作 共创AI语音融合",
+      "title_bilingual": "比亚迪与荣耀战略合作 共创AI语音融合",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "72857012e8827f2c95bb5234110d4e61b1826c0e",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "九识在泰国开展首个国家级L4级无人驾驶测试项目",
+      "url": "https://auto.gasgoo.com/news/202610/13I70474615C601.shtml",
+      "published_at": "2026-10-13T13:16:52Z",
+      "first_seen_at": "2026-10-14T10:25:50.488312Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
+      "title_original": "九识在泰国开展首个国家级L4级无人驾驶测试项目",
+      "title_en": null,
+      "title_zh": "九识在泰国开展首个国家级L4级无人驾驶测试项目",
+      "title_bilingual": "九识在泰国开展首个国家级L4级无人驾驶测试项目",
+      "topic_tags": [
+        "智能驾驶",
+        "召回安全"
+      ]
+    },
+    {
       "id": "a474d6fa88dd17c74d82490f68c78ed17670be98",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -265,7 +618,7 @@
       "url": "https://carnewschina.com/2026/10/13/byd-launches-da-han-ev-with-1008-km-range-which-can-be-fully-charged-in-9-minutes",
       "published_at": "2026-10-13T13:11:55Z",
       "first_seen_at": "2026-10-13T16:13:58.586610Z",
-      "last_seen_at": "2026-10-14T05:15:11.841169Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
       "title_original": "BYD launches Da Han EV with 1,008 km range, which can be fully charged in 9 minutes",
       "title_en": "BYD launches Da Han EV with 1,008 km range, which can be fully charged in 9 minutes",
       "title_zh": "比亚迪推出大汉EV 续航1008公里 9分钟充满",
@@ -285,7 +638,7 @@
       "url": "https://cnevpost.com/2026/10/13/byd-launches-da-han-ev",
       "published_at": "2026-10-13T13:09:40Z",
       "first_seen_at": "2026-10-13T16:13:58.586610Z",
-      "last_seen_at": "2026-10-14T05:15:11.841169Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
       "title_original": "BYD launches Da Han EV from $35,050 with up to 1,008 km range",
       "title_en": "BYD launches Da Han EV from $35,050 with up to 1,008 km range",
       "title_zh": "比亚迪推出大汉电动汽车，起价 35,050 美元，续航里程高达 1,008 公里",
@@ -305,7 +658,7 @@
       "url": "https://auto.gasgoo.com/news/202610/13I70474616C601.shtml",
       "published_at": "2026-10-13T12:48:53Z",
       "first_seen_at": "2026-10-14T05:15:11.841169Z",
-      "last_seen_at": "2026-10-14T05:15:11.841169Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
       "title_original": "TomTom与元戎启行达成合作 推进基于AI的自动驾驶技术",
       "title_en": null,
       "title_zh": "TomTom与元戎启行达成合作 推进基于AI的自动驾驶技术",
@@ -323,7 +676,7 @@
       "url": "https://cnevpost.com/2026/10/13/china-nev-export-share-sept-2026",
       "published_at": "2026-10-13T12:43:44Z",
       "first_seen_at": "2026-10-13T16:13:58.586610Z",
-      "last_seen_at": "2026-10-14T05:15:11.841169Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
       "title_original": "China NEV export share in September: BYD leads with 31.1%, Chery rises to second",
       "title_en": "China NEV export share in September: BYD leads with 31.1%, Chery rises to second",
       "title_zh": "9月中国新能源汽车出口份额：比亚迪31.1%领跑 奇瑞升至第二",
@@ -343,7 +696,7 @@
       "url": "https://auto.gasgoo.com/news/202610/13I70474645C109.shtml",
       "published_at": "2026-10-13T12:29:20Z",
       "first_seen_at": "2026-10-14T05:15:11.841169Z",
-      "last_seen_at": "2026-10-14T05:15:11.841169Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
       "title_original": "领克回应来了 ：乘员舱保持完整，车主伤情较轻",
       "title_en": null,
       "title_zh": "领克回应来了 ：乘员舱保持完整，车主伤情较轻",
@@ -362,7 +715,7 @@
       "url": "https://auto.gasgoo.com/news/202610/13I70474644C110.shtml",
       "published_at": "2026-10-13T12:20:00Z",
       "first_seen_at": "2026-10-14T05:15:11.841169Z",
-      "last_seen_at": "2026-10-14T05:15:11.841169Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
       "title_original": "蔚来ES8 9月销量过万，蝉联细分市场销冠",
       "title_en": null,
       "title_zh": "蔚来ES8 9月销量过万，蝉联细分市场销冠",
@@ -381,7 +734,7 @@
       "url": "https://auto.gasgoo.com/news/202610/13I70474643C108.shtml",
       "published_at": "2026-10-13T12:15:09Z",
       "first_seen_at": "2026-10-14T05:15:11.841169Z",
-      "last_seen_at": "2026-10-14T05:15:11.841169Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
       "title_original": "【国际快讯】欧中车企在巴黎车展密集推出新品；欧盟协议推动中国车企加速欧洲本土建厂；比亚迪拟将欧洲员工规模扩充至4万人",
       "title_en": null,
       "title_zh": "【国际快讯】欧中车企在巴黎车展密集推出新品；欧盟协议推动中国车企加速欧洲本土建厂；比亚迪拟将欧洲员工规模扩充至4万人",
@@ -400,7 +753,7 @@
       "url": "https://carnewschina.com/2026/10/13/denza-z9-gt-to-become-first-byd-car-with-gods-eye-autonomous-navigation-in-europe",
       "published_at": "2026-10-13T11:14:04Z",
       "first_seen_at": "2026-10-13T16:13:58.586610Z",
-      "last_seen_at": "2026-10-14T05:15:11.841169Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
       "title_original": "Denza Z9 GT to become first BYD car with God’s Eye autonomous navigation in Europe",
       "title_en": "Denza Z9 GT to become first BYD car with God’s Eye autonomous navigation in Europe",
       "title_zh": "腾势Z9 GT成为欧洲首款搭载上帝之眼自动导航的比亚迪汽车",
@@ -419,7 +772,7 @@
       "url": "https://auto.gasgoo.com/news/202610/13I70474636C601.shtml",
       "published_at": "2026-10-13T10:50:20Z",
       "first_seen_at": "2026-10-14T05:15:11.841169Z",
-      "last_seen_at": "2026-10-14T05:15:11.841169Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
       "title_original": "宝维塔工博会两大发布，柔性制造与车载电子测试同步提速",
       "title_en": null,
       "title_zh": "宝维塔工博会两大发布，柔性制造与车载电子测试同步提速",
@@ -439,7 +792,7 @@
       "url": "https://cnevpost.com/2026/10/13/china-nev-market-share-sept-2026-byd-tesla",
       "published_at": "2026-10-13T10:35:52Z",
       "first_seen_at": "2026-10-13T16:13:58.586610Z",
-      "last_seen_at": "2026-10-14T05:15:11.841169Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
       "title_original": "China NEV market share in September: BYD leads with 22.8%, Tesla rises to fourth",
       "title_en": "China NEV market share in September: BYD leads with 22.8%, Tesla rises to fourth",
       "title_zh": "9月中国新能源汽车市场份额：比亚迪22.8%领先 特斯拉升至第四",
@@ -459,246 +812,129 @@
       "url": "https://auto.gasgoo.com/news/202610/13I70474635C601.shtml",
       "published_at": "2026-10-13T10:27:56Z",
       "first_seen_at": "2026-10-14T05:15:11.841169Z",
-      "last_seen_at": "2026-10-14T05:15:11.841169Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
       "title_original": "轻舟智航城市NOA亮相巴黎车展，已完成巴黎城区多场景路测",
       "title_en": null,
       "title_zh": "轻舟智航城市NOA亮相巴黎车展，已完成巴黎城区多场景路测",
       "title_bilingual": "轻舟智航城市NOA亮相巴黎车展，已完成巴黎城区多场景路测",
       "topic_tags": [
         "新车上市"
-      ]
-    },
-    {
-      "id": "8a82901dd003cd41c677828965caab02899815e5",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "尊界发布最新检测说明：最高3000N加载试验未见裂纹和损坏",
-      "url": "https://auto.gasgoo.com/news/202610/13I70474634C109.shtml",
-      "published_at": "2026-10-13T10:20:33Z",
-      "first_seen_at": "2026-10-14T05:15:11.841169Z",
-      "last_seen_at": "2026-10-14T05:15:11.841169Z",
-      "title_original": "尊界发布最新检测说明：最高3000N加载试验未见裂纹和损坏",
-      "title_en": null,
-      "title_zh": "尊界发布最新检测说明：最高3000N加载试验未见裂纹和损坏",
-      "title_bilingual": "尊界发布最新检测说明：最高3000N加载试验未见裂纹和损坏",
-      "topic_tags": [
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "8c7d181ddc20566f6f5e875e37f315e82efa2069",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "东风风行TK系列巴黎车展首发，欧洲工厂计划明年一季度量产",
-      "url": "https://auto.gasgoo.com/news/202610/13I70474633C109.shtml",
-      "published_at": "2026-10-13T08:57:19Z",
-      "first_seen_at": "2026-10-14T05:15:11.841169Z",
-      "last_seen_at": "2026-10-14T05:15:11.841169Z",
-      "title_original": "东风风行TK系列巴黎车展首发，欧洲工厂计划明年一季度量产",
-      "title_en": null,
-      "title_zh": "东风风行TK系列巴黎车展首发，欧洲工厂计划明年一季度量产",
-      "title_bilingual": "东风风行TK系列巴黎车展首发，欧洲工厂计划明年一季度量产",
-      "topic_tags": [
-        "车企竞争",
-        "供应链",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "57882f6416507551c06fd341693f905b8ff8a461",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "广汽加码欧洲本地化布局，AION UT Cross巴黎车展首秀",
-      "url": "https://auto.gasgoo.com/news/202610/13I70474627C109.shtml",
-      "published_at": "2026-10-13T08:52:13Z",
-      "first_seen_at": "2026-10-14T05:15:11.841169Z",
-      "last_seen_at": "2026-10-14T05:15:11.841169Z",
-      "title_original": "广汽加码欧洲本地化布局，AION UT Cross巴黎车展首秀",
-      "title_en": null,
-      "title_zh": "广汽加码欧洲本地化布局，AION UT Cross巴黎车展首秀",
-      "title_bilingual": "广汽加码欧洲本地化布局，AION UT Cross巴黎车展首秀",
-      "topic_tags": [
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "f9c526dbce054a7ea716cbbb72f85067279d7313",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新车",
-      "title": "吉利汽车集团首秀巴黎车展，三大品牌欧盟月销量首破万辆",
-      "url": "https://auto.gasgoo.com/news/202610/13I70474624C109.shtml",
-      "published_at": "2026-10-13T08:24:04Z",
-      "first_seen_at": "2026-10-14T00:28:06.215483Z",
-      "last_seen_at": "2026-10-14T05:15:11.841169Z",
-      "title_original": "吉利汽车集团首秀巴黎车展，三大品牌欧盟月销量首破万辆",
-      "title_en": null,
-      "title_zh": "吉利汽车集团首秀巴黎车展，三大品牌欧盟月销量首破万辆",
-      "title_bilingual": "吉利汽车集团首秀巴黎车展，三大品牌欧盟月销量首破万辆",
-      "topic_tags": [
-        "销量市场",
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "946def4dd57f1e21d991a07020b8c3e0fb482ab6",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-供应链",
-      "title": "全球独立第三方多合一电驱冠军再出发，格雷博双新赛道加速兑现",
-      "url": "https://auto.gasgoo.com/news/202610/13I70474435C103.shtml",
-      "published_at": "2026-10-13T08:07:35Z",
-      "first_seen_at": "2026-10-14T00:28:06.215483Z",
-      "last_seen_at": "2026-10-14T05:15:11.841169Z",
-      "title_original": "全球独立第三方多合一电驱冠军再出发，格雷博双新赛道加速兑现",
-      "title_en": null,
-      "title_zh": "全球独立第三方多合一电驱冠军再出发，格雷博双新赛道加速兑现",
-      "title_bilingual": "全球独立第三方多合一电驱冠军再出发，格雷博双新赛道加速兑现",
-      "topic_tags": [
-        "供应链"
-      ]
-    },
-    {
-      "id": "73a22a980c9eabbe841b57b5ac99b04b565e2cd0",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "懂车帝 · 文章排行榜",
-      "title": "车企“去宁化”，行得通吗？",
-      "url": "https://www.dongchedi.com/article/7695580065535754777",
-      "published_at": null,
-      "first_seen_at": "2026-10-13T08:04:25.039951Z",
-      "last_seen_at": "2026-10-14T05:15:11.841169Z",
-      "title_original": "车企“去宁化”，行得通吗？",
-      "title_en": null,
-      "title_zh": "车企“去宁化”，行得通吗？",
-      "title_bilingual": "车企“去宁化”，行得通吗？",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "60935f802b3f59b4d17c7d2abafb18c63d56835a",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "懂车帝 · 文章排行榜",
-      "title": "当欧洲砌起关税墙，中国电动车的下一张船票在哪里？",
-      "url": "https://www.dongchedi.com/article/7695627594917675544",
-      "published_at": null,
-      "first_seen_at": "2026-10-13T08:04:25.039951Z",
-      "last_seen_at": "2026-10-14T05:15:11.841169Z",
-      "title_original": "当欧洲砌起关税墙，中国电动车的下一张船票在哪里？",
-      "title_en": null,
-      "title_zh": "当欧洲砌起关税墙，中国电动车的下一张船票在哪里？",
-      "title_bilingual": "当欧洲砌起关税墙，中国电动车的下一张船票在哪里？",
-      "topic_tags": [
-        "新能源"
-      ]
-    },
-    {
-      "id": "426c3f47cbf601eb0f0c73634777644e30e863fe",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-智能网联",
-      "title": "华为乾崑国庆出行报告：一场关于“信任”的降维打击",
-      "url": "https://auto.gasgoo.com/news/202610/13I70474551C601.shtml",
-      "published_at": "2026-10-13T07:00:45Z",
-      "first_seen_at": "2026-10-14T00:28:06.215483Z",
-      "last_seen_at": "2026-10-14T05:15:11.841169Z",
-      "title_original": "华为乾崑国庆出行报告：一场关于“信任”的降维打击",
-      "title_en": null,
-      "title_zh": "华为乾崑国庆出行报告：一场关于“信任”的降维打击",
-      "title_bilingual": "华为乾崑国庆出行报告：一场关于“信任”的降维打击",
-      "topic_tags": []
-    },
-    {
-      "id": "142f52952a8f94eea3f365f6f15cab79a978c966",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Xiaomi Auto September deliveries hit 2026 high of 40,015, still down year-on-year",
-      "url": "https://cnevpost.com/2026/10/13/xiaomi-auto-sept-2026-deliveries-2",
-      "published_at": "2026-10-13T06:28:09Z",
-      "first_seen_at": "2026-10-13T08:04:25.039951Z",
-      "last_seen_at": "2026-10-14T05:15:11.841169Z",
-      "title_original": "Xiaomi Auto September deliveries hit 2026 high of 40,015, still down year-on-year",
-      "title_en": "Xiaomi Auto September deliveries hit 2026 high of 40,015, still down year-on-year",
-      "title_zh": "小米汽车9月交付量创2026年新高40,015辆 同比仍下滑",
-      "title_bilingual": "小米汽车9月交付量创2026年新高40,015辆 同比仍下滑 / Xiaomi Auto September deliveries hit 2026 high of 40,015, still down year-on-year",
-      "topic_tags": [
-        "新能源",
-        "销量市场",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "0d58af0c344ae5a58aea96b211dc2b14bb4ed44b",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Second-gen BYD Seagull arrived at dealers in China ahead of launch",
-      "url": "https://carnewschina.com/2026/10/13/second-gen-byd-seagull-arrived-at-dealers-in-china-ahead-of-launch",
-      "published_at": "2026-10-13T06:03:32Z",
-      "first_seen_at": "2026-10-13T08:04:25.039951Z",
-      "last_seen_at": "2026-10-14T05:15:11.841169Z",
-      "title_original": "Second-gen BYD Seagull arrived at dealers in China ahead of launch",
-      "title_en": "Second-gen BYD Seagull arrived at dealers in China ahead of launch",
-      "title_zh": "第二代比亚迪海鸥在上市前抵达中国经销商",
-      "title_bilingual": "第二代比亚迪海鸥在上市前抵达中国经销商 / Second-gen BYD Seagull arrived at dealers in China ahead of launch",
-      "topic_tags": [
-        "新能源",
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "bae2a47620e5a10a3f813c08fa410cab3b9538e7",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "BYD to deploy 1.5 MW flash chargers in Europe, targeting 100 by year-end and 3,000 by 2027",
-      "url": "https://carnewschina.com/2026/10/13/byd-to-deploy-100-flash-chargers-in-europe-by-the-end-of-2026",
-      "published_at": "2026-10-13T05:15:23Z",
-      "first_seen_at": "2026-10-13T16:13:58.586610Z",
-      "last_seen_at": "2026-10-14T05:15:11.841169Z",
-      "title_original": "BYD to deploy 1.5 MW flash chargers in Europe, targeting 100 by year-end and 3,000 by 2027",
-      "title_en": "BYD to deploy 1.5 MW flash chargers in Europe, targeting 100 by year-end and 3,000 by 2027",
-      "title_zh": "比亚迪将在欧洲部署 1.5 MW 闪存充电器，目标是年底前部署 100 个，2027 年部署 3,000 个",
-      "title_bilingual": "比亚迪将在欧洲部署 1.5 MW 闪存充电器，目标是年底前部署 100 个，2027 年部署 3,000 个 / BYD to deploy 1.5 MW flash chargers in Europe, targeting 100 by year-end and 3,000 by 2027",
-      "topic_tags": [
-        "新能源",
-        "补能电池",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "87f8d95f690a87f93bc503e24560b95f31347ede",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "BYD to deploy 100 flash chargers in Europe by the end of 2026",
-      "url": "https://carnewschina.com/2026/10/13/byd-to-deploy-100-flash-chargers-in-europe-by-the-end-of-2026",
-      "published_at": "2026-10-13T05:15:23Z",
-      "first_seen_at": "2026-10-13T08:04:25.039951Z",
-      "last_seen_at": "2026-10-13T08:04:25.039951Z",
-      "title_original": "BYD to deploy 100 flash chargers in Europe by the end of 2026",
-      "title_en": "BYD to deploy 100 flash chargers in Europe by the end of 2026",
-      "title_zh": "比亚迪将于2026年底前在欧洲部署100个闪存充电器",
-      "title_bilingual": "比亚迪将于2026年底前在欧洲部署100个闪存充电器 / BYD to deploy 100 flash chargers in Europe by the end of 2026",
-      "topic_tags": [
-        "新能源",
-        "补能电池",
-        "车企竞争"
       ]
     }
   ],
   "items_ai": [
     {
+      "id": "3a08bbd295fdd7ef55309e88500d48b7fe3451c6",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "懂车帝 · 文章排行榜",
+      "title": "出口有望突破1000万辆\n\n中汽协：汽车市场“内冷外热”",
+      "url": "https://www.dongchedi.com/article/7696112642431271486",
+      "published_at": null,
+      "first_seen_at": "2026-10-14T10:25:50.488312Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
+      "title_original": "出口有望突破1000万辆\n\n中汽协：汽车市场“内冷外热”",
+      "title_en": null,
+      "title_zh": "出口有望突破1000万辆\n\n中汽协：汽车市场“内冷外热”",
+      "title_bilingual": "出口有望突破1000万辆\n\n中汽协：汽车市场“内冷外热”",
+      "topic_tags": [
+        "销量市场"
+      ]
+    },
+    {
+      "id": "7ef06ba05a8c0028d6e39bdf3734bd199f22a4c5",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Updated Zeekr 7X launched in Europe with a 40 hp power boost at 59,990 EUR",
+      "url": "https://carnewschina.com/2026/10/14/updated-zeekr-7x-launched-in-europe-with-a-40-hp-power-boost-at-59990-eur",
+      "published_at": "2026-10-14T10:25:18Z",
+      "first_seen_at": "2026-10-14T10:25:50.488312Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
+      "title_original": "Updated Zeekr 7X launched in Europe with a 40 hp power boost at 59,990 EUR",
+      "title_en": "Updated Zeekr 7X launched in Europe with a 40 hp power boost at 59,990 EUR",
+      "title_zh": null,
+      "title_bilingual": "Updated Zeekr 7X launched in Europe with a 40 hp power boost at 59,990 EUR",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "e0c0dbebb550dd775d2e8516f152fed60b42dd18",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Changan and CATL to collaborate on 1,500 km solid state cells, establish 75 GWh battery lines",
+      "url": "https://carnewschina.com/2026/10/14/changan-and-catl-to-collaborate-on-1500-km-solid-state-cells-establish-75-gwh-battery-lines",
+      "published_at": "2026-10-14T09:13:57Z",
+      "first_seen_at": "2026-10-14T10:25:50.488312Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
+      "title_original": "Changan and CATL to collaborate on 1,500 km solid state cells, establish 75 GWh battery lines",
+      "title_en": "Changan and CATL to collaborate on 1,500 km solid state cells, establish 75 GWh battery lines",
+      "title_zh": null,
+      "title_bilingual": "Changan and CATL to collaborate on 1,500 km solid state cells, establish 75 GWh battery lines",
+      "topic_tags": [
+        "新能源",
+        "补能电池"
+      ]
+    },
+    {
+      "id": "b69f56b441aefcd70a14e563c79c9db1ac3366cc",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "China NEV retail sales fall 13% in October 1-11 as penetration slips to 61.2%",
+      "url": "https://cnevpost.com/2026/10/14/china-nev-retail-sales-fall-oct-1-11",
+      "published_at": "2026-10-14T09:08:38Z",
+      "first_seen_at": "2026-10-14T10:25:50.488312Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
+      "title_original": "China NEV retail sales fall 13% in October 1-11 as penetration slips to 61.2%",
+      "title_en": "China NEV retail sales fall 13% in October 1-11 as penetration slips to 61.2%",
+      "title_zh": null,
+      "title_bilingual": "China NEV retail sales fall 13% in October 1-11 as penetration slips to 61.2%",
+      "topic_tags": [
+        "新能源"
+      ]
+    },
+    {
+      "id": "e4adcc36208ca8da2cf212e62922537ac1faa574",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "FAW-VW teases new model, potentially second in ID. AURA lineup",
+      "url": "https://cnevpost.com/2026/10/14/faw-vw-teases-new-model-2nd-id-aura",
+      "published_at": "2026-10-14T07:54:02Z",
+      "first_seen_at": "2026-10-14T10:25:50.488312Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
+      "title_original": "FAW-VW teases new model, potentially second in ID. AURA lineup",
+      "title_en": "FAW-VW teases new model, potentially second in ID. AURA lineup",
+      "title_zh": null,
+      "title_bilingual": "FAW-VW teases new model, potentially second in ID. AURA lineup",
+      "topic_tags": [
+        "新能源"
+      ]
+    },
+    {
+      "id": "ca7fe2df2357d190249e962049282a5fba591244",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Leapmotor teases A10s electric SUV with sporty black-and-red styling",
+      "url": "https://cnevpost.com/2026/10/14/leapmotor-teases-a10s",
+      "published_at": "2026-10-14T06:58:56Z",
+      "first_seen_at": "2026-10-14T10:25:50.488312Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
+      "title_original": "Leapmotor teases A10s electric SUV with sporty black-and-red styling",
+      "title_en": "Leapmotor teases A10s electric SUV with sporty black-and-red styling",
+      "title_zh": null,
+      "title_bilingual": "Leapmotor teases A10s electric SUV with sporty black-and-red styling",
+      "topic_tags": [
+        "新能源",
+        "新车上市"
+      ]
+    },
+    {
       "id": "a4474ba041f08a14d7aa3c51eb3b9894dc5f232e",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -707,7 +943,7 @@
       "url": "https://carnewschina.com/2026/10/14/second-generation-byd-seagull-set-for-october-20-launch-with-lidar-and-expanded-dimensions",
       "published_at": "2026-10-14T04:13:41Z",
       "first_seen_at": "2026-10-14T05:15:11.841169Z",
-      "last_seen_at": "2026-10-14T05:15:11.841169Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
       "title_original": "Second-generation BYD Seagull set for October 20 launch with LiDAR and expanded dimensions",
       "title_en": "Second-generation BYD Seagull set for October 20 launch with LiDAR and expanded dimensions",
       "title_zh": null,
@@ -726,7 +962,7 @@
       "url": "https://cnevpost.com/2026/10/14/byd-launch-2nd-gen-seagull-oct-20",
       "published_at": "2026-10-14T03:01:49Z",
       "first_seen_at": "2026-10-14T05:15:11.841169Z",
-      "last_seen_at": "2026-10-14T05:15:11.841169Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
       "title_original": "BYD to launch second-gen Seagull on October 20",
       "title_en": "BYD to launch second-gen Seagull on October 20",
       "title_zh": null,
@@ -745,7 +981,7 @@
       "url": "https://cnevpost.com/2026/10/14/byd-tang-l-debuts-as-atto-8-paris-motor-show",
       "published_at": "2026-10-14T02:07:32Z",
       "first_seen_at": "2026-10-14T05:15:11.841169Z",
-      "last_seen_at": "2026-10-14T05:15:11.841169Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
       "title_original": "BYD Tang L debuts as Atto 8 at Paris Motor Show with flash charging",
       "title_en": "BYD Tang L debuts as Atto 8 at Paris Motor Show with flash charging",
       "title_zh": null,
@@ -765,7 +1001,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/8d31febb3a8d993e/116361439-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-13T21:24:23.684417Z",
-      "last_seen_at": "2026-10-14T05:15:11.841169Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
       "title_original": "车机体验良好 小米YU7提车作业",
       "title_en": null,
       "title_zh": "车机体验良好 小米YU7提车作业",
@@ -783,7 +1019,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/c0e52aa1224354e7/116364548-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-13T21:24:23.684417Z",
-      "last_seen_at": "2026-10-14T05:15:11.841169Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
       "title_original": "预算符合预期 比亚迪大唐提车分享",
       "title_en": null,
       "title_zh": "预算符合预期 比亚迪大唐提车分享",
@@ -802,7 +1038,7 @@
       "url": "http://vc.yiche.com/vplay/13623556.html",
       "published_at": null,
       "first_seen_at": "2026-10-13T21:24:23.684417Z",
-      "last_seen_at": "2026-10-14T05:15:11.841169Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
       "title_original": "神行者8加华为智驾，有搞头吗？",
       "title_en": null,
       "title_zh": "神行者8加华为智驾，有搞头吗？",
@@ -820,7 +1056,7 @@
       "url": "http://vc.yiche.com/vplay/13600379.html",
       "published_at": null,
       "first_seen_at": "2026-10-13T21:24:23.684417Z",
-      "last_seen_at": "2026-10-14T05:15:11.841169Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
       "title_original": "长城H10辅助驾驶，挑战广东龙王寨挂壁公路",
       "title_en": null,
       "title_zh": "长城H10辅助驾驶，挑战广东龙王寨挂壁公路",
@@ -839,7 +1075,7 @@
       "url": "http://vc.yiche.com/vplay/13587191.html",
       "published_at": null,
       "first_seen_at": "2026-10-13T21:24:23.684417Z",
-      "last_seen_at": "2026-10-14T05:15:11.841169Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
       "title_original": "便宜没好货？试驾星光560",
       "title_en": null,
       "title_zh": "便宜没好货？试驾星光560",
@@ -857,13 +1093,71 @@
       "url": "http://vc.yiche.com/vplay/13614435.html",
       "published_at": null,
       "first_seen_at": "2026-10-13T21:24:23.684417Z",
-      "last_seen_at": "2026-10-14T05:15:11.841169Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
       "title_original": "品类革新 魏牌二代蓝山重塑豪华SUV价值",
       "title_en": null,
       "title_zh": "品类革新 魏牌二代蓝山重塑豪华SUV价值",
       "title_bilingual": "品类革新 魏牌二代蓝山重塑豪华SUV价值",
       "topic_tags": [
         "新车上市"
+      ]
+    },
+    {
+      "id": "71f70f58a44f16172f04e1d7ec15a32fcba6be08",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-销量",
+      "title": "2026年1-8月比亚迪乘用车出口目的地TOP10：巴西超20万辆登顶，欧洲多国上榜丨盖世汽车研究院",
+      "url": "https://auto.gasgoo.com/news/202610/13I70474675C110.shtml",
+      "published_at": "2026-10-13T17:08:52Z",
+      "first_seen_at": "2026-10-14T10:25:50.488312Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
+      "title_original": "2026年1-8月比亚迪乘用车出口目的地TOP10：巴西超20万辆登顶，欧洲多国上榜丨盖世汽车研究院",
+      "title_en": null,
+      "title_zh": "2026年1-8月比亚迪乘用车出口目的地TOP10：巴西超20万辆登顶，欧洲多国上榜丨盖世汽车研究院",
+      "title_bilingual": "2026年1-8月比亚迪乘用车出口目的地TOP10：巴西超20万辆登顶，欧洲多国上榜丨盖世汽车研究院",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "3449ffc9d11222a0c553765baaf7d49ae2bf6bd3",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新能源",
+      "title": "问界M6累计交付突破60000台",
+      "url": "https://auto.gasgoo.com/news/202610/13I70474673C501.shtml",
+      "published_at": "2026-10-13T17:06:26Z",
+      "first_seen_at": "2026-10-14T10:25:50.488312Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
+      "title_original": "问界M6累计交付突破60000台",
+      "title_en": null,
+      "title_zh": "问界M6累计交付突破60000台",
+      "title_bilingual": "问界M6累计交付突破60000台",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "48012eb1722d5342e96154ce9b6a4ca1962db3ba",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-销量",
+      "title": "2026年1-8月智能座舱供应商装机量排行榜：HUD迈入规模普及与价值升级新阶段丨盖世汽车研究院",
+      "url": "https://auto.gasgoo.com/news/202610/13I70474668C110.shtml",
+      "published_at": "2026-10-13T16:47:41Z",
+      "first_seen_at": "2026-10-14T10:25:50.488312Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
+      "title_original": "2026年1-8月智能座舱供应商装机量排行榜：HUD迈入规模普及与价值升级新阶段丨盖世汽车研究院",
+      "title_en": null,
+      "title_zh": "2026年1-8月智能座舱供应商装机量排行榜：HUD迈入规模普及与价值升级新阶段丨盖世汽车研究院",
+      "title_bilingual": "2026年1-8月智能座舱供应商装机量排行榜：HUD迈入规模普及与价值升级新阶段丨盖世汽车研究院",
+      "topic_tags": [
+        "销量市场"
       ]
     },
     {
@@ -875,7 +1169,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/3ee5d3d2d8a3564b/116366762-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-13T16:13:58.586610Z",
-      "last_seen_at": "2026-10-14T05:15:11.841169Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
       "title_original": "迫不及待 零跑D19纯电提车分享",
       "title_en": null,
       "title_zh": "迫不及待 零跑D19纯电提车分享",
@@ -887,6 +1181,190 @@
       ]
     },
     {
+      "id": "4bcec7a4bdc4030a88eea90f0d2b5f6bd0651cca",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新技术",
+      "title": "FBH发明新型远紫外LED 能以创纪录速度传输数据",
+      "url": "https://auto.gasgoo.com/news/202610/13I70474667C409.shtml",
+      "published_at": "2026-10-13T16:10:12Z",
+      "first_seen_at": "2026-10-14T10:25:50.488312Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
+      "title_original": "FBH发明新型远紫外LED 能以创纪录速度传输数据",
+      "title_en": null,
+      "title_zh": "FBH发明新型远紫外LED 能以创纪录速度传输数据",
+      "title_bilingual": "FBH发明新型远紫外LED 能以创纪录速度传输数据",
+      "topic_tags": []
+    },
+    {
+      "id": "695f3a39ab2d83083e34124c2ad5ff4f571dc108",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新技术",
+      "title": "通用汽车申请车载系统专利 或许能助驾驶员缓解压力",
+      "url": "https://auto.gasgoo.com/news/202610/13I70474665C409.shtml",
+      "published_at": "2026-10-13T16:08:50Z",
+      "first_seen_at": "2026-10-14T10:25:50.488312Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
+      "title_original": "通用汽车申请车载系统专利 或许能助驾驶员缓解压力",
+      "title_en": null,
+      "title_zh": "通用汽车申请车载系统专利 或许能助驾驶员缓解压力",
+      "title_bilingual": "通用汽车申请车载系统专利 或许能助驾驶员缓解压力",
+      "topic_tags": []
+    },
+    {
+      "id": "f9cbfaa8b68f42f6be0a0102b42ebc75f5596c4f",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新技术",
+      "title": "华东交通大学提出框架P-LLM 使大语言模型主导自动驾驶车队调度",
+      "url": "https://auto.gasgoo.com/news/202610/13I70474660C409.shtml",
+      "published_at": "2026-10-13T15:30:08Z",
+      "first_seen_at": "2026-10-14T10:25:50.488312Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
+      "title_original": "华东交通大学提出框架P-LLM 使大语言模型主导自动驾驶车队调度",
+      "title_en": null,
+      "title_zh": "华东交通大学提出框架P-LLM 使大语言模型主导自动驾驶车队调度",
+      "title_bilingual": "华东交通大学提出框架P-LLM 使大语言模型主导自动驾驶车队调度",
+      "topic_tags": [
+        "智能驾驶"
+      ]
+    },
+    {
+      "id": "e9e933c83b6d4f1db92bd0dcb8fb4b593ffb70da",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "晓莺说 | 巴黎车展前线观察：改变、扎根与竞争",
+      "url": "https://auto.gasgoo.com/news/202610/13I70474661C109.shtml",
+      "published_at": "2026-10-13T15:11:02Z",
+      "first_seen_at": "2026-10-14T10:25:50.488312Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
+      "title_original": "晓莺说 | 巴黎车展前线观察：改变、扎根与竞争",
+      "title_en": null,
+      "title_zh": "晓莺说 | 巴黎车展前线观察：改变、扎根与竞争",
+      "title_bilingual": "晓莺说 | 巴黎车展前线观察：改变、扎根与竞争",
+      "topic_tags": [
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "3370fd4dd55807c98ee5befe08773932993a6649",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-销量",
+      "title": "零跑Lafa5海外订单4个月破12000台",
+      "url": "https://auto.gasgoo.com/news/202610/13I70474654C110.shtml",
+      "published_at": "2026-10-13T14:05:21Z",
+      "first_seen_at": "2026-10-14T10:25:50.488312Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
+      "title_original": "零跑Lafa5海外订单4个月破12000台",
+      "title_en": null,
+      "title_zh": "零跑Lafa5海外订单4个月破12000台",
+      "title_bilingual": "零跑Lafa5海外订单4个月破12000台",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "d2c5d4901ce4de9c520a74acee86a44edf97c246",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新车",
+      "title": "长安汽车亮相巴黎车展，启源入欧、混动产品阵容扩容",
+      "url": "https://auto.gasgoo.com/news/202610/13I70474653C109.shtml",
+      "published_at": "2026-10-13T13:57:39Z",
+      "first_seen_at": "2026-10-14T10:25:50.488312Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
+      "title_original": "长安汽车亮相巴黎车展，启源入欧、混动产品阵容扩容",
+      "title_en": null,
+      "title_zh": "长安汽车亮相巴黎车展，启源入欧、混动产品阵容扩容",
+      "title_bilingual": "长安汽车亮相巴黎车展，启源入欧、混动产品阵容扩容",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "9050b70d4b91da10e1e2415e900ddb3aba91f372",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-销量",
+      "title": "问界M9连续四个月蝉联50万以上车型销量第一",
+      "url": "https://auto.gasgoo.com/news/202610/13I70474652C110.shtml",
+      "published_at": "2026-10-13T13:54:51Z",
+      "first_seen_at": "2026-10-14T10:25:50.488312Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
+      "title_original": "问界M9连续四个月蝉联50万以上车型销量第一",
+      "title_en": null,
+      "title_zh": "问界M9连续四个月蝉联50万以上车型销量第一",
+      "title_bilingual": "问界M9连续四个月蝉联50万以上车型销量第一",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "ac170b913a9c3823bccad542f50e041d52923e68",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-销量",
+      "title": "智界V9连续四个月蝉联40万元以上MPV销量冠军",
+      "url": "https://auto.gasgoo.com/news/202610/13I70474651C110.shtml",
+      "published_at": "2026-10-13T13:47:22Z",
+      "first_seen_at": "2026-10-14T10:25:50.488312Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
+      "title_original": "智界V9连续四个月蝉联40万元以上MPV销量冠军",
+      "title_en": null,
+      "title_zh": "智界V9连续四个月蝉联40万元以上MPV销量冠军",
+      "title_bilingual": "智界V9连续四个月蝉联40万元以上MPV销量冠军",
+      "topic_tags": [
+        "销量市场",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "b7fcb486f9432a4c90f32828c2e539c388830098",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "比亚迪与荣耀战略合作 共创AI语音融合",
+      "url": "https://auto.gasgoo.com/news/202610/13I70474650C109.shtml",
+      "published_at": "2026-10-13T13:39:34Z",
+      "first_seen_at": "2026-10-14T10:25:50.488312Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
+      "title_original": "比亚迪与荣耀战略合作 共创AI语音融合",
+      "title_en": null,
+      "title_zh": "比亚迪与荣耀战略合作 共创AI语音融合",
+      "title_bilingual": "比亚迪与荣耀战略合作 共创AI语音融合",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "72857012e8827f2c95bb5234110d4e61b1826c0e",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "九识在泰国开展首个国家级L4级无人驾驶测试项目",
+      "url": "https://auto.gasgoo.com/news/202610/13I70474615C601.shtml",
+      "published_at": "2026-10-13T13:16:52Z",
+      "first_seen_at": "2026-10-14T10:25:50.488312Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
+      "title_original": "九识在泰国开展首个国家级L4级无人驾驶测试项目",
+      "title_en": null,
+      "title_zh": "九识在泰国开展首个国家级L4级无人驾驶测试项目",
+      "title_bilingual": "九识在泰国开展首个国家级L4级无人驾驶测试项目",
+      "topic_tags": [
+        "智能驾驶",
+        "召回安全"
+      ]
+    },
+    {
       "id": "a474d6fa88dd17c74d82490f68c78ed17670be98",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -895,7 +1373,7 @@
       "url": "https://carnewschina.com/2026/10/13/byd-launches-da-han-ev-with-1008-km-range-which-can-be-fully-charged-in-9-minutes",
       "published_at": "2026-10-13T13:11:55Z",
       "first_seen_at": "2026-10-13T16:13:58.586610Z",
-      "last_seen_at": "2026-10-14T05:15:11.841169Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
       "title_original": "BYD launches Da Han EV with 1,008 km range, which can be fully charged in 9 minutes",
       "title_en": "BYD launches Da Han EV with 1,008 km range, which can be fully charged in 9 minutes",
       "title_zh": "比亚迪推出大汉EV 续航1008公里 9分钟充满",
@@ -915,7 +1393,7 @@
       "url": "https://cnevpost.com/2026/10/13/byd-launches-da-han-ev",
       "published_at": "2026-10-13T13:09:40Z",
       "first_seen_at": "2026-10-13T16:13:58.586610Z",
-      "last_seen_at": "2026-10-14T05:15:11.841169Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
       "title_original": "BYD launches Da Han EV from $35,050 with up to 1,008 km range",
       "title_en": "BYD launches Da Han EV from $35,050 with up to 1,008 km range",
       "title_zh": "比亚迪推出大汉电动汽车，起价 35,050 美元，续航里程高达 1,008 公里",
@@ -935,7 +1413,7 @@
       "url": "https://auto.gasgoo.com/news/202610/13I70474616C601.shtml",
       "published_at": "2026-10-13T12:48:53Z",
       "first_seen_at": "2026-10-14T05:15:11.841169Z",
-      "last_seen_at": "2026-10-14T05:15:11.841169Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
       "title_original": "TomTom与元戎启行达成合作 推进基于AI的自动驾驶技术",
       "title_en": null,
       "title_zh": "TomTom与元戎启行达成合作 推进基于AI的自动驾驶技术",
@@ -953,7 +1431,7 @@
       "url": "https://cnevpost.com/2026/10/13/china-nev-export-share-sept-2026",
       "published_at": "2026-10-13T12:43:44Z",
       "first_seen_at": "2026-10-13T16:13:58.586610Z",
-      "last_seen_at": "2026-10-14T05:15:11.841169Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
       "title_original": "China NEV export share in September: BYD leads with 31.1%, Chery rises to second",
       "title_en": "China NEV export share in September: BYD leads with 31.1%, Chery rises to second",
       "title_zh": "9月中国新能源汽车出口份额：比亚迪31.1%领跑 奇瑞升至第二",
@@ -973,7 +1451,7 @@
       "url": "https://auto.gasgoo.com/news/202610/13I70474645C109.shtml",
       "published_at": "2026-10-13T12:29:20Z",
       "first_seen_at": "2026-10-14T05:15:11.841169Z",
-      "last_seen_at": "2026-10-14T05:15:11.841169Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
       "title_original": "领克回应来了 ：乘员舱保持完整，车主伤情较轻",
       "title_en": null,
       "title_zh": "领克回应来了 ：乘员舱保持完整，车主伤情较轻",
@@ -992,7 +1470,7 @@
       "url": "https://auto.gasgoo.com/news/202610/13I70474644C110.shtml",
       "published_at": "2026-10-13T12:20:00Z",
       "first_seen_at": "2026-10-14T05:15:11.841169Z",
-      "last_seen_at": "2026-10-14T05:15:11.841169Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
       "title_original": "蔚来ES8 9月销量过万，蝉联细分市场销冠",
       "title_en": null,
       "title_zh": "蔚来ES8 9月销量过万，蝉联细分市场销冠",
@@ -1011,7 +1489,7 @@
       "url": "https://auto.gasgoo.com/news/202610/13I70474643C108.shtml",
       "published_at": "2026-10-13T12:15:09Z",
       "first_seen_at": "2026-10-14T05:15:11.841169Z",
-      "last_seen_at": "2026-10-14T05:15:11.841169Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
       "title_original": "【国际快讯】欧中车企在巴黎车展密集推出新品；欧盟协议推动中国车企加速欧洲本土建厂；比亚迪拟将欧洲员工规模扩充至4万人",
       "title_en": null,
       "title_zh": "【国际快讯】欧中车企在巴黎车展密集推出新品；欧盟协议推动中国车企加速欧洲本土建厂；比亚迪拟将欧洲员工规模扩充至4万人",
@@ -1030,7 +1508,7 @@
       "url": "https://carnewschina.com/2026/10/13/denza-z9-gt-to-become-first-byd-car-with-gods-eye-autonomous-navigation-in-europe",
       "published_at": "2026-10-13T11:14:04Z",
       "first_seen_at": "2026-10-13T16:13:58.586610Z",
-      "last_seen_at": "2026-10-14T05:15:11.841169Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
       "title_original": "Denza Z9 GT to become first BYD car with God’s Eye autonomous navigation in Europe",
       "title_en": "Denza Z9 GT to become first BYD car with God’s Eye autonomous navigation in Europe",
       "title_zh": "腾势Z9 GT成为欧洲首款搭载上帝之眼自动导航的比亚迪汽车",
@@ -1049,7 +1527,7 @@
       "url": "https://auto.gasgoo.com/news/202610/13I70474636C601.shtml",
       "published_at": "2026-10-13T10:50:20Z",
       "first_seen_at": "2026-10-14T05:15:11.841169Z",
-      "last_seen_at": "2026-10-14T05:15:11.841169Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
       "title_original": "宝维塔工博会两大发布，柔性制造与车载电子测试同步提速",
       "title_en": null,
       "title_zh": "宝维塔工博会两大发布，柔性制造与车载电子测试同步提速",
@@ -1069,7 +1547,7 @@
       "url": "https://cnevpost.com/2026/10/13/china-nev-market-share-sept-2026-byd-tesla",
       "published_at": "2026-10-13T10:35:52Z",
       "first_seen_at": "2026-10-13T16:13:58.586610Z",
-      "last_seen_at": "2026-10-14T05:15:11.841169Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
       "title_original": "China NEV market share in September: BYD leads with 22.8%, Tesla rises to fourth",
       "title_en": "China NEV market share in September: BYD leads with 22.8%, Tesla rises to fourth",
       "title_zh": "9月中国新能源汽车市场份额：比亚迪22.8%领先 特斯拉升至第四",
@@ -1089,241 +1567,13 @@
       "url": "https://auto.gasgoo.com/news/202610/13I70474635C601.shtml",
       "published_at": "2026-10-13T10:27:56Z",
       "first_seen_at": "2026-10-14T05:15:11.841169Z",
-      "last_seen_at": "2026-10-14T05:15:11.841169Z",
+      "last_seen_at": "2026-10-14T10:25:50.488312Z",
       "title_original": "轻舟智航城市NOA亮相巴黎车展，已完成巴黎城区多场景路测",
       "title_en": null,
       "title_zh": "轻舟智航城市NOA亮相巴黎车展，已完成巴黎城区多场景路测",
       "title_bilingual": "轻舟智航城市NOA亮相巴黎车展，已完成巴黎城区多场景路测",
       "topic_tags": [
         "新车上市"
-      ]
-    },
-    {
-      "id": "8a82901dd003cd41c677828965caab02899815e5",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "尊界发布最新检测说明：最高3000N加载试验未见裂纹和损坏",
-      "url": "https://auto.gasgoo.com/news/202610/13I70474634C109.shtml",
-      "published_at": "2026-10-13T10:20:33Z",
-      "first_seen_at": "2026-10-14T05:15:11.841169Z",
-      "last_seen_at": "2026-10-14T05:15:11.841169Z",
-      "title_original": "尊界发布最新检测说明：最高3000N加载试验未见裂纹和损坏",
-      "title_en": null,
-      "title_zh": "尊界发布最新检测说明：最高3000N加载试验未见裂纹和损坏",
-      "title_bilingual": "尊界发布最新检测说明：最高3000N加载试验未见裂纹和损坏",
-      "topic_tags": [
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "8c7d181ddc20566f6f5e875e37f315e82efa2069",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "东风风行TK系列巴黎车展首发，欧洲工厂计划明年一季度量产",
-      "url": "https://auto.gasgoo.com/news/202610/13I70474633C109.shtml",
-      "published_at": "2026-10-13T08:57:19Z",
-      "first_seen_at": "2026-10-14T05:15:11.841169Z",
-      "last_seen_at": "2026-10-14T05:15:11.841169Z",
-      "title_original": "东风风行TK系列巴黎车展首发，欧洲工厂计划明年一季度量产",
-      "title_en": null,
-      "title_zh": "东风风行TK系列巴黎车展首发，欧洲工厂计划明年一季度量产",
-      "title_bilingual": "东风风行TK系列巴黎车展首发，欧洲工厂计划明年一季度量产",
-      "topic_tags": [
-        "车企竞争",
-        "供应链",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "57882f6416507551c06fd341693f905b8ff8a461",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "广汽加码欧洲本地化布局，AION UT Cross巴黎车展首秀",
-      "url": "https://auto.gasgoo.com/news/202610/13I70474627C109.shtml",
-      "published_at": "2026-10-13T08:52:13Z",
-      "first_seen_at": "2026-10-14T05:15:11.841169Z",
-      "last_seen_at": "2026-10-14T05:15:11.841169Z",
-      "title_original": "广汽加码欧洲本地化布局，AION UT Cross巴黎车展首秀",
-      "title_en": null,
-      "title_zh": "广汽加码欧洲本地化布局，AION UT Cross巴黎车展首秀",
-      "title_bilingual": "广汽加码欧洲本地化布局，AION UT Cross巴黎车展首秀",
-      "topic_tags": [
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "f9c526dbce054a7ea716cbbb72f85067279d7313",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新车",
-      "title": "吉利汽车集团首秀巴黎车展，三大品牌欧盟月销量首破万辆",
-      "url": "https://auto.gasgoo.com/news/202610/13I70474624C109.shtml",
-      "published_at": "2026-10-13T08:24:04Z",
-      "first_seen_at": "2026-10-14T00:28:06.215483Z",
-      "last_seen_at": "2026-10-14T05:15:11.841169Z",
-      "title_original": "吉利汽车集团首秀巴黎车展，三大品牌欧盟月销量首破万辆",
-      "title_en": null,
-      "title_zh": "吉利汽车集团首秀巴黎车展，三大品牌欧盟月销量首破万辆",
-      "title_bilingual": "吉利汽车集团首秀巴黎车展，三大品牌欧盟月销量首破万辆",
-      "topic_tags": [
-        "销量市场",
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "946def4dd57f1e21d991a07020b8c3e0fb482ab6",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-供应链",
-      "title": "全球独立第三方多合一电驱冠军再出发，格雷博双新赛道加速兑现",
-      "url": "https://auto.gasgoo.com/news/202610/13I70474435C103.shtml",
-      "published_at": "2026-10-13T08:07:35Z",
-      "first_seen_at": "2026-10-14T00:28:06.215483Z",
-      "last_seen_at": "2026-10-14T05:15:11.841169Z",
-      "title_original": "全球独立第三方多合一电驱冠军再出发，格雷博双新赛道加速兑现",
-      "title_en": null,
-      "title_zh": "全球独立第三方多合一电驱冠军再出发，格雷博双新赛道加速兑现",
-      "title_bilingual": "全球独立第三方多合一电驱冠军再出发，格雷博双新赛道加速兑现",
-      "topic_tags": [
-        "供应链"
-      ]
-    },
-    {
-      "id": "73a22a980c9eabbe841b57b5ac99b04b565e2cd0",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "懂车帝 · 文章排行榜",
-      "title": "车企“去宁化”，行得通吗？",
-      "url": "https://www.dongchedi.com/article/7695580065535754777",
-      "published_at": null,
-      "first_seen_at": "2026-10-13T08:04:25.039951Z",
-      "last_seen_at": "2026-10-14T05:15:11.841169Z",
-      "title_original": "车企“去宁化”，行得通吗？",
-      "title_en": null,
-      "title_zh": "车企“去宁化”，行得通吗？",
-      "title_bilingual": "车企“去宁化”，行得通吗？",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "60935f802b3f59b4d17c7d2abafb18c63d56835a",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "懂车帝 · 文章排行榜",
-      "title": "当欧洲砌起关税墙，中国电动车的下一张船票在哪里？",
-      "url": "https://www.dongchedi.com/article/7695627594917675544",
-      "published_at": null,
-      "first_seen_at": "2026-10-13T08:04:25.039951Z",
-      "last_seen_at": "2026-10-14T05:15:11.841169Z",
-      "title_original": "当欧洲砌起关税墙，中国电动车的下一张船票在哪里？",
-      "title_en": null,
-      "title_zh": "当欧洲砌起关税墙，中国电动车的下一张船票在哪里？",
-      "title_bilingual": "当欧洲砌起关税墙，中国电动车的下一张船票在哪里？",
-      "topic_tags": [
-        "新能源"
-      ]
-    },
-    {
-      "id": "426c3f47cbf601eb0f0c73634777644e30e863fe",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-智能网联",
-      "title": "华为乾崑国庆出行报告：一场关于“信任”的降维打击",
-      "url": "https://auto.gasgoo.com/news/202610/13I70474551C601.shtml",
-      "published_at": "2026-10-13T07:00:45Z",
-      "first_seen_at": "2026-10-14T00:28:06.215483Z",
-      "last_seen_at": "2026-10-14T05:15:11.841169Z",
-      "title_original": "华为乾崑国庆出行报告：一场关于“信任”的降维打击",
-      "title_en": null,
-      "title_zh": "华为乾崑国庆出行报告：一场关于“信任”的降维打击",
-      "title_bilingual": "华为乾崑国庆出行报告：一场关于“信任”的降维打击",
-      "topic_tags": []
-    },
-    {
-      "id": "142f52952a8f94eea3f365f6f15cab79a978c966",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Xiaomi Auto September deliveries hit 2026 high of 40,015, still down year-on-year",
-      "url": "https://cnevpost.com/2026/10/13/xiaomi-auto-sept-2026-deliveries-2",
-      "published_at": "2026-10-13T06:28:09Z",
-      "first_seen_at": "2026-10-13T08:04:25.039951Z",
-      "last_seen_at": "2026-10-14T05:15:11.841169Z",
-      "title_original": "Xiaomi Auto September deliveries hit 2026 high of 40,015, still down year-on-year",
-      "title_en": "Xiaomi Auto September deliveries hit 2026 high of 40,015, still down year-on-year",
-      "title_zh": "小米汽车9月交付量创2026年新高40,015辆 同比仍下滑",
-      "title_bilingual": "小米汽车9月交付量创2026年新高40,015辆 同比仍下滑 / Xiaomi Auto September deliveries hit 2026 high of 40,015, still down year-on-year",
-      "topic_tags": [
-        "新能源",
-        "销量市场",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "0d58af0c344ae5a58aea96b211dc2b14bb4ed44b",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Second-gen BYD Seagull arrived at dealers in China ahead of launch",
-      "url": "https://carnewschina.com/2026/10/13/second-gen-byd-seagull-arrived-at-dealers-in-china-ahead-of-launch",
-      "published_at": "2026-10-13T06:03:32Z",
-      "first_seen_at": "2026-10-13T08:04:25.039951Z",
-      "last_seen_at": "2026-10-14T05:15:11.841169Z",
-      "title_original": "Second-gen BYD Seagull arrived at dealers in China ahead of launch",
-      "title_en": "Second-gen BYD Seagull arrived at dealers in China ahead of launch",
-      "title_zh": "第二代比亚迪海鸥在上市前抵达中国经销商",
-      "title_bilingual": "第二代比亚迪海鸥在上市前抵达中国经销商 / Second-gen BYD Seagull arrived at dealers in China ahead of launch",
-      "topic_tags": [
-        "新能源",
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "bae2a47620e5a10a3f813c08fa410cab3b9538e7",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "BYD to deploy 1.5 MW flash chargers in Europe, targeting 100 by year-end and 3,000 by 2027",
-      "url": "https://carnewschina.com/2026/10/13/byd-to-deploy-100-flash-chargers-in-europe-by-the-end-of-2026",
-      "published_at": "2026-10-13T05:15:23Z",
-      "first_seen_at": "2026-10-13T16:13:58.586610Z",
-      "last_seen_at": "2026-10-14T05:15:11.841169Z",
-      "title_original": "BYD to deploy 1.5 MW flash chargers in Europe, targeting 100 by year-end and 3,000 by 2027",
-      "title_en": "BYD to deploy 1.5 MW flash chargers in Europe, targeting 100 by year-end and 3,000 by 2027",
-      "title_zh": "比亚迪将在欧洲部署 1.5 MW 闪存充电器，目标是年底前部署 100 个，2027 年部署 3,000 个",
-      "title_bilingual": "比亚迪将在欧洲部署 1.5 MW 闪存充电器，目标是年底前部署 100 个，2027 年部署 3,000 个 / BYD to deploy 1.5 MW flash chargers in Europe, targeting 100 by year-end and 3,000 by 2027",
-      "topic_tags": [
-        "新能源",
-        "补能电池",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "87f8d95f690a87f93bc503e24560b95f31347ede",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "BYD to deploy 100 flash chargers in Europe by the end of 2026",
-      "url": "https://carnewschina.com/2026/10/13/byd-to-deploy-100-flash-chargers-in-europe-by-the-end-of-2026",
-      "published_at": "2026-10-13T05:15:23Z",
-      "first_seen_at": "2026-10-13T08:04:25.039951Z",
-      "last_seen_at": "2026-10-13T08:04:25.039951Z",
-      "title_original": "BYD to deploy 100 flash chargers in Europe by the end of 2026",
-      "title_en": "BYD to deploy 100 flash chargers in Europe by the end of 2026",
-      "title_zh": "比亚迪将于2026年底前在欧洲部署100个闪存充电器",
-      "title_bilingual": "比亚迪将于2026年底前在欧洲部署100个闪存充电器 / BYD to deploy 100 flash chargers in Europe by the end of 2026",
-      "topic_tags": [
-        "新能源",
-        "补能电池",
-        "车企竞争"
       ]
     }
   ],
