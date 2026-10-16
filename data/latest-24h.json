@@ -1,66 +1,287 @@
 {
-  "generated_at": "2026-10-16T06:06:51.820066Z",
+  "generated_at": "2026-10-16T11:44:35.592040Z",
   "window_hours": 24,
-  "total_items": 29,
+  "total_items": 34,
   "total_items_ai_raw": 35,
-  "total_items_raw": 3178,
-  "total_items_all_mode": 2787,
+  "total_items_raw": 3104,
+  "total_items_all_mode": 2779,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 50726,
+  "archive_total": 50944,
   "site_count": 3,
-  "source_count": 9,
+  "source_count": 10,
   "site_stats": [
     {
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "count": 17,
-      "raw_count": 23
+      "count": 20,
+      "raw_count": 21
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
-      "count": 11,
-      "raw_count": 3060
+      "count": 12,
+      "raw_count": 2985
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
-      "count": 1,
-      "raw_count": 95
+      "count": 2,
+      "raw_count": 98
     }
   ],
   "topic_tag_stats": [
     {
-      "tag": "新能源",
-      "count": 16
+      "tag": "车企竞争",
+      "count": 25
     },
     {
-      "tag": "车企竞争",
-      "count": 16
+      "tag": "新能源",
+      "count": 22
+    },
+    {
+      "tag": "新车上市",
+      "count": 6
     },
     {
       "tag": "购车决策",
       "count": 6
     },
     {
+      "tag": "销量市场",
+      "count": 4
+    },
+    {
       "tag": "供应链",
-      "count": 5
+      "count": 3
+    },
+    {
+      "tag": "价格战",
+      "count": 1
+    },
+    {
+      "tag": "召回安全",
+      "count": 1
     },
     {
       "tag": "补能电池",
-      "count": 3
-    },
-    {
-      "tag": "销量市场",
-      "count": 3
-    },
-    {
-      "tag": "新车上市",
       "count": 1
     }
   ],
   "items": [
     {
+      "id": "4137c1a5bdda5aa3d07a3f50a56f4127e0595ccc",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "producthunt",
+      "title": "Tesla Roadster",
+      "url": "https://www.producthunt.com/products/tesla-roadster",
+      "published_at": "2026-10-16T11:44:50.390000Z",
+      "first_seen_at": "2026-10-16T11:44:35.592040Z",
+      "last_seen_at": "2026-10-16T11:44:35.592040Z",
+      "title_original": "Tesla Roadster",
+      "title_en": "Tesla Roadster",
+      "title_zh": "特斯拉跑车",
+      "title_bilingual": "特斯拉跑车 / Tesla Roadster",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "2633038117014d6f3d516a813ecbdb9b03392493",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "懂车帝 · 文章排行榜",
+      "title": "十万级电摩猛兽号外生命体1号：实测快充10分钟真能跑百公里？",
+      "url": "https://www.dongchedi.com/article/7696126092256608830",
+      "published_at": null,
+      "first_seen_at": "2026-10-16T11:44:35.592040Z",
+      "last_seen_at": "2026-10-16T11:44:35.592040Z",
+      "title_original": "十万级电摩猛兽号外生命体1号：实测快充10分钟真能跑百公里？",
+      "title_en": null,
+      "title_zh": "十万级电摩猛兽号外生命体1号：实测快充10分钟真能跑百公里？",
+      "title_bilingual": "十万级电摩猛兽号外生命体1号：实测快充10分钟真能跑百公里？",
+      "topic_tags": [
+        "补能电池"
+      ]
+    },
+    {
+      "id": "721778f5c61d5c7cd10ff5cb28d9fd9562ecd7d6",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "BYD Racco launches in first market outside Japan at 34,615 USD",
+      "url": "https://carnewschina.com/2026/10/16/byd-racco-launches-in-first-market-outside-japan-at-34615-usd",
+      "published_at": "2026-10-16T11:01:16Z",
+      "first_seen_at": "2026-10-16T11:44:35.592040Z",
+      "last_seen_at": "2026-10-16T11:44:35.592040Z",
+      "title_original": "BYD Racco launches in first market outside Japan at 34,615 USD",
+      "title_en": "BYD Racco launches in first market outside Japan at 34,615 USD",
+      "title_zh": "比亚迪 Racco 在日本以外的第一个市场上市，售价 34,615 美元",
+      "title_bilingual": "比亚迪 Racco 在日本以外的第一个市场上市，售价 34,615 美元 / BYD Racco launches in first market outside Japan at 34,615 USD",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "价格战",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "c36b8700468c76b5fd0b33f4257ca963685b61d8",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Next-gen BYD Han listed with 520 kW AWD and 270 km/h top speed",
+      "url": "https://carnewschina.com/2026/10/16/next-gen-byd-han-listed-with-520-kw-awd-and-270-km-h-top-speed",
+      "published_at": "2026-10-16T10:28:04Z",
+      "first_seen_at": "2026-10-16T11:44:35.592040Z",
+      "last_seen_at": "2026-10-16T11:44:35.592040Z",
+      "title_original": "Next-gen BYD Han listed with 520 kW AWD and 270 km/h top speed",
+      "title_en": "Next-gen BYD Han listed with 520 kW AWD and 270 km/h top speed",
+      "title_zh": "下一代比亚迪汉上市，全轮驱动520千瓦，最高时速270公里/小时",
+      "title_bilingual": "下一代比亚迪汉上市，全轮驱动520千瓦，最高时速270公里/小时 / Next-gen BYD Han listed with 520 kW AWD and 270 km/h top speed",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "03cb49f66cfee110994c24a51a1e1149e9d4d1e4",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Seres-CATL’s first joint model Aiva ME7 appears in regulatory filings",
+      "url": "https://carnewschina.com/2026/10/16/seres-catls-first-joint-model-aiva-me7-appears-in-regulatory-filings",
+      "published_at": "2026-10-16T10:04:28Z",
+      "first_seen_at": "2026-10-16T11:44:35.592040Z",
+      "last_seen_at": "2026-10-16T11:44:35.592040Z",
+      "title_original": "Seres-CATL’s first joint model Aiva ME7 appears in regulatory filings",
+      "title_en": "Seres-CATL’s first joint model Aiva ME7 appears in regulatory filings",
+      "title_zh": "Seres-CATL首款合资车型Aiva ME7出现在监管文件中",
+      "title_bilingual": "Seres-CATL首款合资车型Aiva ME7出现在监管文件中 / Seres-CATL’s first joint model Aiva ME7 appears in regulatory filings",
+      "topic_tags": [
+        "新能源",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "f7ac928d2fa9111b91c100f6d8394d9eed77a73f",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Geely cars to get Google Gemini, Maps, and Play globally in H2 2027",
+      "url": "https://carnewschina.com/2026/10/16/geely-cars-to-get-google-gemini-maps-and-play-globally-in-h2-2027",
+      "published_at": "2026-10-16T08:52:20Z",
+      "first_seen_at": "2026-10-16T11:44:35.592040Z",
+      "last_seen_at": "2026-10-16T11:44:35.592040Z",
+      "title_original": "Geely cars to get Google Gemini, Maps, and Play globally in H2 2027",
+      "title_en": "Geely cars to get Google Gemini, Maps, and Play globally in H2 2027",
+      "title_zh": "吉利汽车将于 2027 年下半年在全球范围内支持 Google Gemini、地图和 Play",
+      "title_bilingual": "吉利汽车将于 2027 年下半年在全球范围内支持 Google Gemini、地图和 Play / Geely cars to get Google Gemini, Maps, and Play globally in H2 2027",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "20d9b0b907d5bf36f75c03c10cb65257a882cd58",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Li Auto chip unit signs first funding deal at up to $2.5 billion post-money valuation",
+      "url": "https://cnevpost.com/2026/10/16/li-auto-financing-deal-mach-chip-business",
+      "published_at": "2026-10-16T08:43:01Z",
+      "first_seen_at": "2026-10-16T11:44:35.592040Z",
+      "last_seen_at": "2026-10-16T11:44:35.592040Z",
+      "title_original": "Li Auto chip unit signs first funding deal at up to $2.5 billion post-money valuation",
+      "title_en": "Li Auto chip unit signs first funding deal at up to $2.5 billion post-money valuation",
+      "title_zh": "理想汽车芯片部门签署首笔融资协议，投后估值高达25亿美元",
+      "title_bilingual": "理想汽车芯片部门签署首笔融资协议，投后估值高达25亿美元 / Li Auto chip unit signs first funding deal at up to $2.5 billion post-money valuation",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "供应链"
+      ]
+    },
+    {
+      "id": "56f653c049a8289ea41b5d6a5cd7290c0da896f2",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Geely Holding to bring Google services to more overseas models from H2 2027",
+      "url": "https://cnevpost.com/2026/10/16/geely-holding-bring-google-services-more-overseas-models",
+      "published_at": "2026-10-16T08:25:11Z",
+      "first_seen_at": "2026-10-16T11:44:35.592040Z",
+      "last_seen_at": "2026-10-16T11:44:35.592040Z",
+      "title_original": "Geely Holding to bring Google services to more overseas models from H2 2027",
+      "title_en": "Geely Holding to bring Google services to more overseas models from H2 2027",
+      "title_zh": "吉利控股将于 2027 年下半年将 Google 服务引入更多海外车型",
+      "title_bilingual": "吉利控股将于 2027 年下半年将 Google 服务引入更多海外车型 / Geely Holding to bring Google services to more overseas models from H2 2027",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "503ec9d15e4d6b79d520538b62e8207c0fa39316",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Geely’s Smart #2 city car reached dealers across China",
+      "url": "https://carnewschina.com/2026/10/16/geelys-smart-2-city-car-reached-dealers-across-china",
+      "published_at": "2026-10-16T07:50:00Z",
+      "first_seen_at": "2026-10-16T11:44:35.592040Z",
+      "last_seen_at": "2026-10-16T11:44:35.592040Z",
+      "title_original": "Geely’s Smart #2 city car reached dealers across China",
+      "title_en": "Geely’s Smart #2 city car reached dealers across China",
+      "title_zh": "吉利 Smart 2 号城市汽车到达中国各地经销商",
+      "title_bilingual": "吉利 Smart 2 号城市汽车到达中国各地经销商 / Geely’s Smart #2 city car reached dealers across China",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "4bb9cfe6a8b3561fba79b5cbe6429aadb3f88b60",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Tesla unveils redesigned Roadster, with Performance reservations available in China",
+      "url": "https://cnevpost.com/2026/10/16/tesla-unveils-redesigned-roadster",
+      "published_at": "2026-10-16T07:01:07Z",
+      "first_seen_at": "2026-10-16T11:44:35.592040Z",
+      "last_seen_at": "2026-10-16T11:44:35.592040Z",
+      "title_original": "Tesla unveils redesigned Roadster, with Performance reservations available in China",
+      "title_en": "Tesla unveils redesigned Roadster, with Performance reservations available in China",
+      "title_zh": "特斯拉推出重新设计的 Roadster，可在中国进行性能预订",
+      "title_bilingual": "特斯拉推出重新设计的 Roadster，可在中国进行性能预订 / Tesla unveils redesigned Roadster, with Performance reservations available in China",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "10767ac9c5d67a6a9e1d063aaaa615208d8c961b",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "BYD unveils modular widescreen UI on 3rd-Gen Tang EV ahead of Q4 launch",
+      "url": "https://carnewschina.com/2026/10/16/byd-unveils-modular-widescreen-ui-on-3rd-gen-tang-ev-ahead-of-q4-launch",
+      "published_at": "2026-10-16T06:34:58Z",
+      "first_seen_at": "2026-10-16T11:44:35.592040Z",
+      "last_seen_at": "2026-10-16T11:44:35.592040Z",
+      "title_original": "BYD unveils modular widescreen UI on 3rd-Gen Tang EV ahead of Q4 launch",
+      "title_en": "BYD unveils modular widescreen UI on 3rd-Gen Tang EV ahead of Q4 launch",
+      "title_zh": "比亚迪在第三代唐电动汽车上推出模块化宽屏用户界面",
+      "title_bilingual": "比亚迪在第三代唐电动汽车上推出模块化宽屏用户界面 / BYD unveils modular widescreen UI on 3rd-Gen Tang EV ahead of Q4 launch",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
       "id": "758169d8a57ff6b307bb7f8a80bcaf2f93db6dd3",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -69,7 +290,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/8c3226abafd2ade2/116402879-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-16T06:06:51.820066Z",
-      "last_seen_at": "2026-10-16T06:06:51.820066Z",
+      "last_seen_at": "2026-10-16T11:44:35.592040Z",
       "title_original": "底盘调教不错 ID.AURA T6提车分享",
       "title_en": null,
       "title_zh": "底盘调教不错 ID.AURA T6提车分享",
@@ -91,8 +312,8 @@
       "last_seen_at": "2026-10-16T06:06:51.820066Z",
       "title_original": "Tesla makes cars that fly? [video]",
       "title_en": "Tesla makes cars that fly? [video]",
-      "title_zh": null,
-      "title_bilingual": "Tesla makes cars that fly? [video]",
+      "title_zh": "特斯拉生产会飞的汽车？ [视频]",
+      "title_bilingual": "特斯拉生产会飞的汽车？ [视频] / Tesla makes cars that fly? [video]",
       "topic_tags": [
         "车企竞争"
       ]
@@ -106,11 +327,11 @@
       "url": "https://cnevpost.com/2026/10/16/byd-picks-ckd-assembly-partner-malaysia",
       "published_at": "2026-10-16T04:18:35Z",
       "first_seen_at": "2026-10-16T06:06:51.820066Z",
-      "last_seen_at": "2026-10-16T06:06:51.820066Z",
+      "last_seen_at": "2026-10-16T11:44:35.592040Z",
       "title_original": "BYD picks local assembly partner in Malaysia to advance EV production",
       "title_en": "BYD picks local assembly partner in Malaysia to advance EV production",
-      "title_zh": null,
-      "title_bilingual": "BYD picks local assembly partner in Malaysia to advance EV production",
+      "title_zh": "比亚迪选择马来西亚当地组装合作伙伴来推进电动汽车生产",
+      "title_bilingual": "比亚迪选择马来西亚当地组装合作伙伴来推进电动汽车生产 / BYD picks local assembly partner in Malaysia to advance EV production",
       "topic_tags": [
         "新能源",
         "车企竞争"
@@ -125,13 +346,14 @@
       "url": "https://cnevpost.com/2026/10/16/jac-shares-rebound-as-maextro-v800-brake-probe",
       "published_at": "2026-10-16T02:34:37Z",
       "first_seen_at": "2026-10-16T06:06:51.820066Z",
-      "last_seen_at": "2026-10-16T06:06:51.820066Z",
+      "last_seen_at": "2026-10-16T11:44:35.592040Z",
       "title_original": "JAC shares rebound by daily limit as Maextro V800 brake controversy faces joint probe",
       "title_en": "JAC shares rebound by daily limit as Maextro V800 brake controversy faces joint probe",
-      "title_zh": null,
-      "title_bilingual": "JAC shares rebound by daily limit as Maextro V800 brake controversy faces joint probe",
+      "title_zh": "Maextro V800刹车风波面临联合调查 江淮股价涨停",
+      "title_bilingual": "Maextro V800刹车风波面临联合调查 江淮股价涨停 / JAC shares rebound by daily limit as Maextro V800 brake controversy faces joint probe",
       "topic_tags": [
-        "新能源"
+        "新能源",
+        "召回安全"
       ]
     },
     {
@@ -143,7 +365,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/0e2ce0d8bdf0b4e7/116345919-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-15T19:58:36.397721Z",
-      "last_seen_at": "2026-10-16T06:06:51.820066Z",
+      "last_seen_at": "2026-10-16T11:44:35.592040Z",
       "title_original": "高端大气 27款高山8试驾体验",
       "title_en": null,
       "title_zh": "高端大气 27款高山8试驾体验",
@@ -161,7 +383,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/010a523e304efe8a/116366728-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-15T19:58:36.397721Z",
-      "last_seen_at": "2026-10-16T06:06:51.820066Z",
+      "last_seen_at": "2026-10-16T11:44:35.592040Z",
       "title_original": "提速平顺不顿挫 小鹏G9L提车分享",
       "title_en": null,
       "title_zh": "提速平顺不顿挫 小鹏G9L提车分享",
@@ -180,7 +402,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/d610aa03235b60e6/116396839-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-15T19:58:36.397721Z",
-      "last_seen_at": "2026-10-16T06:06:51.820066Z",
+      "last_seen_at": "2026-10-16T11:44:35.592040Z",
       "title_original": "出行成本较低 零跑B10提车作业分享",
       "title_en": null,
       "title_zh": "出行成本较低 零跑B10提车作业分享",
@@ -199,7 +421,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/7668d7e07ba8b487/116331726-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-15T19:58:36.397721Z",
-      "last_seen_at": "2026-10-16T06:06:51.820066Z",
+      "last_seen_at": "2026-10-16T11:44:35.592040Z",
       "title_original": "撞刹和电刹对电车的能量回收影响",
       "title_en": null,
       "title_zh": "撞刹和电刹对电车的能量回收影响",
@@ -217,7 +439,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/be5dea43e28699f8/116366881-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-15T19:58:36.397721Z",
-      "last_seen_at": "2026-10-16T06:06:51.820066Z",
+      "last_seen_at": "2026-10-16T11:44:35.592040Z",
       "title_original": "外观时尚年轻 小鹏MONA L03提车分享",
       "title_en": null,
       "title_zh": "外观时尚年轻 小鹏MONA L03提车分享",
@@ -236,7 +458,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/81c0b2944ba0c91d/116361815-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-15T19:58:36.397721Z",
-      "last_seen_at": "2026-10-16T06:06:51.820066Z",
+      "last_seen_at": "2026-10-16T11:44:35.592040Z",
       "title_original": "五口之家 长城H10提车作业",
       "title_en": null,
       "title_zh": "五口之家 长城H10提车作业",
@@ -255,7 +477,7 @@
       "url": "http://vc.yiche.com/vplay/13647482.html",
       "published_at": null,
       "first_seen_at": "2026-10-15T19:58:36.397721Z",
-      "last_seen_at": "2026-10-16T06:06:51.820066Z",
+      "last_seen_at": "2026-10-16T11:44:35.592040Z",
       "title_original": "又天塌了 长安启源Q05买哪个版本最好？",
       "title_en": null,
       "title_zh": "又天塌了 长安启源Q05买哪个版本最好？",
@@ -273,7 +495,7 @@
       "url": "http://vc.yiche.com/vplay/13658059.html",
       "published_at": null,
       "first_seen_at": "2026-10-15T19:58:36.397721Z",
-      "last_seen_at": "2026-10-16T06:06:51.820066Z",
+      "last_seen_at": "2026-10-16T11:44:35.592040Z",
       "title_original": "《帮看车》比亚迪大汉EV：D级车的享受，25万级的价格",
       "title_en": null,
       "title_zh": "《帮看车》比亚迪大汉EV：D级车的享受，25万级的价格",
@@ -292,7 +514,7 @@
       "url": "http://vc.yiche.com/vplay/13617277.html",
       "published_at": null,
       "first_seen_at": "2026-10-15T19:58:36.397721Z",
-      "last_seen_at": "2026-10-16T06:06:51.820066Z",
+      "last_seen_at": "2026-10-16T11:44:35.592040Z",
       "title_original": "全新艾瑞泽7王者归来，全球家轿，提供燃油/混动双动力。",
       "title_en": null,
       "title_zh": "全新艾瑞泽7王者归来，全球家轿，提供燃油/混动双动力。",
@@ -310,12 +532,31 @@
       "url": "http://vc.yiche.com/vplay/13630983.html",
       "published_at": null,
       "first_seen_at": "2026-10-15T19:58:36.397721Z",
-      "last_seen_at": "2026-10-16T06:06:51.820066Z",
+      "last_seen_at": "2026-10-16T11:44:35.592040Z",
       "title_original": "快评小鹏MONA L05：大五座+双动力，14万级行不行？",
       "title_en": null,
       "title_zh": "快评小鹏MONA L05：大五座+双动力，14万级行不行？",
       "title_bilingual": "快评小鹏MONA L05：大五座+双动力，14万级行不行？",
       "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "8c2e226d780041abdef6f8cb76e039975f177215",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "BYD Ti 7 PHEV crossover gets bigger, long wheelbase trim spotted in China",
+      "url": "https://carnewschina.com/2026/10/15/byd-ti7-phev-crossover-gets-bigger-long-wheelbase-trim-spotted-in-china",
+      "published_at": "2026-10-15T18:46:46Z",
+      "first_seen_at": "2026-10-16T06:06:51.820066Z",
+      "last_seen_at": "2026-10-16T11:44:35.592040Z",
+      "title_original": "BYD Ti 7 PHEV crossover gets bigger, long wheelbase trim spotted in China",
+      "title_en": "BYD Ti 7 PHEV crossover gets bigger, long wheelbase trim spotted in China",
+      "title_zh": "比亚迪Ti 7 PHEV跨界车变得更大，长轴距装饰在中国被发现",
+      "title_bilingual": "比亚迪Ti 7 PHEV跨界车变得更大，长轴距装饰在中国被发现 / BYD Ti 7 PHEV crossover gets bigger, long wheelbase trim spotted in China",
+      "topic_tags": [
+        "新能源",
         "车企竞争"
       ]
     },
@@ -331,30 +572,49 @@
       "last_seen_at": "2026-10-16T01:06:46.145620Z",
       "title_original": "BYD Ti7 PHEV crossover gets bigger, long wheelbase trim spotted in China",
       "title_en": "BYD Ti7 PHEV crossover gets bigger, long wheelbase trim spotted in China",
-      "title_zh": null,
-      "title_bilingual": "BYD Ti7 PHEV crossover gets bigger, long wheelbase trim spotted in China",
+      "title_zh": "比亚迪 Ti7 PHEV 跨界车变得更大，长轴距装饰在中国被发现",
+      "title_bilingual": "比亚迪 Ti7 PHEV 跨界车变得更大，长轴距装饰在中国被发现 / BYD Ti7 PHEV crossover gets bigger, long wheelbase trim spotted in China",
       "topic_tags": [
         "新能源",
         "车企竞争"
       ]
     },
     {
-      "id": "8c2e226d780041abdef6f8cb76e039975f177215",
+      "id": "c4e5071352df074cb2fc4646f6c754f3475109d8",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "BYD Ti 7 PHEV crossover gets bigger, long wheelbase trim spotted in China",
-      "url": "https://carnewschina.com/2026/10/15/byd-ti7-phev-crossover-gets-bigger-long-wheelbase-trim-spotted-in-china",
-      "published_at": "2026-10-15T18:46:46Z",
-      "first_seen_at": "2026-10-16T06:06:51.820066Z",
-      "last_seen_at": "2026-10-16T06:06:51.820066Z",
-      "title_original": "BYD Ti 7 PHEV crossover gets bigger, long wheelbase trim spotted in China",
-      "title_en": "BYD Ti 7 PHEV crossover gets bigger, long wheelbase trim spotted in China",
-      "title_zh": null,
-      "title_bilingual": "BYD Ti 7 PHEV crossover gets bigger, long wheelbase trim spotted in China",
+      "source": "盖世汽车-车企",
+      "title": "吉利控股前三季度销量超300万辆，新能源渗透率近六成",
+      "url": "https://auto.gasgoo.com/news/202610/15I70474938C110.shtml",
+      "published_at": "2026-10-15T16:56:13Z",
+      "first_seen_at": "2026-10-16T11:44:35.592040Z",
+      "last_seen_at": "2026-10-16T11:44:35.592040Z",
+      "title_original": "吉利控股前三季度销量超300万辆，新能源渗透率近六成",
+      "title_en": null,
+      "title_zh": "吉利控股前三季度销量超300万辆，新能源渗透率近六成",
+      "title_bilingual": "吉利控股前三季度销量超300万辆，新能源渗透率近六成",
       "topic_tags": [
         "新能源",
+        "销量市场",
         "车企竞争"
+      ]
+    },
+    {
+      "id": "4d12168bded267b4dfb1b5f3456ef96d5778c853",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-供应链",
+      "title": "伯特利蜻蜓湖研发中心正式启用",
+      "url": "https://auto.gasgoo.com/news/202610/15I70474922C103.shtml",
+      "published_at": "2026-10-15T15:36:43Z",
+      "first_seen_at": "2026-10-16T11:44:35.592040Z",
+      "last_seen_at": "2026-10-16T11:44:35.592040Z",
+      "title_original": "伯特利蜻蜓湖研发中心正式启用",
+      "title_en": null,
+      "title_zh": "伯特利蜻蜓湖研发中心正式启用",
+      "title_bilingual": "伯特利蜻蜓湖研发中心正式启用",
+      "topic_tags": [
+        "供应链"
       ]
     },
     {
@@ -366,11 +626,11 @@
       "url": "https://cnevpost.com/2026/10/15/china-joint-probe-maextro-v800-brake-pedal-bracket-failures",
       "published_at": "2026-10-15T14:11:35Z",
       "first_seen_at": "2026-10-15T16:17:13.551130Z",
-      "last_seen_at": "2026-10-16T06:06:51.820066Z",
+      "last_seen_at": "2026-10-16T11:44:35.592040Z",
       "title_original": "China launches joint probe into Maextro V800 brake pedal bracket failures",
       "title_en": "China launches joint probe into Maextro V800 brake pedal bracket failures",
-      "title_zh": null,
-      "title_bilingual": "China launches joint probe into Maextro V800 brake pedal bracket failures",
+      "title_zh": "中国对Maextro V800制动踏板支架故障展开联合调查",
+      "title_bilingual": "中国对Maextro V800制动踏板支架故障展开联合调查 / China launches joint probe into Maextro V800 brake pedal bracket failures",
       "topic_tags": [
         "新能源"
       ]
@@ -384,13 +644,14 @@
       "url": "https://cnevpost.com/2026/10/15/chery-icar-uk-v27-launch-2027",
       "published_at": "2026-10-15T13:35:26Z",
       "first_seen_at": "2026-10-15T16:17:13.551130Z",
-      "last_seen_at": "2026-10-16T06:06:51.820066Z",
+      "last_seen_at": "2026-10-16T11:44:35.592040Z",
       "title_original": "Chery to bring iCar brand to UK with V27 launch in early 2027",
       "title_en": "Chery to bring iCar brand to UK with V27 launch in early 2027",
-      "title_zh": null,
-      "title_bilingual": "Chery to bring iCar brand to UK with V27 launch in early 2027",
+      "title_zh": "奇瑞将于 2027 年初推出 V27，将 iCar 品牌引入英国",
+      "title_bilingual": "奇瑞将于 2027 年初推出 V27，将 iCar 品牌引入英国 / Chery to bring iCar brand to UK with V27 launch in early 2027",
       "topic_tags": [
-        "新能源"
+        "新能源",
+        "车企竞争"
       ]
     },
     {
@@ -402,11 +663,11 @@
       "url": "https://carnewschina.com/2026/10/15/xpeng-opens-pre-sales-for-mona-l05-ev-and-erev-suv-in-china-starting-from-25300-usd",
       "published_at": "2026-10-15T13:05:51Z",
       "first_seen_at": "2026-10-15T16:17:13.551130Z",
-      "last_seen_at": "2026-10-16T06:06:51.820066Z",
+      "last_seen_at": "2026-10-16T11:44:35.592040Z",
       "title_original": "Xpeng opens pre-sales for Mona L05 EV and EREV SUV in China, starting from 25,300 USD",
       "title_en": "Xpeng opens pre-sales for Mona L05 EV and EREV SUV in China, starting from 25,300 USD",
-      "title_zh": null,
-      "title_bilingual": "Xpeng opens pre-sales for Mona L05 EV and EREV SUV in China, starting from 25,300 USD",
+      "title_zh": "小鹏汽车 Mona L05 EV 和 EREV SUV 在中国开启预售，起价 25,300 美元",
+      "title_bilingual": "小鹏汽车 Mona L05 EV 和 EREV SUV 在中国开启预售，起价 25,300 美元 / Xpeng opens pre-sales for Mona L05 EV and EREV SUV in China, starting from 25,300 USD",
       "topic_tags": [
         "新能源",
         "车企竞争",
@@ -422,14 +683,16 @@
       "url": "https://cnevpost.com/2026/10/15/xpeng-opens-mona-l05-pre-sales",
       "published_at": "2026-10-15T12:54:28Z",
       "first_seen_at": "2026-10-15T16:17:13.551130Z",
-      "last_seen_at": "2026-10-16T06:06:51.820066Z",
+      "last_seen_at": "2026-10-16T11:44:35.592040Z",
       "title_original": "Xpeng opens Mona L05 pre-sales to bolster Q4 sales push",
       "title_en": "Xpeng opens Mona L05 pre-sales to bolster Q4 sales push",
-      "title_zh": null,
-      "title_bilingual": "Xpeng opens Mona L05 pre-sales to bolster Q4 sales push",
+      "title_zh": "小鹏汽车Mona L05开启预售，助力第四季度销量",
+      "title_bilingual": "小鹏汽车Mona L05开启预售，助力第四季度销量 / Xpeng opens Mona L05 pre-sales to bolster Q4 sales push",
       "topic_tags": [
         "新能源",
-        "车企竞争"
+        "销量市场",
+        "车企竞争",
+        "新车上市"
       ]
     },
     {
@@ -441,7 +704,7 @@
       "url": "https://auto.gasgoo.com/news/202610/15I70474878C108.shtml",
       "published_at": "2026-10-15T12:02:47Z",
       "first_seen_at": "2026-10-16T06:06:51.820066Z",
-      "last_seen_at": "2026-10-16T06:06:51.820066Z",
+      "last_seen_at": "2026-10-16T11:44:35.592040Z",
       "title_original": "【国际快讯】英国拒绝欧盟施压，暂不对中国电动车加征关税；小鹏希望到2030年在欧洲销量超过福特和欧宝",
       "title_en": null,
       "title_zh": "【国际快讯】英国拒绝欧盟施压，暂不对中国电动车加征关税；小鹏希望到2030年在欧洲销量超过福特和欧宝",
@@ -450,161 +713,224 @@
         "新能源",
         "销量市场",
         "车企竞争"
-      ]
-    },
-    {
-      "id": "e356a31b4467227dbaf8d5c4c94143f568e9d895",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-供应链",
-      "title": "天赐材料印尼电解液项目建设提速，预计2026年12月进入试生产",
-      "url": "https://auto.gasgoo.com/news/202610/15I70474873C501.shtml",
-      "published_at": "2026-10-15T11:14:40Z",
-      "first_seen_at": "2026-10-16T06:06:51.820066Z",
-      "last_seen_at": "2026-10-16T06:06:51.820066Z",
-      "title_original": "天赐材料印尼电解液项目建设提速，预计2026年12月进入试生产",
-      "title_en": null,
-      "title_zh": "天赐材料印尼电解液项目建设提速，预计2026年12月进入试生产",
-      "title_bilingual": "天赐材料印尼电解液项目建设提速，预计2026年12月进入试生产",
-      "topic_tags": [
-        "供应链"
-      ]
-    },
-    {
-      "id": "061304a391b40fe6a75e3409a323c675326cd327",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-智能网联",
-      "title": "FFR与FFAI签署最终协议，以约2亿美元估值合并FFAI机器人业务",
-      "url": "https://auto.gasgoo.com/news/202610/15I70474860C601.shtml",
-      "published_at": "2026-10-15T09:40:08Z",
-      "first_seen_at": "2026-10-16T06:06:51.820066Z",
-      "last_seen_at": "2026-10-16T06:06:51.820066Z",
-      "title_original": "FFR与FFAI签署最终协议，以约2亿美元估值合并FFAI机器人业务",
-      "title_en": null,
-      "title_zh": "FFR与FFAI签署最终协议，以约2亿美元估值合并FFAI机器人业务",
-      "title_bilingual": "FFR与FFAI签署最终协议，以约2亿美元估值合并FFAI机器人业务",
-      "topic_tags": []
-    },
-    {
-      "id": "5a5104bdbb6d700b0d5c374a255c478539e5ddec",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-供应链",
-      "title": "欧摩威获奇瑞ACU定点，“欧洲生产、就近交付”",
-      "url": "https://auto.gasgoo.com/news/202610/15I70474858C103.shtml",
-      "published_at": "2026-10-15T09:34:43Z",
-      "first_seen_at": "2026-10-16T06:06:51.820066Z",
-      "last_seen_at": "2026-10-16T06:06:51.820066Z",
-      "title_original": "欧摩威获奇瑞ACU定点，“欧洲生产、就近交付”",
-      "title_en": null,
-      "title_zh": "欧摩威获奇瑞ACU定点，“欧洲生产、就近交付”",
-      "title_bilingual": "欧摩威获奇瑞ACU定点，“欧洲生产、就近交付”",
-      "topic_tags": [
-        "销量市场",
-        "车企竞争",
-        "供应链"
-      ]
-    },
-    {
-      "id": "7734a9018d10dd0860eb189f54036f7e1609aaed",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "BMW starts Gen 6 battery production in China as Neue Klasse i3 covers 1,213 km without recharging in test",
-      "url": "https://cnevpost.com/2026/10/15/bmw-starts-gen-6-battery-production-china",
-      "published_at": "2026-10-15T09:02:14Z",
-      "first_seen_at": "2026-10-15T11:53:39.667611Z",
-      "last_seen_at": "2026-10-16T06:06:51.820066Z",
-      "title_original": "BMW starts Gen 6 battery production in China as Neue Klasse i3 covers 1,213 km without recharging in test",
-      "title_en": "BMW starts Gen 6 battery production in China as Neue Klasse i3 covers 1,213 km without recharging in test",
-      "title_zh": null,
-      "title_bilingual": "BMW starts Gen 6 battery production in China as Neue Klasse i3 covers 1,213 km without recharging in test",
-      "topic_tags": [
-        "新能源",
-        "补能电池"
-      ]
-    },
-    {
-      "id": "ffe5be06d91ec4cfc5714d631a0f66a3da1684b1",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-供应链",
-      "title": "航宇智造北京新基地开工，拟投资10亿元布局新能源汽车与空天制造",
-      "url": "https://auto.gasgoo.com/news/202610/15I70474819C108.shtml",
-      "published_at": "2026-10-15T07:59:04Z",
-      "first_seen_at": "2026-10-16T01:06:46.145620Z",
-      "last_seen_at": "2026-10-16T06:06:51.820066Z",
-      "title_original": "航宇智造北京新基地开工，拟投资10亿元布局新能源汽车与空天制造",
-      "title_en": null,
-      "title_zh": "航宇智造北京新基地开工，拟投资10亿元布局新能源汽车与空天制造",
-      "title_bilingual": "航宇智造北京新基地开工，拟投资10亿元布局新能源汽车与空天制造",
-      "topic_tags": [
-        "新能源",
-        "供应链"
-      ]
-    },
-    {
-      "id": "b68786222749d249516ba80cc0a98d8a05a3f8ab",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-智能网联",
-      "title": "黑芝麻智能签下3亿元AI服务器合同，拓展汽车芯片以外市场",
-      "url": "https://auto.gasgoo.com/news/202610/14I70474817C601.shtml",
-      "published_at": "2026-10-15T07:55:07Z",
-      "first_seen_at": "2026-10-16T01:06:46.145620Z",
-      "last_seen_at": "2026-10-16T06:06:51.820066Z",
-      "title_original": "黑芝麻智能签下3亿元AI服务器合同，拓展汽车芯片以外市场",
-      "title_en": null,
-      "title_zh": "黑芝麻智能签下3亿元AI服务器合同，拓展汽车芯片以外市场",
-      "title_bilingual": "黑芝麻智能签下3亿元AI服务器合同，拓展汽车芯片以外市场",
-      "topic_tags": [
-        "销量市场",
-        "供应链"
-      ]
-    },
-    {
-      "id": "1a98bd84b0bee200816790ecd5bc53cf8b26fa3a",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-Battery",
-      "title": "Top EV battery makers' market share in China in September 2026: CATL 40.92%, BYD 21.09%",
-      "url": "https://cnevpost.com/2026/10/15/top-ev-battery-makers-share-china-sept-2026",
-      "published_at": "2026-10-15T07:27:47Z",
-      "first_seen_at": "2026-10-15T11:53:39.667611Z",
-      "last_seen_at": "2026-10-16T06:06:51.820066Z",
-      "title_original": "Top EV battery makers' market share in China in September 2026: CATL 40.92%, BYD 21.09%",
-      "title_en": "Top EV battery makers' market share in China in September 2026: CATL 40.92%, BYD 21.09%",
-      "title_zh": null,
-      "title_bilingual": "Top EV battery makers' market share in China in September 2026: CATL 40.92%, BYD 21.09%",
-      "topic_tags": [
-        "新能源",
-        "补能电池",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "f8f4500ff60f036154ec37c5c70f325b63b612f9",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "China EV battery installations reach 87.2 GWh in September, setting fresh high for year",
-      "url": "https://cnevpost.com/2026/10/15/china-ev-battery-installations-sept-2026",
-      "published_at": "2026-10-15T07:03:23Z",
-      "first_seen_at": "2026-10-15T11:53:39.667611Z",
-      "last_seen_at": "2026-10-16T06:06:51.820066Z",
-      "title_original": "China EV battery installations reach 87.2 GWh in September, setting fresh high for year",
-      "title_en": "China EV battery installations reach 87.2 GWh in September, setting fresh high for year",
-      "title_zh": null,
-      "title_bilingual": "China EV battery installations reach 87.2 GWh in September, setting fresh high for year",
-      "topic_tags": [
-        "新能源",
-        "补能电池"
       ]
     }
   ],
   "items_ai": [
     {
+      "id": "4137c1a5bdda5aa3d07a3f50a56f4127e0595ccc",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "producthunt",
+      "title": "Tesla Roadster",
+      "url": "https://www.producthunt.com/products/tesla-roadster",
+      "published_at": "2026-10-16T11:44:50.390000Z",
+      "first_seen_at": "2026-10-16T11:44:35.592040Z",
+      "last_seen_at": "2026-10-16T11:44:35.592040Z",
+      "title_original": "Tesla Roadster",
+      "title_en": "Tesla Roadster",
+      "title_zh": "特斯拉跑车",
+      "title_bilingual": "特斯拉跑车 / Tesla Roadster",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "2633038117014d6f3d516a813ecbdb9b03392493",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "懂车帝 · 文章排行榜",
+      "title": "十万级电摩猛兽号外生命体1号：实测快充10分钟真能跑百公里？",
+      "url": "https://www.dongchedi.com/article/7696126092256608830",
+      "published_at": null,
+      "first_seen_at": "2026-10-16T11:44:35.592040Z",
+      "last_seen_at": "2026-10-16T11:44:35.592040Z",
+      "title_original": "十万级电摩猛兽号外生命体1号：实测快充10分钟真能跑百公里？",
+      "title_en": null,
+      "title_zh": "十万级电摩猛兽号外生命体1号：实测快充10分钟真能跑百公里？",
+      "title_bilingual": "十万级电摩猛兽号外生命体1号：实测快充10分钟真能跑百公里？",
+      "topic_tags": [
+        "补能电池"
+      ]
+    },
+    {
+      "id": "721778f5c61d5c7cd10ff5cb28d9fd9562ecd7d6",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "BYD Racco launches in first market outside Japan at 34,615 USD",
+      "url": "https://carnewschina.com/2026/10/16/byd-racco-launches-in-first-market-outside-japan-at-34615-usd",
+      "published_at": "2026-10-16T11:01:16Z",
+      "first_seen_at": "2026-10-16T11:44:35.592040Z",
+      "last_seen_at": "2026-10-16T11:44:35.592040Z",
+      "title_original": "BYD Racco launches in first market outside Japan at 34,615 USD",
+      "title_en": "BYD Racco launches in first market outside Japan at 34,615 USD",
+      "title_zh": "比亚迪 Racco 在日本以外的第一个市场上市，售价 34,615 美元",
+      "title_bilingual": "比亚迪 Racco 在日本以外的第一个市场上市，售价 34,615 美元 / BYD Racco launches in first market outside Japan at 34,615 USD",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "价格战",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "c36b8700468c76b5fd0b33f4257ca963685b61d8",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Next-gen BYD Han listed with 520 kW AWD and 270 km/h top speed",
+      "url": "https://carnewschina.com/2026/10/16/next-gen-byd-han-listed-with-520-kw-awd-and-270-km-h-top-speed",
+      "published_at": "2026-10-16T10:28:04Z",
+      "first_seen_at": "2026-10-16T11:44:35.592040Z",
+      "last_seen_at": "2026-10-16T11:44:35.592040Z",
+      "title_original": "Next-gen BYD Han listed with 520 kW AWD and 270 km/h top speed",
+      "title_en": "Next-gen BYD Han listed with 520 kW AWD and 270 km/h top speed",
+      "title_zh": "下一代比亚迪汉上市，全轮驱动520千瓦，最高时速270公里/小时",
+      "title_bilingual": "下一代比亚迪汉上市，全轮驱动520千瓦，最高时速270公里/小时 / Next-gen BYD Han listed with 520 kW AWD and 270 km/h top speed",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "03cb49f66cfee110994c24a51a1e1149e9d4d1e4",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Seres-CATL’s first joint model Aiva ME7 appears in regulatory filings",
+      "url": "https://carnewschina.com/2026/10/16/seres-catls-first-joint-model-aiva-me7-appears-in-regulatory-filings",
+      "published_at": "2026-10-16T10:04:28Z",
+      "first_seen_at": "2026-10-16T11:44:35.592040Z",
+      "last_seen_at": "2026-10-16T11:44:35.592040Z",
+      "title_original": "Seres-CATL’s first joint model Aiva ME7 appears in regulatory filings",
+      "title_en": "Seres-CATL’s first joint model Aiva ME7 appears in regulatory filings",
+      "title_zh": "Seres-CATL首款合资车型Aiva ME7出现在监管文件中",
+      "title_bilingual": "Seres-CATL首款合资车型Aiva ME7出现在监管文件中 / Seres-CATL’s first joint model Aiva ME7 appears in regulatory filings",
+      "topic_tags": [
+        "新能源",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "f7ac928d2fa9111b91c100f6d8394d9eed77a73f",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Geely cars to get Google Gemini, Maps, and Play globally in H2 2027",
+      "url": "https://carnewschina.com/2026/10/16/geely-cars-to-get-google-gemini-maps-and-play-globally-in-h2-2027",
+      "published_at": "2026-10-16T08:52:20Z",
+      "first_seen_at": "2026-10-16T11:44:35.592040Z",
+      "last_seen_at": "2026-10-16T11:44:35.592040Z",
+      "title_original": "Geely cars to get Google Gemini, Maps, and Play globally in H2 2027",
+      "title_en": "Geely cars to get Google Gemini, Maps, and Play globally in H2 2027",
+      "title_zh": "吉利汽车将于 2027 年下半年在全球范围内支持 Google Gemini、地图和 Play",
+      "title_bilingual": "吉利汽车将于 2027 年下半年在全球范围内支持 Google Gemini、地图和 Play / Geely cars to get Google Gemini, Maps, and Play globally in H2 2027",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "20d9b0b907d5bf36f75c03c10cb65257a882cd58",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Li Auto chip unit signs first funding deal at up to $2.5 billion post-money valuation",
+      "url": "https://cnevpost.com/2026/10/16/li-auto-financing-deal-mach-chip-business",
+      "published_at": "2026-10-16T08:43:01Z",
+      "first_seen_at": "2026-10-16T11:44:35.592040Z",
+      "last_seen_at": "2026-10-16T11:44:35.592040Z",
+      "title_original": "Li Auto chip unit signs first funding deal at up to $2.5 billion post-money valuation",
+      "title_en": "Li Auto chip unit signs first funding deal at up to $2.5 billion post-money valuation",
+      "title_zh": "理想汽车芯片部门签署首笔融资协议，投后估值高达25亿美元",
+      "title_bilingual": "理想汽车芯片部门签署首笔融资协议，投后估值高达25亿美元 / Li Auto chip unit signs first funding deal at up to $2.5 billion post-money valuation",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "供应链"
+      ]
+    },
+    {
+      "id": "56f653c049a8289ea41b5d6a5cd7290c0da896f2",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Geely Holding to bring Google services to more overseas models from H2 2027",
+      "url": "https://cnevpost.com/2026/10/16/geely-holding-bring-google-services-more-overseas-models",
+      "published_at": "2026-10-16T08:25:11Z",
+      "first_seen_at": "2026-10-16T11:44:35.592040Z",
+      "last_seen_at": "2026-10-16T11:44:35.592040Z",
+      "title_original": "Geely Holding to bring Google services to more overseas models from H2 2027",
+      "title_en": "Geely Holding to bring Google services to more overseas models from H2 2027",
+      "title_zh": "吉利控股将于 2027 年下半年将 Google 服务引入更多海外车型",
+      "title_bilingual": "吉利控股将于 2027 年下半年将 Google 服务引入更多海外车型 / Geely Holding to bring Google services to more overseas models from H2 2027",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "503ec9d15e4d6b79d520538b62e8207c0fa39316",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Geely’s Smart #2 city car reached dealers across China",
+      "url": "https://carnewschina.com/2026/10/16/geelys-smart-2-city-car-reached-dealers-across-china",
+      "published_at": "2026-10-16T07:50:00Z",
+      "first_seen_at": "2026-10-16T11:44:35.592040Z",
+      "last_seen_at": "2026-10-16T11:44:35.592040Z",
+      "title_original": "Geely’s Smart #2 city car reached dealers across China",
+      "title_en": "Geely’s Smart #2 city car reached dealers across China",
+      "title_zh": "吉利 Smart 2 号城市汽车到达中国各地经销商",
+      "title_bilingual": "吉利 Smart 2 号城市汽车到达中国各地经销商 / Geely’s Smart #2 city car reached dealers across China",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "4bb9cfe6a8b3561fba79b5cbe6429aadb3f88b60",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Tesla unveils redesigned Roadster, with Performance reservations available in China",
+      "url": "https://cnevpost.com/2026/10/16/tesla-unveils-redesigned-roadster",
+      "published_at": "2026-10-16T07:01:07Z",
+      "first_seen_at": "2026-10-16T11:44:35.592040Z",
+      "last_seen_at": "2026-10-16T11:44:35.592040Z",
+      "title_original": "Tesla unveils redesigned Roadster, with Performance reservations available in China",
+      "title_en": "Tesla unveils redesigned Roadster, with Performance reservations available in China",
+      "title_zh": "特斯拉推出重新设计的 Roadster，可在中国进行性能预订",
+      "title_bilingual": "特斯拉推出重新设计的 Roadster，可在中国进行性能预订 / Tesla unveils redesigned Roadster, with Performance reservations available in China",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "10767ac9c5d67a6a9e1d063aaaa615208d8c961b",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "BYD unveils modular widescreen UI on 3rd-Gen Tang EV ahead of Q4 launch",
+      "url": "https://carnewschina.com/2026/10/16/byd-unveils-modular-widescreen-ui-on-3rd-gen-tang-ev-ahead-of-q4-launch",
+      "published_at": "2026-10-16T06:34:58Z",
+      "first_seen_at": "2026-10-16T11:44:35.592040Z",
+      "last_seen_at": "2026-10-16T11:44:35.592040Z",
+      "title_original": "BYD unveils modular widescreen UI on 3rd-Gen Tang EV ahead of Q4 launch",
+      "title_en": "BYD unveils modular widescreen UI on 3rd-Gen Tang EV ahead of Q4 launch",
+      "title_zh": "比亚迪在第三代唐电动汽车上推出模块化宽屏用户界面",
+      "title_bilingual": "比亚迪在第三代唐电动汽车上推出模块化宽屏用户界面 / BYD unveils modular widescreen UI on 3rd-Gen Tang EV ahead of Q4 launch",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
       "id": "758169d8a57ff6b307bb7f8a80bcaf2f93db6dd3",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -613,7 +939,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/8c3226abafd2ade2/116402879-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-16T06:06:51.820066Z",
-      "last_seen_at": "2026-10-16T06:06:51.820066Z",
+      "last_seen_at": "2026-10-16T11:44:35.592040Z",
       "title_original": "底盘调教不错 ID.AURA T6提车分享",
       "title_en": null,
       "title_zh": "底盘调教不错 ID.AURA T6提车分享",
@@ -635,8 +961,8 @@
       "last_seen_at": "2026-10-16T06:06:51.820066Z",
       "title_original": "Tesla makes cars that fly? [video]",
       "title_en": "Tesla makes cars that fly? [video]",
-      "title_zh": null,
-      "title_bilingual": "Tesla makes cars that fly? [video]",
+      "title_zh": "特斯拉生产会飞的汽车？ [视频]",
+      "title_bilingual": "特斯拉生产会飞的汽车？ [视频] / Tesla makes cars that fly? [video]",
       "topic_tags": [
         "车企竞争"
       ]
@@ -650,11 +976,11 @@
       "url": "https://cnevpost.com/2026/10/16/byd-picks-ckd-assembly-partner-malaysia",
       "published_at": "2026-10-16T04:18:35Z",
       "first_seen_at": "2026-10-16T06:06:51.820066Z",
-      "last_seen_at": "2026-10-16T06:06:51.820066Z",
+      "last_seen_at": "2026-10-16T11:44:35.592040Z",
       "title_original": "BYD picks local assembly partner in Malaysia to advance EV production",
       "title_en": "BYD picks local assembly partner in Malaysia to advance EV production",
-      "title_zh": null,
-      "title_bilingual": "BYD picks local assembly partner in Malaysia to advance EV production",
+      "title_zh": "比亚迪选择马来西亚当地组装合作伙伴来推进电动汽车生产",
+      "title_bilingual": "比亚迪选择马来西亚当地组装合作伙伴来推进电动汽车生产 / BYD picks local assembly partner in Malaysia to advance EV production",
       "topic_tags": [
         "新能源",
         "车企竞争"
@@ -669,13 +995,14 @@
       "url": "https://cnevpost.com/2026/10/16/jac-shares-rebound-as-maextro-v800-brake-probe",
       "published_at": "2026-10-16T02:34:37Z",
       "first_seen_at": "2026-10-16T06:06:51.820066Z",
-      "last_seen_at": "2026-10-16T06:06:51.820066Z",
+      "last_seen_at": "2026-10-16T11:44:35.592040Z",
       "title_original": "JAC shares rebound by daily limit as Maextro V800 brake controversy faces joint probe",
       "title_en": "JAC shares rebound by daily limit as Maextro V800 brake controversy faces joint probe",
-      "title_zh": null,
-      "title_bilingual": "JAC shares rebound by daily limit as Maextro V800 brake controversy faces joint probe",
+      "title_zh": "Maextro V800刹车风波面临联合调查 江淮股价涨停",
+      "title_bilingual": "Maextro V800刹车风波面临联合调查 江淮股价涨停 / JAC shares rebound by daily limit as Maextro V800 brake controversy faces joint probe",
       "topic_tags": [
-        "新能源"
+        "新能源",
+        "召回安全"
       ]
     },
     {
@@ -687,7 +1014,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/0e2ce0d8bdf0b4e7/116345919-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-15T19:58:36.397721Z",
-      "last_seen_at": "2026-10-16T06:06:51.820066Z",
+      "last_seen_at": "2026-10-16T11:44:35.592040Z",
       "title_original": "高端大气 27款高山8试驾体验",
       "title_en": null,
       "title_zh": "高端大气 27款高山8试驾体验",
@@ -705,7 +1032,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/010a523e304efe8a/116366728-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-15T19:58:36.397721Z",
-      "last_seen_at": "2026-10-16T06:06:51.820066Z",
+      "last_seen_at": "2026-10-16T11:44:35.592040Z",
       "title_original": "提速平顺不顿挫 小鹏G9L提车分享",
       "title_en": null,
       "title_zh": "提速平顺不顿挫 小鹏G9L提车分享",
@@ -724,7 +1051,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/d610aa03235b60e6/116396839-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-15T19:58:36.397721Z",
-      "last_seen_at": "2026-10-16T06:06:51.820066Z",
+      "last_seen_at": "2026-10-16T11:44:35.592040Z",
       "title_original": "出行成本较低 零跑B10提车作业分享",
       "title_en": null,
       "title_zh": "出行成本较低 零跑B10提车作业分享",
@@ -743,7 +1070,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/7668d7e07ba8b487/116331726-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-15T19:58:36.397721Z",
-      "last_seen_at": "2026-10-16T06:06:51.820066Z",
+      "last_seen_at": "2026-10-16T11:44:35.592040Z",
       "title_original": "撞刹和电刹对电车的能量回收影响",
       "title_en": null,
       "title_zh": "撞刹和电刹对电车的能量回收影响",
@@ -761,7 +1088,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/be5dea43e28699f8/116366881-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-15T19:58:36.397721Z",
-      "last_seen_at": "2026-10-16T06:06:51.820066Z",
+      "last_seen_at": "2026-10-16T11:44:35.592040Z",
       "title_original": "外观时尚年轻 小鹏MONA L03提车分享",
       "title_en": null,
       "title_zh": "外观时尚年轻 小鹏MONA L03提车分享",
@@ -780,7 +1107,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/81c0b2944ba0c91d/116361815-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-15T19:58:36.397721Z",
-      "last_seen_at": "2026-10-16T06:06:51.820066Z",
+      "last_seen_at": "2026-10-16T11:44:35.592040Z",
       "title_original": "五口之家 长城H10提车作业",
       "title_en": null,
       "title_zh": "五口之家 长城H10提车作业",
@@ -799,7 +1126,7 @@
       "url": "http://vc.yiche.com/vplay/13647482.html",
       "published_at": null,
       "first_seen_at": "2026-10-15T19:58:36.397721Z",
-      "last_seen_at": "2026-10-16T06:06:51.820066Z",
+      "last_seen_at": "2026-10-16T11:44:35.592040Z",
       "title_original": "又天塌了 长安启源Q05买哪个版本最好？",
       "title_en": null,
       "title_zh": "又天塌了 长安启源Q05买哪个版本最好？",
@@ -817,7 +1144,7 @@
       "url": "http://vc.yiche.com/vplay/13658059.html",
       "published_at": null,
       "first_seen_at": "2026-10-15T19:58:36.397721Z",
-      "last_seen_at": "2026-10-16T06:06:51.820066Z",
+      "last_seen_at": "2026-10-16T11:44:35.592040Z",
       "title_original": "《帮看车》比亚迪大汉EV：D级车的享受，25万级的价格",
       "title_en": null,
       "title_zh": "《帮看车》比亚迪大汉EV：D级车的享受，25万级的价格",
@@ -836,7 +1163,7 @@
       "url": "http://vc.yiche.com/vplay/13617277.html",
       "published_at": null,
       "first_seen_at": "2026-10-15T19:58:36.397721Z",
-      "last_seen_at": "2026-10-16T06:06:51.820066Z",
+      "last_seen_at": "2026-10-16T11:44:35.592040Z",
       "title_original": "全新艾瑞泽7王者归来，全球家轿，提供燃油/混动双动力。",
       "title_en": null,
       "title_zh": "全新艾瑞泽7王者归来，全球家轿，提供燃油/混动双动力。",
@@ -854,12 +1181,31 @@
       "url": "http://vc.yiche.com/vplay/13630983.html",
       "published_at": null,
       "first_seen_at": "2026-10-15T19:58:36.397721Z",
-      "last_seen_at": "2026-10-16T06:06:51.820066Z",
+      "last_seen_at": "2026-10-16T11:44:35.592040Z",
       "title_original": "快评小鹏MONA L05：大五座+双动力，14万级行不行？",
       "title_en": null,
       "title_zh": "快评小鹏MONA L05：大五座+双动力，14万级行不行？",
       "title_bilingual": "快评小鹏MONA L05：大五座+双动力，14万级行不行？",
       "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "8c2e226d780041abdef6f8cb76e039975f177215",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "BYD Ti 7 PHEV crossover gets bigger, long wheelbase trim spotted in China",
+      "url": "https://carnewschina.com/2026/10/15/byd-ti7-phev-crossover-gets-bigger-long-wheelbase-trim-spotted-in-china",
+      "published_at": "2026-10-15T18:46:46Z",
+      "first_seen_at": "2026-10-16T06:06:51.820066Z",
+      "last_seen_at": "2026-10-16T11:44:35.592040Z",
+      "title_original": "BYD Ti 7 PHEV crossover gets bigger, long wheelbase trim spotted in China",
+      "title_en": "BYD Ti 7 PHEV crossover gets bigger, long wheelbase trim spotted in China",
+      "title_zh": "比亚迪Ti 7 PHEV跨界车变得更大，长轴距装饰在中国被发现",
+      "title_bilingual": "比亚迪Ti 7 PHEV跨界车变得更大，长轴距装饰在中国被发现 / BYD Ti 7 PHEV crossover gets bigger, long wheelbase trim spotted in China",
+      "topic_tags": [
+        "新能源",
         "车企竞争"
       ]
     },
@@ -875,30 +1221,49 @@
       "last_seen_at": "2026-10-16T01:06:46.145620Z",
       "title_original": "BYD Ti7 PHEV crossover gets bigger, long wheelbase trim spotted in China",
       "title_en": "BYD Ti7 PHEV crossover gets bigger, long wheelbase trim spotted in China",
-      "title_zh": null,
-      "title_bilingual": "BYD Ti7 PHEV crossover gets bigger, long wheelbase trim spotted in China",
+      "title_zh": "比亚迪 Ti7 PHEV 跨界车变得更大，长轴距装饰在中国被发现",
+      "title_bilingual": "比亚迪 Ti7 PHEV 跨界车变得更大，长轴距装饰在中国被发现 / BYD Ti7 PHEV crossover gets bigger, long wheelbase trim spotted in China",
       "topic_tags": [
         "新能源",
         "车企竞争"
       ]
     },
     {
-      "id": "8c2e226d780041abdef6f8cb76e039975f177215",
+      "id": "c4e5071352df074cb2fc4646f6c754f3475109d8",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "BYD Ti 7 PHEV crossover gets bigger, long wheelbase trim spotted in China",
-      "url": "https://carnewschina.com/2026/10/15/byd-ti7-phev-crossover-gets-bigger-long-wheelbase-trim-spotted-in-china",
-      "published_at": "2026-10-15T18:46:46Z",
-      "first_seen_at": "2026-10-16T06:06:51.820066Z",
-      "last_seen_at": "2026-10-16T06:06:51.820066Z",
-      "title_original": "BYD Ti 7 PHEV crossover gets bigger, long wheelbase trim spotted in China",
-      "title_en": "BYD Ti 7 PHEV crossover gets bigger, long wheelbase trim spotted in China",
-      "title_zh": null,
-      "title_bilingual": "BYD Ti 7 PHEV crossover gets bigger, long wheelbase trim spotted in China",
+      "source": "盖世汽车-车企",
+      "title": "吉利控股前三季度销量超300万辆，新能源渗透率近六成",
+      "url": "https://auto.gasgoo.com/news/202610/15I70474938C110.shtml",
+      "published_at": "2026-10-15T16:56:13Z",
+      "first_seen_at": "2026-10-16T11:44:35.592040Z",
+      "last_seen_at": "2026-10-16T11:44:35.592040Z",
+      "title_original": "吉利控股前三季度销量超300万辆，新能源渗透率近六成",
+      "title_en": null,
+      "title_zh": "吉利控股前三季度销量超300万辆，新能源渗透率近六成",
+      "title_bilingual": "吉利控股前三季度销量超300万辆，新能源渗透率近六成",
       "topic_tags": [
         "新能源",
+        "销量市场",
         "车企竞争"
+      ]
+    },
+    {
+      "id": "4d12168bded267b4dfb1b5f3456ef96d5778c853",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-供应链",
+      "title": "伯特利蜻蜓湖研发中心正式启用",
+      "url": "https://auto.gasgoo.com/news/202610/15I70474922C103.shtml",
+      "published_at": "2026-10-15T15:36:43Z",
+      "first_seen_at": "2026-10-16T11:44:35.592040Z",
+      "last_seen_at": "2026-10-16T11:44:35.592040Z",
+      "title_original": "伯特利蜻蜓湖研发中心正式启用",
+      "title_en": null,
+      "title_zh": "伯特利蜻蜓湖研发中心正式启用",
+      "title_bilingual": "伯特利蜻蜓湖研发中心正式启用",
+      "topic_tags": [
+        "供应链"
       ]
     },
     {
@@ -910,11 +1275,11 @@
       "url": "https://cnevpost.com/2026/10/15/china-joint-probe-maextro-v800-brake-pedal-bracket-failures",
       "published_at": "2026-10-15T14:11:35Z",
       "first_seen_at": "2026-10-15T16:17:13.551130Z",
-      "last_seen_at": "2026-10-16T06:06:51.820066Z",
+      "last_seen_at": "2026-10-16T11:44:35.592040Z",
       "title_original": "China launches joint probe into Maextro V800 brake pedal bracket failures",
       "title_en": "China launches joint probe into Maextro V800 brake pedal bracket failures",
-      "title_zh": null,
-      "title_bilingual": "China launches joint probe into Maextro V800 brake pedal bracket failures",
+      "title_zh": "中国对Maextro V800制动踏板支架故障展开联合调查",
+      "title_bilingual": "中国对Maextro V800制动踏板支架故障展开联合调查 / China launches joint probe into Maextro V800 brake pedal bracket failures",
       "topic_tags": [
         "新能源"
       ]
@@ -928,13 +1293,14 @@
       "url": "https://cnevpost.com/2026/10/15/chery-icar-uk-v27-launch-2027",
       "published_at": "2026-10-15T13:35:26Z",
       "first_seen_at": "2026-10-15T16:17:13.551130Z",
-      "last_seen_at": "2026-10-16T06:06:51.820066Z",
+      "last_seen_at": "2026-10-16T11:44:35.592040Z",
       "title_original": "Chery to bring iCar brand to UK with V27 launch in early 2027",
       "title_en": "Chery to bring iCar brand to UK with V27 launch in early 2027",
-      "title_zh": null,
-      "title_bilingual": "Chery to bring iCar brand to UK with V27 launch in early 2027",
+      "title_zh": "奇瑞将于 2027 年初推出 V27，将 iCar 品牌引入英国",
+      "title_bilingual": "奇瑞将于 2027 年初推出 V27，将 iCar 品牌引入英国 / Chery to bring iCar brand to UK with V27 launch in early 2027",
       "topic_tags": [
-        "新能源"
+        "新能源",
+        "车企竞争"
       ]
     },
     {
@@ -946,11 +1312,11 @@
       "url": "https://carnewschina.com/2026/10/15/xpeng-opens-pre-sales-for-mona-l05-ev-and-erev-suv-in-china-starting-from-25300-usd",
       "published_at": "2026-10-15T13:05:51Z",
       "first_seen_at": "2026-10-15T16:17:13.551130Z",
-      "last_seen_at": "2026-10-16T06:06:51.820066Z",
+      "last_seen_at": "2026-10-16T11:44:35.592040Z",
       "title_original": "Xpeng opens pre-sales for Mona L05 EV and EREV SUV in China, starting from 25,300 USD",
       "title_en": "Xpeng opens pre-sales for Mona L05 EV and EREV SUV in China, starting from 25,300 USD",
-      "title_zh": null,
-      "title_bilingual": "Xpeng opens pre-sales for Mona L05 EV and EREV SUV in China, starting from 25,300 USD",
+      "title_zh": "小鹏汽车 Mona L05 EV 和 EREV SUV 在中国开启预售，起价 25,300 美元",
+      "title_bilingual": "小鹏汽车 Mona L05 EV 和 EREV SUV 在中国开启预售，起价 25,300 美元 / Xpeng opens pre-sales for Mona L05 EV and EREV SUV in China, starting from 25,300 USD",
       "topic_tags": [
         "新能源",
         "车企竞争",
@@ -966,14 +1332,16 @@
       "url": "https://cnevpost.com/2026/10/15/xpeng-opens-mona-l05-pre-sales",
       "published_at": "2026-10-15T12:54:28Z",
       "first_seen_at": "2026-10-15T16:17:13.551130Z",
-      "last_seen_at": "2026-10-16T06:06:51.820066Z",
+      "last_seen_at": "2026-10-16T11:44:35.592040Z",
       "title_original": "Xpeng opens Mona L05 pre-sales to bolster Q4 sales push",
       "title_en": "Xpeng opens Mona L05 pre-sales to bolster Q4 sales push",
-      "title_zh": null,
-      "title_bilingual": "Xpeng opens Mona L05 pre-sales to bolster Q4 sales push",
+      "title_zh": "小鹏汽车Mona L05开启预售，助力第四季度销量",
+      "title_bilingual": "小鹏汽车Mona L05开启预售，助力第四季度销量 / Xpeng opens Mona L05 pre-sales to bolster Q4 sales push",
       "topic_tags": [
         "新能源",
-        "车企竞争"
+        "销量市场",
+        "车企竞争",
+        "新车上市"
       ]
     },
     {
@@ -985,7 +1353,7 @@
       "url": "https://auto.gasgoo.com/news/202610/15I70474878C108.shtml",
       "published_at": "2026-10-15T12:02:47Z",
       "first_seen_at": "2026-10-16T06:06:51.820066Z",
-      "last_seen_at": "2026-10-16T06:06:51.820066Z",
+      "last_seen_at": "2026-10-16T11:44:35.592040Z",
       "title_original": "【国际快讯】英国拒绝欧盟施压，暂不对中国电动车加征关税；小鹏希望到2030年在欧洲销量超过福特和欧宝",
       "title_en": null,
       "title_zh": "【国际快讯】英国拒绝欧盟施压，暂不对中国电动车加征关税；小鹏希望到2030年在欧洲销量超过福特和欧宝",
@@ -994,156 +1362,6 @@
         "新能源",
         "销量市场",
         "车企竞争"
-      ]
-    },
-    {
-      "id": "e356a31b4467227dbaf8d5c4c94143f568e9d895",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-供应链",
-      "title": "天赐材料印尼电解液项目建设提速，预计2026年12月进入试生产",
-      "url": "https://auto.gasgoo.com/news/202610/15I70474873C501.shtml",
-      "published_at": "2026-10-15T11:14:40Z",
-      "first_seen_at": "2026-10-16T06:06:51.820066Z",
-      "last_seen_at": "2026-10-16T06:06:51.820066Z",
-      "title_original": "天赐材料印尼电解液项目建设提速，预计2026年12月进入试生产",
-      "title_en": null,
-      "title_zh": "天赐材料印尼电解液项目建设提速，预计2026年12月进入试生产",
-      "title_bilingual": "天赐材料印尼电解液项目建设提速，预计2026年12月进入试生产",
-      "topic_tags": [
-        "供应链"
-      ]
-    },
-    {
-      "id": "061304a391b40fe6a75e3409a323c675326cd327",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-智能网联",
-      "title": "FFR与FFAI签署最终协议，以约2亿美元估值合并FFAI机器人业务",
-      "url": "https://auto.gasgoo.com/news/202610/15I70474860C601.shtml",
-      "published_at": "2026-10-15T09:40:08Z",
-      "first_seen_at": "2026-10-16T06:06:51.820066Z",
-      "last_seen_at": "2026-10-16T06:06:51.820066Z",
-      "title_original": "FFR与FFAI签署最终协议，以约2亿美元估值合并FFAI机器人业务",
-      "title_en": null,
-      "title_zh": "FFR与FFAI签署最终协议，以约2亿美元估值合并FFAI机器人业务",
-      "title_bilingual": "FFR与FFAI签署最终协议，以约2亿美元估值合并FFAI机器人业务",
-      "topic_tags": []
-    },
-    {
-      "id": "5a5104bdbb6d700b0d5c374a255c478539e5ddec",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-供应链",
-      "title": "欧摩威获奇瑞ACU定点，“欧洲生产、就近交付”",
-      "url": "https://auto.gasgoo.com/news/202610/15I70474858C103.shtml",
-      "published_at": "2026-10-15T09:34:43Z",
-      "first_seen_at": "2026-10-16T06:06:51.820066Z",
-      "last_seen_at": "2026-10-16T06:06:51.820066Z",
-      "title_original": "欧摩威获奇瑞ACU定点，“欧洲生产、就近交付”",
-      "title_en": null,
-      "title_zh": "欧摩威获奇瑞ACU定点，“欧洲生产、就近交付”",
-      "title_bilingual": "欧摩威获奇瑞ACU定点，“欧洲生产、就近交付”",
-      "topic_tags": [
-        "销量市场",
-        "车企竞争",
-        "供应链"
-      ]
-    },
-    {
-      "id": "7734a9018d10dd0860eb189f54036f7e1609aaed",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "BMW starts Gen 6 battery production in China as Neue Klasse i3 covers 1,213 km without recharging in test",
-      "url": "https://cnevpost.com/2026/10/15/bmw-starts-gen-6-battery-production-china",
-      "published_at": "2026-10-15T09:02:14Z",
-      "first_seen_at": "2026-10-15T11:53:39.667611Z",
-      "last_seen_at": "2026-10-16T06:06:51.820066Z",
-      "title_original": "BMW starts Gen 6 battery production in China as Neue Klasse i3 covers 1,213 km without recharging in test",
-      "title_en": "BMW starts Gen 6 battery production in China as Neue Klasse i3 covers 1,213 km without recharging in test",
-      "title_zh": null,
-      "title_bilingual": "BMW starts Gen 6 battery production in China as Neue Klasse i3 covers 1,213 km without recharging in test",
-      "topic_tags": [
-        "新能源",
-        "补能电池"
-      ]
-    },
-    {
-      "id": "ffe5be06d91ec4cfc5714d631a0f66a3da1684b1",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-供应链",
-      "title": "航宇智造北京新基地开工，拟投资10亿元布局新能源汽车与空天制造",
-      "url": "https://auto.gasgoo.com/news/202610/15I70474819C108.shtml",
-      "published_at": "2026-10-15T07:59:04Z",
-      "first_seen_at": "2026-10-16T01:06:46.145620Z",
-      "last_seen_at": "2026-10-16T06:06:51.820066Z",
-      "title_original": "航宇智造北京新基地开工，拟投资10亿元布局新能源汽车与空天制造",
-      "title_en": null,
-      "title_zh": "航宇智造北京新基地开工，拟投资10亿元布局新能源汽车与空天制造",
-      "title_bilingual": "航宇智造北京新基地开工，拟投资10亿元布局新能源汽车与空天制造",
-      "topic_tags": [
-        "新能源",
-        "供应链"
-      ]
-    },
-    {
-      "id": "b68786222749d249516ba80cc0a98d8a05a3f8ab",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-智能网联",
-      "title": "黑芝麻智能签下3亿元AI服务器合同，拓展汽车芯片以外市场",
-      "url": "https://auto.gasgoo.com/news/202610/14I70474817C601.shtml",
-      "published_at": "2026-10-15T07:55:07Z",
-      "first_seen_at": "2026-10-16T01:06:46.145620Z",
-      "last_seen_at": "2026-10-16T06:06:51.820066Z",
-      "title_original": "黑芝麻智能签下3亿元AI服务器合同，拓展汽车芯片以外市场",
-      "title_en": null,
-      "title_zh": "黑芝麻智能签下3亿元AI服务器合同，拓展汽车芯片以外市场",
-      "title_bilingual": "黑芝麻智能签下3亿元AI服务器合同，拓展汽车芯片以外市场",
-      "topic_tags": [
-        "销量市场",
-        "供应链"
-      ]
-    },
-    {
-      "id": "1a98bd84b0bee200816790ecd5bc53cf8b26fa3a",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-Battery",
-      "title": "Top EV battery makers' market share in China in September 2026: CATL 40.92%, BYD 21.09%",
-      "url": "https://cnevpost.com/2026/10/15/top-ev-battery-makers-share-china-sept-2026",
-      "published_at": "2026-10-15T07:27:47Z",
-      "first_seen_at": "2026-10-15T11:53:39.667611Z",
-      "last_seen_at": "2026-10-16T06:06:51.820066Z",
-      "title_original": "Top EV battery makers' market share in China in September 2026: CATL 40.92%, BYD 21.09%",
-      "title_en": "Top EV battery makers' market share in China in September 2026: CATL 40.92%, BYD 21.09%",
-      "title_zh": null,
-      "title_bilingual": "Top EV battery makers' market share in China in September 2026: CATL 40.92%, BYD 21.09%",
-      "topic_tags": [
-        "新能源",
-        "补能电池",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "f8f4500ff60f036154ec37c5c70f325b63b612f9",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "China EV battery installations reach 87.2 GWh in September, setting fresh high for year",
-      "url": "https://cnevpost.com/2026/10/15/china-ev-battery-installations-sept-2026",
-      "published_at": "2026-10-15T07:03:23Z",
-      "first_seen_at": "2026-10-15T11:53:39.667611Z",
-      "last_seen_at": "2026-10-16T06:06:51.820066Z",
-      "title_original": "China EV battery installations reach 87.2 GWh in September, setting fresh high for year",
-      "title_en": "China EV battery installations reach 87.2 GWh in September, setting fresh high for year",
-      "title_zh": null,
-      "title_bilingual": "China EV battery installations reach 87.2 GWh in September, setting fresh high for year",
-      "topic_tags": [
-        "新能源",
-        "补能电池"
       ]
     }
   ],
