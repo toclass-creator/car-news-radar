@@ -1,15 +1,21 @@
 {
-  "generated_at": "2026-10-19T14:50:21.935569Z",
+  "generated_at": "2026-10-19T20:20:46.996862Z",
   "window_hours": 24,
-  "total_items": 19,
-  "total_items_ai_raw": 20,
-  "total_items_raw": 2461,
-  "total_items_all_mode": 2261,
+  "total_items": 31,
+  "total_items_ai_raw": 32,
+  "total_items_raw": 2378,
+  "total_items_all_mode": 2154,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 51491,
+  "archive_total": 51443,
   "site_count": 3,
-  "source_count": 6,
+  "source_count": 5,
   "site_stats": [
+    {
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "count": 21,
+      "raw_count": 2242
+    },
     {
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -17,33 +23,35 @@
       "raw_count": 11
     },
     {
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "count": 9,
-      "raw_count": 2332
-    },
-    {
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "count": 0,
-      "raw_count": 118
+      "raw_count": 125
     }
   ],
   "topic_tag_stats": [
     {
       "tag": "车企竞争",
-      "count": 13
+      "count": 21
     },
     {
       "tag": "新能源",
-      "count": 11
+      "count": 12
     },
     {
       "tag": "购车决策",
-      "count": 4
+      "count": 11
+    },
+    {
+      "tag": "供应链",
+      "count": 3
     },
     {
       "tag": "新车上市",
+      "count": 3
+    },
+    {
+      "tag": "智能驾驶",
       "count": 3
     },
     {
@@ -55,11 +63,333 @@
       "count": 3
     },
     {
-      "tag": "智能驾驶",
-      "count": 2
+      "tag": "价格战",
+      "count": 1
     }
   ],
   "items": [
+    {
+      "id": "d9d354874ffecd54c484faa94c64888e11315fec",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "高速也稳得很 零跑D99提车作业分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/9eeb15858edb3558/116390278-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-10-19T20:20:46.996862Z",
+      "last_seen_at": "2026-10-19T20:20:46.996862Z",
+      "title_original": "高速也稳得很 零跑D99提车作业分享",
+      "title_en": null,
+      "title_zh": "高速也稳得很 零跑D99提车作业分享",
+      "title_bilingual": "高速也稳得很 零跑D99提车作业分享",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "363a478ae9c2f2d7d3c4fff6fb4fcc10cb25780a",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "底盘很运动 小鹏MONA M03提车分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/04db58af25d878ae/116396109-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-10-19T20:20:46.996862Z",
+      "last_seen_at": "2026-10-19T20:20:46.996862Z",
+      "title_original": "底盘很运动 小鹏MONA M03提车分享",
+      "title_en": null,
+      "title_zh": "底盘很运动 小鹏MONA M03提车分享",
+      "title_bilingual": "底盘很运动 小鹏MONA M03提车分享",
+      "topic_tags": [
+        "车企竞争",
+        "供应链",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "d2160ff0084ad7ba9892eebced92243aba17c18c",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "优缺点明显 比亚迪汉提车作业",
+      "url": "https://club.autohome.com.cn/bbs/thread/fe062d274dd70fd9/116372925-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-10-19T20:20:46.996862Z",
+      "last_seen_at": "2026-10-19T20:20:46.996862Z",
+      "title_original": "优缺点明显 比亚迪汉提车作业",
+      "title_en": null,
+      "title_zh": "优缺点明显 比亚迪汉提车作业",
+      "title_bilingual": "优缺点明显 比亚迪汉提车作业",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "a47491c5e9200b55936021d268308a7ab4965086",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "推背感是真顶 蔚来ES8提车作业分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/a8852cadac19e72f/116410864-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-10-19T20:20:46.996862Z",
+      "last_seen_at": "2026-10-19T20:20:46.996862Z",
+      "title_original": "推背感是真顶 蔚来ES8提车作业分享",
+      "title_en": null,
+      "title_zh": "推背感是真顶 蔚来ES8提车作业分享",
+      "title_bilingual": "推背感是真顶 蔚来ES8提车作业分享",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "4e3a1001424829556c975dd8c7bf278e667cddf7",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "底盘调校得很好 腾势D9提车作文分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/d124a2b89e919b01/116407214-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-10-19T20:20:46.996862Z",
+      "last_seen_at": "2026-10-19T20:20:46.996862Z",
+      "title_original": "底盘调校得很好 腾势D9提车作文分享",
+      "title_en": null,
+      "title_zh": "底盘调校得很好 腾势D9提车作文分享",
+      "title_bilingual": "底盘调校得很好 腾势D9提车作文分享",
+      "topic_tags": [
+        "供应链",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "857115758694151900b2199bc95ea057e9d78635",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "动力很强劲 极氪7X提车作业分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/9da74ca0bd730681/116402596-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-10-19T20:20:46.996862Z",
+      "last_seen_at": "2026-10-19T20:20:46.996862Z",
+      "title_original": "动力很强劲 极氪7X提车作业分享",
+      "title_en": null,
+      "title_zh": "动力很强劲 极氪7X提车作业分享",
+      "title_bilingual": "动力很强劲 极氪7X提车作业分享",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "fdb88ae0bd12699310d15c530e8ef93e36052060",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "性价比很高 长安启源Q06提车分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/5a7c5fbdfddc155f/116401707-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-10-19T20:20:46.996862Z",
+      "last_seen_at": "2026-10-19T20:20:46.996862Z",
+      "title_original": "性价比很高 长安启源Q06提车分享",
+      "title_en": null,
+      "title_zh": "性价比很高 长安启源Q06提车分享",
+      "title_bilingual": "性价比很高 长安启源Q06提车分享",
+      "topic_tags": [
+        "价格战",
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "49bcb1d04a9160ba8a723cc0eecc3254f2ccfde1",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "底盘调教偏舒适 奔驰E级提车分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/9006026ba5436fb9/116400154-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-10-19T20:20:46.996862Z",
+      "last_seen_at": "2026-10-19T20:20:46.996862Z",
+      "title_original": "底盘调教偏舒适 奔驰E级提车分享",
+      "title_en": null,
+      "title_zh": "底盘调教偏舒适 奔驰E级提车分享",
+      "title_bilingual": "底盘调教偏舒适 奔驰E级提车分享",
+      "topic_tags": [
+        "车企竞争",
+        "供应链",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "176565713fb23b12d55769f4bf23685a50391014",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "续航达成率不错 方程S提车作业分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/7ff7c15b763aa7b1/116395675-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-10-19T20:20:46.996862Z",
+      "last_seen_at": "2026-10-19T20:20:46.996862Z",
+      "title_original": "续航达成率不错 方程S提车作业分享",
+      "title_en": null,
+      "title_zh": "续航达成率不错 方程S提车作业分享",
+      "title_bilingual": "续航达成率不错 方程S提车作业分享",
+      "topic_tags": [
+        "补能电池",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "ff30884ff033a634948528d78c660101002cd46a",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "多方比较 理想i6提车分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/b8d47f47b22ed229/116390011-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-10-19T20:20:46.996862Z",
+      "last_seen_at": "2026-10-19T20:20:46.996862Z",
+      "title_original": "多方比较 理想i6提车分享",
+      "title_en": null,
+      "title_zh": "多方比较 理想i6提车分享",
+      "title_bilingual": "多方比较 理想i6提车分享",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "fb73d1dd490617beb84286d73f91559878e08e64",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "空间也很够用 极氪001提车分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/d824cf43a999192b/116374363-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-10-19T20:20:46.996862Z",
+      "last_seen_at": "2026-10-19T20:20:46.996862Z",
+      "title_original": "空间也很够用 极氪001提车分享",
+      "title_en": null,
+      "title_zh": "空间也很够用 极氪001提车分享",
+      "title_bilingual": "空间也很够用 极氪001提车分享",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "d599c8c011078d82a8fae378e63bf25b4be79991",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "假期出门开油车还是开电车？",
+      "url": "http://vc.yiche.com/vplay/13675335.html",
+      "published_at": null,
+      "first_seen_at": "2026-10-19T20:20:46.996862Z",
+      "last_seen_at": "2026-10-19T20:20:46.996862Z",
+      "title_original": "假期出门开油车还是开电车？",
+      "title_en": null,
+      "title_zh": "假期出门开油车还是开电车？",
+      "title_bilingual": "假期出门开油车还是开电车？",
+      "topic_tags": [
+        "新能源"
+      ]
+    },
+    {
+      "id": "76efada438fb7d0620d50e3d54d5c43c4ae46f40",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "更运动也更智能，激光雷达+后驱的2027款阿尔法S5详解",
+      "url": "http://vc.yiche.com/vplay/13741702.html",
+      "published_at": null,
+      "first_seen_at": "2026-10-19T20:20:46.996862Z",
+      "last_seen_at": "2026-10-19T20:20:46.996862Z",
+      "title_original": "更运动也更智能，激光雷达+后驱的2027款阿尔法S5详解",
+      "title_en": null,
+      "title_zh": "更运动也更智能，激光雷达+后驱的2027款阿尔法S5详解",
+      "title_bilingual": "更运动也更智能，激光雷达+后驱的2027款阿尔法S5详解",
+      "topic_tags": [
+        "智能驾驶"
+      ]
+    },
+    {
+      "id": "92923b2e31362a0bf2d791d6d90f5e0c7db23bc5",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "尺寸大一圈+双拼色车身+带激光雷达，后排有老板座，星越L PLUS卖多少钱你会考虑？",
+      "url": "http://vc.yiche.com/vplay/13717370.html",
+      "published_at": null,
+      "first_seen_at": "2026-10-19T20:20:46.996862Z",
+      "last_seen_at": "2026-10-19T20:20:46.996862Z",
+      "title_original": "尺寸大一圈+双拼色车身+带激光雷达，后排有老板座，星越L PLUS卖多少钱你会考虑？",
+      "title_en": null,
+      "title_zh": "尺寸大一圈+双拼色车身+带激光雷达，后排有老板座，星越L PLUS卖多少钱你会考虑？",
+      "title_bilingual": "尺寸大一圈+双拼色车身+带激光雷达，后排有老板座，星越L PLUS卖多少钱你会考虑？",
+      "topic_tags": [
+        "智能驾驶"
+      ]
+    },
+    {
+      "id": "9792ec990fca29f2f5e09053dcd217f3c357fdaf",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "智能座舱与辅助驾驶全配齐 新款极狐阿尔法S5/T5双车解析",
+      "url": "http://vc.yiche.com/vplay/13700822.html",
+      "published_at": null,
+      "first_seen_at": "2026-10-19T20:20:46.996862Z",
+      "last_seen_at": "2026-10-19T20:20:46.996862Z",
+      "title_original": "智能座舱与辅助驾驶全配齐 新款极狐阿尔法S5/T5双车解析",
+      "title_en": null,
+      "title_zh": "智能座舱与辅助驾驶全配齐 新款极狐阿尔法S5/T5双车解析",
+      "title_bilingual": "智能座舱与辅助驾驶全配齐 新款极狐阿尔法S5/T5双车解析",
+      "topic_tags": [
+        "智能驾驶"
+      ]
+    },
+    {
+      "id": "2e619efa86cbec8a779223da89553317398855c4",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "2027款吉利博越别乱买！三款版型保姆级选购指南",
+      "url": "http://vc.yiche.com/vplay/13699275.html",
+      "published_at": null,
+      "first_seen_at": "2026-10-19T20:20:46.996862Z",
+      "last_seen_at": "2026-10-19T20:20:46.996862Z",
+      "title_original": "2027款吉利博越别乱买！三款版型保姆级选购指南",
+      "title_en": null,
+      "title_zh": "2027款吉利博越别乱买！三款版型保姆级选购指南",
+      "title_bilingual": "2027款吉利博越别乱买！三款版型保姆级选购指南",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "e0f2b8033fd829a0b8010fbf98cfa597767b19b7",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Xiaomi SU9 LUX name hints at new flagship sedan",
+      "url": "https://carnewschina.com/2026/10/19/xiaomi-su9-lux-name-hints-at-new-flagship-sedan",
+      "published_at": "2026-10-19T16:26:40Z",
+      "first_seen_at": "2026-10-19T20:20:46.996862Z",
+      "last_seen_at": "2026-10-19T20:20:46.996862Z",
+      "title_original": "Xiaomi SU9 LUX name hints at new flagship sedan",
+      "title_en": "Xiaomi SU9 LUX name hints at new flagship sedan",
+      "title_zh": "小米SU9 LUX名称暗示新旗舰轿车",
+      "title_bilingual": "小米SU9 LUX名称暗示新旗舰轿车 / Xiaomi SU9 LUX name hints at new flagship sedan",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
     {
       "id": "1bb4bad511049b4dc2e118d08ace12ff0f422ebf",
       "site_id": "tophub",
@@ -69,7 +399,7 @@
       "url": "https://www.dongchedi.com/article/7697227301041914393",
       "published_at": null,
       "first_seen_at": "2026-10-19T14:50:21.935569Z",
-      "last_seen_at": "2026-10-19T14:50:21.935569Z",
+      "last_seen_at": "2026-10-19T20:20:46.996862Z",
       "title_original": "朱华荣谋局 赵非掌舵 叶沛冲锋 长安管理层换防",
       "title_en": null,
       "title_zh": "朱华荣谋局 赵非掌舵 叶沛冲锋 长安管理层换防",
@@ -87,7 +417,7 @@
       "url": "https://www.dongchedi.com/article/7696139036839477785",
       "published_at": null,
       "first_seen_at": "2026-10-19T14:50:21.935569Z",
-      "last_seen_at": "2026-10-19T14:50:21.935569Z",
+      "last_seen_at": "2026-10-19T20:20:46.996862Z",
       "title_original": "从加关税到出口减半，欧洲到底能不能松口气？",
       "title_en": null,
       "title_zh": "从加关税到出口减半，欧洲到底能不能松口气？",
@@ -105,7 +435,7 @@
       "url": "https://www.dongchedi.com/article/7696431722858643993",
       "published_at": null,
       "first_seen_at": "2026-10-19T14:50:21.935569Z",
-      "last_seen_at": "2026-10-19T14:50:21.935569Z",
+      "last_seen_at": "2026-10-19T20:20:46.996862Z",
       "title_original": "中欧贸易投资磋商汽车领域落地 行业协会与车企集体表态",
       "title_en": null,
       "title_zh": "中欧贸易投资磋商汽车领域落地 行业协会与车企集体表态",
@@ -123,7 +453,7 @@
       "url": "https://cnevpost.com/2026/10/19/china-warns-uk-against-ev-restrictions",
       "published_at": "2026-10-19T14:47:29Z",
       "first_seen_at": "2026-10-19T14:50:21.935569Z",
-      "last_seen_at": "2026-10-19T14:50:21.935569Z",
+      "last_seen_at": "2026-10-19T20:20:46.996862Z",
       "title_original": "China warns UK against following EU on EV restrictions, vows retaliation",
       "title_en": "China warns UK against following EU on EV restrictions, vows retaliation",
       "title_zh": "中国警告英国不要效仿欧盟的电动汽车限制，并发誓要进行报复",
@@ -141,7 +471,7 @@
       "url": "https://cnevpost.com/2026/10/19/huawei-newcool-joins-catl-choco-swap-ecosystem",
       "published_at": "2026-10-19T14:15:46Z",
       "first_seen_at": "2026-10-19T14:50:21.935569Z",
-      "last_seen_at": "2026-10-19T14:50:21.935569Z",
+      "last_seen_at": "2026-10-19T20:20:46.996862Z",
       "title_original": "Huawei's smart car unit partners with CATL, joins Choco battery swap ecosystem",
       "title_en": "Huawei's smart car unit partners with CATL, joins Choco battery swap ecosystem",
       "title_zh": "华为智能汽车部门与宁德时代合作，加入Choco换电生态",
@@ -160,7 +490,7 @@
       "url": "https://cnevpost.com/2026/10/19/nio-expands-firefly-business-thailand",
       "published_at": "2026-10-19T13:34:42Z",
       "first_seen_at": "2026-10-19T14:50:21.935569Z",
-      "last_seen_at": "2026-10-19T14:50:21.935569Z",
+      "last_seen_at": "2026-10-19T20:20:46.996862Z",
       "title_original": "Nio expands Firefly business in Thailand with standalone store and updated EV",
       "title_en": "Nio expands Firefly business in Thailand with standalone store and updated EV",
       "title_zh": "蔚来通过独立商店和更新的电动汽车扩大在泰国的 Firefly 业务",
@@ -179,7 +509,7 @@
       "url": "https://carnewschina.com/2026/10/19/nios-firefly-upgrades-lineup-with-new-60kwh-battery-model-launching-october-23-report-says",
       "published_at": "2026-10-19T13:19:38Z",
       "first_seen_at": "2026-10-19T14:50:21.935569Z",
-      "last_seen_at": "2026-10-19T14:50:21.935569Z",
+      "last_seen_at": "2026-10-19T20:20:46.996862Z",
       "title_original": "Nio’s Firefly upgrades lineup with new 60kWh battery model launching October 23, report says",
       "title_en": "Nio’s Firefly upgrades lineup with new 60kWh battery model launching October 23, report says",
       "title_zh": "报告称，蔚来 Firefly 升级产品线，推出 10 月 23 日推出的新型 60kWh 电池型号",
@@ -199,7 +529,7 @@
       "url": "https://cnevpost.com/2026/10/19/nio-160000th-3rd-gen-es8-this-week",
       "published_at": "2026-10-19T12:14:25Z",
       "first_seen_at": "2026-10-19T14:50:21.935569Z",
-      "last_seen_at": "2026-10-19T14:50:21.935569Z",
+      "last_seen_at": "2026-10-19T20:20:46.996862Z",
       "title_original": "Nio's third-gen ES8 nears 160,000 deliveries about a month after last milestone",
       "title_en": "Nio's third-gen ES8 nears 160,000 deliveries about a month after last milestone",
       "title_zh": "距离上一个里程碑大约一个月后，蔚来第三代 ES8 交付量接近 16 万辆",
@@ -219,7 +549,7 @@
       "url": "https://cnevpost.com/2026/10/19/geely-signs-100th-uk-retail-outlet",
       "published_at": "2026-10-19T08:58:49Z",
       "first_seen_at": "2026-10-19T14:50:21.935569Z",
-      "last_seen_at": "2026-10-19T14:50:21.935569Z",
+      "last_seen_at": "2026-10-19T20:20:46.996862Z",
       "title_original": "Geely signs 100th UK retail outlet less than 1 year after market entry",
       "title_en": "Geely signs 100th UK retail outlet less than 1 year after market entry",
       "title_zh": "进入市场不到一年，吉利在英国开设第 100 家零售店",
@@ -239,7 +569,7 @@
       "url": "https://cnevpost.com/2026/10/19/chery-icar-opens-v25-pre-sales",
       "published_at": "2026-10-19T07:53:10Z",
       "first_seen_at": "2026-10-19T14:50:21.935569Z",
-      "last_seen_at": "2026-10-19T14:50:21.935569Z",
+      "last_seen_at": "2026-10-19T20:20:46.996862Z",
       "title_original": "iCar opens V25 pre-sales as Chery expands extended-range SUV lineup",
       "title_en": "iCar opens V25 pre-sales as Chery expands extended-range SUV lineup",
       "title_zh": "奇瑞扩大增程式SUV阵容，iCar V25开启预售",
@@ -259,7 +589,7 @@
       "url": "https://cnevpost.com/2026/10/19/xiaomi-su9-lux-name-emerges",
       "published_at": "2026-10-19T03:49:21Z",
       "first_seen_at": "2026-10-19T07:17:28.444085Z",
-      "last_seen_at": "2026-10-19T14:50:21.935569Z",
+      "last_seen_at": "2026-10-19T20:20:46.996862Z",
       "title_original": "Xiaomi SU9 Lux name emerges, hinting at luxury executive flagship",
       "title_en": "Xiaomi SU9 Lux name emerges, hinting at luxury executive flagship",
       "title_zh": "小米SU9 Lux名字出现，暗示豪华行政旗舰",
@@ -278,7 +608,7 @@
       "url": "https://cnevpost.com/2026/10/19/li-auto-power-day-oct-20",
       "published_at": "2026-10-19T03:10:29Z",
       "first_seen_at": "2026-10-19T07:17:28.444085Z",
-      "last_seen_at": "2026-10-19T14:50:21.935569Z",
+      "last_seen_at": "2026-10-19T20:20:46.996862Z",
       "title_original": "Li Auto to hold Power Day on October 20 to share latest EV tech advances",
       "title_en": "Li Auto to hold Power Day on October 20 to share latest EV tech advances",
       "title_zh": "理想汽车将于10月20日举办Power Day分享最新电动汽车技术进展",
@@ -323,108 +653,333 @@
       "title_bilingual": "探店艾尼氪V 十万级纯电新选择",
       "topic_tags": [
         "新能源"
-      ]
-    },
-    {
-      "id": "b830759f90a8e21958b423ced9581f9bf12cd8c3",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "不仅是双缸动力 RT450试驾全体验",
-      "url": "https://club.autohome.com.cn/bbs/thread/c65bf7eaa63bbcc1/116415341-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-10-18T18:45:36.923046Z",
-      "last_seen_at": "2026-10-19T14:50:21.935569Z",
-      "title_original": "不仅是双缸动力 RT450试驾全体验",
-      "title_en": null,
-      "title_zh": "不仅是双缸动力 RT450试驾全体验",
-      "title_bilingual": "不仅是双缸动力 RT450试驾全体验",
-      "topic_tags": [
-        "购车决策"
-      ]
-    },
-    {
-      "id": "a9640bb02c40680cb1b35b4491bc885c11f2658f",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "空间也很够用 极氪001提车分享",
-      "url": "https://i.autohome.com.cn/11046219",
-      "published_at": null,
-      "first_seen_at": "2026-10-18T18:45:36.923046Z",
-      "last_seen_at": "2026-10-19T14:50:21.935569Z",
-      "title_original": "空间也很够用 极氪001提车分享",
-      "title_en": null,
-      "title_zh": "空间也很够用 极氪001提车分享",
-      "title_bilingual": "空间也很够用 极氪001提车分享",
-      "topic_tags": [
-        "车企竞争",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "5b17e046ac9480080feec5a483d1ce1f1adb0d80",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "智驾效果超预期 方程S提车作业分享",
-      "url": "https://club.autohome.com.cn/bbs/thread/b90bc33d6b78fe3c/116370579-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-10-18T18:45:36.923046Z",
-      "last_seen_at": "2026-10-19T14:50:21.935569Z",
-      "title_original": "智驾效果超预期 方程S提车作业分享",
-      "title_en": null,
-      "title_zh": "智驾效果超预期 方程S提车作业分享",
-      "title_bilingual": "智驾效果超预期 方程S提车作业分享",
-      "topic_tags": [
-        "智能驾驶",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "a57e6412158709e7642285a0e82b43174f1cfffe",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "智驾稳定好评 问界M8提车作业分享",
-      "url": "https://club.autohome.com.cn/bbs/thread/c9ffac47bbb8c93b/116254011-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-10-18T18:45:36.923046Z",
-      "last_seen_at": "2026-10-19T14:50:21.935569Z",
-      "title_original": "智驾稳定好评 问界M8提车作业分享",
-      "title_en": null,
-      "title_zh": "智驾稳定好评 问界M8提车作业分享",
-      "title_bilingual": "智驾稳定好评 问界M8提车作业分享",
-      "topic_tags": [
-        "智能驾驶",
-        "车企竞争",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "8d4c18188af5b06593f8b53fdff09f648cfffe0c",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新能源",
-      "title": "E周看点｜小鹏巴黎车展官宣“卖技术”；广汽自研电池第30万套下线",
-      "url": "https://auto.gasgoo.com/news/202610/18I70475227C501.shtml",
-      "published_at": "2026-10-18T17:31:54Z",
-      "first_seen_at": "2026-10-19T14:50:21.935569Z",
-      "last_seen_at": "2026-10-19T14:50:21.935569Z",
-      "title_original": "E周看点｜小鹏巴黎车展官宣“卖技术”；广汽自研电池第30万套下线",
-      "title_en": null,
-      "title_zh": "E周看点｜小鹏巴黎车展官宣“卖技术”；广汽自研电池第30万套下线",
-      "title_bilingual": "E周看点｜小鹏巴黎车展官宣“卖技术”；广汽自研电池第30万套下线",
-      "topic_tags": [
-        "新能源",
-        "补能电池",
-        "车企竞争",
-        "新车上市"
       ]
     }
   ],
   "items_ai": [
     {
+      "id": "d9d354874ffecd54c484faa94c64888e11315fec",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "高速也稳得很 零跑D99提车作业分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/9eeb15858edb3558/116390278-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-10-19T20:20:46.996862Z",
+      "last_seen_at": "2026-10-19T20:20:46.996862Z",
+      "title_original": "高速也稳得很 零跑D99提车作业分享",
+      "title_en": null,
+      "title_zh": "高速也稳得很 零跑D99提车作业分享",
+      "title_bilingual": "高速也稳得很 零跑D99提车作业分享",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "363a478ae9c2f2d7d3c4fff6fb4fcc10cb25780a",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "底盘很运动 小鹏MONA M03提车分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/04db58af25d878ae/116396109-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-10-19T20:20:46.996862Z",
+      "last_seen_at": "2026-10-19T20:20:46.996862Z",
+      "title_original": "底盘很运动 小鹏MONA M03提车分享",
+      "title_en": null,
+      "title_zh": "底盘很运动 小鹏MONA M03提车分享",
+      "title_bilingual": "底盘很运动 小鹏MONA M03提车分享",
+      "topic_tags": [
+        "车企竞争",
+        "供应链",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "d2160ff0084ad7ba9892eebced92243aba17c18c",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "优缺点明显 比亚迪汉提车作业",
+      "url": "https://club.autohome.com.cn/bbs/thread/fe062d274dd70fd9/116372925-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-10-19T20:20:46.996862Z",
+      "last_seen_at": "2026-10-19T20:20:46.996862Z",
+      "title_original": "优缺点明显 比亚迪汉提车作业",
+      "title_en": null,
+      "title_zh": "优缺点明显 比亚迪汉提车作业",
+      "title_bilingual": "优缺点明显 比亚迪汉提车作业",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "a47491c5e9200b55936021d268308a7ab4965086",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "推背感是真顶 蔚来ES8提车作业分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/a8852cadac19e72f/116410864-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-10-19T20:20:46.996862Z",
+      "last_seen_at": "2026-10-19T20:20:46.996862Z",
+      "title_original": "推背感是真顶 蔚来ES8提车作业分享",
+      "title_en": null,
+      "title_zh": "推背感是真顶 蔚来ES8提车作业分享",
+      "title_bilingual": "推背感是真顶 蔚来ES8提车作业分享",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "4e3a1001424829556c975dd8c7bf278e667cddf7",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "底盘调校得很好 腾势D9提车作文分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/d124a2b89e919b01/116407214-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-10-19T20:20:46.996862Z",
+      "last_seen_at": "2026-10-19T20:20:46.996862Z",
+      "title_original": "底盘调校得很好 腾势D9提车作文分享",
+      "title_en": null,
+      "title_zh": "底盘调校得很好 腾势D9提车作文分享",
+      "title_bilingual": "底盘调校得很好 腾势D9提车作文分享",
+      "topic_tags": [
+        "供应链",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "857115758694151900b2199bc95ea057e9d78635",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "动力很强劲 极氪7X提车作业分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/9da74ca0bd730681/116402596-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-10-19T20:20:46.996862Z",
+      "last_seen_at": "2026-10-19T20:20:46.996862Z",
+      "title_original": "动力很强劲 极氪7X提车作业分享",
+      "title_en": null,
+      "title_zh": "动力很强劲 极氪7X提车作业分享",
+      "title_bilingual": "动力很强劲 极氪7X提车作业分享",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "fdb88ae0bd12699310d15c530e8ef93e36052060",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "性价比很高 长安启源Q06提车分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/5a7c5fbdfddc155f/116401707-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-10-19T20:20:46.996862Z",
+      "last_seen_at": "2026-10-19T20:20:46.996862Z",
+      "title_original": "性价比很高 长安启源Q06提车分享",
+      "title_en": null,
+      "title_zh": "性价比很高 长安启源Q06提车分享",
+      "title_bilingual": "性价比很高 长安启源Q06提车分享",
+      "topic_tags": [
+        "价格战",
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "49bcb1d04a9160ba8a723cc0eecc3254f2ccfde1",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "底盘调教偏舒适 奔驰E级提车分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/9006026ba5436fb9/116400154-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-10-19T20:20:46.996862Z",
+      "last_seen_at": "2026-10-19T20:20:46.996862Z",
+      "title_original": "底盘调教偏舒适 奔驰E级提车分享",
+      "title_en": null,
+      "title_zh": "底盘调教偏舒适 奔驰E级提车分享",
+      "title_bilingual": "底盘调教偏舒适 奔驰E级提车分享",
+      "topic_tags": [
+        "车企竞争",
+        "供应链",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "176565713fb23b12d55769f4bf23685a50391014",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "续航达成率不错 方程S提车作业分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/7ff7c15b763aa7b1/116395675-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-10-19T20:20:46.996862Z",
+      "last_seen_at": "2026-10-19T20:20:46.996862Z",
+      "title_original": "续航达成率不错 方程S提车作业分享",
+      "title_en": null,
+      "title_zh": "续航达成率不错 方程S提车作业分享",
+      "title_bilingual": "续航达成率不错 方程S提车作业分享",
+      "topic_tags": [
+        "补能电池",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "ff30884ff033a634948528d78c660101002cd46a",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "多方比较 理想i6提车分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/b8d47f47b22ed229/116390011-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-10-19T20:20:46.996862Z",
+      "last_seen_at": "2026-10-19T20:20:46.996862Z",
+      "title_original": "多方比较 理想i6提车分享",
+      "title_en": null,
+      "title_zh": "多方比较 理想i6提车分享",
+      "title_bilingual": "多方比较 理想i6提车分享",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "fb73d1dd490617beb84286d73f91559878e08e64",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "空间也很够用 极氪001提车分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/d824cf43a999192b/116374363-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-10-19T20:20:46.996862Z",
+      "last_seen_at": "2026-10-19T20:20:46.996862Z",
+      "title_original": "空间也很够用 极氪001提车分享",
+      "title_en": null,
+      "title_zh": "空间也很够用 极氪001提车分享",
+      "title_bilingual": "空间也很够用 极氪001提车分享",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "d599c8c011078d82a8fae378e63bf25b4be79991",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "假期出门开油车还是开电车？",
+      "url": "http://vc.yiche.com/vplay/13675335.html",
+      "published_at": null,
+      "first_seen_at": "2026-10-19T20:20:46.996862Z",
+      "last_seen_at": "2026-10-19T20:20:46.996862Z",
+      "title_original": "假期出门开油车还是开电车？",
+      "title_en": null,
+      "title_zh": "假期出门开油车还是开电车？",
+      "title_bilingual": "假期出门开油车还是开电车？",
+      "topic_tags": [
+        "新能源"
+      ]
+    },
+    {
+      "id": "76efada438fb7d0620d50e3d54d5c43c4ae46f40",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "更运动也更智能，激光雷达+后驱的2027款阿尔法S5详解",
+      "url": "http://vc.yiche.com/vplay/13741702.html",
+      "published_at": null,
+      "first_seen_at": "2026-10-19T20:20:46.996862Z",
+      "last_seen_at": "2026-10-19T20:20:46.996862Z",
+      "title_original": "更运动也更智能，激光雷达+后驱的2027款阿尔法S5详解",
+      "title_en": null,
+      "title_zh": "更运动也更智能，激光雷达+后驱的2027款阿尔法S5详解",
+      "title_bilingual": "更运动也更智能，激光雷达+后驱的2027款阿尔法S5详解",
+      "topic_tags": [
+        "智能驾驶"
+      ]
+    },
+    {
+      "id": "92923b2e31362a0bf2d791d6d90f5e0c7db23bc5",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "尺寸大一圈+双拼色车身+带激光雷达，后排有老板座，星越L PLUS卖多少钱你会考虑？",
+      "url": "http://vc.yiche.com/vplay/13717370.html",
+      "published_at": null,
+      "first_seen_at": "2026-10-19T20:20:46.996862Z",
+      "last_seen_at": "2026-10-19T20:20:46.996862Z",
+      "title_original": "尺寸大一圈+双拼色车身+带激光雷达，后排有老板座，星越L PLUS卖多少钱你会考虑？",
+      "title_en": null,
+      "title_zh": "尺寸大一圈+双拼色车身+带激光雷达，后排有老板座，星越L PLUS卖多少钱你会考虑？",
+      "title_bilingual": "尺寸大一圈+双拼色车身+带激光雷达，后排有老板座，星越L PLUS卖多少钱你会考虑？",
+      "topic_tags": [
+        "智能驾驶"
+      ]
+    },
+    {
+      "id": "9792ec990fca29f2f5e09053dcd217f3c357fdaf",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "智能座舱与辅助驾驶全配齐 新款极狐阿尔法S5/T5双车解析",
+      "url": "http://vc.yiche.com/vplay/13700822.html",
+      "published_at": null,
+      "first_seen_at": "2026-10-19T20:20:46.996862Z",
+      "last_seen_at": "2026-10-19T20:20:46.996862Z",
+      "title_original": "智能座舱与辅助驾驶全配齐 新款极狐阿尔法S5/T5双车解析",
+      "title_en": null,
+      "title_zh": "智能座舱与辅助驾驶全配齐 新款极狐阿尔法S5/T5双车解析",
+      "title_bilingual": "智能座舱与辅助驾驶全配齐 新款极狐阿尔法S5/T5双车解析",
+      "topic_tags": [
+        "智能驾驶"
+      ]
+    },
+    {
+      "id": "2e619efa86cbec8a779223da89553317398855c4",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "2027款吉利博越别乱买！三款版型保姆级选购指南",
+      "url": "http://vc.yiche.com/vplay/13699275.html",
+      "published_at": null,
+      "first_seen_at": "2026-10-19T20:20:46.996862Z",
+      "last_seen_at": "2026-10-19T20:20:46.996862Z",
+      "title_original": "2027款吉利博越别乱买！三款版型保姆级选购指南",
+      "title_en": null,
+      "title_zh": "2027款吉利博越别乱买！三款版型保姆级选购指南",
+      "title_bilingual": "2027款吉利博越别乱买！三款版型保姆级选购指南",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "e0f2b8033fd829a0b8010fbf98cfa597767b19b7",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Xiaomi SU9 LUX name hints at new flagship sedan",
+      "url": "https://carnewschina.com/2026/10/19/xiaomi-su9-lux-name-hints-at-new-flagship-sedan",
+      "published_at": "2026-10-19T16:26:40Z",
+      "first_seen_at": "2026-10-19T20:20:46.996862Z",
+      "last_seen_at": "2026-10-19T20:20:46.996862Z",
+      "title_original": "Xiaomi SU9 LUX name hints at new flagship sedan",
+      "title_en": "Xiaomi SU9 LUX name hints at new flagship sedan",
+      "title_zh": "小米SU9 LUX名称暗示新旗舰轿车",
+      "title_bilingual": "小米SU9 LUX名称暗示新旗舰轿车 / Xiaomi SU9 LUX name hints at new flagship sedan",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
       "id": "1bb4bad511049b4dc2e118d08ace12ff0f422ebf",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -433,7 +988,7 @@
       "url": "https://www.dongchedi.com/article/7697227301041914393",
       "published_at": null,
       "first_seen_at": "2026-10-19T14:50:21.935569Z",
-      "last_seen_at": "2026-10-19T14:50:21.935569Z",
+      "last_seen_at": "2026-10-19T20:20:46.996862Z",
       "title_original": "朱华荣谋局 赵非掌舵 叶沛冲锋 长安管理层换防",
       "title_en": null,
       "title_zh": "朱华荣谋局 赵非掌舵 叶沛冲锋 长安管理层换防",
@@ -451,7 +1006,7 @@
       "url": "https://www.dongchedi.com/article/7696139036839477785",
       "published_at": null,
       "first_seen_at": "2026-10-19T14:50:21.935569Z",
-      "last_seen_at": "2026-10-19T14:50:21.935569Z",
+      "last_seen_at": "2026-10-19T20:20:46.996862Z",
       "title_original": "从加关税到出口减半，欧洲到底能不能松口气？",
       "title_en": null,
       "title_zh": "从加关税到出口减半，欧洲到底能不能松口气？",
@@ -469,7 +1024,7 @@
       "url": "https://www.dongchedi.com/article/7696431722858643993",
       "published_at": null,
       "first_seen_at": "2026-10-19T14:50:21.935569Z",
-      "last_seen_at": "2026-10-19T14:50:21.935569Z",
+      "last_seen_at": "2026-10-19T20:20:46.996862Z",
       "title_original": "中欧贸易投资磋商汽车领域落地 行业协会与车企集体表态",
       "title_en": null,
       "title_zh": "中欧贸易投资磋商汽车领域落地 行业协会与车企集体表态",
@@ -487,7 +1042,7 @@
       "url": "https://cnevpost.com/2026/10/19/china-warns-uk-against-ev-restrictions",
       "published_at": "2026-10-19T14:47:29Z",
       "first_seen_at": "2026-10-19T14:50:21.935569Z",
-      "last_seen_at": "2026-10-19T14:50:21.935569Z",
+      "last_seen_at": "2026-10-19T20:20:46.996862Z",
       "title_original": "China warns UK against following EU on EV restrictions, vows retaliation",
       "title_en": "China warns UK against following EU on EV restrictions, vows retaliation",
       "title_zh": "中国警告英国不要效仿欧盟的电动汽车限制，并发誓要进行报复",
@@ -505,7 +1060,7 @@
       "url": "https://cnevpost.com/2026/10/19/huawei-newcool-joins-catl-choco-swap-ecosystem",
       "published_at": "2026-10-19T14:15:46Z",
       "first_seen_at": "2026-10-19T14:50:21.935569Z",
-      "last_seen_at": "2026-10-19T14:50:21.935569Z",
+      "last_seen_at": "2026-10-19T20:20:46.996862Z",
       "title_original": "Huawei's smart car unit partners with CATL, joins Choco battery swap ecosystem",
       "title_en": "Huawei's smart car unit partners with CATL, joins Choco battery swap ecosystem",
       "title_zh": "华为智能汽车部门与宁德时代合作，加入Choco换电生态",
@@ -524,7 +1079,7 @@
       "url": "https://cnevpost.com/2026/10/19/nio-expands-firefly-business-thailand",
       "published_at": "2026-10-19T13:34:42Z",
       "first_seen_at": "2026-10-19T14:50:21.935569Z",
-      "last_seen_at": "2026-10-19T14:50:21.935569Z",
+      "last_seen_at": "2026-10-19T20:20:46.996862Z",
       "title_original": "Nio expands Firefly business in Thailand with standalone store and updated EV",
       "title_en": "Nio expands Firefly business in Thailand with standalone store and updated EV",
       "title_zh": "蔚来通过独立商店和更新的电动汽车扩大在泰国的 Firefly 业务",
@@ -543,7 +1098,7 @@
       "url": "https://carnewschina.com/2026/10/19/nios-firefly-upgrades-lineup-with-new-60kwh-battery-model-launching-october-23-report-says",
       "published_at": "2026-10-19T13:19:38Z",
       "first_seen_at": "2026-10-19T14:50:21.935569Z",
-      "last_seen_at": "2026-10-19T14:50:21.935569Z",
+      "last_seen_at": "2026-10-19T20:20:46.996862Z",
       "title_original": "Nio’s Firefly upgrades lineup with new 60kWh battery model launching October 23, report says",
       "title_en": "Nio’s Firefly upgrades lineup with new 60kWh battery model launching October 23, report says",
       "title_zh": "报告称，蔚来 Firefly 升级产品线，推出 10 月 23 日推出的新型 60kWh 电池型号",
@@ -563,7 +1118,7 @@
       "url": "https://cnevpost.com/2026/10/19/nio-160000th-3rd-gen-es8-this-week",
       "published_at": "2026-10-19T12:14:25Z",
       "first_seen_at": "2026-10-19T14:50:21.935569Z",
-      "last_seen_at": "2026-10-19T14:50:21.935569Z",
+      "last_seen_at": "2026-10-19T20:20:46.996862Z",
       "title_original": "Nio's third-gen ES8 nears 160,000 deliveries about a month after last milestone",
       "title_en": "Nio's third-gen ES8 nears 160,000 deliveries about a month after last milestone",
       "title_zh": "距离上一个里程碑大约一个月后，蔚来第三代 ES8 交付量接近 16 万辆",
@@ -583,7 +1138,7 @@
       "url": "https://cnevpost.com/2026/10/19/geely-signs-100th-uk-retail-outlet",
       "published_at": "2026-10-19T08:58:49Z",
       "first_seen_at": "2026-10-19T14:50:21.935569Z",
-      "last_seen_at": "2026-10-19T14:50:21.935569Z",
+      "last_seen_at": "2026-10-19T20:20:46.996862Z",
       "title_original": "Geely signs 100th UK retail outlet less than 1 year after market entry",
       "title_en": "Geely signs 100th UK retail outlet less than 1 year after market entry",
       "title_zh": "进入市场不到一年，吉利在英国开设第 100 家零售店",
@@ -603,7 +1158,7 @@
       "url": "https://cnevpost.com/2026/10/19/chery-icar-opens-v25-pre-sales",
       "published_at": "2026-10-19T07:53:10Z",
       "first_seen_at": "2026-10-19T14:50:21.935569Z",
-      "last_seen_at": "2026-10-19T14:50:21.935569Z",
+      "last_seen_at": "2026-10-19T20:20:46.996862Z",
       "title_original": "iCar opens V25 pre-sales as Chery expands extended-range SUV lineup",
       "title_en": "iCar opens V25 pre-sales as Chery expands extended-range SUV lineup",
       "title_zh": "奇瑞扩大增程式SUV阵容，iCar V25开启预售",
@@ -623,7 +1178,7 @@
       "url": "https://cnevpost.com/2026/10/19/xiaomi-su9-lux-name-emerges",
       "published_at": "2026-10-19T03:49:21Z",
       "first_seen_at": "2026-10-19T07:17:28.444085Z",
-      "last_seen_at": "2026-10-19T14:50:21.935569Z",
+      "last_seen_at": "2026-10-19T20:20:46.996862Z",
       "title_original": "Xiaomi SU9 Lux name emerges, hinting at luxury executive flagship",
       "title_en": "Xiaomi SU9 Lux name emerges, hinting at luxury executive flagship",
       "title_zh": "小米SU9 Lux名字出现，暗示豪华行政旗舰",
@@ -642,7 +1197,7 @@
       "url": "https://cnevpost.com/2026/10/19/li-auto-power-day-oct-20",
       "published_at": "2026-10-19T03:10:29Z",
       "first_seen_at": "2026-10-19T07:17:28.444085Z",
-      "last_seen_at": "2026-10-19T14:50:21.935569Z",
+      "last_seen_at": "2026-10-19T20:20:46.996862Z",
       "title_original": "Li Auto to hold Power Day on October 20 to share latest EV tech advances",
       "title_en": "Li Auto to hold Power Day on October 20 to share latest EV tech advances",
       "title_zh": "理想汽车将于10月20日举办Power Day分享最新电动汽车技术进展",
@@ -687,103 +1242,6 @@
       "title_bilingual": "探店艾尼氪V 十万级纯电新选择",
       "topic_tags": [
         "新能源"
-      ]
-    },
-    {
-      "id": "b830759f90a8e21958b423ced9581f9bf12cd8c3",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "不仅是双缸动力 RT450试驾全体验",
-      "url": "https://club.autohome.com.cn/bbs/thread/c65bf7eaa63bbcc1/116415341-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-10-18T18:45:36.923046Z",
-      "last_seen_at": "2026-10-19T14:50:21.935569Z",
-      "title_original": "不仅是双缸动力 RT450试驾全体验",
-      "title_en": null,
-      "title_zh": "不仅是双缸动力 RT450试驾全体验",
-      "title_bilingual": "不仅是双缸动力 RT450试驾全体验",
-      "topic_tags": [
-        "购车决策"
-      ]
-    },
-    {
-      "id": "a9640bb02c40680cb1b35b4491bc885c11f2658f",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "空间也很够用 极氪001提车分享",
-      "url": "https://i.autohome.com.cn/11046219",
-      "published_at": null,
-      "first_seen_at": "2026-10-18T18:45:36.923046Z",
-      "last_seen_at": "2026-10-19T14:50:21.935569Z",
-      "title_original": "空间也很够用 极氪001提车分享",
-      "title_en": null,
-      "title_zh": "空间也很够用 极氪001提车分享",
-      "title_bilingual": "空间也很够用 极氪001提车分享",
-      "topic_tags": [
-        "车企竞争",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "5b17e046ac9480080feec5a483d1ce1f1adb0d80",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "智驾效果超预期 方程S提车作业分享",
-      "url": "https://club.autohome.com.cn/bbs/thread/b90bc33d6b78fe3c/116370579-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-10-18T18:45:36.923046Z",
-      "last_seen_at": "2026-10-19T14:50:21.935569Z",
-      "title_original": "智驾效果超预期 方程S提车作业分享",
-      "title_en": null,
-      "title_zh": "智驾效果超预期 方程S提车作业分享",
-      "title_bilingual": "智驾效果超预期 方程S提车作业分享",
-      "topic_tags": [
-        "智能驾驶",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "a57e6412158709e7642285a0e82b43174f1cfffe",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "智驾稳定好评 问界M8提车作业分享",
-      "url": "https://club.autohome.com.cn/bbs/thread/c9ffac47bbb8c93b/116254011-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-10-18T18:45:36.923046Z",
-      "last_seen_at": "2026-10-19T14:50:21.935569Z",
-      "title_original": "智驾稳定好评 问界M8提车作业分享",
-      "title_en": null,
-      "title_zh": "智驾稳定好评 问界M8提车作业分享",
-      "title_bilingual": "智驾稳定好评 问界M8提车作业分享",
-      "topic_tags": [
-        "智能驾驶",
-        "车企竞争",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "8d4c18188af5b06593f8b53fdff09f648cfffe0c",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新能源",
-      "title": "E周看点｜小鹏巴黎车展官宣“卖技术”；广汽自研电池第30万套下线",
-      "url": "https://auto.gasgoo.com/news/202610/18I70475227C501.shtml",
-      "published_at": "2026-10-18T17:31:54Z",
-      "first_seen_at": "2026-10-19T14:50:21.935569Z",
-      "last_seen_at": "2026-10-19T14:50:21.935569Z",
-      "title_original": "E周看点｜小鹏巴黎车展官宣“卖技术”；广汽自研电池第30万套下线",
-      "title_en": null,
-      "title_zh": "E周看点｜小鹏巴黎车展官宣“卖技术”；广汽自研电池第30万套下线",
-      "title_bilingual": "E周看点｜小鹏巴黎车展官宣“卖技术”；广汽自研电池第30万套下线",
-      "topic_tags": [
-        "新能源",
-        "补能电池",
-        "车企竞争",
-        "新车上市"
       ]
     }
   ],
