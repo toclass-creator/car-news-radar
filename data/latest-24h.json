@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-10-22T01:44:50.011703Z",
+  "generated_at": "2026-10-22T07:03:51.391297Z",
   "window_hours": 24,
-  "total_items": 20,
-  "total_items_ai_raw": 21,
-  "total_items_raw": 2730,
-  "total_items_all_mode": 2432,
+  "total_items": 27,
+  "total_items_ai_raw": 28,
+  "total_items_raw": 2721,
+  "total_items_all_mode": 2429,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 52221,
+  "archive_total": 52302,
   "site_count": 3,
-  "source_count": 6,
+  "source_count": 10,
   "site_stats": [
+    {
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "count": 15,
+      "raw_count": 16
+    },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "count": 11,
-      "raw_count": 2599
-    },
-    {
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "count": 9,
-      "raw_count": 10
+      "raw_count": 2571
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
-      "count": 0,
-      "raw_count": 121
+      "count": 1,
+      "raw_count": 134
     }
   ],
   "topic_tag_stats": [
@@ -36,26 +36,30 @@
     },
     {
       "tag": "车企竞争",
-      "count": 8
+      "count": 11
     },
     {
-      "tag": "新车上市",
+      "tag": "供应链",
       "count": 7
     },
     {
       "tag": "购车决策",
-      "count": 6
+      "count": 5
     },
     {
-      "tag": "供应链",
-      "count": 3
-    },
-    {
-      "tag": "补能电池",
-      "count": 3
+      "tag": "新车上市",
+      "count": 4
     },
     {
       "tag": "销量市场",
+      "count": 4
+    },
+    {
+      "tag": "智能驾驶",
+      "count": 2
+    },
+    {
+      "tag": "补能电池",
       "count": 2
     },
     {
@@ -65,6 +69,61 @@
   ],
   "items": [
     {
+      "id": "6bcfef3d9040829b094537731be8f5d502ff1a68",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "juejin",
+      "title": "小程序能收款了，对公户还没开？独立开发者的交付闭环踩坑②",
+      "url": "https://juejin.cn/post/7698268211587350554",
+      "published_at": "2026-10-22T06:42:11.731000Z",
+      "first_seen_at": "2026-10-22T07:03:51.391297Z",
+      "last_seen_at": "2026-10-22T07:03:51.391297Z",
+      "title_original": "小程序能收款了，对公户还没开？独立开发者的交付闭环踩坑②",
+      "title_en": null,
+      "title_zh": "小程序能收款了，对公户还没开？独立开发者的交付闭环踩坑②",
+      "title_bilingual": "小程序能收款了，对公户还没开？独立开发者的交付闭环踩坑②",
+      "topic_tags": [
+        "销量市场"
+      ]
+    },
+    {
+      "id": "9ad94d707005c80d502c96e4bf2dbc3d4f333df8",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Xpeng GX deliveries top 30,000 as Middle East orders near 4,000",
+      "url": "https://cnevpost.com/2026/10/22/xpeng-gx-deliveries-30000",
+      "published_at": "2026-10-22T05:15:59Z",
+      "first_seen_at": "2026-10-22T07:03:51.391297Z",
+      "last_seen_at": "2026-10-22T07:03:51.391297Z",
+      "title_original": "Xpeng GX deliveries top 30,000 as Middle East orders near 4,000",
+      "title_en": "Xpeng GX deliveries top 30,000 as Middle East orders near 4,000",
+      "title_zh": null,
+      "title_bilingual": "Xpeng GX deliveries top 30,000 as Middle East orders near 4,000",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "4bc4b9548f03a38d99ab1089aa7062466c3dcaa5",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "China advances second batch of Level 3 approvals after Changan and BAIC",
+      "url": "https://cnevpost.com/2026/10/22/china-advances-2nd-batch-level-3-approvals",
+      "published_at": "2026-10-22T02:54:42Z",
+      "first_seen_at": "2026-10-22T07:03:51.391297Z",
+      "last_seen_at": "2026-10-22T07:03:51.391297Z",
+      "title_original": "China advances second batch of Level 3 approvals after Changan and BAIC",
+      "title_en": "China advances second batch of Level 3 approvals after Changan and BAIC",
+      "title_zh": null,
+      "title_bilingual": "China advances second batch of Level 3 approvals after Changan and BAIC",
+      "topic_tags": [
+        "新能源"
+      ]
+    },
+    {
       "id": "11b53e01c1deabae6991b19e1f22bf38f7c1f2ff",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -73,7 +132,7 @@
       "url": "https://carnewschina.com/2026/10/22/catl-expands-battery-swapping-footprint-with-huawei",
       "published_at": "2026-10-22T01:16:23Z",
       "first_seen_at": "2026-10-22T01:44:50.011703Z",
-      "last_seen_at": "2026-10-22T01:44:50.011703Z",
+      "last_seen_at": "2026-10-22T07:03:51.391297Z",
       "title_original": "CATL expands battery-swapping footprint with Huawei",
       "title_en": "CATL expands battery-swapping footprint with Huawei",
       "title_zh": null,
@@ -92,7 +151,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/15eb8dc404397dab/116408757-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-21T20:16:39.690331Z",
-      "last_seen_at": "2026-10-22T01:44:50.011703Z",
+      "last_seen_at": "2026-10-22T07:03:51.391297Z",
       "title_original": "空间敞亮 零跑C16提车作业",
       "title_en": null,
       "title_zh": "空间敞亮 零跑C16提车作业",
@@ -111,7 +170,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/b06d662c54110e03/116232358-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-21T20:16:39.690331Z",
-      "last_seen_at": "2026-10-22T01:44:50.011703Z",
+      "last_seen_at": "2026-10-22T07:03:51.391297Z",
       "title_original": "底盘质感无敌 岚图追光S提车作业",
       "title_en": null,
       "title_zh": "底盘质感无敌 岚图追光S提车作业",
@@ -130,7 +189,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/e5887948087277c3/116229388-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-21T20:16:39.690331Z",
-      "last_seen_at": "2026-10-22T01:44:50.011703Z",
+      "last_seen_at": "2026-10-22T07:03:51.391297Z",
       "title_original": "家用务实选择 比亚迪秦L提车分享",
       "title_en": null,
       "title_zh": "家用务实选择 比亚迪秦L提车分享",
@@ -149,7 +208,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/fad66fcea1a263da/116166541-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-21T20:16:39.690331Z",
-      "last_seen_at": "2026-10-22T01:44:50.011703Z",
+      "last_seen_at": "2026-10-22T07:03:51.391297Z",
       "title_original": "底盘调校稳重 ID.ERA 5S提车分享",
       "title_en": null,
       "title_zh": "底盘调校稳重 ID.ERA 5S提车分享",
@@ -168,7 +227,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/71d6e87bb241e51f/116414106-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-21T20:16:39.690331Z",
-      "last_seen_at": "2026-10-22T01:44:50.011703Z",
+      "last_seen_at": "2026-10-22T07:03:51.391297Z",
       "title_original": "长城大狗HEV混动版Hi2两驱更节能",
       "title_en": null,
       "title_zh": "长城大狗HEV混动版Hi2两驱更节能",
@@ -187,7 +246,7 @@
       "url": "http://vc.yiche.com/vplay/13719869.html",
       "published_at": null,
       "first_seen_at": "2026-10-21T20:16:39.690331Z",
-      "last_seen_at": "2026-10-22T01:44:50.011703Z",
+      "last_seen_at": "2026-10-22T07:03:51.391297Z",
       "title_original": "AI试车，全新一代比亚迪唐，首搭全新巨幕UI交互系统，亮点抢先看",
       "title_en": null,
       "title_zh": "AI试车，全新一代比亚迪唐，首搭全新巨幕UI交互系统，亮点抢先看",
@@ -205,7 +264,7 @@
       "url": "http://vc.yiche.com/vplay/13773552.html",
       "published_at": null,
       "first_seen_at": "2026-10-21T20:16:39.690331Z",
-      "last_seen_at": "2026-10-22T01:44:50.011703Z",
+      "last_seen_at": "2026-10-22T07:03:51.391297Z",
       "title_original": "试驾体验smart精灵2号 不是复刻而是重生",
       "title_en": null,
       "title_zh": "试驾体验smart精灵2号 不是复刻而是重生",
@@ -223,13 +282,48 @@
       "url": "http://vc.yiche.com/vplay/13729564.html",
       "published_at": null,
       "first_seen_at": "2026-10-21T20:16:39.690331Z",
-      "last_seen_at": "2026-10-22T01:44:50.011703Z",
+      "last_seen_at": "2026-10-22T07:03:51.391297Z",
       "title_original": "买前必看！星瑞L PLUS配置推荐+销量预测！",
       "title_en": null,
       "title_zh": "买前必看！星瑞L PLUS配置推荐+销量预测！",
       "title_bilingual": "买前必看！星瑞L PLUS配置推荐+销量预测！",
       "topic_tags": [
         "销量市场"
+      ]
+    },
+    {
+      "id": "828acebefbfaa3d12288c8c033eb62188ae1a9fd",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "仿真效率提200倍！钟志华：AI 造车，先别焦虑",
+      "url": "https://auto.gasgoo.com/news/202610/21I70475479C108.shtml",
+      "published_at": "2026-10-21T15:03:32Z",
+      "first_seen_at": "2026-10-22T07:03:51.391297Z",
+      "last_seen_at": "2026-10-22T07:03:51.391297Z",
+      "title_original": "仿真效率提200倍！钟志华：AI 造车，先别焦虑",
+      "title_en": null,
+      "title_zh": "仿真效率提200倍！钟志华：AI 造车，先别焦虑",
+      "title_bilingual": "仿真效率提200倍！钟志华：AI 造车，先别焦虑",
+      "topic_tags": []
+    },
+    {
+      "id": "bf27f14743bce848bb8790762517e29c23db2c0e",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新能源",
+      "title": "​宁德时代：电动化率与单车带电量双升支撑2027年增长",
+      "url": "https://auto.gasgoo.com/news/202610/21I70475468C501.shtml",
+      "published_at": "2026-10-21T14:26:16Z",
+      "first_seen_at": "2026-10-22T07:03:51.391297Z",
+      "last_seen_at": "2026-10-22T07:03:51.391297Z",
+      "title_original": "​宁德时代：电动化率与单车带电量双升支撑2027年增长",
+      "title_en": null,
+      "title_zh": "​宁德时代：电动化率与单车带电量双升支撑2027年增长",
+      "title_bilingual": "​宁德时代：电动化率与单车带电量双升支撑2027年增长",
+      "topic_tags": [
+        "新能源",
+        "补能电池"
       ]
     },
     {
@@ -241,7 +335,7 @@
       "url": "https://cnevpost.com/2026/10/21/byd-yangwang-unveil-sedan-hu-uae",
       "published_at": "2026-10-21T12:53:23Z",
       "first_seen_at": "2026-10-21T16:01:29.302605Z",
-      "last_seen_at": "2026-10-22T01:44:50.011703Z",
+      "last_seen_at": "2026-10-22T07:03:51.391297Z",
       "title_original": "BYD Yangwang to unveil ultra-luxury executive sedan 'HU' in UAE",
       "title_en": "BYD Yangwang to unveil ultra-luxury executive sedan 'HU' in UAE",
       "title_zh": "比亚迪阳光将在阿联酋推出超豪华行政轿车“HU”",
@@ -253,6 +347,64 @@
       ]
     },
     {
+      "id": "28d08e0a74873ee76c169ff1b12efb9c98a70849",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "【国际快讯】9月中国汽车在欧洲销量大增104%；通用汽车Q3调整后息税前利润增21.6%；SpaceX 与特斯拉商讨潜在合并",
+      "url": "https://auto.gasgoo.com/news/202610/21I70475463C108.shtml",
+      "published_at": "2026-10-21T12:21:26Z",
+      "first_seen_at": "2026-10-22T07:03:51.391297Z",
+      "last_seen_at": "2026-10-22T07:03:51.391297Z",
+      "title_original": "【国际快讯】9月中国汽车在欧洲销量大增104%；通用汽车Q3调整后息税前利润增21.6%；SpaceX 与特斯拉商讨潜在合并",
+      "title_en": null,
+      "title_zh": "【国际快讯】9月中国汽车在欧洲销量大增104%；通用汽车Q3调整后息税前利润增21.6%；SpaceX 与特斯拉商讨潜在合并",
+      "title_bilingual": "【国际快讯】9月中国汽车在欧洲销量大增104%；通用汽车Q3调整后息税前利润增21.6%；SpaceX 与特斯拉商讨潜在合并",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "aa9e47fe121e7c6aaa7a30162c01839cf7d86e40",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-供应链",
+      "title": "从100万台到第二条产线，思科普BD Nano如何成为新能源车载冰箱的“标配心脏”",
+      "url": "https://auto.gasgoo.com/news/202610/21I70475412C103.shtml",
+      "published_at": "2026-10-21T12:00:00Z",
+      "first_seen_at": "2026-10-22T07:03:51.391297Z",
+      "last_seen_at": "2026-10-22T07:03:51.391297Z",
+      "title_original": "从100万台到第二条产线，思科普BD Nano如何成为新能源车载冰箱的“标配心脏”",
+      "title_en": null,
+      "title_zh": "从100万台到第二条产线，思科普BD Nano如何成为新能源车载冰箱的“标配心脏”",
+      "title_bilingual": "从100万台到第二条产线，思科普BD Nano如何成为新能源车载冰箱的“标配心脏”",
+      "topic_tags": [
+        "新能源",
+        "供应链"
+      ]
+    },
+    {
+      "id": "693d85244eaf3a34993f9a1cb1db84b09a61bc98",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-供应链",
+      "title": "梅赛德斯-奔驰与英伟达深化战略合作，联合开发下一代辅助驾驶系统",
+      "url": "https://auto.gasgoo.com/news/202610/21I70475462C601.shtml",
+      "published_at": "2026-10-21T11:19:18Z",
+      "first_seen_at": "2026-10-22T07:03:51.391297Z",
+      "last_seen_at": "2026-10-22T07:03:51.391297Z",
+      "title_original": "梅赛德斯-奔驰与英伟达深化战略合作，联合开发下一代辅助驾驶系统",
+      "title_en": null,
+      "title_zh": "梅赛德斯-奔驰与英伟达深化战略合作，联合开发下一代辅助驾驶系统",
+      "title_bilingual": "梅赛德斯-奔驰与英伟达深化战略合作，联合开发下一代辅助驾驶系统",
+      "topic_tags": [
+        "智能驾驶",
+        "车企竞争",
+        "供应链"
+      ]
+    },
+    {
       "id": "acd7f07f00d9270c3a8ef188ed986969114be615",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -261,7 +413,7 @@
       "url": "https://www.dongchedi.com/article/7698694423002366488",
       "published_at": null,
       "first_seen_at": "2026-10-21T11:08:54.774795Z",
-      "last_seen_at": "2026-10-22T01:44:50.011703Z",
+      "last_seen_at": "2026-10-22T07:03:51.391297Z",
       "title_original": "硬核实测魏牌高山9智慧版：冰箱彩电之后，MPV开始拼脑子了",
       "title_en": null,
       "title_zh": "硬核实测魏牌高山9智慧版：冰箱彩电之后，MPV开始拼脑子了",
@@ -279,7 +431,7 @@
       "url": "https://www.dongchedi.com/article/7698563398054134297",
       "published_at": null,
       "first_seen_at": "2026-10-21T11:08:54.774795Z",
-      "last_seen_at": "2026-10-22T01:44:50.011703Z",
+      "last_seen_at": "2026-10-22T07:03:51.391297Z",
       "title_original": "日常实用性测试横评：高端新能源大型SUV篇",
       "title_en": null,
       "title_zh": "日常实用性测试横评：高端新能源大型SUV篇",
@@ -299,13 +451,87 @@
       "url": "https://www.dongchedi.com/article/7698763963014021694",
       "published_at": null,
       "first_seen_at": "2026-10-21T11:08:54.774795Z",
-      "last_seen_at": "2026-10-22T01:44:50.011703Z",
+      "last_seen_at": "2026-10-22T07:03:51.391297Z",
       "title_original": "从13%到9%，新能源汽车出海告别千亿退税红利",
       "title_en": null,
       "title_zh": "从13%到9%，新能源汽车出海告别千亿退税红利",
       "title_bilingual": "从13%到9%，新能源汽车出海告别千亿退税红利",
       "topic_tags": [
         "新能源"
+      ]
+    },
+    {
+      "id": "741f776c7b016a4310c74adeb26bffe782059f56",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "中国首款原生开发Robotaxi工程样车下线",
+      "url": "https://auto.gasgoo.com/news/202610/21I70475460C601.shtml",
+      "published_at": "2026-10-21T10:51:57Z",
+      "first_seen_at": "2026-10-22T07:03:51.391297Z",
+      "last_seen_at": "2026-10-22T07:03:51.391297Z",
+      "title_original": "中国首款原生开发Robotaxi工程样车下线",
+      "title_en": null,
+      "title_zh": "中国首款原生开发Robotaxi工程样车下线",
+      "title_bilingual": "中国首款原生开发Robotaxi工程样车下线",
+      "topic_tags": [
+        "智能驾驶"
+      ]
+    },
+    {
+      "id": "55fc110ae4502117d7c9ec996f81230723fb5fd1",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-供应链",
+      "title": "总投资超5亿元，艾科新材全球研发总部暨智造基地广州动工",
+      "url": "https://auto.gasgoo.com/news/202610/21I70475454C103.shtml",
+      "published_at": "2026-10-21T10:41:47Z",
+      "first_seen_at": "2026-10-22T07:03:51.391297Z",
+      "last_seen_at": "2026-10-22T07:03:51.391297Z",
+      "title_original": "总投资超5亿元，艾科新材全球研发总部暨智造基地广州动工",
+      "title_en": null,
+      "title_zh": "总投资超5亿元，艾科新材全球研发总部暨智造基地广州动工",
+      "title_bilingual": "总投资超5亿元，艾科新材全球研发总部暨智造基地广州动工",
+      "topic_tags": [
+        "供应链"
+      ]
+    },
+    {
+      "id": "818494aaeb8817921410c512418299ef90e75842",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-供应链",
+      "title": "英飞凌与大众中国创新应用中心正式揭牌",
+      "url": "https://auto.gasgoo.com/news/202610/21I70475453C103.shtml",
+      "published_at": "2026-10-21T10:32:19Z",
+      "first_seen_at": "2026-10-22T07:03:51.391297Z",
+      "last_seen_at": "2026-10-22T07:03:51.391297Z",
+      "title_original": "英飞凌与大众中国创新应用中心正式揭牌",
+      "title_en": null,
+      "title_zh": "英飞凌与大众中国创新应用中心正式揭牌",
+      "title_bilingual": "英飞凌与大众中国创新应用中心正式揭牌",
+      "topic_tags": [
+        "车企竞争",
+        "供应链"
+      ]
+    },
+    {
+      "id": "d88930973ab1d38f481febb47e7cd60eac80a5ff",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-供应链",
+      "title": "欧摩威第三代卫星摄像头获国内头部车企定点，计划2027年底启动量产",
+      "url": "https://auto.gasgoo.com/news/202610/21I70475452C103.shtml",
+      "published_at": "2026-10-21T10:26:19Z",
+      "first_seen_at": "2026-10-22T07:03:51.391297Z",
+      "last_seen_at": "2026-10-22T07:03:51.391297Z",
+      "title_original": "欧摩威第三代卫星摄像头获国内头部车企定点，计划2027年底启动量产",
+      "title_en": null,
+      "title_zh": "欧摩威第三代卫星摄像头获国内头部车企定点，计划2027年底启动量产",
+      "title_bilingual": "欧摩威第三代卫星摄像头获国内头部车企定点，计划2027年底启动量产",
+      "topic_tags": [
+        "车企竞争",
+        "供应链"
       ]
     },
     {
@@ -317,7 +543,7 @@
       "url": "https://cnevpost.com/2026/10/21/china-nev-retail-first-18-days-oct-2026",
       "published_at": "2026-10-21T09:32:17Z",
       "first_seen_at": "2026-10-21T11:08:54.774795Z",
-      "last_seen_at": "2026-10-22T01:44:50.011703Z",
+      "last_seen_at": "2026-10-22T07:03:51.391297Z",
       "title_original": "China NEV retail sales fall 13% in first 18 days of October, penetration rebounds to 65.9%",
       "title_en": "China NEV retail sales fall 13% in first 18 days of October, penetration rebounds to 65.9%",
       "title_zh": "10月1-18日中国新能源汽车零售量下降13%渗透率反弹至65.9%",
@@ -336,7 +562,7 @@
       "url": "https://cnevpost.com/2026/10/21/vw-anhui-launch-id-unyx-09-oct-24",
       "published_at": "2026-10-21T09:15:08Z",
       "first_seen_at": "2026-10-21T11:08:54.774795Z",
-      "last_seen_at": "2026-10-22T01:44:50.011703Z",
+      "last_seen_at": "2026-10-22T07:03:51.391297Z",
       "title_original": "VW Anhui to launch ID. UNYX 09 on October 24 as second model developed with Xpeng",
       "title_en": "VW Anhui to launch ID. UNYX 09 on October 24 as second model developed with Xpeng",
       "title_zh": "大众安徽推出ID. UNYX 09 将于 10 月 24 日上市，是与小鹏汽车合作开发的第二款车型",
@@ -344,110 +570,67 @@
       "topic_tags": [
         "新能源",
         "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "25d1ebbbfa3c61c41730a183bb1e09c0d5be04fb",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "BYD releases exterior images of third-gen Qin Plus ahead of key family sedan overhaul",
-      "url": "https://cnevpost.com/2026/10/21/byd-exterior-images-third-gen-qin-plus",
-      "published_at": "2026-10-21T06:53:12Z",
-      "first_seen_at": "2026-10-21T11:08:54.774795Z",
-      "last_seen_at": "2026-10-22T01:44:50.011703Z",
-      "title_original": "BYD releases exterior images of third-gen Qin Plus ahead of key family sedan overhaul",
-      "title_en": "BYD releases exterior images of third-gen Qin Plus ahead of key family sedan overhaul",
-      "title_zh": "比亚迪在关键家用轿车大修前发布第三代秦Plus外观图片",
-      "title_bilingual": "比亚迪在关键家用轿车大修前发布第三代秦Plus外观图片 / BYD releases exterior images of third-gen Qin Plus ahead of key family sedan overhaul",
-      "topic_tags": [
-        "新能源",
-        "车企竞争",
-        "购车决策",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "5623aea236c32b8f7021c2a3059bd63d9df4f5a4",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-Battery",
-      "title": "CATL shares fall over 10% in Hong Kong as tax changes add to profit pressure",
-      "url": "https://cnevpost.com/2026/10/21/catl-shares-fall-profit-pressure",
-      "published_at": "2026-10-21T06:29:33Z",
-      "first_seen_at": "2026-10-21T11:08:54.774795Z",
-      "last_seen_at": "2026-10-22T01:44:50.011703Z",
-      "title_original": "CATL shares fall over 10% in Hong Kong as tax changes add to profit pressure",
-      "title_en": "CATL shares fall over 10% in Hong Kong as tax changes add to profit pressure",
-      "title_zh": "税改加大利润压力，宁德时代股价在香港跌逾10%",
-      "title_bilingual": "税改加大利润压力，宁德时代股价在香港跌逾10% / CATL shares fall over 10% in Hong Kong as tax changes add to profit pressure",
-      "topic_tags": [
-        "补能电池"
-      ]
-    },
-    {
-      "id": "0f3a1d220ef07fd30fa59bf30d1d91b9a747645b",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "BYD Denza N8 EV spied in China with 1,193 hp tri-motor AWD ahead of Q4 launch",
-      "url": "https://carnewschina.com/2026/10/21/byd-denza-n8-ev-spied-in-china-with-1193-hp-tri-motor-awd-ahead-of-q4-launch",
-      "published_at": "2026-10-21T06:11:26Z",
-      "first_seen_at": "2026-10-21T11:08:54.774795Z",
-      "last_seen_at": "2026-10-22T01:44:50.011703Z",
-      "title_original": "BYD Denza N8 EV spied in China with 1,193 hp tri-motor AWD ahead of Q4 launch",
-      "title_en": "BYD Denza N8 EV spied in China with 1,193 hp tri-motor AWD ahead of Q4 launch",
-      "title_zh": "比亚迪腾势 N8 EV 在第四季度发布前在中国亮相，拥有 1,193 马力三电机全轮驱动",
-      "title_bilingual": "比亚迪腾势 N8 EV 在第四季度发布前在中国亮相，拥有 1,193 马力三电机全轮驱动 / BYD Denza N8 EV spied in China with 1,193 hp tri-motor AWD ahead of Q4 launch",
-      "topic_tags": [
-        "新能源",
-        "车企竞争",
-        "供应链",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "8ea3e5ec363e57dd647928926fcff6a4a1be9f99",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Huawei-backed Aito to use 'Bosch Inside' tech for overseas models as Huawei steps back, report says",
-      "url": "https://cnevpost.com/2026/10/21/aito-use-bosch-inside-tech-overseas-models",
-      "published_at": "2026-10-21T04:09:45Z",
-      "first_seen_at": "2026-10-21T05:41:51.244676Z",
-      "last_seen_at": "2026-10-22T01:44:50.011703Z",
-      "title_original": "Huawei-backed Aito to use 'Bosch Inside' tech for overseas models as Huawei steps back, report says",
-      "title_en": "Huawei-backed Aito to use 'Bosch Inside' tech for overseas models as Huawei steps back, report says",
-      "title_zh": "报道称，随着华为的退出，华为支持的 Aito 将在海外型号中使用“Bosch Inside”技术",
-      "title_bilingual": "报道称，随着华为的退出，华为支持的 Aito 将在海外型号中使用“Bosch Inside”技术 / Huawei-backed Aito to use 'Bosch Inside' tech for overseas models as Huawei steps back, report says",
-      "topic_tags": [
-        "新能源"
-      ]
-    },
-    {
-      "id": "0ef6cfdb475b709588559c0dede22b831c35fe7c",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "GAC-Huawei brand Aistaland said to be planning battery swap models under CATL tie-up",
-      "url": "https://cnevpost.com/2026/10/21/aistaland-planning-battery-swap-models-catl-tie-up",
-      "published_at": "2026-10-21T02:47:31Z",
-      "first_seen_at": "2026-10-21T05:41:51.244676Z",
-      "last_seen_at": "2026-10-22T01:44:50.011703Z",
-      "title_original": "GAC-Huawei brand Aistaland said to be planning battery swap models under CATL tie-up",
-      "title_en": "GAC-Huawei brand Aistaland said to be planning battery swap models under CATL tie-up",
-      "title_zh": "传广汽-华为品牌Aistaland计划与CATL合作计划换电车型",
-      "title_bilingual": "传广汽-华为品牌Aistaland计划与CATL合作计划换电车型 / GAC-Huawei brand Aistaland said to be planning battery swap models under CATL tie-up",
-      "topic_tags": [
-        "新能源",
-        "补能电池",
         "新车上市"
       ]
     }
   ],
   "items_ai": [
     {
+      "id": "6bcfef3d9040829b094537731be8f5d502ff1a68",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "juejin",
+      "title": "小程序能收款了，对公户还没开？独立开发者的交付闭环踩坑②",
+      "url": "https://juejin.cn/post/7698268211587350554",
+      "published_at": "2026-10-22T06:42:11.731000Z",
+      "first_seen_at": "2026-10-22T07:03:51.391297Z",
+      "last_seen_at": "2026-10-22T07:03:51.391297Z",
+      "title_original": "小程序能收款了，对公户还没开？独立开发者的交付闭环踩坑②",
+      "title_en": null,
+      "title_zh": "小程序能收款了，对公户还没开？独立开发者的交付闭环踩坑②",
+      "title_bilingual": "小程序能收款了，对公户还没开？独立开发者的交付闭环踩坑②",
+      "topic_tags": [
+        "销量市场"
+      ]
+    },
+    {
+      "id": "9ad94d707005c80d502c96e4bf2dbc3d4f333df8",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Xpeng GX deliveries top 30,000 as Middle East orders near 4,000",
+      "url": "https://cnevpost.com/2026/10/22/xpeng-gx-deliveries-30000",
+      "published_at": "2026-10-22T05:15:59Z",
+      "first_seen_at": "2026-10-22T07:03:51.391297Z",
+      "last_seen_at": "2026-10-22T07:03:51.391297Z",
+      "title_original": "Xpeng GX deliveries top 30,000 as Middle East orders near 4,000",
+      "title_en": "Xpeng GX deliveries top 30,000 as Middle East orders near 4,000",
+      "title_zh": null,
+      "title_bilingual": "Xpeng GX deliveries top 30,000 as Middle East orders near 4,000",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "4bc4b9548f03a38d99ab1089aa7062466c3dcaa5",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "China advances second batch of Level 3 approvals after Changan and BAIC",
+      "url": "https://cnevpost.com/2026/10/22/china-advances-2nd-batch-level-3-approvals",
+      "published_at": "2026-10-22T02:54:42Z",
+      "first_seen_at": "2026-10-22T07:03:51.391297Z",
+      "last_seen_at": "2026-10-22T07:03:51.391297Z",
+      "title_original": "China advances second batch of Level 3 approvals after Changan and BAIC",
+      "title_en": "China advances second batch of Level 3 approvals after Changan and BAIC",
+      "title_zh": null,
+      "title_bilingual": "China advances second batch of Level 3 approvals after Changan and BAIC",
+      "topic_tags": [
+        "新能源"
+      ]
+    },
+    {
       "id": "11b53e01c1deabae6991b19e1f22bf38f7c1f2ff",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -456,7 +639,7 @@
       "url": "https://carnewschina.com/2026/10/22/catl-expands-battery-swapping-footprint-with-huawei",
       "published_at": "2026-10-22T01:16:23Z",
       "first_seen_at": "2026-10-22T01:44:50.011703Z",
-      "last_seen_at": "2026-10-22T01:44:50.011703Z",
+      "last_seen_at": "2026-10-22T07:03:51.391297Z",
       "title_original": "CATL expands battery-swapping footprint with Huawei",
       "title_en": "CATL expands battery-swapping footprint with Huawei",
       "title_zh": null,
@@ -475,7 +658,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/15eb8dc404397dab/116408757-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-21T20:16:39.690331Z",
-      "last_seen_at": "2026-10-22T01:44:50.011703Z",
+      "last_seen_at": "2026-10-22T07:03:51.391297Z",
       "title_original": "空间敞亮 零跑C16提车作业",
       "title_en": null,
       "title_zh": "空间敞亮 零跑C16提车作业",
@@ -494,7 +677,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/b06d662c54110e03/116232358-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-21T20:16:39.690331Z",
-      "last_seen_at": "2026-10-22T01:44:50.011703Z",
+      "last_seen_at": "2026-10-22T07:03:51.391297Z",
       "title_original": "底盘质感无敌 岚图追光S提车作业",
       "title_en": null,
       "title_zh": "底盘质感无敌 岚图追光S提车作业",
@@ -513,7 +696,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/e5887948087277c3/116229388-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-21T20:16:39.690331Z",
-      "last_seen_at": "2026-10-22T01:44:50.011703Z",
+      "last_seen_at": "2026-10-22T07:03:51.391297Z",
       "title_original": "家用务实选择 比亚迪秦L提车分享",
       "title_en": null,
       "title_zh": "家用务实选择 比亚迪秦L提车分享",
@@ -532,7 +715,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/fad66fcea1a263da/116166541-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-21T20:16:39.690331Z",
-      "last_seen_at": "2026-10-22T01:44:50.011703Z",
+      "last_seen_at": "2026-10-22T07:03:51.391297Z",
       "title_original": "底盘调校稳重 ID.ERA 5S提车分享",
       "title_en": null,
       "title_zh": "底盘调校稳重 ID.ERA 5S提车分享",
@@ -551,7 +734,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/71d6e87bb241e51f/116414106-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-21T20:16:39.690331Z",
-      "last_seen_at": "2026-10-22T01:44:50.011703Z",
+      "last_seen_at": "2026-10-22T07:03:51.391297Z",
       "title_original": "长城大狗HEV混动版Hi2两驱更节能",
       "title_en": null,
       "title_zh": "长城大狗HEV混动版Hi2两驱更节能",
@@ -570,7 +753,7 @@
       "url": "http://vc.yiche.com/vplay/13719869.html",
       "published_at": null,
       "first_seen_at": "2026-10-21T20:16:39.690331Z",
-      "last_seen_at": "2026-10-22T01:44:50.011703Z",
+      "last_seen_at": "2026-10-22T07:03:51.391297Z",
       "title_original": "AI试车，全新一代比亚迪唐，首搭全新巨幕UI交互系统，亮点抢先看",
       "title_en": null,
       "title_zh": "AI试车，全新一代比亚迪唐，首搭全新巨幕UI交互系统，亮点抢先看",
@@ -588,7 +771,7 @@
       "url": "http://vc.yiche.com/vplay/13773552.html",
       "published_at": null,
       "first_seen_at": "2026-10-21T20:16:39.690331Z",
-      "last_seen_at": "2026-10-22T01:44:50.011703Z",
+      "last_seen_at": "2026-10-22T07:03:51.391297Z",
       "title_original": "试驾体验smart精灵2号 不是复刻而是重生",
       "title_en": null,
       "title_zh": "试驾体验smart精灵2号 不是复刻而是重生",
@@ -606,13 +789,48 @@
       "url": "http://vc.yiche.com/vplay/13729564.html",
       "published_at": null,
       "first_seen_at": "2026-10-21T20:16:39.690331Z",
-      "last_seen_at": "2026-10-22T01:44:50.011703Z",
+      "last_seen_at": "2026-10-22T07:03:51.391297Z",
       "title_original": "买前必看！星瑞L PLUS配置推荐+销量预测！",
       "title_en": null,
       "title_zh": "买前必看！星瑞L PLUS配置推荐+销量预测！",
       "title_bilingual": "买前必看！星瑞L PLUS配置推荐+销量预测！",
       "topic_tags": [
         "销量市场"
+      ]
+    },
+    {
+      "id": "828acebefbfaa3d12288c8c033eb62188ae1a9fd",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "仿真效率提200倍！钟志华：AI 造车，先别焦虑",
+      "url": "https://auto.gasgoo.com/news/202610/21I70475479C108.shtml",
+      "published_at": "2026-10-21T15:03:32Z",
+      "first_seen_at": "2026-10-22T07:03:51.391297Z",
+      "last_seen_at": "2026-10-22T07:03:51.391297Z",
+      "title_original": "仿真效率提200倍！钟志华：AI 造车，先别焦虑",
+      "title_en": null,
+      "title_zh": "仿真效率提200倍！钟志华：AI 造车，先别焦虑",
+      "title_bilingual": "仿真效率提200倍！钟志华：AI 造车，先别焦虑",
+      "topic_tags": []
+    },
+    {
+      "id": "bf27f14743bce848bb8790762517e29c23db2c0e",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新能源",
+      "title": "​宁德时代：电动化率与单车带电量双升支撑2027年增长",
+      "url": "https://auto.gasgoo.com/news/202610/21I70475468C501.shtml",
+      "published_at": "2026-10-21T14:26:16Z",
+      "first_seen_at": "2026-10-22T07:03:51.391297Z",
+      "last_seen_at": "2026-10-22T07:03:51.391297Z",
+      "title_original": "​宁德时代：电动化率与单车带电量双升支撑2027年增长",
+      "title_en": null,
+      "title_zh": "​宁德时代：电动化率与单车带电量双升支撑2027年增长",
+      "title_bilingual": "​宁德时代：电动化率与单车带电量双升支撑2027年增长",
+      "topic_tags": [
+        "新能源",
+        "补能电池"
       ]
     },
     {
@@ -624,7 +842,7 @@
       "url": "https://cnevpost.com/2026/10/21/byd-yangwang-unveil-sedan-hu-uae",
       "published_at": "2026-10-21T12:53:23Z",
       "first_seen_at": "2026-10-21T16:01:29.302605Z",
-      "last_seen_at": "2026-10-22T01:44:50.011703Z",
+      "last_seen_at": "2026-10-22T07:03:51.391297Z",
       "title_original": "BYD Yangwang to unveil ultra-luxury executive sedan 'HU' in UAE",
       "title_en": "BYD Yangwang to unveil ultra-luxury executive sedan 'HU' in UAE",
       "title_zh": "比亚迪阳光将在阿联酋推出超豪华行政轿车“HU”",
@@ -636,6 +854,64 @@
       ]
     },
     {
+      "id": "28d08e0a74873ee76c169ff1b12efb9c98a70849",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "【国际快讯】9月中国汽车在欧洲销量大增104%；通用汽车Q3调整后息税前利润增21.6%；SpaceX 与特斯拉商讨潜在合并",
+      "url": "https://auto.gasgoo.com/news/202610/21I70475463C108.shtml",
+      "published_at": "2026-10-21T12:21:26Z",
+      "first_seen_at": "2026-10-22T07:03:51.391297Z",
+      "last_seen_at": "2026-10-22T07:03:51.391297Z",
+      "title_original": "【国际快讯】9月中国汽车在欧洲销量大增104%；通用汽车Q3调整后息税前利润增21.6%；SpaceX 与特斯拉商讨潜在合并",
+      "title_en": null,
+      "title_zh": "【国际快讯】9月中国汽车在欧洲销量大增104%；通用汽车Q3调整后息税前利润增21.6%；SpaceX 与特斯拉商讨潜在合并",
+      "title_bilingual": "【国际快讯】9月中国汽车在欧洲销量大增104%；通用汽车Q3调整后息税前利润增21.6%；SpaceX 与特斯拉商讨潜在合并",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "aa9e47fe121e7c6aaa7a30162c01839cf7d86e40",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-供应链",
+      "title": "从100万台到第二条产线，思科普BD Nano如何成为新能源车载冰箱的“标配心脏”",
+      "url": "https://auto.gasgoo.com/news/202610/21I70475412C103.shtml",
+      "published_at": "2026-10-21T12:00:00Z",
+      "first_seen_at": "2026-10-22T07:03:51.391297Z",
+      "last_seen_at": "2026-10-22T07:03:51.391297Z",
+      "title_original": "从100万台到第二条产线，思科普BD Nano如何成为新能源车载冰箱的“标配心脏”",
+      "title_en": null,
+      "title_zh": "从100万台到第二条产线，思科普BD Nano如何成为新能源车载冰箱的“标配心脏”",
+      "title_bilingual": "从100万台到第二条产线，思科普BD Nano如何成为新能源车载冰箱的“标配心脏”",
+      "topic_tags": [
+        "新能源",
+        "供应链"
+      ]
+    },
+    {
+      "id": "693d85244eaf3a34993f9a1cb1db84b09a61bc98",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-供应链",
+      "title": "梅赛德斯-奔驰与英伟达深化战略合作，联合开发下一代辅助驾驶系统",
+      "url": "https://auto.gasgoo.com/news/202610/21I70475462C601.shtml",
+      "published_at": "2026-10-21T11:19:18Z",
+      "first_seen_at": "2026-10-22T07:03:51.391297Z",
+      "last_seen_at": "2026-10-22T07:03:51.391297Z",
+      "title_original": "梅赛德斯-奔驰与英伟达深化战略合作，联合开发下一代辅助驾驶系统",
+      "title_en": null,
+      "title_zh": "梅赛德斯-奔驰与英伟达深化战略合作，联合开发下一代辅助驾驶系统",
+      "title_bilingual": "梅赛德斯-奔驰与英伟达深化战略合作，联合开发下一代辅助驾驶系统",
+      "topic_tags": [
+        "智能驾驶",
+        "车企竞争",
+        "供应链"
+      ]
+    },
+    {
       "id": "acd7f07f00d9270c3a8ef188ed986969114be615",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -644,7 +920,7 @@
       "url": "https://www.dongchedi.com/article/7698694423002366488",
       "published_at": null,
       "first_seen_at": "2026-10-21T11:08:54.774795Z",
-      "last_seen_at": "2026-10-22T01:44:50.011703Z",
+      "last_seen_at": "2026-10-22T07:03:51.391297Z",
       "title_original": "硬核实测魏牌高山9智慧版：冰箱彩电之后，MPV开始拼脑子了",
       "title_en": null,
       "title_zh": "硬核实测魏牌高山9智慧版：冰箱彩电之后，MPV开始拼脑子了",
@@ -662,7 +938,7 @@
       "url": "https://www.dongchedi.com/article/7698563398054134297",
       "published_at": null,
       "first_seen_at": "2026-10-21T11:08:54.774795Z",
-      "last_seen_at": "2026-10-22T01:44:50.011703Z",
+      "last_seen_at": "2026-10-22T07:03:51.391297Z",
       "title_original": "日常实用性测试横评：高端新能源大型SUV篇",
       "title_en": null,
       "title_zh": "日常实用性测试横评：高端新能源大型SUV篇",
@@ -682,13 +958,87 @@
       "url": "https://www.dongchedi.com/article/7698763963014021694",
       "published_at": null,
       "first_seen_at": "2026-10-21T11:08:54.774795Z",
-      "last_seen_at": "2026-10-22T01:44:50.011703Z",
+      "last_seen_at": "2026-10-22T07:03:51.391297Z",
       "title_original": "从13%到9%，新能源汽车出海告别千亿退税红利",
       "title_en": null,
       "title_zh": "从13%到9%，新能源汽车出海告别千亿退税红利",
       "title_bilingual": "从13%到9%，新能源汽车出海告别千亿退税红利",
       "topic_tags": [
         "新能源"
+      ]
+    },
+    {
+      "id": "741f776c7b016a4310c74adeb26bffe782059f56",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "中国首款原生开发Robotaxi工程样车下线",
+      "url": "https://auto.gasgoo.com/news/202610/21I70475460C601.shtml",
+      "published_at": "2026-10-21T10:51:57Z",
+      "first_seen_at": "2026-10-22T07:03:51.391297Z",
+      "last_seen_at": "2026-10-22T07:03:51.391297Z",
+      "title_original": "中国首款原生开发Robotaxi工程样车下线",
+      "title_en": null,
+      "title_zh": "中国首款原生开发Robotaxi工程样车下线",
+      "title_bilingual": "中国首款原生开发Robotaxi工程样车下线",
+      "topic_tags": [
+        "智能驾驶"
+      ]
+    },
+    {
+      "id": "55fc110ae4502117d7c9ec996f81230723fb5fd1",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-供应链",
+      "title": "总投资超5亿元，艾科新材全球研发总部暨智造基地广州动工",
+      "url": "https://auto.gasgoo.com/news/202610/21I70475454C103.shtml",
+      "published_at": "2026-10-21T10:41:47Z",
+      "first_seen_at": "2026-10-22T07:03:51.391297Z",
+      "last_seen_at": "2026-10-22T07:03:51.391297Z",
+      "title_original": "总投资超5亿元，艾科新材全球研发总部暨智造基地广州动工",
+      "title_en": null,
+      "title_zh": "总投资超5亿元，艾科新材全球研发总部暨智造基地广州动工",
+      "title_bilingual": "总投资超5亿元，艾科新材全球研发总部暨智造基地广州动工",
+      "topic_tags": [
+        "供应链"
+      ]
+    },
+    {
+      "id": "818494aaeb8817921410c512418299ef90e75842",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-供应链",
+      "title": "英飞凌与大众中国创新应用中心正式揭牌",
+      "url": "https://auto.gasgoo.com/news/202610/21I70475453C103.shtml",
+      "published_at": "2026-10-21T10:32:19Z",
+      "first_seen_at": "2026-10-22T07:03:51.391297Z",
+      "last_seen_at": "2026-10-22T07:03:51.391297Z",
+      "title_original": "英飞凌与大众中国创新应用中心正式揭牌",
+      "title_en": null,
+      "title_zh": "英飞凌与大众中国创新应用中心正式揭牌",
+      "title_bilingual": "英飞凌与大众中国创新应用中心正式揭牌",
+      "topic_tags": [
+        "车企竞争",
+        "供应链"
+      ]
+    },
+    {
+      "id": "d88930973ab1d38f481febb47e7cd60eac80a5ff",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-供应链",
+      "title": "欧摩威第三代卫星摄像头获国内头部车企定点，计划2027年底启动量产",
+      "url": "https://auto.gasgoo.com/news/202610/21I70475452C103.shtml",
+      "published_at": "2026-10-21T10:26:19Z",
+      "first_seen_at": "2026-10-22T07:03:51.391297Z",
+      "last_seen_at": "2026-10-22T07:03:51.391297Z",
+      "title_original": "欧摩威第三代卫星摄像头获国内头部车企定点，计划2027年底启动量产",
+      "title_en": null,
+      "title_zh": "欧摩威第三代卫星摄像头获国内头部车企定点，计划2027年底启动量产",
+      "title_bilingual": "欧摩威第三代卫星摄像头获国内头部车企定点，计划2027年底启动量产",
+      "topic_tags": [
+        "车企竞争",
+        "供应链"
       ]
     },
     {
@@ -700,7 +1050,7 @@
       "url": "https://cnevpost.com/2026/10/21/china-nev-retail-first-18-days-oct-2026",
       "published_at": "2026-10-21T09:32:17Z",
       "first_seen_at": "2026-10-21T11:08:54.774795Z",
-      "last_seen_at": "2026-10-22T01:44:50.011703Z",
+      "last_seen_at": "2026-10-22T07:03:51.391297Z",
       "title_original": "China NEV retail sales fall 13% in first 18 days of October, penetration rebounds to 65.9%",
       "title_en": "China NEV retail sales fall 13% in first 18 days of October, penetration rebounds to 65.9%",
       "title_zh": "10月1-18日中国新能源汽车零售量下降13%渗透率反弹至65.9%",
@@ -719,7 +1069,7 @@
       "url": "https://cnevpost.com/2026/10/21/vw-anhui-launch-id-unyx-09-oct-24",
       "published_at": "2026-10-21T09:15:08Z",
       "first_seen_at": "2026-10-21T11:08:54.774795Z",
-      "last_seen_at": "2026-10-22T01:44:50.011703Z",
+      "last_seen_at": "2026-10-22T07:03:51.391297Z",
       "title_original": "VW Anhui to launch ID. UNYX 09 on October 24 as second model developed with Xpeng",
       "title_en": "VW Anhui to launch ID. UNYX 09 on October 24 as second model developed with Xpeng",
       "title_zh": "大众安徽推出ID. UNYX 09 将于 10 月 24 日上市，是与小鹏汽车合作开发的第二款车型",
@@ -727,104 +1077,6 @@
       "topic_tags": [
         "新能源",
         "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "25d1ebbbfa3c61c41730a183bb1e09c0d5be04fb",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "BYD releases exterior images of third-gen Qin Plus ahead of key family sedan overhaul",
-      "url": "https://cnevpost.com/2026/10/21/byd-exterior-images-third-gen-qin-plus",
-      "published_at": "2026-10-21T06:53:12Z",
-      "first_seen_at": "2026-10-21T11:08:54.774795Z",
-      "last_seen_at": "2026-10-22T01:44:50.011703Z",
-      "title_original": "BYD releases exterior images of third-gen Qin Plus ahead of key family sedan overhaul",
-      "title_en": "BYD releases exterior images of third-gen Qin Plus ahead of key family sedan overhaul",
-      "title_zh": "比亚迪在关键家用轿车大修前发布第三代秦Plus外观图片",
-      "title_bilingual": "比亚迪在关键家用轿车大修前发布第三代秦Plus外观图片 / BYD releases exterior images of third-gen Qin Plus ahead of key family sedan overhaul",
-      "topic_tags": [
-        "新能源",
-        "车企竞争",
-        "购车决策",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "5623aea236c32b8f7021c2a3059bd63d9df4f5a4",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-Battery",
-      "title": "CATL shares fall over 10% in Hong Kong as tax changes add to profit pressure",
-      "url": "https://cnevpost.com/2026/10/21/catl-shares-fall-profit-pressure",
-      "published_at": "2026-10-21T06:29:33Z",
-      "first_seen_at": "2026-10-21T11:08:54.774795Z",
-      "last_seen_at": "2026-10-22T01:44:50.011703Z",
-      "title_original": "CATL shares fall over 10% in Hong Kong as tax changes add to profit pressure",
-      "title_en": "CATL shares fall over 10% in Hong Kong as tax changes add to profit pressure",
-      "title_zh": "税改加大利润压力，宁德时代股价在香港跌逾10%",
-      "title_bilingual": "税改加大利润压力，宁德时代股价在香港跌逾10% / CATL shares fall over 10% in Hong Kong as tax changes add to profit pressure",
-      "topic_tags": [
-        "补能电池"
-      ]
-    },
-    {
-      "id": "0f3a1d220ef07fd30fa59bf30d1d91b9a747645b",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "BYD Denza N8 EV spied in China with 1,193 hp tri-motor AWD ahead of Q4 launch",
-      "url": "https://carnewschina.com/2026/10/21/byd-denza-n8-ev-spied-in-china-with-1193-hp-tri-motor-awd-ahead-of-q4-launch",
-      "published_at": "2026-10-21T06:11:26Z",
-      "first_seen_at": "2026-10-21T11:08:54.774795Z",
-      "last_seen_at": "2026-10-22T01:44:50.011703Z",
-      "title_original": "BYD Denza N8 EV spied in China with 1,193 hp tri-motor AWD ahead of Q4 launch",
-      "title_en": "BYD Denza N8 EV spied in China with 1,193 hp tri-motor AWD ahead of Q4 launch",
-      "title_zh": "比亚迪腾势 N8 EV 在第四季度发布前在中国亮相，拥有 1,193 马力三电机全轮驱动",
-      "title_bilingual": "比亚迪腾势 N8 EV 在第四季度发布前在中国亮相，拥有 1,193 马力三电机全轮驱动 / BYD Denza N8 EV spied in China with 1,193 hp tri-motor AWD ahead of Q4 launch",
-      "topic_tags": [
-        "新能源",
-        "车企竞争",
-        "供应链",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "8ea3e5ec363e57dd647928926fcff6a4a1be9f99",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Huawei-backed Aito to use 'Bosch Inside' tech for overseas models as Huawei steps back, report says",
-      "url": "https://cnevpost.com/2026/10/21/aito-use-bosch-inside-tech-overseas-models",
-      "published_at": "2026-10-21T04:09:45Z",
-      "first_seen_at": "2026-10-21T05:41:51.244676Z",
-      "last_seen_at": "2026-10-22T01:44:50.011703Z",
-      "title_original": "Huawei-backed Aito to use 'Bosch Inside' tech for overseas models as Huawei steps back, report says",
-      "title_en": "Huawei-backed Aito to use 'Bosch Inside' tech for overseas models as Huawei steps back, report says",
-      "title_zh": "报道称，随着华为的退出，华为支持的 Aito 将在海外型号中使用“Bosch Inside”技术",
-      "title_bilingual": "报道称，随着华为的退出，华为支持的 Aito 将在海外型号中使用“Bosch Inside”技术 / Huawei-backed Aito to use 'Bosch Inside' tech for overseas models as Huawei steps back, report says",
-      "topic_tags": [
-        "新能源"
-      ]
-    },
-    {
-      "id": "0ef6cfdb475b709588559c0dede22b831c35fe7c",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "GAC-Huawei brand Aistaland said to be planning battery swap models under CATL tie-up",
-      "url": "https://cnevpost.com/2026/10/21/aistaland-planning-battery-swap-models-catl-tie-up",
-      "published_at": "2026-10-21T02:47:31Z",
-      "first_seen_at": "2026-10-21T05:41:51.244676Z",
-      "last_seen_at": "2026-10-22T01:44:50.011703Z",
-      "title_original": "GAC-Huawei brand Aistaland said to be planning battery swap models under CATL tie-up",
-      "title_en": "GAC-Huawei brand Aistaland said to be planning battery swap models under CATL tie-up",
-      "title_zh": "传广汽-华为品牌Aistaland计划与CATL合作计划换电车型",
-      "title_bilingual": "传广汽-华为品牌Aistaland计划与CATL合作计划换电车型 / GAC-Huawei brand Aistaland said to be planning battery swap models under CATL tie-up",
-      "topic_tags": [
-        "新能源",
-        "补能电池",
         "新车上市"
       ]
     }
