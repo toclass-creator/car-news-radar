@@ -1,61 +1,61 @@
 {
-  "generated_at": "2026-10-22T18:06:06.820234Z",
+  "generated_at": "2026-10-22T21:49:56.509675Z",
   "window_hours": 24,
-  "total_items": 32,
-  "total_items_ai_raw": 35,
-  "total_items_raw": 2841,
-  "total_items_all_mode": 2507,
+  "total_items": 24,
+  "total_items_ai_raw": 26,
+  "total_items_raw": 2741,
+  "total_items_all_mode": 2440,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 52960,
+  "archive_total": 53055,
   "site_count": 3,
-  "source_count": 8,
+  "source_count": 6,
   "site_stats": [
     {
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "count": 20,
-      "raw_count": 23
+      "count": 16,
+      "raw_count": 18
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
-      "count": 11,
-      "raw_count": 2716
+      "count": 7,
+      "raw_count": 2623
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "count": 1,
-      "raw_count": 102
+      "raw_count": 100
     }
   ],
   "topic_tag_stats": [
-    {
-      "tag": "车企竞争",
-      "count": 21
-    },
     {
       "tag": "新能源",
       "count": 16
     },
     {
-      "tag": "购车决策",
-      "count": 8
+      "tag": "车企竞争",
+      "count": 16
     },
     {
       "tag": "新车上市",
-      "count": 6
+      "count": 7
     },
     {
-      "tag": "销量市场",
+      "tag": "购车决策",
       "count": 6
     },
     {
       "tag": "补能电池",
-      "count": 5
+      "count": 4
     },
     {
-      "tag": "供应链",
+      "tag": "销量市场",
+      "count": 4
+    },
+    {
+      "tag": "智能驾驶",
       "count": 2
     },
     {
@@ -65,13 +65,103 @@
     {
       "tag": "召回安全",
       "count": 1
-    },
-    {
-      "tag": "智能驾驶",
-      "count": 1
     }
   ],
   "items": [
+    {
+      "id": "6cb98859b6cc0dc7b710fa36e351ca1e3856d825",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "试驾捷途旅行者7 C-DM 越野到底行不行？",
+      "url": "http://vc.yiche.com/vplay/13774574.html",
+      "published_at": null,
+      "first_seen_at": "2026-10-22T21:49:56.509675Z",
+      "last_seen_at": "2026-10-22T21:49:56.509675Z",
+      "title_original": "试驾捷途旅行者7 C-DM 越野到底行不行？",
+      "title_en": null,
+      "title_zh": "试驾捷途旅行者7 C-DM 越野到底行不行？",
+      "title_bilingual": "试驾捷途旅行者7 C-DM 越野到底行不行？",
+      "topic_tags": [
+        "购车决策"
+      ]
+    },
+    {
+      "id": "f097b297cba904de5aa03a2b5248893f199dffa5",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "试驾小鹏MONA L05！年轻人选大五座不必再做选择题！",
+      "url": "http://vc.yiche.com/vplay/13795448.html",
+      "published_at": null,
+      "first_seen_at": "2026-10-22T21:49:56.509675Z",
+      "last_seen_at": "2026-10-22T21:49:56.509675Z",
+      "title_original": "试驾小鹏MONA L05！年轻人选大五座不必再做选择题！",
+      "title_en": null,
+      "title_zh": "试驾小鹏MONA L05！年轻人选大五座不必再做选择题！",
+      "title_bilingual": "试驾小鹏MONA L05！年轻人选大五座不必再做选择题！",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "b11e661f9106e06a110c6c40b7415b1123698172",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "六座全尺寸SUV新选项，方程豹钛9亮点速览",
+      "url": "http://vc.yiche.com/vplay/13771235.html",
+      "published_at": null,
+      "first_seen_at": "2026-10-22T21:49:56.509675Z",
+      "last_seen_at": "2026-10-22T21:49:56.509675Z",
+      "title_original": "六座全尺寸SUV新选项，方程豹钛9亮点速览",
+      "title_en": null,
+      "title_zh": "六座全尺寸SUV新选项，方程豹钛9亮点速览",
+      "title_bilingual": "六座全尺寸SUV新选项，方程豹钛9亮点速览",
+      "topic_tags": [
+        "新车上市"
+      ]
+    },
+    {
+      "id": "af855d394fe89ff21beb5d97c3111f5aa3c599b7",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "静态体验2027款极狐T5：激光雷达+后驱，会涨价还是会降价？",
+      "url": "http://vc.yiche.com/vplay/13749598.html",
+      "published_at": null,
+      "first_seen_at": "2026-10-22T21:49:56.509675Z",
+      "last_seen_at": "2026-10-22T21:49:56.509675Z",
+      "title_original": "静态体验2027款极狐T5：激光雷达+后驱，会涨价还是会降价？",
+      "title_en": null,
+      "title_zh": "静态体验2027款极狐T5：激光雷达+后驱，会涨价还是会降价？",
+      "title_bilingual": "静态体验2027款极狐T5：激光雷达+后驱，会涨价还是会降价？",
+      "topic_tags": [
+        "智能驾驶",
+        "价格战",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "30c6806ddd8c8d02e55620f1d6a2246918f3b301",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Chery challenges BYD, Geely, Huawei with 1.44MW charger, promises 500km in 5 minutes",
+      "url": "https://carnewschina.com/2026/10/22/chery-challenges-byd-geely-huawei-with-1-44mw-charger-promises-500km-in-5-minutes",
+      "published_at": "2026-10-22T20:25:06Z",
+      "first_seen_at": "2026-10-22T21:49:56.509675Z",
+      "last_seen_at": "2026-10-22T21:49:56.509675Z",
+      "title_original": "Chery challenges BYD, Geely, Huawei with 1.44MW charger, promises 500km in 5 minutes",
+      "title_en": "Chery challenges BYD, Geely, Huawei with 1.44MW charger, promises 500km in 5 minutes",
+      "title_zh": null,
+      "title_bilingual": "Chery challenges BYD, Geely, Huawei with 1.44MW charger, promises 500km in 5 minutes",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
     {
       "id": "22876c44b6d1769177c0b0a82cbde0351ee0e208",
       "site_id": "tophub",
@@ -81,7 +171,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/41eae14940c31eda/116295875-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-22T18:06:06.820234Z",
-      "last_seen_at": "2026-10-22T18:06:06.820234Z",
+      "last_seen_at": "2026-10-22T21:49:56.509675Z",
       "title_original": "各方面体验良好 理想i6提车分享",
       "title_en": null,
       "title_zh": "各方面体验良好 理想i6提车分享",
@@ -100,7 +190,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/3f4471de8d27052d/116387566-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-22T18:06:06.820234Z",
-      "last_seen_at": "2026-10-22T18:06:06.820234Z",
+      "last_seen_at": "2026-10-22T21:49:56.509675Z",
       "title_original": "起步安静又平顺 问界M6提车作业分享",
       "title_en": null,
       "title_zh": "起步安静又平顺 问界M6提车作业分享",
@@ -119,7 +209,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/1f475095a2b3332d/116413841-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-22T18:06:06.820234Z",
-      "last_seen_at": "2026-10-22T18:06:06.820234Z",
+      "last_seen_at": "2026-10-22T21:49:56.509675Z",
       "title_original": "智驾很惊艳 零跑D99提车作业分享",
       "title_en": null,
       "title_zh": "智驾很惊艳 零跑D99提车作业分享",
@@ -139,7 +229,7 @@
       "url": "https://carnewschina.com/2026/10/22/europeans-discovered-used-evs-from-china-price-40-under-msrp-cevm-says",
       "published_at": "2026-10-22T14:59:14Z",
       "first_seen_at": "2026-10-22T18:06:06.820234Z",
-      "last_seen_at": "2026-10-22T18:06:06.820234Z",
+      "last_seen_at": "2026-10-22T21:49:56.509675Z",
       "title_original": "Europeans discovered used EVs from China, price 40% under MSRP, CEVM says",
       "title_en": "Europeans discovered used EVs from China, price 40% under MSRP, CEVM says",
       "title_zh": null,
@@ -157,7 +247,7 @@
       "url": "https://cnevpost.com/2026/10/22/byd-fang-cheng-bao-launch-windows-tai-9-shark",
       "published_at": "2026-10-22T14:14:44Z",
       "first_seen_at": "2026-10-22T18:06:06.820234Z",
-      "last_seen_at": "2026-10-22T18:06:06.820234Z",
+      "last_seen_at": "2026-10-22T21:49:56.509675Z",
       "title_original": "BYD Fang Cheng Bao sets launch windows for Tai 9 and Shark pickup in China",
       "title_en": "BYD Fang Cheng Bao sets launch windows for Tai 9 and Shark pickup in China",
       "title_zh": null,
@@ -176,7 +266,7 @@
       "url": "https://cnevpost.com/2026/10/22/catl-battery-swap-baic-adoption",
       "published_at": "2026-10-22T13:07:22Z",
       "first_seen_at": "2026-10-22T18:06:06.820234Z",
-      "last_seen_at": "2026-10-22T18:06:06.820234Z",
+      "last_seen_at": "2026-10-22T21:49:56.509675Z",
       "title_original": "CATL expands battery swap partnership as BAIC plans adoption across multiple brands",
       "title_en": "CATL expands battery swap partnership as BAIC plans adoption across multiple brands",
       "title_zh": null,
@@ -195,7 +285,7 @@
       "url": "https://carnewschina.com/2026/10/22/byds-denza-n8-ev-opens-reservations-on-october-26-ahead-of-november-launch",
       "published_at": "2026-10-22T13:01:32Z",
       "first_seen_at": "2026-10-22T13:05:09.696434Z",
-      "last_seen_at": "2026-10-22T18:06:06.820234Z",
+      "last_seen_at": "2026-10-22T21:49:56.509675Z",
       "title_original": "BYD’s Denza N8 EV opens reservations on October 26 ahead of November launch",
       "title_en": "BYD’s Denza N8 EV opens reservations on October 26 ahead of November launch",
       "title_zh": "比亚迪腾势 N8 EV 将于 10 月 26 日开放预订，11 月上市",
@@ -215,7 +305,7 @@
       "url": "https://carnewschina.com/2026/10/22/volkswagens-jetta-m6-ev-launched-in-china-with-up-to-555-km-range-starting-at-11900-usd",
       "published_at": "2026-10-22T12:28:12Z",
       "first_seen_at": "2026-10-22T13:05:09.696434Z",
-      "last_seen_at": "2026-10-22T18:06:06.820234Z",
+      "last_seen_at": "2026-10-22T21:49:56.509675Z",
       "title_original": "Volkswagen’s Jetta M6 EV launched in China with up to 555 km range, starting at 11,900 USD",
       "title_en": "Volkswagen’s Jetta M6 EV launched in China with up to 555 km range, starting at 11,900 USD",
       "title_zh": "大众捷达 M6 EV 在中国上市，续航里程可达 555 公里，起价 11,900 美元",
@@ -236,7 +326,7 @@
       "url": "https://carnewschina.com/2026/10/22/new-byd-seal-07-cabin-revealed-as-sales-fall-37-in-china",
       "published_at": "2026-10-22T12:16:54Z",
       "first_seen_at": "2026-10-22T13:05:09.696434Z",
-      "last_seen_at": "2026-10-22T18:06:06.820234Z",
+      "last_seen_at": "2026-10-22T21:49:56.509675Z",
       "title_original": "New BYD Seal 07 cabin revealed as sales fall 37% in China",
       "title_en": "New BYD Seal 07 cabin revealed as sales fall 37% in China",
       "title_zh": "比亚迪新Seal 07座舱亮相，中国销量下降37%",
@@ -257,7 +347,7 @@
       "url": "https://cnevpost.com/2026/10/22/byd-denza-pre-sales-refreshed-n8-oct-26",
       "published_at": "2026-10-22T11:23:15Z",
       "first_seen_at": "2026-10-22T13:05:09.696434Z",
-      "last_seen_at": "2026-10-22T18:06:06.820234Z",
+      "last_seen_at": "2026-10-22T21:49:56.509675Z",
       "title_original": "BYD Denza to begin pre-sales of refreshed N8 SUV on October 26 with flash charging",
       "title_en": "BYD Denza to begin pre-sales of refreshed N8 SUV on October 26 with flash charging",
       "title_zh": "比亚迪腾势新款SUV N8闪充将于10月26日开始预售",
@@ -278,7 +368,7 @@
       "url": "https://cnevpost.com/2026/10/22/vw-jetta-launches-m6-china",
       "published_at": "2026-10-22T10:18:07Z",
       "first_seen_at": "2026-10-22T13:05:09.696434Z",
-      "last_seen_at": "2026-10-22T18:06:06.820234Z",
+      "last_seen_at": "2026-10-22T21:49:56.509675Z",
       "title_original": "VW's Jetta launches first electric sedan M6 in China's entry-level EV market",
       "title_en": "VW's Jetta launches first electric sedan M6 in China's entry-level EV market",
       "title_zh": "大众捷达在中国入门级电动汽车市场推出首款电动轿车M6",
@@ -299,7 +389,7 @@
       "url": "https://cnevpost.com/2026/10/22/byd-interior-images-third-gen-qin-plus",
       "published_at": "2026-10-22T08:59:40Z",
       "first_seen_at": "2026-10-22T13:05:09.696434Z",
-      "last_seen_at": "2026-10-22T18:06:06.820234Z",
+      "last_seen_at": "2026-10-22T21:49:56.509675Z",
       "title_original": "BYD shares interior images of third-gen Qin Plus as teaser campaign for key family sedan continues",
       "title_en": "BYD shares interior images of third-gen Qin Plus as teaser campaign for key family sedan continues",
       "title_zh": "比亚迪分享第三代秦Plus的内饰图片，关键家庭轿车的预告片活动仍在继续",
@@ -319,7 +409,7 @@
       "url": "https://cnevpost.com/2026/10/22/audi-reshuffles-china-leadership",
       "published_at": "2026-10-22T08:03:38Z",
       "first_seen_at": "2026-10-22T13:05:09.696434Z",
-      "last_seen_at": "2026-10-22T18:06:06.820234Z",
+      "last_seen_at": "2026-10-22T21:49:56.509675Z",
       "title_original": "Audi reshuffles China leadership amid pressure from local EV brands",
       "title_en": "Audi reshuffles China leadership amid pressure from local EV brands",
       "title_zh": "奥迪在本土电动汽车品牌压力下重组中国领导层",
@@ -338,7 +428,7 @@
       "url": "https://juejin.cn/post/7698268211587350554",
       "published_at": "2026-10-22T06:42:11.731000Z",
       "first_seen_at": "2026-10-22T07:03:51.391297Z",
-      "last_seen_at": "2026-10-22T18:06:06.820234Z",
+      "last_seen_at": "2026-10-22T21:49:56.509675Z",
       "title_original": "小程序能收款了，对公户还没开？独立开发者的交付闭环踩坑②",
       "title_en": null,
       "title_zh": "小程序能收款了，对公户还没开？独立开发者的交付闭环踩坑②",
@@ -356,7 +446,7 @@
       "url": "https://cnevpost.com/2026/10/22/xpeng-gx-deliveries-30000",
       "published_at": "2026-10-22T05:15:59Z",
       "first_seen_at": "2026-10-22T07:03:51.391297Z",
-      "last_seen_at": "2026-10-22T18:06:06.820234Z",
+      "last_seen_at": "2026-10-22T21:49:56.509675Z",
       "title_original": "Xpeng GX deliveries top 30,000 as Middle East orders near 4,000",
       "title_en": "Xpeng GX deliveries top 30,000 as Middle East orders near 4,000",
       "title_zh": "小鹏GX交付量突破3万辆 中东订单接近4000辆",
@@ -376,7 +466,7 @@
       "url": "https://cnevpost.com/2026/10/22/china-advances-2nd-batch-level-3-approvals",
       "published_at": "2026-10-22T02:54:42Z",
       "first_seen_at": "2026-10-22T07:03:51.391297Z",
-      "last_seen_at": "2026-10-22T18:06:06.820234Z",
+      "last_seen_at": "2026-10-22T21:49:56.509675Z",
       "title_original": "China advances second batch of Level 3 approvals after Changan and BAIC",
       "title_en": "China advances second batch of Level 3 approvals after Changan and BAIC",
       "title_zh": "继长安、北汽之后，中国推进第二批三级审批",
@@ -395,7 +485,7 @@
       "url": "https://carnewschina.com/2026/10/22/catl-expands-battery-swapping-footprint-with-huawei",
       "published_at": "2026-10-22T01:16:23Z",
       "first_seen_at": "2026-10-22T01:44:50.011703Z",
-      "last_seen_at": "2026-10-22T18:06:06.820234Z",
+      "last_seen_at": "2026-10-22T21:49:56.509675Z",
       "title_original": "CATL expands battery-swapping footprint with Huawei",
       "title_en": "CATL expands battery-swapping footprint with Huawei",
       "title_zh": "CATL与华为扩大电池交换足迹",
@@ -414,7 +504,7 @@
       "url": "https://auto.gasgoo.com/news/202610/21I70475520C501.shtml",
       "published_at": "2026-10-21T23:22:25Z",
       "first_seen_at": "2026-10-22T18:06:06.820234Z",
-      "last_seen_at": "2026-10-22T18:06:06.820234Z",
+      "last_seen_at": "2026-10-22T21:49:56.509675Z",
       "title_original": "雷军：没有安全，其他都是零！小米目标做同档最安全的车",
       "title_en": null,
       "title_zh": "雷军：没有安全，其他都是零！小米目标做同档最安全的车",
@@ -433,258 +523,113 @@
       "url": "https://auto.gasgoo.com/news/202610/21I70475518C501.shtml",
       "published_at": "2026-10-21T23:12:06Z",
       "first_seen_at": "2026-10-22T18:06:06.820234Z",
-      "last_seen_at": "2026-10-22T18:06:06.820234Z",
+      "last_seen_at": "2026-10-22T21:49:56.509675Z",
       "title_original": "张建勇：北汽以 \"三智\" 阵地仗破局差异化竞争",
       "title_en": null,
       "title_zh": "张建勇：北汽以 \"三智\" 阵地仗破局差异化竞争",
       "title_bilingual": "张建勇：北汽以 \"三智\" 阵地仗破局差异化竞争",
       "topic_tags": [
         "新能源",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "1c1eef50b89c11540b04e1f97855548d0a4306f0",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "空间敞亮 零跑C16提车作业",
-      "url": "https://club.autohome.com.cn/bbs/thread/15eb8dc404397dab/116408757-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-10-21T20:16:39.690331Z",
-      "last_seen_at": "2026-10-22T18:06:06.820234Z",
-      "title_original": "空间敞亮 零跑C16提车作业",
-      "title_en": null,
-      "title_zh": "空间敞亮 零跑C16提车作业",
-      "title_bilingual": "空间敞亮 零跑C16提车作业",
-      "topic_tags": [
-        "车企竞争",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "3531f7b007d63d5cbbfc9805b04fff31007deae5",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "底盘质感无敌 岚图追光S提车作业",
-      "url": "https://club.autohome.com.cn/bbs/thread/b06d662c54110e03/116232358-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-10-21T20:16:39.690331Z",
-      "last_seen_at": "2026-10-22T18:06:06.820234Z",
-      "title_original": "底盘质感无敌 岚图追光S提车作业",
-      "title_en": null,
-      "title_zh": "底盘质感无敌 岚图追光S提车作业",
-      "title_bilingual": "底盘质感无敌 岚图追光S提车作业",
-      "topic_tags": [
-        "供应链",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "c3c4dc6507d982809491582256712a5b587f6d05",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "家用务实选择 比亚迪秦L提车分享",
-      "url": "https://club.autohome.com.cn/bbs/thread/e5887948087277c3/116229388-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-10-21T20:16:39.690331Z",
-      "last_seen_at": "2026-10-22T18:06:06.820234Z",
-      "title_original": "家用务实选择 比亚迪秦L提车分享",
-      "title_en": null,
-      "title_zh": "家用务实选择 比亚迪秦L提车分享",
-      "title_bilingual": "家用务实选择 比亚迪秦L提车分享",
-      "topic_tags": [
-        "车企竞争",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "c90cc30eb5ad477f9bf42f0b414154b5b43f3aea",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "底盘调校稳重 ID.ERA 5S提车分享",
-      "url": "https://club.autohome.com.cn/bbs/thread/fad66fcea1a263da/116166541-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-10-21T20:16:39.690331Z",
-      "last_seen_at": "2026-10-22T18:06:06.820234Z",
-      "title_original": "底盘调校稳重 ID.ERA 5S提车分享",
-      "title_en": null,
-      "title_zh": "底盘调校稳重 ID.ERA 5S提车分享",
-      "title_bilingual": "底盘调校稳重 ID.ERA 5S提车分享",
-      "topic_tags": [
-        "供应链",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "37922635ec2a3ca836af57afd7b22cd10f55ca93",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "长城大狗HEV混动版Hi2两驱更节能",
-      "url": "https://club.autohome.com.cn/bbs/thread/71d6e87bb241e51f/116414106-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-10-21T20:16:39.690331Z",
-      "last_seen_at": "2026-10-22T13:05:09.696434Z",
-      "title_original": "长城大狗HEV混动版Hi2两驱更节能",
-      "title_en": null,
-      "title_zh": "长城大狗HEV混动版Hi2两驱更节能",
-      "title_bilingual": "长城大狗HEV混动版Hi2两驱更节能",
-      "topic_tags": [
-        "新能源",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "2950257bc82750f66268c644889f0b68fa8cc094",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "AI试车，全新一代比亚迪唐，首搭全新巨幕UI交互系统，亮点抢先看",
-      "url": "http://vc.yiche.com/vplay/13719869.html",
-      "published_at": null,
-      "first_seen_at": "2026-10-21T20:16:39.690331Z",
-      "last_seen_at": "2026-10-22T18:06:06.820234Z",
-      "title_original": "AI试车，全新一代比亚迪唐，首搭全新巨幕UI交互系统，亮点抢先看",
-      "title_en": null,
-      "title_zh": "AI试车，全新一代比亚迪唐，首搭全新巨幕UI交互系统，亮点抢先看",
-      "title_bilingual": "AI试车，全新一代比亚迪唐，首搭全新巨幕UI交互系统，亮点抢先看",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "79a24c904285367c622fe7126c2f23213d81aa03",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "试驾体验smart精灵2号 不是复刻而是重生",
-      "url": "http://vc.yiche.com/vplay/13773552.html",
-      "published_at": null,
-      "first_seen_at": "2026-10-21T20:16:39.690331Z",
-      "last_seen_at": "2026-10-22T18:06:06.820234Z",
-      "title_original": "试驾体验smart精灵2号 不是复刻而是重生",
-      "title_en": null,
-      "title_zh": "试驾体验smart精灵2号 不是复刻而是重生",
-      "title_bilingual": "试驾体验smart精灵2号 不是复刻而是重生",
-      "topic_tags": [
-        "购车决策"
-      ]
-    },
-    {
-      "id": "8bfa7ee9bbaa27c3b6a107961b770bf0e0bbc2c4",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "买前必看！星瑞L PLUS配置推荐+销量预测！",
-      "url": "http://vc.yiche.com/vplay/13729564.html",
-      "published_at": null,
-      "first_seen_at": "2026-10-21T20:16:39.690331Z",
-      "last_seen_at": "2026-10-22T18:06:06.820234Z",
-      "title_original": "买前必看！星瑞L PLUS配置推荐+销量预测！",
-      "title_en": null,
-      "title_zh": "买前必看！星瑞L PLUS配置推荐+销量预测！",
-      "title_bilingual": "买前必看！星瑞L PLUS配置推荐+销量预测！",
-      "topic_tags": [
-        "销量市场"
-      ]
-    },
-    {
-      "id": "8356f2a283d5d15c5f70e8c925a2b70459567307",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-智能网联",
-      "title": "李书福：换电切忌重复建设，行业要协同减少无效投入",
-      "url": "https://auto.gasgoo.com/news/202610/21I70475510C601.shtml",
-      "published_at": "2026-10-21T20:03:15Z",
-      "first_seen_at": "2026-10-22T13:05:09.696434Z",
-      "last_seen_at": "2026-10-22T18:06:06.820234Z",
-      "title_original": "李书福：换电切忌重复建设，行业要协同减少无效投入",
-      "title_en": null,
-      "title_zh": "李书福：换电切忌重复建设，行业要协同减少无效投入",
-      "title_bilingual": "李书福：换电切忌重复建设，行业要协同减少无效投入",
-      "topic_tags": [
-        "补能电池"
-      ]
-    },
-    {
-      "id": "5dc65d8be75027a11d0172baf30ecdd08d26ad27",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "尹同跃：拒绝价格战，中国车企出海切忌“出海变填海”",
-      "url": "https://auto.gasgoo.com/news/202610/21I70475509C109.shtml",
-      "published_at": "2026-10-21T19:50:01Z",
-      "first_seen_at": "2026-10-22T13:05:09.696434Z",
-      "last_seen_at": "2026-10-22T18:06:06.820234Z",
-      "title_original": "尹同跃：拒绝价格战，中国车企出海切忌“出海变填海”",
-      "title_en": null,
-      "title_zh": "尹同跃：拒绝价格战，中国车企出海切忌“出海变填海”",
-      "title_bilingual": "尹同跃：拒绝价格战，中国车企出海切忌“出海变填海”",
-      "topic_tags": [
-        "价格战",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "5e195e4ebb94cd1cf9be3fa57537c6c58c96aab1",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-智能网联",
-      "title": "赵非：预计2027年L3级实现量产，2028年L4级开启商业化运营",
-      "url": "https://auto.gasgoo.com/news/202610/21I70475508C601.shtml",
-      "published_at": "2026-10-21T19:40:43Z",
-      "first_seen_at": "2026-10-22T13:05:09.696434Z",
-      "last_seen_at": "2026-10-22T18:06:06.820234Z",
-      "title_original": "赵非：预计2027年L3级实现量产，2028年L4级开启商业化运营",
-      "title_en": null,
-      "title_zh": "赵非：预计2027年L3级实现量产，2028年L4级开启商业化运营",
-      "title_bilingual": "赵非：预计2027年L3级实现量产，2028年L4级开启商业化运营",
-      "topic_tags": []
-    },
-    {
-      "id": "e6510f4076222d5b95cbd4085cf95ace0c453e40",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "奔驰CEO：产业保护需平衡成本，欧盟应坚持开放合作",
-      "url": "https://auto.gasgoo.com/news/202610/21I70475497C109.shtml",
-      "published_at": "2026-10-21T18:26:28Z",
-      "first_seen_at": "2026-10-22T13:05:09.696434Z",
-      "last_seen_at": "2026-10-22T18:06:06.820234Z",
-      "title_original": "奔驰CEO：产业保护需平衡成本，欧盟应坚持开放合作",
-      "title_en": null,
-      "title_zh": "奔驰CEO：产业保护需平衡成本，欧盟应坚持开放合作",
-      "title_bilingual": "奔驰CEO：产业保护需平衡成本，欧盟应坚持开放合作",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "0f58919f23c611983f5c1ce8c77c143016be99a0",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "大众在华智能化进入“交付模式”：2027年L3就绪，中国研发反哺全球",
-      "url": "https://auto.gasgoo.com/news/202610/21I70475496C109.shtml",
-      "published_at": "2026-10-21T18:22:28Z",
-      "first_seen_at": "2026-10-22T13:05:09.696434Z",
-      "last_seen_at": "2026-10-22T18:06:06.820234Z",
-      "title_original": "大众在华智能化进入“交付模式”：2027年L3就绪，中国研发反哺全球",
-      "title_en": null,
-      "title_zh": "大众在华智能化进入“交付模式”：2027年L3就绪，中国研发反哺全球",
-      "title_bilingual": "大众在华智能化进入“交付模式”：2027年L3就绪，中国研发反哺全球",
-      "topic_tags": [
-        "销量市场",
         "车企竞争"
       ]
     }
   ],
   "items_ai": [
     {
+      "id": "6cb98859b6cc0dc7b710fa36e351ca1e3856d825",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "试驾捷途旅行者7 C-DM 越野到底行不行？",
+      "url": "http://vc.yiche.com/vplay/13774574.html",
+      "published_at": null,
+      "first_seen_at": "2026-10-22T21:49:56.509675Z",
+      "last_seen_at": "2026-10-22T21:49:56.509675Z",
+      "title_original": "试驾捷途旅行者7 C-DM 越野到底行不行？",
+      "title_en": null,
+      "title_zh": "试驾捷途旅行者7 C-DM 越野到底行不行？",
+      "title_bilingual": "试驾捷途旅行者7 C-DM 越野到底行不行？",
+      "topic_tags": [
+        "购车决策"
+      ]
+    },
+    {
+      "id": "f097b297cba904de5aa03a2b5248893f199dffa5",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "试驾小鹏MONA L05！年轻人选大五座不必再做选择题！",
+      "url": "http://vc.yiche.com/vplay/13795448.html",
+      "published_at": null,
+      "first_seen_at": "2026-10-22T21:49:56.509675Z",
+      "last_seen_at": "2026-10-22T21:49:56.509675Z",
+      "title_original": "试驾小鹏MONA L05！年轻人选大五座不必再做选择题！",
+      "title_en": null,
+      "title_zh": "试驾小鹏MONA L05！年轻人选大五座不必再做选择题！",
+      "title_bilingual": "试驾小鹏MONA L05！年轻人选大五座不必再做选择题！",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "b11e661f9106e06a110c6c40b7415b1123698172",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "六座全尺寸SUV新选项，方程豹钛9亮点速览",
+      "url": "http://vc.yiche.com/vplay/13771235.html",
+      "published_at": null,
+      "first_seen_at": "2026-10-22T21:49:56.509675Z",
+      "last_seen_at": "2026-10-22T21:49:56.509675Z",
+      "title_original": "六座全尺寸SUV新选项，方程豹钛9亮点速览",
+      "title_en": null,
+      "title_zh": "六座全尺寸SUV新选项，方程豹钛9亮点速览",
+      "title_bilingual": "六座全尺寸SUV新选项，方程豹钛9亮点速览",
+      "topic_tags": [
+        "新车上市"
+      ]
+    },
+    {
+      "id": "af855d394fe89ff21beb5d97c3111f5aa3c599b7",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "静态体验2027款极狐T5：激光雷达+后驱，会涨价还是会降价？",
+      "url": "http://vc.yiche.com/vplay/13749598.html",
+      "published_at": null,
+      "first_seen_at": "2026-10-22T21:49:56.509675Z",
+      "last_seen_at": "2026-10-22T21:49:56.509675Z",
+      "title_original": "静态体验2027款极狐T5：激光雷达+后驱，会涨价还是会降价？",
+      "title_en": null,
+      "title_zh": "静态体验2027款极狐T5：激光雷达+后驱，会涨价还是会降价？",
+      "title_bilingual": "静态体验2027款极狐T5：激光雷达+后驱，会涨价还是会降价？",
+      "topic_tags": [
+        "智能驾驶",
+        "价格战",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "30c6806ddd8c8d02e55620f1d6a2246918f3b301",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Chery challenges BYD, Geely, Huawei with 1.44MW charger, promises 500km in 5 minutes",
+      "url": "https://carnewschina.com/2026/10/22/chery-challenges-byd-geely-huawei-with-1-44mw-charger-promises-500km-in-5-minutes",
+      "published_at": "2026-10-22T20:25:06Z",
+      "first_seen_at": "2026-10-22T21:49:56.509675Z",
+      "last_seen_at": "2026-10-22T21:49:56.509675Z",
+      "title_original": "Chery challenges BYD, Geely, Huawei with 1.44MW charger, promises 500km in 5 minutes",
+      "title_en": "Chery challenges BYD, Geely, Huawei with 1.44MW charger, promises 500km in 5 minutes",
+      "title_zh": null,
+      "title_bilingual": "Chery challenges BYD, Geely, Huawei with 1.44MW charger, promises 500km in 5 minutes",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
       "id": "22876c44b6d1769177c0b0a82cbde0351ee0e208",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -693,7 +638,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/41eae14940c31eda/116295875-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-22T18:06:06.820234Z",
-      "last_seen_at": "2026-10-22T18:06:06.820234Z",
+      "last_seen_at": "2026-10-22T21:49:56.509675Z",
       "title_original": "各方面体验良好 理想i6提车分享",
       "title_en": null,
       "title_zh": "各方面体验良好 理想i6提车分享",
@@ -712,7 +657,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/3f4471de8d27052d/116387566-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-22T18:06:06.820234Z",
-      "last_seen_at": "2026-10-22T18:06:06.820234Z",
+      "last_seen_at": "2026-10-22T21:49:56.509675Z",
       "title_original": "起步安静又平顺 问界M6提车作业分享",
       "title_en": null,
       "title_zh": "起步安静又平顺 问界M6提车作业分享",
@@ -731,7 +676,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/1f475095a2b3332d/116413841-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-22T18:06:06.820234Z",
-      "last_seen_at": "2026-10-22T18:06:06.820234Z",
+      "last_seen_at": "2026-10-22T21:49:56.509675Z",
       "title_original": "智驾很惊艳 零跑D99提车作业分享",
       "title_en": null,
       "title_zh": "智驾很惊艳 零跑D99提车作业分享",
@@ -751,7 +696,7 @@
       "url": "https://carnewschina.com/2026/10/22/europeans-discovered-used-evs-from-china-price-40-under-msrp-cevm-says",
       "published_at": "2026-10-22T14:59:14Z",
       "first_seen_at": "2026-10-22T18:06:06.820234Z",
-      "last_seen_at": "2026-10-22T18:06:06.820234Z",
+      "last_seen_at": "2026-10-22T21:49:56.509675Z",
       "title_original": "Europeans discovered used EVs from China, price 40% under MSRP, CEVM says",
       "title_en": "Europeans discovered used EVs from China, price 40% under MSRP, CEVM says",
       "title_zh": null,
@@ -769,7 +714,7 @@
       "url": "https://cnevpost.com/2026/10/22/byd-fang-cheng-bao-launch-windows-tai-9-shark",
       "published_at": "2026-10-22T14:14:44Z",
       "first_seen_at": "2026-10-22T18:06:06.820234Z",
-      "last_seen_at": "2026-10-22T18:06:06.820234Z",
+      "last_seen_at": "2026-10-22T21:49:56.509675Z",
       "title_original": "BYD Fang Cheng Bao sets launch windows for Tai 9 and Shark pickup in China",
       "title_en": "BYD Fang Cheng Bao sets launch windows for Tai 9 and Shark pickup in China",
       "title_zh": null,
@@ -788,7 +733,7 @@
       "url": "https://cnevpost.com/2026/10/22/catl-battery-swap-baic-adoption",
       "published_at": "2026-10-22T13:07:22Z",
       "first_seen_at": "2026-10-22T18:06:06.820234Z",
-      "last_seen_at": "2026-10-22T18:06:06.820234Z",
+      "last_seen_at": "2026-10-22T21:49:56.509675Z",
       "title_original": "CATL expands battery swap partnership as BAIC plans adoption across multiple brands",
       "title_en": "CATL expands battery swap partnership as BAIC plans adoption across multiple brands",
       "title_zh": null,
@@ -807,7 +752,7 @@
       "url": "https://carnewschina.com/2026/10/22/byds-denza-n8-ev-opens-reservations-on-october-26-ahead-of-november-launch",
       "published_at": "2026-10-22T13:01:32Z",
       "first_seen_at": "2026-10-22T13:05:09.696434Z",
-      "last_seen_at": "2026-10-22T18:06:06.820234Z",
+      "last_seen_at": "2026-10-22T21:49:56.509675Z",
       "title_original": "BYD’s Denza N8 EV opens reservations on October 26 ahead of November launch",
       "title_en": "BYD’s Denza N8 EV opens reservations on October 26 ahead of November launch",
       "title_zh": "比亚迪腾势 N8 EV 将于 10 月 26 日开放预订，11 月上市",
@@ -827,7 +772,7 @@
       "url": "https://carnewschina.com/2026/10/22/volkswagens-jetta-m6-ev-launched-in-china-with-up-to-555-km-range-starting-at-11900-usd",
       "published_at": "2026-10-22T12:28:12Z",
       "first_seen_at": "2026-10-22T13:05:09.696434Z",
-      "last_seen_at": "2026-10-22T18:06:06.820234Z",
+      "last_seen_at": "2026-10-22T21:49:56.509675Z",
       "title_original": "Volkswagen’s Jetta M6 EV launched in China with up to 555 km range, starting at 11,900 USD",
       "title_en": "Volkswagen’s Jetta M6 EV launched in China with up to 555 km range, starting at 11,900 USD",
       "title_zh": "大众捷达 M6 EV 在中国上市，续航里程可达 555 公里，起价 11,900 美元",
@@ -848,7 +793,7 @@
       "url": "https://carnewschina.com/2026/10/22/new-byd-seal-07-cabin-revealed-as-sales-fall-37-in-china",
       "published_at": "2026-10-22T12:16:54Z",
       "first_seen_at": "2026-10-22T13:05:09.696434Z",
-      "last_seen_at": "2026-10-22T18:06:06.820234Z",
+      "last_seen_at": "2026-10-22T21:49:56.509675Z",
       "title_original": "New BYD Seal 07 cabin revealed as sales fall 37% in China",
       "title_en": "New BYD Seal 07 cabin revealed as sales fall 37% in China",
       "title_zh": "比亚迪新Seal 07座舱亮相，中国销量下降37%",
@@ -869,7 +814,7 @@
       "url": "https://cnevpost.com/2026/10/22/byd-denza-pre-sales-refreshed-n8-oct-26",
       "published_at": "2026-10-22T11:23:15Z",
       "first_seen_at": "2026-10-22T13:05:09.696434Z",
-      "last_seen_at": "2026-10-22T18:06:06.820234Z",
+      "last_seen_at": "2026-10-22T21:49:56.509675Z",
       "title_original": "BYD Denza to begin pre-sales of refreshed N8 SUV on October 26 with flash charging",
       "title_en": "BYD Denza to begin pre-sales of refreshed N8 SUV on October 26 with flash charging",
       "title_zh": "比亚迪腾势新款SUV N8闪充将于10月26日开始预售",
@@ -890,7 +835,7 @@
       "url": "https://cnevpost.com/2026/10/22/vw-jetta-launches-m6-china",
       "published_at": "2026-10-22T10:18:07Z",
       "first_seen_at": "2026-10-22T13:05:09.696434Z",
-      "last_seen_at": "2026-10-22T18:06:06.820234Z",
+      "last_seen_at": "2026-10-22T21:49:56.509675Z",
       "title_original": "VW's Jetta launches first electric sedan M6 in China's entry-level EV market",
       "title_en": "VW's Jetta launches first electric sedan M6 in China's entry-level EV market",
       "title_zh": "大众捷达在中国入门级电动汽车市场推出首款电动轿车M6",
@@ -911,7 +856,7 @@
       "url": "https://cnevpost.com/2026/10/22/byd-interior-images-third-gen-qin-plus",
       "published_at": "2026-10-22T08:59:40Z",
       "first_seen_at": "2026-10-22T13:05:09.696434Z",
-      "last_seen_at": "2026-10-22T18:06:06.820234Z",
+      "last_seen_at": "2026-10-22T21:49:56.509675Z",
       "title_original": "BYD shares interior images of third-gen Qin Plus as teaser campaign for key family sedan continues",
       "title_en": "BYD shares interior images of third-gen Qin Plus as teaser campaign for key family sedan continues",
       "title_zh": "比亚迪分享第三代秦Plus的内饰图片，关键家庭轿车的预告片活动仍在继续",
@@ -931,7 +876,7 @@
       "url": "https://cnevpost.com/2026/10/22/audi-reshuffles-china-leadership",
       "published_at": "2026-10-22T08:03:38Z",
       "first_seen_at": "2026-10-22T13:05:09.696434Z",
-      "last_seen_at": "2026-10-22T18:06:06.820234Z",
+      "last_seen_at": "2026-10-22T21:49:56.509675Z",
       "title_original": "Audi reshuffles China leadership amid pressure from local EV brands",
       "title_en": "Audi reshuffles China leadership amid pressure from local EV brands",
       "title_zh": "奥迪在本土电动汽车品牌压力下重组中国领导层",
@@ -950,7 +895,7 @@
       "url": "https://juejin.cn/post/7698268211587350554",
       "published_at": "2026-10-22T06:42:11.731000Z",
       "first_seen_at": "2026-10-22T07:03:51.391297Z",
-      "last_seen_at": "2026-10-22T18:06:06.820234Z",
+      "last_seen_at": "2026-10-22T21:49:56.509675Z",
       "title_original": "小程序能收款了，对公户还没开？独立开发者的交付闭环踩坑②",
       "title_en": null,
       "title_zh": "小程序能收款了，对公户还没开？独立开发者的交付闭环踩坑②",
@@ -968,7 +913,7 @@
       "url": "https://cnevpost.com/2026/10/22/xpeng-gx-deliveries-30000",
       "published_at": "2026-10-22T05:15:59Z",
       "first_seen_at": "2026-10-22T07:03:51.391297Z",
-      "last_seen_at": "2026-10-22T18:06:06.820234Z",
+      "last_seen_at": "2026-10-22T21:49:56.509675Z",
       "title_original": "Xpeng GX deliveries top 30,000 as Middle East orders near 4,000",
       "title_en": "Xpeng GX deliveries top 30,000 as Middle East orders near 4,000",
       "title_zh": "小鹏GX交付量突破3万辆 中东订单接近4000辆",
@@ -988,7 +933,7 @@
       "url": "https://cnevpost.com/2026/10/22/china-advances-2nd-batch-level-3-approvals",
       "published_at": "2026-10-22T02:54:42Z",
       "first_seen_at": "2026-10-22T07:03:51.391297Z",
-      "last_seen_at": "2026-10-22T18:06:06.820234Z",
+      "last_seen_at": "2026-10-22T21:49:56.509675Z",
       "title_original": "China advances second batch of Level 3 approvals after Changan and BAIC",
       "title_en": "China advances second batch of Level 3 approvals after Changan and BAIC",
       "title_zh": "继长安、北汽之后，中国推进第二批三级审批",
@@ -1007,7 +952,7 @@
       "url": "https://carnewschina.com/2026/10/22/catl-expands-battery-swapping-footprint-with-huawei",
       "published_at": "2026-10-22T01:16:23Z",
       "first_seen_at": "2026-10-22T01:44:50.011703Z",
-      "last_seen_at": "2026-10-22T18:06:06.820234Z",
+      "last_seen_at": "2026-10-22T21:49:56.509675Z",
       "title_original": "CATL expands battery-swapping footprint with Huawei",
       "title_en": "CATL expands battery-swapping footprint with Huawei",
       "title_zh": "CATL与华为扩大电池交换足迹",
@@ -1026,7 +971,7 @@
       "url": "https://auto.gasgoo.com/news/202610/21I70475520C501.shtml",
       "published_at": "2026-10-21T23:22:25Z",
       "first_seen_at": "2026-10-22T18:06:06.820234Z",
-      "last_seen_at": "2026-10-22T18:06:06.820234Z",
+      "last_seen_at": "2026-10-22T21:49:56.509675Z",
       "title_original": "雷军：没有安全，其他都是零！小米目标做同档最安全的车",
       "title_en": null,
       "title_zh": "雷军：没有安全，其他都是零！小米目标做同档最安全的车",
@@ -1045,252 +990,13 @@
       "url": "https://auto.gasgoo.com/news/202610/21I70475518C501.shtml",
       "published_at": "2026-10-21T23:12:06Z",
       "first_seen_at": "2026-10-22T18:06:06.820234Z",
-      "last_seen_at": "2026-10-22T18:06:06.820234Z",
+      "last_seen_at": "2026-10-22T21:49:56.509675Z",
       "title_original": "张建勇：北汽以 \"三智\" 阵地仗破局差异化竞争",
       "title_en": null,
       "title_zh": "张建勇：北汽以 \"三智\" 阵地仗破局差异化竞争",
       "title_bilingual": "张建勇：北汽以 \"三智\" 阵地仗破局差异化竞争",
       "topic_tags": [
         "新能源",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "1c1eef50b89c11540b04e1f97855548d0a4306f0",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "空间敞亮 零跑C16提车作业",
-      "url": "https://club.autohome.com.cn/bbs/thread/15eb8dc404397dab/116408757-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-10-21T20:16:39.690331Z",
-      "last_seen_at": "2026-10-22T18:06:06.820234Z",
-      "title_original": "空间敞亮 零跑C16提车作业",
-      "title_en": null,
-      "title_zh": "空间敞亮 零跑C16提车作业",
-      "title_bilingual": "空间敞亮 零跑C16提车作业",
-      "topic_tags": [
-        "车企竞争",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "3531f7b007d63d5cbbfc9805b04fff31007deae5",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "底盘质感无敌 岚图追光S提车作业",
-      "url": "https://club.autohome.com.cn/bbs/thread/b06d662c54110e03/116232358-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-10-21T20:16:39.690331Z",
-      "last_seen_at": "2026-10-22T18:06:06.820234Z",
-      "title_original": "底盘质感无敌 岚图追光S提车作业",
-      "title_en": null,
-      "title_zh": "底盘质感无敌 岚图追光S提车作业",
-      "title_bilingual": "底盘质感无敌 岚图追光S提车作业",
-      "topic_tags": [
-        "供应链",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "c3c4dc6507d982809491582256712a5b587f6d05",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "家用务实选择 比亚迪秦L提车分享",
-      "url": "https://club.autohome.com.cn/bbs/thread/e5887948087277c3/116229388-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-10-21T20:16:39.690331Z",
-      "last_seen_at": "2026-10-22T18:06:06.820234Z",
-      "title_original": "家用务实选择 比亚迪秦L提车分享",
-      "title_en": null,
-      "title_zh": "家用务实选择 比亚迪秦L提车分享",
-      "title_bilingual": "家用务实选择 比亚迪秦L提车分享",
-      "topic_tags": [
-        "车企竞争",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "c90cc30eb5ad477f9bf42f0b414154b5b43f3aea",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "底盘调校稳重 ID.ERA 5S提车分享",
-      "url": "https://club.autohome.com.cn/bbs/thread/fad66fcea1a263da/116166541-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-10-21T20:16:39.690331Z",
-      "last_seen_at": "2026-10-22T18:06:06.820234Z",
-      "title_original": "底盘调校稳重 ID.ERA 5S提车分享",
-      "title_en": null,
-      "title_zh": "底盘调校稳重 ID.ERA 5S提车分享",
-      "title_bilingual": "底盘调校稳重 ID.ERA 5S提车分享",
-      "topic_tags": [
-        "供应链",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "37922635ec2a3ca836af57afd7b22cd10f55ca93",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "长城大狗HEV混动版Hi2两驱更节能",
-      "url": "https://club.autohome.com.cn/bbs/thread/71d6e87bb241e51f/116414106-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-10-21T20:16:39.690331Z",
-      "last_seen_at": "2026-10-22T13:05:09.696434Z",
-      "title_original": "长城大狗HEV混动版Hi2两驱更节能",
-      "title_en": null,
-      "title_zh": "长城大狗HEV混动版Hi2两驱更节能",
-      "title_bilingual": "长城大狗HEV混动版Hi2两驱更节能",
-      "topic_tags": [
-        "新能源",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "2950257bc82750f66268c644889f0b68fa8cc094",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "AI试车，全新一代比亚迪唐，首搭全新巨幕UI交互系统，亮点抢先看",
-      "url": "http://vc.yiche.com/vplay/13719869.html",
-      "published_at": null,
-      "first_seen_at": "2026-10-21T20:16:39.690331Z",
-      "last_seen_at": "2026-10-22T18:06:06.820234Z",
-      "title_original": "AI试车，全新一代比亚迪唐，首搭全新巨幕UI交互系统，亮点抢先看",
-      "title_en": null,
-      "title_zh": "AI试车，全新一代比亚迪唐，首搭全新巨幕UI交互系统，亮点抢先看",
-      "title_bilingual": "AI试车，全新一代比亚迪唐，首搭全新巨幕UI交互系统，亮点抢先看",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "79a24c904285367c622fe7126c2f23213d81aa03",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "试驾体验smart精灵2号 不是复刻而是重生",
-      "url": "http://vc.yiche.com/vplay/13773552.html",
-      "published_at": null,
-      "first_seen_at": "2026-10-21T20:16:39.690331Z",
-      "last_seen_at": "2026-10-22T18:06:06.820234Z",
-      "title_original": "试驾体验smart精灵2号 不是复刻而是重生",
-      "title_en": null,
-      "title_zh": "试驾体验smart精灵2号 不是复刻而是重生",
-      "title_bilingual": "试驾体验smart精灵2号 不是复刻而是重生",
-      "topic_tags": [
-        "购车决策"
-      ]
-    },
-    {
-      "id": "8bfa7ee9bbaa27c3b6a107961b770bf0e0bbc2c4",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "买前必看！星瑞L PLUS配置推荐+销量预测！",
-      "url": "http://vc.yiche.com/vplay/13729564.html",
-      "published_at": null,
-      "first_seen_at": "2026-10-21T20:16:39.690331Z",
-      "last_seen_at": "2026-10-22T18:06:06.820234Z",
-      "title_original": "买前必看！星瑞L PLUS配置推荐+销量预测！",
-      "title_en": null,
-      "title_zh": "买前必看！星瑞L PLUS配置推荐+销量预测！",
-      "title_bilingual": "买前必看！星瑞L PLUS配置推荐+销量预测！",
-      "topic_tags": [
-        "销量市场"
-      ]
-    },
-    {
-      "id": "8356f2a283d5d15c5f70e8c925a2b70459567307",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-智能网联",
-      "title": "李书福：换电切忌重复建设，行业要协同减少无效投入",
-      "url": "https://auto.gasgoo.com/news/202610/21I70475510C601.shtml",
-      "published_at": "2026-10-21T20:03:15Z",
-      "first_seen_at": "2026-10-22T13:05:09.696434Z",
-      "last_seen_at": "2026-10-22T18:06:06.820234Z",
-      "title_original": "李书福：换电切忌重复建设，行业要协同减少无效投入",
-      "title_en": null,
-      "title_zh": "李书福：换电切忌重复建设，行业要协同减少无效投入",
-      "title_bilingual": "李书福：换电切忌重复建设，行业要协同减少无效投入",
-      "topic_tags": [
-        "补能电池"
-      ]
-    },
-    {
-      "id": "5dc65d8be75027a11d0172baf30ecdd08d26ad27",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "尹同跃：拒绝价格战，中国车企出海切忌“出海变填海”",
-      "url": "https://auto.gasgoo.com/news/202610/21I70475509C109.shtml",
-      "published_at": "2026-10-21T19:50:01Z",
-      "first_seen_at": "2026-10-22T13:05:09.696434Z",
-      "last_seen_at": "2026-10-22T18:06:06.820234Z",
-      "title_original": "尹同跃：拒绝价格战，中国车企出海切忌“出海变填海”",
-      "title_en": null,
-      "title_zh": "尹同跃：拒绝价格战，中国车企出海切忌“出海变填海”",
-      "title_bilingual": "尹同跃：拒绝价格战，中国车企出海切忌“出海变填海”",
-      "topic_tags": [
-        "价格战",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "5e195e4ebb94cd1cf9be3fa57537c6c58c96aab1",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-智能网联",
-      "title": "赵非：预计2027年L3级实现量产，2028年L4级开启商业化运营",
-      "url": "https://auto.gasgoo.com/news/202610/21I70475508C601.shtml",
-      "published_at": "2026-10-21T19:40:43Z",
-      "first_seen_at": "2026-10-22T13:05:09.696434Z",
-      "last_seen_at": "2026-10-22T18:06:06.820234Z",
-      "title_original": "赵非：预计2027年L3级实现量产，2028年L4级开启商业化运营",
-      "title_en": null,
-      "title_zh": "赵非：预计2027年L3级实现量产，2028年L4级开启商业化运营",
-      "title_bilingual": "赵非：预计2027年L3级实现量产，2028年L4级开启商业化运营",
-      "topic_tags": []
-    },
-    {
-      "id": "e6510f4076222d5b95cbd4085cf95ace0c453e40",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "奔驰CEO：产业保护需平衡成本，欧盟应坚持开放合作",
-      "url": "https://auto.gasgoo.com/news/202610/21I70475497C109.shtml",
-      "published_at": "2026-10-21T18:26:28Z",
-      "first_seen_at": "2026-10-22T13:05:09.696434Z",
-      "last_seen_at": "2026-10-22T18:06:06.820234Z",
-      "title_original": "奔驰CEO：产业保护需平衡成本，欧盟应坚持开放合作",
-      "title_en": null,
-      "title_zh": "奔驰CEO：产业保护需平衡成本，欧盟应坚持开放合作",
-      "title_bilingual": "奔驰CEO：产业保护需平衡成本，欧盟应坚持开放合作",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "0f58919f23c611983f5c1ce8c77c143016be99a0",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "大众在华智能化进入“交付模式”：2027年L3就绪，中国研发反哺全球",
-      "url": "https://auto.gasgoo.com/news/202610/21I70475496C109.shtml",
-      "published_at": "2026-10-21T18:22:28Z",
-      "first_seen_at": "2026-10-22T13:05:09.696434Z",
-      "last_seen_at": "2026-10-22T18:06:06.820234Z",
-      "title_original": "大众在华智能化进入“交付模式”：2027年L3就绪，中国研发反哺全球",
-      "title_en": null,
-      "title_zh": "大众在华智能化进入“交付模式”：2027年L3就绪，中国研发反哺全球",
-      "title_bilingual": "大众在华智能化进入“交付模式”：2027年L3就绪，中国研发反哺全球",
-      "topic_tags": [
-        "销量市场",
         "车企竞争"
       ]
     }
