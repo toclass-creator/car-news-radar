@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-10-24T10:16:01.704165Z",
+  "generated_at": "2026-10-24T14:04:10.763279Z",
   "window_hours": 24,
-  "total_items": 35,
-  "total_items_ai_raw": 36,
-  "total_items_raw": 2960,
-  "total_items_all_mode": 2621,
+  "total_items": 28,
+  "total_items_ai_raw": 29,
+  "total_items_raw": 2755,
+  "total_items_all_mode": 2446,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 53672,
+  "archive_total": 54084,
   "site_count": 3,
-  "source_count": 9,
+  "source_count": 10,
   "site_stats": [
     {
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "count": 22,
-      "raw_count": 23
+      "count": 16,
+      "raw_count": 17
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
-      "count": 13,
-      "raw_count": 2813
+      "count": 12,
+      "raw_count": 2588
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "count": 0,
-      "raw_count": 124
+      "raw_count": 150
     }
   ],
   "topic_tag_stats": [
@@ -35,28 +35,32 @@
       "count": 16
     },
     {
-      "tag": "供应链",
-      "count": 8
-    },
-    {
       "tag": "新能源",
-      "count": 7
-    },
-    {
-      "tag": "购车决策",
-      "count": 7
+      "count": 6
     },
     {
       "tag": "新车上市",
-      "count": 5
+      "count": 6
+    },
+    {
+      "tag": "购车决策",
+      "count": 6
     },
     {
       "tag": "补能电池",
+      "count": 5
+    },
+    {
+      "tag": "供应链",
       "count": 4
     },
     {
       "tag": "召回安全",
       "count": 3
+    },
+    {
+      "tag": "价格战",
+      "count": 1
     },
     {
       "tag": "智能驾驶",
@@ -69,6 +73,63 @@
   ],
   "items": [
     {
+      "id": "4a4cfdcf24494e8823abaf70ef22920b07b09cb3",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "China has about 15 million passenger cars with NOA as driver assistance adoption expands",
+      "url": "https://cnevpost.com/2026/10/24/china-15-million-cars-with-noa",
+      "published_at": "2026-10-24T12:29:35Z",
+      "first_seen_at": "2026-10-24T14:04:10.763279Z",
+      "last_seen_at": "2026-10-24T14:04:10.763279Z",
+      "title_original": "China has about 15 million passenger cars with NOA as driver assistance adoption expands",
+      "title_en": "China has about 15 million passenger cars with NOA as driver assistance adoption expands",
+      "title_zh": "随着驾驶员辅助应用的扩大，中国约有 1500 万辆配备 NOA 的客车",
+      "title_bilingual": "随着驾驶员辅助应用的扩大，中国约有 1500 万辆配备 NOA 的客车 / China has about 15 million passenger cars with NOA as driver assistance adoption expands",
+      "topic_tags": [
+        "新能源"
+      ]
+    },
+    {
+      "id": "772d8114e381a925cb79f443d1bc529ab4f43a5e",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Volkswagen launches ID. Unyx 09 with 5C fast charging in China, starting from 26,800 USD",
+      "url": "https://carnewschina.com/2026/10/24/volkswagen-launches-id-unyx-09-with-5c-fast-charging-in-china-starting-from-26800-usd",
+      "published_at": "2026-10-24T12:23:05Z",
+      "first_seen_at": "2026-10-24T14:04:10.763279Z",
+      "last_seen_at": "2026-10-24T14:04:10.763279Z",
+      "title_original": "Volkswagen launches ID. Unyx 09 with 5C fast charging in China, starting from 26,800 USD",
+      "title_en": "Volkswagen launches ID. Unyx 09 with 5C fast charging in China, starting from 26,800 USD",
+      "title_zh": "大众汽车推出ID. Unyx 09在中国支持5C快充，26,800美元起",
+      "title_bilingual": "大众汽车推出ID. Unyx 09在中国支持5C快充，26,800美元起 / Volkswagen launches ID. Unyx 09 with 5C fast charging in China, starting from 26,800 USD",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "4ea3e85ea8de7df662122b0d0d784d539e624f90",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-Battery",
+      "title": "CATL confirms Qilin Battery powers Nio Firefly with 560 km range",
+      "url": "https://cnevpost.com/2026/10/24/catl-qilin-battery-nio-firefly-60-kwh",
+      "published_at": "2026-10-24T11:46:57Z",
+      "first_seen_at": "2026-10-24T14:04:10.763279Z",
+      "last_seen_at": "2026-10-24T14:04:10.763279Z",
+      "title_original": "CATL confirms Qilin Battery powers Nio Firefly with 560 km range",
+      "title_en": "CATL confirms Qilin Battery powers Nio Firefly with 560 km range",
+      "title_zh": "CATL确认麒麟电池为蔚来萤火虫提供动力，续航里程达560公里",
+      "title_bilingual": "CATL确认麒麟电池为蔚来萤火虫提供动力，续航里程达560公里 / CATL confirms Qilin Battery powers Nio Firefly with 560 km range",
+      "topic_tags": [
+        "补能电池",
+        "车企竞争"
+      ]
+    },
+    {
       "id": "3c0eb39c709e009e83f1298ab6a0632680b112e6",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -77,7 +138,7 @@
       "url": "https://www.dongchedi.com/article/7699298415091843609",
       "published_at": null,
       "first_seen_at": "2026-10-24T10:16:01.704165Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
+      "last_seen_at": "2026-10-24T14:04:10.763279Z",
       "title_original": "承载全家人的期待 试驾传祺向往E8 PHEV",
       "title_en": null,
       "title_zh": "承载全家人的期待 试驾传祺向往E8 PHEV",
@@ -96,13 +157,14 @@
       "url": "https://cnevpost.com/2026/10/24/vw-anhui-launches-id-unyx-09",
       "published_at": "2026-10-24T08:28:14Z",
       "first_seen_at": "2026-10-24T10:16:01.704165Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
+      "last_seen_at": "2026-10-24T14:04:10.763279Z",
       "title_original": "VW targets China's electric sedan market with Xpeng-powered ID. UNYX 09",
       "title_en": "VW targets China's electric sedan market with Xpeng-powered ID. UNYX 09",
-      "title_zh": null,
-      "title_bilingual": "VW targets China's electric sedan market with Xpeng-powered ID. UNYX 09",
+      "title_zh": "大众汽车以小鹏汽车为动力的ID瞄准了中国电动轿车市场。联合国纽约09",
+      "title_bilingual": "大众汽车以小鹏汽车为动力的ID瞄准了中国电动轿车市场。联合国纽约09 / VW targets China's electric sedan market with Xpeng-powered ID. UNYX 09",
       "topic_tags": [
         "新能源",
+        "销量市场",
         "车企竞争",
         "新车上市"
       ]
@@ -116,7 +178,7 @@
       "url": "https://carnewschina.com/2026/10/24/byds-denza-n8-reveals-four-cabin-colours-ahead-of-october-26-presale",
       "published_at": "2026-10-24T04:22:54Z",
       "first_seen_at": "2026-10-24T05:38:44.122088Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
+      "last_seen_at": "2026-10-24T14:04:10.763279Z",
       "title_original": "BYD’s Denza N8 reveals four cabin colours ahead of October 26 presale",
       "title_en": "BYD’s Denza N8 reveals four cabin colours ahead of October 26 presale",
       "title_zh": "比亚迪腾势N8公布四种内饰颜色 10月26日预售",
@@ -136,7 +198,7 @@
       "url": "https://carnewschina.com/2026/10/23/li-autos-new-i6-suv-achieves-811-km-11-8-kwh-100km-in-range-test-without-catls-help",
       "published_at": "2026-10-23T21:06:48Z",
       "first_seen_at": "2026-10-23T22:29:58.572679Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
+      "last_seen_at": "2026-10-24T14:04:10.763279Z",
       "title_original": "Li Auto’s new i6 SUV achieves 811 km & 11.8 kWh/100km in range test without CATL’s help",
       "title_en": "Li Auto’s new i6 SUV achieves 811 km & 11.8 kWh/100km in range test without CATL’s help",
       "title_zh": "理想汽车新款i6 SUV在没有CATL帮助的情况下在测试中实现了811公里和11.8千瓦时/100公里的续航里程",
@@ -158,7 +220,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/ece5a338ed364b94/116427597-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-23T19:26:07.858949Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
+      "last_seen_at": "2026-10-24T14:04:10.763279Z",
       "title_original": "动力真的很惊喜 问界M9提车作业分享",
       "title_en": null,
       "title_zh": "动力真的很惊喜 问界M9提车作业分享",
@@ -177,7 +239,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/fda8750049cde0b8/116387704-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-23T19:26:07.858949Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
+      "last_seen_at": "2026-10-24T14:04:10.763279Z",
       "title_original": "用车成本低 比亚迪海鸥提车作业分享",
       "title_en": null,
       "title_zh": "用车成本低 比亚迪海鸥提车作业分享",
@@ -196,7 +258,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/6162816d54e562b5/116387879-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-23T19:26:07.858949Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
+      "last_seen_at": "2026-10-24T14:04:10.763279Z",
       "title_original": "后排空间宽敞 比亚迪秦L提车分享",
       "title_en": null,
       "title_zh": "后排空间宽敞 比亚迪秦L提车分享",
@@ -215,7 +277,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/62f96d85b285a45a/116238297-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-23T19:26:07.858949Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
+      "last_seen_at": "2026-10-24T14:04:10.763279Z",
       "title_original": "瑕不掩瑜 吉利银河TT提车作业分享",
       "title_en": null,
       "title_zh": "瑕不掩瑜 吉利银河TT提车作业分享",
@@ -234,7 +296,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/f09bf36524e3989a/116418803-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-23T19:26:07.858949Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
+      "last_seen_at": "2026-10-24T14:04:10.763279Z",
       "title_original": "底盘调教扎实 零跑C16提车作业分享",
       "title_en": null,
       "title_zh": "底盘调教扎实 零跑C16提车作业分享",
@@ -254,7 +316,7 @@
       "url": "http://vc.yiche.com/vplay/13762422.html",
       "published_at": null,
       "first_seen_at": "2026-10-23T19:26:07.858949Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
+      "last_seen_at": "2026-10-24T14:04:10.763279Z",
       "title_original": "月销4万台A0级卷王，吉利星愿给一个不买的理由",
       "title_en": null,
       "title_zh": "月销4万台A0级卷王，吉利星愿给一个不买的理由",
@@ -272,7 +334,7 @@
       "url": "http://vc.yiche.com/vplay/13763703.html",
       "published_at": null,
       "first_seen_at": "2026-10-23T19:26:07.858949Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
+      "last_seen_at": "2026-10-24T14:04:10.763279Z",
       "title_original": "奇瑞也要造摩托了？",
       "title_en": null,
       "title_zh": "奇瑞也要造摩托了？",
@@ -290,7 +352,7 @@
       "url": "http://vc.yiche.com/vplay/13768365.html",
       "published_at": null,
       "first_seen_at": "2026-10-23T19:26:07.858949Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
+      "last_seen_at": "2026-10-24T14:04:10.763279Z",
       "title_original": "比亚迪第三代唐上市价格预测，这价格你认为值得买吗？",
       "title_en": null,
       "title_zh": "比亚迪第三代唐上市价格预测，这价格你认为值得买吗？",
@@ -309,7 +371,7 @@
       "url": "http://vc.yiche.com/vplay/13802826.html",
       "published_at": null,
       "first_seen_at": "2026-10-23T19:26:07.858949Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
+      "last_seen_at": "2026-10-24T14:04:10.763279Z",
       "title_original": "新增华为乾崑ADS 5、宁德时代59度电池，2027款纵横G700全球卖爆了？",
       "title_en": null,
       "title_zh": "新增华为乾崑ADS 5、宁德时代59度电池，2027款纵横G700全球卖爆了？",
@@ -327,7 +389,7 @@
       "url": "http://vc.yiche.com/vplay/13751369.html",
       "published_at": null,
       "first_seen_at": "2026-10-23T19:26:07.858949Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
+      "last_seen_at": "2026-10-24T14:04:10.763279Z",
       "title_original": "智驾挑战滇中第一峰，ID.ERA 8X居然这么强？",
       "title_en": null,
       "title_zh": "智驾挑战滇中第一峰，ID.ERA 8X居然这么强？",
@@ -345,7 +407,7 @@
       "url": "http://vc.yiche.com/vplay/13744614.html",
       "published_at": null,
       "first_seen_at": "2026-10-23T19:26:07.858949Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
+      "last_seen_at": "2026-10-24T14:04:10.763279Z",
       "title_original": "不用充电的智能豪华四驱MPV",
       "title_en": null,
       "title_zh": "不用充电的智能豪华四驱MPV",
@@ -353,6 +415,59 @@
       "topic_tags": [
         "补能电池",
         "新车上市"
+      ]
+    },
+    {
+      "id": "21e2b6d48c3910d116e975d87424f7ed6247fd2a",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新车",
+      "title": "2027款坦克500上市，售价33.5万元起",
+      "url": "https://auto.gasgoo.com/news/202610/24I70475804C107.shtml",
+      "published_at": "2026-10-23T19:23:57Z",
+      "first_seen_at": "2026-10-24T14:04:10.763279Z",
+      "last_seen_at": "2026-10-24T14:04:10.763279Z",
+      "title_original": "2027款坦克500上市，售价33.5万元起",
+      "title_en": null,
+      "title_zh": "2027款坦克500上市，售价33.5万元起",
+      "title_bilingual": "2027款坦克500上市，售价33.5万元起",
+      "topic_tags": [
+        "价格战",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "551b7313b15b424739f3b515d3e837d09eb3d7d8",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "盖世汽车王显斌：中国方案全球价值的核心在本地化合规适配",
+      "url": "https://auto.gasgoo.com/news/202610/23I70475744C108.shtml",
+      "published_at": "2026-10-23T19:03:04Z",
+      "first_seen_at": "2026-10-24T14:04:10.763279Z",
+      "last_seen_at": "2026-10-24T14:04:10.763279Z",
+      "title_original": "盖世汽车王显斌：中国方案全球价值的核心在本地化合规适配",
+      "title_en": null,
+      "title_zh": "盖世汽车王显斌：中国方案全球价值的核心在本地化合规适配",
+      "title_bilingual": "盖世汽车王显斌：中国方案全球价值的核心在本地化合规适配",
+      "topic_tags": []
+    },
+    {
+      "id": "888fb5ed34421bbd06bfea4224e26ff0cc660dff",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "上汽成居正：从\"产品出海\"到\"体系出海\"",
+      "url": "https://auto.gasgoo.com/news/202610/23I70475740C109.shtml",
+      "published_at": "2026-10-23T18:47:20Z",
+      "first_seen_at": "2026-10-24T14:04:10.763279Z",
+      "last_seen_at": "2026-10-24T14:04:10.763279Z",
+      "title_original": "上汽成居正：从\"产品出海\"到\"体系出海\"",
+      "title_en": null,
+      "title_zh": "上汽成居正：从\"产品出海\"到\"体系出海\"",
+      "title_bilingual": "上汽成居正：从\"产品出海\"到\"体系出海\"",
+      "topic_tags": [
+        "车企竞争"
       ]
     },
     {
@@ -364,7 +479,7 @@
       "url": "https://auto.gasgoo.com/news/202610/23I70475728C108.shtml",
       "published_at": "2026-10-23T16:26:12Z",
       "first_seen_at": "2026-10-24T10:16:01.704165Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
+      "last_seen_at": "2026-10-24T14:04:10.763279Z",
       "title_original": "​东风赵春来：从单品到系统，迈向体系制胜",
       "title_en": null,
       "title_zh": "​东风赵春来：从单品到系统，迈向体系制胜",
@@ -380,7 +495,7 @@
       "url": "https://auto.gasgoo.com/news/202610/23I70475723C108.shtml",
       "published_at": "2026-10-23T15:56:13Z",
       "first_seen_at": "2026-10-24T10:16:01.704165Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
+      "last_seen_at": "2026-10-24T14:04:10.763279Z",
       "title_original": "汽车与环境创新论坛 | 捷豹路虎邢斌：守好测试最后一道防线",
       "title_en": null,
       "title_zh": "汽车与环境创新论坛 | 捷豹路虎邢斌：守好测试最后一道防线",
@@ -398,7 +513,7 @@
       "url": "https://auto.gasgoo.com/news/202610/23I70475724C103.shtml",
       "published_at": "2026-10-23T15:55:20Z",
       "first_seen_at": "2026-10-24T10:16:01.704165Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
+      "last_seen_at": "2026-10-24T14:04:10.763279Z",
       "title_original": "​加特兰唐保军：车规芯片质量从 \"符合标准\" 走向 \"值得信赖\"",
       "title_en": null,
       "title_zh": "​加特兰唐保军：车规芯片质量从 \"符合标准\" 走向 \"值得信赖\"",
@@ -417,7 +532,7 @@
       "url": "https://auto.gasgoo.com/news/202610/23I70475722C103.shtml",
       "published_at": "2026-10-23T15:31:57Z",
       "first_seen_at": "2026-10-24T10:16:01.704165Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
+      "last_seen_at": "2026-10-24T14:04:10.763279Z",
       "title_original": "捷温伍慧敏：以中国速度与创新驱动全球技术迭代",
       "title_en": null,
       "title_zh": "捷温伍慧敏：以中国速度与创新驱动全球技术迭代",
@@ -435,7 +550,7 @@
       "url": "https://auto.gasgoo.com/news/202610/23I70475721C108.shtml",
       "published_at": "2026-10-23T15:04:20Z",
       "first_seen_at": "2026-10-24T10:16:01.704165Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
+      "last_seen_at": "2026-10-24T14:04:10.763279Z",
       "title_original": "汽车与环境创新论坛 | 长安汽车胡铁刚：全球化不是简单卖车",
       "title_en": null,
       "title_zh": "汽车与环境创新论坛 | 长安汽车胡铁刚：全球化不是简单卖车",
@@ -453,7 +568,7 @@
       "url": "https://auto.gasgoo.com/news/202610/23I70475711C103.shtml",
       "published_at": "2026-10-23T14:41:47Z",
       "first_seen_at": "2026-10-24T10:16:01.704165Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
+      "last_seen_at": "2026-10-24T14:04:10.763279Z",
       "title_original": "法雷奥顾剑民：汽车开发提速，不等于压缩验证",
       "title_en": null,
       "title_zh": "法雷奥顾剑民：汽车开发提速，不等于压缩验证",
@@ -471,7 +586,7 @@
       "url": "https://auto.gasgoo.com/news/202610/23I70475710C109.shtml",
       "published_at": "2026-10-23T14:40:11Z",
       "first_seen_at": "2026-10-24T10:16:01.704165Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
+      "last_seen_at": "2026-10-24T14:04:10.763279Z",
       "title_original": "苏伟铭：雷诺已考察400多家中国企业",
       "title_en": null,
       "title_zh": "苏伟铭：雷诺已考察400多家中国企业",
@@ -479,240 +594,67 @@
       "topic_tags": [
         "车企竞争"
       ]
-    },
-    {
-      "id": "cbee517659e9819625d0c30616de031cc5887fbe",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新能源",
-      "title": "换电，越来越香了？",
-      "url": "https://auto.gasgoo.com/news/202610/23I70475606C501.shtml",
-      "published_at": "2026-10-23T14:00:37Z",
-      "first_seen_at": "2026-10-24T10:16:01.704165Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
-      "title_original": "换电，越来越香了？",
-      "title_en": null,
-      "title_zh": "换电，越来越香了？",
-      "title_bilingual": "换电，越来越香了？",
-      "topic_tags": [
-        "新能源",
-        "补能电池"
-      ]
-    },
-    {
-      "id": "c93105f160cb1976fb97131ee9176639553010bb",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "赵福全：AI转型是一把手工程",
-      "url": "https://auto.gasgoo.com/news/202610/23I70475707C108.shtml",
-      "published_at": "2026-10-23T13:22:33Z",
-      "first_seen_at": "2026-10-24T05:38:44.122088Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
-      "title_original": "赵福全：AI转型是一把手工程",
-      "title_en": null,
-      "title_zh": "赵福全：AI转型是一把手工程",
-      "title_bilingual": "赵福全：AI转型是一把手工程",
-      "topic_tags": []
-    },
-    {
-      "id": "0d7ef4050da097366570c6143429227e542a4bdc",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-供应链",
-      "title": "AI智能体扎堆上车，座舱体验泡沫怎么破？",
-      "url": "https://auto.gasgoo.com/news/202610/23I70475706C103.shtml",
-      "published_at": "2026-10-23T13:13:23Z",
-      "first_seen_at": "2026-10-24T05:38:44.122088Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
-      "title_original": "AI智能体扎堆上车，座舱体验泡沫怎么破？",
-      "title_en": null,
-      "title_zh": "AI智能体扎堆上车，座舱体验泡沫怎么破？",
-      "title_bilingual": "AI智能体扎堆上车，座舱体验泡沫怎么破？",
-      "topic_tags": [
-        "供应链",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "28fb373758b00a69dcefa828776360811b9ff79f",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "GWM launches 2027 Tank 500 with driver-assistance and cabin upgrades",
-      "url": "https://cnevpost.com/2026/10/23/gwm-launches-2027-tank-500",
-      "published_at": "2026-10-23T13:06:38Z",
-      "first_seen_at": "2026-10-23T15:20:38.022121Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
-      "title_original": "GWM launches 2027 Tank 500 with driver-assistance and cabin upgrades",
-      "title_en": "GWM launches 2027 Tank 500 with driver-assistance and cabin upgrades",
-      "title_zh": "长城汽车推出 2027 款 Tank 500，配备驾驶辅助和驾驶室升级",
-      "title_bilingual": "长城汽车推出 2027 款 Tank 500，配备驾驶辅助和驾驶室升级 / GWM launches 2027 Tank 500 with driver-assistance and cabin upgrades",
-      "topic_tags": [
-        "新能源",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "e2c6aa6d04d823aa86a0b5a7afe7b6a299eb99ca",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-供应链",
-      "title": "智能座舱的窗口期，为什么是这两年？",
-      "url": "https://auto.gasgoo.com/news/202610/23I70475704C601.shtml",
-      "published_at": "2026-10-23T12:55:06Z",
-      "first_seen_at": "2026-10-24T05:38:44.122088Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
-      "title_original": "智能座舱的窗口期，为什么是这两年？",
-      "title_en": null,
-      "title_zh": "智能座舱的窗口期，为什么是这两年？",
-      "title_bilingual": "智能座舱的窗口期，为什么是这两年？",
-      "topic_tags": [
-        "供应链"
-      ]
-    },
-    {
-      "id": "4cca015fc87621c06ca31531c936e7de17f9591a",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "汽车与环境创新论坛 | 周晓莺：中国汽车产业进入结构调整关键期",
-      "url": "https://auto.gasgoo.com/news/202610/23I70475699C108.shtml",
-      "published_at": "2026-10-23T11:58:14Z",
-      "first_seen_at": "2026-10-24T05:38:44.122088Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
-      "title_original": "汽车与环境创新论坛 | 周晓莺：中国汽车产业进入结构调整关键期",
-      "title_en": null,
-      "title_zh": "汽车与环境创新论坛 | 周晓莺：中国汽车产业进入结构调整关键期",
-      "title_bilingual": "汽车与环境创新论坛 | 周晓莺：中国汽车产业进入结构调整关键期",
-      "topic_tags": []
-    },
-    {
-      "id": "f744e8340e7dff622273b6f2db0240bd046de571",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "【国际快讯】博世拟分拆汽车零部件业务；9月欧洲汽车销量同比上涨10%；曝通用汽车取消与美国新建稀土磁材工厂的供货协议",
-      "url": "https://auto.gasgoo.com/news/202610/23I70475702C108.shtml",
-      "published_at": "2026-10-23T11:51:45Z",
-      "first_seen_at": "2026-10-24T05:38:44.122088Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
-      "title_original": "【国际快讯】博世拟分拆汽车零部件业务；9月欧洲汽车销量同比上涨10%；曝通用汽车取消与美国新建稀土磁材工厂的供货协议",
-      "title_en": null,
-      "title_zh": "【国际快讯】博世拟分拆汽车零部件业务；9月欧洲汽车销量同比上涨10%；曝通用汽车取消与美国新建稀土磁材工厂的供货协议",
-      "title_bilingual": "【国际快讯】博世拟分拆汽车零部件业务；9月欧洲汽车销量同比上涨10%；曝通用汽车取消与美国新建稀土磁材工厂的供货协议",
-      "topic_tags": [
-        "销量市场",
-        "供应链"
-      ]
-    },
-    {
-      "id": "5ba0c1edded233ed6af2c43a934afb0e439ead08",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "CPCA forecasts weak China NEV retail sales in October as peak season falters",
-      "url": "https://cnevpost.com/2026/10/23/cpca-forecasts-weak-china-nev-retail-oct-2026",
-      "published_at": "2026-10-23T11:47:11Z",
-      "first_seen_at": "2026-10-23T15:20:38.022121Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
-      "title_original": "CPCA forecasts weak China NEV retail sales in October as peak season falters",
-      "title_en": "CPCA forecasts weak China NEV retail sales in October as peak season falters",
-      "title_zh": "CPCA预测10月份中国新能源汽车零售量因旺季停滞而疲软",
-      "title_bilingual": "CPCA预测10月份中国新能源汽车零售量因旺季停滞而疲软 / CPCA forecasts weak China NEV retail sales in October as peak season falters",
-      "topic_tags": [
-        "新能源"
-      ]
-    },
-    {
-      "id": "d05f8044c1d274f0af9e43d6dfe1d0176bb89162",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "汽车与环境创新论坛 | 祖似杰：下一轮竞争，既在产品，更在体系",
-      "url": "https://auto.gasgoo.com/news/202610/23I70475698C108.shtml",
-      "published_at": "2026-10-23T11:38:38Z",
-      "first_seen_at": "2026-10-24T05:38:44.122088Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
-      "title_original": "汽车与环境创新论坛 | 祖似杰：下一轮竞争，既在产品，更在体系",
-      "title_en": null,
-      "title_zh": "汽车与环境创新论坛 | 祖似杰：下一轮竞争，既在产品，更在体系",
-      "title_bilingual": "汽车与环境创新论坛 | 祖似杰：下一轮竞争，既在产品，更在体系",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "7c261339e84391226aa07eeaca8e2eb2b3f41aba",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-供应链",
-      "title": "博世重组德国业务：智能出行部门将转为独立子公司",
-      "url": "https://auto.gasgoo.com/news/202610/23I70475694C103.shtml",
-      "published_at": "2026-10-23T11:14:13Z",
-      "first_seen_at": "2026-10-24T05:38:44.122088Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
-      "title_original": "博世重组德国业务：智能出行部门将转为独立子公司",
-      "title_en": null,
-      "title_zh": "博世重组德国业务：智能出行部门将转为独立子公司",
-      "title_bilingual": "博世重组德国业务：智能出行部门将转为独立子公司",
-      "topic_tags": [
-        "供应链"
-      ]
-    },
-    {
-      "id": "224bbeafe2b9b268623ddb54c0540b9c7ea0fc18",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "汽车与环境创新论坛 | 付于武：增强中国汽车产业软实力，打造新生态、新价值",
-      "url": "https://auto.gasgoo.com/news/202610/23I70475696C108.shtml",
-      "published_at": "2026-10-23T11:08:46Z",
-      "first_seen_at": "2026-10-24T05:38:44.122088Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
-      "title_original": "汽车与环境创新论坛 | 付于武：增强中国汽车产业软实力，打造新生态、新价值",
-      "title_en": null,
-      "title_zh": "汽车与环境创新论坛 | 付于武：增强中国汽车产业软实力，打造新生态、新价值",
-      "title_bilingual": "汽车与环境创新论坛 | 付于武：增强中国汽车产业软实力，打造新生态、新价值",
-      "topic_tags": []
-    },
-    {
-      "id": "1bd712ad4b98043b43ea0f6832c8636e011a4843",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "懂车帝 · 文章排行榜",
-      "title": "水到渠成？奇瑞收购捷豹大猜想",
-      "url": "https://www.dongchedi.com/article/7698722876795535896",
-      "published_at": null,
-      "first_seen_at": "2026-10-23T10:21:54.517457Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
-      "title_original": "水到渠成？奇瑞收购捷豹大猜想",
-      "title_en": null,
-      "title_zh": "水到渠成？奇瑞收购捷豹大猜想",
-      "title_bilingual": "水到渠成？奇瑞收购捷豹大猜想",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "3b85dc8133a49c3d59277220f90e2dd2fb6f0bac",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "付于武：汽车强国建设要同步增强产业\"软实力\"",
-      "url": "https://auto.gasgoo.com/news/202610/23I70475693C108.shtml",
-      "published_at": "2026-10-23T10:16:27Z",
-      "first_seen_at": "2026-10-24T05:38:44.122088Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
-      "title_original": "付于武：汽车强国建设要同步增强产业\"软实力\"",
-      "title_en": null,
-      "title_zh": "付于武：汽车强国建设要同步增强产业\"软实力\"",
-      "title_bilingual": "付于武：汽车强国建设要同步增强产业\"软实力\"",
-      "topic_tags": []
     }
   ],
   "items_ai": [
     {
+      "id": "4a4cfdcf24494e8823abaf70ef22920b07b09cb3",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "China has about 15 million passenger cars with NOA as driver assistance adoption expands",
+      "url": "https://cnevpost.com/2026/10/24/china-15-million-cars-with-noa",
+      "published_at": "2026-10-24T12:29:35Z",
+      "first_seen_at": "2026-10-24T14:04:10.763279Z",
+      "last_seen_at": "2026-10-24T14:04:10.763279Z",
+      "title_original": "China has about 15 million passenger cars with NOA as driver assistance adoption expands",
+      "title_en": "China has about 15 million passenger cars with NOA as driver assistance adoption expands",
+      "title_zh": "随着驾驶员辅助应用的扩大，中国约有 1500 万辆配备 NOA 的客车",
+      "title_bilingual": "随着驾驶员辅助应用的扩大，中国约有 1500 万辆配备 NOA 的客车 / China has about 15 million passenger cars with NOA as driver assistance adoption expands",
+      "topic_tags": [
+        "新能源"
+      ]
+    },
+    {
+      "id": "772d8114e381a925cb79f443d1bc529ab4f43a5e",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Volkswagen launches ID. Unyx 09 with 5C fast charging in China, starting from 26,800 USD",
+      "url": "https://carnewschina.com/2026/10/24/volkswagen-launches-id-unyx-09-with-5c-fast-charging-in-china-starting-from-26800-usd",
+      "published_at": "2026-10-24T12:23:05Z",
+      "first_seen_at": "2026-10-24T14:04:10.763279Z",
+      "last_seen_at": "2026-10-24T14:04:10.763279Z",
+      "title_original": "Volkswagen launches ID. Unyx 09 with 5C fast charging in China, starting from 26,800 USD",
+      "title_en": "Volkswagen launches ID. Unyx 09 with 5C fast charging in China, starting from 26,800 USD",
+      "title_zh": "大众汽车推出ID. Unyx 09在中国支持5C快充，26,800美元起",
+      "title_bilingual": "大众汽车推出ID. Unyx 09在中国支持5C快充，26,800美元起 / Volkswagen launches ID. Unyx 09 with 5C fast charging in China, starting from 26,800 USD",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "4ea3e85ea8de7df662122b0d0d784d539e624f90",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-Battery",
+      "title": "CATL confirms Qilin Battery powers Nio Firefly with 560 km range",
+      "url": "https://cnevpost.com/2026/10/24/catl-qilin-battery-nio-firefly-60-kwh",
+      "published_at": "2026-10-24T11:46:57Z",
+      "first_seen_at": "2026-10-24T14:04:10.763279Z",
+      "last_seen_at": "2026-10-24T14:04:10.763279Z",
+      "title_original": "CATL confirms Qilin Battery powers Nio Firefly with 560 km range",
+      "title_en": "CATL confirms Qilin Battery powers Nio Firefly with 560 km range",
+      "title_zh": "CATL确认麒麟电池为蔚来萤火虫提供动力，续航里程达560公里",
+      "title_bilingual": "CATL确认麒麟电池为蔚来萤火虫提供动力，续航里程达560公里 / CATL confirms Qilin Battery powers Nio Firefly with 560 km range",
+      "topic_tags": [
+        "补能电池",
+        "车企竞争"
+      ]
+    },
+    {
       "id": "3c0eb39c709e009e83f1298ab6a0632680b112e6",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -721,7 +663,7 @@
       "url": "https://www.dongchedi.com/article/7699298415091843609",
       "published_at": null,
       "first_seen_at": "2026-10-24T10:16:01.704165Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
+      "last_seen_at": "2026-10-24T14:04:10.763279Z",
       "title_original": "承载全家人的期待 试驾传祺向往E8 PHEV",
       "title_en": null,
       "title_zh": "承载全家人的期待 试驾传祺向往E8 PHEV",
@@ -740,13 +682,14 @@
       "url": "https://cnevpost.com/2026/10/24/vw-anhui-launches-id-unyx-09",
       "published_at": "2026-10-24T08:28:14Z",
       "first_seen_at": "2026-10-24T10:16:01.704165Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
+      "last_seen_at": "2026-10-24T14:04:10.763279Z",
       "title_original": "VW targets China's electric sedan market with Xpeng-powered ID. UNYX 09",
       "title_en": "VW targets China's electric sedan market with Xpeng-powered ID. UNYX 09",
-      "title_zh": null,
-      "title_bilingual": "VW targets China's electric sedan market with Xpeng-powered ID. UNYX 09",
+      "title_zh": "大众汽车以小鹏汽车为动力的ID瞄准了中国电动轿车市场。联合国纽约09",
+      "title_bilingual": "大众汽车以小鹏汽车为动力的ID瞄准了中国电动轿车市场。联合国纽约09 / VW targets China's electric sedan market with Xpeng-powered ID. UNYX 09",
       "topic_tags": [
         "新能源",
+        "销量市场",
         "车企竞争",
         "新车上市"
       ]
@@ -760,7 +703,7 @@
       "url": "https://carnewschina.com/2026/10/24/byds-denza-n8-reveals-four-cabin-colours-ahead-of-october-26-presale",
       "published_at": "2026-10-24T04:22:54Z",
       "first_seen_at": "2026-10-24T05:38:44.122088Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
+      "last_seen_at": "2026-10-24T14:04:10.763279Z",
       "title_original": "BYD’s Denza N8 reveals four cabin colours ahead of October 26 presale",
       "title_en": "BYD’s Denza N8 reveals four cabin colours ahead of October 26 presale",
       "title_zh": "比亚迪腾势N8公布四种内饰颜色 10月26日预售",
@@ -780,7 +723,7 @@
       "url": "https://carnewschina.com/2026/10/23/li-autos-new-i6-suv-achieves-811-km-11-8-kwh-100km-in-range-test-without-catls-help",
       "published_at": "2026-10-23T21:06:48Z",
       "first_seen_at": "2026-10-23T22:29:58.572679Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
+      "last_seen_at": "2026-10-24T14:04:10.763279Z",
       "title_original": "Li Auto’s new i6 SUV achieves 811 km & 11.8 kWh/100km in range test without CATL’s help",
       "title_en": "Li Auto’s new i6 SUV achieves 811 km & 11.8 kWh/100km in range test without CATL’s help",
       "title_zh": "理想汽车新款i6 SUV在没有CATL帮助的情况下在测试中实现了811公里和11.8千瓦时/100公里的续航里程",
@@ -802,7 +745,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/ece5a338ed364b94/116427597-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-23T19:26:07.858949Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
+      "last_seen_at": "2026-10-24T14:04:10.763279Z",
       "title_original": "动力真的很惊喜 问界M9提车作业分享",
       "title_en": null,
       "title_zh": "动力真的很惊喜 问界M9提车作业分享",
@@ -821,7 +764,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/fda8750049cde0b8/116387704-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-23T19:26:07.858949Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
+      "last_seen_at": "2026-10-24T14:04:10.763279Z",
       "title_original": "用车成本低 比亚迪海鸥提车作业分享",
       "title_en": null,
       "title_zh": "用车成本低 比亚迪海鸥提车作业分享",
@@ -840,7 +783,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/6162816d54e562b5/116387879-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-23T19:26:07.858949Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
+      "last_seen_at": "2026-10-24T14:04:10.763279Z",
       "title_original": "后排空间宽敞 比亚迪秦L提车分享",
       "title_en": null,
       "title_zh": "后排空间宽敞 比亚迪秦L提车分享",
@@ -859,7 +802,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/62f96d85b285a45a/116238297-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-23T19:26:07.858949Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
+      "last_seen_at": "2026-10-24T14:04:10.763279Z",
       "title_original": "瑕不掩瑜 吉利银河TT提车作业分享",
       "title_en": null,
       "title_zh": "瑕不掩瑜 吉利银河TT提车作业分享",
@@ -878,7 +821,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/f09bf36524e3989a/116418803-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-23T19:26:07.858949Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
+      "last_seen_at": "2026-10-24T14:04:10.763279Z",
       "title_original": "底盘调教扎实 零跑C16提车作业分享",
       "title_en": null,
       "title_zh": "底盘调教扎实 零跑C16提车作业分享",
@@ -898,7 +841,7 @@
       "url": "http://vc.yiche.com/vplay/13762422.html",
       "published_at": null,
       "first_seen_at": "2026-10-23T19:26:07.858949Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
+      "last_seen_at": "2026-10-24T14:04:10.763279Z",
       "title_original": "月销4万台A0级卷王，吉利星愿给一个不买的理由",
       "title_en": null,
       "title_zh": "月销4万台A0级卷王，吉利星愿给一个不买的理由",
@@ -916,7 +859,7 @@
       "url": "http://vc.yiche.com/vplay/13763703.html",
       "published_at": null,
       "first_seen_at": "2026-10-23T19:26:07.858949Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
+      "last_seen_at": "2026-10-24T14:04:10.763279Z",
       "title_original": "奇瑞也要造摩托了？",
       "title_en": null,
       "title_zh": "奇瑞也要造摩托了？",
@@ -934,7 +877,7 @@
       "url": "http://vc.yiche.com/vplay/13768365.html",
       "published_at": null,
       "first_seen_at": "2026-10-23T19:26:07.858949Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
+      "last_seen_at": "2026-10-24T14:04:10.763279Z",
       "title_original": "比亚迪第三代唐上市价格预测，这价格你认为值得买吗？",
       "title_en": null,
       "title_zh": "比亚迪第三代唐上市价格预测，这价格你认为值得买吗？",
@@ -953,7 +896,7 @@
       "url": "http://vc.yiche.com/vplay/13802826.html",
       "published_at": null,
       "first_seen_at": "2026-10-23T19:26:07.858949Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
+      "last_seen_at": "2026-10-24T14:04:10.763279Z",
       "title_original": "新增华为乾崑ADS 5、宁德时代59度电池，2027款纵横G700全球卖爆了？",
       "title_en": null,
       "title_zh": "新增华为乾崑ADS 5、宁德时代59度电池，2027款纵横G700全球卖爆了？",
@@ -971,7 +914,7 @@
       "url": "http://vc.yiche.com/vplay/13751369.html",
       "published_at": null,
       "first_seen_at": "2026-10-23T19:26:07.858949Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
+      "last_seen_at": "2026-10-24T14:04:10.763279Z",
       "title_original": "智驾挑战滇中第一峰，ID.ERA 8X居然这么强？",
       "title_en": null,
       "title_zh": "智驾挑战滇中第一峰，ID.ERA 8X居然这么强？",
@@ -989,7 +932,7 @@
       "url": "http://vc.yiche.com/vplay/13744614.html",
       "published_at": null,
       "first_seen_at": "2026-10-23T19:26:07.858949Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
+      "last_seen_at": "2026-10-24T14:04:10.763279Z",
       "title_original": "不用充电的智能豪华四驱MPV",
       "title_en": null,
       "title_zh": "不用充电的智能豪华四驱MPV",
@@ -997,6 +940,59 @@
       "topic_tags": [
         "补能电池",
         "新车上市"
+      ]
+    },
+    {
+      "id": "21e2b6d48c3910d116e975d87424f7ed6247fd2a",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新车",
+      "title": "2027款坦克500上市，售价33.5万元起",
+      "url": "https://auto.gasgoo.com/news/202610/24I70475804C107.shtml",
+      "published_at": "2026-10-23T19:23:57Z",
+      "first_seen_at": "2026-10-24T14:04:10.763279Z",
+      "last_seen_at": "2026-10-24T14:04:10.763279Z",
+      "title_original": "2027款坦克500上市，售价33.5万元起",
+      "title_en": null,
+      "title_zh": "2027款坦克500上市，售价33.5万元起",
+      "title_bilingual": "2027款坦克500上市，售价33.5万元起",
+      "topic_tags": [
+        "价格战",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "551b7313b15b424739f3b515d3e837d09eb3d7d8",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "盖世汽车王显斌：中国方案全球价值的核心在本地化合规适配",
+      "url": "https://auto.gasgoo.com/news/202610/23I70475744C108.shtml",
+      "published_at": "2026-10-23T19:03:04Z",
+      "first_seen_at": "2026-10-24T14:04:10.763279Z",
+      "last_seen_at": "2026-10-24T14:04:10.763279Z",
+      "title_original": "盖世汽车王显斌：中国方案全球价值的核心在本地化合规适配",
+      "title_en": null,
+      "title_zh": "盖世汽车王显斌：中国方案全球价值的核心在本地化合规适配",
+      "title_bilingual": "盖世汽车王显斌：中国方案全球价值的核心在本地化合规适配",
+      "topic_tags": []
+    },
+    {
+      "id": "888fb5ed34421bbd06bfea4224e26ff0cc660dff",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "上汽成居正：从\"产品出海\"到\"体系出海\"",
+      "url": "https://auto.gasgoo.com/news/202610/23I70475740C109.shtml",
+      "published_at": "2026-10-23T18:47:20Z",
+      "first_seen_at": "2026-10-24T14:04:10.763279Z",
+      "last_seen_at": "2026-10-24T14:04:10.763279Z",
+      "title_original": "上汽成居正：从\"产品出海\"到\"体系出海\"",
+      "title_en": null,
+      "title_zh": "上汽成居正：从\"产品出海\"到\"体系出海\"",
+      "title_bilingual": "上汽成居正：从\"产品出海\"到\"体系出海\"",
+      "topic_tags": [
+        "车企竞争"
       ]
     },
     {
@@ -1008,7 +1004,7 @@
       "url": "https://auto.gasgoo.com/news/202610/23I70475728C108.shtml",
       "published_at": "2026-10-23T16:26:12Z",
       "first_seen_at": "2026-10-24T10:16:01.704165Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
+      "last_seen_at": "2026-10-24T14:04:10.763279Z",
       "title_original": "​东风赵春来：从单品到系统，迈向体系制胜",
       "title_en": null,
       "title_zh": "​东风赵春来：从单品到系统，迈向体系制胜",
@@ -1024,7 +1020,7 @@
       "url": "https://auto.gasgoo.com/news/202610/23I70475723C108.shtml",
       "published_at": "2026-10-23T15:56:13Z",
       "first_seen_at": "2026-10-24T10:16:01.704165Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
+      "last_seen_at": "2026-10-24T14:04:10.763279Z",
       "title_original": "汽车与环境创新论坛 | 捷豹路虎邢斌：守好测试最后一道防线",
       "title_en": null,
       "title_zh": "汽车与环境创新论坛 | 捷豹路虎邢斌：守好测试最后一道防线",
@@ -1042,7 +1038,7 @@
       "url": "https://auto.gasgoo.com/news/202610/23I70475724C103.shtml",
       "published_at": "2026-10-23T15:55:20Z",
       "first_seen_at": "2026-10-24T10:16:01.704165Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
+      "last_seen_at": "2026-10-24T14:04:10.763279Z",
       "title_original": "​加特兰唐保军：车规芯片质量从 \"符合标准\" 走向 \"值得信赖\"",
       "title_en": null,
       "title_zh": "​加特兰唐保军：车规芯片质量从 \"符合标准\" 走向 \"值得信赖\"",
@@ -1061,7 +1057,7 @@
       "url": "https://auto.gasgoo.com/news/202610/23I70475722C103.shtml",
       "published_at": "2026-10-23T15:31:57Z",
       "first_seen_at": "2026-10-24T10:16:01.704165Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
+      "last_seen_at": "2026-10-24T14:04:10.763279Z",
       "title_original": "捷温伍慧敏：以中国速度与创新驱动全球技术迭代",
       "title_en": null,
       "title_zh": "捷温伍慧敏：以中国速度与创新驱动全球技术迭代",
@@ -1079,7 +1075,7 @@
       "url": "https://auto.gasgoo.com/news/202610/23I70475721C108.shtml",
       "published_at": "2026-10-23T15:04:20Z",
       "first_seen_at": "2026-10-24T10:16:01.704165Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
+      "last_seen_at": "2026-10-24T14:04:10.763279Z",
       "title_original": "汽车与环境创新论坛 | 长安汽车胡铁刚：全球化不是简单卖车",
       "title_en": null,
       "title_zh": "汽车与环境创新论坛 | 长安汽车胡铁刚：全球化不是简单卖车",
@@ -1097,7 +1093,7 @@
       "url": "https://auto.gasgoo.com/news/202610/23I70475711C103.shtml",
       "published_at": "2026-10-23T14:41:47Z",
       "first_seen_at": "2026-10-24T10:16:01.704165Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
+      "last_seen_at": "2026-10-24T14:04:10.763279Z",
       "title_original": "法雷奥顾剑民：汽车开发提速，不等于压缩验证",
       "title_en": null,
       "title_zh": "法雷奥顾剑民：汽车开发提速，不等于压缩验证",
@@ -1115,7 +1111,7 @@
       "url": "https://auto.gasgoo.com/news/202610/23I70475710C109.shtml",
       "published_at": "2026-10-23T14:40:11Z",
       "first_seen_at": "2026-10-24T10:16:01.704165Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
+      "last_seen_at": "2026-10-24T14:04:10.763279Z",
       "title_original": "苏伟铭：雷诺已考察400多家中国企业",
       "title_en": null,
       "title_zh": "苏伟铭：雷诺已考察400多家中国企业",
@@ -1123,236 +1119,6 @@
       "topic_tags": [
         "车企竞争"
       ]
-    },
-    {
-      "id": "cbee517659e9819625d0c30616de031cc5887fbe",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新能源",
-      "title": "换电，越来越香了？",
-      "url": "https://auto.gasgoo.com/news/202610/23I70475606C501.shtml",
-      "published_at": "2026-10-23T14:00:37Z",
-      "first_seen_at": "2026-10-24T10:16:01.704165Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
-      "title_original": "换电，越来越香了？",
-      "title_en": null,
-      "title_zh": "换电，越来越香了？",
-      "title_bilingual": "换电，越来越香了？",
-      "topic_tags": [
-        "新能源",
-        "补能电池"
-      ]
-    },
-    {
-      "id": "c93105f160cb1976fb97131ee9176639553010bb",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "赵福全：AI转型是一把手工程",
-      "url": "https://auto.gasgoo.com/news/202610/23I70475707C108.shtml",
-      "published_at": "2026-10-23T13:22:33Z",
-      "first_seen_at": "2026-10-24T05:38:44.122088Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
-      "title_original": "赵福全：AI转型是一把手工程",
-      "title_en": null,
-      "title_zh": "赵福全：AI转型是一把手工程",
-      "title_bilingual": "赵福全：AI转型是一把手工程",
-      "topic_tags": []
-    },
-    {
-      "id": "0d7ef4050da097366570c6143429227e542a4bdc",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-供应链",
-      "title": "AI智能体扎堆上车，座舱体验泡沫怎么破？",
-      "url": "https://auto.gasgoo.com/news/202610/23I70475706C103.shtml",
-      "published_at": "2026-10-23T13:13:23Z",
-      "first_seen_at": "2026-10-24T05:38:44.122088Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
-      "title_original": "AI智能体扎堆上车，座舱体验泡沫怎么破？",
-      "title_en": null,
-      "title_zh": "AI智能体扎堆上车，座舱体验泡沫怎么破？",
-      "title_bilingual": "AI智能体扎堆上车，座舱体验泡沫怎么破？",
-      "topic_tags": [
-        "供应链",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "28fb373758b00a69dcefa828776360811b9ff79f",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "GWM launches 2027 Tank 500 with driver-assistance and cabin upgrades",
-      "url": "https://cnevpost.com/2026/10/23/gwm-launches-2027-tank-500",
-      "published_at": "2026-10-23T13:06:38Z",
-      "first_seen_at": "2026-10-23T15:20:38.022121Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
-      "title_original": "GWM launches 2027 Tank 500 with driver-assistance and cabin upgrades",
-      "title_en": "GWM launches 2027 Tank 500 with driver-assistance and cabin upgrades",
-      "title_zh": "长城汽车推出 2027 款 Tank 500，配备驾驶辅助和驾驶室升级",
-      "title_bilingual": "长城汽车推出 2027 款 Tank 500，配备驾驶辅助和驾驶室升级 / GWM launches 2027 Tank 500 with driver-assistance and cabin upgrades",
-      "topic_tags": [
-        "新能源",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "e2c6aa6d04d823aa86a0b5a7afe7b6a299eb99ca",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-供应链",
-      "title": "智能座舱的窗口期，为什么是这两年？",
-      "url": "https://auto.gasgoo.com/news/202610/23I70475704C601.shtml",
-      "published_at": "2026-10-23T12:55:06Z",
-      "first_seen_at": "2026-10-24T05:38:44.122088Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
-      "title_original": "智能座舱的窗口期，为什么是这两年？",
-      "title_en": null,
-      "title_zh": "智能座舱的窗口期，为什么是这两年？",
-      "title_bilingual": "智能座舱的窗口期，为什么是这两年？",
-      "topic_tags": [
-        "供应链"
-      ]
-    },
-    {
-      "id": "4cca015fc87621c06ca31531c936e7de17f9591a",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "汽车与环境创新论坛 | 周晓莺：中国汽车产业进入结构调整关键期",
-      "url": "https://auto.gasgoo.com/news/202610/23I70475699C108.shtml",
-      "published_at": "2026-10-23T11:58:14Z",
-      "first_seen_at": "2026-10-24T05:38:44.122088Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
-      "title_original": "汽车与环境创新论坛 | 周晓莺：中国汽车产业进入结构调整关键期",
-      "title_en": null,
-      "title_zh": "汽车与环境创新论坛 | 周晓莺：中国汽车产业进入结构调整关键期",
-      "title_bilingual": "汽车与环境创新论坛 | 周晓莺：中国汽车产业进入结构调整关键期",
-      "topic_tags": []
-    },
-    {
-      "id": "f744e8340e7dff622273b6f2db0240bd046de571",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "【国际快讯】博世拟分拆汽车零部件业务；9月欧洲汽车销量同比上涨10%；曝通用汽车取消与美国新建稀土磁材工厂的供货协议",
-      "url": "https://auto.gasgoo.com/news/202610/23I70475702C108.shtml",
-      "published_at": "2026-10-23T11:51:45Z",
-      "first_seen_at": "2026-10-24T05:38:44.122088Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
-      "title_original": "【国际快讯】博世拟分拆汽车零部件业务；9月欧洲汽车销量同比上涨10%；曝通用汽车取消与美国新建稀土磁材工厂的供货协议",
-      "title_en": null,
-      "title_zh": "【国际快讯】博世拟分拆汽车零部件业务；9月欧洲汽车销量同比上涨10%；曝通用汽车取消与美国新建稀土磁材工厂的供货协议",
-      "title_bilingual": "【国际快讯】博世拟分拆汽车零部件业务；9月欧洲汽车销量同比上涨10%；曝通用汽车取消与美国新建稀土磁材工厂的供货协议",
-      "topic_tags": [
-        "销量市场",
-        "供应链"
-      ]
-    },
-    {
-      "id": "5ba0c1edded233ed6af2c43a934afb0e439ead08",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "CPCA forecasts weak China NEV retail sales in October as peak season falters",
-      "url": "https://cnevpost.com/2026/10/23/cpca-forecasts-weak-china-nev-retail-oct-2026",
-      "published_at": "2026-10-23T11:47:11Z",
-      "first_seen_at": "2026-10-23T15:20:38.022121Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
-      "title_original": "CPCA forecasts weak China NEV retail sales in October as peak season falters",
-      "title_en": "CPCA forecasts weak China NEV retail sales in October as peak season falters",
-      "title_zh": "CPCA预测10月份中国新能源汽车零售量因旺季停滞而疲软",
-      "title_bilingual": "CPCA预测10月份中国新能源汽车零售量因旺季停滞而疲软 / CPCA forecasts weak China NEV retail sales in October as peak season falters",
-      "topic_tags": [
-        "新能源"
-      ]
-    },
-    {
-      "id": "d05f8044c1d274f0af9e43d6dfe1d0176bb89162",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "汽车与环境创新论坛 | 祖似杰：下一轮竞争，既在产品，更在体系",
-      "url": "https://auto.gasgoo.com/news/202610/23I70475698C108.shtml",
-      "published_at": "2026-10-23T11:38:38Z",
-      "first_seen_at": "2026-10-24T05:38:44.122088Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
-      "title_original": "汽车与环境创新论坛 | 祖似杰：下一轮竞争，既在产品，更在体系",
-      "title_en": null,
-      "title_zh": "汽车与环境创新论坛 | 祖似杰：下一轮竞争，既在产品，更在体系",
-      "title_bilingual": "汽车与环境创新论坛 | 祖似杰：下一轮竞争，既在产品，更在体系",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "7c261339e84391226aa07eeaca8e2eb2b3f41aba",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-供应链",
-      "title": "博世重组德国业务：智能出行部门将转为独立子公司",
-      "url": "https://auto.gasgoo.com/news/202610/23I70475694C103.shtml",
-      "published_at": "2026-10-23T11:14:13Z",
-      "first_seen_at": "2026-10-24T05:38:44.122088Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
-      "title_original": "博世重组德国业务：智能出行部门将转为独立子公司",
-      "title_en": null,
-      "title_zh": "博世重组德国业务：智能出行部门将转为独立子公司",
-      "title_bilingual": "博世重组德国业务：智能出行部门将转为独立子公司",
-      "topic_tags": [
-        "供应链"
-      ]
-    },
-    {
-      "id": "224bbeafe2b9b268623ddb54c0540b9c7ea0fc18",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "汽车与环境创新论坛 | 付于武：增强中国汽车产业软实力，打造新生态、新价值",
-      "url": "https://auto.gasgoo.com/news/202610/23I70475696C108.shtml",
-      "published_at": "2026-10-23T11:08:46Z",
-      "first_seen_at": "2026-10-24T05:38:44.122088Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
-      "title_original": "汽车与环境创新论坛 | 付于武：增强中国汽车产业软实力，打造新生态、新价值",
-      "title_en": null,
-      "title_zh": "汽车与环境创新论坛 | 付于武：增强中国汽车产业软实力，打造新生态、新价值",
-      "title_bilingual": "汽车与环境创新论坛 | 付于武：增强中国汽车产业软实力，打造新生态、新价值",
-      "topic_tags": []
-    },
-    {
-      "id": "1bd712ad4b98043b43ea0f6832c8636e011a4843",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "懂车帝 · 文章排行榜",
-      "title": "水到渠成？奇瑞收购捷豹大猜想",
-      "url": "https://www.dongchedi.com/article/7698722876795535896",
-      "published_at": null,
-      "first_seen_at": "2026-10-23T10:21:54.517457Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
-      "title_original": "水到渠成？奇瑞收购捷豹大猜想",
-      "title_en": null,
-      "title_zh": "水到渠成？奇瑞收购捷豹大猜想",
-      "title_bilingual": "水到渠成？奇瑞收购捷豹大猜想",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "3b85dc8133a49c3d59277220f90e2dd2fb6f0bac",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "付于武：汽车强国建设要同步增强产业\"软实力\"",
-      "url": "https://auto.gasgoo.com/news/202610/23I70475693C108.shtml",
-      "published_at": "2026-10-23T10:16:27Z",
-      "first_seen_at": "2026-10-24T05:38:44.122088Z",
-      "last_seen_at": "2026-10-24T10:16:01.704165Z",
-      "title_original": "付于武：汽车强国建设要同步增强产业\"软实力\"",
-      "title_en": null,
-      "title_zh": "付于武：汽车强国建设要同步增强产业\"软实力\"",
-      "title_bilingual": "付于武：汽车强国建设要同步增强产业\"软实力\"",
-      "topic_tags": []
     }
   ],
   "all_mode_data_url": "data/latest-24h-all.json"
