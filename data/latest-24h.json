@@ -1,74 +1,150 @@
 {
-  "generated_at": "2026-10-28T03:56:37.489487Z",
+  "generated_at": "2026-10-28T10:23:23.257070Z",
   "window_hours": 24,
-  "total_items": 25,
-  "total_items_ai_raw": 27,
-  "total_items_raw": 2434,
-  "total_items_all_mode": 2147,
+  "total_items": 32,
+  "total_items_ai_raw": 36,
+  "total_items_raw": 2551,
+  "total_items_all_mode": 2271,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 55490,
+  "archive_total": 55599,
   "site_count": 3,
   "source_count": 10,
   "site_stats": [
     {
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "count": 16,
-      "raw_count": 18
+      "count": 23,
+      "raw_count": 27
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "count": 9,
-      "raw_count": 2315
+      "raw_count": 2422
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "count": 0,
-      "raw_count": 101
+      "raw_count": 102
     }
   ],
   "topic_tag_stats": [
     {
       "tag": "车企竞争",
-      "count": 15
+      "count": 19
     },
     {
       "tag": "新能源",
-      "count": 9
+      "count": 10
     },
     {
       "tag": "购车决策",
       "count": 9
     },
     {
-      "tag": "新车上市",
-      "count": 5
+      "tag": "销量市场",
+      "count": 6
     },
     {
-      "tag": "供应链",
-      "count": 2
+      "tag": "新车上市",
+      "count": 4
     },
     {
       "tag": "召回安全",
+      "count": 2
+    },
+    {
+      "tag": "补能电池",
+      "count": 2
+    },
+    {
+      "tag": "供应链",
       "count": 1
     },
     {
       "tag": "智能驾驶",
       "count": 1
-    },
-    {
-      "tag": "补能电池",
-      "count": 1
-    },
-    {
-      "tag": "销量市场",
-      "count": 1
     }
   ],
   "items": [
     {
+      "id": "5b29eccfd69814b3689cc530e4e86d69283ca559",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "China NEV retail sales fall 13% in October 1-25 as peak-season demand stays weak",
+      "url": "https://cnevpost.com/2026/10/28/china-nev-retail-fall-oct-1-25",
+      "published_at": "2026-10-28T09:36:29Z",
+      "first_seen_at": "2026-10-28T10:23:23.257070Z",
+      "last_seen_at": "2026-10-28T10:23:23.257070Z",
+      "title_original": "China NEV retail sales fall 13% in October 1-25 as peak-season demand stays weak",
+      "title_en": "China NEV retail sales fall 13% in October 1-25 as peak-season demand stays weak",
+      "title_zh": "旺季需求持续疲软，10月1-25日中国新能源汽车零售量下降13%",
+      "title_bilingual": "旺季需求持续疲软，10月1-25日中国新能源汽车零售量下降13% / China NEV retail sales fall 13% in October 1-25 as peak-season demand stays weak",
+      "topic_tags": [
+        "新能源"
+      ]
+    },
+    {
+      "id": "fe6e1a25c5d41dcb3d0f2cb115e7542f0aa5f13f",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-Battery",
+      "title": "Solid-state batteries for Xpeng's Iron humanoid robot enter small-batch production",
+      "url": "https://cnevpost.com/2026/10/28/solid-state-batteries-xpeng-iron-small-batch-production",
+      "published_at": "2026-10-28T09:11:24Z",
+      "first_seen_at": "2026-10-28T10:23:23.257070Z",
+      "last_seen_at": "2026-10-28T10:23:23.257070Z",
+      "title_original": "Solid-state batteries for Xpeng's Iron humanoid robot enter small-batch production",
+      "title_en": "Solid-state batteries for Xpeng's Iron humanoid robot enter small-batch production",
+      "title_zh": "小鹏Iron仿人机器人固态电池进入小批量生产",
+      "title_bilingual": "小鹏Iron仿人机器人固态电池进入小批量生产 / Solid-state batteries for Xpeng's Iron humanoid robot enter small-batch production",
+      "topic_tags": [
+        "补能电池",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "e6e90551be0ad5df03d90acadf8e1138aacec26c",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Second-gen BYD Seagull completed 140 km/h tire blowout test",
+      "url": "https://carnewschina.com/2026/10/28/second-gen-byd-seagull-completed-140-km-h-tire-blowout-test",
+      "published_at": "2026-10-28T07:14:14Z",
+      "first_seen_at": "2026-10-28T10:23:23.257070Z",
+      "last_seen_at": "2026-10-28T10:23:23.257070Z",
+      "title_original": "Second-gen BYD Seagull completed 140 km/h tire blowout test",
+      "title_en": "Second-gen BYD Seagull completed 140 km/h tire blowout test",
+      "title_zh": "第二代比亚迪海鸥完成140公里/小时轮胎爆胎测试",
+      "title_bilingual": "第二代比亚迪海鸥完成140公里/小时轮胎爆胎测试 / Second-gen BYD Seagull completed 140 km/h tire blowout test",
+      "topic_tags": [
+        "新能源",
+        "召回安全",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "1a445475a3b451436b1e1d9d06189637bb5f00bf",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "CATL advances 20 Ah solid-state battery cells ahead of 2027 trial production",
+      "url": "https://carnewschina.com/2026/10/28/catl-advances-20-ah-solid-state-battery-cells-ahead-of-2027-trial-production",
+      "published_at": "2026-10-28T07:14:03Z",
+      "first_seen_at": "2026-10-28T10:23:23.257070Z",
+      "last_seen_at": "2026-10-28T10:23:23.257070Z",
+      "title_original": "CATL advances 20 Ah solid-state battery cells ahead of 2027 trial production",
+      "title_en": "CATL advances 20 Ah solid-state battery cells ahead of 2027 trial production",
+      "title_zh": "CATL推出20Ah固态电池 2027年试产",
+      "title_bilingual": "CATL推出20Ah固态电池 2027年试产 / CATL advances 20 Ah solid-state battery cells ahead of 2027 trial production",
+      "topic_tags": [
+        "新能源",
+        "补能电池"
+      ]
+    },
+    {
       "id": "5cb5a8c84c69586e0f04e7c2baec8d04141df6f1",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -77,7 +153,7 @@
       "url": "https://cnevpost.com/2026/10/28/catl-intilion-3-gwh-sodium-ion-storage",
       "published_at": "2026-10-27T22:01:11Z",
       "first_seen_at": "2026-10-27T23:54:21.301013Z",
-      "last_seen_at": "2026-10-28T03:56:37.489487Z",
+      "last_seen_at": "2026-10-28T10:23:23.257070Z",
       "title_original": "CATL signs deal with Germany's Intilion to deploy 3 GWh of sodium-ion storage over 5 years",
       "title_en": "CATL signs deal with Germany's Intilion to deploy 3 GWh of sodium-ion storage over 5 years",
       "title_zh": "CATL与德国Intilion签署协议，将在5年内部署3 GWh钠离子存储",
@@ -95,7 +171,7 @@
       "url": "https://carnewschina.com/2026/10/27/byds-denza-brings-power-saving-sentry-mode-to-discontinued-n7-suv-may-come-to-more-cars",
       "published_at": "2026-10-27T21:56:22Z",
       "first_seen_at": "2026-10-27T23:54:21.301013Z",
-      "last_seen_at": "2026-10-28T03:56:37.489487Z",
+      "last_seen_at": "2026-10-28T10:23:23.257070Z",
       "title_original": "BYD’s Denza brings power saving sentry mode to discontinued N7 SUV, may come to more cars",
       "title_en": "BYD’s Denza brings power saving sentry mode to discontinued N7 SUV, may come to more cars",
       "title_zh": "比亚迪腾势为已停产的N7 SUV带来省电哨兵模式，可能会应用于更多汽车",
@@ -115,7 +191,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/f5b70dfdd7c11a87/116458458-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-27T20:24:53.129876Z",
-      "last_seen_at": "2026-10-28T03:56:37.489487Z",
+      "last_seen_at": "2026-10-28T10:23:23.257070Z",
       "title_original": "二胎奶爸了 极氪9X家用挺满意！",
       "title_en": null,
       "title_zh": "二胎奶爸了 极氪9X家用挺满意！",
@@ -134,7 +210,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/70bfd6e3b2b684ed/116485307-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-27T20:24:53.129876Z",
-      "last_seen_at": "2026-10-28T03:56:37.489487Z",
+      "last_seen_at": "2026-10-28T10:23:23.257070Z",
       "title_original": "等的是值得的 小鹏MONA L03提车分享",
       "title_en": null,
       "title_zh": "等的是值得的 小鹏MONA L03提车分享",
@@ -153,7 +229,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/c834be6e5b6bf0ba/116486706-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-27T20:24:53.129876Z",
-      "last_seen_at": "2026-10-28T03:56:37.489487Z",
+      "last_seen_at": "2026-10-28T10:23:23.257070Z",
       "title_original": "底盘稳操控好 宝马3系提车作业分享",
       "title_en": null,
       "title_zh": "底盘稳操控好 宝马3系提车作业分享",
@@ -173,7 +249,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/652903bac423bad1/116484737-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-27T20:24:53.129876Z",
-      "last_seen_at": "2026-10-28T03:56:37.489487Z",
+      "last_seen_at": "2026-10-28T10:23:23.257070Z",
       "title_original": "捷达VS8黑武士版探店试驾体验",
       "title_en": null,
       "title_zh": "捷达VS8黑武士版探店试驾体验",
@@ -191,7 +267,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/925449fc011ce714/116473556-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-27T20:24:53.129876Z",
-      "last_seen_at": "2026-10-28T03:56:37.489487Z",
+      "last_seen_at": "2026-10-28T10:23:23.257070Z",
       "title_original": "动力很平顺 问界M7提车作业分享",
       "title_en": null,
       "title_zh": "动力很平顺 问界M7提车作业分享",
@@ -210,7 +286,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/d2a961add0eaca41/116457562-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-27T20:24:53.129876Z",
-      "last_seen_at": "2026-10-28T03:56:37.489487Z",
+      "last_seen_at": "2026-10-28T10:23:23.257070Z",
       "title_original": "空间表现很不错 理想L6提车作业分享",
       "title_en": null,
       "title_zh": "空间表现很不错 理想L6提车作业分享",
@@ -229,7 +305,7 @@
       "url": "http://vc.yiche.com/vplay/13825779.html",
       "published_at": null,
       "first_seen_at": "2026-10-27T20:24:53.129876Z",
-      "last_seen_at": "2026-10-28T03:56:37.489487Z",
+      "last_seen_at": "2026-10-28T10:23:23.257070Z",
       "title_original": "还在硬冲电车？2027款博越的用车成本也很低",
       "title_en": null,
       "title_zh": "还在硬冲电车？2027款博越的用车成本也很低",
@@ -248,7 +324,7 @@
       "url": "http://vc.yiche.com/vplay/13883620.html",
       "published_at": null,
       "first_seen_at": "2026-10-27T20:24:53.129876Z",
-      "last_seen_at": "2026-10-28T03:56:37.489487Z",
+      "last_seen_at": "2026-10-28T10:23:23.257070Z",
       "title_original": "双大厂品质背书 试驾智己LS8 NEO纯电",
       "title_en": null,
       "title_zh": "双大厂品质背书 试驾智己LS8 NEO纯电",
@@ -267,7 +343,7 @@
       "url": "http://vc.yiche.com/vplay/13829125.html",
       "published_at": null,
       "first_seen_at": "2026-10-27T20:24:53.129876Z",
-      "last_seen_at": "2026-10-28T03:56:37.489487Z",
+      "last_seen_at": "2026-10-28T10:23:23.257070Z",
       "title_original": "轴距2.8米/带激光雷达 比亚迪第三代秦PLUS定档10月27日上市",
       "title_en": null,
       "title_zh": "轴距2.8米/带激光雷达 比亚迪第三代秦PLUS定档10月27日上市",
@@ -279,6 +355,152 @@
       ]
     },
     {
+      "id": "1f444b49924f955a38ec9f5a9d1a76e36400b863",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "上汽集团前三季度海外销量突破百万辆",
+      "url": "https://auto.gasgoo.com/news/202610/27I70476020C109.shtml",
+      "published_at": "2026-10-27T16:31:52Z",
+      "first_seen_at": "2026-10-28T10:23:23.257070Z",
+      "last_seen_at": "2026-10-28T10:23:23.257070Z",
+      "title_original": "上汽集团前三季度海外销量突破百万辆",
+      "title_en": null,
+      "title_zh": "上汽集团前三季度海外销量突破百万辆",
+      "title_bilingual": "上汽集团前三季度海外销量突破百万辆",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "740ff38a261cb98d562bf437ad63e52a7044e969",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "卡住下一批新车落地的，会是什么？",
+      "url": "https://auto.gasgoo.com/news/202610/27I70476017C601.shtml",
+      "published_at": "2026-10-27T15:44:52Z",
+      "first_seen_at": "2026-10-28T10:23:23.257070Z",
+      "last_seen_at": "2026-10-28T10:23:23.257070Z",
+      "title_original": "卡住下一批新车落地的，会是什么？",
+      "title_en": null,
+      "title_zh": "卡住下一批新车落地的，会是什么？",
+      "title_bilingual": "卡住下一批新车落地的，会是什么？",
+      "topic_tags": [
+        "新车上市"
+      ]
+    },
+    {
+      "id": "dfc462411bd164c50638b1a73b4aad3e16cd9694",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "中国车企在欧洲季度销量首次超越日系车企",
+      "url": "https://auto.gasgoo.com/news/202610/27I70476008C110.shtml",
+      "published_at": "2026-10-27T13:51:13Z",
+      "first_seen_at": "2026-10-28T10:23:23.257070Z",
+      "last_seen_at": "2026-10-28T10:23:23.257070Z",
+      "title_original": "中国车企在欧洲季度销量首次超越日系车企",
+      "title_en": null,
+      "title_zh": "中国车企在欧洲季度销量首次超越日系车企",
+      "title_bilingual": "中国车企在欧洲季度销量首次超越日系车企",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "849fda8b18715c409f9caf1a13bfdfb1704e469d",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "2026年1—9月汽车行业利润率3.3%，利润同比降23%",
+      "url": "https://auto.gasgoo.com/news/202610/27I70476007C108.shtml",
+      "published_at": "2026-10-27T13:23:55Z",
+      "first_seen_at": "2026-10-28T10:23:23.257070Z",
+      "last_seen_at": "2026-10-28T10:23:23.257070Z",
+      "title_original": "2026年1—9月汽车行业利润率3.3%，利润同比降23%",
+      "title_en": null,
+      "title_zh": "2026年1—9月汽车行业利润率3.3%，利润同比降23%",
+      "title_bilingual": "2026年1—9月汽车行业利润率3.3%，利润同比降23%",
+      "topic_tags": [
+        "销量市场"
+      ]
+    },
+    {
+      "id": "d02fd4544e4413184872bfbe24d4bfa465112249",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "奥迪把两个“A”拆开了",
+      "url": "https://auto.gasgoo.com/news/202610/27I70476002C109.shtml",
+      "published_at": "2026-10-27T12:42:23Z",
+      "first_seen_at": "2026-10-28T10:23:23.257070Z",
+      "last_seen_at": "2026-10-28T10:23:23.257070Z",
+      "title_original": "奥迪把两个“A”拆开了",
+      "title_en": null,
+      "title_zh": "奥迪把两个“A”拆开了",
+      "title_bilingual": "奥迪把两个“A”拆开了",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "bf4659702aa81b1b1795c65aab51cc7f622fa7f6",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "大众汽车考虑在欧洲市场使用中国软件",
+      "url": "https://auto.gasgoo.com/news/202610/27I70475999C109.shtml",
+      "published_at": "2026-10-27T12:32:18Z",
+      "first_seen_at": "2026-10-28T10:23:23.257070Z",
+      "last_seen_at": "2026-10-28T10:23:23.257070Z",
+      "title_original": "大众汽车考虑在欧洲市场使用中国软件",
+      "title_en": null,
+      "title_zh": "大众汽车考虑在欧洲市场使用中国软件",
+      "title_bilingual": "大众汽车考虑在欧洲市场使用中国软件",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "90dd39cad80d19d6c43a703c306ed8abee8790b1",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "【国际快讯】中国车企在欧洲季度销量首次超越日系车企；欧盟计划2027年初对中国商品增设进口限制；曝大众考虑将中国版车机软件引入欧洲市场",
+      "url": "https://auto.gasgoo.com/news/202610/27I70476001C108.shtml",
+      "published_at": "2026-10-27T12:18:39Z",
+      "first_seen_at": "2026-10-28T10:23:23.257070Z",
+      "last_seen_at": "2026-10-28T10:23:23.257070Z",
+      "title_original": "【国际快讯】中国车企在欧洲季度销量首次超越日系车企；欧盟计划2027年初对中国商品增设进口限制；曝大众考虑将中国版车机软件引入欧洲市场",
+      "title_en": null,
+      "title_zh": "【国际快讯】中国车企在欧洲季度销量首次超越日系车企；欧盟计划2027年初对中国商品增设进口限制；曝大众考虑将中国版车机软件引入欧洲市场",
+      "title_bilingual": "【国际快讯】中国车企在欧洲季度销量首次超越日系车企；欧盟计划2027年初对中国商品增设进口限制；曝大众考虑将中国版车机软件引入欧洲市场",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "f50aca9db8b83564bda1fdcf030243c6101f928f",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新技术",
+      "title": "Stellantis申请秘密抬头显示系统专利 只有在超速行驶时才能触发",
+      "url": "https://auto.gasgoo.com/news/202610/27I70475998C409.shtml",
+      "published_at": "2026-10-27T11:58:29Z",
+      "first_seen_at": "2026-10-28T10:23:23.257070Z",
+      "last_seen_at": "2026-10-28T10:23:23.257070Z",
+      "title_original": "Stellantis申请秘密抬头显示系统专利 只有在超速行驶时才能触发",
+      "title_en": null,
+      "title_zh": "Stellantis申请秘密抬头显示系统专利 只有在超速行驶时才能触发",
+      "title_bilingual": "Stellantis申请秘密抬头显示系统专利 只有在超速行驶时才能触发",
+      "topic_tags": []
+    },
+    {
       "id": "4399975ec07f7bcdbc4e2044b2740a9c57e4a8c3",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -287,7 +509,7 @@
       "url": "https://cnevpost.com/2026/10/27/xpeng-gx-g9l-launch-middle-east-next-week",
       "published_at": "2026-10-27T11:55:58Z",
       "first_seen_at": "2026-10-27T15:42:15.508735Z",
-      "last_seen_at": "2026-10-28T03:56:37.489487Z",
+      "last_seen_at": "2026-10-28T10:23:23.257070Z",
       "title_original": "Xpeng GX and G9L to launch in Middle East next week as overseas stores top 1,200",
       "title_en": "Xpeng GX and G9L to launch in Middle East next week as overseas stores top 1,200",
       "title_zh": "小鹏GX和G9L下周登陆中东 海外门店突破1200家",
@@ -306,7 +528,7 @@
       "url": "https://auto.gasgoo.com/news/202610/27I70475997C409.shtml",
       "published_at": "2026-10-27T11:55:45Z",
       "first_seen_at": "2026-10-28T03:56:37.489487Z",
-      "last_seen_at": "2026-10-28T03:56:37.489487Z",
+      "last_seen_at": "2026-10-28T10:23:23.257070Z",
       "title_original": "福特申请全新专利 可让停放车辆在面临危险时自动驶离",
       "title_en": null,
       "title_zh": "福特申请全新专利 可让停放车辆在面临危险时自动驶离",
@@ -324,7 +546,7 @@
       "url": "https://auto.gasgoo.com/news/202610/27I70475995C409.shtml",
       "published_at": "2026-10-27T11:53:26Z",
       "first_seen_at": "2026-10-28T03:56:37.489487Z",
-      "last_seen_at": "2026-10-28T03:56:37.489487Z",
+      "last_seen_at": "2026-10-28T10:23:23.257070Z",
       "title_original": "TASKING推出业界首个针对NXP S32K5系列汽车微控制器的单一供应商统一工具链",
       "title_en": null,
       "title_zh": "TASKING推出业界首个针对NXP S32K5系列汽车微控制器的单一供应商统一工具链",
@@ -340,7 +562,7 @@
       "url": "https://carnewschina.com/2026/10/27/byd-teases-yangwang-altior-high-end-sedan-to-rival-rolls-royce",
       "published_at": "2026-10-27T11:44:25Z",
       "first_seen_at": "2026-10-27T15:42:15.508735Z",
-      "last_seen_at": "2026-10-28T03:56:37.489487Z",
+      "last_seen_at": "2026-10-28T10:23:23.257070Z",
       "title_original": "BYD teases Yangwang Altior high-end sedan to rival Rolls-Royce",
       "title_en": "BYD teases Yangwang Altior high-end sedan to rival Rolls-Royce",
       "title_zh": "比亚迪推出高端轿车“阳王Altior”，与劳斯莱斯竞争",
@@ -360,7 +582,7 @@
       "url": "https://auto.gasgoo.com/news/202610/27I70475993C501.shtml",
       "published_at": "2026-10-27T11:43:00Z",
       "first_seen_at": "2026-10-28T03:56:37.489487Z",
-      "last_seen_at": "2026-10-28T03:56:37.489487Z",
+      "last_seen_at": "2026-10-28T10:23:23.257070Z",
       "title_original": "新能源售后满意度领先，为何“修车难”仍是痛点？",
       "title_en": null,
       "title_zh": "新能源售后满意度领先，为何“修车难”仍是痛点？",
@@ -379,7 +601,7 @@
       "url": "https://auto.gasgoo.com/news/202610/27I70475994C409.shtml",
       "published_at": "2026-10-27T11:29:49Z",
       "first_seen_at": "2026-10-28T03:56:37.489487Z",
-      "last_seen_at": "2026-10-28T03:56:37.489487Z",
+      "last_seen_at": "2026-10-28T10:23:23.257070Z",
       "title_original": "韩巴大学研究显示：阳离子无序化有望改善富锂正极材料",
       "title_en": null,
       "title_zh": "韩巴大学研究显示：阳离子无序化有望改善富锂正极材料",
@@ -395,7 +617,7 @@
       "url": "https://auto.gasgoo.com/news/202610/27I70475975C109.shtml",
       "published_at": "2026-10-27T10:58:08Z",
       "first_seen_at": "2026-10-28T03:56:37.489487Z",
-      "last_seen_at": "2026-10-28T03:56:37.489487Z",
+      "last_seen_at": "2026-10-28T10:23:23.257070Z",
       "title_original": "奇瑞入选香港特区政府第七批重点企业",
       "title_en": null,
       "title_zh": "奇瑞入选香港特区政府第七批重点企业",
@@ -413,7 +635,7 @@
       "url": "https://auto.gasgoo.com/news/202610/27I70475986C409.shtml",
       "published_at": "2026-10-27T10:32:27Z",
       "first_seen_at": "2026-10-28T03:56:37.489487Z",
-      "last_seen_at": "2026-10-28T03:56:37.489487Z",
+      "last_seen_at": "2026-10-28T10:23:23.257070Z",
       "title_original": "意法半导体推出面向大众市场应用的首批汽车安全组合传感器",
       "title_en": null,
       "title_zh": "意法半导体推出面向大众市场应用的首批汽车安全组合传感器",
@@ -433,109 +655,92 @@
       "url": "https://auto.gasgoo.com/news/202610/27I70475985C601.shtml",
       "published_at": "2026-10-27T10:30:51Z",
       "first_seen_at": "2026-10-28T03:56:37.489487Z",
-      "last_seen_at": "2026-10-28T03:56:37.489487Z",
+      "last_seen_at": "2026-10-28T10:23:23.257070Z",
       "title_original": "智能网联汽车，驶入“规则时代”",
       "title_en": null,
       "title_zh": "智能网联汽车，驶入“规则时代”",
       "title_bilingual": "智能网联汽车，驶入“规则时代”",
       "topic_tags": []
-    },
-    {
-      "id": "d36fbf86a19eb61d1f1d6423d7d752578df857bc",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-供应链",
-      "title": "欧摩威，中国战略升维",
-      "url": "https://auto.gasgoo.com/news/202610/27I70475983C103.shtml",
-      "published_at": "2026-10-27T10:09:25Z",
-      "first_seen_at": "2026-10-28T03:56:37.489487Z",
-      "last_seen_at": "2026-10-28T03:56:37.489487Z",
-      "title_original": "欧摩威，中国战略升维",
-      "title_en": null,
-      "title_zh": "欧摩威，中国战略升维",
-      "title_bilingual": "欧摩威，中国战略升维",
-      "topic_tags": [
-        "供应链"
-      ]
-    },
-    {
-      "id": "1a4e6a13379e08d685d0ae2505e1535070edf97f",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "理想i6上市前直播拆车，李想称“不能造速成车”",
-      "url": "https://auto.gasgoo.com/news/202610/27I70475976C109.shtml",
-      "published_at": "2026-10-27T09:22:25Z",
-      "first_seen_at": "2026-10-28T03:56:37.489487Z",
-      "last_seen_at": "2026-10-28T03:56:37.489487Z",
-      "title_original": "理想i6上市前直播拆车，李想称“不能造速成车”",
-      "title_en": null,
-      "title_zh": "理想i6上市前直播拆车，李想称“不能造速成车”",
-      "title_bilingual": "理想i6上市前直播拆车，李想称“不能造速成车”",
-      "topic_tags": [
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "fd822074de638cdf1de29e2ef6b631d96d179b1c",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "汽车创新，越来越难赚到钱了",
-      "url": "https://auto.gasgoo.com/news/202610/27I70475928C108.shtml",
-      "published_at": "2026-10-27T07:00:56Z",
-      "first_seen_at": "2026-10-27T23:54:21.301013Z",
-      "last_seen_at": "2026-10-28T03:56:37.489487Z",
-      "title_original": "汽车创新，越来越难赚到钱了",
-      "title_en": null,
-      "title_zh": "汽车创新，越来越难赚到钱了",
-      "title_bilingual": "汽车创新，越来越难赚到钱了",
-      "topic_tags": []
-    },
-    {
-      "id": "814505e0b7a49c0f127685904a114c01af846eb3",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "BYD launches third-gen Qin Plus DM-i with larger body and longer electric range",
-      "url": "https://cnevpost.com/2026/10/27/byd-launches-3rd-gen-qin-plus-dm-i",
-      "published_at": "2026-10-27T06:41:23Z",
-      "first_seen_at": "2026-10-27T09:34:48.029926Z",
-      "last_seen_at": "2026-10-28T03:56:37.489487Z",
-      "title_original": "BYD launches third-gen Qin Plus DM-i with larger body and longer electric range",
-      "title_en": "BYD launches third-gen Qin Plus DM-i with larger body and longer electric range",
-      "title_zh": "比亚迪推出第三代秦Plus DM-i 车身更大、续航里程更长",
-      "title_bilingual": "比亚迪推出第三代秦Plus DM-i 车身更大、续航里程更长 / BYD launches third-gen Qin Plus DM-i with larger body and longer electric range",
-      "topic_tags": [
-        "新能源",
-        "补能电池",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "8d789f22ae27e628af3c2866336b0822330f2660",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "VW considers bringing Xpeng co-developed architecture to European models, report says",
-      "url": "https://cnevpost.com/2026/10/27/vw-considers-xpeng-co-developed-architecture-europ",
-      "published_at": "2026-10-27T04:18:11Z",
-      "first_seen_at": "2026-10-27T09:34:48.029926Z",
-      "last_seen_at": "2026-10-28T03:56:37.489487Z",
-      "title_original": "VW considers bringing Xpeng co-developed architecture to European models, report says",
-      "title_en": "VW considers bringing Xpeng co-developed architecture to European models, report says",
-      "title_zh": "报道称，大众考虑将小鹏汽车共同开发的架构引入欧洲车型",
-      "title_bilingual": "报道称，大众考虑将小鹏汽车共同开发的架构引入欧洲车型 / VW considers bringing Xpeng co-developed architecture to European models, report says",
-      "topic_tags": [
-        "新能源",
-        "车企竞争",
-        "新车上市"
-      ]
     }
   ],
   "items_ai": [
     {
+      "id": "5b29eccfd69814b3689cc530e4e86d69283ca559",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "China NEV retail sales fall 13% in October 1-25 as peak-season demand stays weak",
+      "url": "https://cnevpost.com/2026/10/28/china-nev-retail-fall-oct-1-25",
+      "published_at": "2026-10-28T09:36:29Z",
+      "first_seen_at": "2026-10-28T10:23:23.257070Z",
+      "last_seen_at": "2026-10-28T10:23:23.257070Z",
+      "title_original": "China NEV retail sales fall 13% in October 1-25 as peak-season demand stays weak",
+      "title_en": "China NEV retail sales fall 13% in October 1-25 as peak-season demand stays weak",
+      "title_zh": "旺季需求持续疲软，10月1-25日中国新能源汽车零售量下降13%",
+      "title_bilingual": "旺季需求持续疲软，10月1-25日中国新能源汽车零售量下降13% / China NEV retail sales fall 13% in October 1-25 as peak-season demand stays weak",
+      "topic_tags": [
+        "新能源"
+      ]
+    },
+    {
+      "id": "fe6e1a25c5d41dcb3d0f2cb115e7542f0aa5f13f",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-Battery",
+      "title": "Solid-state batteries for Xpeng's Iron humanoid robot enter small-batch production",
+      "url": "https://cnevpost.com/2026/10/28/solid-state-batteries-xpeng-iron-small-batch-production",
+      "published_at": "2026-10-28T09:11:24Z",
+      "first_seen_at": "2026-10-28T10:23:23.257070Z",
+      "last_seen_at": "2026-10-28T10:23:23.257070Z",
+      "title_original": "Solid-state batteries for Xpeng's Iron humanoid robot enter small-batch production",
+      "title_en": "Solid-state batteries for Xpeng's Iron humanoid robot enter small-batch production",
+      "title_zh": "小鹏Iron仿人机器人固态电池进入小批量生产",
+      "title_bilingual": "小鹏Iron仿人机器人固态电池进入小批量生产 / Solid-state batteries for Xpeng's Iron humanoid robot enter small-batch production",
+      "topic_tags": [
+        "补能电池",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "e6e90551be0ad5df03d90acadf8e1138aacec26c",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Second-gen BYD Seagull completed 140 km/h tire blowout test",
+      "url": "https://carnewschina.com/2026/10/28/second-gen-byd-seagull-completed-140-km-h-tire-blowout-test",
+      "published_at": "2026-10-28T07:14:14Z",
+      "first_seen_at": "2026-10-28T10:23:23.257070Z",
+      "last_seen_at": "2026-10-28T10:23:23.257070Z",
+      "title_original": "Second-gen BYD Seagull completed 140 km/h tire blowout test",
+      "title_en": "Second-gen BYD Seagull completed 140 km/h tire blowout test",
+      "title_zh": "第二代比亚迪海鸥完成140公里/小时轮胎爆胎测试",
+      "title_bilingual": "第二代比亚迪海鸥完成140公里/小时轮胎爆胎测试 / Second-gen BYD Seagull completed 140 km/h tire blowout test",
+      "topic_tags": [
+        "新能源",
+        "召回安全",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "1a445475a3b451436b1e1d9d06189637bb5f00bf",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "CATL advances 20 Ah solid-state battery cells ahead of 2027 trial production",
+      "url": "https://carnewschina.com/2026/10/28/catl-advances-20-ah-solid-state-battery-cells-ahead-of-2027-trial-production",
+      "published_at": "2026-10-28T07:14:03Z",
+      "first_seen_at": "2026-10-28T10:23:23.257070Z",
+      "last_seen_at": "2026-10-28T10:23:23.257070Z",
+      "title_original": "CATL advances 20 Ah solid-state battery cells ahead of 2027 trial production",
+      "title_en": "CATL advances 20 Ah solid-state battery cells ahead of 2027 trial production",
+      "title_zh": "CATL推出20Ah固态电池 2027年试产",
+      "title_bilingual": "CATL推出20Ah固态电池 2027年试产 / CATL advances 20 Ah solid-state battery cells ahead of 2027 trial production",
+      "topic_tags": [
+        "新能源",
+        "补能电池"
+      ]
+    },
+    {
       "id": "5cb5a8c84c69586e0f04e7c2baec8d04141df6f1",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -544,7 +749,7 @@
       "url": "https://cnevpost.com/2026/10/28/catl-intilion-3-gwh-sodium-ion-storage",
       "published_at": "2026-10-27T22:01:11Z",
       "first_seen_at": "2026-10-27T23:54:21.301013Z",
-      "last_seen_at": "2026-10-28T03:56:37.489487Z",
+      "last_seen_at": "2026-10-28T10:23:23.257070Z",
       "title_original": "CATL signs deal with Germany's Intilion to deploy 3 GWh of sodium-ion storage over 5 years",
       "title_en": "CATL signs deal with Germany's Intilion to deploy 3 GWh of sodium-ion storage over 5 years",
       "title_zh": "CATL与德国Intilion签署协议，将在5年内部署3 GWh钠离子存储",
@@ -562,7 +767,7 @@
       "url": "https://carnewschina.com/2026/10/27/byds-denza-brings-power-saving-sentry-mode-to-discontinued-n7-suv-may-come-to-more-cars",
       "published_at": "2026-10-27T21:56:22Z",
       "first_seen_at": "2026-10-27T23:54:21.301013Z",
-      "last_seen_at": "2026-10-28T03:56:37.489487Z",
+      "last_seen_at": "2026-10-28T10:23:23.257070Z",
       "title_original": "BYD’s Denza brings power saving sentry mode to discontinued N7 SUV, may come to more cars",
       "title_en": "BYD’s Denza brings power saving sentry mode to discontinued N7 SUV, may come to more cars",
       "title_zh": "比亚迪腾势为已停产的N7 SUV带来省电哨兵模式，可能会应用于更多汽车",
@@ -582,7 +787,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/f5b70dfdd7c11a87/116458458-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-27T20:24:53.129876Z",
-      "last_seen_at": "2026-10-28T03:56:37.489487Z",
+      "last_seen_at": "2026-10-28T10:23:23.257070Z",
       "title_original": "二胎奶爸了 极氪9X家用挺满意！",
       "title_en": null,
       "title_zh": "二胎奶爸了 极氪9X家用挺满意！",
@@ -601,7 +806,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/70bfd6e3b2b684ed/116485307-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-27T20:24:53.129876Z",
-      "last_seen_at": "2026-10-28T03:56:37.489487Z",
+      "last_seen_at": "2026-10-28T10:23:23.257070Z",
       "title_original": "等的是值得的 小鹏MONA L03提车分享",
       "title_en": null,
       "title_zh": "等的是值得的 小鹏MONA L03提车分享",
@@ -620,7 +825,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/c834be6e5b6bf0ba/116486706-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-27T20:24:53.129876Z",
-      "last_seen_at": "2026-10-28T03:56:37.489487Z",
+      "last_seen_at": "2026-10-28T10:23:23.257070Z",
       "title_original": "底盘稳操控好 宝马3系提车作业分享",
       "title_en": null,
       "title_zh": "底盘稳操控好 宝马3系提车作业分享",
@@ -640,7 +845,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/652903bac423bad1/116484737-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-27T20:24:53.129876Z",
-      "last_seen_at": "2026-10-28T03:56:37.489487Z",
+      "last_seen_at": "2026-10-28T10:23:23.257070Z",
       "title_original": "捷达VS8黑武士版探店试驾体验",
       "title_en": null,
       "title_zh": "捷达VS8黑武士版探店试驾体验",
@@ -658,7 +863,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/925449fc011ce714/116473556-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-27T20:24:53.129876Z",
-      "last_seen_at": "2026-10-28T03:56:37.489487Z",
+      "last_seen_at": "2026-10-28T10:23:23.257070Z",
       "title_original": "动力很平顺 问界M7提车作业分享",
       "title_en": null,
       "title_zh": "动力很平顺 问界M7提车作业分享",
@@ -677,7 +882,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/d2a961add0eaca41/116457562-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-27T20:24:53.129876Z",
-      "last_seen_at": "2026-10-28T03:56:37.489487Z",
+      "last_seen_at": "2026-10-28T10:23:23.257070Z",
       "title_original": "空间表现很不错 理想L6提车作业分享",
       "title_en": null,
       "title_zh": "空间表现很不错 理想L6提车作业分享",
@@ -696,7 +901,7 @@
       "url": "http://vc.yiche.com/vplay/13825779.html",
       "published_at": null,
       "first_seen_at": "2026-10-27T20:24:53.129876Z",
-      "last_seen_at": "2026-10-28T03:56:37.489487Z",
+      "last_seen_at": "2026-10-28T10:23:23.257070Z",
       "title_original": "还在硬冲电车？2027款博越的用车成本也很低",
       "title_en": null,
       "title_zh": "还在硬冲电车？2027款博越的用车成本也很低",
@@ -715,7 +920,7 @@
       "url": "http://vc.yiche.com/vplay/13883620.html",
       "published_at": null,
       "first_seen_at": "2026-10-27T20:24:53.129876Z",
-      "last_seen_at": "2026-10-28T03:56:37.489487Z",
+      "last_seen_at": "2026-10-28T10:23:23.257070Z",
       "title_original": "双大厂品质背书 试驾智己LS8 NEO纯电",
       "title_en": null,
       "title_zh": "双大厂品质背书 试驾智己LS8 NEO纯电",
@@ -734,7 +939,7 @@
       "url": "http://vc.yiche.com/vplay/13829125.html",
       "published_at": null,
       "first_seen_at": "2026-10-27T20:24:53.129876Z",
-      "last_seen_at": "2026-10-28T03:56:37.489487Z",
+      "last_seen_at": "2026-10-28T10:23:23.257070Z",
       "title_original": "轴距2.8米/带激光雷达 比亚迪第三代秦PLUS定档10月27日上市",
       "title_en": null,
       "title_zh": "轴距2.8米/带激光雷达 比亚迪第三代秦PLUS定档10月27日上市",
@@ -746,6 +951,152 @@
       ]
     },
     {
+      "id": "1f444b49924f955a38ec9f5a9d1a76e36400b863",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "上汽集团前三季度海外销量突破百万辆",
+      "url": "https://auto.gasgoo.com/news/202610/27I70476020C109.shtml",
+      "published_at": "2026-10-27T16:31:52Z",
+      "first_seen_at": "2026-10-28T10:23:23.257070Z",
+      "last_seen_at": "2026-10-28T10:23:23.257070Z",
+      "title_original": "上汽集团前三季度海外销量突破百万辆",
+      "title_en": null,
+      "title_zh": "上汽集团前三季度海外销量突破百万辆",
+      "title_bilingual": "上汽集团前三季度海外销量突破百万辆",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "740ff38a261cb98d562bf437ad63e52a7044e969",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "卡住下一批新车落地的，会是什么？",
+      "url": "https://auto.gasgoo.com/news/202610/27I70476017C601.shtml",
+      "published_at": "2026-10-27T15:44:52Z",
+      "first_seen_at": "2026-10-28T10:23:23.257070Z",
+      "last_seen_at": "2026-10-28T10:23:23.257070Z",
+      "title_original": "卡住下一批新车落地的，会是什么？",
+      "title_en": null,
+      "title_zh": "卡住下一批新车落地的，会是什么？",
+      "title_bilingual": "卡住下一批新车落地的，会是什么？",
+      "topic_tags": [
+        "新车上市"
+      ]
+    },
+    {
+      "id": "dfc462411bd164c50638b1a73b4aad3e16cd9694",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "中国车企在欧洲季度销量首次超越日系车企",
+      "url": "https://auto.gasgoo.com/news/202610/27I70476008C110.shtml",
+      "published_at": "2026-10-27T13:51:13Z",
+      "first_seen_at": "2026-10-28T10:23:23.257070Z",
+      "last_seen_at": "2026-10-28T10:23:23.257070Z",
+      "title_original": "中国车企在欧洲季度销量首次超越日系车企",
+      "title_en": null,
+      "title_zh": "中国车企在欧洲季度销量首次超越日系车企",
+      "title_bilingual": "中国车企在欧洲季度销量首次超越日系车企",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "849fda8b18715c409f9caf1a13bfdfb1704e469d",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "2026年1—9月汽车行业利润率3.3%，利润同比降23%",
+      "url": "https://auto.gasgoo.com/news/202610/27I70476007C108.shtml",
+      "published_at": "2026-10-27T13:23:55Z",
+      "first_seen_at": "2026-10-28T10:23:23.257070Z",
+      "last_seen_at": "2026-10-28T10:23:23.257070Z",
+      "title_original": "2026年1—9月汽车行业利润率3.3%，利润同比降23%",
+      "title_en": null,
+      "title_zh": "2026年1—9月汽车行业利润率3.3%，利润同比降23%",
+      "title_bilingual": "2026年1—9月汽车行业利润率3.3%，利润同比降23%",
+      "topic_tags": [
+        "销量市场"
+      ]
+    },
+    {
+      "id": "d02fd4544e4413184872bfbe24d4bfa465112249",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "奥迪把两个“A”拆开了",
+      "url": "https://auto.gasgoo.com/news/202610/27I70476002C109.shtml",
+      "published_at": "2026-10-27T12:42:23Z",
+      "first_seen_at": "2026-10-28T10:23:23.257070Z",
+      "last_seen_at": "2026-10-28T10:23:23.257070Z",
+      "title_original": "奥迪把两个“A”拆开了",
+      "title_en": null,
+      "title_zh": "奥迪把两个“A”拆开了",
+      "title_bilingual": "奥迪把两个“A”拆开了",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "bf4659702aa81b1b1795c65aab51cc7f622fa7f6",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "大众汽车考虑在欧洲市场使用中国软件",
+      "url": "https://auto.gasgoo.com/news/202610/27I70475999C109.shtml",
+      "published_at": "2026-10-27T12:32:18Z",
+      "first_seen_at": "2026-10-28T10:23:23.257070Z",
+      "last_seen_at": "2026-10-28T10:23:23.257070Z",
+      "title_original": "大众汽车考虑在欧洲市场使用中国软件",
+      "title_en": null,
+      "title_zh": "大众汽车考虑在欧洲市场使用中国软件",
+      "title_bilingual": "大众汽车考虑在欧洲市场使用中国软件",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "90dd39cad80d19d6c43a703c306ed8abee8790b1",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "【国际快讯】中国车企在欧洲季度销量首次超越日系车企；欧盟计划2027年初对中国商品增设进口限制；曝大众考虑将中国版车机软件引入欧洲市场",
+      "url": "https://auto.gasgoo.com/news/202610/27I70476001C108.shtml",
+      "published_at": "2026-10-27T12:18:39Z",
+      "first_seen_at": "2026-10-28T10:23:23.257070Z",
+      "last_seen_at": "2026-10-28T10:23:23.257070Z",
+      "title_original": "【国际快讯】中国车企在欧洲季度销量首次超越日系车企；欧盟计划2027年初对中国商品增设进口限制；曝大众考虑将中国版车机软件引入欧洲市场",
+      "title_en": null,
+      "title_zh": "【国际快讯】中国车企在欧洲季度销量首次超越日系车企；欧盟计划2027年初对中国商品增设进口限制；曝大众考虑将中国版车机软件引入欧洲市场",
+      "title_bilingual": "【国际快讯】中国车企在欧洲季度销量首次超越日系车企；欧盟计划2027年初对中国商品增设进口限制；曝大众考虑将中国版车机软件引入欧洲市场",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "f50aca9db8b83564bda1fdcf030243c6101f928f",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新技术",
+      "title": "Stellantis申请秘密抬头显示系统专利 只有在超速行驶时才能触发",
+      "url": "https://auto.gasgoo.com/news/202610/27I70475998C409.shtml",
+      "published_at": "2026-10-27T11:58:29Z",
+      "first_seen_at": "2026-10-28T10:23:23.257070Z",
+      "last_seen_at": "2026-10-28T10:23:23.257070Z",
+      "title_original": "Stellantis申请秘密抬头显示系统专利 只有在超速行驶时才能触发",
+      "title_en": null,
+      "title_zh": "Stellantis申请秘密抬头显示系统专利 只有在超速行驶时才能触发",
+      "title_bilingual": "Stellantis申请秘密抬头显示系统专利 只有在超速行驶时才能触发",
+      "topic_tags": []
+    },
+    {
       "id": "4399975ec07f7bcdbc4e2044b2740a9c57e4a8c3",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -754,7 +1105,7 @@
       "url": "https://cnevpost.com/2026/10/27/xpeng-gx-g9l-launch-middle-east-next-week",
       "published_at": "2026-10-27T11:55:58Z",
       "first_seen_at": "2026-10-27T15:42:15.508735Z",
-      "last_seen_at": "2026-10-28T03:56:37.489487Z",
+      "last_seen_at": "2026-10-28T10:23:23.257070Z",
       "title_original": "Xpeng GX and G9L to launch in Middle East next week as overseas stores top 1,200",
       "title_en": "Xpeng GX and G9L to launch in Middle East next week as overseas stores top 1,200",
       "title_zh": "小鹏GX和G9L下周登陆中东 海外门店突破1200家",
@@ -773,7 +1124,7 @@
       "url": "https://auto.gasgoo.com/news/202610/27I70475997C409.shtml",
       "published_at": "2026-10-27T11:55:45Z",
       "first_seen_at": "2026-10-28T03:56:37.489487Z",
-      "last_seen_at": "2026-10-28T03:56:37.489487Z",
+      "last_seen_at": "2026-10-28T10:23:23.257070Z",
       "title_original": "福特申请全新专利 可让停放车辆在面临危险时自动驶离",
       "title_en": null,
       "title_zh": "福特申请全新专利 可让停放车辆在面临危险时自动驶离",
@@ -791,7 +1142,7 @@
       "url": "https://auto.gasgoo.com/news/202610/27I70475995C409.shtml",
       "published_at": "2026-10-27T11:53:26Z",
       "first_seen_at": "2026-10-28T03:56:37.489487Z",
-      "last_seen_at": "2026-10-28T03:56:37.489487Z",
+      "last_seen_at": "2026-10-28T10:23:23.257070Z",
       "title_original": "TASKING推出业界首个针对NXP S32K5系列汽车微控制器的单一供应商统一工具链",
       "title_en": null,
       "title_zh": "TASKING推出业界首个针对NXP S32K5系列汽车微控制器的单一供应商统一工具链",
@@ -807,7 +1158,7 @@
       "url": "https://carnewschina.com/2026/10/27/byd-teases-yangwang-altior-high-end-sedan-to-rival-rolls-royce",
       "published_at": "2026-10-27T11:44:25Z",
       "first_seen_at": "2026-10-27T15:42:15.508735Z",
-      "last_seen_at": "2026-10-28T03:56:37.489487Z",
+      "last_seen_at": "2026-10-28T10:23:23.257070Z",
       "title_original": "BYD teases Yangwang Altior high-end sedan to rival Rolls-Royce",
       "title_en": "BYD teases Yangwang Altior high-end sedan to rival Rolls-Royce",
       "title_zh": "比亚迪推出高端轿车“阳王Altior”，与劳斯莱斯竞争",
@@ -827,7 +1178,7 @@
       "url": "https://auto.gasgoo.com/news/202610/27I70475993C501.shtml",
       "published_at": "2026-10-27T11:43:00Z",
       "first_seen_at": "2026-10-28T03:56:37.489487Z",
-      "last_seen_at": "2026-10-28T03:56:37.489487Z",
+      "last_seen_at": "2026-10-28T10:23:23.257070Z",
       "title_original": "新能源售后满意度领先，为何“修车难”仍是痛点？",
       "title_en": null,
       "title_zh": "新能源售后满意度领先，为何“修车难”仍是痛点？",
@@ -846,7 +1197,7 @@
       "url": "https://auto.gasgoo.com/news/202610/27I70475994C409.shtml",
       "published_at": "2026-10-27T11:29:49Z",
       "first_seen_at": "2026-10-28T03:56:37.489487Z",
-      "last_seen_at": "2026-10-28T03:56:37.489487Z",
+      "last_seen_at": "2026-10-28T10:23:23.257070Z",
       "title_original": "韩巴大学研究显示：阳离子无序化有望改善富锂正极材料",
       "title_en": null,
       "title_zh": "韩巴大学研究显示：阳离子无序化有望改善富锂正极材料",
@@ -862,7 +1213,7 @@
       "url": "https://auto.gasgoo.com/news/202610/27I70475975C109.shtml",
       "published_at": "2026-10-27T10:58:08Z",
       "first_seen_at": "2026-10-28T03:56:37.489487Z",
-      "last_seen_at": "2026-10-28T03:56:37.489487Z",
+      "last_seen_at": "2026-10-28T10:23:23.257070Z",
       "title_original": "奇瑞入选香港特区政府第七批重点企业",
       "title_en": null,
       "title_zh": "奇瑞入选香港特区政府第七批重点企业",
@@ -880,7 +1231,7 @@
       "url": "https://auto.gasgoo.com/news/202610/27I70475986C409.shtml",
       "published_at": "2026-10-27T10:32:27Z",
       "first_seen_at": "2026-10-28T03:56:37.489487Z",
-      "last_seen_at": "2026-10-28T03:56:37.489487Z",
+      "last_seen_at": "2026-10-28T10:23:23.257070Z",
       "title_original": "意法半导体推出面向大众市场应用的首批汽车安全组合传感器",
       "title_en": null,
       "title_zh": "意法半导体推出面向大众市场应用的首批汽车安全组合传感器",
@@ -900,105 +1251,12 @@
       "url": "https://auto.gasgoo.com/news/202610/27I70475985C601.shtml",
       "published_at": "2026-10-27T10:30:51Z",
       "first_seen_at": "2026-10-28T03:56:37.489487Z",
-      "last_seen_at": "2026-10-28T03:56:37.489487Z",
+      "last_seen_at": "2026-10-28T10:23:23.257070Z",
       "title_original": "智能网联汽车，驶入“规则时代”",
       "title_en": null,
       "title_zh": "智能网联汽车，驶入“规则时代”",
       "title_bilingual": "智能网联汽车，驶入“规则时代”",
       "topic_tags": []
-    },
-    {
-      "id": "d36fbf86a19eb61d1f1d6423d7d752578df857bc",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-供应链",
-      "title": "欧摩威，中国战略升维",
-      "url": "https://auto.gasgoo.com/news/202610/27I70475983C103.shtml",
-      "published_at": "2026-10-27T10:09:25Z",
-      "first_seen_at": "2026-10-28T03:56:37.489487Z",
-      "last_seen_at": "2026-10-28T03:56:37.489487Z",
-      "title_original": "欧摩威，中国战略升维",
-      "title_en": null,
-      "title_zh": "欧摩威，中国战略升维",
-      "title_bilingual": "欧摩威，中国战略升维",
-      "topic_tags": [
-        "供应链"
-      ]
-    },
-    {
-      "id": "1a4e6a13379e08d685d0ae2505e1535070edf97f",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "理想i6上市前直播拆车，李想称“不能造速成车”",
-      "url": "https://auto.gasgoo.com/news/202610/27I70475976C109.shtml",
-      "published_at": "2026-10-27T09:22:25Z",
-      "first_seen_at": "2026-10-28T03:56:37.489487Z",
-      "last_seen_at": "2026-10-28T03:56:37.489487Z",
-      "title_original": "理想i6上市前直播拆车，李想称“不能造速成车”",
-      "title_en": null,
-      "title_zh": "理想i6上市前直播拆车，李想称“不能造速成车”",
-      "title_bilingual": "理想i6上市前直播拆车，李想称“不能造速成车”",
-      "topic_tags": [
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "fd822074de638cdf1de29e2ef6b631d96d179b1c",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "汽车创新，越来越难赚到钱了",
-      "url": "https://auto.gasgoo.com/news/202610/27I70475928C108.shtml",
-      "published_at": "2026-10-27T07:00:56Z",
-      "first_seen_at": "2026-10-27T23:54:21.301013Z",
-      "last_seen_at": "2026-10-28T03:56:37.489487Z",
-      "title_original": "汽车创新，越来越难赚到钱了",
-      "title_en": null,
-      "title_zh": "汽车创新，越来越难赚到钱了",
-      "title_bilingual": "汽车创新，越来越难赚到钱了",
-      "topic_tags": []
-    },
-    {
-      "id": "814505e0b7a49c0f127685904a114c01af846eb3",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "BYD launches third-gen Qin Plus DM-i with larger body and longer electric range",
-      "url": "https://cnevpost.com/2026/10/27/byd-launches-3rd-gen-qin-plus-dm-i",
-      "published_at": "2026-10-27T06:41:23Z",
-      "first_seen_at": "2026-10-27T09:34:48.029926Z",
-      "last_seen_at": "2026-10-28T03:56:37.489487Z",
-      "title_original": "BYD launches third-gen Qin Plus DM-i with larger body and longer electric range",
-      "title_en": "BYD launches third-gen Qin Plus DM-i with larger body and longer electric range",
-      "title_zh": "比亚迪推出第三代秦Plus DM-i 车身更大、续航里程更长",
-      "title_bilingual": "比亚迪推出第三代秦Plus DM-i 车身更大、续航里程更长 / BYD launches third-gen Qin Plus DM-i with larger body and longer electric range",
-      "topic_tags": [
-        "新能源",
-        "补能电池",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "8d789f22ae27e628af3c2866336b0822330f2660",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "VW considers bringing Xpeng co-developed architecture to European models, report says",
-      "url": "https://cnevpost.com/2026/10/27/vw-considers-xpeng-co-developed-architecture-europ",
-      "published_at": "2026-10-27T04:18:11Z",
-      "first_seen_at": "2026-10-27T09:34:48.029926Z",
-      "last_seen_at": "2026-10-28T03:56:37.489487Z",
-      "title_original": "VW considers bringing Xpeng co-developed architecture to European models, report says",
-      "title_en": "VW considers bringing Xpeng co-developed architecture to European models, report says",
-      "title_zh": "报道称，大众考虑将小鹏汽车共同开发的架构引入欧洲车型",
-      "title_bilingual": "报道称，大众考虑将小鹏汽车共同开发的架构引入欧洲车型 / VW considers bringing Xpeng co-developed architecture to European models, report says",
-      "topic_tags": [
-        "新能源",
-        "车企竞争",
-        "新车上市"
-      ]
     }
   ],
   "all_mode_data_url": "data/latest-24h-all.json"
