@@ -1,73 +1,163 @@
 {
-  "generated_at": "2026-10-29T07:27:39.911665Z",
+  "generated_at": "2026-10-29T14:35:02.176368Z",
   "window_hours": 24,
-  "total_items": 25,
-  "total_items_ai_raw": 27,
-  "total_items_raw": 2785,
-  "total_items_all_mode": 2523,
+  "total_items": 24,
+  "total_items_ai_raw": 25,
+  "total_items_raw": 2692,
+  "total_items_all_mode": 2428,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 55549,
+  "archive_total": 55481,
   "site_count": 3,
-  "source_count": 11,
+  "source_count": 10,
   "site_stats": [
     {
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "count": 16,
-      "raw_count": 18
+      "count": 13,
+      "raw_count": 14
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "count": 8,
-      "raw_count": 2639
+      "raw_count": 2543
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
-      "count": 1,
-      "raw_count": 128
+      "count": 3,
+      "raw_count": 135
     }
   ],
   "topic_tag_stats": [
     {
       "tag": "车企竞争",
-      "count": 13
+      "count": 15
     },
     {
       "tag": "新能源",
-      "count": 10
-    },
-    {
-      "tag": "新车上市",
-      "count": 5
+      "count": 9
     },
     {
       "tag": "购车决策",
       "count": 5
     },
     {
-      "tag": "补能电池",
+      "tag": "新车上市",
       "count": 4
     },
     {
-      "tag": "价格战",
-      "count": 3
-    },
-    {
       "tag": "供应链",
-      "count": 3
-    },
-    {
-      "tag": "销量市场",
       "count": 2
     },
     {
       "tag": "召回安全",
+      "count": 2
+    },
+    {
+      "tag": "补能电池",
+      "count": 2
+    },
+    {
+      "tag": "销量市场",
       "count": 1
     }
   ],
   "items": [
+    {
+      "id": "062b04a02343e6b17021abd50626ad95fe034067",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "juejin",
+      "title": "同一份知识库，4 种切分 × 3 种召回，纯关键词比纯向量高 13 个点",
+      "url": "https://juejin.cn/post/7700790222851440640",
+      "published_at": "2026-10-29T14:22:16.620000Z",
+      "first_seen_at": "2026-10-29T14:35:02.176368Z",
+      "last_seen_at": "2026-10-29T14:35:02.176368Z",
+      "title_original": "同一份知识库，4 种切分 × 3 种召回，纯关键词比纯向量高 13 个点",
+      "title_en": null,
+      "title_zh": "同一份知识库，4 种切分 × 3 种召回，纯关键词比纯向量高 13 个点",
+      "title_bilingual": "同一份知识库，4 种切分 × 3 种召回，纯关键词比纯向量高 13 个点",
+      "topic_tags": [
+        "召回安全"
+      ]
+    },
+    {
+      "id": "9ec1d0816559bc8c2212ecb637771d1cb5d3b3be",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Xpeng Mona L05 launched in China at 21,720 USD",
+      "url": "https://carnewschina.com/2026/10/29/xpeng-mona-l05-launched-in-china-at-21720-usd",
+      "published_at": "2026-10-29T13:12:19Z",
+      "first_seen_at": "2026-10-29T14:35:02.176368Z",
+      "last_seen_at": "2026-10-29T14:35:02.176368Z",
+      "title_original": "Xpeng Mona L05 launched in China at 21,720 USD",
+      "title_en": "Xpeng Mona L05 launched in China at 21,720 USD",
+      "title_zh": null,
+      "title_bilingual": "Xpeng Mona L05 launched in China at 21,720 USD",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "1a7557a555b2f5aa4aa6a74450fc293d04710040",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Xpeng launches Mona L05 SUV to bolster Q4 sales push",
+      "url": "https://cnevpost.com/2026/10/29/xpeng-launches-mona-l05",
+      "published_at": "2026-10-29T13:03:01Z",
+      "first_seen_at": "2026-10-29T14:35:02.176368Z",
+      "last_seen_at": "2026-10-29T14:35:02.176368Z",
+      "title_original": "Xpeng launches Mona L05 SUV to bolster Q4 sales push",
+      "title_en": "Xpeng launches Mona L05 SUV to bolster Q4 sales push",
+      "title_zh": null,
+      "title_bilingual": "Xpeng launches Mona L05 SUV to bolster Q4 sales push",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "09d3194f37afe987a8289d2278d4c60fa9346c5b",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "hackernews",
+      "title": "The US added a record 20.2 GWh of battery storage in just 3 months",
+      "url": "https://news.ycombinator.com/item?id=50287001",
+      "published_at": "2026-10-29T10:44:49Z",
+      "first_seen_at": "2026-10-29T14:35:02.176368Z",
+      "last_seen_at": "2026-10-29T14:35:02.176368Z",
+      "title_original": "The US added a record 20.2 GWh of battery storage in just 3 months",
+      "title_en": "The US added a record 20.2 GWh of battery storage in just 3 months",
+      "title_zh": null,
+      "title_bilingual": "The US added a record 20.2 GWh of battery storage in just 3 months",
+      "topic_tags": [
+        "补能电池"
+      ]
+    },
+    {
+      "id": "ee8ec1ca61b30b118a5d3ca002150b7c5dabc533",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "BYD VP says Yangwang U9 Xtreme will attempt 500 km/h run in Dubai",
+      "url": "https://carnewschina.com/2026/10/29/why-dubai-has-entered-the-yangwang-u9-xtremes-500-km-h-record-attempt",
+      "published_at": "2026-10-29T08:54:07Z",
+      "first_seen_at": "2026-10-29T14:35:02.176368Z",
+      "last_seen_at": "2026-10-29T14:35:02.176368Z",
+      "title_original": "BYD VP says Yangwang U9 Xtreme will attempt 500 km/h run in Dubai",
+      "title_en": "BYD VP says Yangwang U9 Xtreme will attempt 500 km/h run in Dubai",
+      "title_zh": null,
+      "title_bilingual": "BYD VP says Yangwang U9 Xtreme will attempt 500 km/h run in Dubai",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
     {
       "id": "10c98efab0996a4440b1bffd73fb3ea8f5ab1b1f",
       "site_id": "official_auto",
@@ -77,7 +167,7 @@
       "url": "https://carnewschina.com/2026/10/29/engineers-named-ten-automotive-technology-trends-in-china-for-2027",
       "published_at": "2026-10-29T06:51:44Z",
       "first_seen_at": "2026-10-29T07:27:39.911665Z",
-      "last_seen_at": "2026-10-29T07:27:39.911665Z",
+      "last_seen_at": "2026-10-29T14:35:02.176368Z",
       "title_original": "Engineers named ten automotive technology trends in China for 2027",
       "title_en": "Engineers named ten automotive technology trends in China for 2027",
       "title_zh": null,
@@ -95,7 +185,7 @@
       "url": "https://carnewschina.com/2026/10/28/cherys-joint-venture-k-car-exposed-in-patent-images-with-offroad-trim-rivals-byds-racco",
       "published_at": "2026-10-28T22:16:38Z",
       "first_seen_at": "2026-10-29T01:10:31.203256Z",
-      "last_seen_at": "2026-10-29T07:27:39.911665Z",
+      "last_seen_at": "2026-10-29T14:35:02.176368Z",
       "title_original": "Chery’s joint venture K-car exposed in patent images with “offroad” trim, rivals BYD’s Racco",
       "title_en": "Chery’s joint venture K-car exposed in patent images with “offroad” trim, rivals BYD’s Racco",
       "title_zh": "奇瑞合资K-car专利图片曝光，带有“越野”装饰，可与比亚迪Racco竞争",
@@ -114,7 +204,7 @@
       "url": "https://cnevpost.com/2026/10/29/gwm-plans-bulgaria-production-base",
       "published_at": "2026-10-28T21:54:35Z",
       "first_seen_at": "2026-10-29T01:10:31.203256Z",
-      "last_seen_at": "2026-10-29T07:27:39.911665Z",
+      "last_seen_at": "2026-10-29T14:35:02.176368Z",
       "title_original": "GWM targets Q1 2027 production at Bulgaria base in European push",
       "title_en": "GWM targets Q1 2027 production at Bulgaria base in European push",
       "title_zh": "长城汽车计划在欧洲推动保加利亚基地 2027 年第一季度的生产",
@@ -133,7 +223,7 @@
       "url": "http://vc.yiche.com/vplay/13905173.html",
       "published_at": null,
       "first_seen_at": "2026-10-28T21:29:38.949483Z",
-      "last_seen_at": "2026-10-29T07:27:39.911665Z",
+      "last_seen_at": "2026-10-29T14:35:02.176368Z",
       "title_original": "德系基因拥抱智能化！一汽-大众ID.AURA L5纯电轿车 靠谱新选择！",
       "title_en": null,
       "title_zh": "德系基因拥抱智能化！一汽-大众ID.AURA L5纯电轿车 靠谱新选择！",
@@ -152,7 +242,7 @@
       "url": "http://vc.yiche.com/vplay/13844007.html",
       "published_at": null,
       "first_seen_at": "2026-10-28T21:29:38.949483Z",
-      "last_seen_at": "2026-10-29T07:27:39.911665Z",
+      "last_seen_at": "2026-10-29T14:35:02.176368Z",
       "title_original": "买前必看！2027款吉利博越配置推荐+落地参考，千万别选错买贵！",
       "title_en": null,
       "title_zh": "买前必看！2027款吉利博越配置推荐+落地参考，千万别选错买贵！",
@@ -170,7 +260,7 @@
       "url": "http://vc.yiche.com/vplay/13868941.html",
       "published_at": null,
       "first_seen_at": "2026-10-28T21:29:38.949483Z",
-      "last_seen_at": "2026-10-29T07:27:39.911665Z",
+      "last_seen_at": "2026-10-29T14:35:02.176368Z",
       "title_original": "预算30万看豪华SUV，先别急，全新奥迪Q5L探店看完再说",
       "title_en": null,
       "title_zh": "预算30万看豪华SUV，先别急，全新奥迪Q5L探店看完再说",
@@ -190,13 +280,70 @@
       "url": "http://vc.yiche.com/vplay/13840689.html",
       "published_at": null,
       "first_seen_at": "2026-10-28T21:29:38.949483Z",
-      "last_seen_at": "2026-10-29T07:27:39.911665Z",
+      "last_seen_at": "2026-10-29T14:35:02.176368Z",
       "title_original": "2028年卡罗拉要“叛逆”：“机甲风”设计，底盘油电通吃！",
       "title_en": null,
       "title_zh": "2028年卡罗拉要“叛逆”：“机甲风”设计，底盘油电通吃！",
       "title_bilingual": "2028年卡罗拉要“叛逆”：“机甲风”设计，底盘油电通吃！",
       "topic_tags": [
         "供应链"
+      ]
+    },
+    {
+      "id": "022cdcf59280bf3bd41dfdd96524d483034baf78",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "梅赛德斯-奔驰Q3营收同比下降4.4%，调整后息税前利润降15%",
+      "url": "https://auto.gasgoo.com/news/202610/28I70476171C109.shtml",
+      "published_at": "2026-10-28T17:38:54Z",
+      "first_seen_at": "2026-10-29T14:35:02.176368Z",
+      "last_seen_at": "2026-10-29T14:35:02.176368Z",
+      "title_original": "梅赛德斯-奔驰Q3营收同比下降4.4%，调整后息税前利润降15%",
+      "title_en": null,
+      "title_zh": "梅赛德斯-奔驰Q3营收同比下降4.4%，调整后息税前利润降15%",
+      "title_bilingual": "梅赛德斯-奔驰Q3营收同比下降4.4%，调整后息税前利润降15%",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "9f0c08b91519f9fc8c4d3b7a83f5fab1e3f3d0e0",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "StellantisQ3净亏损收窄至4.53亿欧元",
+      "url": "https://auto.gasgoo.com/news/202610/28I70476169C109.shtml",
+      "published_at": "2026-10-28T17:17:16Z",
+      "first_seen_at": "2026-10-29T14:35:02.176368Z",
+      "last_seen_at": "2026-10-29T14:35:02.176368Z",
+      "title_original": "StellantisQ3净亏损收窄至4.53亿欧元",
+      "title_en": null,
+      "title_zh": "StellantisQ3净亏损收窄至4.53亿欧元",
+      "title_bilingual": "StellantisQ3净亏损收窄至4.53亿欧元",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "2a12a956539af85623cee851cc9214864375988e",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新能源",
+      "title": "蔚来ES8用户车队完成8045公里全程换电",
+      "url": "https://auto.gasgoo.com/news/202610/28I70476157C501.shtml",
+      "published_at": "2026-10-28T16:51:27Z",
+      "first_seen_at": "2026-10-29T14:35:02.176368Z",
+      "last_seen_at": "2026-10-29T14:35:02.176368Z",
+      "title_original": "蔚来ES8用户车队完成8045公里全程换电",
+      "title_en": null,
+      "title_zh": "蔚来ES8用户车队完成8045公里全程换电",
+      "title_bilingual": "蔚来ES8用户车队完成8045公里全程换电",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争"
       ]
     },
     {
@@ -208,7 +355,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/528191cf8680f842/116495293-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-28T16:44:58.884025Z",
-      "last_seen_at": "2026-10-29T07:27:39.911665Z",
+      "last_seen_at": "2026-10-29T14:35:02.176368Z",
       "title_original": "探店体验 头等舱高智能MPV魏牌",
       "title_en": null,
       "title_zh": "探店体验 头等舱高智能MPV魏牌",
@@ -227,7 +374,7 @@
       "url": "https://i.autohome.com.cn/309760368",
       "published_at": null,
       "first_seen_at": "2026-10-28T16:44:58.884025Z",
-      "last_seen_at": "2026-10-29T07:27:39.911665Z",
+      "last_seen_at": "2026-10-29T14:35:02.176368Z",
       "title_original": "家用大六座真香 小鹏GX提车作业分享",
       "title_en": null,
       "title_zh": "家用大六座真香 小鹏GX提车作业分享",
@@ -246,7 +393,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/e9aa20681dd37dbd/116493986-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-28T16:44:58.884025Z",
-      "last_seen_at": "2026-10-29T07:27:39.911665Z",
+      "last_seen_at": "2026-10-29T14:35:02.176368Z",
       "title_original": "后排空间大 小鹏GX提车作业分享",
       "title_en": null,
       "title_zh": "后排空间大 小鹏GX提车作业分享",
@@ -265,7 +412,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/3b994ba8ac824304/116370409-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-28T16:44:58.884025Z",
-      "last_seen_at": "2026-10-29T07:27:39.911665Z",
+      "last_seen_at": "2026-10-29T14:35:02.176368Z",
       "title_original": "底盘调教偏舒适 海狮06提车作业分享",
       "title_en": null,
       "title_zh": "底盘调教偏舒适 海狮06提车作业分享",
@@ -273,6 +420,59 @@
       "topic_tags": [
         "供应链",
         "购车决策"
+      ]
+    },
+    {
+      "id": "88202c65904da9fd2506501934b7ef1db4abfe80",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "谁是真“千里马”？CLTC破千纯电车型盘点",
+      "url": "https://auto.gasgoo.com/news/202610/28I70476155C501.shtml",
+      "published_at": "2026-10-28T16:27:33Z",
+      "first_seen_at": "2026-10-29T14:35:02.176368Z",
+      "last_seen_at": "2026-10-29T14:35:02.176368Z",
+      "title_original": "谁是真“千里马”？CLTC破千纯电车型盘点",
+      "title_en": null,
+      "title_zh": "谁是真“千里马”？CLTC破千纯电车型盘点",
+      "title_bilingual": "谁是真“千里马”？CLTC破千纯电车型盘点",
+      "topic_tags": [
+        "新能源",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "7a3b9541eb40da059555190eaaabf24ca612f4be",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "共话汽车知识生态丨盖世汽车周晓莺受邀出席研讨会并获优秀作者",
+      "url": "https://auto.gasgoo.com/news/202610/28I70476141C108.shtml",
+      "published_at": "2026-10-28T16:19:48Z",
+      "first_seen_at": "2026-10-29T14:35:02.176368Z",
+      "last_seen_at": "2026-10-29T14:35:02.176368Z",
+      "title_original": "共话汽车知识生态丨盖世汽车周晓莺受邀出席研讨会并获优秀作者",
+      "title_en": null,
+      "title_zh": "共话汽车知识生态丨盖世汽车周晓莺受邀出席研讨会并获优秀作者",
+      "title_bilingual": "共话汽车知识生态丨盖世汽车周晓莺受邀出席研讨会并获优秀作者",
+      "topic_tags": []
+    },
+    {
+      "id": "9aba0f002300963d01c60fced31d365d706ce74d",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "祝贺！比亚迪王传福获2026汽车工业饶斌奖",
+      "url": "https://auto.gasgoo.com/news/202610/28I70476152C109.shtml",
+      "published_at": "2026-10-28T15:36:24Z",
+      "first_seen_at": "2026-10-29T14:35:02.176368Z",
+      "last_seen_at": "2026-10-29T14:35:02.176368Z",
+      "title_original": "祝贺！比亚迪王传福获2026汽车工业饶斌奖",
+      "title_en": null,
+      "title_zh": "祝贺！比亚迪王传福获2026汽车工业饶斌奖",
+      "title_bilingual": "祝贺！比亚迪王传福获2026汽车工业饶斌奖",
+      "topic_tags": [
+        "车企竞争"
       ]
     },
     {
@@ -284,7 +484,7 @@
       "url": "https://auto.gasgoo.com/news/202610/28I70476149C409.shtml",
       "published_at": "2026-10-28T14:56:29Z",
       "first_seen_at": "2026-10-29T07:27:39.911665Z",
-      "last_seen_at": "2026-10-29T07:27:39.911665Z",
+      "last_seen_at": "2026-10-29T14:35:02.176368Z",
       "title_original": "中国研究人员开发出脉冲式3D打印技术 可制备长度超过一米的抗蠕变单晶",
       "title_en": null,
       "title_zh": "中国研究人员开发出脉冲式3D打印技术 可制备长度超过一米的抗蠕变单晶",
@@ -307,240 +507,106 @@
       "title_bilingual": "Tesla Semi 在 I-880 上起火 / Tesla Semi catches fire on I-880",
       "topic_tags": [
         "召回安全",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "5cc220b115f23c3f269bdba659084b2bb1bd388c",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Five-door FAW Bestune Pony launched in China at 6,735 USD",
-      "url": "https://carnewschina.com/2026/10/28/five-door-faw-bestune-pony-launched-in-china-at-6735-usd",
-      "published_at": "2026-10-28T13:28:54Z",
-      "first_seen_at": "2026-10-28T16:44:58.884025Z",
-      "last_seen_at": "2026-10-29T07:27:39.911665Z",
-      "title_original": "Five-door FAW Bestune Pony launched in China at 6,735 USD",
-      "title_en": "Five-door FAW Bestune Pony launched in China at 6,735 USD",
-      "title_zh": "五门一汽奔腾小马在中国上市，售价 6,735 美元",
-      "title_bilingual": "五门一汽奔腾小马在中国上市，售价 6,735 美元 / Five-door FAW Bestune Pony launched in China at 6,735 USD",
-      "topic_tags": [
-        "新能源",
-        "价格战",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "f4db763e8a264ac7c9df21a2715a0531b9ff5c7e",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Li Auto launches 2026 i6 with unchanged starting price, upgraded in-house chip and battery",
-      "url": "https://cnevpost.com/2026/10/28/li-auto-launches-2026-i6",
-      "published_at": "2026-10-28T13:18:22Z",
-      "first_seen_at": "2026-10-28T16:44:58.884025Z",
-      "last_seen_at": "2026-10-29T07:27:39.911665Z",
-      "title_original": "Li Auto launches 2026 i6 with unchanged starting price, upgraded in-house chip and battery",
-      "title_en": "Li Auto launches 2026 i6 with unchanged starting price, upgraded in-house chip and battery",
-      "title_zh": "理想汽车推出2026款i6 起售价不变，自产芯片和电池升级",
-      "title_bilingual": "理想汽车推出2026款i6 起售价不变，自产芯片和电池升级 / Li Auto launches 2026 i6 with unchanged starting price, upgraded in-house chip and battery",
-      "topic_tags": [
-        "新能源",
-        "补能电池",
-        "价格战",
-        "车企竞争",
-        "供应链"
-      ]
-    },
-    {
-      "id": "29a00d6c721fc2e258287518f278d1ad7741a486",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Li Auto launches 2026 Li i6 in China: upgraded hardware and starting at 35,800 USD",
-      "url": "https://carnewschina.com/2026/10/28/li-auto-launches-2026-li-i6-in-china-upgraded-hardware-and-starting-at-35800-usd",
-      "published_at": "2026-10-28T13:15:18Z",
-      "first_seen_at": "2026-10-28T16:44:58.884025Z",
-      "last_seen_at": "2026-10-29T07:27:39.911665Z",
-      "title_original": "Li Auto launches 2026 Li i6 in China: upgraded hardware and starting at 35,800 USD",
-      "title_en": "Li Auto launches 2026 Li i6 in China: upgraded hardware and starting at 35,800 USD",
-      "title_zh": "理想汽车在中国推出2026款Li i6：硬件升级，起售价35,800美元",
-      "title_bilingual": "理想汽车在中国推出2026款Li i6：硬件升级，起售价35,800美元 / Li Auto launches 2026 Li i6 in China: upgraded hardware and starting at 35,800 USD",
-      "topic_tags": [
-        "新能源",
-        "价格战",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "c42cf33c83f1b40a424e0f2a1682490f3e56c8ca",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "在华份额，日系车只剩一成",
-      "url": "https://auto.gasgoo.com/news/202610/28I70476136C108.shtml",
-      "published_at": "2026-10-28T12:58:31Z",
-      "first_seen_at": "2026-10-29T07:27:39.911665Z",
-      "last_seen_at": "2026-10-29T07:27:39.911665Z",
-      "title_original": "在华份额，日系车只剩一成",
-      "title_en": null,
-      "title_zh": "在华份额，日系车只剩一成",
-      "title_bilingual": "在华份额，日系车只剩一成",
-      "topic_tags": [
-        "销量市场"
-      ]
-    },
-    {
-      "id": "58f2b2a333508fe9bbaa6032e91df69b0cfc3da5",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "CATL unveils 9-MWh Tener+ storage system, deepens Australian presence",
-      "url": "https://cnevpost.com/2026/10/28/catl-unveils-tener-plus-deepens-australian-presence",
-      "published_at": "2026-10-28T12:48:50Z",
-      "first_seen_at": "2026-10-28T16:44:58.884025Z",
-      "last_seen_at": "2026-10-29T07:27:39.911665Z",
-      "title_original": "CATL unveils 9-MWh Tener+ storage system, deepens Australian presence",
-      "title_en": "CATL unveils 9-MWh Tener+ storage system, deepens Australian presence",
-      "title_zh": "CATL推出9兆瓦时Tener+存储系统，深化澳大利亚业务",
-      "title_bilingual": "CATL推出9兆瓦时Tener+存储系统，深化澳大利亚业务 / CATL unveils 9-MWh Tener+ storage system, deepens Australian presence",
-      "topic_tags": [
-        "新能源"
-      ]
-    },
-    {
-      "id": "99c2cfcb37329a34c937d39c532302777a56e568",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新车",
-      "title": "智界R7被质疑改款频繁 赵长江回应：两年两次完整改款",
-      "url": "https://auto.gasgoo.com/news/202610/28I70476131C107.shtml",
-      "published_at": "2026-10-28T12:20:49Z",
-      "first_seen_at": "2026-10-29T07:27:39.911665Z",
-      "last_seen_at": "2026-10-29T07:27:39.911665Z",
-      "title_original": "智界R7被质疑改款频繁 赵长江回应：两年两次完整改款",
-      "title_en": null,
-      "title_zh": "智界R7被质疑改款频繁 赵长江回应：两年两次完整改款",
-      "title_bilingual": "智界R7被质疑改款频繁 赵长江回应：两年两次完整改款",
-      "topic_tags": [
-        "新车上市"
-      ]
-    },
-    {
-      "id": "28324519fbbae6b851352e2557cf83be511bf029",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-销量",
-      "title": "长城皮卡1-9月海外累计销售59651辆，同比大增29.5%",
-      "url": "https://auto.gasgoo.com/news/202610/28I70476130C110.shtml",
-      "published_at": "2026-10-28T12:11:14Z",
-      "first_seen_at": "2026-10-29T07:27:39.911665Z",
-      "last_seen_at": "2026-10-29T07:27:39.911665Z",
-      "title_original": "长城皮卡1-9月海外累计销售59651辆，同比大增29.5%",
-      "title_en": null,
-      "title_zh": "长城皮卡1-9月海外累计销售59651辆，同比大增29.5%",
-      "title_bilingual": "长城皮卡1-9月海外累计销售59651辆，同比大增29.5%",
-      "topic_tags": [
-        "销量市场",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "3640f7181459746fec66579acbb3149c70620c2c",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "【国际快讯】通用汽车将从纽交所转至纳斯达克上市；长城汽车将在保加利亚生产欧拉5紧凑型SUV；奔驰下调2026年盈利预期",
-      "url": "https://auto.gasgoo.com/news/202610/28I70476125C108.shtml",
-      "published_at": "2026-10-28T11:39:26Z",
-      "first_seen_at": "2026-10-29T07:27:39.911665Z",
-      "last_seen_at": "2026-10-29T07:27:39.911665Z",
-      "title_original": "【国际快讯】通用汽车将从纽交所转至纳斯达克上市；长城汽车将在保加利亚生产欧拉5紧凑型SUV；奔驰下调2026年盈利预期",
-      "title_en": null,
-      "title_zh": "【国际快讯】通用汽车将从纽交所转至纳斯达克上市；长城汽车将在保加利亚生产欧拉5紧凑型SUV；奔驰下调2026年盈利预期",
-      "title_bilingual": "【国际快讯】通用汽车将从纽交所转至纳斯达克上市；长城汽车将在保加利亚生产欧拉5紧凑型SUV；奔驰下调2026年盈利预期",
-      "topic_tags": [
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "a22c08a2ea9082bb7889619a84b7d305614b1bea",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新能源",
-      "title": "INTILION与宁德时代签署未来5年合作，总规模3GWh！",
-      "url": "https://auto.gasgoo.com/news/202610/28I70476124C501.shtml",
-      "published_at": "2026-10-28T11:11:53Z",
-      "first_seen_at": "2026-10-29T07:27:39.911665Z",
-      "last_seen_at": "2026-10-29T07:27:39.911665Z",
-      "title_original": "INTILION与宁德时代签署未来5年合作，总规模3GWh！",
-      "title_en": null,
-      "title_zh": "INTILION与宁德时代签署未来5年合作，总规模3GWh！",
-      "title_bilingual": "INTILION与宁德时代签署未来5年合作，总规模3GWh！",
-      "topic_tags": [
-        "新能源",
-        "补能电池"
-      ]
-    },
-    {
-      "id": "5b29eccfd69814b3689cc530e4e86d69283ca559",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "China NEV retail sales fall 13% in October 1-25 as peak-season demand stays weak",
-      "url": "https://cnevpost.com/2026/10/28/china-nev-retail-fall-oct-1-25",
-      "published_at": "2026-10-28T09:36:29Z",
-      "first_seen_at": "2026-10-28T10:23:23.257070Z",
-      "last_seen_at": "2026-10-29T07:27:39.911665Z",
-      "title_original": "China NEV retail sales fall 13% in October 1-25 as peak-season demand stays weak",
-      "title_en": "China NEV retail sales fall 13% in October 1-25 as peak-season demand stays weak",
-      "title_zh": "旺季需求持续疲软，10月1-25日中国新能源汽车零售量下降13%",
-      "title_bilingual": "旺季需求持续疲软，10月1-25日中国新能源汽车零售量下降13% / China NEV retail sales fall 13% in October 1-25 as peak-season demand stays weak",
-      "topic_tags": [
-        "新能源"
-      ]
-    },
-    {
-      "id": "b895bd7e84ce3cee36eae1e96a4e222e292c6bbc",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "宁德时代：全固态电池2027年小批量生产",
-      "url": "https://auto.gasgoo.com/news/202610/28I70476109C108.shtml",
-      "published_at": "2026-10-28T09:33:16Z",
-      "first_seen_at": "2026-10-29T07:27:39.911665Z",
-      "last_seen_at": "2026-10-29T07:27:39.911665Z",
-      "title_original": "宁德时代：全固态电池2027年小批量生产",
-      "title_en": null,
-      "title_zh": "宁德时代：全固态电池2027年小批量生产",
-      "title_bilingual": "宁德时代：全固态电池2027年小批量生产",
-      "topic_tags": [
-        "补能电池"
-      ]
-    },
-    {
-      "id": "fe6e1a25c5d41dcb3d0f2cb115e7542f0aa5f13f",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-Battery",
-      "title": "Solid-state batteries for Xpeng's Iron humanoid robot enter small-batch production",
-      "url": "https://cnevpost.com/2026/10/28/solid-state-batteries-xpeng-iron-small-batch-production",
-      "published_at": "2026-10-28T09:11:24Z",
-      "first_seen_at": "2026-10-28T10:23:23.257070Z",
-      "last_seen_at": "2026-10-29T07:27:39.911665Z",
-      "title_original": "Solid-state batteries for Xpeng's Iron humanoid robot enter small-batch production",
-      "title_en": "Solid-state batteries for Xpeng's Iron humanoid robot enter small-batch production",
-      "title_zh": "小鹏Iron仿人机器人固态电池进入小批量生产",
-      "title_bilingual": "小鹏Iron仿人机器人固态电池进入小批量生产 / Solid-state batteries for Xpeng's Iron humanoid robot enter small-batch production",
-      "topic_tags": [
-        "补能电池",
         "车企竞争"
       ]
     }
   ],
   "items_ai": [
     {
+      "id": "062b04a02343e6b17021abd50626ad95fe034067",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "juejin",
+      "title": "同一份知识库，4 种切分 × 3 种召回，纯关键词比纯向量高 13 个点",
+      "url": "https://juejin.cn/post/7700790222851440640",
+      "published_at": "2026-10-29T14:22:16.620000Z",
+      "first_seen_at": "2026-10-29T14:35:02.176368Z",
+      "last_seen_at": "2026-10-29T14:35:02.176368Z",
+      "title_original": "同一份知识库，4 种切分 × 3 种召回，纯关键词比纯向量高 13 个点",
+      "title_en": null,
+      "title_zh": "同一份知识库，4 种切分 × 3 种召回，纯关键词比纯向量高 13 个点",
+      "title_bilingual": "同一份知识库，4 种切分 × 3 种召回，纯关键词比纯向量高 13 个点",
+      "topic_tags": [
+        "召回安全"
+      ]
+    },
+    {
+      "id": "9ec1d0816559bc8c2212ecb637771d1cb5d3b3be",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Xpeng Mona L05 launched in China at 21,720 USD",
+      "url": "https://carnewschina.com/2026/10/29/xpeng-mona-l05-launched-in-china-at-21720-usd",
+      "published_at": "2026-10-29T13:12:19Z",
+      "first_seen_at": "2026-10-29T14:35:02.176368Z",
+      "last_seen_at": "2026-10-29T14:35:02.176368Z",
+      "title_original": "Xpeng Mona L05 launched in China at 21,720 USD",
+      "title_en": "Xpeng Mona L05 launched in China at 21,720 USD",
+      "title_zh": null,
+      "title_bilingual": "Xpeng Mona L05 launched in China at 21,720 USD",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "1a7557a555b2f5aa4aa6a74450fc293d04710040",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Xpeng launches Mona L05 SUV to bolster Q4 sales push",
+      "url": "https://cnevpost.com/2026/10/29/xpeng-launches-mona-l05",
+      "published_at": "2026-10-29T13:03:01Z",
+      "first_seen_at": "2026-10-29T14:35:02.176368Z",
+      "last_seen_at": "2026-10-29T14:35:02.176368Z",
+      "title_original": "Xpeng launches Mona L05 SUV to bolster Q4 sales push",
+      "title_en": "Xpeng launches Mona L05 SUV to bolster Q4 sales push",
+      "title_zh": null,
+      "title_bilingual": "Xpeng launches Mona L05 SUV to bolster Q4 sales push",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "09d3194f37afe987a8289d2278d4c60fa9346c5b",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "hackernews",
+      "title": "The US added a record 20.2 GWh of battery storage in just 3 months",
+      "url": "https://news.ycombinator.com/item?id=50287001",
+      "published_at": "2026-10-29T10:44:49Z",
+      "first_seen_at": "2026-10-29T14:35:02.176368Z",
+      "last_seen_at": "2026-10-29T14:35:02.176368Z",
+      "title_original": "The US added a record 20.2 GWh of battery storage in just 3 months",
+      "title_en": "The US added a record 20.2 GWh of battery storage in just 3 months",
+      "title_zh": null,
+      "title_bilingual": "The US added a record 20.2 GWh of battery storage in just 3 months",
+      "topic_tags": [
+        "补能电池"
+      ]
+    },
+    {
+      "id": "ee8ec1ca61b30b118a5d3ca002150b7c5dabc533",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "BYD VP says Yangwang U9 Xtreme will attempt 500 km/h run in Dubai",
+      "url": "https://carnewschina.com/2026/10/29/why-dubai-has-entered-the-yangwang-u9-xtremes-500-km-h-record-attempt",
+      "published_at": "2026-10-29T08:54:07Z",
+      "first_seen_at": "2026-10-29T14:35:02.176368Z",
+      "last_seen_at": "2026-10-29T14:35:02.176368Z",
+      "title_original": "BYD VP says Yangwang U9 Xtreme will attempt 500 km/h run in Dubai",
+      "title_en": "BYD VP says Yangwang U9 Xtreme will attempt 500 km/h run in Dubai",
+      "title_zh": null,
+      "title_bilingual": "BYD VP says Yangwang U9 Xtreme will attempt 500 km/h run in Dubai",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
       "id": "10c98efab0996a4440b1bffd73fb3ea8f5ab1b1f",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -549,7 +615,7 @@
       "url": "https://carnewschina.com/2026/10/29/engineers-named-ten-automotive-technology-trends-in-china-for-2027",
       "published_at": "2026-10-29T06:51:44Z",
       "first_seen_at": "2026-10-29T07:27:39.911665Z",
-      "last_seen_at": "2026-10-29T07:27:39.911665Z",
+      "last_seen_at": "2026-10-29T14:35:02.176368Z",
       "title_original": "Engineers named ten automotive technology trends in China for 2027",
       "title_en": "Engineers named ten automotive technology trends in China for 2027",
       "title_zh": null,
@@ -567,7 +633,7 @@
       "url": "https://carnewschina.com/2026/10/28/cherys-joint-venture-k-car-exposed-in-patent-images-with-offroad-trim-rivals-byds-racco",
       "published_at": "2026-10-28T22:16:38Z",
       "first_seen_at": "2026-10-29T01:10:31.203256Z",
-      "last_seen_at": "2026-10-29T07:27:39.911665Z",
+      "last_seen_at": "2026-10-29T14:35:02.176368Z",
       "title_original": "Chery’s joint venture K-car exposed in patent images with “offroad” trim, rivals BYD’s Racco",
       "title_en": "Chery’s joint venture K-car exposed in patent images with “offroad” trim, rivals BYD’s Racco",
       "title_zh": "奇瑞合资K-car专利图片曝光，带有“越野”装饰，可与比亚迪Racco竞争",
@@ -586,7 +652,7 @@
       "url": "https://cnevpost.com/2026/10/29/gwm-plans-bulgaria-production-base",
       "published_at": "2026-10-28T21:54:35Z",
       "first_seen_at": "2026-10-29T01:10:31.203256Z",
-      "last_seen_at": "2026-10-29T07:27:39.911665Z",
+      "last_seen_at": "2026-10-29T14:35:02.176368Z",
       "title_original": "GWM targets Q1 2027 production at Bulgaria base in European push",
       "title_en": "GWM targets Q1 2027 production at Bulgaria base in European push",
       "title_zh": "长城汽车计划在欧洲推动保加利亚基地 2027 年第一季度的生产",
@@ -605,7 +671,7 @@
       "url": "http://vc.yiche.com/vplay/13905173.html",
       "published_at": null,
       "first_seen_at": "2026-10-28T21:29:38.949483Z",
-      "last_seen_at": "2026-10-29T07:27:39.911665Z",
+      "last_seen_at": "2026-10-29T14:35:02.176368Z",
       "title_original": "德系基因拥抱智能化！一汽-大众ID.AURA L5纯电轿车 靠谱新选择！",
       "title_en": null,
       "title_zh": "德系基因拥抱智能化！一汽-大众ID.AURA L5纯电轿车 靠谱新选择！",
@@ -624,7 +690,7 @@
       "url": "http://vc.yiche.com/vplay/13844007.html",
       "published_at": null,
       "first_seen_at": "2026-10-28T21:29:38.949483Z",
-      "last_seen_at": "2026-10-29T07:27:39.911665Z",
+      "last_seen_at": "2026-10-29T14:35:02.176368Z",
       "title_original": "买前必看！2027款吉利博越配置推荐+落地参考，千万别选错买贵！",
       "title_en": null,
       "title_zh": "买前必看！2027款吉利博越配置推荐+落地参考，千万别选错买贵！",
@@ -642,7 +708,7 @@
       "url": "http://vc.yiche.com/vplay/13868941.html",
       "published_at": null,
       "first_seen_at": "2026-10-28T21:29:38.949483Z",
-      "last_seen_at": "2026-10-29T07:27:39.911665Z",
+      "last_seen_at": "2026-10-29T14:35:02.176368Z",
       "title_original": "预算30万看豪华SUV，先别急，全新奥迪Q5L探店看完再说",
       "title_en": null,
       "title_zh": "预算30万看豪华SUV，先别急，全新奥迪Q5L探店看完再说",
@@ -662,13 +728,70 @@
       "url": "http://vc.yiche.com/vplay/13840689.html",
       "published_at": null,
       "first_seen_at": "2026-10-28T21:29:38.949483Z",
-      "last_seen_at": "2026-10-29T07:27:39.911665Z",
+      "last_seen_at": "2026-10-29T14:35:02.176368Z",
       "title_original": "2028年卡罗拉要“叛逆”：“机甲风”设计，底盘油电通吃！",
       "title_en": null,
       "title_zh": "2028年卡罗拉要“叛逆”：“机甲风”设计，底盘油电通吃！",
       "title_bilingual": "2028年卡罗拉要“叛逆”：“机甲风”设计，底盘油电通吃！",
       "topic_tags": [
         "供应链"
+      ]
+    },
+    {
+      "id": "022cdcf59280bf3bd41dfdd96524d483034baf78",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "梅赛德斯-奔驰Q3营收同比下降4.4%，调整后息税前利润降15%",
+      "url": "https://auto.gasgoo.com/news/202610/28I70476171C109.shtml",
+      "published_at": "2026-10-28T17:38:54Z",
+      "first_seen_at": "2026-10-29T14:35:02.176368Z",
+      "last_seen_at": "2026-10-29T14:35:02.176368Z",
+      "title_original": "梅赛德斯-奔驰Q3营收同比下降4.4%，调整后息税前利润降15%",
+      "title_en": null,
+      "title_zh": "梅赛德斯-奔驰Q3营收同比下降4.4%，调整后息税前利润降15%",
+      "title_bilingual": "梅赛德斯-奔驰Q3营收同比下降4.4%，调整后息税前利润降15%",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "9f0c08b91519f9fc8c4d3b7a83f5fab1e3f3d0e0",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "StellantisQ3净亏损收窄至4.53亿欧元",
+      "url": "https://auto.gasgoo.com/news/202610/28I70476169C109.shtml",
+      "published_at": "2026-10-28T17:17:16Z",
+      "first_seen_at": "2026-10-29T14:35:02.176368Z",
+      "last_seen_at": "2026-10-29T14:35:02.176368Z",
+      "title_original": "StellantisQ3净亏损收窄至4.53亿欧元",
+      "title_en": null,
+      "title_zh": "StellantisQ3净亏损收窄至4.53亿欧元",
+      "title_bilingual": "StellantisQ3净亏损收窄至4.53亿欧元",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "2a12a956539af85623cee851cc9214864375988e",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新能源",
+      "title": "蔚来ES8用户车队完成8045公里全程换电",
+      "url": "https://auto.gasgoo.com/news/202610/28I70476157C501.shtml",
+      "published_at": "2026-10-28T16:51:27Z",
+      "first_seen_at": "2026-10-29T14:35:02.176368Z",
+      "last_seen_at": "2026-10-29T14:35:02.176368Z",
+      "title_original": "蔚来ES8用户车队完成8045公里全程换电",
+      "title_en": null,
+      "title_zh": "蔚来ES8用户车队完成8045公里全程换电",
+      "title_bilingual": "蔚来ES8用户车队完成8045公里全程换电",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争"
       ]
     },
     {
@@ -680,7 +803,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/528191cf8680f842/116495293-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-28T16:44:58.884025Z",
-      "last_seen_at": "2026-10-29T07:27:39.911665Z",
+      "last_seen_at": "2026-10-29T14:35:02.176368Z",
       "title_original": "探店体验 头等舱高智能MPV魏牌",
       "title_en": null,
       "title_zh": "探店体验 头等舱高智能MPV魏牌",
@@ -699,7 +822,7 @@
       "url": "https://i.autohome.com.cn/309760368",
       "published_at": null,
       "first_seen_at": "2026-10-28T16:44:58.884025Z",
-      "last_seen_at": "2026-10-29T07:27:39.911665Z",
+      "last_seen_at": "2026-10-29T14:35:02.176368Z",
       "title_original": "家用大六座真香 小鹏GX提车作业分享",
       "title_en": null,
       "title_zh": "家用大六座真香 小鹏GX提车作业分享",
@@ -718,7 +841,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/e9aa20681dd37dbd/116493986-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-28T16:44:58.884025Z",
-      "last_seen_at": "2026-10-29T07:27:39.911665Z",
+      "last_seen_at": "2026-10-29T14:35:02.176368Z",
       "title_original": "后排空间大 小鹏GX提车作业分享",
       "title_en": null,
       "title_zh": "后排空间大 小鹏GX提车作业分享",
@@ -737,7 +860,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/3b994ba8ac824304/116370409-1.html",
       "published_at": null,
       "first_seen_at": "2026-10-28T16:44:58.884025Z",
-      "last_seen_at": "2026-10-29T07:27:39.911665Z",
+      "last_seen_at": "2026-10-29T14:35:02.176368Z",
       "title_original": "底盘调教偏舒适 海狮06提车作业分享",
       "title_en": null,
       "title_zh": "底盘调教偏舒适 海狮06提车作业分享",
@@ -745,6 +868,59 @@
       "topic_tags": [
         "供应链",
         "购车决策"
+      ]
+    },
+    {
+      "id": "88202c65904da9fd2506501934b7ef1db4abfe80",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "谁是真“千里马”？CLTC破千纯电车型盘点",
+      "url": "https://auto.gasgoo.com/news/202610/28I70476155C501.shtml",
+      "published_at": "2026-10-28T16:27:33Z",
+      "first_seen_at": "2026-10-29T14:35:02.176368Z",
+      "last_seen_at": "2026-10-29T14:35:02.176368Z",
+      "title_original": "谁是真“千里马”？CLTC破千纯电车型盘点",
+      "title_en": null,
+      "title_zh": "谁是真“千里马”？CLTC破千纯电车型盘点",
+      "title_bilingual": "谁是真“千里马”？CLTC破千纯电车型盘点",
+      "topic_tags": [
+        "新能源",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "7a3b9541eb40da059555190eaaabf24ca612f4be",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "共话汽车知识生态丨盖世汽车周晓莺受邀出席研讨会并获优秀作者",
+      "url": "https://auto.gasgoo.com/news/202610/28I70476141C108.shtml",
+      "published_at": "2026-10-28T16:19:48Z",
+      "first_seen_at": "2026-10-29T14:35:02.176368Z",
+      "last_seen_at": "2026-10-29T14:35:02.176368Z",
+      "title_original": "共话汽车知识生态丨盖世汽车周晓莺受邀出席研讨会并获优秀作者",
+      "title_en": null,
+      "title_zh": "共话汽车知识生态丨盖世汽车周晓莺受邀出席研讨会并获优秀作者",
+      "title_bilingual": "共话汽车知识生态丨盖世汽车周晓莺受邀出席研讨会并获优秀作者",
+      "topic_tags": []
+    },
+    {
+      "id": "9aba0f002300963d01c60fced31d365d706ce74d",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "祝贺！比亚迪王传福获2026汽车工业饶斌奖",
+      "url": "https://auto.gasgoo.com/news/202610/28I70476152C109.shtml",
+      "published_at": "2026-10-28T15:36:24Z",
+      "first_seen_at": "2026-10-29T14:35:02.176368Z",
+      "last_seen_at": "2026-10-29T14:35:02.176368Z",
+      "title_original": "祝贺！比亚迪王传福获2026汽车工业饶斌奖",
+      "title_en": null,
+      "title_zh": "祝贺！比亚迪王传福获2026汽车工业饶斌奖",
+      "title_bilingual": "祝贺！比亚迪王传福获2026汽车工业饶斌奖",
+      "topic_tags": [
+        "车企竞争"
       ]
     },
     {
@@ -756,7 +932,7 @@
       "url": "https://auto.gasgoo.com/news/202610/28I70476149C409.shtml",
       "published_at": "2026-10-28T14:56:29Z",
       "first_seen_at": "2026-10-29T07:27:39.911665Z",
-      "last_seen_at": "2026-10-29T07:27:39.911665Z",
+      "last_seen_at": "2026-10-29T14:35:02.176368Z",
       "title_original": "中国研究人员开发出脉冲式3D打印技术 可制备长度超过一米的抗蠕变单晶",
       "title_en": null,
       "title_zh": "中国研究人员开发出脉冲式3D打印技术 可制备长度超过一米的抗蠕变单晶",
@@ -779,234 +955,6 @@
       "title_bilingual": "Tesla Semi 在 I-880 上起火 / Tesla Semi catches fire on I-880",
       "topic_tags": [
         "召回安全",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "5cc220b115f23c3f269bdba659084b2bb1bd388c",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Five-door FAW Bestune Pony launched in China at 6,735 USD",
-      "url": "https://carnewschina.com/2026/10/28/five-door-faw-bestune-pony-launched-in-china-at-6735-usd",
-      "published_at": "2026-10-28T13:28:54Z",
-      "first_seen_at": "2026-10-28T16:44:58.884025Z",
-      "last_seen_at": "2026-10-29T07:27:39.911665Z",
-      "title_original": "Five-door FAW Bestune Pony launched in China at 6,735 USD",
-      "title_en": "Five-door FAW Bestune Pony launched in China at 6,735 USD",
-      "title_zh": "五门一汽奔腾小马在中国上市，售价 6,735 美元",
-      "title_bilingual": "五门一汽奔腾小马在中国上市，售价 6,735 美元 / Five-door FAW Bestune Pony launched in China at 6,735 USD",
-      "topic_tags": [
-        "新能源",
-        "价格战",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "f4db763e8a264ac7c9df21a2715a0531b9ff5c7e",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Li Auto launches 2026 i6 with unchanged starting price, upgraded in-house chip and battery",
-      "url": "https://cnevpost.com/2026/10/28/li-auto-launches-2026-i6",
-      "published_at": "2026-10-28T13:18:22Z",
-      "first_seen_at": "2026-10-28T16:44:58.884025Z",
-      "last_seen_at": "2026-10-29T07:27:39.911665Z",
-      "title_original": "Li Auto launches 2026 i6 with unchanged starting price, upgraded in-house chip and battery",
-      "title_en": "Li Auto launches 2026 i6 with unchanged starting price, upgraded in-house chip and battery",
-      "title_zh": "理想汽车推出2026款i6 起售价不变，自产芯片和电池升级",
-      "title_bilingual": "理想汽车推出2026款i6 起售价不变，自产芯片和电池升级 / Li Auto launches 2026 i6 with unchanged starting price, upgraded in-house chip and battery",
-      "topic_tags": [
-        "新能源",
-        "补能电池",
-        "价格战",
-        "车企竞争",
-        "供应链"
-      ]
-    },
-    {
-      "id": "29a00d6c721fc2e258287518f278d1ad7741a486",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Li Auto launches 2026 Li i6 in China: upgraded hardware and starting at 35,800 USD",
-      "url": "https://carnewschina.com/2026/10/28/li-auto-launches-2026-li-i6-in-china-upgraded-hardware-and-starting-at-35800-usd",
-      "published_at": "2026-10-28T13:15:18Z",
-      "first_seen_at": "2026-10-28T16:44:58.884025Z",
-      "last_seen_at": "2026-10-29T07:27:39.911665Z",
-      "title_original": "Li Auto launches 2026 Li i6 in China: upgraded hardware and starting at 35,800 USD",
-      "title_en": "Li Auto launches 2026 Li i6 in China: upgraded hardware and starting at 35,800 USD",
-      "title_zh": "理想汽车在中国推出2026款Li i6：硬件升级，起售价35,800美元",
-      "title_bilingual": "理想汽车在中国推出2026款Li i6：硬件升级，起售价35,800美元 / Li Auto launches 2026 Li i6 in China: upgraded hardware and starting at 35,800 USD",
-      "topic_tags": [
-        "新能源",
-        "价格战",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "c42cf33c83f1b40a424e0f2a1682490f3e56c8ca",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "在华份额，日系车只剩一成",
-      "url": "https://auto.gasgoo.com/news/202610/28I70476136C108.shtml",
-      "published_at": "2026-10-28T12:58:31Z",
-      "first_seen_at": "2026-10-29T07:27:39.911665Z",
-      "last_seen_at": "2026-10-29T07:27:39.911665Z",
-      "title_original": "在华份额，日系车只剩一成",
-      "title_en": null,
-      "title_zh": "在华份额，日系车只剩一成",
-      "title_bilingual": "在华份额，日系车只剩一成",
-      "topic_tags": [
-        "销量市场"
-      ]
-    },
-    {
-      "id": "58f2b2a333508fe9bbaa6032e91df69b0cfc3da5",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "CATL unveils 9-MWh Tener+ storage system, deepens Australian presence",
-      "url": "https://cnevpost.com/2026/10/28/catl-unveils-tener-plus-deepens-australian-presence",
-      "published_at": "2026-10-28T12:48:50Z",
-      "first_seen_at": "2026-10-28T16:44:58.884025Z",
-      "last_seen_at": "2026-10-29T07:27:39.911665Z",
-      "title_original": "CATL unveils 9-MWh Tener+ storage system, deepens Australian presence",
-      "title_en": "CATL unveils 9-MWh Tener+ storage system, deepens Australian presence",
-      "title_zh": "CATL推出9兆瓦时Tener+存储系统，深化澳大利亚业务",
-      "title_bilingual": "CATL推出9兆瓦时Tener+存储系统，深化澳大利亚业务 / CATL unveils 9-MWh Tener+ storage system, deepens Australian presence",
-      "topic_tags": [
-        "新能源"
-      ]
-    },
-    {
-      "id": "99c2cfcb37329a34c937d39c532302777a56e568",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新车",
-      "title": "智界R7被质疑改款频繁 赵长江回应：两年两次完整改款",
-      "url": "https://auto.gasgoo.com/news/202610/28I70476131C107.shtml",
-      "published_at": "2026-10-28T12:20:49Z",
-      "first_seen_at": "2026-10-29T07:27:39.911665Z",
-      "last_seen_at": "2026-10-29T07:27:39.911665Z",
-      "title_original": "智界R7被质疑改款频繁 赵长江回应：两年两次完整改款",
-      "title_en": null,
-      "title_zh": "智界R7被质疑改款频繁 赵长江回应：两年两次完整改款",
-      "title_bilingual": "智界R7被质疑改款频繁 赵长江回应：两年两次完整改款",
-      "topic_tags": [
-        "新车上市"
-      ]
-    },
-    {
-      "id": "28324519fbbae6b851352e2557cf83be511bf029",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-销量",
-      "title": "长城皮卡1-9月海外累计销售59651辆，同比大增29.5%",
-      "url": "https://auto.gasgoo.com/news/202610/28I70476130C110.shtml",
-      "published_at": "2026-10-28T12:11:14Z",
-      "first_seen_at": "2026-10-29T07:27:39.911665Z",
-      "last_seen_at": "2026-10-29T07:27:39.911665Z",
-      "title_original": "长城皮卡1-9月海外累计销售59651辆，同比大增29.5%",
-      "title_en": null,
-      "title_zh": "长城皮卡1-9月海外累计销售59651辆，同比大增29.5%",
-      "title_bilingual": "长城皮卡1-9月海外累计销售59651辆，同比大增29.5%",
-      "topic_tags": [
-        "销量市场",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "3640f7181459746fec66579acbb3149c70620c2c",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "【国际快讯】通用汽车将从纽交所转至纳斯达克上市；长城汽车将在保加利亚生产欧拉5紧凑型SUV；奔驰下调2026年盈利预期",
-      "url": "https://auto.gasgoo.com/news/202610/28I70476125C108.shtml",
-      "published_at": "2026-10-28T11:39:26Z",
-      "first_seen_at": "2026-10-29T07:27:39.911665Z",
-      "last_seen_at": "2026-10-29T07:27:39.911665Z",
-      "title_original": "【国际快讯】通用汽车将从纽交所转至纳斯达克上市；长城汽车将在保加利亚生产欧拉5紧凑型SUV；奔驰下调2026年盈利预期",
-      "title_en": null,
-      "title_zh": "【国际快讯】通用汽车将从纽交所转至纳斯达克上市；长城汽车将在保加利亚生产欧拉5紧凑型SUV；奔驰下调2026年盈利预期",
-      "title_bilingual": "【国际快讯】通用汽车将从纽交所转至纳斯达克上市；长城汽车将在保加利亚生产欧拉5紧凑型SUV；奔驰下调2026年盈利预期",
-      "topic_tags": [
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "a22c08a2ea9082bb7889619a84b7d305614b1bea",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新能源",
-      "title": "INTILION与宁德时代签署未来5年合作，总规模3GWh！",
-      "url": "https://auto.gasgoo.com/news/202610/28I70476124C501.shtml",
-      "published_at": "2026-10-28T11:11:53Z",
-      "first_seen_at": "2026-10-29T07:27:39.911665Z",
-      "last_seen_at": "2026-10-29T07:27:39.911665Z",
-      "title_original": "INTILION与宁德时代签署未来5年合作，总规模3GWh！",
-      "title_en": null,
-      "title_zh": "INTILION与宁德时代签署未来5年合作，总规模3GWh！",
-      "title_bilingual": "INTILION与宁德时代签署未来5年合作，总规模3GWh！",
-      "topic_tags": [
-        "新能源",
-        "补能电池"
-      ]
-    },
-    {
-      "id": "5b29eccfd69814b3689cc530e4e86d69283ca559",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "China NEV retail sales fall 13% in October 1-25 as peak-season demand stays weak",
-      "url": "https://cnevpost.com/2026/10/28/china-nev-retail-fall-oct-1-25",
-      "published_at": "2026-10-28T09:36:29Z",
-      "first_seen_at": "2026-10-28T10:23:23.257070Z",
-      "last_seen_at": "2026-10-29T07:27:39.911665Z",
-      "title_original": "China NEV retail sales fall 13% in October 1-25 as peak-season demand stays weak",
-      "title_en": "China NEV retail sales fall 13% in October 1-25 as peak-season demand stays weak",
-      "title_zh": "旺季需求持续疲软，10月1-25日中国新能源汽车零售量下降13%",
-      "title_bilingual": "旺季需求持续疲软，10月1-25日中国新能源汽车零售量下降13% / China NEV retail sales fall 13% in October 1-25 as peak-season demand stays weak",
-      "topic_tags": [
-        "新能源"
-      ]
-    },
-    {
-      "id": "b895bd7e84ce3cee36eae1e96a4e222e292c6bbc",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "宁德时代：全固态电池2027年小批量生产",
-      "url": "https://auto.gasgoo.com/news/202610/28I70476109C108.shtml",
-      "published_at": "2026-10-28T09:33:16Z",
-      "first_seen_at": "2026-10-29T07:27:39.911665Z",
-      "last_seen_at": "2026-10-29T07:27:39.911665Z",
-      "title_original": "宁德时代：全固态电池2027年小批量生产",
-      "title_en": null,
-      "title_zh": "宁德时代：全固态电池2027年小批量生产",
-      "title_bilingual": "宁德时代：全固态电池2027年小批量生产",
-      "topic_tags": [
-        "补能电池"
-      ]
-    },
-    {
-      "id": "fe6e1a25c5d41dcb3d0f2cb115e7542f0aa5f13f",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-Battery",
-      "title": "Solid-state batteries for Xpeng's Iron humanoid robot enter small-batch production",
-      "url": "https://cnevpost.com/2026/10/28/solid-state-batteries-xpeng-iron-small-batch-production",
-      "published_at": "2026-10-28T09:11:24Z",
-      "first_seen_at": "2026-10-28T10:23:23.257070Z",
-      "last_seen_at": "2026-10-29T07:27:39.911665Z",
-      "title_original": "Solid-state batteries for Xpeng's Iron humanoid robot enter small-batch production",
-      "title_en": "Solid-state batteries for Xpeng's Iron humanoid robot enter small-batch production",
-      "title_zh": "小鹏Iron仿人机器人固态电池进入小批量生产",
-      "title_bilingual": "小鹏Iron仿人机器人固态电池进入小批量生产 / Solid-state batteries for Xpeng's Iron humanoid robot enter small-batch production",
-      "topic_tags": [
-        "补能电池",
         "车企竞争"
       ]
     }
