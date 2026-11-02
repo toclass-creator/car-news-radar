@@ -1,49 +1,49 @@
 {
-  "generated_at": "2026-11-01T23:44:19.365141Z",
+  "generated_at": "2026-11-02T04:21:55.484838Z",
   "window_hours": 24,
-  "total_items": 28,
-  "total_items_ai_raw": 28,
-  "total_items_raw": 2187,
-  "total_items_all_mode": 1982,
+  "total_items": 29,
+  "total_items_ai_raw": 32,
+  "total_items_raw": 2465,
+  "total_items_all_mode": 2223,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 55495,
+  "archive_total": 55416,
   "site_count": 3,
-  "source_count": 5,
+  "source_count": 8,
   "site_stats": [
     {
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
       "count": 16,
-      "raw_count": 16
+      "raw_count": 19
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "count": 12,
-      "raw_count": 2070
+      "raw_count": 2337
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
-      "count": 0,
-      "raw_count": 101
+      "count": 1,
+      "raw_count": 109
     }
   ],
   "topic_tag_stats": [
     {
       "tag": "车企竞争",
-      "count": 19
-    },
-    {
-      "tag": "新能源",
       "count": 18
     },
     {
-      "tag": "销量市场",
-      "count": 14
+      "tag": "新能源",
+      "count": 15
     },
     {
-      "tag": "新车上市",
+      "tag": "销量市场",
+      "count": 12
+    },
+    {
+      "tag": "补能电池",
       "count": 3
     },
     {
@@ -55,15 +55,95 @@
       "count": 2
     },
     {
+      "tag": "新车上市",
+      "count": 2
+    },
+    {
       "tag": "智能驾驶",
       "count": 2
     },
     {
-      "tag": "补能电池",
-      "count": 2
+      "tag": "召回安全",
+      "count": 1
     }
   ],
   "items": [
+    {
+      "id": "5c5fd113cfeba20c419c18d8ff742ec764f169c1",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "juejin",
+      "title": "AI 代码审查召回率实测：20 个骗过单元测试的变异体，抓到 13 个",
+      "url": "https://juejin.cn/post/7702064982633152546",
+      "published_at": "2026-11-02T04:22:07.150000Z",
+      "first_seen_at": "2026-11-02T04:21:55.484838Z",
+      "last_seen_at": "2026-11-02T04:21:55.484838Z",
+      "title_original": "AI 代码审查召回率实测：20 个骗过单元测试的变异体，抓到 13 个",
+      "title_en": null,
+      "title_zh": "AI 代码审查召回率实测：20 个骗过单元测试的变异体，抓到 13 个",
+      "title_bilingual": "AI 代码审查召回率实测：20 个骗过单元测试的变异体，抓到 13 个",
+      "topic_tags": [
+        "召回安全"
+      ]
+    },
+    {
+      "id": "2a8c824d68b54d6523ea6bb3c3f3f9e174f74312",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Nio’s 925V motor packs 19 kW/kg and doubles as a 200 kW charger to take top engineering prize",
+      "url": "https://carnewschina.com/2026/11/02/nios-925v-motor-packs-19-kw-kg-and-doubles-as-a-200-kw-charger-to-take-top-engineering-prize",
+      "published_at": "2026-11-02T04:16:37Z",
+      "first_seen_at": "2026-11-02T04:21:55.484838Z",
+      "last_seen_at": "2026-11-02T04:21:55.484838Z",
+      "title_original": "Nio’s 925V motor packs 19 kW/kg and doubles as a 200 kW charger to take top engineering prize",
+      "title_en": "Nio’s 925V motor packs 19 kW/kg and doubles as a 200 kW charger to take top engineering prize",
+      "title_zh": null,
+      "title_bilingual": "Nio’s 925V motor packs 19 kW/kg and doubles as a 200 kW charger to take top engineering prize",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "e7b8a25d5bda9e86f1b1e87f5305f7a3983bf3c7",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Global EV battery market share in January-September 2026: CATL 39.1%, BYD 15.2%",
+      "url": "https://cnevpost.com/2026/11/02/global-ev-battery-market-share-in-jan-sept-2026",
+      "published_at": "2026-11-02T03:40:36Z",
+      "first_seen_at": "2026-11-02T04:21:55.484838Z",
+      "last_seen_at": "2026-11-02T04:21:55.484838Z",
+      "title_original": "Global EV battery market share in January-September 2026: CATL 39.1%, BYD 15.2%",
+      "title_en": "Global EV battery market share in January-September 2026: CATL 39.1%, BYD 15.2%",
+      "title_zh": null,
+      "title_bilingual": "Global EV battery market share in January-September 2026: CATL 39.1%, BYD 15.2%",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "8ee53e85c885340e367fa63bbfefbcafc101581c",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "China EV sales in October: BYD 483,125, Geely 214,996, Leapmotor 106,127, Xpeng 50,237",
+      "url": "https://carnewschina.com/2026/11/02/china-ev-sales-in-october-byd-483125-geely-214996-leapmotor-106127-xpeng-50237",
+      "published_at": "2026-11-02T02:47:23Z",
+      "first_seen_at": "2026-11-02T04:21:55.484838Z",
+      "last_seen_at": "2026-11-02T04:21:55.484838Z",
+      "title_original": "China EV sales in October: BYD 483,125, Geely 214,996, Leapmotor 106,127, Xpeng 50,237",
+      "title_en": "China EV sales in October: BYD 483,125, Geely 214,996, Leapmotor 106,127, Xpeng 50,237",
+      "title_zh": null,
+      "title_bilingual": "China EV sales in October: BYD 483,125, Geely 214,996, Leapmotor 106,127, Xpeng 50,237",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
     {
       "id": "ec2a020ef3a1d13bc98c8d2b38d4363d391d3eca",
       "site_id": "tophub",
@@ -73,7 +153,7 @@
       "url": "https://i.autohome.com.cn/309942893",
       "published_at": null,
       "first_seen_at": "2026-11-01T20:08:06.177484Z",
-      "last_seen_at": "2026-11-01T23:44:19.365141Z",
+      "last_seen_at": "2026-11-02T04:21:55.484838Z",
       "title_original": "毕业第一辆车 比亚迪秦L提车分享",
       "title_en": null,
       "title_zh": "毕业第一辆车 比亚迪秦L提车分享",
@@ -92,7 +172,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/cca40c0adeda827a/116492972-1.html",
       "published_at": null,
       "first_seen_at": "2026-11-01T20:08:06.177484Z",
-      "last_seen_at": "2026-11-01T23:44:19.365141Z",
+      "last_seen_at": "2026-11-02T04:21:55.484838Z",
       "title_original": "电车通勤真省钱 尚界Z7提车分享",
       "title_en": null,
       "title_zh": "电车通勤真省钱 尚界Z7提车分享",
@@ -111,7 +191,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/1891c42c2fd6d3dc/116435624-1.html",
       "published_at": null,
       "first_seen_at": "2026-11-01T20:08:06.177484Z",
-      "last_seen_at": "2026-11-01T23:44:19.365141Z",
+      "last_seen_at": "2026-11-02T04:21:55.484838Z",
       "title_original": "快充省时省力 长安启源Q06提车分享",
       "title_en": null,
       "title_zh": "快充省时省力 长安启源Q06提车分享",
@@ -131,7 +211,7 @@
       "url": "http://vc.yiche.com/vplay/13974340.html",
       "published_at": null,
       "first_seen_at": "2026-11-01T20:08:06.177484Z",
-      "last_seen_at": "2026-11-01T23:44:19.365141Z",
+      "last_seen_at": "2026-11-02T04:21:55.484838Z",
       "title_original": "双向奔赴的大奔梦  全新奔驰长轴距GLE SUV",
       "title_en": null,
       "title_zh": "双向奔赴的大奔梦  全新奔驰长轴距GLE SUV",
@@ -150,7 +230,7 @@
       "url": "http://vc.yiche.com/vplay/13959458.html",
       "published_at": null,
       "first_seen_at": "2026-11-01T20:08:06.177484Z",
-      "last_seen_at": "2026-11-01T23:44:19.365141Z",
+      "last_seen_at": "2026-11-02T04:21:55.484838Z",
       "title_original": "智驾防晕第一车，东风日产新N7",
       "title_en": null,
       "title_zh": "智驾防晕第一车，东风日产新N7",
@@ -168,7 +248,7 @@
       "url": "http://vc.yiche.com/vplay/13920979.html",
       "published_at": null,
       "first_seen_at": "2026-11-01T20:08:06.177484Z",
-      "last_seen_at": "2026-11-01T23:44:19.365141Z",
+      "last_seen_at": "2026-11-02T04:21:55.484838Z",
       "title_original": "对比银河战舰700和猛士X700底盘，谁更舍得用料？",
       "title_en": null,
       "title_zh": "对比银河战舰700和猛士X700底盘，谁更舍得用料？",
@@ -186,7 +266,7 @@
       "url": "http://vc.yiche.com/vplay/13944842.html",
       "published_at": null,
       "first_seen_at": "2026-11-01T20:08:06.177484Z",
-      "last_seen_at": "2026-11-01T23:44:19.365141Z",
+      "last_seen_at": "2026-11-02T04:21:55.484838Z",
       "title_original": "强烈建议买新的！吉利银河战舰700对比方程豹钛7",
       "title_en": null,
       "title_zh": "强烈建议买新的！吉利银河战舰700对比方程豹钛7",
@@ -204,7 +284,7 @@
       "url": "https://cnevpost.com/2026/11/01/chery-oct-2026-sales",
       "published_at": "2026-11-01T14:05:18Z",
       "first_seen_at": "2026-11-01T15:43:49.981935Z",
-      "last_seen_at": "2026-11-01T23:44:19.365141Z",
+      "last_seen_at": "2026-11-02T04:21:55.484838Z",
       "title_original": "Chery October sales rise 5.3% as NEVs hit record and exports top 200,000 again",
       "title_en": "Chery October sales rise 5.3% as NEVs hit record and exports top 200,000 again",
       "title_zh": "奇瑞10月销量增长5.3%，新能源汽车创历史新高，出口再次突破20万辆",
@@ -224,7 +304,7 @@
       "url": "https://cnevpost.com/2026/11/01/geely-oct-2026-sales",
       "published_at": "2026-11-01T12:53:16Z",
       "first_seen_at": "2026-11-01T15:43:49.981935Z",
-      "last_seen_at": "2026-11-01T23:44:19.365141Z",
+      "last_seen_at": "2026-11-02T04:21:55.484838Z",
       "title_original": "Geely nears monthly sales record as exports remain strong",
       "title_en": "Geely nears monthly sales record as exports remain strong",
       "title_zh": "出口保持强劲 吉利接近月度销量纪录",
@@ -244,7 +324,7 @@
       "url": "https://cnevpost.com/2026/11/01/byd-oct-2026-sales",
       "published_at": "2026-11-01T10:53:52Z",
       "first_seen_at": "2026-11-01T15:43:49.981935Z",
-      "last_seen_at": "2026-11-01T23:44:19.365141Z",
+      "last_seen_at": "2026-11-02T04:21:55.484838Z",
       "title_original": "BYD sales rise 11% to year-to-date high in October as BEVs top 300,000 for first time",
       "title_en": "BYD sales rise 11% to year-to-date high in October as BEVs top 300,000 for first time",
       "title_zh": "比亚迪10月销量增长11%，创年内新高，纯电动汽车销量首次突破30万辆",
@@ -256,6 +336,43 @@
       ]
     },
     {
+      "id": "cfdaae5d8167685269212b42f907c5a6253616ae",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-销量",
+      "title": "再创新高！小米汽车10月交付量超5万台",
+      "url": "https://auto.gasgoo.com/news/202611/1I70476538C110.shtml",
+      "published_at": "2026-11-01T09:38:40Z",
+      "first_seen_at": "2026-11-02T04:21:55.484838Z",
+      "last_seen_at": "2026-11-02T04:21:55.484838Z",
+      "title_original": "再创新高！小米汽车10月交付量超5万台",
+      "title_en": null,
+      "title_zh": "再创新高！小米汽车10月交付量超5万台",
+      "title_bilingual": "再创新高！小米汽车10月交付量超5万台",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "e5093c129277e0e9c03671f7c98e6fcdc545cf6f",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-销量",
+      "title": "深蓝汽车10月全球销量3.3万辆 环比上涨8%",
+      "url": "https://auto.gasgoo.com/news/202611/1I70476537C110.shtml",
+      "published_at": "2026-11-01T09:30:37Z",
+      "first_seen_at": "2026-11-02T04:21:55.484838Z",
+      "last_seen_at": "2026-11-02T04:21:55.484838Z",
+      "title_original": "深蓝汽车10月全球销量3.3万辆 环比上涨8%",
+      "title_en": null,
+      "title_zh": "深蓝汽车10月全球销量3.3万辆 环比上涨8%",
+      "title_bilingual": "深蓝汽车10月全球销量3.3万辆 环比上涨8%",
+      "topic_tags": [
+        "销量市场"
+      ]
+    },
+    {
       "id": "0fc84cac632e76890ea9410846ba9502c6c0c694",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -264,7 +381,7 @@
       "url": "https://www.dongchedi.com/article/7702402546309382680",
       "published_at": null,
       "first_seen_at": "2026-11-01T08:40:35.929164Z",
-      "last_seen_at": "2026-11-01T23:44:19.365141Z",
+      "last_seen_at": "2026-11-02T04:21:55.484838Z",
       "title_original": "中大型PK中型，长安启源A06和MG 07，选谁？",
       "title_en": null,
       "title_zh": "中大型PK中型，长安启源A06和MG 07，选谁？",
@@ -282,7 +399,7 @@
       "url": "https://www.dongchedi.com/article/7701929583117877785",
       "published_at": null,
       "first_seen_at": "2026-11-01T08:40:35.929164Z",
-      "last_seen_at": "2026-11-01T23:44:19.365141Z",
+      "last_seen_at": "2026-11-02T04:21:55.484838Z",
       "title_original": "问界M6拆车：为啥敢说“遥遥领先”，拆开看看就知道了！",
       "title_en": null,
       "title_zh": "问界M6拆车：为啥敢说“遥遥领先”，拆开看看就知道了！",
@@ -300,7 +417,7 @@
       "url": "https://www.dongchedi.com/article/7702411558102024728",
       "published_at": null,
       "first_seen_at": "2026-11-01T08:40:35.929164Z",
-      "last_seen_at": "2026-11-01T23:44:19.365141Z",
+      "last_seen_at": "2026-11-02T04:21:55.484838Z",
       "title_original": "日本车在欧洲苦熬30年的销量！中国车只用5年就反超了",
       "title_en": null,
       "title_zh": "日本车在欧洲苦熬30年的销量！中国车只用5年就反超了",
@@ -318,7 +435,7 @@
       "url": "https://www.dongchedi.com/article/7702401821838443033",
       "published_at": null,
       "first_seen_at": "2026-11-01T08:40:35.929164Z",
-      "last_seen_at": "2026-11-01T23:44:19.365141Z",
+      "last_seen_at": "2026-11-02T04:21:55.484838Z",
       "title_original": "升级椰子Coconut+3.3.0，乐道L80在西安老城区的辅助驾驶实测",
       "title_en": null,
       "title_zh": "升级椰子Coconut+3.3.0，乐道L80在西安老城区的辅助驾驶实测",
@@ -336,7 +453,7 @@
       "url": "https://www.dongchedi.com/article/7702383976930001433",
       "published_at": null,
       "first_seen_at": "2026-11-01T08:40:35.929164Z",
-      "last_seen_at": "2026-11-01T23:44:19.365141Z",
+      "last_seen_at": "2026-11-02T04:21:55.484838Z",
       "title_original": "电车时代，轮毂为什么集体变大？",
       "title_en": null,
       "title_zh": "电车时代，轮毂为什么集体变大？",
@@ -354,7 +471,7 @@
       "url": "https://cnevpost.com/2026/11/01/roundup-oct-2026-deliveries-chinese-automakers",
       "published_at": "2026-11-01T08:33:00Z",
       "first_seen_at": "2026-11-01T08:40:35.929164Z",
-      "last_seen_at": "2026-11-01T23:44:19.365141Z",
+      "last_seen_at": "2026-11-02T04:21:55.484838Z",
       "title_original": "Roundup: October 2026 deliveries by major Chinese automakers",
       "title_en": "Roundup: October 2026 deliveries by major Chinese automakers",
       "title_zh": "综述：2026 年 10 月中国主要汽车制造商的交付量",
@@ -374,13 +491,32 @@
       "url": "https://cnevpost.com/2026/11/01/gwm-oct-2026-sales",
       "published_at": "2026-11-01T08:27:30Z",
       "first_seen_at": "2026-11-01T08:40:35.929164Z",
-      "last_seen_at": "2026-11-01T23:44:19.365141Z",
+      "last_seen_at": "2026-11-02T04:21:55.484838Z",
       "title_original": "GWM October sales fall 15.87% despite record NEV and overseas volumes",
       "title_en": "GWM October sales fall 15.87% despite record NEV and overseas volumes",
       "title_zh": "尽管新能源汽车和海外销量创历史新高，长城汽车 10 月销量仍下降 15.87%",
       "title_bilingual": "尽管新能源汽车和海外销量创历史新高，长城汽车 10 月销量仍下降 15.87% / GWM October sales fall 15.87% despite record NEV and overseas volumes",
       "topic_tags": [
         "新能源",
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "c61e58c6596ee54ef3ae968aa4239ed521d25e7f",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "盖世周报 | 中国车企欧洲销量首超日系；大众考虑在欧采用中国软件",
+      "url": "https://auto.gasgoo.com/news/202611/1I70476495C109.shtml",
+      "published_at": "2026-11-01T07:58:31Z",
+      "first_seen_at": "2026-11-02T04:21:55.484838Z",
+      "last_seen_at": "2026-11-02T04:21:55.484838Z",
+      "title_original": "盖世周报 | 中国车企欧洲销量首超日系；大众考虑在欧采用中国软件",
+      "title_en": null,
+      "title_zh": "盖世周报 | 中国车企欧洲销量首超日系；大众考虑在欧采用中国软件",
+      "title_bilingual": "盖世周报 | 中国车企欧洲销量首超日系；大众考虑在欧采用中国软件",
+      "topic_tags": [
         "销量市场",
         "车企竞争"
       ]
@@ -394,7 +530,7 @@
       "url": "https://carnewschina.com/2026/11/01/china-exempts-sodium-ion-batteries-from-tax-as-hina-targets-10-gwh-commercial-ev-push",
       "published_at": "2026-11-01T07:21:17Z",
       "first_seen_at": "2026-11-01T08:40:35.929164Z",
-      "last_seen_at": "2026-11-01T23:44:19.365141Z",
+      "last_seen_at": "2026-11-02T04:21:55.484838Z",
       "title_original": "China exempts sodium-ion batteries from tax as Hina targets 10 GWh commerical EV push",
       "title_en": "China exempts sodium-ion batteries from tax as Hina targets 10 GWh commerical EV push",
       "title_zh": "中国免除钠离子电池税，中国目标推动 10 GWh 商用电动汽车",
@@ -413,7 +549,7 @@
       "url": "https://cnevpost.com/2026/11/01/zeekr-deliveries-oct-2026",
       "published_at": "2026-11-01T05:54:30Z",
       "first_seen_at": "2026-11-01T08:40:35.929164Z",
-      "last_seen_at": "2026-11-01T23:44:19.365141Z",
+      "last_seen_at": "2026-11-02T04:21:55.484838Z",
       "title_original": "Zeekr delivers 32,483 vehicles in October, up 51.63% year-on-year but ending 6-month record streak",
       "title_en": "Zeekr delivers 32,483 vehicles in October, up 51.63% year-on-year but ending 6-month record streak",
       "title_zh": "Zeekr 10月交付量32,483辆 同比增长51.63% 终结6个月连胜纪录",
@@ -433,7 +569,7 @@
       "url": "https://cnevpost.com/2026/11/01/huawei-hima-oct-2026-deliveries",
       "published_at": "2026-11-01T05:34:16Z",
       "first_seen_at": "2026-11-01T08:40:35.929164Z",
-      "last_seen_at": "2026-11-01T23:44:19.365141Z",
+      "last_seen_at": "2026-11-02T04:21:55.484838Z",
       "title_original": "Huawei HIMA October deliveries halve, pushing year-to-date total into decline",
       "title_en": "Huawei HIMA October deliveries halve, pushing year-to-date total into decline",
       "title_zh": "华为HIMA 10月出货量减半，导致年初至今总量下降",
@@ -451,7 +587,7 @@
       "url": "https://carnewschina.com/2026/11/01/byds-fcb-crosses-600000-sales-as-gm-acknowledges-delivery-bottlenecks-ahead-of-ti-9-launch",
       "published_at": "2026-11-01T05:15:33Z",
       "first_seen_at": "2026-11-01T08:40:35.929164Z",
-      "last_seen_at": "2026-11-01T23:44:19.365141Z",
+      "last_seen_at": "2026-11-02T04:21:55.484838Z",
       "title_original": "BYD’s FCB crosses 600,000 sales as GM acknowledges delivery bottlenecks ahead of Ti 9 launch",
       "title_en": "BYD’s FCB crosses 600,000 sales as GM acknowledges delivery bottlenecks ahead of Ti 9 launch",
       "title_zh": "通用汽车承认 Ti 9 上市前存在交付瓶颈，比亚迪 FCB 销量突破 60 万辆",
@@ -472,7 +608,7 @@
       "url": "https://cnevpost.com/2026/11/01/nio-deliveries-oct-2026",
       "published_at": "2026-11-01T04:26:34Z",
       "first_seen_at": "2026-11-01T08:40:35.929164Z",
-      "last_seen_at": "2026-11-01T23:44:19.365141Z",
+      "last_seen_at": "2026-11-02T04:21:55.484838Z",
       "title_original": "Nio October deliveries fall 15.23%, ending 31-month streak of year-on-year growth",
       "title_en": "Nio October deliveries fall 15.23%, ending 31-month streak of year-on-year growth",
       "title_zh": "蔚来10月交付量下降15.23% 结束连续31个月同比增长",
@@ -481,131 +617,87 @@
         "新能源",
         "销量市场",
         "车企竞争"
-      ]
-    },
-    {
-      "id": "386d5ee6d40cf16182b7636dbf35abf75b992f86",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Leapmotor delivers record 106,127 vehicles in October, topping 100,000 for fourth straight month",
-      "url": "https://cnevpost.com/2026/11/01/leapmotor-deliveries-oct-2026",
-      "published_at": "2026-11-01T03:27:53Z",
-      "first_seen_at": "2026-11-01T08:40:35.929164Z",
-      "last_seen_at": "2026-11-01T23:44:19.365141Z",
-      "title_original": "Leapmotor delivers record 106,127 vehicles in October, topping 100,000 for fourth straight month",
-      "title_en": "Leapmotor delivers record 106,127 vehicles in October, topping 100,000 for fourth straight month",
-      "title_zh": "零跑汽车10月销量创历史新高106,127辆，连续第四个月突破10万辆",
-      "title_bilingual": "零跑汽车10月销量创历史新高106,127辆，连续第四个月突破10万辆 / Leapmotor delivers record 106,127 vehicles in October, topping 100,000 for fourth straight month",
-      "topic_tags": [
-        "新能源",
-        "销量市场",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "758bdb3966cd5887cb3b12257594d2c23dd0c194",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Xpeng monthly deliveries top 50,000 for first time in October",
-      "url": "https://cnevpost.com/2026/11/01/xpeng-deliveries-oct-2026",
-      "published_at": "2026-11-01T02:38:31Z",
-      "first_seen_at": "2026-11-01T08:40:35.929164Z",
-      "last_seen_at": "2026-11-01T23:44:19.365141Z",
-      "title_original": "Xpeng monthly deliveries top 50,000 for first time in October",
-      "title_en": "Xpeng monthly deliveries top 50,000 for first time in October",
-      "title_zh": "小鹏汽车10月月交付量首次突破5万辆",
-      "title_bilingual": "小鹏汽车10月月交付量首次突破5万辆 / Xpeng monthly deliveries top 50,000 for first time in October",
-      "topic_tags": [
-        "新能源",
-        "销量市场",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "694617588f29fc3dcaec995ef64187f667f135c3",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Li Auto October deliveries fall to 29,025, lowest since February",
-      "url": "https://cnevpost.com/2026/11/01/li-auto-oct-2026-deliveries",
-      "published_at": "2026-11-01T02:14:14Z",
-      "first_seen_at": "2026-11-01T08:40:35.929164Z",
-      "last_seen_at": "2026-11-01T23:44:19.365141Z",
-      "title_original": "Li Auto October deliveries fall to 29,025, lowest since February",
-      "title_en": "Li Auto October deliveries fall to 29,025, lowest since February",
-      "title_zh": "理想汽车10月交付量降至29,025辆，创2月以来最低",
-      "title_bilingual": "理想汽车10月交付量降至29,025辆，创2月以来最低 / Li Auto October deliveries fall to 29,025, lowest since February",
-      "topic_tags": [
-        "新能源",
-        "销量市场",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "6a2715e84ff899240d2ee9017e234dc6e2da8434",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "BYD Fang Cheng Bao reaches 600,000 cumulative sales, plans faster deliveries in November",
-      "url": "https://cnevpost.com/2026/11/01/byd-fang-cheng-bao-600000-cumulative-sales",
-      "published_at": "2026-11-01T02:01:03Z",
-      "first_seen_at": "2026-11-01T08:40:35.929164Z",
-      "last_seen_at": "2026-11-01T23:44:19.365141Z",
-      "title_original": "BYD Fang Cheng Bao reaches 600,000 cumulative sales, plans faster deliveries in November",
-      "title_en": "BYD Fang Cheng Bao reaches 600,000 cumulative sales, plans faster deliveries in November",
-      "title_zh": "比亚迪方成宝累计销量突破60万辆 计划11月加速交付",
-      "title_bilingual": "比亚迪方成宝累计销量突破60万辆 计划11月加速交付 / BYD Fang Cheng Bao reaches 600,000 cumulative sales, plans faster deliveries in November",
-      "topic_tags": [
-        "新能源",
-        "销量市场",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "95afdb8d4d23bfd19e2ffb72f1bc5badddc9d154",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Xiaomi Auto delivers over 50,000 vehicles in October as Sky Nomad drives return to year-on-year growth",
-      "url": "https://cnevpost.com/2026/11/01/xiaomi-auto-delivers-over-50000-oct-2026",
-      "published_at": "2026-11-01T01:45:34Z",
-      "first_seen_at": "2026-11-01T01:49:42.132404Z",
-      "last_seen_at": "2026-11-01T23:44:19.365141Z",
-      "title_original": "Xiaomi Auto delivers over 50,000 vehicles in October as Sky Nomad drives return to year-on-year growth",
-      "title_en": "Xiaomi Auto delivers over 50,000 vehicles in October as Sky Nomad drives return to year-on-year growth",
-      "title_zh": "小米汽车10月交付超5万辆 天空游牧恢复同比增长",
-      "title_bilingual": "小米汽车10月交付超5万辆 天空游牧恢复同比增长 / Xiaomi Auto delivers over 50,000 vehicles in October as Sky Nomad drives return to year-on-year growth",
-      "topic_tags": [
-        "新能源",
-        "销量市场",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "2514438f77a16965f2f6a62c63b88a18fa1845f7",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "BYD to launch second-gen Seal 07 sedan on November 5",
-      "url": "https://cnevpost.com/2026/11/01/byd-to-launch-2nd-gen-seal-07-nov-5",
-      "published_at": "2026-11-01T01:16:28Z",
-      "first_seen_at": "2026-11-01T01:49:42.132404Z",
-      "last_seen_at": "2026-11-01T23:44:19.365141Z",
-      "title_original": "BYD to launch second-gen Seal 07 sedan on November 5",
-      "title_en": "BYD to launch second-gen Seal 07 sedan on November 5",
-      "title_zh": "比亚迪第二代Seal 07轿车将于11月5日上市",
-      "title_bilingual": "比亚迪第二代Seal 07轿车将于11月5日上市 / BYD to launch second-gen Seal 07 sedan on November 5",
-      "topic_tags": [
-        "新能源",
-        "车企竞争",
-        "新车上市"
       ]
     }
   ],
   "items_ai": [
     {
+      "id": "5c5fd113cfeba20c419c18d8ff742ec764f169c1",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "juejin",
+      "title": "AI 代码审查召回率实测：20 个骗过单元测试的变异体，抓到 13 个",
+      "url": "https://juejin.cn/post/7702064982633152546",
+      "published_at": "2026-11-02T04:22:07.150000Z",
+      "first_seen_at": "2026-11-02T04:21:55.484838Z",
+      "last_seen_at": "2026-11-02T04:21:55.484838Z",
+      "title_original": "AI 代码审查召回率实测：20 个骗过单元测试的变异体，抓到 13 个",
+      "title_en": null,
+      "title_zh": "AI 代码审查召回率实测：20 个骗过单元测试的变异体，抓到 13 个",
+      "title_bilingual": "AI 代码审查召回率实测：20 个骗过单元测试的变异体，抓到 13 个",
+      "topic_tags": [
+        "召回安全"
+      ]
+    },
+    {
+      "id": "2a8c824d68b54d6523ea6bb3c3f3f9e174f74312",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Nio’s 925V motor packs 19 kW/kg and doubles as a 200 kW charger to take top engineering prize",
+      "url": "https://carnewschina.com/2026/11/02/nios-925v-motor-packs-19-kw-kg-and-doubles-as-a-200-kw-charger-to-take-top-engineering-prize",
+      "published_at": "2026-11-02T04:16:37Z",
+      "first_seen_at": "2026-11-02T04:21:55.484838Z",
+      "last_seen_at": "2026-11-02T04:21:55.484838Z",
+      "title_original": "Nio’s 925V motor packs 19 kW/kg and doubles as a 200 kW charger to take top engineering prize",
+      "title_en": "Nio’s 925V motor packs 19 kW/kg and doubles as a 200 kW charger to take top engineering prize",
+      "title_zh": null,
+      "title_bilingual": "Nio’s 925V motor packs 19 kW/kg and doubles as a 200 kW charger to take top engineering prize",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "e7b8a25d5bda9e86f1b1e87f5305f7a3983bf3c7",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Global EV battery market share in January-September 2026: CATL 39.1%, BYD 15.2%",
+      "url": "https://cnevpost.com/2026/11/02/global-ev-battery-market-share-in-jan-sept-2026",
+      "published_at": "2026-11-02T03:40:36Z",
+      "first_seen_at": "2026-11-02T04:21:55.484838Z",
+      "last_seen_at": "2026-11-02T04:21:55.484838Z",
+      "title_original": "Global EV battery market share in January-September 2026: CATL 39.1%, BYD 15.2%",
+      "title_en": "Global EV battery market share in January-September 2026: CATL 39.1%, BYD 15.2%",
+      "title_zh": null,
+      "title_bilingual": "Global EV battery market share in January-September 2026: CATL 39.1%, BYD 15.2%",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "8ee53e85c885340e367fa63bbfefbcafc101581c",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "China EV sales in October: BYD 483,125, Geely 214,996, Leapmotor 106,127, Xpeng 50,237",
+      "url": "https://carnewschina.com/2026/11/02/china-ev-sales-in-october-byd-483125-geely-214996-leapmotor-106127-xpeng-50237",
+      "published_at": "2026-11-02T02:47:23Z",
+      "first_seen_at": "2026-11-02T04:21:55.484838Z",
+      "last_seen_at": "2026-11-02T04:21:55.484838Z",
+      "title_original": "China EV sales in October: BYD 483,125, Geely 214,996, Leapmotor 106,127, Xpeng 50,237",
+      "title_en": "China EV sales in October: BYD 483,125, Geely 214,996, Leapmotor 106,127, Xpeng 50,237",
+      "title_zh": null,
+      "title_bilingual": "China EV sales in October: BYD 483,125, Geely 214,996, Leapmotor 106,127, Xpeng 50,237",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
       "id": "ec2a020ef3a1d13bc98c8d2b38d4363d391d3eca",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -614,7 +706,7 @@
       "url": "https://i.autohome.com.cn/309942893",
       "published_at": null,
       "first_seen_at": "2026-11-01T20:08:06.177484Z",
-      "last_seen_at": "2026-11-01T23:44:19.365141Z",
+      "last_seen_at": "2026-11-02T04:21:55.484838Z",
       "title_original": "毕业第一辆车 比亚迪秦L提车分享",
       "title_en": null,
       "title_zh": "毕业第一辆车 比亚迪秦L提车分享",
@@ -633,7 +725,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/cca40c0adeda827a/116492972-1.html",
       "published_at": null,
       "first_seen_at": "2026-11-01T20:08:06.177484Z",
-      "last_seen_at": "2026-11-01T23:44:19.365141Z",
+      "last_seen_at": "2026-11-02T04:21:55.484838Z",
       "title_original": "电车通勤真省钱 尚界Z7提车分享",
       "title_en": null,
       "title_zh": "电车通勤真省钱 尚界Z7提车分享",
@@ -652,7 +744,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/1891c42c2fd6d3dc/116435624-1.html",
       "published_at": null,
       "first_seen_at": "2026-11-01T20:08:06.177484Z",
-      "last_seen_at": "2026-11-01T23:44:19.365141Z",
+      "last_seen_at": "2026-11-02T04:21:55.484838Z",
       "title_original": "快充省时省力 长安启源Q06提车分享",
       "title_en": null,
       "title_zh": "快充省时省力 长安启源Q06提车分享",
@@ -672,7 +764,7 @@
       "url": "http://vc.yiche.com/vplay/13974340.html",
       "published_at": null,
       "first_seen_at": "2026-11-01T20:08:06.177484Z",
-      "last_seen_at": "2026-11-01T23:44:19.365141Z",
+      "last_seen_at": "2026-11-02T04:21:55.484838Z",
       "title_original": "双向奔赴的大奔梦  全新奔驰长轴距GLE SUV",
       "title_en": null,
       "title_zh": "双向奔赴的大奔梦  全新奔驰长轴距GLE SUV",
@@ -691,7 +783,7 @@
       "url": "http://vc.yiche.com/vplay/13959458.html",
       "published_at": null,
       "first_seen_at": "2026-11-01T20:08:06.177484Z",
-      "last_seen_at": "2026-11-01T23:44:19.365141Z",
+      "last_seen_at": "2026-11-02T04:21:55.484838Z",
       "title_original": "智驾防晕第一车，东风日产新N7",
       "title_en": null,
       "title_zh": "智驾防晕第一车，东风日产新N7",
@@ -709,7 +801,7 @@
       "url": "http://vc.yiche.com/vplay/13920979.html",
       "published_at": null,
       "first_seen_at": "2026-11-01T20:08:06.177484Z",
-      "last_seen_at": "2026-11-01T23:44:19.365141Z",
+      "last_seen_at": "2026-11-02T04:21:55.484838Z",
       "title_original": "对比银河战舰700和猛士X700底盘，谁更舍得用料？",
       "title_en": null,
       "title_zh": "对比银河战舰700和猛士X700底盘，谁更舍得用料？",
@@ -727,7 +819,7 @@
       "url": "http://vc.yiche.com/vplay/13944842.html",
       "published_at": null,
       "first_seen_at": "2026-11-01T20:08:06.177484Z",
-      "last_seen_at": "2026-11-01T23:44:19.365141Z",
+      "last_seen_at": "2026-11-02T04:21:55.484838Z",
       "title_original": "强烈建议买新的！吉利银河战舰700对比方程豹钛7",
       "title_en": null,
       "title_zh": "强烈建议买新的！吉利银河战舰700对比方程豹钛7",
@@ -745,7 +837,7 @@
       "url": "https://cnevpost.com/2026/11/01/chery-oct-2026-sales",
       "published_at": "2026-11-01T14:05:18Z",
       "first_seen_at": "2026-11-01T15:43:49.981935Z",
-      "last_seen_at": "2026-11-01T23:44:19.365141Z",
+      "last_seen_at": "2026-11-02T04:21:55.484838Z",
       "title_original": "Chery October sales rise 5.3% as NEVs hit record and exports top 200,000 again",
       "title_en": "Chery October sales rise 5.3% as NEVs hit record and exports top 200,000 again",
       "title_zh": "奇瑞10月销量增长5.3%，新能源汽车创历史新高，出口再次突破20万辆",
@@ -765,7 +857,7 @@
       "url": "https://cnevpost.com/2026/11/01/geely-oct-2026-sales",
       "published_at": "2026-11-01T12:53:16Z",
       "first_seen_at": "2026-11-01T15:43:49.981935Z",
-      "last_seen_at": "2026-11-01T23:44:19.365141Z",
+      "last_seen_at": "2026-11-02T04:21:55.484838Z",
       "title_original": "Geely nears monthly sales record as exports remain strong",
       "title_en": "Geely nears monthly sales record as exports remain strong",
       "title_zh": "出口保持强劲 吉利接近月度销量纪录",
@@ -785,7 +877,7 @@
       "url": "https://cnevpost.com/2026/11/01/byd-oct-2026-sales",
       "published_at": "2026-11-01T10:53:52Z",
       "first_seen_at": "2026-11-01T15:43:49.981935Z",
-      "last_seen_at": "2026-11-01T23:44:19.365141Z",
+      "last_seen_at": "2026-11-02T04:21:55.484838Z",
       "title_original": "BYD sales rise 11% to year-to-date high in October as BEVs top 300,000 for first time",
       "title_en": "BYD sales rise 11% to year-to-date high in October as BEVs top 300,000 for first time",
       "title_zh": "比亚迪10月销量增长11%，创年内新高，纯电动汽车销量首次突破30万辆",
@@ -797,6 +889,43 @@
       ]
     },
     {
+      "id": "cfdaae5d8167685269212b42f907c5a6253616ae",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-销量",
+      "title": "再创新高！小米汽车10月交付量超5万台",
+      "url": "https://auto.gasgoo.com/news/202611/1I70476538C110.shtml",
+      "published_at": "2026-11-01T09:38:40Z",
+      "first_seen_at": "2026-11-02T04:21:55.484838Z",
+      "last_seen_at": "2026-11-02T04:21:55.484838Z",
+      "title_original": "再创新高！小米汽车10月交付量超5万台",
+      "title_en": null,
+      "title_zh": "再创新高！小米汽车10月交付量超5万台",
+      "title_bilingual": "再创新高！小米汽车10月交付量超5万台",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "e5093c129277e0e9c03671f7c98e6fcdc545cf6f",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-销量",
+      "title": "深蓝汽车10月全球销量3.3万辆 环比上涨8%",
+      "url": "https://auto.gasgoo.com/news/202611/1I70476537C110.shtml",
+      "published_at": "2026-11-01T09:30:37Z",
+      "first_seen_at": "2026-11-02T04:21:55.484838Z",
+      "last_seen_at": "2026-11-02T04:21:55.484838Z",
+      "title_original": "深蓝汽车10月全球销量3.3万辆 环比上涨8%",
+      "title_en": null,
+      "title_zh": "深蓝汽车10月全球销量3.3万辆 环比上涨8%",
+      "title_bilingual": "深蓝汽车10月全球销量3.3万辆 环比上涨8%",
+      "topic_tags": [
+        "销量市场"
+      ]
+    },
+    {
       "id": "0fc84cac632e76890ea9410846ba9502c6c0c694",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -805,7 +934,7 @@
       "url": "https://www.dongchedi.com/article/7702402546309382680",
       "published_at": null,
       "first_seen_at": "2026-11-01T08:40:35.929164Z",
-      "last_seen_at": "2026-11-01T23:44:19.365141Z",
+      "last_seen_at": "2026-11-02T04:21:55.484838Z",
       "title_original": "中大型PK中型，长安启源A06和MG 07，选谁？",
       "title_en": null,
       "title_zh": "中大型PK中型，长安启源A06和MG 07，选谁？",
@@ -823,7 +952,7 @@
       "url": "https://www.dongchedi.com/article/7701929583117877785",
       "published_at": null,
       "first_seen_at": "2026-11-01T08:40:35.929164Z",
-      "last_seen_at": "2026-11-01T23:44:19.365141Z",
+      "last_seen_at": "2026-11-02T04:21:55.484838Z",
       "title_original": "问界M6拆车：为啥敢说“遥遥领先”，拆开看看就知道了！",
       "title_en": null,
       "title_zh": "问界M6拆车：为啥敢说“遥遥领先”，拆开看看就知道了！",
@@ -841,7 +970,7 @@
       "url": "https://www.dongchedi.com/article/7702411558102024728",
       "published_at": null,
       "first_seen_at": "2026-11-01T08:40:35.929164Z",
-      "last_seen_at": "2026-11-01T23:44:19.365141Z",
+      "last_seen_at": "2026-11-02T04:21:55.484838Z",
       "title_original": "日本车在欧洲苦熬30年的销量！中国车只用5年就反超了",
       "title_en": null,
       "title_zh": "日本车在欧洲苦熬30年的销量！中国车只用5年就反超了",
@@ -859,7 +988,7 @@
       "url": "https://www.dongchedi.com/article/7702401821838443033",
       "published_at": null,
       "first_seen_at": "2026-11-01T08:40:35.929164Z",
-      "last_seen_at": "2026-11-01T23:44:19.365141Z",
+      "last_seen_at": "2026-11-02T04:21:55.484838Z",
       "title_original": "升级椰子Coconut+3.3.0，乐道L80在西安老城区的辅助驾驶实测",
       "title_en": null,
       "title_zh": "升级椰子Coconut+3.3.0，乐道L80在西安老城区的辅助驾驶实测",
@@ -877,7 +1006,7 @@
       "url": "https://www.dongchedi.com/article/7702383976930001433",
       "published_at": null,
       "first_seen_at": "2026-11-01T08:40:35.929164Z",
-      "last_seen_at": "2026-11-01T23:44:19.365141Z",
+      "last_seen_at": "2026-11-02T04:21:55.484838Z",
       "title_original": "电车时代，轮毂为什么集体变大？",
       "title_en": null,
       "title_zh": "电车时代，轮毂为什么集体变大？",
@@ -895,7 +1024,7 @@
       "url": "https://cnevpost.com/2026/11/01/roundup-oct-2026-deliveries-chinese-automakers",
       "published_at": "2026-11-01T08:33:00Z",
       "first_seen_at": "2026-11-01T08:40:35.929164Z",
-      "last_seen_at": "2026-11-01T23:44:19.365141Z",
+      "last_seen_at": "2026-11-02T04:21:55.484838Z",
       "title_original": "Roundup: October 2026 deliveries by major Chinese automakers",
       "title_en": "Roundup: October 2026 deliveries by major Chinese automakers",
       "title_zh": "综述：2026 年 10 月中国主要汽车制造商的交付量",
@@ -915,13 +1044,32 @@
       "url": "https://cnevpost.com/2026/11/01/gwm-oct-2026-sales",
       "published_at": "2026-11-01T08:27:30Z",
       "first_seen_at": "2026-11-01T08:40:35.929164Z",
-      "last_seen_at": "2026-11-01T23:44:19.365141Z",
+      "last_seen_at": "2026-11-02T04:21:55.484838Z",
       "title_original": "GWM October sales fall 15.87% despite record NEV and overseas volumes",
       "title_en": "GWM October sales fall 15.87% despite record NEV and overseas volumes",
       "title_zh": "尽管新能源汽车和海外销量创历史新高，长城汽车 10 月销量仍下降 15.87%",
       "title_bilingual": "尽管新能源汽车和海外销量创历史新高，长城汽车 10 月销量仍下降 15.87% / GWM October sales fall 15.87% despite record NEV and overseas volumes",
       "topic_tags": [
         "新能源",
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "c61e58c6596ee54ef3ae968aa4239ed521d25e7f",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "盖世周报 | 中国车企欧洲销量首超日系；大众考虑在欧采用中国软件",
+      "url": "https://auto.gasgoo.com/news/202611/1I70476495C109.shtml",
+      "published_at": "2026-11-01T07:58:31Z",
+      "first_seen_at": "2026-11-02T04:21:55.484838Z",
+      "last_seen_at": "2026-11-02T04:21:55.484838Z",
+      "title_original": "盖世周报 | 中国车企欧洲销量首超日系；大众考虑在欧采用中国软件",
+      "title_en": null,
+      "title_zh": "盖世周报 | 中国车企欧洲销量首超日系；大众考虑在欧采用中国软件",
+      "title_bilingual": "盖世周报 | 中国车企欧洲销量首超日系；大众考虑在欧采用中国软件",
+      "topic_tags": [
         "销量市场",
         "车企竞争"
       ]
@@ -935,7 +1083,7 @@
       "url": "https://carnewschina.com/2026/11/01/china-exempts-sodium-ion-batteries-from-tax-as-hina-targets-10-gwh-commercial-ev-push",
       "published_at": "2026-11-01T07:21:17Z",
       "first_seen_at": "2026-11-01T08:40:35.929164Z",
-      "last_seen_at": "2026-11-01T23:44:19.365141Z",
+      "last_seen_at": "2026-11-02T04:21:55.484838Z",
       "title_original": "China exempts sodium-ion batteries from tax as Hina targets 10 GWh commerical EV push",
       "title_en": "China exempts sodium-ion batteries from tax as Hina targets 10 GWh commerical EV push",
       "title_zh": "中国免除钠离子电池税，中国目标推动 10 GWh 商用电动汽车",
@@ -954,7 +1102,7 @@
       "url": "https://cnevpost.com/2026/11/01/zeekr-deliveries-oct-2026",
       "published_at": "2026-11-01T05:54:30Z",
       "first_seen_at": "2026-11-01T08:40:35.929164Z",
-      "last_seen_at": "2026-11-01T23:44:19.365141Z",
+      "last_seen_at": "2026-11-02T04:21:55.484838Z",
       "title_original": "Zeekr delivers 32,483 vehicles in October, up 51.63% year-on-year but ending 6-month record streak",
       "title_en": "Zeekr delivers 32,483 vehicles in October, up 51.63% year-on-year but ending 6-month record streak",
       "title_zh": "Zeekr 10月交付量32,483辆 同比增长51.63% 终结6个月连胜纪录",
@@ -974,7 +1122,7 @@
       "url": "https://cnevpost.com/2026/11/01/huawei-hima-oct-2026-deliveries",
       "published_at": "2026-11-01T05:34:16Z",
       "first_seen_at": "2026-11-01T08:40:35.929164Z",
-      "last_seen_at": "2026-11-01T23:44:19.365141Z",
+      "last_seen_at": "2026-11-02T04:21:55.484838Z",
       "title_original": "Huawei HIMA October deliveries halve, pushing year-to-date total into decline",
       "title_en": "Huawei HIMA October deliveries halve, pushing year-to-date total into decline",
       "title_zh": "华为HIMA 10月出货量减半，导致年初至今总量下降",
@@ -992,7 +1140,7 @@
       "url": "https://carnewschina.com/2026/11/01/byds-fcb-crosses-600000-sales-as-gm-acknowledges-delivery-bottlenecks-ahead-of-ti-9-launch",
       "published_at": "2026-11-01T05:15:33Z",
       "first_seen_at": "2026-11-01T08:40:35.929164Z",
-      "last_seen_at": "2026-11-01T23:44:19.365141Z",
+      "last_seen_at": "2026-11-02T04:21:55.484838Z",
       "title_original": "BYD’s FCB crosses 600,000 sales as GM acknowledges delivery bottlenecks ahead of Ti 9 launch",
       "title_en": "BYD’s FCB crosses 600,000 sales as GM acknowledges delivery bottlenecks ahead of Ti 9 launch",
       "title_zh": "通用汽车承认 Ti 9 上市前存在交付瓶颈，比亚迪 FCB 销量突破 60 万辆",
@@ -1013,7 +1161,7 @@
       "url": "https://cnevpost.com/2026/11/01/nio-deliveries-oct-2026",
       "published_at": "2026-11-01T04:26:34Z",
       "first_seen_at": "2026-11-01T08:40:35.929164Z",
-      "last_seen_at": "2026-11-01T23:44:19.365141Z",
+      "last_seen_at": "2026-11-02T04:21:55.484838Z",
       "title_original": "Nio October deliveries fall 15.23%, ending 31-month streak of year-on-year growth",
       "title_en": "Nio October deliveries fall 15.23%, ending 31-month streak of year-on-year growth",
       "title_zh": "蔚来10月交付量下降15.23% 结束连续31个月同比增长",
@@ -1022,126 +1170,6 @@
         "新能源",
         "销量市场",
         "车企竞争"
-      ]
-    },
-    {
-      "id": "386d5ee6d40cf16182b7636dbf35abf75b992f86",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Leapmotor delivers record 106,127 vehicles in October, topping 100,000 for fourth straight month",
-      "url": "https://cnevpost.com/2026/11/01/leapmotor-deliveries-oct-2026",
-      "published_at": "2026-11-01T03:27:53Z",
-      "first_seen_at": "2026-11-01T08:40:35.929164Z",
-      "last_seen_at": "2026-11-01T23:44:19.365141Z",
-      "title_original": "Leapmotor delivers record 106,127 vehicles in October, topping 100,000 for fourth straight month",
-      "title_en": "Leapmotor delivers record 106,127 vehicles in October, topping 100,000 for fourth straight month",
-      "title_zh": "零跑汽车10月销量创历史新高106,127辆，连续第四个月突破10万辆",
-      "title_bilingual": "零跑汽车10月销量创历史新高106,127辆，连续第四个月突破10万辆 / Leapmotor delivers record 106,127 vehicles in October, topping 100,000 for fourth straight month",
-      "topic_tags": [
-        "新能源",
-        "销量市场",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "758bdb3966cd5887cb3b12257594d2c23dd0c194",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Xpeng monthly deliveries top 50,000 for first time in October",
-      "url": "https://cnevpost.com/2026/11/01/xpeng-deliveries-oct-2026",
-      "published_at": "2026-11-01T02:38:31Z",
-      "first_seen_at": "2026-11-01T08:40:35.929164Z",
-      "last_seen_at": "2026-11-01T23:44:19.365141Z",
-      "title_original": "Xpeng monthly deliveries top 50,000 for first time in October",
-      "title_en": "Xpeng monthly deliveries top 50,000 for first time in October",
-      "title_zh": "小鹏汽车10月月交付量首次突破5万辆",
-      "title_bilingual": "小鹏汽车10月月交付量首次突破5万辆 / Xpeng monthly deliveries top 50,000 for first time in October",
-      "topic_tags": [
-        "新能源",
-        "销量市场",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "694617588f29fc3dcaec995ef64187f667f135c3",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Li Auto October deliveries fall to 29,025, lowest since February",
-      "url": "https://cnevpost.com/2026/11/01/li-auto-oct-2026-deliveries",
-      "published_at": "2026-11-01T02:14:14Z",
-      "first_seen_at": "2026-11-01T08:40:35.929164Z",
-      "last_seen_at": "2026-11-01T23:44:19.365141Z",
-      "title_original": "Li Auto October deliveries fall to 29,025, lowest since February",
-      "title_en": "Li Auto October deliveries fall to 29,025, lowest since February",
-      "title_zh": "理想汽车10月交付量降至29,025辆，创2月以来最低",
-      "title_bilingual": "理想汽车10月交付量降至29,025辆，创2月以来最低 / Li Auto October deliveries fall to 29,025, lowest since February",
-      "topic_tags": [
-        "新能源",
-        "销量市场",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "6a2715e84ff899240d2ee9017e234dc6e2da8434",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "BYD Fang Cheng Bao reaches 600,000 cumulative sales, plans faster deliveries in November",
-      "url": "https://cnevpost.com/2026/11/01/byd-fang-cheng-bao-600000-cumulative-sales",
-      "published_at": "2026-11-01T02:01:03Z",
-      "first_seen_at": "2026-11-01T08:40:35.929164Z",
-      "last_seen_at": "2026-11-01T23:44:19.365141Z",
-      "title_original": "BYD Fang Cheng Bao reaches 600,000 cumulative sales, plans faster deliveries in November",
-      "title_en": "BYD Fang Cheng Bao reaches 600,000 cumulative sales, plans faster deliveries in November",
-      "title_zh": "比亚迪方成宝累计销量突破60万辆 计划11月加速交付",
-      "title_bilingual": "比亚迪方成宝累计销量突破60万辆 计划11月加速交付 / BYD Fang Cheng Bao reaches 600,000 cumulative sales, plans faster deliveries in November",
-      "topic_tags": [
-        "新能源",
-        "销量市场",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "95afdb8d4d23bfd19e2ffb72f1bc5badddc9d154",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Xiaomi Auto delivers over 50,000 vehicles in October as Sky Nomad drives return to year-on-year growth",
-      "url": "https://cnevpost.com/2026/11/01/xiaomi-auto-delivers-over-50000-oct-2026",
-      "published_at": "2026-11-01T01:45:34Z",
-      "first_seen_at": "2026-11-01T01:49:42.132404Z",
-      "last_seen_at": "2026-11-01T23:44:19.365141Z",
-      "title_original": "Xiaomi Auto delivers over 50,000 vehicles in October as Sky Nomad drives return to year-on-year growth",
-      "title_en": "Xiaomi Auto delivers over 50,000 vehicles in October as Sky Nomad drives return to year-on-year growth",
-      "title_zh": "小米汽车10月交付超5万辆 天空游牧恢复同比增长",
-      "title_bilingual": "小米汽车10月交付超5万辆 天空游牧恢复同比增长 / Xiaomi Auto delivers over 50,000 vehicles in October as Sky Nomad drives return to year-on-year growth",
-      "topic_tags": [
-        "新能源",
-        "销量市场",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "2514438f77a16965f2f6a62c63b88a18fa1845f7",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "BYD to launch second-gen Seal 07 sedan on November 5",
-      "url": "https://cnevpost.com/2026/11/01/byd-to-launch-2nd-gen-seal-07-nov-5",
-      "published_at": "2026-11-01T01:16:28Z",
-      "first_seen_at": "2026-11-01T01:49:42.132404Z",
-      "last_seen_at": "2026-11-01T23:44:19.365141Z",
-      "title_original": "BYD to launch second-gen Seal 07 sedan on November 5",
-      "title_en": "BYD to launch second-gen Seal 07 sedan on November 5",
-      "title_zh": "比亚迪第二代Seal 07轿车将于11月5日上市",
-      "title_bilingual": "比亚迪第二代Seal 07轿车将于11月5日上市 / BYD to launch second-gen Seal 07 sedan on November 5",
-      "topic_tags": [
-        "新能源",
-        "车企竞争",
-        "新车上市"
       ]
     }
   ],
