@@ -1,66 +1,286 @@
 {
-  "generated_at": "2026-11-04T15:03:28.945898Z",
+  "generated_at": "2026-11-04T21:23:20.655493Z",
   "window_hours": 24,
-  "total_items": 27,
-  "total_items_ai_raw": 29,
-  "total_items_raw": 2192,
-  "total_items_all_mode": 1974,
+  "total_items": 34,
+  "total_items_ai_raw": 35,
+  "total_items_raw": 2666,
+  "total_items_all_mode": 2395,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 55672,
+  "archive_total": 55393,
   "site_count": 3,
-  "source_count": 8,
+  "source_count": 4,
   "site_stats": [
-    {
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "count": 17,
-      "raw_count": 19
-    },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
-      "count": 10,
-      "raw_count": 2077
+      "count": 21,
+      "raw_count": 2545
+    },
+    {
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "count": 13,
+      "raw_count": 14
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "count": 0,
-      "raw_count": 96
+      "raw_count": 107
     }
   ],
   "topic_tag_stats": [
+    {
+      "tag": "车企竞争",
+      "count": 23
+    },
     {
       "tag": "新能源",
       "count": 17
     },
     {
-      "tag": "车企竞争",
-      "count": 17
+      "tag": "购车决策",
+      "count": 9
     },
     {
       "tag": "新车上市",
-      "count": 6
+      "count": 7
     },
     {
       "tag": "供应链",
       "count": 4
     },
     {
-      "tag": "购车决策",
-      "count": 4
+      "tag": "智能驾驶",
+      "count": 2
     },
     {
       "tag": "补能电池",
-      "count": 3
+      "count": 2
+    },
+    {
+      "tag": "价格战",
+      "count": 1
     },
     {
       "tag": "召回安全",
+      "count": 1
+    },
+    {
+      "tag": "销量市场",
       "count": 1
     }
   ],
   "items": [
     {
+      "id": "5f86a8fde13fd6cba143423320d7bb7bb36b0082",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "最真诚的表白 长腿美女邂逅小鹏P7",
+      "url": "https://club.autohome.com.cn/bbs/thread/e66ac37fb2da0ee9/116517417-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-04T21:23:20.655493Z",
+      "last_seen_at": "2026-11-04T21:23:20.655493Z",
+      "title_original": "最真诚的表白 长腿美女邂逅小鹏P7",
+      "title_en": null,
+      "title_zh": "最真诚的表白 长腿美女邂逅小鹏P7",
+      "title_bilingual": "最真诚的表白 长腿美女邂逅小鹏P7",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "41c3d280a98f4bd37f94b2f32d70a17e55e2bdce",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "更香不后悔！理想L9 Livis提车",
+      "url": "https://club.autohome.com.cn/bbs/thread/cb9f4e698c29e003/116539724-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-04T21:23:20.655493Z",
+      "last_seen_at": "2026-11-04T21:23:20.655493Z",
+      "title_original": "更香不后悔！理想L9 Livis提车",
+      "title_en": null,
+      "title_zh": "更香不后悔！理想L9 Livis提车",
+      "title_bilingual": "更香不后悔！理想L9 Livis提车",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "1dfebfa15a39c07d39829bb51d226e64e01c40b4",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "底盘调校舒服 ID. ERA 5S提车分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/06837b79cd23c5f7/116490207-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-04T21:23:20.655493Z",
+      "last_seen_at": "2026-11-04T21:23:20.655493Z",
+      "title_original": "底盘调校舒服 ID. ERA 5S提车分享",
+      "title_en": null,
+      "title_zh": "底盘调校舒服 ID. ERA 5S提车分享",
+      "title_bilingual": "底盘调校舒服 ID. ERA 5S提车分享",
+      "topic_tags": [
+        "供应链",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "296485bfed3d2b6068e9ae66c395713fd5772b25",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "通勤成本低 长安启源Q06提车分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/2fff964e11b6352e/116484011-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-04T21:23:20.655493Z",
+      "last_seen_at": "2026-11-04T21:23:20.655493Z",
+      "title_original": "通勤成本低 长安启源Q06提车分享",
+      "title_en": null,
+      "title_zh": "通勤成本低 长安启源Q06提车分享",
+      "title_bilingual": "通勤成本低 长安启源Q06提车分享",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "5a071a0d2b7b7ce2e9c3200e5fab2d5360a8d5cb",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "底盘厚重扎实 别克君越提车作业分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/f493177bf35b1776/116596608-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-04T21:23:20.655493Z",
+      "last_seen_at": "2026-11-04T21:23:20.655493Z",
+      "title_original": "底盘厚重扎实 别克君越提车作业分享",
+      "title_en": null,
+      "title_zh": "底盘厚重扎实 别克君越提车作业分享",
+      "title_bilingual": "底盘厚重扎实 别克君越提车作业分享",
+      "topic_tags": [
+        "供应链",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "3d76abcf8383f8cd0ce8a78711634c0aee6bfc47",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "【预告】燃油SUV辅助驾驶 挑战“亚洲最大社区”、“北漂第一村”",
+      "url": "http://vc.yiche.com/vplay/14003978.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-04T21:23:20.655493Z",
+      "last_seen_at": "2026-11-04T21:23:20.655493Z",
+      "title_original": "【预告】燃油SUV辅助驾驶 挑战“亚洲最大社区”、“北漂第一村”",
+      "title_en": null,
+      "title_zh": "【预告】燃油SUV辅助驾驶 挑战“亚洲最大社区”、“北漂第一村”",
+      "title_bilingual": "【预告】燃油SUV辅助驾驶 挑战“亚洲最大社区”、“北漂第一村”",
+      "topic_tags": [
+        "智能驾驶",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "d9d3b4839394d4fbfface6b1c0eb1505c8f2e6b9",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "入门版不到28万元！探店宝马5系：销量连涨靠让利？",
+      "url": "http://vc.yiche.com/vplay/13982943.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-04T21:23:20.655493Z",
+      "last_seen_at": "2026-11-04T21:23:20.655493Z",
+      "title_original": "入门版不到28万元！探店宝马5系：销量连涨靠让利？",
+      "title_en": null,
+      "title_zh": "入门版不到28万元！探店宝马5系：销量连涨靠让利？",
+      "title_bilingual": "入门版不到28万元！探店宝马5系：销量连涨靠让利？",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "0d0c3b99bb40953825480ea5acdf279a3c84ad0a",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "抢先体验腾势N8 天际屏+巨幕 大五座SUV能有多科幻？",
+      "url": "http://vc.yiche.com/vplay/14036374.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-04T21:23:20.655493Z",
+      "last_seen_at": "2026-11-04T21:23:20.655493Z",
+      "title_original": "抢先体验腾势N8 天际屏+巨幕 大五座SUV能有多科幻？",
+      "title_en": null,
+      "title_zh": "抢先体验腾势N8 天际屏+巨幕 大五座SUV能有多科幻？",
+      "title_bilingual": "抢先体验腾势N8 天际屏+巨幕 大五座SUV能有多科幻？",
+      "topic_tags": [
+        "购车决策",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "fb9d7fe75bbb24f512e64ffb0117d8ab39b781e4",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "6～8万纯电别乱买！二代海鸥/星愿/零跑A10，优缺点一次讲透",
+      "url": "http://vc.yiche.com/vplay/13983251.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-04T21:23:20.655493Z",
+      "last_seen_at": "2026-11-04T21:23:20.655493Z",
+      "title_original": "6～8万纯电别乱买！二代海鸥/星愿/零跑A10，优缺点一次讲透",
+      "title_en": null,
+      "title_zh": "6～8万纯电别乱买！二代海鸥/星愿/零跑A10，优缺点一次讲透",
+      "title_bilingual": "6～8万纯电别乱买！二代海鸥/星愿/零跑A10，优缺点一次讲透",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "28e6b16ecb4da29c3eeeb75227bf8ebfb4a74f6e",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "大众ID.ERA 5X抢先看！配激光雷达，车内精致得不像VW",
+      "url": "http://vc.yiche.com/vplay/14002242.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-04T21:23:20.655493Z",
+      "last_seen_at": "2026-11-04T21:23:20.655493Z",
+      "title_original": "大众ID.ERA 5X抢先看！配激光雷达，车内精致得不像VW",
+      "title_en": null,
+      "title_zh": "大众ID.ERA 5X抢先看！配激光雷达，车内精致得不像VW",
+      "title_bilingual": "大众ID.ERA 5X抢先看！配激光雷达，车内精致得不像VW",
+      "topic_tags": [
+        "智能驾驶",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "f8171b99b4baa6bf5e2e445a23a0ca0bb707d12c",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "比亚迪海狮05最新优惠参考，买车别只听销售讲！",
+      "url": "http://vc.yiche.com/vplay/13987031.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-04T21:23:20.655493Z",
+      "last_seen_at": "2026-11-04T21:23:20.655493Z",
+      "title_original": "比亚迪海狮05最新优惠参考，买车别只听销售讲！",
+      "title_en": null,
+      "title_zh": "比亚迪海狮05最新优惠参考，买车别只听销售讲！",
+      "title_bilingual": "比亚迪海狮05最新优惠参考，买车别只听销售讲！",
+      "topic_tags": [
+        "价格战",
+        "车企竞争"
+      ]
+    },
+    {
       "id": "f1bcd81a25c269a15cfa06178da2c84fa77d5018",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -69,7 +289,7 @@
       "url": "https://cnevpost.com/2026/11/04/catl-octopus-ampace-explore-european-home-energy-storage",
       "published_at": "2026-11-04T11:27:51Z",
       "first_seen_at": "2026-11-04T15:03:28.945898Z",
-      "last_seen_at": "2026-11-04T15:03:28.945898Z",
+      "last_seen_at": "2026-11-04T21:23:20.655493Z",
       "title_original": "CATL, Octopus Energy and Ampace partner to explore European home energy storage",
       "title_en": "CATL, Octopus Energy and Ampace partner to explore European home energy storage",
       "title_zh": "CATL、Octopus Energy和Ampace合作探索欧洲家庭储能",
@@ -87,7 +307,7 @@
       "url": "https://cnevpost.com/2026/11/04/china-oct-nev-retail-preliminary-cpca",
       "published_at": "2026-11-04T10:51:35Z",
       "first_seen_at": "2026-11-04T15:03:28.945898Z",
-      "last_seen_at": "2026-11-04T15:03:28.945898Z",
+      "last_seen_at": "2026-11-04T21:23:20.655493Z",
       "title_original": "China October NEV retail sales fall 10% to 1.148 million, preliminary CPCA data shows",
       "title_en": "China October NEV retail sales fall 10% to 1.148 million, preliminary CPCA data shows",
       "title_zh": "CPCA初步数据显示，中国10月新能源汽车零售量下降10%至114.8万辆",
@@ -105,7 +325,7 @@
       "url": "https://cnevpost.com/2026/11/04/xpeng-unveils-groundingpi-pre-trained-model",
       "published_at": "2026-11-04T10:02:24Z",
       "first_seen_at": "2026-11-04T15:03:28.945898Z",
-      "last_seen_at": "2026-11-04T15:03:28.945898Z",
+      "last_seen_at": "2026-11-04T21:23:20.655493Z",
       "title_original": "Xpeng unveils GroundingPI pre-trained model, outperforming GPT-6 Astra in perception benchmarks",
       "title_en": "Xpeng unveils GroundingPI pre-trained model, outperforming GPT-6 Astra in perception benchmarks",
       "title_zh": "小鹏汽车推出GroundingPI预训练模型，在感知基准测试中优于GPT-6 Astra",
@@ -125,7 +345,7 @@
       "url": "https://cnevpost.com/2026/11/04/nio-to-hold-nio-in-2026-tech-day-nov-25-guangzhou",
       "published_at": "2026-11-04T09:22:53Z",
       "first_seen_at": "2026-11-04T15:03:28.945898Z",
-      "last_seen_at": "2026-11-04T15:03:28.945898Z",
+      "last_seen_at": "2026-11-04T21:23:20.655493Z",
       "title_original": "Nio to hold Nio IN 2026 tech day on November 25 in Guangzhou with focus on AI",
       "title_en": "Nio to hold Nio IN 2026 tech day on November 25 in Guangzhou with focus on AI",
       "title_zh": "蔚来将于11月25日在广州举办Nio IN 2026科技日，聚焦人工智能",
@@ -144,7 +364,7 @@
       "url": "https://cnevpost.com/2026/11/04/buick-electra-gs-china-regulatory-filing",
       "published_at": "2026-11-04T08:00:03Z",
       "first_seen_at": "2026-11-04T15:03:28.945898Z",
-      "last_seen_at": "2026-11-04T15:03:28.945898Z",
+      "last_seen_at": "2026-11-04T21:23:20.655493Z",
       "title_original": "Buick Electra GS appears in China regulatory filing, expanding NEV lineup",
       "title_en": "Buick Electra GS appears in China regulatory filing, expanding NEV lineup",
       "title_zh": "别克Electra GS出现在中国监管文件中，扩大了新能源汽车阵容",
@@ -162,7 +382,7 @@
       "url": "https://carnewschina.com/2026/11/04/byd-denza-n9-ev-filed-with-1194-hp-tri-motor-setup-and-3-2-ton-weight",
       "published_at": "2026-11-04T05:54:24Z",
       "first_seen_at": "2026-11-04T06:49:44.397636Z",
-      "last_seen_at": "2026-11-04T15:03:28.945898Z",
+      "last_seen_at": "2026-11-04T21:23:20.655493Z",
       "title_original": "BYD Denza N9 EV filed with 1,194 hp tri-motor setup and 3.2-ton weight",
       "title_en": "BYD Denza N9 EV filed with 1,194 hp tri-motor setup and 3.2-ton weight",
       "title_zh": "比亚迪腾势 N9 EV 提交了 1,194 马力三电机设置和 3.2 吨重量",
@@ -182,7 +402,7 @@
       "url": "https://cnevpost.com/2026/11/04/byd-denza-n9-all-electric-version-filing",
       "published_at": "2026-11-04T05:26:38Z",
       "first_seen_at": "2026-11-04T06:49:44.397636Z",
-      "last_seen_at": "2026-11-04T15:03:28.945898Z",
+      "last_seen_at": "2026-11-04T21:23:20.655493Z",
       "title_original": "BYD's Denza N9 to add all-electric version with 5- and 6-seat layouts",
       "title_en": "BYD's Denza N9 to add all-electric version with 5- and 6-seat layouts",
       "title_zh": "比亚迪腾势N9新增纯电动版，5座和6座布局",
@@ -201,7 +421,7 @@
       "url": "https://cnevpost.com/2026/11/04/chery-icar-v25-nov-19-launch",
       "published_at": "2026-11-04T03:44:52Z",
       "first_seen_at": "2026-11-04T06:49:44.397636Z",
-      "last_seen_at": "2026-11-04T15:03:28.945898Z",
+      "last_seen_at": "2026-11-04T21:23:20.655493Z",
       "title_original": "Chery's iCar V25 boxy extended-range SUV set for November 19 launch",
       "title_en": "Chery's iCar V25 boxy extended-range SUV set for November 19 launch",
       "title_zh": "奇瑞 iCar V25 四四方方的增程式 SUV 将于 11 月 19 日上市",
@@ -221,7 +441,7 @@
       "url": "https://cnevpost.com/2026/11/04/zeekr-files-updated-001",
       "published_at": "2026-11-04T03:28:01Z",
       "first_seen_at": "2026-11-04T06:49:44.397636Z",
-      "last_seen_at": "2026-11-04T15:03:28.945898Z",
+      "last_seen_at": "2026-11-04T21:23:20.655493Z",
       "title_original": "Zeekr files for updated 001, paving way for Q1 2027 launch",
       "title_en": "Zeekr files for updated 001, paving way for Q1 2027 launch",
       "title_zh": "Zeekr 文件更新了 001，为 2027 年第一季度的发布铺平道路",
@@ -241,7 +461,7 @@
       "url": "https://cnevpost.com/2026/11/04/byd-teases-new-model-guangzhou-show-next-gen-han-expected",
       "published_at": "2026-11-04T02:55:20Z",
       "first_seen_at": "2026-11-04T06:49:44.397636Z",
-      "last_seen_at": "2026-11-04T15:03:28.945898Z",
+      "last_seen_at": "2026-11-04T21:23:20.655493Z",
       "title_original": "BYD teases new model for Guangzhou Auto Show, with next-gen Han expected",
       "title_en": "BYD teases new model for Guangzhou Auto Show, with next-gen Han expected",
       "title_zh": "比亚迪在广州车展上发布新车型，预计下一代汉",
@@ -250,6 +470,26 @@
         "新能源",
         "车企竞争",
         "新车上市"
+      ]
+    },
+    {
+      "id": "291d2857e4745108eec75be4eafc142d319311f5",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "2027 Zeekr 001 revealed: new version could feature Geely’s 8-minute fully-charging tech",
+      "url": "https://carnewschina.com/2026/11/04/zeekr-001-refreshed-new-version-could-feature-geelys-8-minute-fully-charging-tech",
+      "published_at": "2026-11-04T02:44:44Z",
+      "first_seen_at": "2026-11-04T15:03:28.945898Z",
+      "last_seen_at": "2026-11-04T21:23:20.655493Z",
+      "title_original": "2027 Zeekr 001 revealed: new version could feature Geely’s 8-minute fully-charging tech",
+      "title_en": "2027 Zeekr 001 revealed: new version could feature Geely’s 8-minute fully-charging tech",
+      "title_zh": "2027款Zeekr 001揭晓：新版本或将搭载吉利8分钟充满电技术",
+      "title_bilingual": "2027款Zeekr 001揭晓：新版本或将搭载吉利8分钟充满电技术 / 2027 Zeekr 001 revealed: new version could feature Geely’s 8-minute fully-charging tech",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争"
       ]
     },
     {
@@ -273,26 +513,6 @@
       ]
     },
     {
-      "id": "291d2857e4745108eec75be4eafc142d319311f5",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "2027 Zeekr 001 revealed: new version could feature Geely’s 8-minute fully-charging tech",
-      "url": "https://carnewschina.com/2026/11/04/zeekr-001-refreshed-new-version-could-feature-geelys-8-minute-fully-charging-tech",
-      "published_at": "2026-11-04T02:44:44Z",
-      "first_seen_at": "2026-11-04T15:03:28.945898Z",
-      "last_seen_at": "2026-11-04T15:03:28.945898Z",
-      "title_original": "2027 Zeekr 001 revealed: new version could feature Geely’s 8-minute fully-charging tech",
-      "title_en": "2027 Zeekr 001 revealed: new version could feature Geely’s 8-minute fully-charging tech",
-      "title_zh": "2027款Zeekr 001揭晓：新版本或将搭载吉利8分钟充满电技术",
-      "title_bilingual": "2027款Zeekr 001揭晓：新版本或将搭载吉利8分钟充满电技术 / 2027 Zeekr 001 revealed: new version could feature Geely’s 8-minute fully-charging tech",
-      "topic_tags": [
-        "新能源",
-        "补能电池",
-        "车企竞争"
-      ]
-    },
-    {
       "id": "6d005f27666b8f61155feaf12fd15bedbf46bee1",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -301,7 +521,7 @@
       "url": "https://cnevpost.com/2026/11/04/zeekr-plans-rugged-off-road-suv",
       "published_at": "2026-11-04T02:29:57Z",
       "first_seen_at": "2026-11-04T06:49:44.397636Z",
-      "last_seen_at": "2026-11-04T15:03:28.945898Z",
+      "last_seen_at": "2026-11-04T21:23:20.655493Z",
       "title_original": "Zeekr reportedly plans rugged off-road SUV to rival Mercedes-Benz G-Class",
       "title_en": "Zeekr reportedly plans rugged off-road SUV to rival Mercedes-Benz G-Class",
       "title_zh": "据报道，Zeekr 计划推出坚固耐用的越野 SUV，以与梅赛德斯-奔驰 G 级竞争",
@@ -321,7 +541,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/805cbe3f46d9986d/116605173-1.html",
       "published_at": null,
       "first_seen_at": "2026-11-04T00:03:20.408231Z",
-      "last_seen_at": "2026-11-04T15:03:28.945898Z",
+      "last_seen_at": "2026-11-04T21:23:20.655493Z",
       "title_original": "外观内饰颜值高 比亚迪大汉提车分享",
       "title_en": null,
       "title_zh": "外观内饰颜值高 比亚迪大汉提车分享",
@@ -340,7 +560,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/5f106b146708a4e7/116556169-1.html",
       "published_at": null,
       "first_seen_at": "2026-11-04T00:03:20.408231Z",
-      "last_seen_at": "2026-11-04T15:03:28.945898Z",
+      "last_seen_at": "2026-11-04T21:23:20.655493Z",
       "title_original": "电车自驾出行 山东到山西一路畅通",
       "title_en": null,
       "title_zh": "电车自驾出行 山东到山西一路畅通",
@@ -358,7 +578,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/83efbc7f1b0fe29c/116534377-1.html",
       "published_at": null,
       "first_seen_at": "2026-11-04T00:03:20.408231Z",
-      "last_seen_at": "2026-11-04T15:03:28.945898Z",
+      "last_seen_at": "2026-11-04T21:23:20.655493Z",
       "title_original": "结实耐造底盘高 哈弗H9提车作业分享",
       "title_en": null,
       "title_zh": "结实耐造底盘高 哈弗H9提车作业分享",
@@ -377,7 +597,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/5a9e79cdbf9281e5/116525290-1.html",
       "published_at": null,
       "first_seen_at": "2026-11-04T00:03:20.408231Z",
-      "last_seen_at": "2026-11-04T15:03:28.945898Z",
+      "last_seen_at": "2026-11-04T21:23:20.655493Z",
       "title_original": "整体质感确实没的说 提理想L9 Livis",
       "title_en": null,
       "title_zh": "整体质感确实没的说 提理想L9 Livis",
@@ -395,7 +615,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/1b3c64a26c031882/116498746-1.html",
       "published_at": null,
       "first_seen_at": "2026-11-04T00:03:20.408231Z",
-      "last_seen_at": "2026-11-04T15:03:28.945898Z",
+      "last_seen_at": "2026-11-04T21:23:20.655493Z",
       "title_original": "空间完全符合我的要求 零跑D19提车",
       "title_en": null,
       "title_zh": "空间完全符合我的要求 零跑D19提车",
@@ -433,7 +653,7 @@
       "url": "http://vc.yiche.com/vplay/13999631.html",
       "published_at": null,
       "first_seen_at": "2026-11-04T00:03:20.408231Z",
-      "last_seen_at": "2026-11-04T15:03:28.945898Z",
+      "last_seen_at": "2026-11-04T21:23:20.655493Z",
       "title_original": "车长+60毫米！升级1.6T混动，油耗5升，2027款现代途胜亮相",
       "title_en": null,
       "title_zh": "车长+60毫米！升级1.6T混动，油耗5升，2027款现代途胜亮相",
@@ -495,84 +715,219 @@
       "title_bilingual": "特斯拉这个一键躺倒休息模式怎么设置？30秒轻松教会",
       "topic_tags": [
         "车企竞争"
-      ]
-    },
-    {
-      "id": "a36def870be9e2878a8f29900e83efbb72277dde",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新能源",
-      "title": "广汽首个海外动力电池PACK工厂在泰国投产",
-      "url": "https://auto.gasgoo.com/news/202611/3I70476784C501.shtml",
-      "published_at": "2026-11-03T20:42:03Z",
-      "first_seen_at": "2026-11-04T15:03:28.945898Z",
-      "last_seen_at": "2026-11-04T15:03:28.945898Z",
-      "title_original": "广汽首个海外动力电池PACK工厂在泰国投产",
-      "title_en": null,
-      "title_zh": "广汽首个海外动力电池PACK工厂在泰国投产",
-      "title_bilingual": "广汽首个海外动力电池PACK工厂在泰国投产",
-      "topic_tags": [
-        "新能源",
-        "补能电池",
-        "供应链"
-      ]
-    },
-    {
-      "id": "1e1f28aace103318572abfcb06471da371227b6f",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-智能网联",
-      "title": "让AI训练AI，百度首次披露Apollo World世界模型",
-      "url": "https://auto.gasgoo.com/news/202611/3I70476782C601.shtml",
-      "published_at": "2026-11-03T20:23:32Z",
-      "first_seen_at": "2026-11-04T15:03:28.945898Z",
-      "last_seen_at": "2026-11-04T15:03:28.945898Z",
-      "title_original": "让AI训练AI，百度首次披露Apollo World世界模型",
-      "title_en": null,
-      "title_zh": "让AI训练AI，百度首次披露Apollo World世界模型",
-      "title_bilingual": "让AI训练AI，百度首次披露Apollo World世界模型",
-      "topic_tags": []
-    },
-    {
-      "id": "c01e067d78ae64196ffab3ddb3cf41f71b16e3e8",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-供应链",
-      "title": "2026进博会| 从75%可再生材料到触觉感知，米其林亮出两张轮胎技术“新牌”",
-      "url": "https://auto.gasgoo.com/news/202611/3I70476772C103.shtml",
-      "published_at": "2026-11-03T17:12:42Z",
-      "first_seen_at": "2026-11-04T15:03:28.945898Z",
-      "last_seen_at": "2026-11-04T15:03:28.945898Z",
-      "title_original": "2026进博会| 从75%可再生材料到触觉感知，米其林亮出两张轮胎技术“新牌”",
-      "title_en": null,
-      "title_zh": "2026进博会| 从75%可再生材料到触觉感知，米其林亮出两张轮胎技术“新牌”",
-      "title_bilingual": "2026进博会| 从75%可再生材料到触觉感知，米其林亮出两张轮胎技术“新牌”",
-      "topic_tags": [
-        "供应链"
-      ]
-    },
-    {
-      "id": "2251cae52a3d455df9be0b147aecac6440111ff0",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "进博会抢先看 | 大众中国将携七款车型登陆，VEGA技术矩阵迎首秀",
-      "url": "https://auto.gasgoo.com/news/202611/3I70476771C109.shtml",
-      "published_at": "2026-11-03T16:58:37Z",
-      "first_seen_at": "2026-11-04T15:03:28.945898Z",
-      "last_seen_at": "2026-11-04T15:03:28.945898Z",
-      "title_original": "进博会抢先看 | 大众中国将携七款车型登陆，VEGA技术矩阵迎首秀",
-      "title_en": null,
-      "title_zh": "进博会抢先看 | 大众中国将携七款车型登陆，VEGA技术矩阵迎首秀",
-      "title_bilingual": "进博会抢先看 | 大众中国将携七款车型登陆，VEGA技术矩阵迎首秀",
-      "topic_tags": [
-        "车企竞争",
-        "新车上市"
       ]
     }
   ],
   "items_ai": [
     {
+      "id": "5f86a8fde13fd6cba143423320d7bb7bb36b0082",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "最真诚的表白 长腿美女邂逅小鹏P7",
+      "url": "https://club.autohome.com.cn/bbs/thread/e66ac37fb2da0ee9/116517417-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-04T21:23:20.655493Z",
+      "last_seen_at": "2026-11-04T21:23:20.655493Z",
+      "title_original": "最真诚的表白 长腿美女邂逅小鹏P7",
+      "title_en": null,
+      "title_zh": "最真诚的表白 长腿美女邂逅小鹏P7",
+      "title_bilingual": "最真诚的表白 长腿美女邂逅小鹏P7",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "41c3d280a98f4bd37f94b2f32d70a17e55e2bdce",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "更香不后悔！理想L9 Livis提车",
+      "url": "https://club.autohome.com.cn/bbs/thread/cb9f4e698c29e003/116539724-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-04T21:23:20.655493Z",
+      "last_seen_at": "2026-11-04T21:23:20.655493Z",
+      "title_original": "更香不后悔！理想L9 Livis提车",
+      "title_en": null,
+      "title_zh": "更香不后悔！理想L9 Livis提车",
+      "title_bilingual": "更香不后悔！理想L9 Livis提车",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "1dfebfa15a39c07d39829bb51d226e64e01c40b4",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "底盘调校舒服 ID. ERA 5S提车分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/06837b79cd23c5f7/116490207-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-04T21:23:20.655493Z",
+      "last_seen_at": "2026-11-04T21:23:20.655493Z",
+      "title_original": "底盘调校舒服 ID. ERA 5S提车分享",
+      "title_en": null,
+      "title_zh": "底盘调校舒服 ID. ERA 5S提车分享",
+      "title_bilingual": "底盘调校舒服 ID. ERA 5S提车分享",
+      "topic_tags": [
+        "供应链",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "296485bfed3d2b6068e9ae66c395713fd5772b25",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "通勤成本低 长安启源Q06提车分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/2fff964e11b6352e/116484011-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-04T21:23:20.655493Z",
+      "last_seen_at": "2026-11-04T21:23:20.655493Z",
+      "title_original": "通勤成本低 长安启源Q06提车分享",
+      "title_en": null,
+      "title_zh": "通勤成本低 长安启源Q06提车分享",
+      "title_bilingual": "通勤成本低 长安启源Q06提车分享",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "5a071a0d2b7b7ce2e9c3200e5fab2d5360a8d5cb",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "底盘厚重扎实 别克君越提车作业分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/f493177bf35b1776/116596608-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-04T21:23:20.655493Z",
+      "last_seen_at": "2026-11-04T21:23:20.655493Z",
+      "title_original": "底盘厚重扎实 别克君越提车作业分享",
+      "title_en": null,
+      "title_zh": "底盘厚重扎实 别克君越提车作业分享",
+      "title_bilingual": "底盘厚重扎实 别克君越提车作业分享",
+      "topic_tags": [
+        "供应链",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "3d76abcf8383f8cd0ce8a78711634c0aee6bfc47",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "【预告】燃油SUV辅助驾驶 挑战“亚洲最大社区”、“北漂第一村”",
+      "url": "http://vc.yiche.com/vplay/14003978.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-04T21:23:20.655493Z",
+      "last_seen_at": "2026-11-04T21:23:20.655493Z",
+      "title_original": "【预告】燃油SUV辅助驾驶 挑战“亚洲最大社区”、“北漂第一村”",
+      "title_en": null,
+      "title_zh": "【预告】燃油SUV辅助驾驶 挑战“亚洲最大社区”、“北漂第一村”",
+      "title_bilingual": "【预告】燃油SUV辅助驾驶 挑战“亚洲最大社区”、“北漂第一村”",
+      "topic_tags": [
+        "智能驾驶",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "d9d3b4839394d4fbfface6b1c0eb1505c8f2e6b9",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "入门版不到28万元！探店宝马5系：销量连涨靠让利？",
+      "url": "http://vc.yiche.com/vplay/13982943.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-04T21:23:20.655493Z",
+      "last_seen_at": "2026-11-04T21:23:20.655493Z",
+      "title_original": "入门版不到28万元！探店宝马5系：销量连涨靠让利？",
+      "title_en": null,
+      "title_zh": "入门版不到28万元！探店宝马5系：销量连涨靠让利？",
+      "title_bilingual": "入门版不到28万元！探店宝马5系：销量连涨靠让利？",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "0d0c3b99bb40953825480ea5acdf279a3c84ad0a",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "抢先体验腾势N8 天际屏+巨幕 大五座SUV能有多科幻？",
+      "url": "http://vc.yiche.com/vplay/14036374.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-04T21:23:20.655493Z",
+      "last_seen_at": "2026-11-04T21:23:20.655493Z",
+      "title_original": "抢先体验腾势N8 天际屏+巨幕 大五座SUV能有多科幻？",
+      "title_en": null,
+      "title_zh": "抢先体验腾势N8 天际屏+巨幕 大五座SUV能有多科幻？",
+      "title_bilingual": "抢先体验腾势N8 天际屏+巨幕 大五座SUV能有多科幻？",
+      "topic_tags": [
+        "购车决策",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "fb9d7fe75bbb24f512e64ffb0117d8ab39b781e4",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "6～8万纯电别乱买！二代海鸥/星愿/零跑A10，优缺点一次讲透",
+      "url": "http://vc.yiche.com/vplay/13983251.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-04T21:23:20.655493Z",
+      "last_seen_at": "2026-11-04T21:23:20.655493Z",
+      "title_original": "6～8万纯电别乱买！二代海鸥/星愿/零跑A10，优缺点一次讲透",
+      "title_en": null,
+      "title_zh": "6～8万纯电别乱买！二代海鸥/星愿/零跑A10，优缺点一次讲透",
+      "title_bilingual": "6～8万纯电别乱买！二代海鸥/星愿/零跑A10，优缺点一次讲透",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "28e6b16ecb4da29c3eeeb75227bf8ebfb4a74f6e",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "大众ID.ERA 5X抢先看！配激光雷达，车内精致得不像VW",
+      "url": "http://vc.yiche.com/vplay/14002242.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-04T21:23:20.655493Z",
+      "last_seen_at": "2026-11-04T21:23:20.655493Z",
+      "title_original": "大众ID.ERA 5X抢先看！配激光雷达，车内精致得不像VW",
+      "title_en": null,
+      "title_zh": "大众ID.ERA 5X抢先看！配激光雷达，车内精致得不像VW",
+      "title_bilingual": "大众ID.ERA 5X抢先看！配激光雷达，车内精致得不像VW",
+      "topic_tags": [
+        "智能驾驶",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "f8171b99b4baa6bf5e2e445a23a0ca0bb707d12c",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "比亚迪海狮05最新优惠参考，买车别只听销售讲！",
+      "url": "http://vc.yiche.com/vplay/13987031.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-04T21:23:20.655493Z",
+      "last_seen_at": "2026-11-04T21:23:20.655493Z",
+      "title_original": "比亚迪海狮05最新优惠参考，买车别只听销售讲！",
+      "title_en": null,
+      "title_zh": "比亚迪海狮05最新优惠参考，买车别只听销售讲！",
+      "title_bilingual": "比亚迪海狮05最新优惠参考，买车别只听销售讲！",
+      "topic_tags": [
+        "价格战",
+        "车企竞争"
+      ]
+    },
+    {
       "id": "f1bcd81a25c269a15cfa06178da2c84fa77d5018",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -581,7 +936,7 @@
       "url": "https://cnevpost.com/2026/11/04/catl-octopus-ampace-explore-european-home-energy-storage",
       "published_at": "2026-11-04T11:27:51Z",
       "first_seen_at": "2026-11-04T15:03:28.945898Z",
-      "last_seen_at": "2026-11-04T15:03:28.945898Z",
+      "last_seen_at": "2026-11-04T21:23:20.655493Z",
       "title_original": "CATL, Octopus Energy and Ampace partner to explore European home energy storage",
       "title_en": "CATL, Octopus Energy and Ampace partner to explore European home energy storage",
       "title_zh": "CATL、Octopus Energy和Ampace合作探索欧洲家庭储能",
@@ -599,7 +954,7 @@
       "url": "https://cnevpost.com/2026/11/04/china-oct-nev-retail-preliminary-cpca",
       "published_at": "2026-11-04T10:51:35Z",
       "first_seen_at": "2026-11-04T15:03:28.945898Z",
-      "last_seen_at": "2026-11-04T15:03:28.945898Z",
+      "last_seen_at": "2026-11-04T21:23:20.655493Z",
       "title_original": "China October NEV retail sales fall 10% to 1.148 million, preliminary CPCA data shows",
       "title_en": "China October NEV retail sales fall 10% to 1.148 million, preliminary CPCA data shows",
       "title_zh": "CPCA初步数据显示，中国10月新能源汽车零售量下降10%至114.8万辆",
@@ -617,7 +972,7 @@
       "url": "https://cnevpost.com/2026/11/04/xpeng-unveils-groundingpi-pre-trained-model",
       "published_at": "2026-11-04T10:02:24Z",
       "first_seen_at": "2026-11-04T15:03:28.945898Z",
-      "last_seen_at": "2026-11-04T15:03:28.945898Z",
+      "last_seen_at": "2026-11-04T21:23:20.655493Z",
       "title_original": "Xpeng unveils GroundingPI pre-trained model, outperforming GPT-6 Astra in perception benchmarks",
       "title_en": "Xpeng unveils GroundingPI pre-trained model, outperforming GPT-6 Astra in perception benchmarks",
       "title_zh": "小鹏汽车推出GroundingPI预训练模型，在感知基准测试中优于GPT-6 Astra",
@@ -637,7 +992,7 @@
       "url": "https://cnevpost.com/2026/11/04/nio-to-hold-nio-in-2026-tech-day-nov-25-guangzhou",
       "published_at": "2026-11-04T09:22:53Z",
       "first_seen_at": "2026-11-04T15:03:28.945898Z",
-      "last_seen_at": "2026-11-04T15:03:28.945898Z",
+      "last_seen_at": "2026-11-04T21:23:20.655493Z",
       "title_original": "Nio to hold Nio IN 2026 tech day on November 25 in Guangzhou with focus on AI",
       "title_en": "Nio to hold Nio IN 2026 tech day on November 25 in Guangzhou with focus on AI",
       "title_zh": "蔚来将于11月25日在广州举办Nio IN 2026科技日，聚焦人工智能",
@@ -656,7 +1011,7 @@
       "url": "https://cnevpost.com/2026/11/04/buick-electra-gs-china-regulatory-filing",
       "published_at": "2026-11-04T08:00:03Z",
       "first_seen_at": "2026-11-04T15:03:28.945898Z",
-      "last_seen_at": "2026-11-04T15:03:28.945898Z",
+      "last_seen_at": "2026-11-04T21:23:20.655493Z",
       "title_original": "Buick Electra GS appears in China regulatory filing, expanding NEV lineup",
       "title_en": "Buick Electra GS appears in China regulatory filing, expanding NEV lineup",
       "title_zh": "别克Electra GS出现在中国监管文件中，扩大了新能源汽车阵容",
@@ -674,7 +1029,7 @@
       "url": "https://carnewschina.com/2026/11/04/byd-denza-n9-ev-filed-with-1194-hp-tri-motor-setup-and-3-2-ton-weight",
       "published_at": "2026-11-04T05:54:24Z",
       "first_seen_at": "2026-11-04T06:49:44.397636Z",
-      "last_seen_at": "2026-11-04T15:03:28.945898Z",
+      "last_seen_at": "2026-11-04T21:23:20.655493Z",
       "title_original": "BYD Denza N9 EV filed with 1,194 hp tri-motor setup and 3.2-ton weight",
       "title_en": "BYD Denza N9 EV filed with 1,194 hp tri-motor setup and 3.2-ton weight",
       "title_zh": "比亚迪腾势 N9 EV 提交了 1,194 马力三电机设置和 3.2 吨重量",
@@ -694,7 +1049,7 @@
       "url": "https://cnevpost.com/2026/11/04/byd-denza-n9-all-electric-version-filing",
       "published_at": "2026-11-04T05:26:38Z",
       "first_seen_at": "2026-11-04T06:49:44.397636Z",
-      "last_seen_at": "2026-11-04T15:03:28.945898Z",
+      "last_seen_at": "2026-11-04T21:23:20.655493Z",
       "title_original": "BYD's Denza N9 to add all-electric version with 5- and 6-seat layouts",
       "title_en": "BYD's Denza N9 to add all-electric version with 5- and 6-seat layouts",
       "title_zh": "比亚迪腾势N9新增纯电动版，5座和6座布局",
@@ -713,7 +1068,7 @@
       "url": "https://cnevpost.com/2026/11/04/chery-icar-v25-nov-19-launch",
       "published_at": "2026-11-04T03:44:52Z",
       "first_seen_at": "2026-11-04T06:49:44.397636Z",
-      "last_seen_at": "2026-11-04T15:03:28.945898Z",
+      "last_seen_at": "2026-11-04T21:23:20.655493Z",
       "title_original": "Chery's iCar V25 boxy extended-range SUV set for November 19 launch",
       "title_en": "Chery's iCar V25 boxy extended-range SUV set for November 19 launch",
       "title_zh": "奇瑞 iCar V25 四四方方的增程式 SUV 将于 11 月 19 日上市",
@@ -733,7 +1088,7 @@
       "url": "https://cnevpost.com/2026/11/04/zeekr-files-updated-001",
       "published_at": "2026-11-04T03:28:01Z",
       "first_seen_at": "2026-11-04T06:49:44.397636Z",
-      "last_seen_at": "2026-11-04T15:03:28.945898Z",
+      "last_seen_at": "2026-11-04T21:23:20.655493Z",
       "title_original": "Zeekr files for updated 001, paving way for Q1 2027 launch",
       "title_en": "Zeekr files for updated 001, paving way for Q1 2027 launch",
       "title_zh": "Zeekr 文件更新了 001，为 2027 年第一季度的发布铺平道路",
@@ -753,7 +1108,7 @@
       "url": "https://cnevpost.com/2026/11/04/byd-teases-new-model-guangzhou-show-next-gen-han-expected",
       "published_at": "2026-11-04T02:55:20Z",
       "first_seen_at": "2026-11-04T06:49:44.397636Z",
-      "last_seen_at": "2026-11-04T15:03:28.945898Z",
+      "last_seen_at": "2026-11-04T21:23:20.655493Z",
       "title_original": "BYD teases new model for Guangzhou Auto Show, with next-gen Han expected",
       "title_en": "BYD teases new model for Guangzhou Auto Show, with next-gen Han expected",
       "title_zh": "比亚迪在广州车展上发布新车型，预计下一代汉",
@@ -762,6 +1117,26 @@
         "新能源",
         "车企竞争",
         "新车上市"
+      ]
+    },
+    {
+      "id": "291d2857e4745108eec75be4eafc142d319311f5",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "2027 Zeekr 001 revealed: new version could feature Geely’s 8-minute fully-charging tech",
+      "url": "https://carnewschina.com/2026/11/04/zeekr-001-refreshed-new-version-could-feature-geelys-8-minute-fully-charging-tech",
+      "published_at": "2026-11-04T02:44:44Z",
+      "first_seen_at": "2026-11-04T15:03:28.945898Z",
+      "last_seen_at": "2026-11-04T21:23:20.655493Z",
+      "title_original": "2027 Zeekr 001 revealed: new version could feature Geely’s 8-minute fully-charging tech",
+      "title_en": "2027 Zeekr 001 revealed: new version could feature Geely’s 8-minute fully-charging tech",
+      "title_zh": "2027款Zeekr 001揭晓：新版本或将搭载吉利8分钟充满电技术",
+      "title_bilingual": "2027款Zeekr 001揭晓：新版本或将搭载吉利8分钟充满电技术 / 2027 Zeekr 001 revealed: new version could feature Geely’s 8-minute fully-charging tech",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争"
       ]
     },
     {
@@ -785,26 +1160,6 @@
       ]
     },
     {
-      "id": "291d2857e4745108eec75be4eafc142d319311f5",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "2027 Zeekr 001 revealed: new version could feature Geely’s 8-minute fully-charging tech",
-      "url": "https://carnewschina.com/2026/11/04/zeekr-001-refreshed-new-version-could-feature-geelys-8-minute-fully-charging-tech",
-      "published_at": "2026-11-04T02:44:44Z",
-      "first_seen_at": "2026-11-04T15:03:28.945898Z",
-      "last_seen_at": "2026-11-04T15:03:28.945898Z",
-      "title_original": "2027 Zeekr 001 revealed: new version could feature Geely’s 8-minute fully-charging tech",
-      "title_en": "2027 Zeekr 001 revealed: new version could feature Geely’s 8-minute fully-charging tech",
-      "title_zh": "2027款Zeekr 001揭晓：新版本或将搭载吉利8分钟充满电技术",
-      "title_bilingual": "2027款Zeekr 001揭晓：新版本或将搭载吉利8分钟充满电技术 / 2027 Zeekr 001 revealed: new version could feature Geely’s 8-minute fully-charging tech",
-      "topic_tags": [
-        "新能源",
-        "补能电池",
-        "车企竞争"
-      ]
-    },
-    {
       "id": "6d005f27666b8f61155feaf12fd15bedbf46bee1",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -813,7 +1168,7 @@
       "url": "https://cnevpost.com/2026/11/04/zeekr-plans-rugged-off-road-suv",
       "published_at": "2026-11-04T02:29:57Z",
       "first_seen_at": "2026-11-04T06:49:44.397636Z",
-      "last_seen_at": "2026-11-04T15:03:28.945898Z",
+      "last_seen_at": "2026-11-04T21:23:20.655493Z",
       "title_original": "Zeekr reportedly plans rugged off-road SUV to rival Mercedes-Benz G-Class",
       "title_en": "Zeekr reportedly plans rugged off-road SUV to rival Mercedes-Benz G-Class",
       "title_zh": "据报道，Zeekr 计划推出坚固耐用的越野 SUV，以与梅赛德斯-奔驰 G 级竞争",
@@ -833,7 +1188,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/805cbe3f46d9986d/116605173-1.html",
       "published_at": null,
       "first_seen_at": "2026-11-04T00:03:20.408231Z",
-      "last_seen_at": "2026-11-04T15:03:28.945898Z",
+      "last_seen_at": "2026-11-04T21:23:20.655493Z",
       "title_original": "外观内饰颜值高 比亚迪大汉提车分享",
       "title_en": null,
       "title_zh": "外观内饰颜值高 比亚迪大汉提车分享",
@@ -852,7 +1207,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/5f106b146708a4e7/116556169-1.html",
       "published_at": null,
       "first_seen_at": "2026-11-04T00:03:20.408231Z",
-      "last_seen_at": "2026-11-04T15:03:28.945898Z",
+      "last_seen_at": "2026-11-04T21:23:20.655493Z",
       "title_original": "电车自驾出行 山东到山西一路畅通",
       "title_en": null,
       "title_zh": "电车自驾出行 山东到山西一路畅通",
@@ -870,7 +1225,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/83efbc7f1b0fe29c/116534377-1.html",
       "published_at": null,
       "first_seen_at": "2026-11-04T00:03:20.408231Z",
-      "last_seen_at": "2026-11-04T15:03:28.945898Z",
+      "last_seen_at": "2026-11-04T21:23:20.655493Z",
       "title_original": "结实耐造底盘高 哈弗H9提车作业分享",
       "title_en": null,
       "title_zh": "结实耐造底盘高 哈弗H9提车作业分享",
@@ -889,7 +1244,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/5a9e79cdbf9281e5/116525290-1.html",
       "published_at": null,
       "first_seen_at": "2026-11-04T00:03:20.408231Z",
-      "last_seen_at": "2026-11-04T15:03:28.945898Z",
+      "last_seen_at": "2026-11-04T21:23:20.655493Z",
       "title_original": "整体质感确实没的说 提理想L9 Livis",
       "title_en": null,
       "title_zh": "整体质感确实没的说 提理想L9 Livis",
@@ -907,7 +1262,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/1b3c64a26c031882/116498746-1.html",
       "published_at": null,
       "first_seen_at": "2026-11-04T00:03:20.408231Z",
-      "last_seen_at": "2026-11-04T15:03:28.945898Z",
+      "last_seen_at": "2026-11-04T21:23:20.655493Z",
       "title_original": "空间完全符合我的要求 零跑D19提车",
       "title_en": null,
       "title_zh": "空间完全符合我的要求 零跑D19提车",
@@ -945,7 +1300,7 @@
       "url": "http://vc.yiche.com/vplay/13999631.html",
       "published_at": null,
       "first_seen_at": "2026-11-04T00:03:20.408231Z",
-      "last_seen_at": "2026-11-04T15:03:28.945898Z",
+      "last_seen_at": "2026-11-04T21:23:20.655493Z",
       "title_original": "车长+60毫米！升级1.6T混动，油耗5升，2027款现代途胜亮相",
       "title_en": null,
       "title_zh": "车长+60毫米！升级1.6T混动，油耗5升，2027款现代途胜亮相",
@@ -1007,79 +1362,6 @@
       "title_bilingual": "特斯拉这个一键躺倒休息模式怎么设置？30秒轻松教会",
       "topic_tags": [
         "车企竞争"
-      ]
-    },
-    {
-      "id": "a36def870be9e2878a8f29900e83efbb72277dde",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新能源",
-      "title": "广汽首个海外动力电池PACK工厂在泰国投产",
-      "url": "https://auto.gasgoo.com/news/202611/3I70476784C501.shtml",
-      "published_at": "2026-11-03T20:42:03Z",
-      "first_seen_at": "2026-11-04T15:03:28.945898Z",
-      "last_seen_at": "2026-11-04T15:03:28.945898Z",
-      "title_original": "广汽首个海外动力电池PACK工厂在泰国投产",
-      "title_en": null,
-      "title_zh": "广汽首个海外动力电池PACK工厂在泰国投产",
-      "title_bilingual": "广汽首个海外动力电池PACK工厂在泰国投产",
-      "topic_tags": [
-        "新能源",
-        "补能电池",
-        "供应链"
-      ]
-    },
-    {
-      "id": "1e1f28aace103318572abfcb06471da371227b6f",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-智能网联",
-      "title": "让AI训练AI，百度首次披露Apollo World世界模型",
-      "url": "https://auto.gasgoo.com/news/202611/3I70476782C601.shtml",
-      "published_at": "2026-11-03T20:23:32Z",
-      "first_seen_at": "2026-11-04T15:03:28.945898Z",
-      "last_seen_at": "2026-11-04T15:03:28.945898Z",
-      "title_original": "让AI训练AI，百度首次披露Apollo World世界模型",
-      "title_en": null,
-      "title_zh": "让AI训练AI，百度首次披露Apollo World世界模型",
-      "title_bilingual": "让AI训练AI，百度首次披露Apollo World世界模型",
-      "topic_tags": []
-    },
-    {
-      "id": "c01e067d78ae64196ffab3ddb3cf41f71b16e3e8",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-供应链",
-      "title": "2026进博会| 从75%可再生材料到触觉感知，米其林亮出两张轮胎技术“新牌”",
-      "url": "https://auto.gasgoo.com/news/202611/3I70476772C103.shtml",
-      "published_at": "2026-11-03T17:12:42Z",
-      "first_seen_at": "2026-11-04T15:03:28.945898Z",
-      "last_seen_at": "2026-11-04T15:03:28.945898Z",
-      "title_original": "2026进博会| 从75%可再生材料到触觉感知，米其林亮出两张轮胎技术“新牌”",
-      "title_en": null,
-      "title_zh": "2026进博会| 从75%可再生材料到触觉感知，米其林亮出两张轮胎技术“新牌”",
-      "title_bilingual": "2026进博会| 从75%可再生材料到触觉感知，米其林亮出两张轮胎技术“新牌”",
-      "topic_tags": [
-        "供应链"
-      ]
-    },
-    {
-      "id": "2251cae52a3d455df9be0b147aecac6440111ff0",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "进博会抢先看 | 大众中国将携七款车型登陆，VEGA技术矩阵迎首秀",
-      "url": "https://auto.gasgoo.com/news/202611/3I70476771C109.shtml",
-      "published_at": "2026-11-03T16:58:37Z",
-      "first_seen_at": "2026-11-04T15:03:28.945898Z",
-      "last_seen_at": "2026-11-04T15:03:28.945898Z",
-      "title_original": "进博会抢先看 | 大众中国将携七款车型登陆，VEGA技术矩阵迎首秀",
-      "title_en": null,
-      "title_zh": "进博会抢先看 | 大众中国将携七款车型登陆，VEGA技术矩阵迎首秀",
-      "title_bilingual": "进博会抢先看 | 大众中国将携七款车型登陆，VEGA技术矩阵迎首秀",
-      "topic_tags": [
-        "车企竞争",
-        "新车上市"
       ]
     }
   ],
