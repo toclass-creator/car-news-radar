@@ -1,65 +1,57 @@
 {
-  "generated_at": "2026-11-05T17:07:27.706527Z",
+  "generated_at": "2026-11-05T22:45:05.351741Z",
   "window_hours": 24,
-  "total_items": 30,
-  "total_items_ai_raw": 31,
-  "total_items_raw": 2538,
-  "total_items_all_mode": 2274,
+  "total_items": 21,
+  "total_items_ai_raw": 22,
+  "total_items_raw": 2466,
+  "total_items_all_mode": 2177,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 55106,
+  "archive_total": 55323,
   "site_count": 3,
-  "source_count": 7,
+  "source_count": 5,
   "site_stats": [
-    {
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "count": 15,
-      "raw_count": 2410
-    },
     {
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "count": 15,
-      "raw_count": 16
+      "count": 13,
+      "raw_count": 14
+    },
+    {
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "count": 8,
+      "raw_count": 2339
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "count": 0,
-      "raw_count": 112
+      "raw_count": 113
     }
   ],
   "topic_tag_stats": [
     {
       "tag": "车企竞争",
-      "count": 22
-    },
-    {
-      "tag": "新能源",
       "count": 15
     },
     {
-      "tag": "购车决策",
-      "count": 10
-    },
-    {
-      "tag": "新车上市",
-      "count": 6
+      "tag": "新能源",
+      "count": 14
     },
     {
       "tag": "补能电池",
-      "count": 6
+      "count": 8
     },
     {
       "tag": "销量市场",
-      "count": 6
+      "count": 5
     },
     {
-      "tag": "供应链",
-      "count": 3
+      "tag": "购车决策",
+      "count": 4
     },
     {
-      "tag": "智能驾驶",
+      "tag": "新车上市",
       "count": 3
     },
     {
@@ -67,12 +59,109 @@
       "count": 2
     },
     {
-      "tag": "召回安全",
+      "tag": "智能驾驶",
+      "count": 2
+    },
+    {
+      "tag": "供应链",
       "count": 1
     }
   ],
   "items": [
     {
+      "id": "f380b202a5dab45e10adbb19dbeed9dd891435f2",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "全新本田CR-V技术拆解：机械四驱换电四驱，价格降低空间加大？",
+      "url": "http://vc.yiche.com/vplay/14033042.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-05T22:45:05.351741Z",
+      "last_seen_at": "2026-11-05T22:45:05.351741Z",
+      "title_original": "全新本田CR-V技术拆解：机械四驱换电四驱，价格降低空间加大？",
+      "title_en": null,
+      "title_zh": "全新本田CR-V技术拆解：机械四驱换电四驱，价格降低空间加大？",
+      "title_bilingual": "全新本田CR-V技术拆解：机械四驱换电四驱，价格降低空间加大？",
+      "topic_tags": [
+        "补能电池"
+      ]
+    },
+    {
+      "id": "36726c8f8a87cd43886e87c639ff7aaefefb604d",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "【预告】星越L PLUS 三车编队辅助驾驶夜穿怒江72拐",
+      "url": "http://vc.yiche.com/vplay/14040882.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-05T22:45:05.351741Z",
+      "last_seen_at": "2026-11-05T22:45:05.351741Z",
+      "title_original": "【预告】星越L PLUS 三车编队辅助驾驶夜穿怒江72拐",
+      "title_en": null,
+      "title_zh": "【预告】星越L PLUS 三车编队辅助驾驶夜穿怒江72拐",
+      "title_bilingual": "【预告】星越L PLUS 三车编队辅助驾驶夜穿怒江72拐",
+      "topic_tags": [
+        "智能驾驶"
+      ]
+    },
+    {
+      "id": "4550563430a67003c0ea534d86d187a3bef4d106",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "比亚迪海狮06最新优惠行情，买过的千万别看！",
+      "url": "http://vc.yiche.com/vplay/14012770.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-05T22:45:05.351741Z",
+      "last_seen_at": "2026-11-05T22:45:05.351741Z",
+      "title_original": "比亚迪海狮06最新优惠行情，买过的千万别看！",
+      "title_en": null,
+      "title_zh": "比亚迪海狮06最新优惠行情，买过的千万别看！",
+      "title_bilingual": "比亚迪海狮06最新优惠行情，买过的千万别看！",
+      "topic_tags": [
+        "价格战",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "063ecb17b7429d66006a076a2979e63baa7cb735",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "大众吹响反攻号角！续航1602km+800V快充，ID.ERA 8X实力不凡",
+      "url": "http://vc.yiche.com/vplay/14012959.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-05T22:45:05.351741Z",
+      "last_seen_at": "2026-11-05T22:45:05.351741Z",
+      "title_original": "大众吹响反攻号角！续航1602km+800V快充，ID.ERA 8X实力不凡",
+      "title_en": null,
+      "title_zh": "大众吹响反攻号角！续航1602km+800V快充，ID.ERA 8X实力不凡",
+      "title_bilingual": "大众吹响反攻号角！续航1602km+800V快充，ID.ERA 8X实力不凡",
+      "topic_tags": [
+        "补能电池",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "0e51cc1638246714d6d966fc7d8ded65c7d4d102",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Huawei enters China’s three-wheeled market, brings HIMA smart cockpit tech to 1500 USD e-trike",
+      "url": "https://carnewschina.com/2026/11/05/huawei-enters-chinas-three-wheeled-market-brings-hima-smart-cockpit-tech-to-1500-usd-e-trike",
+      "published_at": "2026-11-05T22:22:59Z",
+      "first_seen_at": "2026-11-05T22:45:05.351741Z",
+      "last_seen_at": "2026-11-05T22:45:05.351741Z",
+      "title_original": "Huawei enters China’s three-wheeled market, brings HIMA smart cockpit tech to 1500 USD e-trike",
+      "title_en": "Huawei enters China’s three-wheeled market, brings HIMA smart cockpit tech to 1500 USD e-trike",
+      "title_zh": "华为进军中国三轮市场，将HIMA智能座舱技术引入1500美元电动三轮车",
+      "title_bilingual": "华为进军中国三轮市场，将HIMA智能座舱技术引入1500美元电动三轮车 / Huawei enters China’s three-wheeled market, brings HIMA smart cockpit tech to 1500 USD e-trike",
+      "topic_tags": [
+        "新能源",
+        "销量市场"
+      ]
+    },
+    {
       "id": "9c5612f22c0ebd3e89c61edddd7ca16442c10756",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -81,7 +170,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/ba1c45387c6ff063/116489793-1.html",
       "published_at": null,
       "first_seen_at": "2026-11-05T17:07:27.706527Z",
-      "last_seen_at": "2026-11-05T17:07:27.706527Z",
+      "last_seen_at": "2026-11-05T22:45:05.351741Z",
       "title_original": "用车成本低 零跑C16提车作业分享",
       "title_en": null,
       "title_zh": "用车成本低 零跑C16提车作业分享",
@@ -100,7 +189,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/4346e63b5822f403/116544089-1.html",
       "published_at": null,
       "first_seen_at": "2026-11-05T17:07:27.706527Z",
-      "last_seen_at": "2026-11-05T17:07:27.706527Z",
+      "last_seen_at": "2026-11-05T22:45:05.351741Z",
       "title_original": "新款变化不小 静态体验26款理想i6",
       "title_en": null,
       "title_zh": "新款变化不小 静态体验26款理想i6",
@@ -119,7 +208,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/92719d33cb63ff56/116522105-1.html",
       "published_at": null,
       "first_seen_at": "2026-11-05T17:07:27.706527Z",
-      "last_seen_at": "2026-11-05T17:07:27.706527Z",
+      "last_seen_at": "2026-11-05T22:45:05.351741Z",
       "title_original": "长续航无压力 大众与众08提车分享",
       "title_en": null,
       "title_zh": "长续航无压力 大众与众08提车分享",
@@ -139,7 +228,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/fac1d119bcd94268/116553266-1.html",
       "published_at": null,
       "first_seen_at": "2026-11-05T17:07:27.706527Z",
-      "last_seen_at": "2026-11-05T17:07:27.706527Z",
+      "last_seen_at": "2026-11-05T22:45:05.351741Z",
       "title_original": "电车省时省力 长安启源Q06提车分享",
       "title_en": null,
       "title_zh": "电车省时省力 长安启源Q06提车分享",
@@ -159,7 +248,7 @@
       "url": "https://carnewschina.com/2026/11/05/second-gen-byd-seal-07-enters-china-with-flash-charging-and-gods-eye-adas",
       "published_at": "2026-11-05T14:03:36Z",
       "first_seen_at": "2026-11-05T17:07:27.706527Z",
-      "last_seen_at": "2026-11-05T17:07:27.706527Z",
+      "last_seen_at": "2026-11-05T22:45:05.351741Z",
       "title_original": "Second-gen BYD Seal 07 enters China with flash charging and God’s Eye ADAS",
       "title_en": "Second-gen BYD Seal 07 enters China with flash charging and God’s Eye ADAS",
       "title_zh": "第二代比亚迪Seal 07进军中国 闪充+神眼ADAS",
@@ -180,7 +269,7 @@
       "url": "https://cnevpost.com/2026/11/05/byd-launches-2nd-gen-seal-07",
       "published_at": "2026-11-05T13:08:35Z",
       "first_seen_at": "2026-11-05T17:07:27.706527Z",
-      "last_seen_at": "2026-11-05T17:07:27.706527Z",
+      "last_seen_at": "2026-11-05T22:45:05.351741Z",
       "title_original": "BYD launches second-gen Seal 07 in China with lower prices and longer range",
       "title_en": "BYD launches second-gen Seal 07 in China with lower prices and longer range",
       "title_zh": "比亚迪在中国推出第二代Seal 07，价格更低，续航里程更长",
@@ -200,7 +289,7 @@
       "url": "https://cnevpost.com/2026/11/05/smart-expands-2-roll-out-china-premium-trim",
       "published_at": "2026-11-05T12:17:14Z",
       "first_seen_at": "2026-11-05T17:07:27.706527Z",
-      "last_seen_at": "2026-11-05T17:07:27.706527Z",
+      "last_seen_at": "2026-11-05T22:45:05.351741Z",
       "title_original": "Mercedes-Geely venture Smart expands #2 roll-out in China with Premium trim",
       "title_en": "Mercedes-Geely venture Smart expands #2 roll-out in China with Premium trim",
       "title_zh": "梅赛德斯-吉利合资公司 Smart 扩大在中国的第二次推出，推出高级内饰",
@@ -219,7 +308,7 @@
       "url": "https://cnevpost.com/2026/11/05/zotyes-wink-y01-rolls-off-line",
       "published_at": "2026-11-05T11:14:32Z",
       "first_seen_at": "2026-11-05T17:07:27.706527Z",
-      "last_seen_at": "2026-11-05T17:07:27.706527Z",
+      "last_seen_at": "2026-11-05T22:45:05.351741Z",
       "title_original": "Zotye's right-hand-drive Wink Y01 rolls off line, with deliveries planned for early 2027",
       "title_en": "Zotye's right-hand-drive Wink Y01 rolls off line, with deliveries planned for early 2027",
       "title_zh": "众泰右舵Wink Y01下线 计划2027年初交付",
@@ -238,7 +327,7 @@
       "url": "https://cnevpost.com/2026/11/05/catl-byd-gain-ev-battery-share-outside-china",
       "published_at": "2026-11-05T09:04:19Z",
       "first_seen_at": "2026-11-05T17:07:27.706527Z",
-      "last_seen_at": "2026-11-05T17:07:27.706527Z",
+      "last_seen_at": "2026-11-05T22:45:05.351741Z",
       "title_original": "CATL, BYD gain EV battery share outside China as Korean rivals lose ground",
       "title_en": "CATL, BYD gain EV battery share outside China as Korean rivals lose ground",
       "title_zh": "随着韩国竞争对手失势，宁德时代、比亚迪在中国以外的电动汽车电池市场份额增加",
@@ -259,7 +348,7 @@
       "url": "https://carnewschina.com/2026/11/05/byds-yangwang-altior-to-debut-in-abu-dhabi-on-november-8",
       "published_at": "2026-11-05T08:22:50Z",
       "first_seen_at": "2026-11-05T08:56:04.829383Z",
-      "last_seen_at": "2026-11-05T17:07:27.706527Z",
+      "last_seen_at": "2026-11-05T22:45:05.351741Z",
       "title_original": "BYD’s Yangwang Altior to debut in Abu Dhabi on November 8",
       "title_en": "BYD’s Yangwang Altior to debut in Abu Dhabi on November 8",
       "title_zh": "比亚迪Yangwang Altior将于11月8日在阿布扎比首次亮相",
@@ -279,7 +368,7 @@
       "url": "https://carnewschina.com/2026/11/05/chinese-battery-makers-secure-56-4-share-of-overseas-market-in-first-three-quarters-of-2026",
       "published_at": "2026-11-05T07:56:56Z",
       "first_seen_at": "2026-11-05T08:56:04.829383Z",
-      "last_seen_at": "2026-11-05T17:07:27.706527Z",
+      "last_seen_at": "2026-11-05T22:45:05.351741Z",
       "title_original": "Chinese battery makers secure 56.4% share of overseas market in first three quarters of 2026",
       "title_en": "Chinese battery makers secure 56.4% share of overseas market in first three quarters of 2026",
       "title_zh": "2026年前三季度中国电池制造商海外市场份额达56.4%",
@@ -300,7 +389,7 @@
       "url": "https://carnewschina.com/2026/11/05/xiaomi-sets-2028-global-right-hand-drive-push-as-australia-hiring-begins",
       "published_at": "2026-11-05T06:03:45Z",
       "first_seen_at": "2026-11-05T08:56:04.829383Z",
-      "last_seen_at": "2026-11-05T17:07:27.706527Z",
+      "last_seen_at": "2026-11-05T22:45:05.351741Z",
       "title_original": "Xiaomi sets 2028 global right-hand-drive push as Australia hiring begins",
       "title_en": "Xiaomi sets 2028 global right-hand-drive push as Australia hiring begins",
       "title_zh": "澳大利亚招聘开始，小米2028年全球推右舵驾驶",
@@ -319,7 +408,7 @@
       "url": "https://cnevpost.com/2026/11/05/xpeng-begins-mona-l05-deliveries-targets-10000-1st-month",
       "published_at": "2026-11-05T04:19:10Z",
       "first_seen_at": "2026-11-05T08:56:04.829383Z",
-      "last_seen_at": "2026-11-05T17:07:27.706527Z",
+      "last_seen_at": "2026-11-05T22:45:05.351741Z",
       "title_original": "Xpeng begins Mona L05 deliveries, targets 10,000 units in first month",
       "title_en": "Xpeng begins Mona L05 deliveries, targets 10,000 units in first month",
       "title_zh": "小鹏汽车Mona L05开始交付，首月目标1万辆",
@@ -339,7 +428,7 @@
       "url": "https://carnewschina.com/2026/11/05/zeekr-opens-pre-sales-for-the-2027-zeekr-7x-in-china-starting-at-34300-usd",
       "published_at": "2026-11-05T04:14:23Z",
       "first_seen_at": "2026-11-05T08:56:04.829383Z",
-      "last_seen_at": "2026-11-05T17:07:27.706527Z",
+      "last_seen_at": "2026-11-05T22:45:05.351741Z",
       "title_original": "Zeekr opens pre-sales for the 2027 Zeekr 7X in China, starting at 34,300 USD",
       "title_en": "Zeekr opens pre-sales for the 2027 Zeekr 7X in China, starting at 34,300 USD",
       "title_zh": "Zeekr 2027款Zeekr 7X在中国开启预售，起价34,300美元",
@@ -359,7 +448,7 @@
       "url": "https://cnevpost.com/2026/11/05/zeekr-starts-pre-sales-2027-7x",
       "published_at": "2026-11-05T02:34:18Z",
       "first_seen_at": "2026-11-05T08:56:04.829383Z",
-      "last_seen_at": "2026-11-05T17:07:27.706527Z",
+      "last_seen_at": "2026-11-05T22:45:05.351741Z",
       "title_original": "Zeekr starts pre-sales for updated 7X in China at $34,220 with battery and comfort upgrades",
       "title_en": "Zeekr starts pre-sales for updated 7X in China at $34,220 with battery and comfort upgrades",
       "title_zh": "Zeekr 更新版 7X 在中国开始预售，电池和舒适度升级，售价 34,220 美元",
@@ -381,284 +470,111 @@
       "url": "https://cnevpost.com/2026/11/05/baidu-apollo-world-model-ai-teach-ai-to-drive",
       "published_at": "2026-11-05T01:47:28Z",
       "first_seen_at": "2026-11-05T08:56:04.829383Z",
-      "last_seen_at": "2026-11-05T17:07:27.706527Z",
+      "last_seen_at": "2026-11-05T22:45:05.351741Z",
       "title_original": "Baidu unveils Apollo World model to let AI teach AI to drive",
       "title_en": "Baidu unveils Apollo World model to let AI teach AI to drive",
       "title_zh": "百度推出阿波罗世界模型，让AI教AI开车",
       "title_bilingual": "百度推出阿波罗世界模型，让AI教AI开车 / Baidu unveils Apollo World model to let AI teach AI to drive",
       "topic_tags": [
         "新能源"
-      ]
-    },
-    {
-      "id": "5f86a8fde13fd6cba143423320d7bb7bb36b0082",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "最真诚的表白 长腿美女邂逅小鹏P7",
-      "url": "https://club.autohome.com.cn/bbs/thread/e66ac37fb2da0ee9/116517417-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-11-04T21:23:20.655493Z",
-      "last_seen_at": "2026-11-05T17:07:27.706527Z",
-      "title_original": "最真诚的表白 长腿美女邂逅小鹏P7",
-      "title_en": null,
-      "title_zh": "最真诚的表白 长腿美女邂逅小鹏P7",
-      "title_bilingual": "最真诚的表白 长腿美女邂逅小鹏P7",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "41c3d280a98f4bd37f94b2f32d70a17e55e2bdce",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "更香不后悔！理想L9 Livis提车",
-      "url": "https://club.autohome.com.cn/bbs/thread/cb9f4e698c29e003/116539724-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-11-04T21:23:20.655493Z",
-      "last_seen_at": "2026-11-05T17:07:27.706527Z",
-      "title_original": "更香不后悔！理想L9 Livis提车",
-      "title_en": null,
-      "title_zh": "更香不后悔！理想L9 Livis提车",
-      "title_bilingual": "更香不后悔！理想L9 Livis提车",
-      "topic_tags": [
-        "车企竞争",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "1dfebfa15a39c07d39829bb51d226e64e01c40b4",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "底盘调校舒服 ID. ERA 5S提车分享",
-      "url": "https://club.autohome.com.cn/bbs/thread/06837b79cd23c5f7/116490207-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-11-04T21:23:20.655493Z",
-      "last_seen_at": "2026-11-05T17:07:27.706527Z",
-      "title_original": "底盘调校舒服 ID. ERA 5S提车分享",
-      "title_en": null,
-      "title_zh": "底盘调校舒服 ID. ERA 5S提车分享",
-      "title_bilingual": "底盘调校舒服 ID. ERA 5S提车分享",
-      "topic_tags": [
-        "供应链",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "296485bfed3d2b6068e9ae66c395713fd5772b25",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "通勤成本低 长安启源Q06提车分享",
-      "url": "https://club.autohome.com.cn/bbs/thread/2fff964e11b6352e/116484011-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-11-04T21:23:20.655493Z",
-      "last_seen_at": "2026-11-05T17:07:27.706527Z",
-      "title_original": "通勤成本低 长安启源Q06提车分享",
-      "title_en": null,
-      "title_zh": "通勤成本低 长安启源Q06提车分享",
-      "title_bilingual": "通勤成本低 长安启源Q06提车分享",
-      "topic_tags": [
-        "车企竞争",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "5a071a0d2b7b7ce2e9c3200e5fab2d5360a8d5cb",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "底盘厚重扎实 别克君越提车作业分享",
-      "url": "https://club.autohome.com.cn/bbs/thread/f493177bf35b1776/116596608-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-11-04T21:23:20.655493Z",
-      "last_seen_at": "2026-11-05T17:07:27.706527Z",
-      "title_original": "底盘厚重扎实 别克君越提车作业分享",
-      "title_en": null,
-      "title_zh": "底盘厚重扎实 别克君越提车作业分享",
-      "title_bilingual": "底盘厚重扎实 别克君越提车作业分享",
-      "topic_tags": [
-        "供应链",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "3d76abcf8383f8cd0ce8a78711634c0aee6bfc47",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "【预告】燃油SUV辅助驾驶 挑战“亚洲最大社区”、“北漂第一村”",
-      "url": "http://vc.yiche.com/vplay/14003978.html",
-      "published_at": null,
-      "first_seen_at": "2026-11-04T21:23:20.655493Z",
-      "last_seen_at": "2026-11-05T17:07:27.706527Z",
-      "title_original": "【预告】燃油SUV辅助驾驶 挑战“亚洲最大社区”、“北漂第一村”",
-      "title_en": null,
-      "title_zh": "【预告】燃油SUV辅助驾驶 挑战“亚洲最大社区”、“北漂第一村”",
-      "title_bilingual": "【预告】燃油SUV辅助驾驶 挑战“亚洲最大社区”、“北漂第一村”",
-      "topic_tags": [
-        "智能驾驶",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "d9d3b4839394d4fbfface6b1c0eb1505c8f2e6b9",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "入门版不到28万元！探店宝马5系：销量连涨靠让利？",
-      "url": "http://vc.yiche.com/vplay/13982943.html",
-      "published_at": null,
-      "first_seen_at": "2026-11-04T21:23:20.655493Z",
-      "last_seen_at": "2026-11-05T17:07:27.706527Z",
-      "title_original": "入门版不到28万元！探店宝马5系：销量连涨靠让利？",
-      "title_en": null,
-      "title_zh": "入门版不到28万元！探店宝马5系：销量连涨靠让利？",
-      "title_bilingual": "入门版不到28万元！探店宝马5系：销量连涨靠让利？",
-      "topic_tags": [
-        "销量市场",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "0d0c3b99bb40953825480ea5acdf279a3c84ad0a",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "抢先体验腾势N8 天际屏+巨幕 大五座SUV能有多科幻？",
-      "url": "http://vc.yiche.com/vplay/14036374.html",
-      "published_at": null,
-      "first_seen_at": "2026-11-04T21:23:20.655493Z",
-      "last_seen_at": "2026-11-05T17:07:27.706527Z",
-      "title_original": "抢先体验腾势N8 天际屏+巨幕 大五座SUV能有多科幻？",
-      "title_en": null,
-      "title_zh": "抢先体验腾势N8 天际屏+巨幕 大五座SUV能有多科幻？",
-      "title_bilingual": "抢先体验腾势N8 天际屏+巨幕 大五座SUV能有多科幻？",
-      "topic_tags": [
-        "购车决策",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "fb9d7fe75bbb24f512e64ffb0117d8ab39b781e4",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "6～8万纯电别乱买！二代海鸥/星愿/零跑A10，优缺点一次讲透",
-      "url": "http://vc.yiche.com/vplay/13983251.html",
-      "published_at": null,
-      "first_seen_at": "2026-11-04T21:23:20.655493Z",
-      "last_seen_at": "2026-11-05T17:07:27.706527Z",
-      "title_original": "6～8万纯电别乱买！二代海鸥/星愿/零跑A10，优缺点一次讲透",
-      "title_en": null,
-      "title_zh": "6～8万纯电别乱买！二代海鸥/星愿/零跑A10，优缺点一次讲透",
-      "title_bilingual": "6～8万纯电别乱买！二代海鸥/星愿/零跑A10，优缺点一次讲透",
-      "topic_tags": [
-        "新能源",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "28e6b16ecb4da29c3eeeb75227bf8ebfb4a74f6e",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "大众ID.ERA 5X抢先看！配激光雷达，车内精致得不像VW",
-      "url": "http://vc.yiche.com/vplay/14002242.html",
-      "published_at": null,
-      "first_seen_at": "2026-11-04T21:23:20.655493Z",
-      "last_seen_at": "2026-11-05T17:07:27.706527Z",
-      "title_original": "大众ID.ERA 5X抢先看！配激光雷达，车内精致得不像VW",
-      "title_en": null,
-      "title_zh": "大众ID.ERA 5X抢先看！配激光雷达，车内精致得不像VW",
-      "title_bilingual": "大众ID.ERA 5X抢先看！配激光雷达，车内精致得不像VW",
-      "topic_tags": [
-        "智能驾驶",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "f8171b99b4baa6bf5e2e445a23a0ca0bb707d12c",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "比亚迪海狮05最新优惠参考，买车别只听销售讲！",
-      "url": "http://vc.yiche.com/vplay/13987031.html",
-      "published_at": null,
-      "first_seen_at": "2026-11-04T21:23:20.655493Z",
-      "last_seen_at": "2026-11-05T17:07:27.706527Z",
-      "title_original": "比亚迪海狮05最新优惠参考，买车别只听销售讲！",
-      "title_en": null,
-      "title_zh": "比亚迪海狮05最新优惠参考，买车别只听销售讲！",
-      "title_bilingual": "比亚迪海狮05最新优惠参考，买车别只听销售讲！",
-      "topic_tags": [
-        "价格战",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "6cae1491b05be607b2d2ed013c6cc24df3f1df64",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Toyota recalls 176,737 vehicles in China: bZ EVs, Land Cruiser Prado and Lexus GX hit by defects",
-      "url": "https://carnewschina.com/2026/11/04/toyota-recalls-176737-vehicles-in-china-bz-evs-land-cruiser-prado-and-lexus-gx-hit-by-defects",
-      "published_at": "2026-11-04T21:22:17Z",
-      "first_seen_at": "2026-11-05T01:36:39.402261Z",
-      "last_seen_at": "2026-11-05T17:07:27.706527Z",
-      "title_original": "Toyota recalls 176,737 vehicles in China: bZ EVs, Land Cruiser Prado and Lexus GX hit by defects",
-      "title_en": "Toyota recalls 176,737 vehicles in China: bZ EVs, Land Cruiser Prado and Lexus GX hit by defects",
-      "title_zh": "丰田在中国召回176,737辆汽车：bZ电动车、陆地巡洋舰普拉多和雷克萨斯GX存在缺陷",
-      "title_bilingual": "丰田在中国召回176,737辆汽车：bZ电动车、陆地巡洋舰普拉多和雷克萨斯GX存在缺陷 / Toyota recalls 176,737 vehicles in China: bZ EVs, Land Cruiser Prado and Lexus GX hit by defects",
-      "topic_tags": [
-        "新能源",
-        "召回安全"
-      ]
-    },
-    {
-      "id": "5c8981c5e9eff62344318b5050001080ac1ac16f",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-销量",
-      "title": "2026年1-9月比亚迪乘用车出口目的地TOP10：巴西以227,356辆居首，约旦新进榜单丨盖世汽车研究院",
-      "url": "https://auto.gasgoo.com/news/202611/4I70476908C110.shtml",
-      "published_at": "2026-11-04T19:53:24Z",
-      "first_seen_at": "2026-11-05T17:07:27.706527Z",
-      "last_seen_at": "2026-11-05T17:07:27.706527Z",
-      "title_original": "2026年1-9月比亚迪乘用车出口目的地TOP10：巴西以227,356辆居首，约旦新进榜单丨盖世汽车研究院",
-      "title_en": null,
-      "title_zh": "2026年1-9月比亚迪乘用车出口目的地TOP10：巴西以227,356辆居首，约旦新进榜单丨盖世汽车研究院",
-      "title_bilingual": "2026年1-9月比亚迪乘用车出口目的地TOP10：巴西以227,356辆居首，约旦新进榜单丨盖世汽车研究院",
-      "topic_tags": [
-        "销量市场",
-        "车企竞争",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "2c5ab9b38d58b2c0c244eb4f62c0cac9d1e7c442",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "小鹏联合高校发布GroundingPI具身感知基座模型",
-      "url": "https://auto.gasgoo.com/news/202611/4I70476900C109.shtml",
-      "published_at": "2026-11-04T17:34:44Z",
-      "first_seen_at": "2026-11-05T17:07:27.706527Z",
-      "last_seen_at": "2026-11-05T17:07:27.706527Z",
-      "title_original": "小鹏联合高校发布GroundingPI具身感知基座模型",
-      "title_en": null,
-      "title_zh": "小鹏联合高校发布GroundingPI具身感知基座模型",
-      "title_bilingual": "小鹏联合高校发布GroundingPI具身感知基座模型",
-      "topic_tags": [
-        "车企竞争",
-        "新车上市"
       ]
     }
   ],
   "items_ai": [
     {
+      "id": "f380b202a5dab45e10adbb19dbeed9dd891435f2",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "全新本田CR-V技术拆解：机械四驱换电四驱，价格降低空间加大？",
+      "url": "http://vc.yiche.com/vplay/14033042.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-05T22:45:05.351741Z",
+      "last_seen_at": "2026-11-05T22:45:05.351741Z",
+      "title_original": "全新本田CR-V技术拆解：机械四驱换电四驱，价格降低空间加大？",
+      "title_en": null,
+      "title_zh": "全新本田CR-V技术拆解：机械四驱换电四驱，价格降低空间加大？",
+      "title_bilingual": "全新本田CR-V技术拆解：机械四驱换电四驱，价格降低空间加大？",
+      "topic_tags": [
+        "补能电池"
+      ]
+    },
+    {
+      "id": "36726c8f8a87cd43886e87c639ff7aaefefb604d",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "【预告】星越L PLUS 三车编队辅助驾驶夜穿怒江72拐",
+      "url": "http://vc.yiche.com/vplay/14040882.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-05T22:45:05.351741Z",
+      "last_seen_at": "2026-11-05T22:45:05.351741Z",
+      "title_original": "【预告】星越L PLUS 三车编队辅助驾驶夜穿怒江72拐",
+      "title_en": null,
+      "title_zh": "【预告】星越L PLUS 三车编队辅助驾驶夜穿怒江72拐",
+      "title_bilingual": "【预告】星越L PLUS 三车编队辅助驾驶夜穿怒江72拐",
+      "topic_tags": [
+        "智能驾驶"
+      ]
+    },
+    {
+      "id": "4550563430a67003c0ea534d86d187a3bef4d106",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "比亚迪海狮06最新优惠行情，买过的千万别看！",
+      "url": "http://vc.yiche.com/vplay/14012770.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-05T22:45:05.351741Z",
+      "last_seen_at": "2026-11-05T22:45:05.351741Z",
+      "title_original": "比亚迪海狮06最新优惠行情，买过的千万别看！",
+      "title_en": null,
+      "title_zh": "比亚迪海狮06最新优惠行情，买过的千万别看！",
+      "title_bilingual": "比亚迪海狮06最新优惠行情，买过的千万别看！",
+      "topic_tags": [
+        "价格战",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "063ecb17b7429d66006a076a2979e63baa7cb735",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "大众吹响反攻号角！续航1602km+800V快充，ID.ERA 8X实力不凡",
+      "url": "http://vc.yiche.com/vplay/14012959.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-05T22:45:05.351741Z",
+      "last_seen_at": "2026-11-05T22:45:05.351741Z",
+      "title_original": "大众吹响反攻号角！续航1602km+800V快充，ID.ERA 8X实力不凡",
+      "title_en": null,
+      "title_zh": "大众吹响反攻号角！续航1602km+800V快充，ID.ERA 8X实力不凡",
+      "title_bilingual": "大众吹响反攻号角！续航1602km+800V快充，ID.ERA 8X实力不凡",
+      "topic_tags": [
+        "补能电池",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "0e51cc1638246714d6d966fc7d8ded65c7d4d102",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Huawei enters China’s three-wheeled market, brings HIMA smart cockpit tech to 1500 USD e-trike",
+      "url": "https://carnewschina.com/2026/11/05/huawei-enters-chinas-three-wheeled-market-brings-hima-smart-cockpit-tech-to-1500-usd-e-trike",
+      "published_at": "2026-11-05T22:22:59Z",
+      "first_seen_at": "2026-11-05T22:45:05.351741Z",
+      "last_seen_at": "2026-11-05T22:45:05.351741Z",
+      "title_original": "Huawei enters China’s three-wheeled market, brings HIMA smart cockpit tech to 1500 USD e-trike",
+      "title_en": "Huawei enters China’s three-wheeled market, brings HIMA smart cockpit tech to 1500 USD e-trike",
+      "title_zh": "华为进军中国三轮市场，将HIMA智能座舱技术引入1500美元电动三轮车",
+      "title_bilingual": "华为进军中国三轮市场，将HIMA智能座舱技术引入1500美元电动三轮车 / Huawei enters China’s three-wheeled market, brings HIMA smart cockpit tech to 1500 USD e-trike",
+      "topic_tags": [
+        "新能源",
+        "销量市场"
+      ]
+    },
+    {
       "id": "9c5612f22c0ebd3e89c61edddd7ca16442c10756",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -667,7 +583,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/ba1c45387c6ff063/116489793-1.html",
       "published_at": null,
       "first_seen_at": "2026-11-05T17:07:27.706527Z",
-      "last_seen_at": "2026-11-05T17:07:27.706527Z",
+      "last_seen_at": "2026-11-05T22:45:05.351741Z",
       "title_original": "用车成本低 零跑C16提车作业分享",
       "title_en": null,
       "title_zh": "用车成本低 零跑C16提车作业分享",
@@ -686,7 +602,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/4346e63b5822f403/116544089-1.html",
       "published_at": null,
       "first_seen_at": "2026-11-05T17:07:27.706527Z",
-      "last_seen_at": "2026-11-05T17:07:27.706527Z",
+      "last_seen_at": "2026-11-05T22:45:05.351741Z",
       "title_original": "新款变化不小 静态体验26款理想i6",
       "title_en": null,
       "title_zh": "新款变化不小 静态体验26款理想i6",
@@ -705,7 +621,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/92719d33cb63ff56/116522105-1.html",
       "published_at": null,
       "first_seen_at": "2026-11-05T17:07:27.706527Z",
-      "last_seen_at": "2026-11-05T17:07:27.706527Z",
+      "last_seen_at": "2026-11-05T22:45:05.351741Z",
       "title_original": "长续航无压力 大众与众08提车分享",
       "title_en": null,
       "title_zh": "长续航无压力 大众与众08提车分享",
@@ -725,7 +641,7 @@
       "url": "https://club.autohome.com.cn/bbs/thread/fac1d119bcd94268/116553266-1.html",
       "published_at": null,
       "first_seen_at": "2026-11-05T17:07:27.706527Z",
-      "last_seen_at": "2026-11-05T17:07:27.706527Z",
+      "last_seen_at": "2026-11-05T22:45:05.351741Z",
       "title_original": "电车省时省力 长安启源Q06提车分享",
       "title_en": null,
       "title_zh": "电车省时省力 长安启源Q06提车分享",
@@ -745,7 +661,7 @@
       "url": "https://carnewschina.com/2026/11/05/second-gen-byd-seal-07-enters-china-with-flash-charging-and-gods-eye-adas",
       "published_at": "2026-11-05T14:03:36Z",
       "first_seen_at": "2026-11-05T17:07:27.706527Z",
-      "last_seen_at": "2026-11-05T17:07:27.706527Z",
+      "last_seen_at": "2026-11-05T22:45:05.351741Z",
       "title_original": "Second-gen BYD Seal 07 enters China with flash charging and God’s Eye ADAS",
       "title_en": "Second-gen BYD Seal 07 enters China with flash charging and God’s Eye ADAS",
       "title_zh": "第二代比亚迪Seal 07进军中国 闪充+神眼ADAS",
@@ -766,7 +682,7 @@
       "url": "https://cnevpost.com/2026/11/05/byd-launches-2nd-gen-seal-07",
       "published_at": "2026-11-05T13:08:35Z",
       "first_seen_at": "2026-11-05T17:07:27.706527Z",
-      "last_seen_at": "2026-11-05T17:07:27.706527Z",
+      "last_seen_at": "2026-11-05T22:45:05.351741Z",
       "title_original": "BYD launches second-gen Seal 07 in China with lower prices and longer range",
       "title_en": "BYD launches second-gen Seal 07 in China with lower prices and longer range",
       "title_zh": "比亚迪在中国推出第二代Seal 07，价格更低，续航里程更长",
@@ -786,7 +702,7 @@
       "url": "https://cnevpost.com/2026/11/05/smart-expands-2-roll-out-china-premium-trim",
       "published_at": "2026-11-05T12:17:14Z",
       "first_seen_at": "2026-11-05T17:07:27.706527Z",
-      "last_seen_at": "2026-11-05T17:07:27.706527Z",
+      "last_seen_at": "2026-11-05T22:45:05.351741Z",
       "title_original": "Mercedes-Geely venture Smart expands #2 roll-out in China with Premium trim",
       "title_en": "Mercedes-Geely venture Smart expands #2 roll-out in China with Premium trim",
       "title_zh": "梅赛德斯-吉利合资公司 Smart 扩大在中国的第二次推出，推出高级内饰",
@@ -805,7 +721,7 @@
       "url": "https://cnevpost.com/2026/11/05/zotyes-wink-y01-rolls-off-line",
       "published_at": "2026-11-05T11:14:32Z",
       "first_seen_at": "2026-11-05T17:07:27.706527Z",
-      "last_seen_at": "2026-11-05T17:07:27.706527Z",
+      "last_seen_at": "2026-11-05T22:45:05.351741Z",
       "title_original": "Zotye's right-hand-drive Wink Y01 rolls off line, with deliveries planned for early 2027",
       "title_en": "Zotye's right-hand-drive Wink Y01 rolls off line, with deliveries planned for early 2027",
       "title_zh": "众泰右舵Wink Y01下线 计划2027年初交付",
@@ -824,7 +740,7 @@
       "url": "https://cnevpost.com/2026/11/05/catl-byd-gain-ev-battery-share-outside-china",
       "published_at": "2026-11-05T09:04:19Z",
       "first_seen_at": "2026-11-05T17:07:27.706527Z",
-      "last_seen_at": "2026-11-05T17:07:27.706527Z",
+      "last_seen_at": "2026-11-05T22:45:05.351741Z",
       "title_original": "CATL, BYD gain EV battery share outside China as Korean rivals lose ground",
       "title_en": "CATL, BYD gain EV battery share outside China as Korean rivals lose ground",
       "title_zh": "随着韩国竞争对手失势，宁德时代、比亚迪在中国以外的电动汽车电池市场份额增加",
@@ -845,7 +761,7 @@
       "url": "https://carnewschina.com/2026/11/05/byds-yangwang-altior-to-debut-in-abu-dhabi-on-november-8",
       "published_at": "2026-11-05T08:22:50Z",
       "first_seen_at": "2026-11-05T08:56:04.829383Z",
-      "last_seen_at": "2026-11-05T17:07:27.706527Z",
+      "last_seen_at": "2026-11-05T22:45:05.351741Z",
       "title_original": "BYD’s Yangwang Altior to debut in Abu Dhabi on November 8",
       "title_en": "BYD’s Yangwang Altior to debut in Abu Dhabi on November 8",
       "title_zh": "比亚迪Yangwang Altior将于11月8日在阿布扎比首次亮相",
@@ -865,7 +781,7 @@
       "url": "https://carnewschina.com/2026/11/05/chinese-battery-makers-secure-56-4-share-of-overseas-market-in-first-three-quarters-of-2026",
       "published_at": "2026-11-05T07:56:56Z",
       "first_seen_at": "2026-11-05T08:56:04.829383Z",
-      "last_seen_at": "2026-11-05T17:07:27.706527Z",
+      "last_seen_at": "2026-11-05T22:45:05.351741Z",
       "title_original": "Chinese battery makers secure 56.4% share of overseas market in first three quarters of 2026",
       "title_en": "Chinese battery makers secure 56.4% share of overseas market in first three quarters of 2026",
       "title_zh": "2026年前三季度中国电池制造商海外市场份额达56.4%",
@@ -886,7 +802,7 @@
       "url": "https://carnewschina.com/2026/11/05/xiaomi-sets-2028-global-right-hand-drive-push-as-australia-hiring-begins",
       "published_at": "2026-11-05T06:03:45Z",
       "first_seen_at": "2026-11-05T08:56:04.829383Z",
-      "last_seen_at": "2026-11-05T17:07:27.706527Z",
+      "last_seen_at": "2026-11-05T22:45:05.351741Z",
       "title_original": "Xiaomi sets 2028 global right-hand-drive push as Australia hiring begins",
       "title_en": "Xiaomi sets 2028 global right-hand-drive push as Australia hiring begins",
       "title_zh": "澳大利亚招聘开始，小米2028年全球推右舵驾驶",
@@ -905,7 +821,7 @@
       "url": "https://cnevpost.com/2026/11/05/xpeng-begins-mona-l05-deliveries-targets-10000-1st-month",
       "published_at": "2026-11-05T04:19:10Z",
       "first_seen_at": "2026-11-05T08:56:04.829383Z",
-      "last_seen_at": "2026-11-05T17:07:27.706527Z",
+      "last_seen_at": "2026-11-05T22:45:05.351741Z",
       "title_original": "Xpeng begins Mona L05 deliveries, targets 10,000 units in first month",
       "title_en": "Xpeng begins Mona L05 deliveries, targets 10,000 units in first month",
       "title_zh": "小鹏汽车Mona L05开始交付，首月目标1万辆",
@@ -925,7 +841,7 @@
       "url": "https://carnewschina.com/2026/11/05/zeekr-opens-pre-sales-for-the-2027-zeekr-7x-in-china-starting-at-34300-usd",
       "published_at": "2026-11-05T04:14:23Z",
       "first_seen_at": "2026-11-05T08:56:04.829383Z",
-      "last_seen_at": "2026-11-05T17:07:27.706527Z",
+      "last_seen_at": "2026-11-05T22:45:05.351741Z",
       "title_original": "Zeekr opens pre-sales for the 2027 Zeekr 7X in China, starting at 34,300 USD",
       "title_en": "Zeekr opens pre-sales for the 2027 Zeekr 7X in China, starting at 34,300 USD",
       "title_zh": "Zeekr 2027款Zeekr 7X在中国开启预售，起价34,300美元",
@@ -945,7 +861,7 @@
       "url": "https://cnevpost.com/2026/11/05/zeekr-starts-pre-sales-2027-7x",
       "published_at": "2026-11-05T02:34:18Z",
       "first_seen_at": "2026-11-05T08:56:04.829383Z",
-      "last_seen_at": "2026-11-05T17:07:27.706527Z",
+      "last_seen_at": "2026-11-05T22:45:05.351741Z",
       "title_original": "Zeekr starts pre-sales for updated 7X in China at $34,220 with battery and comfort upgrades",
       "title_en": "Zeekr starts pre-sales for updated 7X in China at $34,220 with battery and comfort upgrades",
       "title_zh": "Zeekr 更新版 7X 在中国开始预售，电池和舒适度升级，售价 34,220 美元",
@@ -967,279 +883,13 @@
       "url": "https://cnevpost.com/2026/11/05/baidu-apollo-world-model-ai-teach-ai-to-drive",
       "published_at": "2026-11-05T01:47:28Z",
       "first_seen_at": "2026-11-05T08:56:04.829383Z",
-      "last_seen_at": "2026-11-05T17:07:27.706527Z",
+      "last_seen_at": "2026-11-05T22:45:05.351741Z",
       "title_original": "Baidu unveils Apollo World model to let AI teach AI to drive",
       "title_en": "Baidu unveils Apollo World model to let AI teach AI to drive",
       "title_zh": "百度推出阿波罗世界模型，让AI教AI开车",
       "title_bilingual": "百度推出阿波罗世界模型，让AI教AI开车 / Baidu unveils Apollo World model to let AI teach AI to drive",
       "topic_tags": [
         "新能源"
-      ]
-    },
-    {
-      "id": "5f86a8fde13fd6cba143423320d7bb7bb36b0082",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "最真诚的表白 长腿美女邂逅小鹏P7",
-      "url": "https://club.autohome.com.cn/bbs/thread/e66ac37fb2da0ee9/116517417-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-11-04T21:23:20.655493Z",
-      "last_seen_at": "2026-11-05T17:07:27.706527Z",
-      "title_original": "最真诚的表白 长腿美女邂逅小鹏P7",
-      "title_en": null,
-      "title_zh": "最真诚的表白 长腿美女邂逅小鹏P7",
-      "title_bilingual": "最真诚的表白 长腿美女邂逅小鹏P7",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "41c3d280a98f4bd37f94b2f32d70a17e55e2bdce",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "更香不后悔！理想L9 Livis提车",
-      "url": "https://club.autohome.com.cn/bbs/thread/cb9f4e698c29e003/116539724-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-11-04T21:23:20.655493Z",
-      "last_seen_at": "2026-11-05T17:07:27.706527Z",
-      "title_original": "更香不后悔！理想L9 Livis提车",
-      "title_en": null,
-      "title_zh": "更香不后悔！理想L9 Livis提车",
-      "title_bilingual": "更香不后悔！理想L9 Livis提车",
-      "topic_tags": [
-        "车企竞争",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "1dfebfa15a39c07d39829bb51d226e64e01c40b4",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "底盘调校舒服 ID. ERA 5S提车分享",
-      "url": "https://club.autohome.com.cn/bbs/thread/06837b79cd23c5f7/116490207-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-11-04T21:23:20.655493Z",
-      "last_seen_at": "2026-11-05T17:07:27.706527Z",
-      "title_original": "底盘调校舒服 ID. ERA 5S提车分享",
-      "title_en": null,
-      "title_zh": "底盘调校舒服 ID. ERA 5S提车分享",
-      "title_bilingual": "底盘调校舒服 ID. ERA 5S提车分享",
-      "topic_tags": [
-        "供应链",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "296485bfed3d2b6068e9ae66c395713fd5772b25",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "通勤成本低 长安启源Q06提车分享",
-      "url": "https://club.autohome.com.cn/bbs/thread/2fff964e11b6352e/116484011-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-11-04T21:23:20.655493Z",
-      "last_seen_at": "2026-11-05T17:07:27.706527Z",
-      "title_original": "通勤成本低 长安启源Q06提车分享",
-      "title_en": null,
-      "title_zh": "通勤成本低 长安启源Q06提车分享",
-      "title_bilingual": "通勤成本低 长安启源Q06提车分享",
-      "topic_tags": [
-        "车企竞争",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "5a071a0d2b7b7ce2e9c3200e5fab2d5360a8d5cb",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "底盘厚重扎实 别克君越提车作业分享",
-      "url": "https://club.autohome.com.cn/bbs/thread/f493177bf35b1776/116596608-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-11-04T21:23:20.655493Z",
-      "last_seen_at": "2026-11-05T17:07:27.706527Z",
-      "title_original": "底盘厚重扎实 别克君越提车作业分享",
-      "title_en": null,
-      "title_zh": "底盘厚重扎实 别克君越提车作业分享",
-      "title_bilingual": "底盘厚重扎实 别克君越提车作业分享",
-      "topic_tags": [
-        "供应链",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "3d76abcf8383f8cd0ce8a78711634c0aee6bfc47",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "【预告】燃油SUV辅助驾驶 挑战“亚洲最大社区”、“北漂第一村”",
-      "url": "http://vc.yiche.com/vplay/14003978.html",
-      "published_at": null,
-      "first_seen_at": "2026-11-04T21:23:20.655493Z",
-      "last_seen_at": "2026-11-05T17:07:27.706527Z",
-      "title_original": "【预告】燃油SUV辅助驾驶 挑战“亚洲最大社区”、“北漂第一村”",
-      "title_en": null,
-      "title_zh": "【预告】燃油SUV辅助驾驶 挑战“亚洲最大社区”、“北漂第一村”",
-      "title_bilingual": "【预告】燃油SUV辅助驾驶 挑战“亚洲最大社区”、“北漂第一村”",
-      "topic_tags": [
-        "智能驾驶",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "d9d3b4839394d4fbfface6b1c0eb1505c8f2e6b9",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "入门版不到28万元！探店宝马5系：销量连涨靠让利？",
-      "url": "http://vc.yiche.com/vplay/13982943.html",
-      "published_at": null,
-      "first_seen_at": "2026-11-04T21:23:20.655493Z",
-      "last_seen_at": "2026-11-05T17:07:27.706527Z",
-      "title_original": "入门版不到28万元！探店宝马5系：销量连涨靠让利？",
-      "title_en": null,
-      "title_zh": "入门版不到28万元！探店宝马5系：销量连涨靠让利？",
-      "title_bilingual": "入门版不到28万元！探店宝马5系：销量连涨靠让利？",
-      "topic_tags": [
-        "销量市场",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "0d0c3b99bb40953825480ea5acdf279a3c84ad0a",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "抢先体验腾势N8 天际屏+巨幕 大五座SUV能有多科幻？",
-      "url": "http://vc.yiche.com/vplay/14036374.html",
-      "published_at": null,
-      "first_seen_at": "2026-11-04T21:23:20.655493Z",
-      "last_seen_at": "2026-11-05T17:07:27.706527Z",
-      "title_original": "抢先体验腾势N8 天际屏+巨幕 大五座SUV能有多科幻？",
-      "title_en": null,
-      "title_zh": "抢先体验腾势N8 天际屏+巨幕 大五座SUV能有多科幻？",
-      "title_bilingual": "抢先体验腾势N8 天际屏+巨幕 大五座SUV能有多科幻？",
-      "topic_tags": [
-        "购车决策",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "fb9d7fe75bbb24f512e64ffb0117d8ab39b781e4",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "6～8万纯电别乱买！二代海鸥/星愿/零跑A10，优缺点一次讲透",
-      "url": "http://vc.yiche.com/vplay/13983251.html",
-      "published_at": null,
-      "first_seen_at": "2026-11-04T21:23:20.655493Z",
-      "last_seen_at": "2026-11-05T17:07:27.706527Z",
-      "title_original": "6～8万纯电别乱买！二代海鸥/星愿/零跑A10，优缺点一次讲透",
-      "title_en": null,
-      "title_zh": "6～8万纯电别乱买！二代海鸥/星愿/零跑A10，优缺点一次讲透",
-      "title_bilingual": "6～8万纯电别乱买！二代海鸥/星愿/零跑A10，优缺点一次讲透",
-      "topic_tags": [
-        "新能源",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "28e6b16ecb4da29c3eeeb75227bf8ebfb4a74f6e",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "大众ID.ERA 5X抢先看！配激光雷达，车内精致得不像VW",
-      "url": "http://vc.yiche.com/vplay/14002242.html",
-      "published_at": null,
-      "first_seen_at": "2026-11-04T21:23:20.655493Z",
-      "last_seen_at": "2026-11-05T17:07:27.706527Z",
-      "title_original": "大众ID.ERA 5X抢先看！配激光雷达，车内精致得不像VW",
-      "title_en": null,
-      "title_zh": "大众ID.ERA 5X抢先看！配激光雷达，车内精致得不像VW",
-      "title_bilingual": "大众ID.ERA 5X抢先看！配激光雷达，车内精致得不像VW",
-      "topic_tags": [
-        "智能驾驶",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "f8171b99b4baa6bf5e2e445a23a0ca0bb707d12c",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "比亚迪海狮05最新优惠参考，买车别只听销售讲！",
-      "url": "http://vc.yiche.com/vplay/13987031.html",
-      "published_at": null,
-      "first_seen_at": "2026-11-04T21:23:20.655493Z",
-      "last_seen_at": "2026-11-05T17:07:27.706527Z",
-      "title_original": "比亚迪海狮05最新优惠参考，买车别只听销售讲！",
-      "title_en": null,
-      "title_zh": "比亚迪海狮05最新优惠参考，买车别只听销售讲！",
-      "title_bilingual": "比亚迪海狮05最新优惠参考，买车别只听销售讲！",
-      "topic_tags": [
-        "价格战",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "6cae1491b05be607b2d2ed013c6cc24df3f1df64",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Toyota recalls 176,737 vehicles in China: bZ EVs, Land Cruiser Prado and Lexus GX hit by defects",
-      "url": "https://carnewschina.com/2026/11/04/toyota-recalls-176737-vehicles-in-china-bz-evs-land-cruiser-prado-and-lexus-gx-hit-by-defects",
-      "published_at": "2026-11-04T21:22:17Z",
-      "first_seen_at": "2026-11-05T01:36:39.402261Z",
-      "last_seen_at": "2026-11-05T17:07:27.706527Z",
-      "title_original": "Toyota recalls 176,737 vehicles in China: bZ EVs, Land Cruiser Prado and Lexus GX hit by defects",
-      "title_en": "Toyota recalls 176,737 vehicles in China: bZ EVs, Land Cruiser Prado and Lexus GX hit by defects",
-      "title_zh": "丰田在中国召回176,737辆汽车：bZ电动车、陆地巡洋舰普拉多和雷克萨斯GX存在缺陷",
-      "title_bilingual": "丰田在中国召回176,737辆汽车：bZ电动车、陆地巡洋舰普拉多和雷克萨斯GX存在缺陷 / Toyota recalls 176,737 vehicles in China: bZ EVs, Land Cruiser Prado and Lexus GX hit by defects",
-      "topic_tags": [
-        "新能源",
-        "召回安全"
-      ]
-    },
-    {
-      "id": "5c8981c5e9eff62344318b5050001080ac1ac16f",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-销量",
-      "title": "2026年1-9月比亚迪乘用车出口目的地TOP10：巴西以227,356辆居首，约旦新进榜单丨盖世汽车研究院",
-      "url": "https://auto.gasgoo.com/news/202611/4I70476908C110.shtml",
-      "published_at": "2026-11-04T19:53:24Z",
-      "first_seen_at": "2026-11-05T17:07:27.706527Z",
-      "last_seen_at": "2026-11-05T17:07:27.706527Z",
-      "title_original": "2026年1-9月比亚迪乘用车出口目的地TOP10：巴西以227,356辆居首，约旦新进榜单丨盖世汽车研究院",
-      "title_en": null,
-      "title_zh": "2026年1-9月比亚迪乘用车出口目的地TOP10：巴西以227,356辆居首，约旦新进榜单丨盖世汽车研究院",
-      "title_bilingual": "2026年1-9月比亚迪乘用车出口目的地TOP10：巴西以227,356辆居首，约旦新进榜单丨盖世汽车研究院",
-      "topic_tags": [
-        "销量市场",
-        "车企竞争",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "2c5ab9b38d58b2c0c244eb4f62c0cac9d1e7c442",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "小鹏联合高校发布GroundingPI具身感知基座模型",
-      "url": "https://auto.gasgoo.com/news/202611/4I70476900C109.shtml",
-      "published_at": "2026-11-04T17:34:44Z",
-      "first_seen_at": "2026-11-05T17:07:27.706527Z",
-      "last_seen_at": "2026-11-05T17:07:27.706527Z",
-      "title_original": "小鹏联合高校发布GroundingPI具身感知基座模型",
-      "title_en": null,
-      "title_zh": "小鹏联合高校发布GroundingPI具身感知基座模型",
-      "title_bilingual": "小鹏联合高校发布GroundingPI具身感知基座模型",
-      "topic_tags": [
-        "车企竞争",
-        "新车上市"
       ]
     }
   ],
