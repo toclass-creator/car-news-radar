@@ -1,74 +1,283 @@
 {
-  "generated_at": "2026-11-09T08:23:40.934304Z",
+  "generated_at": "2026-11-09T18:59:45.474013Z",
   "window_hours": 24,
-  "total_items": 21,
-  "total_items_ai_raw": 21,
-  "total_items_raw": 2617,
-  "total_items_all_mode": 2346,
+  "total_items": 22,
+  "total_items_ai_raw": 22,
+  "total_items_raw": 2316,
+  "total_items_all_mode": 2030,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 54105,
+  "archive_total": 54394,
   "site_count": 3,
-  "source_count": 6,
+  "source_count": 4,
   "site_stats": [
-    {
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "count": 11,
-      "raw_count": 2493
-    },
     {
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "count": 9,
-      "raw_count": 9
+      "count": 16,
+      "raw_count": 16
+    },
+    {
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "count": 6,
+      "raw_count": 2200
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
-      "count": 1,
-      "raw_count": 115
+      "count": 0,
+      "raw_count": 100
     }
   ],
   "topic_tag_stats": [
     {
-      "tag": "车企竞争",
-      "count": 12
+      "tag": "新能源",
+      "count": 17
     },
     {
-      "tag": "新能源",
-      "count": 11
+      "tag": "车企竞争",
+      "count": 15
+    },
+    {
+      "tag": "销量市场",
+      "count": 7
     },
     {
       "tag": "购车决策",
-      "count": 6
+      "count": 5
     },
     {
       "tag": "新车上市",
       "count": 4
     },
     {
-      "tag": "销量市场",
+      "tag": "补能电池",
       "count": 4
     },
     {
-      "tag": "智能驾驶",
-      "count": 2
-    },
-    {
       "tag": "供应链",
-      "count": 1
-    },
-    {
-      "tag": "召回安全",
-      "count": 1
-    },
-    {
-      "tag": "补能电池",
       "count": 1
     }
   ],
   "items": [
     {
+      "id": "7780517c1b58a56223f10c810b913ed0cd7d254d",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "底盘质感优秀 奥迪E7X提车作业分享",
+      "url": "https://i.autohome.com.cn/236932750",
+      "published_at": null,
+      "first_seen_at": "2026-11-09T18:59:45.474013Z",
+      "last_seen_at": "2026-11-09T18:59:45.474013Z",
+      "title_original": "底盘质感优秀 奥迪E7X提车作业分享",
+      "title_en": null,
+      "title_zh": "底盘质感优秀 奥迪E7X提车作业分享",
+      "title_bilingual": "底盘质感优秀 奥迪E7X提车作业分享",
+      "topic_tags": [
+        "车企竞争",
+        "供应链",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "eeefbbe491b7219f6ba71c9949d4c14bcb75e69d",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "没有续航焦虑 问界M6增程版提车分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/3055960c82bfb66d/116606527-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-09T18:59:45.474013Z",
+      "last_seen_at": "2026-11-09T18:59:45.474013Z",
+      "title_original": "没有续航焦虑 问界M6增程版提车分享",
+      "title_en": null,
+      "title_zh": "没有续航焦虑 问界M6增程版提车分享",
+      "title_bilingual": "没有续航焦虑 问界M6增程版提车分享",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "d6b436f6e185c4c66bb25594125cfa3a557c003d",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "长续航不焦虑 Model Y提车作业分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/180eea5903ff98de/116605553-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-09T18:59:45.474013Z",
+      "last_seen_at": "2026-11-09T18:59:45.474013Z",
+      "title_original": "长续航不焦虑 Model Y提车作业分享",
+      "title_en": null,
+      "title_zh": "长续航不焦虑 Model Y提车作业分享",
+      "title_bilingual": "长续航不焦虑 Model Y提车作业分享",
+      "topic_tags": [
+        "补能电池",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "6b042d7d49f6accf07ab9c1a71eb8f96b2779ac5",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "用车开销很低 长安启源Q06提车分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/2c7a1077ce44e9f5/116602212-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-09T18:59:45.474013Z",
+      "last_seen_at": "2026-11-09T18:59:45.474013Z",
+      "title_original": "用车开销很低 长安启源Q06提车分享",
+      "title_en": null,
+      "title_zh": "用车开销很低 长安启源Q06提车分享",
+      "title_bilingual": "用车开销很低 长安启源Q06提车分享",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "8f8f5c4602e437e807c9bf2885e088e878da31de",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Nio flagship SUV ES9 nears 40,000 deliveries as large SUVs underpin brand sales",
+      "url": "https://cnevpost.com/2026/11/09/nio-es9-nears-40000-deliveries",
+      "published_at": "2026-11-09T13:55:19Z",
+      "first_seen_at": "2026-11-09T18:59:45.474013Z",
+      "last_seen_at": "2026-11-09T18:59:45.474013Z",
+      "title_original": "Nio flagship SUV ES9 nears 40,000 deliveries as large SUVs underpin brand sales",
+      "title_en": "Nio flagship SUV ES9 nears 40,000 deliveries as large SUVs underpin brand sales",
+      "title_zh": "蔚来旗舰SUV ES9交付量接近4万辆，大型SUV支撑品牌销量",
+      "title_bilingual": "蔚来旗舰SUV ES9交付量接近4万辆，大型SUV支撑品牌销量 / Nio flagship SUV ES9 nears 40,000 deliveries as large SUVs underpin brand sales",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "c9c523d9508b47d09825c0eaf3bc32fe69c6ad2a",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Nio October deliveries breakdown: ES8 falls to year-to-date low, still lead company sales",
+      "url": "https://cnevpost.com/2026/11/09/nio-oct-2026-deliveries-breakdown",
+      "published_at": "2026-11-09T13:29:42Z",
+      "first_seen_at": "2026-11-09T18:59:45.474013Z",
+      "last_seen_at": "2026-11-09T18:59:45.474013Z",
+      "title_original": "Nio October deliveries breakdown: ES8 falls to year-to-date low, still lead company sales",
+      "title_en": "Nio October deliveries breakdown: ES8 falls to year-to-date low, still lead company sales",
+      "title_zh": "蔚来10月交付量明细：ES8跌至今年以来新低，仍领先公司销量",
+      "title_bilingual": "蔚来10月交付量明细：ES8跌至今年以来新低，仍领先公司销量 / Nio October deliveries breakdown: ES8 falls to year-to-date low, still lead company sales",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "c722a6952db3c4216b6cb132ac466968b600f242",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Xiaomi delivers 50,168 cars in October as EREVs account for over half of total",
+      "url": "https://cnevpost.com/2026/11/09/xiaomi-deliveries-oct-2026-erevs-half-total",
+      "published_at": "2026-11-09T11:22:18Z",
+      "first_seen_at": "2026-11-09T18:59:45.474013Z",
+      "last_seen_at": "2026-11-09T18:59:45.474013Z",
+      "title_original": "Xiaomi delivers 50,168 cars in October as EREVs account for over half of total",
+      "title_en": "Xiaomi delivers 50,168 cars in October as EREVs account for over half of total",
+      "title_zh": "小米10月交付汽车50,168辆 增程式电动车占比过半",
+      "title_bilingual": "小米10月交付汽车50,168辆 增程式电动车占比过半 / Xiaomi delivers 50,168 cars in October as EREVs account for over half of total",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "3e0ed8564f9f3fdc18849bee74d3db6d3b5507ad",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "BYD offices raided over allegations Ti7 SUV copied the Land Rover Defender",
+      "url": "https://carnewschina.com/2026/11/09/byd-offices-raided-over-allegations-ti7-suv-copied-the-land-rover-defender",
+      "published_at": "2026-11-09T11:22:02Z",
+      "first_seen_at": "2026-11-09T18:59:45.474013Z",
+      "last_seen_at": "2026-11-09T18:59:45.474013Z",
+      "title_original": "BYD offices raided over allegations Ti7 SUV copied the Land Rover Defender",
+      "title_en": "BYD offices raided over allegations Ti7 SUV copied the Land Rover Defender",
+      "title_zh": "比亚迪办公室因涉嫌Ti7 SUV抄袭路虎卫士遭突击搜查",
+      "title_bilingual": "比亚迪办公室因涉嫌Ti7 SUV抄袭路虎卫士遭突击搜查 / BYD offices raided over allegations Ti7 SUV copied the Land Rover Defender",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "c9efd89810f01a4d77f6ec6e6568dc587078e41e",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "BYD debuts 1,000 kW robotic EV charger with fully automated plug-in in UAE [Video]",
+      "url": "https://carnewschina.com/2026/11/09/byd-debuts-1000-kw-robotic-ev-charger-with-fully-automated-plug-in-in-uae-video",
+      "published_at": "2026-11-09T09:36:33Z",
+      "first_seen_at": "2026-11-09T18:59:45.474013Z",
+      "last_seen_at": "2026-11-09T18:59:45.474013Z",
+      "title_original": "BYD debuts 1,000 kW robotic EV charger with fully automated plug-in in UAE [Video]",
+      "title_en": "BYD debuts 1,000 kW robotic EV charger with fully automated plug-in in UAE [Video]",
+      "title_zh": "比亚迪在阿联酋推出带有全自动插件的 1,000 kW 机器人电动汽车充电器 [视频]",
+      "title_bilingual": "比亚迪在阿联酋推出带有全自动插件的 1,000 kW 机器人电动汽车充电器 [视频] / BYD debuts 1,000 kW robotic EV charger with fully automated plug-in in UAE [Video]",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "a0fecc8e11657b736eaf334ce2f043bda233d7ef",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "BYD reaches 19 million NEV production milestone as Fang Cheng Bao opens Tai 9 reservations",
+      "url": "https://cnevpost.com/2026/11/09/byd-19-million-nev-production-fang-cheng-bao-tai-9-reservations",
+      "published_at": "2026-11-09T09:15:03Z",
+      "first_seen_at": "2026-11-09T18:59:45.474013Z",
+      "last_seen_at": "2026-11-09T18:59:45.474013Z",
+      "title_original": "BYD reaches 19 million NEV production milestone as Fang Cheng Bao opens Tai 9 reservations",
+      "title_en": "BYD reaches 19 million NEV production milestone as Fang Cheng Bao opens Tai 9 reservations",
+      "title_zh": "比亚迪新能源汽车产量突破1900万辆 方成宝太9开放预订",
+      "title_bilingual": "比亚迪新能源汽车产量突破1900万辆 方成宝太9开放预订 / BYD reaches 19 million NEV production milestone as Fang Cheng Bao opens Tai 9 reservations",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "66ca0c1a29fa8ba08eecdc9deb5986c30f260fb7",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Maserati’s China-developed EV reportedly completes exterior design, production targeted for 2027",
+      "url": "https://carnewschina.com/2026/11/09/maseratis-china-developed-ev-reportedly-completes-exterior-design-production-targeted-for-2027",
+      "published_at": "2026-11-09T09:05:49Z",
+      "first_seen_at": "2026-11-09T18:59:45.474013Z",
+      "last_seen_at": "2026-11-09T18:59:45.474013Z",
+      "title_original": "Maserati’s China-developed EV reportedly completes exterior design, production targeted for 2027",
+      "title_en": "Maserati’s China-developed EV reportedly completes exterior design, production targeted for 2027",
+      "title_zh": "玛莎拉蒂国产电动车完成外观设计 预计2027年量产",
+      "title_bilingual": "玛莎拉蒂国产电动车完成外观设计 预计2027年量产 / Maserati’s China-developed EV reportedly completes exterior design, production targeted for 2027",
+      "topic_tags": [
+        "新能源"
+      ]
+    },
+    {
       "id": "893a0de23f7bc9ae605dd9c3c5c43736d92e5e36",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -77,7 +286,7 @@
       "url": "https://carnewschina.com/2026/11/09/teslas-china-sales-fall-to-8800-in-october-the-lowest-since-july-2022-as-exports-surge",
       "published_at": "2026-11-09T08:12:35Z",
       "first_seen_at": "2026-11-09T08:23:40.934304Z",
-      "last_seen_at": "2026-11-09T08:23:40.934304Z",
+      "last_seen_at": "2026-11-09T18:59:45.474013Z",
       "title_original": "Tesla’s China sales fall to 8,800 in October, the lowest since July 2022, as exports surge",
       "title_en": "Tesla’s China sales fall to 8,800 in October, the lowest since July 2022, as exports surge",
       "title_zh": "出口激增 特斯拉10月中国销量跌至8800辆 创2022年7月以来最低",
@@ -97,7 +306,7 @@
       "url": "https://cnevpost.com/2026/11/09/china-oct-2026-nev-retail-sales-cpca",
       "published_at": "2026-11-09T07:46:03Z",
       "first_seen_at": "2026-11-09T08:23:40.934304Z",
-      "last_seen_at": "2026-11-09T08:23:40.934304Z",
+      "last_seen_at": "2026-11-09T18:59:45.474013Z",
       "title_original": "China October NEV retail sales fall 13.7% as penetration hits record 67.5%, CPCA data shows",
       "title_en": "China October NEV retail sales fall 13.7% as penetration hits record 67.5%, CPCA data shows",
       "title_zh": "CPCA数据显示，中国10月新能源汽车零售量下降13.7%，渗透率创历史新高67.5%",
@@ -116,7 +325,7 @@
       "url": "https://cnevpost.com/2026/11/09/maserati-partner-with-maextro-localized-production-china",
       "published_at": "2026-11-09T06:50:47Z",
       "first_seen_at": "2026-11-09T08:23:40.934304Z",
-      "last_seen_at": "2026-11-09T08:23:40.934304Z",
+      "last_seen_at": "2026-11-09T18:59:45.474013Z",
       "title_original": "Maserati reportedly to partner with Maextro on localized production in China",
       "title_en": "Maserati reportedly to partner with Maextro on localized production in China",
       "title_zh": "据报道，玛莎拉蒂将与 Maextro 合作在中国进行本地化生产",
@@ -134,7 +343,7 @@
       "url": "https://carnewschina.com/2026/11/09/geely-boss-warns-of-ev-battery-lifespan-crisis-direct-pack-replacement-is-too-expensive",
       "published_at": "2026-11-09T06:41:09Z",
       "first_seen_at": "2026-11-09T08:23:40.934304Z",
-      "last_seen_at": "2026-11-09T08:23:40.934304Z",
+      "last_seen_at": "2026-11-09T18:59:45.474013Z",
       "title_original": "Geely boss warns of EV battery lifespan crisis: “direct pack replacement is too expensive”",
       "title_en": "Geely boss warns of EV battery lifespan crisis: “direct pack replacement is too expensive”",
       "title_zh": "吉利老板警告电动汽车电池寿命危机：“直接更换电池组太贵”",
@@ -154,7 +363,7 @@
       "url": "https://cnevpost.com/2026/11/09/tesla-retail-sales-china-oct-2026",
       "published_at": "2026-11-09T06:23:10Z",
       "first_seen_at": "2026-11-09T08:23:40.934304Z",
-      "last_seen_at": "2026-11-09T08:23:40.934304Z",
+      "last_seen_at": "2026-11-09T18:59:45.474013Z",
       "title_original": "Tesla retail sales in China fall to lowest since July 2022 as export share hits record",
       "title_en": "Tesla retail sales in China fall to lowest since July 2022 as export share hits record",
       "title_zh": "出口份额创历史新高 特斯拉在华零售额跌至2022年7月以来最低",
@@ -174,7 +383,7 @@
       "url": "https://cnevpost.com/2026/11/09/maextro-may-launch-sub-brand-suvs",
       "published_at": "2026-11-09T05:06:50Z",
       "first_seen_at": "2026-11-09T08:23:40.934304Z",
-      "last_seen_at": "2026-11-09T08:23:40.934304Z",
+      "last_seen_at": "2026-11-09T18:59:45.474013Z",
       "title_original": "Huawei-backed Maextro may launch new sub-brand focused on SUVs",
       "title_en": "Huawei-backed Maextro may launch new sub-brand focused on SUVs",
       "title_zh": "华为支持的Maextro可能推出专注于SUV的新子品牌",
@@ -193,7 +402,7 @@
       "url": "https://carnewschina.com/2026/11/09/bmw-to-launch-all-new-ix3-and-i3-in-china-this-month",
       "published_at": "2026-11-09T04:03:17Z",
       "first_seen_at": "2026-11-09T08:23:40.934304Z",
-      "last_seen_at": "2026-11-09T08:23:40.934304Z",
+      "last_seen_at": "2026-11-09T18:59:45.474013Z",
       "title_original": "BMW to launch all-new iX3 and i3 in China this month",
       "title_en": "BMW to launch all-new iX3 and i3 in China this month",
       "title_zh": "宝马将于本月在中国推出全新iX3和i3",
@@ -212,7 +421,7 @@
       "url": "https://cnevpost.com/2026/11/09/dongfeng-nissan-nx7-debut-nov-13",
       "published_at": "2026-11-09T03:48:06Z",
       "first_seen_at": "2026-11-09T08:23:40.934304Z",
-      "last_seen_at": "2026-11-09T08:23:40.934304Z",
+      "last_seen_at": "2026-11-09T18:59:45.474013Z",
       "title_original": "Dongfeng Nissan sets NX7 debut in for November 13, pre-sales to open same day",
       "title_en": "Dongfeng Nissan sets NX7 debut in for November 13, pre-sales to open same day",
       "title_zh": "东风日产NX7将于11月13日首发，同日开启预售",
@@ -231,7 +440,7 @@
       "url": "https://cnevpost.com/2026/11/09/bmw-neue-klasse-ix3-i3-launches-china-nov",
       "published_at": "2026-11-09T03:01:54Z",
       "first_seen_at": "2026-11-09T08:23:40.934304Z",
-      "last_seen_at": "2026-11-09T08:23:40.934304Z",
+      "last_seen_at": "2026-11-09T18:59:45.474013Z",
       "title_original": "BMW advances Neue Klasse roll-out in China with iX3 and i3 launches this month",
       "title_en": "BMW advances Neue Klasse roll-out in China with iX3 and i3 launches this month",
       "title_zh": "宝马本月推出 iX3 和 i3，推进 Neue Klasse 在中国的推广",
@@ -250,7 +459,7 @@
       "url": "http://vc.yiche.com/vplay/14054098.html",
       "published_at": null,
       "first_seen_at": "2026-11-08T21:17:28.349091Z",
-      "last_seen_at": "2026-11-09T08:23:40.934304Z",
+      "last_seen_at": "2026-11-09T18:59:45.474013Z",
       "title_original": "便宜10万的小米SU7平替！吉利银河TT体验如何？",
       "title_en": null,
       "title_zh": "便宜10万的小米SU7平替！吉利银河TT体验如何？",
@@ -269,207 +478,235 @@
       "url": "http://vc.yiche.com/vplay/14049016.html",
       "published_at": null,
       "first_seen_at": "2026-11-08T21:17:28.349091Z",
-      "last_seen_at": "2026-11-09T08:23:40.934304Z",
+      "last_seen_at": "2026-11-09T18:59:45.474013Z",
       "title_original": "星愿10月销量7.13万辆，累计破百万",
       "title_en": null,
       "title_zh": "星愿10月销量7.13万辆，累计破百万",
       "title_bilingual": "星愿10月销量7.13万辆，累计破百万",
       "topic_tags": [
         "销量市场"
-      ]
-    },
-    {
-      "id": "bd9192babc83acb1b54d8bf579ff48e4d48fbac6",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "贴合家用的需求 极氪7x提车分享记",
-      "url": "https://club.autohome.com.cn/bbs/thread/94eeeb59da241d79/116597671-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-11-08T17:11:02.770175Z",
-      "last_seen_at": "2026-11-09T08:23:40.934304Z",
-      "title_original": "贴合家用的需求 极氪7x提车分享记",
-      "title_en": null,
-      "title_zh": "贴合家用的需求 极氪7x提车分享记",
-      "title_bilingual": "贴合家用的需求 极氪7x提车分享记",
-      "topic_tags": [
-        "车企竞争",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "5ca3472f83ebfab5c6825ea1e497b811ebf5ca10",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "多方比较选择 零跑C10提车作业分享",
-      "url": "https://club.autohome.com.cn/bbs/thread/c95acd24be6e5efa/116596898-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-11-08T17:11:02.770175Z",
-      "last_seen_at": "2026-11-09T08:23:40.934304Z",
-      "title_original": "多方比较选择 零跑C10提车作业分享",
-      "title_en": null,
-      "title_zh": "多方比较选择 零跑C10提车作业分享",
-      "title_bilingual": "多方比较选择 零跑C10提车作业分享",
-      "topic_tags": [
-        "车企竞争",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "3c40fbc456e92569e0ecb2ac3e9519700fdb0b27",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "天元智驾搭载Momenta R7挑战重庆",
-      "url": "https://club.autohome.com.cn/bbs/thread/395afe04452b6810/116592921-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-11-08T17:11:02.770175Z",
-      "last_seen_at": "2026-11-09T08:23:40.934304Z",
-      "title_original": "天元智驾搭载Momenta R7挑战重庆",
-      "title_en": null,
-      "title_zh": "天元智驾搭载Momenta R7挑战重庆",
-      "title_bilingual": "天元智驾搭载Momenta R7挑战重庆",
-      "topic_tags": [
-        "智能驾驶"
-      ]
-    },
-    {
-      "id": "9ed7f2b8e78a7a5b9b5e8b9bbfdc3508209c5240",
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "hackernews",
-      "title": "Tesla Hasn't Had a Successful New Product Launch Since JB Straubel Stepped Down",
-      "url": "https://news.ycombinator.com/item?id=50414427",
-      "published_at": "2026-11-08T16:07:42Z",
-      "first_seen_at": "2026-11-08T17:11:02.770175Z",
-      "last_seen_at": "2026-11-08T17:11:02.770175Z",
-      "title_original": "Tesla Hasn't Had a Successful New Product Launch Since JB Straubel Stepped Down",
-      "title_en": "Tesla Hasn't Had a Successful New Product Launch Since JB Straubel Stepped Down",
-      "title_zh": "自从 JB Straubel 下台以来，特斯拉还没有成功推出过新产品",
-      "title_bilingual": "自从 JB Straubel 下台以来，特斯拉还没有成功推出过新产品 / Tesla Hasn't Had a Successful New Product Launch Since JB Straubel Stepped Down",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "2d6c7625c87458106f61b52c83f7d9f2d7378f63",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "懂车帝 · 文章排行榜",
-      "title": "2026款传祺向往E8 PHEV日常实用性测试报告",
-      "url": "https://www.dongchedi.com/article/7704867987819807257",
-      "published_at": null,
-      "first_seen_at": "2026-11-08T11:26:23.544568Z",
-      "last_seen_at": "2026-11-09T08:23:40.934304Z",
-      "title_original": "2026款传祺向往E8 PHEV日常实用性测试报告",
-      "title_en": null,
-      "title_zh": "2026款传祺向往E8 PHEV日常实用性测试报告",
-      "title_bilingual": "2026款传祺向往E8 PHEV日常实用性测试报告",
-      "topic_tags": [
-        "新能源",
-        "召回安全"
-      ]
-    },
-    {
-      "id": "ada25dbb6e0db7274beb18758ddd25119cf15789",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "懂车帝 · 文章排行榜",
-      "title": "为什么说买油车要加预算，买电车要减预算",
-      "url": "https://www.dongchedi.com/article/7704253409524580888",
-      "published_at": null,
-      "first_seen_at": "2026-11-08T11:26:23.544568Z",
-      "last_seen_at": "2026-11-09T08:23:40.934304Z",
-      "title_original": "为什么说买油车要加预算，买电车要减预算",
-      "title_en": null,
-      "title_zh": "为什么说买油车要加预算，买电车要减预算",
-      "title_bilingual": "为什么说买油车要加预算，买电车要减预算",
-      "topic_tags": [
-        "新能源",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "105975b3b4c66e15eda2d77dc554f9c9aebc3fd9",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "懂车帝 · 文章排行榜",
-      "title": "技术集大成的全能家轿 试驾比亚迪海豹08EV",
-      "url": "https://www.dongchedi.com/article/7703753529853018649",
-      "published_at": null,
-      "first_seen_at": "2026-11-08T11:26:23.544568Z",
-      "last_seen_at": "2026-11-09T08:23:40.934304Z",
-      "title_original": "技术集大成的全能家轿 试驾比亚迪海豹08EV",
-      "title_en": null,
-      "title_zh": "技术集大成的全能家轿 试驾比亚迪海豹08EV",
-      "title_bilingual": "技术集大成的全能家轿 试驾比亚迪海豹08EV",
-      "topic_tags": [
-        "车企竞争",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "fb7088cb101f6ec6ddd0bad74472e0784b3f2f17",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "懂车帝 · 文章排行榜",
-      "title": "探店上汽大众ID.ERA 8X：德系底盘打底 智驾兼顾稳与灵活",
-      "url": "https://www.dongchedi.com/article/7704977009831035454",
-      "published_at": null,
-      "first_seen_at": "2026-11-08T11:26:23.544568Z",
-      "last_seen_at": "2026-11-09T08:23:40.934304Z",
-      "title_original": "探店上汽大众ID.ERA 8X：德系底盘打底 智驾兼顾稳与灵活",
-      "title_en": null,
-      "title_zh": "探店上汽大众ID.ERA 8X：德系底盘打底 智驾兼顾稳与灵活",
-      "title_bilingual": "探店上汽大众ID.ERA 8X：德系底盘打底 智驾兼顾稳与灵活",
-      "topic_tags": [
-        "智能驾驶",
-        "车企竞争",
-        "供应链"
-      ]
-    },
-    {
-      "id": "a4f2f661f388bd039ee29d0ada2c29c58df4c36f",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "懂车帝 · 文章排行榜",
-      "title": "新车入手就折旧 二手车交易量却上升，消费者买车要看保值率吗？",
-      "url": "https://www.dongchedi.com/article/7704963464326005310",
-      "published_at": null,
-      "first_seen_at": "2026-11-08T11:26:23.544568Z",
-      "last_seen_at": "2026-11-09T08:23:40.934304Z",
-      "title_original": "新车入手就折旧 二手车交易量却上升，消费者买车要看保值率吗？",
-      "title_en": null,
-      "title_zh": "新车入手就折旧 二手车交易量却上升，消费者买车要看保值率吗？",
-      "title_bilingual": "新车入手就折旧 二手车交易量却上升，消费者买车要看保值率吗？",
-      "topic_tags": [
-        "购车决策",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "5e9e624cdddccc2413c8078f0b687a26f3bc6d00",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "懂车帝 · 文章排行榜",
-      "title": "2026款比亚迪海豹08EV新车商品性评价",
-      "url": "https://www.dongchedi.com/article/7704988404593639961",
-      "published_at": null,
-      "first_seen_at": "2026-11-08T11:26:23.544568Z",
-      "last_seen_at": "2026-11-09T08:23:40.934304Z",
-      "title_original": "2026款比亚迪海豹08EV新车商品性评价",
-      "title_en": null,
-      "title_zh": "2026款比亚迪海豹08EV新车商品性评价",
-      "title_bilingual": "2026款比亚迪海豹08EV新车商品性评价",
-      "topic_tags": [
-        "车企竞争",
-        "新车上市"
       ]
     }
   ],
   "items_ai": [
     {
+      "id": "7780517c1b58a56223f10c810b913ed0cd7d254d",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "底盘质感优秀 奥迪E7X提车作业分享",
+      "url": "https://i.autohome.com.cn/236932750",
+      "published_at": null,
+      "first_seen_at": "2026-11-09T18:59:45.474013Z",
+      "last_seen_at": "2026-11-09T18:59:45.474013Z",
+      "title_original": "底盘质感优秀 奥迪E7X提车作业分享",
+      "title_en": null,
+      "title_zh": "底盘质感优秀 奥迪E7X提车作业分享",
+      "title_bilingual": "底盘质感优秀 奥迪E7X提车作业分享",
+      "topic_tags": [
+        "车企竞争",
+        "供应链",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "eeefbbe491b7219f6ba71c9949d4c14bcb75e69d",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "没有续航焦虑 问界M6增程版提车分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/3055960c82bfb66d/116606527-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-09T18:59:45.474013Z",
+      "last_seen_at": "2026-11-09T18:59:45.474013Z",
+      "title_original": "没有续航焦虑 问界M6增程版提车分享",
+      "title_en": null,
+      "title_zh": "没有续航焦虑 问界M6增程版提车分享",
+      "title_bilingual": "没有续航焦虑 问界M6增程版提车分享",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "d6b436f6e185c4c66bb25594125cfa3a557c003d",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "长续航不焦虑 Model Y提车作业分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/180eea5903ff98de/116605553-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-09T18:59:45.474013Z",
+      "last_seen_at": "2026-11-09T18:59:45.474013Z",
+      "title_original": "长续航不焦虑 Model Y提车作业分享",
+      "title_en": null,
+      "title_zh": "长续航不焦虑 Model Y提车作业分享",
+      "title_bilingual": "长续航不焦虑 Model Y提车作业分享",
+      "topic_tags": [
+        "补能电池",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "6b042d7d49f6accf07ab9c1a71eb8f96b2779ac5",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "汽车之家 · 论坛精选日报",
+      "title": "用车开销很低 长安启源Q06提车分享",
+      "url": "https://club.autohome.com.cn/bbs/thread/2c7a1077ce44e9f5/116602212-1.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-09T18:59:45.474013Z",
+      "last_seen_at": "2026-11-09T18:59:45.474013Z",
+      "title_original": "用车开销很低 长安启源Q06提车分享",
+      "title_en": null,
+      "title_zh": "用车开销很低 长安启源Q06提车分享",
+      "title_bilingual": "用车开销很低 长安启源Q06提车分享",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "8f8f5c4602e437e807c9bf2885e088e878da31de",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Nio flagship SUV ES9 nears 40,000 deliveries as large SUVs underpin brand sales",
+      "url": "https://cnevpost.com/2026/11/09/nio-es9-nears-40000-deliveries",
+      "published_at": "2026-11-09T13:55:19Z",
+      "first_seen_at": "2026-11-09T18:59:45.474013Z",
+      "last_seen_at": "2026-11-09T18:59:45.474013Z",
+      "title_original": "Nio flagship SUV ES9 nears 40,000 deliveries as large SUVs underpin brand sales",
+      "title_en": "Nio flagship SUV ES9 nears 40,000 deliveries as large SUVs underpin brand sales",
+      "title_zh": "蔚来旗舰SUV ES9交付量接近4万辆，大型SUV支撑品牌销量",
+      "title_bilingual": "蔚来旗舰SUV ES9交付量接近4万辆，大型SUV支撑品牌销量 / Nio flagship SUV ES9 nears 40,000 deliveries as large SUVs underpin brand sales",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "c9c523d9508b47d09825c0eaf3bc32fe69c6ad2a",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Nio October deliveries breakdown: ES8 falls to year-to-date low, still lead company sales",
+      "url": "https://cnevpost.com/2026/11/09/nio-oct-2026-deliveries-breakdown",
+      "published_at": "2026-11-09T13:29:42Z",
+      "first_seen_at": "2026-11-09T18:59:45.474013Z",
+      "last_seen_at": "2026-11-09T18:59:45.474013Z",
+      "title_original": "Nio October deliveries breakdown: ES8 falls to year-to-date low, still lead company sales",
+      "title_en": "Nio October deliveries breakdown: ES8 falls to year-to-date low, still lead company sales",
+      "title_zh": "蔚来10月交付量明细：ES8跌至今年以来新低，仍领先公司销量",
+      "title_bilingual": "蔚来10月交付量明细：ES8跌至今年以来新低，仍领先公司销量 / Nio October deliveries breakdown: ES8 falls to year-to-date low, still lead company sales",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "c722a6952db3c4216b6cb132ac466968b600f242",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Xiaomi delivers 50,168 cars in October as EREVs account for over half of total",
+      "url": "https://cnevpost.com/2026/11/09/xiaomi-deliveries-oct-2026-erevs-half-total",
+      "published_at": "2026-11-09T11:22:18Z",
+      "first_seen_at": "2026-11-09T18:59:45.474013Z",
+      "last_seen_at": "2026-11-09T18:59:45.474013Z",
+      "title_original": "Xiaomi delivers 50,168 cars in October as EREVs account for over half of total",
+      "title_en": "Xiaomi delivers 50,168 cars in October as EREVs account for over half of total",
+      "title_zh": "小米10月交付汽车50,168辆 增程式电动车占比过半",
+      "title_bilingual": "小米10月交付汽车50,168辆 增程式电动车占比过半 / Xiaomi delivers 50,168 cars in October as EREVs account for over half of total",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "3e0ed8564f9f3fdc18849bee74d3db6d3b5507ad",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "BYD offices raided over allegations Ti7 SUV copied the Land Rover Defender",
+      "url": "https://carnewschina.com/2026/11/09/byd-offices-raided-over-allegations-ti7-suv-copied-the-land-rover-defender",
+      "published_at": "2026-11-09T11:22:02Z",
+      "first_seen_at": "2026-11-09T18:59:45.474013Z",
+      "last_seen_at": "2026-11-09T18:59:45.474013Z",
+      "title_original": "BYD offices raided over allegations Ti7 SUV copied the Land Rover Defender",
+      "title_en": "BYD offices raided over allegations Ti7 SUV copied the Land Rover Defender",
+      "title_zh": "比亚迪办公室因涉嫌Ti7 SUV抄袭路虎卫士遭突击搜查",
+      "title_bilingual": "比亚迪办公室因涉嫌Ti7 SUV抄袭路虎卫士遭突击搜查 / BYD offices raided over allegations Ti7 SUV copied the Land Rover Defender",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "c9efd89810f01a4d77f6ec6e6568dc587078e41e",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "BYD debuts 1,000 kW robotic EV charger with fully automated plug-in in UAE [Video]",
+      "url": "https://carnewschina.com/2026/11/09/byd-debuts-1000-kw-robotic-ev-charger-with-fully-automated-plug-in-in-uae-video",
+      "published_at": "2026-11-09T09:36:33Z",
+      "first_seen_at": "2026-11-09T18:59:45.474013Z",
+      "last_seen_at": "2026-11-09T18:59:45.474013Z",
+      "title_original": "BYD debuts 1,000 kW robotic EV charger with fully automated plug-in in UAE [Video]",
+      "title_en": "BYD debuts 1,000 kW robotic EV charger with fully automated plug-in in UAE [Video]",
+      "title_zh": "比亚迪在阿联酋推出带有全自动插件的 1,000 kW 机器人电动汽车充电器 [视频]",
+      "title_bilingual": "比亚迪在阿联酋推出带有全自动插件的 1,000 kW 机器人电动汽车充电器 [视频] / BYD debuts 1,000 kW robotic EV charger with fully automated plug-in in UAE [Video]",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "a0fecc8e11657b736eaf334ce2f043bda233d7ef",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "BYD reaches 19 million NEV production milestone as Fang Cheng Bao opens Tai 9 reservations",
+      "url": "https://cnevpost.com/2026/11/09/byd-19-million-nev-production-fang-cheng-bao-tai-9-reservations",
+      "published_at": "2026-11-09T09:15:03Z",
+      "first_seen_at": "2026-11-09T18:59:45.474013Z",
+      "last_seen_at": "2026-11-09T18:59:45.474013Z",
+      "title_original": "BYD reaches 19 million NEV production milestone as Fang Cheng Bao opens Tai 9 reservations",
+      "title_en": "BYD reaches 19 million NEV production milestone as Fang Cheng Bao opens Tai 9 reservations",
+      "title_zh": "比亚迪新能源汽车产量突破1900万辆 方成宝太9开放预订",
+      "title_bilingual": "比亚迪新能源汽车产量突破1900万辆 方成宝太9开放预订 / BYD reaches 19 million NEV production milestone as Fang Cheng Bao opens Tai 9 reservations",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "66ca0c1a29fa8ba08eecdc9deb5986c30f260fb7",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Maserati’s China-developed EV reportedly completes exterior design, production targeted for 2027",
+      "url": "https://carnewschina.com/2026/11/09/maseratis-china-developed-ev-reportedly-completes-exterior-design-production-targeted-for-2027",
+      "published_at": "2026-11-09T09:05:49Z",
+      "first_seen_at": "2026-11-09T18:59:45.474013Z",
+      "last_seen_at": "2026-11-09T18:59:45.474013Z",
+      "title_original": "Maserati’s China-developed EV reportedly completes exterior design, production targeted for 2027",
+      "title_en": "Maserati’s China-developed EV reportedly completes exterior design, production targeted for 2027",
+      "title_zh": "玛莎拉蒂国产电动车完成外观设计 预计2027年量产",
+      "title_bilingual": "玛莎拉蒂国产电动车完成外观设计 预计2027年量产 / Maserati’s China-developed EV reportedly completes exterior design, production targeted for 2027",
+      "topic_tags": [
+        "新能源"
+      ]
+    },
+    {
       "id": "893a0de23f7bc9ae605dd9c3c5c43736d92e5e36",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -478,7 +715,7 @@
       "url": "https://carnewschina.com/2026/11/09/teslas-china-sales-fall-to-8800-in-october-the-lowest-since-july-2022-as-exports-surge",
       "published_at": "2026-11-09T08:12:35Z",
       "first_seen_at": "2026-11-09T08:23:40.934304Z",
-      "last_seen_at": "2026-11-09T08:23:40.934304Z",
+      "last_seen_at": "2026-11-09T18:59:45.474013Z",
       "title_original": "Tesla’s China sales fall to 8,800 in October, the lowest since July 2022, as exports surge",
       "title_en": "Tesla’s China sales fall to 8,800 in October, the lowest since July 2022, as exports surge",
       "title_zh": "出口激增 特斯拉10月中国销量跌至8800辆 创2022年7月以来最低",
@@ -498,7 +735,7 @@
       "url": "https://cnevpost.com/2026/11/09/china-oct-2026-nev-retail-sales-cpca",
       "published_at": "2026-11-09T07:46:03Z",
       "first_seen_at": "2026-11-09T08:23:40.934304Z",
-      "last_seen_at": "2026-11-09T08:23:40.934304Z",
+      "last_seen_at": "2026-11-09T18:59:45.474013Z",
       "title_original": "China October NEV retail sales fall 13.7% as penetration hits record 67.5%, CPCA data shows",
       "title_en": "China October NEV retail sales fall 13.7% as penetration hits record 67.5%, CPCA data shows",
       "title_zh": "CPCA数据显示，中国10月新能源汽车零售量下降13.7%，渗透率创历史新高67.5%",
@@ -517,7 +754,7 @@
       "url": "https://cnevpost.com/2026/11/09/maserati-partner-with-maextro-localized-production-china",
       "published_at": "2026-11-09T06:50:47Z",
       "first_seen_at": "2026-11-09T08:23:40.934304Z",
-      "last_seen_at": "2026-11-09T08:23:40.934304Z",
+      "last_seen_at": "2026-11-09T18:59:45.474013Z",
       "title_original": "Maserati reportedly to partner with Maextro on localized production in China",
       "title_en": "Maserati reportedly to partner with Maextro on localized production in China",
       "title_zh": "据报道，玛莎拉蒂将与 Maextro 合作在中国进行本地化生产",
@@ -535,7 +772,7 @@
       "url": "https://carnewschina.com/2026/11/09/geely-boss-warns-of-ev-battery-lifespan-crisis-direct-pack-replacement-is-too-expensive",
       "published_at": "2026-11-09T06:41:09Z",
       "first_seen_at": "2026-11-09T08:23:40.934304Z",
-      "last_seen_at": "2026-11-09T08:23:40.934304Z",
+      "last_seen_at": "2026-11-09T18:59:45.474013Z",
       "title_original": "Geely boss warns of EV battery lifespan crisis: “direct pack replacement is too expensive”",
       "title_en": "Geely boss warns of EV battery lifespan crisis: “direct pack replacement is too expensive”",
       "title_zh": "吉利老板警告电动汽车电池寿命危机：“直接更换电池组太贵”",
@@ -555,7 +792,7 @@
       "url": "https://cnevpost.com/2026/11/09/tesla-retail-sales-china-oct-2026",
       "published_at": "2026-11-09T06:23:10Z",
       "first_seen_at": "2026-11-09T08:23:40.934304Z",
-      "last_seen_at": "2026-11-09T08:23:40.934304Z",
+      "last_seen_at": "2026-11-09T18:59:45.474013Z",
       "title_original": "Tesla retail sales in China fall to lowest since July 2022 as export share hits record",
       "title_en": "Tesla retail sales in China fall to lowest since July 2022 as export share hits record",
       "title_zh": "出口份额创历史新高 特斯拉在华零售额跌至2022年7月以来最低",
@@ -575,7 +812,7 @@
       "url": "https://cnevpost.com/2026/11/09/maextro-may-launch-sub-brand-suvs",
       "published_at": "2026-11-09T05:06:50Z",
       "first_seen_at": "2026-11-09T08:23:40.934304Z",
-      "last_seen_at": "2026-11-09T08:23:40.934304Z",
+      "last_seen_at": "2026-11-09T18:59:45.474013Z",
       "title_original": "Huawei-backed Maextro may launch new sub-brand focused on SUVs",
       "title_en": "Huawei-backed Maextro may launch new sub-brand focused on SUVs",
       "title_zh": "华为支持的Maextro可能推出专注于SUV的新子品牌",
@@ -594,7 +831,7 @@
       "url": "https://carnewschina.com/2026/11/09/bmw-to-launch-all-new-ix3-and-i3-in-china-this-month",
       "published_at": "2026-11-09T04:03:17Z",
       "first_seen_at": "2026-11-09T08:23:40.934304Z",
-      "last_seen_at": "2026-11-09T08:23:40.934304Z",
+      "last_seen_at": "2026-11-09T18:59:45.474013Z",
       "title_original": "BMW to launch all-new iX3 and i3 in China this month",
       "title_en": "BMW to launch all-new iX3 and i3 in China this month",
       "title_zh": "宝马将于本月在中国推出全新iX3和i3",
@@ -613,7 +850,7 @@
       "url": "https://cnevpost.com/2026/11/09/dongfeng-nissan-nx7-debut-nov-13",
       "published_at": "2026-11-09T03:48:06Z",
       "first_seen_at": "2026-11-09T08:23:40.934304Z",
-      "last_seen_at": "2026-11-09T08:23:40.934304Z",
+      "last_seen_at": "2026-11-09T18:59:45.474013Z",
       "title_original": "Dongfeng Nissan sets NX7 debut in for November 13, pre-sales to open same day",
       "title_en": "Dongfeng Nissan sets NX7 debut in for November 13, pre-sales to open same day",
       "title_zh": "东风日产NX7将于11月13日首发，同日开启预售",
@@ -632,7 +869,7 @@
       "url": "https://cnevpost.com/2026/11/09/bmw-neue-klasse-ix3-i3-launches-china-nov",
       "published_at": "2026-11-09T03:01:54Z",
       "first_seen_at": "2026-11-09T08:23:40.934304Z",
-      "last_seen_at": "2026-11-09T08:23:40.934304Z",
+      "last_seen_at": "2026-11-09T18:59:45.474013Z",
       "title_original": "BMW advances Neue Klasse roll-out in China with iX3 and i3 launches this month",
       "title_en": "BMW advances Neue Klasse roll-out in China with iX3 and i3 launches this month",
       "title_zh": "宝马本月推出 iX3 和 i3，推进 Neue Klasse 在中国的推广",
@@ -651,7 +888,7 @@
       "url": "http://vc.yiche.com/vplay/14054098.html",
       "published_at": null,
       "first_seen_at": "2026-11-08T21:17:28.349091Z",
-      "last_seen_at": "2026-11-09T08:23:40.934304Z",
+      "last_seen_at": "2026-11-09T18:59:45.474013Z",
       "title_original": "便宜10万的小米SU7平替！吉利银河TT体验如何？",
       "title_en": null,
       "title_zh": "便宜10万的小米SU7平替！吉利银河TT体验如何？",
@@ -670,202 +907,13 @@
       "url": "http://vc.yiche.com/vplay/14049016.html",
       "published_at": null,
       "first_seen_at": "2026-11-08T21:17:28.349091Z",
-      "last_seen_at": "2026-11-09T08:23:40.934304Z",
+      "last_seen_at": "2026-11-09T18:59:45.474013Z",
       "title_original": "星愿10月销量7.13万辆，累计破百万",
       "title_en": null,
       "title_zh": "星愿10月销量7.13万辆，累计破百万",
       "title_bilingual": "星愿10月销量7.13万辆，累计破百万",
       "topic_tags": [
         "销量市场"
-      ]
-    },
-    {
-      "id": "bd9192babc83acb1b54d8bf579ff48e4d48fbac6",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "贴合家用的需求 极氪7x提车分享记",
-      "url": "https://club.autohome.com.cn/bbs/thread/94eeeb59da241d79/116597671-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-11-08T17:11:02.770175Z",
-      "last_seen_at": "2026-11-09T08:23:40.934304Z",
-      "title_original": "贴合家用的需求 极氪7x提车分享记",
-      "title_en": null,
-      "title_zh": "贴合家用的需求 极氪7x提车分享记",
-      "title_bilingual": "贴合家用的需求 极氪7x提车分享记",
-      "topic_tags": [
-        "车企竞争",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "5ca3472f83ebfab5c6825ea1e497b811ebf5ca10",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "多方比较选择 零跑C10提车作业分享",
-      "url": "https://club.autohome.com.cn/bbs/thread/c95acd24be6e5efa/116596898-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-11-08T17:11:02.770175Z",
-      "last_seen_at": "2026-11-09T08:23:40.934304Z",
-      "title_original": "多方比较选择 零跑C10提车作业分享",
-      "title_en": null,
-      "title_zh": "多方比较选择 零跑C10提车作业分享",
-      "title_bilingual": "多方比较选择 零跑C10提车作业分享",
-      "topic_tags": [
-        "车企竞争",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "3c40fbc456e92569e0ecb2ac3e9519700fdb0b27",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "汽车之家 · 论坛精选日报",
-      "title": "天元智驾搭载Momenta R7挑战重庆",
-      "url": "https://club.autohome.com.cn/bbs/thread/395afe04452b6810/116592921-1.html",
-      "published_at": null,
-      "first_seen_at": "2026-11-08T17:11:02.770175Z",
-      "last_seen_at": "2026-11-09T08:23:40.934304Z",
-      "title_original": "天元智驾搭载Momenta R7挑战重庆",
-      "title_en": null,
-      "title_zh": "天元智驾搭载Momenta R7挑战重庆",
-      "title_bilingual": "天元智驾搭载Momenta R7挑战重庆",
-      "topic_tags": [
-        "智能驾驶"
-      ]
-    },
-    {
-      "id": "9ed7f2b8e78a7a5b9b5e8b9bbfdc3508209c5240",
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "hackernews",
-      "title": "Tesla Hasn't Had a Successful New Product Launch Since JB Straubel Stepped Down",
-      "url": "https://news.ycombinator.com/item?id=50414427",
-      "published_at": "2026-11-08T16:07:42Z",
-      "first_seen_at": "2026-11-08T17:11:02.770175Z",
-      "last_seen_at": "2026-11-08T17:11:02.770175Z",
-      "title_original": "Tesla Hasn't Had a Successful New Product Launch Since JB Straubel Stepped Down",
-      "title_en": "Tesla Hasn't Had a Successful New Product Launch Since JB Straubel Stepped Down",
-      "title_zh": "自从 JB Straubel 下台以来，特斯拉还没有成功推出过新产品",
-      "title_bilingual": "自从 JB Straubel 下台以来，特斯拉还没有成功推出过新产品 / Tesla Hasn't Had a Successful New Product Launch Since JB Straubel Stepped Down",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "2d6c7625c87458106f61b52c83f7d9f2d7378f63",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "懂车帝 · 文章排行榜",
-      "title": "2026款传祺向往E8 PHEV日常实用性测试报告",
-      "url": "https://www.dongchedi.com/article/7704867987819807257",
-      "published_at": null,
-      "first_seen_at": "2026-11-08T11:26:23.544568Z",
-      "last_seen_at": "2026-11-09T08:23:40.934304Z",
-      "title_original": "2026款传祺向往E8 PHEV日常实用性测试报告",
-      "title_en": null,
-      "title_zh": "2026款传祺向往E8 PHEV日常实用性测试报告",
-      "title_bilingual": "2026款传祺向往E8 PHEV日常实用性测试报告",
-      "topic_tags": [
-        "新能源",
-        "召回安全"
-      ]
-    },
-    {
-      "id": "ada25dbb6e0db7274beb18758ddd25119cf15789",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "懂车帝 · 文章排行榜",
-      "title": "为什么说买油车要加预算，买电车要减预算",
-      "url": "https://www.dongchedi.com/article/7704253409524580888",
-      "published_at": null,
-      "first_seen_at": "2026-11-08T11:26:23.544568Z",
-      "last_seen_at": "2026-11-09T08:23:40.934304Z",
-      "title_original": "为什么说买油车要加预算，买电车要减预算",
-      "title_en": null,
-      "title_zh": "为什么说买油车要加预算，买电车要减预算",
-      "title_bilingual": "为什么说买油车要加预算，买电车要减预算",
-      "topic_tags": [
-        "新能源",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "105975b3b4c66e15eda2d77dc554f9c9aebc3fd9",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "懂车帝 · 文章排行榜",
-      "title": "技术集大成的全能家轿 试驾比亚迪海豹08EV",
-      "url": "https://www.dongchedi.com/article/7703753529853018649",
-      "published_at": null,
-      "first_seen_at": "2026-11-08T11:26:23.544568Z",
-      "last_seen_at": "2026-11-09T08:23:40.934304Z",
-      "title_original": "技术集大成的全能家轿 试驾比亚迪海豹08EV",
-      "title_en": null,
-      "title_zh": "技术集大成的全能家轿 试驾比亚迪海豹08EV",
-      "title_bilingual": "技术集大成的全能家轿 试驾比亚迪海豹08EV",
-      "topic_tags": [
-        "车企竞争",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "fb7088cb101f6ec6ddd0bad74472e0784b3f2f17",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "懂车帝 · 文章排行榜",
-      "title": "探店上汽大众ID.ERA 8X：德系底盘打底 智驾兼顾稳与灵活",
-      "url": "https://www.dongchedi.com/article/7704977009831035454",
-      "published_at": null,
-      "first_seen_at": "2026-11-08T11:26:23.544568Z",
-      "last_seen_at": "2026-11-09T08:23:40.934304Z",
-      "title_original": "探店上汽大众ID.ERA 8X：德系底盘打底 智驾兼顾稳与灵活",
-      "title_en": null,
-      "title_zh": "探店上汽大众ID.ERA 8X：德系底盘打底 智驾兼顾稳与灵活",
-      "title_bilingual": "探店上汽大众ID.ERA 8X：德系底盘打底 智驾兼顾稳与灵活",
-      "topic_tags": [
-        "智能驾驶",
-        "车企竞争",
-        "供应链"
-      ]
-    },
-    {
-      "id": "a4f2f661f388bd039ee29d0ada2c29c58df4c36f",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "懂车帝 · 文章排行榜",
-      "title": "新车入手就折旧 二手车交易量却上升，消费者买车要看保值率吗？",
-      "url": "https://www.dongchedi.com/article/7704963464326005310",
-      "published_at": null,
-      "first_seen_at": "2026-11-08T11:26:23.544568Z",
-      "last_seen_at": "2026-11-09T08:23:40.934304Z",
-      "title_original": "新车入手就折旧 二手车交易量却上升，消费者买车要看保值率吗？",
-      "title_en": null,
-      "title_zh": "新车入手就折旧 二手车交易量却上升，消费者买车要看保值率吗？",
-      "title_bilingual": "新车入手就折旧 二手车交易量却上升，消费者买车要看保值率吗？",
-      "topic_tags": [
-        "购车决策",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "5e9e624cdddccc2413c8078f0b687a26f3bc6d00",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "懂车帝 · 文章排行榜",
-      "title": "2026款比亚迪海豹08EV新车商品性评价",
-      "url": "https://www.dongchedi.com/article/7704988404593639961",
-      "published_at": null,
-      "first_seen_at": "2026-11-08T11:26:23.544568Z",
-      "last_seen_at": "2026-11-09T08:23:40.934304Z",
-      "title_original": "2026款比亚迪海豹08EV新车商品性评价",
-      "title_en": null,
-      "title_zh": "2026款比亚迪海豹08EV新车商品性评价",
-      "title_bilingual": "2026款比亚迪海豹08EV新车商品性评价",
-      "topic_tags": [
-        "车企竞争",
-        "新车上市"
       ]
     }
   ],
