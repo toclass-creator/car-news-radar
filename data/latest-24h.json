@@ -1,78 +1,189 @@
 {
-  "generated_at": "2026-11-13T10:29:58.974803Z",
+  "generated_at": "2026-11-13T17:59:27.088572Z",
   "window_hours": 24,
-  "total_items": 45,
-  "total_items_ai_raw": 46,
-  "total_items_raw": 2623,
-  "total_items_all_mode": 2335,
+  "total_items": 28,
+  "total_items_ai_raw": 30,
+  "total_items_raw": 2586,
+  "total_items_all_mode": 2321,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 52742,
+  "archive_total": 52997,
   "site_count": 3,
-  "source_count": 11,
+  "source_count": 10,
   "site_stats": [
     {
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "count": 39,
-      "raw_count": 40
+      "count": 22,
+      "raw_count": 24
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "count": 5,
-      "raw_count": 2459
+      "raw_count": 2444
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "count": 1,
-      "raw_count": 124
+      "raw_count": 118
     }
   ],
   "topic_tag_stats": [
     {
-      "tag": "车企竞争",
-      "count": 23
+      "tag": "新能源",
+      "count": 16
     },
     {
-      "tag": "新能源",
-      "count": 20
+      "tag": "车企竞争",
+      "count": 14
     },
     {
       "tag": "新车上市",
-      "count": 12
-    },
-    {
-      "tag": "销量市场",
       "count": 8
     },
     {
       "tag": "补能电池",
-      "count": 7
+      "count": 5
     },
     {
-      "tag": "供应链",
+      "tag": "销量市场",
       "count": 4
     },
     {
-      "tag": "价格战",
-      "count": 2
-    },
-    {
-      "tag": "智能驾驶",
-      "count": 2
-    },
-    {
       "tag": "购车决策",
-      "count": 2
+      "count": 3
     },
     {
       "tag": "召回安全",
+      "count": 2
+    },
+    {
+      "tag": "价格战",
+      "count": 1
+    },
+    {
+      "tag": "供应链",
       "count": 1
     }
   ],
   "items": [
     {
+      "id": "d483d9ae8ee1d4c436a71057a1a154f384252e8a",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-Battery",
+      "title": "CATL targets 6,000 passenger car battery swap stations in 2027, potentially overtaking Nio",
+      "url": "https://cnevpost.com/2026/11/13/catl-targets-6000-passenger-car-swap-stations-2027",
+      "published_at": "2026-11-13T13:24:43Z",
+      "first_seen_at": "2026-11-13T17:59:27.088572Z",
+      "last_seen_at": "2026-11-13T17:59:27.088572Z",
+      "title_original": "CATL targets 6,000 passenger car battery swap stations in 2027, potentially overtaking Nio",
+      "title_en": "CATL targets 6,000 passenger car battery swap stations in 2027, potentially overtaking Nio",
+      "title_zh": "宁德时代目标到2027年拥有6000个乘用车电池更换站，有望超越蔚来",
+      "title_bilingual": "宁德时代目标到2027年拥有6000个乘用车电池更换站，有望超越蔚来 / CATL targets 6,000 passenger car battery swap stations in 2027, potentially overtaking Nio",
+      "topic_tags": [
+        "补能电池",
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "b609fb0623d1486fd5dde900e425835b3c4e39d4",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Arcfox launches new battery-swappable Beta S3 and Beta T1 models",
+      "url": "https://carnewschina.com/2026/11/13/arcfox-launches-new-battery-swappable-beta-s3-and-beta-t1-models",
+      "published_at": "2026-11-13T13:04:30Z",
+      "first_seen_at": "2026-11-13T17:59:27.088572Z",
+      "last_seen_at": "2026-11-13T17:59:27.088572Z",
+      "title_original": "Arcfox launches new battery-swappable Beta S3 and Beta T1 models",
+      "title_en": "Arcfox launches new battery-swappable Beta S3 and Beta T1 models",
+      "title_zh": "Arcfox 推出新的可更换电池 Beta S3 和 Beta T1 型号",
+      "title_bilingual": "Arcfox 推出新的可更换电池 Beta S3 和 Beta T1 型号 / Arcfox launches new battery-swappable Beta S3 and Beta T1 models",
+      "topic_tags": [
+        "新能源",
+        "补能电池"
+      ]
+    },
+    {
+      "id": "3e1d59e67d37a0dafa4cc809481ef679c22fe5f8",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Nissan opens pre-sales for NX7, fourth N-series model in China, as it speeds up NEV roll-out",
+      "url": "https://cnevpost.com/2026/11/13/nissan-opens-pre-sales-nx7-china",
+      "published_at": "2026-11-13T12:25:06Z",
+      "first_seen_at": "2026-11-13T17:59:27.088572Z",
+      "last_seen_at": "2026-11-13T17:59:27.088572Z",
+      "title_original": "Nissan opens pre-sales for NX7, fourth N-series model in China, as it speeds up NEV roll-out",
+      "title_en": "Nissan opens pre-sales for NX7, fourth N-series model in China, as it speeds up NEV roll-out",
+      "title_zh": "日产N系列第四款车型NX7在中国开启预售，加速新能源汽车推广",
+      "title_bilingual": "日产N系列第四款车型NX7在中国开启预售，加速新能源汽车推广 / Nissan opens pre-sales for NX7, fourth N-series model in China, as it speeds up NEV roll-out",
+      "topic_tags": [
+        "新能源",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "031c4ecbe473517e9373f74bfe9a6ea18d02ff6a",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "BYD Seal 07 performs autonomous emergency steering at 130 km/h to avoid collision",
+      "url": "https://carnewschina.com/2026/11/13/byd-seal-07-performs-autonomous-emergency-steering-at-130-km-h-to-avoid-collision",
+      "published_at": "2026-11-13T12:21:33Z",
+      "first_seen_at": "2026-11-13T17:59:27.088572Z",
+      "last_seen_at": "2026-11-13T17:59:27.088572Z",
+      "title_original": "BYD Seal 07 performs autonomous emergency steering at 130 km/h to avoid collision",
+      "title_en": "BYD Seal 07 performs autonomous emergency steering at 130 km/h to avoid collision",
+      "title_zh": "比亚迪海豹07时速130公里自动紧急转向避免碰撞",
+      "title_bilingual": "比亚迪海豹07时速130公里自动紧急转向避免碰撞 / BYD Seal 07 performs autonomous emergency steering at 130 km/h to avoid collision",
+      "topic_tags": [
+        "新能源",
+        "召回安全",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "028b11953122945c68e7b39560908d5c26c2fc23",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Huawei-backed Aito launches updated M8 in first major release since Seres took brand leadership",
+      "url": "https://cnevpost.com/2026/11/13/aito-launches-updated-m8",
+      "published_at": "2026-11-13T11:47:06Z",
+      "first_seen_at": "2026-11-13T17:59:27.088572Z",
+      "last_seen_at": "2026-11-13T17:59:27.088572Z",
+      "title_original": "Huawei-backed Aito launches updated M8 in first major release since Seres took brand leadership",
+      "title_en": "Huawei-backed Aito launches updated M8 in first major release since Seres took brand leadership",
+      "title_zh": "华为支持的 Aito 推出更新版 M8，这是 Seres 取得品牌领导地位以来的首个主要版本",
+      "title_bilingual": "华为支持的 Aito 推出更新版 M8，这是 Seres 取得品牌领导地位以来的首个主要版本 / Huawei-backed Aito launches updated M8 in first major release since Seres took brand leadership",
+      "topic_tags": [
+        "新能源"
+      ]
+    },
+    {
+      "id": "478346e0415cb80bdf5e4090d51ff95d7fd8125b",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "BYD targets AI content farms as police detain three over alleged smear campaigns in China",
+      "url": "https://carnewschina.com/2026/11/13/byd-targets-ai-content-farms-as-police-detain-three-over-alleged-smear-campaigns",
+      "published_at": "2026-11-13T11:08:07Z",
+      "first_seen_at": "2026-11-13T17:59:27.088572Z",
+      "last_seen_at": "2026-11-13T17:59:27.088572Z",
+      "title_original": "BYD targets AI content farms as police detain three over alleged smear campaigns in China",
+      "title_en": "BYD targets AI content farms as police detain three over alleged smear campaigns in China",
+      "title_zh": "比亚迪瞄准人工智能内容农场，中国警方拘留了三名涉嫌诽谤的人",
+      "title_bilingual": "比亚迪瞄准人工智能内容农场，中国警方拘留了三名涉嫌诽谤的人 / BYD targets AI content farms as police detain three over alleged smear campaigns in China",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
       "id": "d22475654d7fbfb8041c6221d88d883ffea4851f",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -81,7 +192,7 @@
       "url": "https://www.dongchedi.com/article/7706720002699837976",
       "published_at": null,
       "first_seen_at": "2026-11-13T10:29:58.974803Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
+      "last_seen_at": "2026-11-13T17:59:27.088572Z",
       "title_original": "日常实用性测试横评：主流家用紧凑型SUV篇",
       "title_en": null,
       "title_zh": "日常实用性测试横评：主流家用紧凑型SUV篇",
@@ -101,7 +212,7 @@
       "url": "https://www.dongchedi.com/article/7706831895900078654",
       "published_at": null,
       "first_seen_at": "2026-11-13T10:29:58.974803Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
+      "last_seen_at": "2026-11-13T17:59:27.088572Z",
       "title_original": "比亚迪海豹05：遮风避雨代步通勤，六七万还能有啥？",
       "title_en": null,
       "title_zh": "比亚迪海豹05：遮风避雨代步通勤，六七万还能有啥？",
@@ -119,7 +230,7 @@
       "url": "https://cnevpost.com/2026/11/13/nio-phase-2-clean-parks-deal-undp",
       "published_at": "2026-11-13T10:29:14Z",
       "first_seen_at": "2026-11-13T10:29:58.974803Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
+      "last_seen_at": "2026-11-13T17:59:27.088572Z",
       "title_original": "Nio signs phase 2 Clean Parks deal with UNDP to expand low-carbon conservation efforts",
       "title_en": "Nio signs phase 2 Clean Parks deal with UNDP to expand low-carbon conservation efforts",
       "title_zh": "蔚来汽车与联合国开发计划署签署第二阶段清洁公园协议，以扩大低碳保护工作",
@@ -138,7 +249,7 @@
       "url": "https://cnevpost.com/2026/11/13/byd-fang-cheng-bao-launch-tai-9-nov-19",
       "published_at": "2026-11-13T08:40:19Z",
       "first_seen_at": "2026-11-13T10:29:58.974803Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
+      "last_seen_at": "2026-11-13T17:59:27.088572Z",
       "title_original": "BYD Fang Cheng Bao to launch its largest SUV Tai 9 on November 19",
       "title_en": "BYD Fang Cheng Bao to launch its largest SUV Tai 9 on November 19",
       "title_zh": "比亚迪方成宝旗下最大SUV太9将于11月19日上市",
@@ -158,7 +269,7 @@
       "url": "https://cnevpost.com/2026/11/13/xpeng-launches-mona-l03-g9l-uk",
       "published_at": "2026-11-13T08:04:48Z",
       "first_seen_at": "2026-11-13T10:29:58.974803Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
+      "last_seen_at": "2026-11-13T17:59:27.088572Z",
       "title_original": "Xpeng launches Mona L03 and G9L in UK, plans about 100 retail and service locations in 2027",
       "title_en": "Xpeng launches Mona L03 and G9L in UK, plans about 100 retail and service locations in 2027",
       "title_zh": "小鹏汽车在英国推出 Mona L03 和 G9L，计划 2027 年开设约 100 个零售和服务网点",
@@ -177,7 +288,7 @@
       "url": "https://cnevpost.com/2026/11/13/aistaland-adds-erev-variant-gt7",
       "published_at": "2026-11-13T06:03:18Z",
       "first_seen_at": "2026-11-13T10:29:58.974803Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
+      "last_seen_at": "2026-11-13T17:59:27.088572Z",
       "title_original": "GAC-Huawei brand Aistaland adds EREV variant to GT7 amid slow sales ramp-up",
       "title_en": "GAC-Huawei brand Aistaland adds EREV variant to GT7 amid slow sales ramp-up",
       "title_zh": "广汽华为品牌Aistaland在销量增长缓慢的情况下为GT7增加了EREV版本",
@@ -196,7 +307,7 @@
       "url": "https://cnevpost.com/2026/11/13/voyah-launches-2027-zhiyin-suv",
       "published_at": "2026-11-13T04:47:33Z",
       "first_seen_at": "2026-11-13T10:29:58.974803Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
+      "last_seen_at": "2026-11-13T17:59:27.088572Z",
       "title_original": "Voyah launches 2027 Zhiyin SUV with upgraded Huawei driver-assistance hardware",
       "title_en": "Voyah launches 2027 Zhiyin SUV with upgraded Huawei driver-assistance hardware",
       "title_zh": "Voyah推出2027款智银SUV，升级华为驾驶辅助硬件",
@@ -215,7 +326,7 @@
       "url": "https://cnevpost.com/2026/11/13/li-auto-i9-tops-10000-deliveries",
       "published_at": "2026-11-13T02:34:39Z",
       "first_seen_at": "2026-11-13T02:46:02.012737Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
+      "last_seen_at": "2026-11-13T17:59:27.088572Z",
       "title_original": "Li Auto's 6-seat electric flagship i9 tops 10,000 deliveries less than 2 months after launch",
       "title_en": "Li Auto's 6-seat electric flagship i9 tops 10,000 deliveries less than 2 months after launch",
       "title_zh": "理想汽车6座电动旗舰i9上市不到2个月销量突破1万辆",
@@ -236,7 +347,7 @@
       "url": "https://carnewschina.com/2026/11/13/byd-third-gen-tang-pre-sales-open-in-china-up-to-850-km-cltc-range-starting-at-33600-usd",
       "published_at": "2026-11-13T02:14:35Z",
       "first_seen_at": "2026-11-13T02:46:02.012737Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
+      "last_seen_at": "2026-11-13T17:59:27.088572Z",
       "title_original": "BYD third-gen Tang pre-sales open in China: up to 850 km CLTC range, starting at 33,600 USD",
       "title_en": "BYD third-gen Tang pre-sales open in China: up to 850 km CLTC range, starting at 33,600 USD",
       "title_zh": "比亚迪第三代唐在中国开启预售：CLTC续航里程可达850公里，起价33,600美元",
@@ -257,7 +368,7 @@
       "url": "https://cnevpost.com/2026/11/13/byd-opens-pre-sales-3rd-gen-tang",
       "published_at": "2026-11-13T01:29:24Z",
       "first_seen_at": "2026-11-13T02:46:02.012737Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
+      "last_seen_at": "2026-11-13T17:59:27.088572Z",
       "title_original": "BYD opens pre-sales for third-gen Tang, expanding 5-seat electric SUV lineup",
       "title_en": "BYD opens pre-sales for third-gen Tang, expanding 5-seat electric SUV lineup",
       "title_zh": "比亚迪第三代唐开启预售 扩大5座电动SUV阵容",
@@ -277,7 +388,7 @@
       "url": "https://cnevpost.com/2026/11/13/changan-seeks-sell-10-stake-avatr",
       "published_at": "2026-11-13T00:54:15Z",
       "first_seen_at": "2026-11-13T02:46:02.012737Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
+      "last_seen_at": "2026-11-13T17:59:27.088572Z",
       "title_original": "Changan seeks to sell 10% stake in Avatr at implied valuation of $4.7 billion",
       "title_en": "Changan seeks to sell 10% stake in Avatr at implied valuation of $4.7 billion",
       "title_zh": "长安寻求以 47 亿美元的隐含估值出售 Avatr 10% 股份",
@@ -288,6 +399,42 @@
       ]
     },
     {
+      "id": "28a4714ddf873af80f4b2693ad0118c0b0a4a459",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新车",
+      "title": "ID. ERA 5X价格9.99万元起，上汽大众找到新的竞争位置",
+      "url": "https://auto.gasgoo.com/news/202611/12I70477807C107.shtml",
+      "published_at": "2026-11-12T23:50:29Z",
+      "first_seen_at": "2026-11-13T17:59:27.088572Z",
+      "last_seen_at": "2026-11-13T17:59:27.088572Z",
+      "title_original": "ID. ERA 5X价格9.99万元起，上汽大众找到新的竞争位置",
+      "title_en": null,
+      "title_zh": "ID. ERA 5X价格9.99万元起，上汽大众找到新的竞争位置",
+      "title_bilingual": "ID. ERA 5X价格9.99万元起，上汽大众找到新的竞争位置",
+      "topic_tags": [
+        "价格战",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "aad08a7cc5a4c5bfd02709aa28c14c97452040c9",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "英伟达宣布黄仁勋辞去CEO职务，CFO将出任临时CEO",
+      "url": "https://auto.gasgoo.com/news/202611/12I70477806C601.shtml",
+      "published_at": "2026-11-12T22:26:33Z",
+      "first_seen_at": "2026-11-13T17:59:27.088572Z",
+      "last_seen_at": "2026-11-13T17:59:27.088572Z",
+      "title_original": "英伟达宣布黄仁勋辞去CEO职务，CFO将出任临时CEO",
+      "title_en": null,
+      "title_zh": "英伟达宣布黄仁勋辞去CEO职务，CFO将出任临时CEO",
+      "title_bilingual": "英伟达宣布黄仁勋辞去CEO职务，CFO将出任临时CEO",
+      "topic_tags": []
+    },
+    {
       "id": "edb3def80a348551366f883645082c3f20fc7da7",
       "site_id": "newsnow",
       "site_name": "NewsNow",
@@ -296,7 +443,7 @@
       "url": "https://sspai.com/post/118612",
       "published_at": "2026-11-12T22:22:04.735000Z",
       "first_seen_at": "2026-11-12T22:21:54.821970Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
+      "last_seen_at": "2026-11-13T17:59:27.088572Z",
       "title_original": "双十一好物精选：Sonos Play 85 折送充电套装，CD 机加赠透明面盖",
       "title_en": null,
       "title_zh": "双十一好物精选：Sonos Play 85 折送充电套装，CD 机加赠透明面盖",
@@ -314,7 +461,7 @@
       "url": "http://vc.yiche.com/vplay/14134325.html",
       "published_at": null,
       "first_seen_at": "2026-11-12T22:21:54.821970Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
+      "last_seen_at": "2026-11-13T17:59:27.088572Z",
       "title_original": "上汽大众ID.ERA 8X底盘实拍：优点看清，差异也要说明",
       "title_en": null,
       "title_zh": "上汽大众ID.ERA 8X底盘实拍：优点看清，差异也要说明",
@@ -333,7 +480,7 @@
       "url": "http://vc.yiche.com/vplay/14166539.html",
       "published_at": null,
       "first_seen_at": "2026-11-12T22:21:54.821970Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
+      "last_seen_at": "2026-11-13T17:59:27.088572Z",
       "title_original": "销量紧追SU7！10月销量破万！看完实车我懂了MG 07能爆的原因",
       "title_en": null,
       "title_zh": "销量紧追SU7！10月销量破万！看完实车我懂了MG 07能爆的原因",
@@ -351,7 +498,7 @@
       "url": "http://vc.yiche.com/vplay/14171453.html",
       "published_at": null,
       "first_seen_at": "2026-11-12T22:21:54.821970Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
+      "last_seen_at": "2026-11-13T17:59:27.088572Z",
       "title_original": "试驾体验捷途环游者 小身材大能量",
       "title_en": null,
       "title_zh": "试驾体验捷途环游者 小身材大能量",
@@ -361,561 +508,211 @@
       ]
     },
     {
-      "id": "592c94416f1b8991714358c1bd08294f1866abd1",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Xpeng strengthens its Central Europe presence as L03 and G9L reach Czechia",
-      "url": "https://carnewschina.com/2026/11/12/xpeng-strengthens-its-central-europe-presence-as-l03-and-g9l-reach-czechia",
-      "published_at": "2026-11-12T17:00:06Z",
-      "first_seen_at": "2026-11-12T22:21:54.821970Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
-      "title_original": "Xpeng strengthens its Central Europe presence as L03 and G9L reach Czechia",
-      "title_en": "Xpeng strengthens its Central Europe presence as L03 and G9L reach Czechia",
-      "title_zh": "L03和G9L抵达捷克，小鹏汽车加强了在中欧的影响力",
-      "title_bilingual": "L03和G9L抵达捷克，小鹏汽车加强了在中欧的影响力 / Xpeng strengthens its Central Europe presence as L03 and G9L reach Czechia",
-      "topic_tags": [
-        "新能源",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "dcbc5372cfcf8ca55a9ae9d68a2b1ab276e12d69",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "“A poor man’s Defender,” BAIC launches Xingtan 5X with 625 km range at 18,890 USD in China",
-      "url": "https://carnewschina.com/2026/11/12/a-poor-mans-defender-baic-launches-xingtan-5x-at-18890-usd-in-china",
-      "published_at": "2026-11-12T16:52:06Z",
-      "first_seen_at": "2026-11-12T22:21:54.821970Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
-      "title_original": "“A poor man’s Defender,” BAIC launches Xingtan 5X with 625 km range at 18,890 USD in China",
-      "title_en": "“A poor man’s Defender,” BAIC launches Xingtan 5X with 625 km range at 18,890 USD in China",
-      "title_zh": "“穷人的卫士”北汽杏坛5X在中国推出，续航625公里，售价18,890美元",
-      "title_bilingual": "“穷人的卫士”北汽杏坛5X在中国推出，续航625公里，售价18,890美元 / “A poor man’s Defender,” BAIC launches Xingtan 5X with 625 km range at 18,890 USD in China",
-      "topic_tags": [
-        "新能源",
-        "补能电池",
-        "价格战"
-      ]
-    },
-    {
-      "id": "df0f9d998d3fe40ca9c70b7787be870ef3266ad5",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新技术",
-      "title": "研究人员开发出“物理信息驱动”的编队控制框架 使自动驾驶车辆编队更加可靠",
-      "url": "https://auto.gasgoo.com/news/202611/12I70477774C409.shtml",
-      "published_at": "2026-11-12T16:38:27Z",
-      "first_seen_at": "2026-11-13T10:29:58.974803Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
-      "title_original": "研究人员开发出“物理信息驱动”的编队控制框架 使自动驾驶车辆编队更加可靠",
-      "title_en": null,
-      "title_zh": "研究人员开发出“物理信息驱动”的编队控制框架 使自动驾驶车辆编队更加可靠",
-      "title_bilingual": "研究人员开发出“物理信息驱动”的编队控制框架 使自动驾驶车辆编队更加可靠",
-      "topic_tags": [
-        "智能驾驶"
-      ]
-    },
-    {
-      "id": "961939d925f158c2a26199f03c5456792afed495",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新技术",
-      "title": "Skyworks 推出可扩展多核音频 DSP 系列 适用于从入门级到高端车型的各类汽车平台",
-      "url": "https://auto.gasgoo.com/news/202611/12I70477773C409.shtml",
-      "published_at": "2026-11-12T16:36:59Z",
-      "first_seen_at": "2026-11-13T10:29:58.974803Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
-      "title_original": "Skyworks 推出可扩展多核音频 DSP 系列 适用于从入门级到高端车型的各类汽车平台",
-      "title_en": null,
-      "title_zh": "Skyworks 推出可扩展多核音频 DSP 系列 适用于从入门级到高端车型的各类汽车平台",
-      "title_bilingual": "Skyworks 推出可扩展多核音频 DSP 系列 适用于从入门级到高端车型的各类汽车平台",
-      "topic_tags": [
-        "新车上市"
-      ]
-    },
-    {
-      "id": "10cd749d1ef64b9b67c2b25b7ff8180b9ef824b3",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新技术",
-      "title": "加州大学开发出机器拇指 让佩戴者用一只手完成双手任务",
-      "url": "https://auto.gasgoo.com/news/202611/12I70477772C409.shtml",
-      "published_at": "2026-11-12T16:35:29Z",
-      "first_seen_at": "2026-11-13T10:29:58.974803Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
-      "title_original": "加州大学开发出机器拇指 让佩戴者用一只手完成双手任务",
-      "title_en": null,
-      "title_zh": "加州大学开发出机器拇指 让佩戴者用一只手完成双手任务",
-      "title_bilingual": "加州大学开发出机器拇指 让佩戴者用一只手完成双手任务",
-      "topic_tags": []
-    },
-    {
-      "id": "4f5193cdbdf00f8541cf7c39d31a9ea14c0ebd20",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新技术",
-      "title": "研究人员利用蛋壳制造出更坚固、更轻盈的金属合金",
-      "url": "https://auto.gasgoo.com/news/202611/12I70477770C409.shtml",
-      "published_at": "2026-11-12T16:32:53Z",
-      "first_seen_at": "2026-11-13T10:29:58.974803Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
-      "title_original": "研究人员利用蛋壳制造出更坚固、更轻盈的金属合金",
-      "title_en": null,
-      "title_zh": "研究人员利用蛋壳制造出更坚固、更轻盈的金属合金",
-      "title_bilingual": "研究人员利用蛋壳制造出更坚固、更轻盈的金属合金",
-      "topic_tags": [
-        "供应链"
-      ]
-    },
-    {
-      "id": "2cd8eebc12f2c8b2dad150cbaa379fdf37aaa1f5",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新技术",
-      "title": "首尔国立大学发明新通信和内存工具 减少人工智能数据流量和响应延迟",
-      "url": "https://auto.gasgoo.com/news/202611/12I70477767C409.shtml",
-      "published_at": "2026-11-12T16:15:29Z",
-      "first_seen_at": "2026-11-13T10:29:58.974803Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
-      "title_original": "首尔国立大学发明新通信和内存工具 减少人工智能数据流量和响应延迟",
-      "title_en": null,
-      "title_zh": "首尔国立大学发明新通信和内存工具 减少人工智能数据流量和响应延迟",
-      "title_bilingual": "首尔国立大学发明新通信和内存工具 减少人工智能数据流量和响应延迟",
-      "topic_tags": []
-    },
-    {
-      "id": "71c555de24e91d614cd729aedaf29ba62c182e60",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "中国车企出口规模增长 人民币升值侵蚀利润",
-      "url": "https://auto.gasgoo.com/news/202611/12I70477766C108.shtml",
-      "published_at": "2026-11-12T16:12:49Z",
-      "first_seen_at": "2026-11-13T10:29:58.974803Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
-      "title_original": "中国车企出口规模增长 人民币升值侵蚀利润",
-      "title_en": null,
-      "title_zh": "中国车企出口规模增长 人民币升值侵蚀利润",
-      "title_bilingual": "中国车企出口规模增长 人民币升值侵蚀利润",
-      "topic_tags": [
-        "销量市场",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "a65d858ef4c8a6e3f065fe7b53fb9c65e74678be",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新技术",
-      "title": "福特申请具有交互式音频的车辆系统专利",
-      "url": "https://auto.gasgoo.com/news/202611/12I70477765C409.shtml",
-      "published_at": "2026-11-12T16:09:56Z",
-      "first_seen_at": "2026-11-13T10:29:58.974803Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
-      "title_original": "福特申请具有交互式音频的车辆系统专利",
-      "title_en": null,
-      "title_zh": "福特申请具有交互式音频的车辆系统专利",
-      "title_bilingual": "福特申请具有交互式音频的车辆系统专利",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "5e130ab562bf746d17e094250086ff7b9c730fff",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新技术",
-      "title": "横滨国立大学添加石墨烯介孔海绵可帮助锂离子电池存储更多能量",
-      "url": "https://auto.gasgoo.com/news/202611/12I70477763C409.shtml",
-      "published_at": "2026-11-12T16:05:17Z",
-      "first_seen_at": "2026-11-13T10:29:58.974803Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
-      "title_original": "横滨国立大学添加石墨烯介孔海绵可帮助锂离子电池存储更多能量",
-      "title_en": null,
-      "title_zh": "横滨国立大学添加石墨烯介孔海绵可帮助锂离子电池存储更多能量",
-      "title_bilingual": "横滨国立大学添加石墨烯介孔海绵可帮助锂离子电池存储更多能量",
-      "topic_tags": [
-        "补能电池"
-      ]
-    },
-    {
-      "id": "7db501e547ad82f542d56d7033773cedab3edd99",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新技术",
-      "title": "韩国科学技术院开发下一代电池隔膜 充电速度更快、续航时间更长",
-      "url": "https://auto.gasgoo.com/news/202611/12I70477760C409.shtml",
-      "published_at": "2026-11-12T15:58:02Z",
-      "first_seen_at": "2026-11-13T10:29:58.974803Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
-      "title_original": "韩国科学技术院开发下一代电池隔膜 充电速度更快、续航时间更长",
-      "title_en": null,
-      "title_zh": "韩国科学技术院开发下一代电池隔膜 充电速度更快、续航时间更长",
-      "title_bilingual": "韩国科学技术院开发下一代电池隔膜 充电速度更快、续航时间更长",
-      "topic_tags": [
-        "补能电池"
-      ]
-    },
-    {
-      "id": "084340969da63f82bf9666173c31e8a3cac1f4c6",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "大众中国新能源车型月销量创历史新高，显现复苏信号",
-      "url": "https://auto.gasgoo.com/news/202611/12I70477762C109.shtml",
-      "published_at": "2026-11-12T15:55:05Z",
-      "first_seen_at": "2026-11-13T10:29:58.974803Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
-      "title_original": "大众中国新能源车型月销量创历史新高，显现复苏信号",
-      "title_en": null,
-      "title_zh": "大众中国新能源车型月销量创历史新高，显现复苏信号",
-      "title_bilingual": "大众中国新能源车型月销量创历史新高，显现复苏信号",
-      "topic_tags": [
-        "新能源",
-        "销量市场",
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "0a8d9e31f4b412e87b819a253769fdf3028cd5aa",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新技术",
-      "title": "现代汽车申请双向尾门专利 可增加动力",
-      "url": "https://auto.gasgoo.com/news/202611/12I70477752C409.shtml",
-      "published_at": "2026-11-12T15:40:32Z",
-      "first_seen_at": "2026-11-13T10:29:58.974803Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
-      "title_original": "现代汽车申请双向尾门专利 可增加动力",
-      "title_en": null,
-      "title_zh": "现代汽车申请双向尾门专利 可增加动力",
-      "title_bilingual": "现代汽车申请双向尾门专利 可增加动力",
-      "topic_tags": []
-    },
-    {
-      "id": "52b157529d321f9182cd03ce5375a39141eb36c7",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Volkswagen ID. Era 5X makes up for ID. Tiguan as it enters China at 14,980 USD",
-      "url": "https://carnewschina.com/2026/11/12/volkswagen-id-era-5x-makes-up-for-id-tiguan-as-it-enters-china-at-14980-usd",
-      "published_at": "2026-11-12T15:37:32Z",
-      "first_seen_at": "2026-11-12T16:09:40.756297Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
-      "title_original": "Volkswagen ID. Era 5X makes up for ID. Tiguan as it enters China at 14,980 USD",
-      "title_en": "Volkswagen ID. Era 5X makes up for ID. Tiguan as it enters China at 14,980 USD",
-      "title_zh": "大众汽车 ID。 Era 5X弥补了ID。 Tiguan进入中国售价14,980美元",
-      "title_bilingual": "大众汽车 ID。 Era 5X弥补了ID。 Tiguan进入中国售价14,980美元 / Volkswagen ID. Era 5X makes up for ID. Tiguan as it enters China at 14,980 USD",
-      "topic_tags": [
-        "新能源",
-        "价格战",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "ebdfa314a39faef2849fc693fffc822ddb67540e",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Germany bans BYD, Nio and Geely cars from some military sites, report says",
-      "url": "https://carnewschina.com/2026/11/12/germany-bans-byd-nio-and-geely-cars-from-some-military-sites-report-says",
-      "published_at": "2026-11-12T15:34:36Z",
-      "first_seen_at": "2026-11-12T16:09:40.756297Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
-      "title_original": "Germany bans BYD, Nio and Geely cars from some military sites, report says",
-      "title_en": "Germany bans BYD, Nio and Geely cars from some military sites, report says",
-      "title_zh": "报告称，德国禁止比亚迪、蔚来和吉利汽车进入一些军事场所",
-      "title_bilingual": "报告称，德国禁止比亚迪、蔚来和吉利汽车进入一些军事场所 / Germany bans BYD, Nio and Geely cars from some military sites, report says",
-      "topic_tags": [
-        "新能源",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "79cd1762004c3be942363a84102b7b843f529310",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "大众取消沃尔夫斯堡工厂先进制造项目 劳资矛盾恐进一步升级",
-      "url": "https://auto.gasgoo.com/news/202611/12I70477759C109.shtml",
-      "published_at": "2026-11-12T15:31:41Z",
-      "first_seen_at": "2026-11-13T10:29:58.974803Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
-      "title_original": "大众取消沃尔夫斯堡工厂先进制造项目 劳资矛盾恐进一步升级",
-      "title_en": null,
-      "title_zh": "大众取消沃尔夫斯堡工厂先进制造项目 劳资矛盾恐进一步升级",
-      "title_bilingual": "大众取消沃尔夫斯堡工厂先进制造项目 劳资矛盾恐进一步升级",
-      "topic_tags": [
-        "车企竞争",
-        "供应链"
-      ]
-    },
-    {
-      "id": "09a970a188f95c8879c449d7738edfcad2304985",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "奔驰CEO官宣转向全新“100%立足中国、服务中国”战略",
-      "url": "https://auto.gasgoo.com/news/202611/12I70477757C109.shtml",
-      "published_at": "2026-11-12T15:00:17Z",
-      "first_seen_at": "2026-11-13T10:29:58.974803Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
-      "title_original": "奔驰CEO官宣转向全新“100%立足中国、服务中国”战略",
-      "title_en": null,
-      "title_zh": "奔驰CEO官宣转向全新“100%立足中国、服务中国”战略",
-      "title_bilingual": "奔驰CEO官宣转向全新“100%立足中国、服务中国”战略",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "40ad25a5ab376e1a32134465e7d9051df7e80fe7",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新技术",
-      "title": "Motive推出AI智能体 助力外勤团队在问题发生前采取行动",
-      "url": "https://auto.gasgoo.com/news/202611/12I70477751C409.shtml",
-      "published_at": "2026-11-12T14:44:44Z",
-      "first_seen_at": "2026-11-13T10:29:58.974803Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
-      "title_original": "Motive推出AI智能体 助力外勤团队在问题发生前采取行动",
-      "title_en": null,
-      "title_zh": "Motive推出AI智能体 助力外勤团队在问题发生前采取行动",
-      "title_bilingual": "Motive推出AI智能体 助力外勤团队在问题发生前采取行动",
-      "topic_tags": []
-    },
-    {
-      "id": "9628ee94c24eb5c3ba52016e021ab7f78164f13e",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新技术",
-      "title": "Universal Display与OLEDWorks推进青色OLED照明技术 助力自动驾驶系统实现通信功能",
-      "url": "https://auto.gasgoo.com/news/202611/12I70477749C409.shtml",
-      "published_at": "2026-11-12T14:43:00Z",
-      "first_seen_at": "2026-11-13T10:29:58.974803Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
-      "title_original": "Universal Display与OLEDWorks推进青色OLED照明技术 助力自动驾驶系统实现通信功能",
-      "title_en": null,
-      "title_zh": "Universal Display与OLEDWorks推进青色OLED照明技术 助力自动驾驶系统实现通信功能",
-      "title_bilingual": "Universal Display与OLEDWorks推进青色OLED照明技术 助力自动驾驶系统实现通信功能",
-      "topic_tags": [
-        "智能驾驶"
-      ]
-    },
-    {
-      "id": "c5b4490901e4c235f07d403c71d3f0ec2969243d",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Canada's Carney to discuss EV manufacturing during China visit next week",
-      "url": "https://cnevpost.com/2026/11/12/canada-carney-to-discuss-ev-manufacturing-china-visit",
-      "published_at": "2026-11-12T14:38:14Z",
-      "first_seen_at": "2026-11-12T16:09:40.756297Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
-      "title_original": "Canada's Carney to discuss EV manufacturing during China visit next week",
-      "title_en": "Canada's Carney to discuss EV manufacturing during China visit next week",
-      "title_zh": "加拿大卡尼下周访华期间将讨论电动汽车制造",
-      "title_bilingual": "加拿大卡尼下周访华期间将讨论电动汽车制造 / Canada's Carney to discuss EV manufacturing during China visit next week",
-      "topic_tags": [
-        "新能源",
-        "供应链"
-      ]
-    },
-    {
-      "id": "e0a73d001223ec503b6bc00be45707273e5cca1d",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "GAC Aion launches Ray 7 electric sedan targeting younger buyers",
-      "url": "https://cnevpost.com/2026/11/12/gac-aion-launches-ray-7",
-      "published_at": "2026-11-12T14:13:39Z",
-      "first_seen_at": "2026-11-12T16:09:40.756297Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
-      "title_original": "GAC Aion launches Ray 7 electric sedan targeting younger buyers",
-      "title_en": "GAC Aion launches Ray 7 electric sedan targeting younger buyers",
-      "title_zh": "广汽Aion推出Ray 7电动轿车，瞄准年轻买家",
-      "title_bilingual": "广汽Aion推出Ray 7电动轿车，瞄准年轻买家 / GAC Aion launches Ray 7 electric sedan targeting younger buyers",
-      "topic_tags": [
-        "新能源",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "5a74945cdac18faea12cbeacae7e352ac0c578ad",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "日产下调全球销量预期：中国市场已成沉重包袱，销量或将创23年新低",
-      "url": "https://auto.gasgoo.com/news/202611/12I70477747C109.shtml",
-      "published_at": "2026-11-12T13:56:38Z",
-      "first_seen_at": "2026-11-13T10:29:58.974803Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
-      "title_original": "日产下调全球销量预期：中国市场已成沉重包袱，销量或将创23年新低",
-      "title_en": null,
-      "title_zh": "日产下调全球销量预期：中国市场已成沉重包袱，销量或将创23年新低",
-      "title_bilingual": "日产下调全球销量预期：中国市场已成沉重包袱，销量或将创23年新低",
-      "topic_tags": [
-        "销量市场",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "bb28c6a158769697943ae9d60d7479acc57445b6",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "BYD’s Denza N8 EV launches in China: up to 1,003 km all-electric range, starting from 40,300 USD",
-      "url": "https://carnewschina.com/2026/11/12/byds-denza-n8-ev-launches-in-china-up-to-1003-km-cltc-range-starting-from-40300-usd",
-      "published_at": "2026-11-12T13:48:30Z",
-      "first_seen_at": "2026-11-12T16:09:40.756297Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
-      "title_original": "BYD’s Denza N8 EV launches in China: up to 1,003 km all-electric range, starting from 40,300 USD",
-      "title_en": "BYD’s Denza N8 EV launches in China: up to 1,003 km all-electric range, starting from 40,300 USD",
-      "title_zh": "比亚迪腾势N8 EV在中国上市：全电动续航里程高达1,003公里，起价40,300美元",
-      "title_bilingual": "比亚迪腾势N8 EV在中国上市：全电动续航里程高达1,003公里，起价40,300美元 / BYD’s Denza N8 EV launches in China: up to 1,003 km all-electric range, starting from 40,300 USD",
-      "topic_tags": [
-        "新能源",
-        "补能电池",
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "44efcbc42588e75ac95286b8d1c26c89d168e3fc",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "BYD Denza's updated N8 returns as 5-seater, expanding family SUV lineup",
-      "url": "https://cnevpost.com/2026/11/12/denza-updated-n8-returns-as-5-seater",
-      "published_at": "2026-11-12T13:43:00Z",
-      "first_seen_at": "2026-11-12T16:09:40.756297Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
-      "title_original": "BYD Denza's updated N8 returns as 5-seater, expanding family SUV lineup",
-      "title_en": "BYD Denza's updated N8 returns as 5-seater, expanding family SUV lineup",
-      "title_zh": "比亚迪腾势更新版N8以5座形式回归，扩大了家庭SUV阵容",
-      "title_bilingual": "比亚迪腾势更新版N8以5座形式回归，扩大了家庭SUV阵容 / BYD Denza's updated N8 returns as 5-seater, expanding family SUV lineup",
-      "topic_tags": [
-        "新能源",
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "117541a09a53799ac6892eac2e851ad7e2d5fce3",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "SAIC VW launches ID. ERA 5X, adding an electric SUV to its NEV lineup",
-      "url": "https://cnevpost.com/2026/11/12/saic-vw-launches-id-era-5x",
-      "published_at": "2026-11-12T12:39:30Z",
-      "first_seen_at": "2026-11-12T16:09:40.756297Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
-      "title_original": "SAIC VW launches ID. ERA 5X, adding an electric SUV to its NEV lineup",
-      "title_en": "SAIC VW launches ID. ERA 5X, adding an electric SUV to its NEV lineup",
-      "title_zh": "上汽大众推出ID. ERA 5X，为其新能源汽车阵容增添一款电动 SUV",
-      "title_bilingual": "上汽大众推出ID. ERA 5X，为其新能源汽车阵容增添一款电动 SUV / SAIC VW launches ID. ERA 5X, adding an electric SUV to its NEV lineup",
-      "topic_tags": [
-        "新能源",
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "20a73698d3985f37dfcc2dace2232dfbd0b417dd",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "【国际快讯】英伟达董事会拟罢免CEO黄仁勋；奔驰将转向“100%中国为中国”战略；日产第二财季利润暴跌96%",
-      "url": "https://auto.gasgoo.com/news/202611/12I70477746C108.shtml",
-      "published_at": "2026-11-12T12:07:14Z",
-      "first_seen_at": "2026-11-13T10:29:58.974803Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
-      "title_original": "【国际快讯】英伟达董事会拟罢免CEO黄仁勋；奔驰将转向“100%中国为中国”战略；日产第二财季利润暴跌96%",
-      "title_en": null,
-      "title_zh": "【国际快讯】英伟达董事会拟罢免CEO黄仁勋；奔驰将转向“100%中国为中国”战略；日产第二财季利润暴跌96%",
-      "title_bilingual": "【国际快讯】英伟达董事会拟罢免CEO黄仁勋；奔驰将转向“100%中国为中国”战略；日产第二财季利润暴跌96%",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "a7aebf12a55c8fecc6117535dd3eff6441dca193",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-销量",
-      "title": "日产中国区10月销量22,295辆，同比下滑67.1%",
-      "url": "https://auto.gasgoo.com/news/202611/12I70477738C110.shtml",
-      "published_at": "2026-11-12T11:52:19Z",
-      "first_seen_at": "2026-11-13T10:29:58.974803Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
-      "title_original": "日产中国区10月销量22,295辆，同比下滑67.1%",
-      "title_en": null,
-      "title_zh": "日产中国区10月销量22,295辆，同比下滑67.1%",
-      "title_bilingual": "日产中国区10月销量22,295辆，同比下滑67.1%",
-      "topic_tags": [
-        "销量市场"
-      ]
-    },
-    {
-      "id": "e1cdf2183cc8aac4fee2e07b69d7b11040a48475",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-Battery",
-      "title": "CATL secures another exclusive eVTOL battery partnership with EVT Aerotechnics",
-      "url": "https://cnevpost.com/2026/11/12/catl-evtol-battery-partnership-evt",
-      "published_at": "2026-11-12T11:01:38Z",
-      "first_seen_at": "2026-11-12T16:09:40.756297Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
-      "title_original": "CATL secures another exclusive eVTOL battery partnership with EVT Aerotechnics",
-      "title_en": "CATL secures another exclusive eVTOL battery partnership with EVT Aerotechnics",
-      "title_zh": "CATL与EVT Aerotechnics达成另一项独家电动垂直起降电池合作伙伴关系",
-      "title_bilingual": "CATL与EVT Aerotechnics达成另一项独家电动垂直起降电池合作伙伴关系 / CATL secures another exclusive eVTOL battery partnership with EVT Aerotechnics",
-      "topic_tags": [
-        "补能电池"
-      ]
-    },
-    {
-      "id": "65b251a3336959abf5885491570c6e88bd46b8e6",
+      "id": "11a903b666eeee5edd565a5786053dc2c1aba85c",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
       "source": "盖世汽车-智能网联",
-      "title": "黄仁勋再被爆婚外情，可能被董事会解除CEO职务",
-      "url": "https://auto.gasgoo.com/news/202611/12I70477736C601.shtml",
-      "published_at": "2026-11-12T10:58:09Z",
-      "first_seen_at": "2026-11-13T10:29:58.974803Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
-      "title_original": "黄仁勋再被爆婚外情，可能被董事会解除CEO职务",
+      "title": "摩根大通：美国人形机器人产量2030年有望达到40万台",
+      "url": "https://auto.gasgoo.com/news/202611/12I70477805C601.shtml",
+      "published_at": "2026-11-12T22:04:28Z",
+      "first_seen_at": "2026-11-13T17:59:27.088572Z",
+      "last_seen_at": "2026-11-13T17:59:27.088572Z",
+      "title_original": "摩根大通：美国人形机器人产量2030年有望达到40万台",
       "title_en": null,
-      "title_zh": "黄仁勋再被爆婚外情，可能被董事会解除CEO职务",
-      "title_bilingual": "黄仁勋再被爆婚外情，可能被董事会解除CEO职务",
+      "title_zh": "摩根大通：美国人形机器人产量2030年有望达到40万台",
+      "title_bilingual": "摩根大通：美国人形机器人产量2030年有望达到40万台",
       "topic_tags": []
     },
     {
-      "id": "a89e79715e8e6def87d7a1630c233c90e6730608",
+      "id": "64edb0c66cc2143361da615221754c0466a45278",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "蔚来ES9第4万台交付 连续5个月居50万级纯电销冠",
-      "url": "https://auto.gasgoo.com/news/202611/12I70477734C109.shtml",
-      "published_at": "2026-11-12T10:34:27Z",
-      "first_seen_at": "2026-11-13T02:46:02.012737Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
-      "title_original": "蔚来ES9第4万台交付 连续5个月居50万级纯电销冠",
+      "source": "盖世汽车-行业",
+      "title": "在华受挫，德国车企加快本土业务收缩",
+      "url": "https://auto.gasgoo.com/news/202611/12I70477804C108.shtml",
+      "published_at": "2026-11-12T21:49:39Z",
+      "first_seen_at": "2026-11-13T17:59:27.088572Z",
+      "last_seen_at": "2026-11-13T17:59:27.088572Z",
+      "title_original": "在华受挫，德国车企加快本土业务收缩",
       "title_en": null,
-      "title_zh": "蔚来ES9第4万台交付 连续5个月居50万级纯电销冠",
-      "title_bilingual": "蔚来ES9第4万台交付 连续5个月居50万级纯电销冠",
+      "title_zh": "在华受挫，德国车企加快本土业务收缩",
+      "title_bilingual": "在华受挫，德国车企加快本土业务收缩",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "2cf1f6b29a22d412da63676693ac3c6a87e84ce9",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "欧盟拟推迟对英国产电动汽车征收10%关税",
+      "url": "https://auto.gasgoo.com/news/202611/12I70477803C108.shtml",
+      "published_at": "2026-11-12T21:27:44Z",
+      "first_seen_at": "2026-11-13T17:59:27.088572Z",
+      "last_seen_at": "2026-11-13T17:59:27.088572Z",
+      "title_original": "欧盟拟推迟对英国产电动汽车征收10%关税",
+      "title_en": null,
+      "title_zh": "欧盟拟推迟对英国产电动汽车征收10%关税",
+      "title_bilingual": "欧盟拟推迟对英国产电动汽车征收10%关税",
+      "topic_tags": []
+    },
+    {
+      "id": "7a74a9bca4bf27ee77cac3a7c88b37cb25a53f1e",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新能源",
+      "title": "冬天了，续航焦虑又要来了？",
+      "url": "https://auto.gasgoo.com/news/202611/12I70477756C501.shtml",
+      "published_at": "2026-11-12T19:28:54Z",
+      "first_seen_at": "2026-11-13T17:59:27.088572Z",
+      "last_seen_at": "2026-11-13T17:59:27.088572Z",
+      "title_original": "冬天了，续航焦虑又要来了？",
+      "title_en": null,
+      "title_zh": "冬天了，续航焦虑又要来了？",
+      "title_bilingual": "冬天了，续航焦虑又要来了？",
       "topic_tags": [
         "新能源",
-        "销量市场",
-        "车企竞争"
+        "补能电池"
+      ]
+    },
+    {
+      "id": "8966cb3e7b803090803eaa1c1f13debdd184a979",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "4%涨幅、18.6%混动份额：美国车市10月靠谁在撑？",
+      "url": "https://auto.gasgoo.com/news/202611/12I70477791C110.shtml",
+      "published_at": "2026-11-12T19:20:13Z",
+      "first_seen_at": "2026-11-13T17:59:27.088572Z",
+      "last_seen_at": "2026-11-13T17:59:27.088572Z",
+      "title_original": "4%涨幅、18.6%混动份额：美国车市10月靠谁在撑？",
+      "title_en": null,
+      "title_zh": "4%涨幅、18.6%混动份额：美国车市10月靠谁在撑？",
+      "title_bilingual": "4%涨幅、18.6%混动份额：美国车市10月靠谁在撑？",
+      "topic_tags": [
+        "新能源",
+        "销量市场"
       ]
     }
   ],
   "items_ai": [
     {
+      "id": "d483d9ae8ee1d4c436a71057a1a154f384252e8a",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-Battery",
+      "title": "CATL targets 6,000 passenger car battery swap stations in 2027, potentially overtaking Nio",
+      "url": "https://cnevpost.com/2026/11/13/catl-targets-6000-passenger-car-swap-stations-2027",
+      "published_at": "2026-11-13T13:24:43Z",
+      "first_seen_at": "2026-11-13T17:59:27.088572Z",
+      "last_seen_at": "2026-11-13T17:59:27.088572Z",
+      "title_original": "CATL targets 6,000 passenger car battery swap stations in 2027, potentially overtaking Nio",
+      "title_en": "CATL targets 6,000 passenger car battery swap stations in 2027, potentially overtaking Nio",
+      "title_zh": "宁德时代目标到2027年拥有6000个乘用车电池更换站，有望超越蔚来",
+      "title_bilingual": "宁德时代目标到2027年拥有6000个乘用车电池更换站，有望超越蔚来 / CATL targets 6,000 passenger car battery swap stations in 2027, potentially overtaking Nio",
+      "topic_tags": [
+        "补能电池",
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "b609fb0623d1486fd5dde900e425835b3c4e39d4",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Arcfox launches new battery-swappable Beta S3 and Beta T1 models",
+      "url": "https://carnewschina.com/2026/11/13/arcfox-launches-new-battery-swappable-beta-s3-and-beta-t1-models",
+      "published_at": "2026-11-13T13:04:30Z",
+      "first_seen_at": "2026-11-13T17:59:27.088572Z",
+      "last_seen_at": "2026-11-13T17:59:27.088572Z",
+      "title_original": "Arcfox launches new battery-swappable Beta S3 and Beta T1 models",
+      "title_en": "Arcfox launches new battery-swappable Beta S3 and Beta T1 models",
+      "title_zh": "Arcfox 推出新的可更换电池 Beta S3 和 Beta T1 型号",
+      "title_bilingual": "Arcfox 推出新的可更换电池 Beta S3 和 Beta T1 型号 / Arcfox launches new battery-swappable Beta S3 and Beta T1 models",
+      "topic_tags": [
+        "新能源",
+        "补能电池"
+      ]
+    },
+    {
+      "id": "3e1d59e67d37a0dafa4cc809481ef679c22fe5f8",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Nissan opens pre-sales for NX7, fourth N-series model in China, as it speeds up NEV roll-out",
+      "url": "https://cnevpost.com/2026/11/13/nissan-opens-pre-sales-nx7-china",
+      "published_at": "2026-11-13T12:25:06Z",
+      "first_seen_at": "2026-11-13T17:59:27.088572Z",
+      "last_seen_at": "2026-11-13T17:59:27.088572Z",
+      "title_original": "Nissan opens pre-sales for NX7, fourth N-series model in China, as it speeds up NEV roll-out",
+      "title_en": "Nissan opens pre-sales for NX7, fourth N-series model in China, as it speeds up NEV roll-out",
+      "title_zh": "日产N系列第四款车型NX7在中国开启预售，加速新能源汽车推广",
+      "title_bilingual": "日产N系列第四款车型NX7在中国开启预售，加速新能源汽车推广 / Nissan opens pre-sales for NX7, fourth N-series model in China, as it speeds up NEV roll-out",
+      "topic_tags": [
+        "新能源",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "031c4ecbe473517e9373f74bfe9a6ea18d02ff6a",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "BYD Seal 07 performs autonomous emergency steering at 130 km/h to avoid collision",
+      "url": "https://carnewschina.com/2026/11/13/byd-seal-07-performs-autonomous-emergency-steering-at-130-km-h-to-avoid-collision",
+      "published_at": "2026-11-13T12:21:33Z",
+      "first_seen_at": "2026-11-13T17:59:27.088572Z",
+      "last_seen_at": "2026-11-13T17:59:27.088572Z",
+      "title_original": "BYD Seal 07 performs autonomous emergency steering at 130 km/h to avoid collision",
+      "title_en": "BYD Seal 07 performs autonomous emergency steering at 130 km/h to avoid collision",
+      "title_zh": "比亚迪海豹07时速130公里自动紧急转向避免碰撞",
+      "title_bilingual": "比亚迪海豹07时速130公里自动紧急转向避免碰撞 / BYD Seal 07 performs autonomous emergency steering at 130 km/h to avoid collision",
+      "topic_tags": [
+        "新能源",
+        "召回安全",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "028b11953122945c68e7b39560908d5c26c2fc23",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Huawei-backed Aito launches updated M8 in first major release since Seres took brand leadership",
+      "url": "https://cnevpost.com/2026/11/13/aito-launches-updated-m8",
+      "published_at": "2026-11-13T11:47:06Z",
+      "first_seen_at": "2026-11-13T17:59:27.088572Z",
+      "last_seen_at": "2026-11-13T17:59:27.088572Z",
+      "title_original": "Huawei-backed Aito launches updated M8 in first major release since Seres took brand leadership",
+      "title_en": "Huawei-backed Aito launches updated M8 in first major release since Seres took brand leadership",
+      "title_zh": "华为支持的 Aito 推出更新版 M8，这是 Seres 取得品牌领导地位以来的首个主要版本",
+      "title_bilingual": "华为支持的 Aito 推出更新版 M8，这是 Seres 取得品牌领导地位以来的首个主要版本 / Huawei-backed Aito launches updated M8 in first major release since Seres took brand leadership",
+      "topic_tags": [
+        "新能源"
+      ]
+    },
+    {
+      "id": "478346e0415cb80bdf5e4090d51ff95d7fd8125b",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "BYD targets AI content farms as police detain three over alleged smear campaigns in China",
+      "url": "https://carnewschina.com/2026/11/13/byd-targets-ai-content-farms-as-police-detain-three-over-alleged-smear-campaigns",
+      "published_at": "2026-11-13T11:08:07Z",
+      "first_seen_at": "2026-11-13T17:59:27.088572Z",
+      "last_seen_at": "2026-11-13T17:59:27.088572Z",
+      "title_original": "BYD targets AI content farms as police detain three over alleged smear campaigns in China",
+      "title_en": "BYD targets AI content farms as police detain three over alleged smear campaigns in China",
+      "title_zh": "比亚迪瞄准人工智能内容农场，中国警方拘留了三名涉嫌诽谤的人",
+      "title_bilingual": "比亚迪瞄准人工智能内容农场，中国警方拘留了三名涉嫌诽谤的人 / BYD targets AI content farms as police detain three over alleged smear campaigns in China",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
       "id": "d22475654d7fbfb8041c6221d88d883ffea4851f",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -924,7 +721,7 @@
       "url": "https://www.dongchedi.com/article/7706720002699837976",
       "published_at": null,
       "first_seen_at": "2026-11-13T10:29:58.974803Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
+      "last_seen_at": "2026-11-13T17:59:27.088572Z",
       "title_original": "日常实用性测试横评：主流家用紧凑型SUV篇",
       "title_en": null,
       "title_zh": "日常实用性测试横评：主流家用紧凑型SUV篇",
@@ -944,7 +741,7 @@
       "url": "https://www.dongchedi.com/article/7706831895900078654",
       "published_at": null,
       "first_seen_at": "2026-11-13T10:29:58.974803Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
+      "last_seen_at": "2026-11-13T17:59:27.088572Z",
       "title_original": "比亚迪海豹05：遮风避雨代步通勤，六七万还能有啥？",
       "title_en": null,
       "title_zh": "比亚迪海豹05：遮风避雨代步通勤，六七万还能有啥？",
@@ -962,7 +759,7 @@
       "url": "https://cnevpost.com/2026/11/13/nio-phase-2-clean-parks-deal-undp",
       "published_at": "2026-11-13T10:29:14Z",
       "first_seen_at": "2026-11-13T10:29:58.974803Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
+      "last_seen_at": "2026-11-13T17:59:27.088572Z",
       "title_original": "Nio signs phase 2 Clean Parks deal with UNDP to expand low-carbon conservation efforts",
       "title_en": "Nio signs phase 2 Clean Parks deal with UNDP to expand low-carbon conservation efforts",
       "title_zh": "蔚来汽车与联合国开发计划署签署第二阶段清洁公园协议，以扩大低碳保护工作",
@@ -981,7 +778,7 @@
       "url": "https://cnevpost.com/2026/11/13/byd-fang-cheng-bao-launch-tai-9-nov-19",
       "published_at": "2026-11-13T08:40:19Z",
       "first_seen_at": "2026-11-13T10:29:58.974803Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
+      "last_seen_at": "2026-11-13T17:59:27.088572Z",
       "title_original": "BYD Fang Cheng Bao to launch its largest SUV Tai 9 on November 19",
       "title_en": "BYD Fang Cheng Bao to launch its largest SUV Tai 9 on November 19",
       "title_zh": "比亚迪方成宝旗下最大SUV太9将于11月19日上市",
@@ -1001,7 +798,7 @@
       "url": "https://cnevpost.com/2026/11/13/xpeng-launches-mona-l03-g9l-uk",
       "published_at": "2026-11-13T08:04:48Z",
       "first_seen_at": "2026-11-13T10:29:58.974803Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
+      "last_seen_at": "2026-11-13T17:59:27.088572Z",
       "title_original": "Xpeng launches Mona L03 and G9L in UK, plans about 100 retail and service locations in 2027",
       "title_en": "Xpeng launches Mona L03 and G9L in UK, plans about 100 retail and service locations in 2027",
       "title_zh": "小鹏汽车在英国推出 Mona L03 和 G9L，计划 2027 年开设约 100 个零售和服务网点",
@@ -1020,7 +817,7 @@
       "url": "https://cnevpost.com/2026/11/13/aistaland-adds-erev-variant-gt7",
       "published_at": "2026-11-13T06:03:18Z",
       "first_seen_at": "2026-11-13T10:29:58.974803Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
+      "last_seen_at": "2026-11-13T17:59:27.088572Z",
       "title_original": "GAC-Huawei brand Aistaland adds EREV variant to GT7 amid slow sales ramp-up",
       "title_en": "GAC-Huawei brand Aistaland adds EREV variant to GT7 amid slow sales ramp-up",
       "title_zh": "广汽华为品牌Aistaland在销量增长缓慢的情况下为GT7增加了EREV版本",
@@ -1039,7 +836,7 @@
       "url": "https://cnevpost.com/2026/11/13/voyah-launches-2027-zhiyin-suv",
       "published_at": "2026-11-13T04:47:33Z",
       "first_seen_at": "2026-11-13T10:29:58.974803Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
+      "last_seen_at": "2026-11-13T17:59:27.088572Z",
       "title_original": "Voyah launches 2027 Zhiyin SUV with upgraded Huawei driver-assistance hardware",
       "title_en": "Voyah launches 2027 Zhiyin SUV with upgraded Huawei driver-assistance hardware",
       "title_zh": "Voyah推出2027款智银SUV，升级华为驾驶辅助硬件",
@@ -1058,7 +855,7 @@
       "url": "https://cnevpost.com/2026/11/13/li-auto-i9-tops-10000-deliveries",
       "published_at": "2026-11-13T02:34:39Z",
       "first_seen_at": "2026-11-13T02:46:02.012737Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
+      "last_seen_at": "2026-11-13T17:59:27.088572Z",
       "title_original": "Li Auto's 6-seat electric flagship i9 tops 10,000 deliveries less than 2 months after launch",
       "title_en": "Li Auto's 6-seat electric flagship i9 tops 10,000 deliveries less than 2 months after launch",
       "title_zh": "理想汽车6座电动旗舰i9上市不到2个月销量突破1万辆",
@@ -1079,7 +876,7 @@
       "url": "https://carnewschina.com/2026/11/13/byd-third-gen-tang-pre-sales-open-in-china-up-to-850-km-cltc-range-starting-at-33600-usd",
       "published_at": "2026-11-13T02:14:35Z",
       "first_seen_at": "2026-11-13T02:46:02.012737Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
+      "last_seen_at": "2026-11-13T17:59:27.088572Z",
       "title_original": "BYD third-gen Tang pre-sales open in China: up to 850 km CLTC range, starting at 33,600 USD",
       "title_en": "BYD third-gen Tang pre-sales open in China: up to 850 km CLTC range, starting at 33,600 USD",
       "title_zh": "比亚迪第三代唐在中国开启预售：CLTC续航里程可达850公里，起价33,600美元",
@@ -1100,7 +897,7 @@
       "url": "https://cnevpost.com/2026/11/13/byd-opens-pre-sales-3rd-gen-tang",
       "published_at": "2026-11-13T01:29:24Z",
       "first_seen_at": "2026-11-13T02:46:02.012737Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
+      "last_seen_at": "2026-11-13T17:59:27.088572Z",
       "title_original": "BYD opens pre-sales for third-gen Tang, expanding 5-seat electric SUV lineup",
       "title_en": "BYD opens pre-sales for third-gen Tang, expanding 5-seat electric SUV lineup",
       "title_zh": "比亚迪第三代唐开启预售 扩大5座电动SUV阵容",
@@ -1120,7 +917,7 @@
       "url": "https://cnevpost.com/2026/11/13/changan-seeks-sell-10-stake-avatr",
       "published_at": "2026-11-13T00:54:15Z",
       "first_seen_at": "2026-11-13T02:46:02.012737Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
+      "last_seen_at": "2026-11-13T17:59:27.088572Z",
       "title_original": "Changan seeks to sell 10% stake in Avatr at implied valuation of $4.7 billion",
       "title_en": "Changan seeks to sell 10% stake in Avatr at implied valuation of $4.7 billion",
       "title_zh": "长安寻求以 47 亿美元的隐含估值出售 Avatr 10% 股份",
@@ -1131,6 +928,42 @@
       ]
     },
     {
+      "id": "28a4714ddf873af80f4b2693ad0118c0b0a4a459",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新车",
+      "title": "ID. ERA 5X价格9.99万元起，上汽大众找到新的竞争位置",
+      "url": "https://auto.gasgoo.com/news/202611/12I70477807C107.shtml",
+      "published_at": "2026-11-12T23:50:29Z",
+      "first_seen_at": "2026-11-13T17:59:27.088572Z",
+      "last_seen_at": "2026-11-13T17:59:27.088572Z",
+      "title_original": "ID. ERA 5X价格9.99万元起，上汽大众找到新的竞争位置",
+      "title_en": null,
+      "title_zh": "ID. ERA 5X价格9.99万元起，上汽大众找到新的竞争位置",
+      "title_bilingual": "ID. ERA 5X价格9.99万元起，上汽大众找到新的竞争位置",
+      "topic_tags": [
+        "价格战",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "aad08a7cc5a4c5bfd02709aa28c14c97452040c9",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-智能网联",
+      "title": "英伟达宣布黄仁勋辞去CEO职务，CFO将出任临时CEO",
+      "url": "https://auto.gasgoo.com/news/202611/12I70477806C601.shtml",
+      "published_at": "2026-11-12T22:26:33Z",
+      "first_seen_at": "2026-11-13T17:59:27.088572Z",
+      "last_seen_at": "2026-11-13T17:59:27.088572Z",
+      "title_original": "英伟达宣布黄仁勋辞去CEO职务，CFO将出任临时CEO",
+      "title_en": null,
+      "title_zh": "英伟达宣布黄仁勋辞去CEO职务，CFO将出任临时CEO",
+      "title_bilingual": "英伟达宣布黄仁勋辞去CEO职务，CFO将出任临时CEO",
+      "topic_tags": []
+    },
+    {
       "id": "edb3def80a348551366f883645082c3f20fc7da7",
       "site_id": "newsnow",
       "site_name": "NewsNow",
@@ -1139,7 +972,7 @@
       "url": "https://sspai.com/post/118612",
       "published_at": "2026-11-12T22:22:04.735000Z",
       "first_seen_at": "2026-11-12T22:21:54.821970Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
+      "last_seen_at": "2026-11-13T17:59:27.088572Z",
       "title_original": "双十一好物精选：Sonos Play 85 折送充电套装，CD 机加赠透明面盖",
       "title_en": null,
       "title_zh": "双十一好物精选：Sonos Play 85 折送充电套装，CD 机加赠透明面盖",
@@ -1157,7 +990,7 @@
       "url": "http://vc.yiche.com/vplay/14134325.html",
       "published_at": null,
       "first_seen_at": "2026-11-12T22:21:54.821970Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
+      "last_seen_at": "2026-11-13T17:59:27.088572Z",
       "title_original": "上汽大众ID.ERA 8X底盘实拍：优点看清，差异也要说明",
       "title_en": null,
       "title_zh": "上汽大众ID.ERA 8X底盘实拍：优点看清，差异也要说明",
@@ -1176,7 +1009,7 @@
       "url": "http://vc.yiche.com/vplay/14166539.html",
       "published_at": null,
       "first_seen_at": "2026-11-12T22:21:54.821970Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
+      "last_seen_at": "2026-11-13T17:59:27.088572Z",
       "title_original": "销量紧追SU7！10月销量破万！看完实车我懂了MG 07能爆的原因",
       "title_en": null,
       "title_zh": "销量紧追SU7！10月销量破万！看完实车我懂了MG 07能爆的原因",
@@ -1194,7 +1027,7 @@
       "url": "http://vc.yiche.com/vplay/14171453.html",
       "published_at": null,
       "first_seen_at": "2026-11-12T22:21:54.821970Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
+      "last_seen_at": "2026-11-13T17:59:27.088572Z",
       "title_original": "试驾体验捷途环游者 小身材大能量",
       "title_en": null,
       "title_zh": "试驾体验捷途环游者 小身材大能量",
@@ -1204,556 +1037,91 @@
       ]
     },
     {
-      "id": "592c94416f1b8991714358c1bd08294f1866abd1",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Xpeng strengthens its Central Europe presence as L03 and G9L reach Czechia",
-      "url": "https://carnewschina.com/2026/11/12/xpeng-strengthens-its-central-europe-presence-as-l03-and-g9l-reach-czechia",
-      "published_at": "2026-11-12T17:00:06Z",
-      "first_seen_at": "2026-11-12T22:21:54.821970Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
-      "title_original": "Xpeng strengthens its Central Europe presence as L03 and G9L reach Czechia",
-      "title_en": "Xpeng strengthens its Central Europe presence as L03 and G9L reach Czechia",
-      "title_zh": "L03和G9L抵达捷克，小鹏汽车加强了在中欧的影响力",
-      "title_bilingual": "L03和G9L抵达捷克，小鹏汽车加强了在中欧的影响力 / Xpeng strengthens its Central Europe presence as L03 and G9L reach Czechia",
-      "topic_tags": [
-        "新能源",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "dcbc5372cfcf8ca55a9ae9d68a2b1ab276e12d69",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "“A poor man’s Defender,” BAIC launches Xingtan 5X with 625 km range at 18,890 USD in China",
-      "url": "https://carnewschina.com/2026/11/12/a-poor-mans-defender-baic-launches-xingtan-5x-at-18890-usd-in-china",
-      "published_at": "2026-11-12T16:52:06Z",
-      "first_seen_at": "2026-11-12T22:21:54.821970Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
-      "title_original": "“A poor man’s Defender,” BAIC launches Xingtan 5X with 625 km range at 18,890 USD in China",
-      "title_en": "“A poor man’s Defender,” BAIC launches Xingtan 5X with 625 km range at 18,890 USD in China",
-      "title_zh": "“穷人的卫士”北汽杏坛5X在中国推出，续航625公里，售价18,890美元",
-      "title_bilingual": "“穷人的卫士”北汽杏坛5X在中国推出，续航625公里，售价18,890美元 / “A poor man’s Defender,” BAIC launches Xingtan 5X with 625 km range at 18,890 USD in China",
-      "topic_tags": [
-        "新能源",
-        "补能电池",
-        "价格战"
-      ]
-    },
-    {
-      "id": "df0f9d998d3fe40ca9c70b7787be870ef3266ad5",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新技术",
-      "title": "研究人员开发出“物理信息驱动”的编队控制框架 使自动驾驶车辆编队更加可靠",
-      "url": "https://auto.gasgoo.com/news/202611/12I70477774C409.shtml",
-      "published_at": "2026-11-12T16:38:27Z",
-      "first_seen_at": "2026-11-13T10:29:58.974803Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
-      "title_original": "研究人员开发出“物理信息驱动”的编队控制框架 使自动驾驶车辆编队更加可靠",
-      "title_en": null,
-      "title_zh": "研究人员开发出“物理信息驱动”的编队控制框架 使自动驾驶车辆编队更加可靠",
-      "title_bilingual": "研究人员开发出“物理信息驱动”的编队控制框架 使自动驾驶车辆编队更加可靠",
-      "topic_tags": [
-        "智能驾驶"
-      ]
-    },
-    {
-      "id": "961939d925f158c2a26199f03c5456792afed495",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新技术",
-      "title": "Skyworks 推出可扩展多核音频 DSP 系列 适用于从入门级到高端车型的各类汽车平台",
-      "url": "https://auto.gasgoo.com/news/202611/12I70477773C409.shtml",
-      "published_at": "2026-11-12T16:36:59Z",
-      "first_seen_at": "2026-11-13T10:29:58.974803Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
-      "title_original": "Skyworks 推出可扩展多核音频 DSP 系列 适用于从入门级到高端车型的各类汽车平台",
-      "title_en": null,
-      "title_zh": "Skyworks 推出可扩展多核音频 DSP 系列 适用于从入门级到高端车型的各类汽车平台",
-      "title_bilingual": "Skyworks 推出可扩展多核音频 DSP 系列 适用于从入门级到高端车型的各类汽车平台",
-      "topic_tags": [
-        "新车上市"
-      ]
-    },
-    {
-      "id": "10cd749d1ef64b9b67c2b25b7ff8180b9ef824b3",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新技术",
-      "title": "加州大学开发出机器拇指 让佩戴者用一只手完成双手任务",
-      "url": "https://auto.gasgoo.com/news/202611/12I70477772C409.shtml",
-      "published_at": "2026-11-12T16:35:29Z",
-      "first_seen_at": "2026-11-13T10:29:58.974803Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
-      "title_original": "加州大学开发出机器拇指 让佩戴者用一只手完成双手任务",
-      "title_en": null,
-      "title_zh": "加州大学开发出机器拇指 让佩戴者用一只手完成双手任务",
-      "title_bilingual": "加州大学开发出机器拇指 让佩戴者用一只手完成双手任务",
-      "topic_tags": []
-    },
-    {
-      "id": "4f5193cdbdf00f8541cf7c39d31a9ea14c0ebd20",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新技术",
-      "title": "研究人员利用蛋壳制造出更坚固、更轻盈的金属合金",
-      "url": "https://auto.gasgoo.com/news/202611/12I70477770C409.shtml",
-      "published_at": "2026-11-12T16:32:53Z",
-      "first_seen_at": "2026-11-13T10:29:58.974803Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
-      "title_original": "研究人员利用蛋壳制造出更坚固、更轻盈的金属合金",
-      "title_en": null,
-      "title_zh": "研究人员利用蛋壳制造出更坚固、更轻盈的金属合金",
-      "title_bilingual": "研究人员利用蛋壳制造出更坚固、更轻盈的金属合金",
-      "topic_tags": [
-        "供应链"
-      ]
-    },
-    {
-      "id": "2cd8eebc12f2c8b2dad150cbaa379fdf37aaa1f5",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新技术",
-      "title": "首尔国立大学发明新通信和内存工具 减少人工智能数据流量和响应延迟",
-      "url": "https://auto.gasgoo.com/news/202611/12I70477767C409.shtml",
-      "published_at": "2026-11-12T16:15:29Z",
-      "first_seen_at": "2026-11-13T10:29:58.974803Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
-      "title_original": "首尔国立大学发明新通信和内存工具 减少人工智能数据流量和响应延迟",
-      "title_en": null,
-      "title_zh": "首尔国立大学发明新通信和内存工具 减少人工智能数据流量和响应延迟",
-      "title_bilingual": "首尔国立大学发明新通信和内存工具 减少人工智能数据流量和响应延迟",
-      "topic_tags": []
-    },
-    {
-      "id": "71c555de24e91d614cd729aedaf29ba62c182e60",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "中国车企出口规模增长 人民币升值侵蚀利润",
-      "url": "https://auto.gasgoo.com/news/202611/12I70477766C108.shtml",
-      "published_at": "2026-11-12T16:12:49Z",
-      "first_seen_at": "2026-11-13T10:29:58.974803Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
-      "title_original": "中国车企出口规模增长 人民币升值侵蚀利润",
-      "title_en": null,
-      "title_zh": "中国车企出口规模增长 人民币升值侵蚀利润",
-      "title_bilingual": "中国车企出口规模增长 人民币升值侵蚀利润",
-      "topic_tags": [
-        "销量市场",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "a65d858ef4c8a6e3f065fe7b53fb9c65e74678be",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新技术",
-      "title": "福特申请具有交互式音频的车辆系统专利",
-      "url": "https://auto.gasgoo.com/news/202611/12I70477765C409.shtml",
-      "published_at": "2026-11-12T16:09:56Z",
-      "first_seen_at": "2026-11-13T10:29:58.974803Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
-      "title_original": "福特申请具有交互式音频的车辆系统专利",
-      "title_en": null,
-      "title_zh": "福特申请具有交互式音频的车辆系统专利",
-      "title_bilingual": "福特申请具有交互式音频的车辆系统专利",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "5e130ab562bf746d17e094250086ff7b9c730fff",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新技术",
-      "title": "横滨国立大学添加石墨烯介孔海绵可帮助锂离子电池存储更多能量",
-      "url": "https://auto.gasgoo.com/news/202611/12I70477763C409.shtml",
-      "published_at": "2026-11-12T16:05:17Z",
-      "first_seen_at": "2026-11-13T10:29:58.974803Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
-      "title_original": "横滨国立大学添加石墨烯介孔海绵可帮助锂离子电池存储更多能量",
-      "title_en": null,
-      "title_zh": "横滨国立大学添加石墨烯介孔海绵可帮助锂离子电池存储更多能量",
-      "title_bilingual": "横滨国立大学添加石墨烯介孔海绵可帮助锂离子电池存储更多能量",
-      "topic_tags": [
-        "补能电池"
-      ]
-    },
-    {
-      "id": "7db501e547ad82f542d56d7033773cedab3edd99",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新技术",
-      "title": "韩国科学技术院开发下一代电池隔膜 充电速度更快、续航时间更长",
-      "url": "https://auto.gasgoo.com/news/202611/12I70477760C409.shtml",
-      "published_at": "2026-11-12T15:58:02Z",
-      "first_seen_at": "2026-11-13T10:29:58.974803Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
-      "title_original": "韩国科学技术院开发下一代电池隔膜 充电速度更快、续航时间更长",
-      "title_en": null,
-      "title_zh": "韩国科学技术院开发下一代电池隔膜 充电速度更快、续航时间更长",
-      "title_bilingual": "韩国科学技术院开发下一代电池隔膜 充电速度更快、续航时间更长",
-      "topic_tags": [
-        "补能电池"
-      ]
-    },
-    {
-      "id": "084340969da63f82bf9666173c31e8a3cac1f4c6",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "大众中国新能源车型月销量创历史新高，显现复苏信号",
-      "url": "https://auto.gasgoo.com/news/202611/12I70477762C109.shtml",
-      "published_at": "2026-11-12T15:55:05Z",
-      "first_seen_at": "2026-11-13T10:29:58.974803Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
-      "title_original": "大众中国新能源车型月销量创历史新高，显现复苏信号",
-      "title_en": null,
-      "title_zh": "大众中国新能源车型月销量创历史新高，显现复苏信号",
-      "title_bilingual": "大众中国新能源车型月销量创历史新高，显现复苏信号",
-      "topic_tags": [
-        "新能源",
-        "销量市场",
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "0a8d9e31f4b412e87b819a253769fdf3028cd5aa",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新技术",
-      "title": "现代汽车申请双向尾门专利 可增加动力",
-      "url": "https://auto.gasgoo.com/news/202611/12I70477752C409.shtml",
-      "published_at": "2026-11-12T15:40:32Z",
-      "first_seen_at": "2026-11-13T10:29:58.974803Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
-      "title_original": "现代汽车申请双向尾门专利 可增加动力",
-      "title_en": null,
-      "title_zh": "现代汽车申请双向尾门专利 可增加动力",
-      "title_bilingual": "现代汽车申请双向尾门专利 可增加动力",
-      "topic_tags": []
-    },
-    {
-      "id": "52b157529d321f9182cd03ce5375a39141eb36c7",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Volkswagen ID. Era 5X makes up for ID. Tiguan as it enters China at 14,980 USD",
-      "url": "https://carnewschina.com/2026/11/12/volkswagen-id-era-5x-makes-up-for-id-tiguan-as-it-enters-china-at-14980-usd",
-      "published_at": "2026-11-12T15:37:32Z",
-      "first_seen_at": "2026-11-12T16:09:40.756297Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
-      "title_original": "Volkswagen ID. Era 5X makes up for ID. Tiguan as it enters China at 14,980 USD",
-      "title_en": "Volkswagen ID. Era 5X makes up for ID. Tiguan as it enters China at 14,980 USD",
-      "title_zh": "大众汽车 ID。 Era 5X弥补了ID。 Tiguan进入中国售价14,980美元",
-      "title_bilingual": "大众汽车 ID。 Era 5X弥补了ID。 Tiguan进入中国售价14,980美元 / Volkswagen ID. Era 5X makes up for ID. Tiguan as it enters China at 14,980 USD",
-      "topic_tags": [
-        "新能源",
-        "价格战",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "ebdfa314a39faef2849fc693fffc822ddb67540e",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Germany bans BYD, Nio and Geely cars from some military sites, report says",
-      "url": "https://carnewschina.com/2026/11/12/germany-bans-byd-nio-and-geely-cars-from-some-military-sites-report-says",
-      "published_at": "2026-11-12T15:34:36Z",
-      "first_seen_at": "2026-11-12T16:09:40.756297Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
-      "title_original": "Germany bans BYD, Nio and Geely cars from some military sites, report says",
-      "title_en": "Germany bans BYD, Nio and Geely cars from some military sites, report says",
-      "title_zh": "报告称，德国禁止比亚迪、蔚来和吉利汽车进入一些军事场所",
-      "title_bilingual": "报告称，德国禁止比亚迪、蔚来和吉利汽车进入一些军事场所 / Germany bans BYD, Nio and Geely cars from some military sites, report says",
-      "topic_tags": [
-        "新能源",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "79cd1762004c3be942363a84102b7b843f529310",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "大众取消沃尔夫斯堡工厂先进制造项目 劳资矛盾恐进一步升级",
-      "url": "https://auto.gasgoo.com/news/202611/12I70477759C109.shtml",
-      "published_at": "2026-11-12T15:31:41Z",
-      "first_seen_at": "2026-11-13T10:29:58.974803Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
-      "title_original": "大众取消沃尔夫斯堡工厂先进制造项目 劳资矛盾恐进一步升级",
-      "title_en": null,
-      "title_zh": "大众取消沃尔夫斯堡工厂先进制造项目 劳资矛盾恐进一步升级",
-      "title_bilingual": "大众取消沃尔夫斯堡工厂先进制造项目 劳资矛盾恐进一步升级",
-      "topic_tags": [
-        "车企竞争",
-        "供应链"
-      ]
-    },
-    {
-      "id": "09a970a188f95c8879c449d7738edfcad2304985",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "奔驰CEO官宣转向全新“100%立足中国、服务中国”战略",
-      "url": "https://auto.gasgoo.com/news/202611/12I70477757C109.shtml",
-      "published_at": "2026-11-12T15:00:17Z",
-      "first_seen_at": "2026-11-13T10:29:58.974803Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
-      "title_original": "奔驰CEO官宣转向全新“100%立足中国、服务中国”战略",
-      "title_en": null,
-      "title_zh": "奔驰CEO官宣转向全新“100%立足中国、服务中国”战略",
-      "title_bilingual": "奔驰CEO官宣转向全新“100%立足中国、服务中国”战略",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "40ad25a5ab376e1a32134465e7d9051df7e80fe7",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新技术",
-      "title": "Motive推出AI智能体 助力外勤团队在问题发生前采取行动",
-      "url": "https://auto.gasgoo.com/news/202611/12I70477751C409.shtml",
-      "published_at": "2026-11-12T14:44:44Z",
-      "first_seen_at": "2026-11-13T10:29:58.974803Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
-      "title_original": "Motive推出AI智能体 助力外勤团队在问题发生前采取行动",
-      "title_en": null,
-      "title_zh": "Motive推出AI智能体 助力外勤团队在问题发生前采取行动",
-      "title_bilingual": "Motive推出AI智能体 助力外勤团队在问题发生前采取行动",
-      "topic_tags": []
-    },
-    {
-      "id": "9628ee94c24eb5c3ba52016e021ab7f78164f13e",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新技术",
-      "title": "Universal Display与OLEDWorks推进青色OLED照明技术 助力自动驾驶系统实现通信功能",
-      "url": "https://auto.gasgoo.com/news/202611/12I70477749C409.shtml",
-      "published_at": "2026-11-12T14:43:00Z",
-      "first_seen_at": "2026-11-13T10:29:58.974803Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
-      "title_original": "Universal Display与OLEDWorks推进青色OLED照明技术 助力自动驾驶系统实现通信功能",
-      "title_en": null,
-      "title_zh": "Universal Display与OLEDWorks推进青色OLED照明技术 助力自动驾驶系统实现通信功能",
-      "title_bilingual": "Universal Display与OLEDWorks推进青色OLED照明技术 助力自动驾驶系统实现通信功能",
-      "topic_tags": [
-        "智能驾驶"
-      ]
-    },
-    {
-      "id": "c5b4490901e4c235f07d403c71d3f0ec2969243d",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Canada's Carney to discuss EV manufacturing during China visit next week",
-      "url": "https://cnevpost.com/2026/11/12/canada-carney-to-discuss-ev-manufacturing-china-visit",
-      "published_at": "2026-11-12T14:38:14Z",
-      "first_seen_at": "2026-11-12T16:09:40.756297Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
-      "title_original": "Canada's Carney to discuss EV manufacturing during China visit next week",
-      "title_en": "Canada's Carney to discuss EV manufacturing during China visit next week",
-      "title_zh": "加拿大卡尼下周访华期间将讨论电动汽车制造",
-      "title_bilingual": "加拿大卡尼下周访华期间将讨论电动汽车制造 / Canada's Carney to discuss EV manufacturing during China visit next week",
-      "topic_tags": [
-        "新能源",
-        "供应链"
-      ]
-    },
-    {
-      "id": "e0a73d001223ec503b6bc00be45707273e5cca1d",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "GAC Aion launches Ray 7 electric sedan targeting younger buyers",
-      "url": "https://cnevpost.com/2026/11/12/gac-aion-launches-ray-7",
-      "published_at": "2026-11-12T14:13:39Z",
-      "first_seen_at": "2026-11-12T16:09:40.756297Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
-      "title_original": "GAC Aion launches Ray 7 electric sedan targeting younger buyers",
-      "title_en": "GAC Aion launches Ray 7 electric sedan targeting younger buyers",
-      "title_zh": "广汽Aion推出Ray 7电动轿车，瞄准年轻买家",
-      "title_bilingual": "广汽Aion推出Ray 7电动轿车，瞄准年轻买家 / GAC Aion launches Ray 7 electric sedan targeting younger buyers",
-      "topic_tags": [
-        "新能源",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "5a74945cdac18faea12cbeacae7e352ac0c578ad",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "日产下调全球销量预期：中国市场已成沉重包袱，销量或将创23年新低",
-      "url": "https://auto.gasgoo.com/news/202611/12I70477747C109.shtml",
-      "published_at": "2026-11-12T13:56:38Z",
-      "first_seen_at": "2026-11-13T10:29:58.974803Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
-      "title_original": "日产下调全球销量预期：中国市场已成沉重包袱，销量或将创23年新低",
-      "title_en": null,
-      "title_zh": "日产下调全球销量预期：中国市场已成沉重包袱，销量或将创23年新低",
-      "title_bilingual": "日产下调全球销量预期：中国市场已成沉重包袱，销量或将创23年新低",
-      "topic_tags": [
-        "销量市场",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "bb28c6a158769697943ae9d60d7479acc57445b6",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "BYD’s Denza N8 EV launches in China: up to 1,003 km all-electric range, starting from 40,300 USD",
-      "url": "https://carnewschina.com/2026/11/12/byds-denza-n8-ev-launches-in-china-up-to-1003-km-cltc-range-starting-from-40300-usd",
-      "published_at": "2026-11-12T13:48:30Z",
-      "first_seen_at": "2026-11-12T16:09:40.756297Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
-      "title_original": "BYD’s Denza N8 EV launches in China: up to 1,003 km all-electric range, starting from 40,300 USD",
-      "title_en": "BYD’s Denza N8 EV launches in China: up to 1,003 km all-electric range, starting from 40,300 USD",
-      "title_zh": "比亚迪腾势N8 EV在中国上市：全电动续航里程高达1,003公里，起价40,300美元",
-      "title_bilingual": "比亚迪腾势N8 EV在中国上市：全电动续航里程高达1,003公里，起价40,300美元 / BYD’s Denza N8 EV launches in China: up to 1,003 km all-electric range, starting from 40,300 USD",
-      "topic_tags": [
-        "新能源",
-        "补能电池",
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "44efcbc42588e75ac95286b8d1c26c89d168e3fc",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "BYD Denza's updated N8 returns as 5-seater, expanding family SUV lineup",
-      "url": "https://cnevpost.com/2026/11/12/denza-updated-n8-returns-as-5-seater",
-      "published_at": "2026-11-12T13:43:00Z",
-      "first_seen_at": "2026-11-12T16:09:40.756297Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
-      "title_original": "BYD Denza's updated N8 returns as 5-seater, expanding family SUV lineup",
-      "title_en": "BYD Denza's updated N8 returns as 5-seater, expanding family SUV lineup",
-      "title_zh": "比亚迪腾势更新版N8以5座形式回归，扩大了家庭SUV阵容",
-      "title_bilingual": "比亚迪腾势更新版N8以5座形式回归，扩大了家庭SUV阵容 / BYD Denza's updated N8 returns as 5-seater, expanding family SUV lineup",
-      "topic_tags": [
-        "新能源",
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "117541a09a53799ac6892eac2e851ad7e2d5fce3",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "SAIC VW launches ID. ERA 5X, adding an electric SUV to its NEV lineup",
-      "url": "https://cnevpost.com/2026/11/12/saic-vw-launches-id-era-5x",
-      "published_at": "2026-11-12T12:39:30Z",
-      "first_seen_at": "2026-11-12T16:09:40.756297Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
-      "title_original": "SAIC VW launches ID. ERA 5X, adding an electric SUV to its NEV lineup",
-      "title_en": "SAIC VW launches ID. ERA 5X, adding an electric SUV to its NEV lineup",
-      "title_zh": "上汽大众推出ID. ERA 5X，为其新能源汽车阵容增添一款电动 SUV",
-      "title_bilingual": "上汽大众推出ID. ERA 5X，为其新能源汽车阵容增添一款电动 SUV / SAIC VW launches ID. ERA 5X, adding an electric SUV to its NEV lineup",
-      "topic_tags": [
-        "新能源",
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "20a73698d3985f37dfcc2dace2232dfbd0b417dd",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "【国际快讯】英伟达董事会拟罢免CEO黄仁勋；奔驰将转向“100%中国为中国”战略；日产第二财季利润暴跌96%",
-      "url": "https://auto.gasgoo.com/news/202611/12I70477746C108.shtml",
-      "published_at": "2026-11-12T12:07:14Z",
-      "first_seen_at": "2026-11-13T10:29:58.974803Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
-      "title_original": "【国际快讯】英伟达董事会拟罢免CEO黄仁勋；奔驰将转向“100%中国为中国”战略；日产第二财季利润暴跌96%",
-      "title_en": null,
-      "title_zh": "【国际快讯】英伟达董事会拟罢免CEO黄仁勋；奔驰将转向“100%中国为中国”战略；日产第二财季利润暴跌96%",
-      "title_bilingual": "【国际快讯】英伟达董事会拟罢免CEO黄仁勋；奔驰将转向“100%中国为中国”战略；日产第二财季利润暴跌96%",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "a7aebf12a55c8fecc6117535dd3eff6441dca193",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-销量",
-      "title": "日产中国区10月销量22,295辆，同比下滑67.1%",
-      "url": "https://auto.gasgoo.com/news/202611/12I70477738C110.shtml",
-      "published_at": "2026-11-12T11:52:19Z",
-      "first_seen_at": "2026-11-13T10:29:58.974803Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
-      "title_original": "日产中国区10月销量22,295辆，同比下滑67.1%",
-      "title_en": null,
-      "title_zh": "日产中国区10月销量22,295辆，同比下滑67.1%",
-      "title_bilingual": "日产中国区10月销量22,295辆，同比下滑67.1%",
-      "topic_tags": [
-        "销量市场"
-      ]
-    },
-    {
-      "id": "e1cdf2183cc8aac4fee2e07b69d7b11040a48475",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-Battery",
-      "title": "CATL secures another exclusive eVTOL battery partnership with EVT Aerotechnics",
-      "url": "https://cnevpost.com/2026/11/12/catl-evtol-battery-partnership-evt",
-      "published_at": "2026-11-12T11:01:38Z",
-      "first_seen_at": "2026-11-12T16:09:40.756297Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
-      "title_original": "CATL secures another exclusive eVTOL battery partnership with EVT Aerotechnics",
-      "title_en": "CATL secures another exclusive eVTOL battery partnership with EVT Aerotechnics",
-      "title_zh": "CATL与EVT Aerotechnics达成另一项独家电动垂直起降电池合作伙伴关系",
-      "title_bilingual": "CATL与EVT Aerotechnics达成另一项独家电动垂直起降电池合作伙伴关系 / CATL secures another exclusive eVTOL battery partnership with EVT Aerotechnics",
-      "topic_tags": [
-        "补能电池"
-      ]
-    },
-    {
-      "id": "65b251a3336959abf5885491570c6e88bd46b8e6",
+      "id": "11a903b666eeee5edd565a5786053dc2c1aba85c",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
       "source": "盖世汽车-智能网联",
-      "title": "黄仁勋再被爆婚外情，可能被董事会解除CEO职务",
-      "url": "https://auto.gasgoo.com/news/202611/12I70477736C601.shtml",
-      "published_at": "2026-11-12T10:58:09Z",
-      "first_seen_at": "2026-11-13T10:29:58.974803Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
-      "title_original": "黄仁勋再被爆婚外情，可能被董事会解除CEO职务",
+      "title": "摩根大通：美国人形机器人产量2030年有望达到40万台",
+      "url": "https://auto.gasgoo.com/news/202611/12I70477805C601.shtml",
+      "published_at": "2026-11-12T22:04:28Z",
+      "first_seen_at": "2026-11-13T17:59:27.088572Z",
+      "last_seen_at": "2026-11-13T17:59:27.088572Z",
+      "title_original": "摩根大通：美国人形机器人产量2030年有望达到40万台",
       "title_en": null,
-      "title_zh": "黄仁勋再被爆婚外情，可能被董事会解除CEO职务",
-      "title_bilingual": "黄仁勋再被爆婚外情，可能被董事会解除CEO职务",
+      "title_zh": "摩根大通：美国人形机器人产量2030年有望达到40万台",
+      "title_bilingual": "摩根大通：美国人形机器人产量2030年有望达到40万台",
       "topic_tags": []
     },
     {
-      "id": "a89e79715e8e6def87d7a1630c233c90e6730608",
+      "id": "64edb0c66cc2143361da615221754c0466a45278",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "蔚来ES9第4万台交付 连续5个月居50万级纯电销冠",
-      "url": "https://auto.gasgoo.com/news/202611/12I70477734C109.shtml",
-      "published_at": "2026-11-12T10:34:27Z",
-      "first_seen_at": "2026-11-13T02:46:02.012737Z",
-      "last_seen_at": "2026-11-13T10:29:58.974803Z",
-      "title_original": "蔚来ES9第4万台交付 连续5个月居50万级纯电销冠",
+      "source": "盖世汽车-行业",
+      "title": "在华受挫，德国车企加快本土业务收缩",
+      "url": "https://auto.gasgoo.com/news/202611/12I70477804C108.shtml",
+      "published_at": "2026-11-12T21:49:39Z",
+      "first_seen_at": "2026-11-13T17:59:27.088572Z",
+      "last_seen_at": "2026-11-13T17:59:27.088572Z",
+      "title_original": "在华受挫，德国车企加快本土业务收缩",
       "title_en": null,
-      "title_zh": "蔚来ES9第4万台交付 连续5个月居50万级纯电销冠",
-      "title_bilingual": "蔚来ES9第4万台交付 连续5个月居50万级纯电销冠",
+      "title_zh": "在华受挫，德国车企加快本土业务收缩",
+      "title_bilingual": "在华受挫，德国车企加快本土业务收缩",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "2cf1f6b29a22d412da63676693ac3c6a87e84ce9",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "欧盟拟推迟对英国产电动汽车征收10%关税",
+      "url": "https://auto.gasgoo.com/news/202611/12I70477803C108.shtml",
+      "published_at": "2026-11-12T21:27:44Z",
+      "first_seen_at": "2026-11-13T17:59:27.088572Z",
+      "last_seen_at": "2026-11-13T17:59:27.088572Z",
+      "title_original": "欧盟拟推迟对英国产电动汽车征收10%关税",
+      "title_en": null,
+      "title_zh": "欧盟拟推迟对英国产电动汽车征收10%关税",
+      "title_bilingual": "欧盟拟推迟对英国产电动汽车征收10%关税",
+      "topic_tags": []
+    },
+    {
+      "id": "7a74a9bca4bf27ee77cac3a7c88b37cb25a53f1e",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新能源",
+      "title": "冬天了，续航焦虑又要来了？",
+      "url": "https://auto.gasgoo.com/news/202611/12I70477756C501.shtml",
+      "published_at": "2026-11-12T19:28:54Z",
+      "first_seen_at": "2026-11-13T17:59:27.088572Z",
+      "last_seen_at": "2026-11-13T17:59:27.088572Z",
+      "title_original": "冬天了，续航焦虑又要来了？",
+      "title_en": null,
+      "title_zh": "冬天了，续航焦虑又要来了？",
+      "title_bilingual": "冬天了，续航焦虑又要来了？",
       "topic_tags": [
         "新能源",
-        "销量市场",
-        "车企竞争"
+        "补能电池"
+      ]
+    },
+    {
+      "id": "8966cb3e7b803090803eaa1c1f13debdd184a979",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "4%涨幅、18.6%混动份额：美国车市10月靠谁在撑？",
+      "url": "https://auto.gasgoo.com/news/202611/12I70477791C110.shtml",
+      "published_at": "2026-11-12T19:20:13Z",
+      "first_seen_at": "2026-11-13T17:59:27.088572Z",
+      "last_seen_at": "2026-11-13T17:59:27.088572Z",
+      "title_original": "4%涨幅、18.6%混动份额：美国车市10月靠谁在撑？",
+      "title_en": null,
+      "title_zh": "4%涨幅、18.6%混动份额：美国车市10月靠谁在撑？",
+      "title_bilingual": "4%涨幅、18.6%混动份额：美国车市10月靠谁在撑？",
+      "topic_tags": [
+        "新能源",
+        "销量市场"
       ]
     }
   ],
