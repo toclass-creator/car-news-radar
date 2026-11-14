@@ -1,65 +1,159 @@
 {
-  "generated_at": "2026-11-14T16:50:26.666697Z",
+  "generated_at": "2026-11-14T21:04:52.583436Z",
   "window_hours": 24,
-  "total_items": 10,
-  "total_items_ai_raw": 12,
-  "total_items_raw": 2832,
-  "total_items_all_mode": 2495,
+  "total_items": 12,
+  "total_items_ai_raw": 13,
+  "total_items_raw": 2498,
+  "total_items_all_mode": 2157,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 52873,
+  "archive_total": 52888,
   "site_count": 3,
   "source_count": 4,
   "site_stats": [
     {
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "count": 6,
-      "raw_count": 8
-    },
-    {
       "site_id": "tophub",
       "site_name": "TopHub",
+      "count": 8,
+      "raw_count": 2374
+    },
+    {
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
       "count": 4,
-      "raw_count": 2670
+      "raw_count": 5
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "count": 0,
-      "raw_count": 154
+      "raw_count": 119
     }
   ],
   "topic_tag_stats": [
     {
-      "tag": "车企竞争",
+      "tag": "新车上市",
       "count": 6
     },
     {
-      "tag": "新车上市",
+      "tag": "新能源",
       "count": 5
     },
     {
-      "tag": "新能源",
-      "count": 4
+      "tag": "车企竞争",
+      "count": 5
+    },
+    {
+      "tag": "购车决策",
+      "count": 2
+    },
+    {
+      "tag": "销量市场",
+      "count": 2
     },
     {
       "tag": "价格战",
       "count": 1
     },
     {
-      "tag": "供应链",
-      "count": 1
-    },
-    {
-      "tag": "购车决策",
-      "count": 1
-    },
-    {
-      "tag": "销量市场",
+      "tag": "智能驾驶",
       "count": 1
     }
   ],
   "items": [
+    {
+      "id": "09d00ceb99788c6535aaa76b8574bd7e06d9d074",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "预售15.77万起，激光雷达+双腔空悬+后轮转向，星越L PLUS如何？",
+      "url": "http://vc.yiche.com/vplay/14190374.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-14T21:04:52.583436Z",
+      "last_seen_at": "2026-11-14T21:04:52.583436Z",
+      "title_original": "预售15.77万起，激光雷达+双腔空悬+后轮转向，星越L PLUS如何？",
+      "title_en": null,
+      "title_zh": "预售15.77万起，激光雷达+双腔空悬+后轮转向，星越L PLUS如何？",
+      "title_bilingual": "预售15.77万起，激光雷达+双腔空悬+后轮转向，星越L PLUS如何？",
+      "topic_tags": [
+        "智能驾驶",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "eb108d5768594ca0606a8aeb7ed4de648a28b1a9",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "“本田版揽胜”来了！全新冠道七座+混动，12月1日首发",
+      "url": "http://vc.yiche.com/vplay/14185915.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-14T21:04:52.583436Z",
+      "last_seen_at": "2026-11-14T21:04:52.583436Z",
+      "title_original": "“本田版揽胜”来了！全新冠道七座+混动，12月1日首发",
+      "title_en": null,
+      "title_zh": "“本田版揽胜”来了！全新冠道七座+混动，12月1日首发",
+      "title_bilingual": "“本田版揽胜”来了！全新冠道七座+混动，12月1日首发",
+      "topic_tags": [
+        "新能源",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "7101aba13efd1ab29a4450b1e2701795e8b6841c",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "试驾星越L PLUS，空间大配置足，实测油耗挺亮眼",
+      "url": "http://vc.yiche.com/vplay/14188295.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-14T21:04:52.583436Z",
+      "last_seen_at": "2026-11-14T21:04:52.583436Z",
+      "title_original": "试驾星越L PLUS，空间大配置足，实测油耗挺亮眼",
+      "title_en": null,
+      "title_zh": "试驾星越L PLUS，空间大配置足，实测油耗挺亮眼",
+      "title_bilingual": "试驾星越L PLUS，空间大配置足，实测油耗挺亮眼",
+      "topic_tags": [
+        "购车决策"
+      ]
+    },
+    {
+      "id": "2943bfe9feb08d85e0170ddd7391a0072f218f21",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "经典NV200回归，插混加持，情怀能不能转化成销量？",
+      "url": "http://vc.yiche.com/vplay/14188785.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-14T21:04:52.583436Z",
+      "last_seen_at": "2026-11-14T21:04:52.583436Z",
+      "title_original": "经典NV200回归，插混加持，情怀能不能转化成销量？",
+      "title_en": null,
+      "title_zh": "经典NV200回归，插混加持，情怀能不能转化成销量？",
+      "title_bilingual": "经典NV200回归，插混加持，情怀能不能转化成销量？",
+      "topic_tags": [
+        "新能源",
+        "销量市场"
+      ]
+    },
+    {
+      "id": "2d4007784c8ba29de10a296f359d69c29262ed12",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "BYD chairman hands over new Seagull as sales are under pressure in China",
+      "url": "https://carnewschina.com/2026/11/14/byd-chairman-hands-over-new-seagull-as-geely-ex2-outsells-it-every-month-in-2026",
+      "published_at": "2026-11-14T05:16:24Z",
+      "first_seen_at": "2026-11-14T16:50:26.666697Z",
+      "last_seen_at": "2026-11-14T21:04:52.583436Z",
+      "title_original": "BYD chairman hands over new Seagull as sales are under pressure in China",
+      "title_en": "BYD chairman hands over new Seagull as sales are under pressure in China",
+      "title_zh": "由于中国销售面临压力，比亚迪董事长移交新海鸥",
+      "title_bilingual": "由于中国销售面临压力，比亚迪董事长移交新海鸥 / BYD chairman hands over new Seagull as sales are under pressure in China",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
     {
       "id": "b63ac76ea1b2d192baea65fe42383b29db12d84c",
       "site_id": "official_auto",
@@ -77,25 +171,6 @@
       "topic_tags": [
         "新能源",
         "销量市场",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "2d4007784c8ba29de10a296f359d69c29262ed12",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "BYD chairman hands over new Seagull as sales are under pressure in China",
-      "url": "https://carnewschina.com/2026/11/14/byd-chairman-hands-over-new-seagull-as-geely-ex2-outsells-it-every-month-in-2026",
-      "published_at": "2026-11-14T05:16:24Z",
-      "first_seen_at": "2026-11-14T16:50:26.666697Z",
-      "last_seen_at": "2026-11-14T16:50:26.666697Z",
-      "title_original": "BYD chairman hands over new Seagull as sales are under pressure in China",
-      "title_en": "BYD chairman hands over new Seagull as sales are under pressure in China",
-      "title_zh": "由于中国销售面临压力，比亚迪董事长移交新海鸥",
-      "title_bilingual": "由于中国销售面临压力，比亚迪董事长移交新海鸥 / BYD chairman hands over new Seagull as sales are under pressure in China",
-      "topic_tags": [
-        "新能源",
         "车企竞争"
       ]
     },
@@ -128,7 +203,7 @@
       "url": "http://vc.yiche.com/vplay/14149312.html",
       "published_at": null,
       "first_seen_at": "2026-11-13T23:27:11.658030Z",
-      "last_seen_at": "2026-11-14T16:50:26.666697Z",
+      "last_seen_at": "2026-11-14T21:04:52.583436Z",
       "title_original": "七座MPV还是SUV？领克900L给出新答案",
       "title_en": null,
       "title_zh": "七座MPV还是SUV？领克900L给出新答案",
@@ -184,7 +259,7 @@
       "url": "https://auto.gasgoo.com/news/202611/13I70477941C109.shtml",
       "published_at": "2026-11-13T22:14:39Z",
       "first_seen_at": "2026-11-14T16:50:26.666697Z",
-      "last_seen_at": "2026-11-14T16:50:26.666697Z",
+      "last_seen_at": "2026-11-14T21:04:52.583436Z",
       "title_original": "奔驰冻结德国本土投资，拟关闭部分生产基地",
       "title_en": null,
       "title_zh": "奔驰冻结德国本土投资，拟关闭部分生产基地",
@@ -202,56 +277,112 @@
       "url": "https://auto.gasgoo.com/news/202611/13I70477940C107.shtml",
       "published_at": "2026-11-13T21:59:30Z",
       "first_seen_at": "2026-11-14T16:50:26.666697Z",
-      "last_seen_at": "2026-11-14T16:50:26.666697Z",
+      "last_seen_at": "2026-11-14T21:04:52.583436Z",
       "title_original": "全新领克03家族正式上市，推出多项赛级配置",
       "title_en": null,
       "title_zh": "全新领克03家族正式上市，推出多项赛级配置",
       "title_bilingual": "全新领克03家族正式上市，推出多项赛级配置",
       "topic_tags": [
-        "新车上市"
-      ]
-    },
-    {
-      "id": "c4d2ea3bbfe452d82644eef2c2da89e907d671c3",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "北汽携手新紫光集团，舱驾控一体芯片拟2028年量产上车",
-      "url": "https://auto.gasgoo.com/news/202611/13I70477902C109.shtml",
-      "published_at": "2026-11-13T17:22:39Z",
-      "first_seen_at": "2026-11-14T10:48:28.163618Z",
-      "last_seen_at": "2026-11-14T16:50:26.666697Z",
-      "title_original": "北汽携手新紫光集团，舱驾控一体芯片拟2028年量产上车",
-      "title_en": null,
-      "title_zh": "北汽携手新紫光集团，舱驾控一体芯片拟2028年量产上车",
-      "title_bilingual": "北汽携手新紫光集团，舱驾控一体芯片拟2028年量产上车",
-      "topic_tags": [
-        "车企竞争",
-        "供应链"
-      ]
-    },
-    {
-      "id": "337d22dcc0075eeceb4bb3189d6822c4562fba57",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新车",
-      "title": "启境GT7 Ultra舒享版增程纯电双车上新，限时22.19万起",
-      "url": "https://auto.gasgoo.com/news/202611/13I70477924C107.shtml",
-      "published_at": "2026-11-13T17:15:03Z",
-      "first_seen_at": "2026-11-14T10:48:28.163618Z",
-      "last_seen_at": "2026-11-14T16:50:26.666697Z",
-      "title_original": "启境GT7 Ultra舒享版增程纯电双车上新，限时22.19万起",
-      "title_en": null,
-      "title_zh": "启境GT7 Ultra舒享版增程纯电双车上新，限时22.19万起",
-      "title_bilingual": "启境GT7 Ultra舒享版增程纯电双车上新，限时22.19万起",
-      "topic_tags": [
-        "新能源",
         "新车上市"
       ]
     }
   ],
   "items_ai": [
     {
+      "id": "09d00ceb99788c6535aaa76b8574bd7e06d9d074",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "预售15.77万起，激光雷达+双腔空悬+后轮转向，星越L PLUS如何？",
+      "url": "http://vc.yiche.com/vplay/14190374.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-14T21:04:52.583436Z",
+      "last_seen_at": "2026-11-14T21:04:52.583436Z",
+      "title_original": "预售15.77万起，激光雷达+双腔空悬+后轮转向，星越L PLUS如何？",
+      "title_en": null,
+      "title_zh": "预售15.77万起，激光雷达+双腔空悬+后轮转向，星越L PLUS如何？",
+      "title_bilingual": "预售15.77万起，激光雷达+双腔空悬+后轮转向，星越L PLUS如何？",
+      "topic_tags": [
+        "智能驾驶",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "eb108d5768594ca0606a8aeb7ed4de648a28b1a9",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "“本田版揽胜”来了！全新冠道七座+混动，12月1日首发",
+      "url": "http://vc.yiche.com/vplay/14185915.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-14T21:04:52.583436Z",
+      "last_seen_at": "2026-11-14T21:04:52.583436Z",
+      "title_original": "“本田版揽胜”来了！全新冠道七座+混动，12月1日首发",
+      "title_en": null,
+      "title_zh": "“本田版揽胜”来了！全新冠道七座+混动，12月1日首发",
+      "title_bilingual": "“本田版揽胜”来了！全新冠道七座+混动，12月1日首发",
+      "topic_tags": [
+        "新能源",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "7101aba13efd1ab29a4450b1e2701795e8b6841c",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "试驾星越L PLUS，空间大配置足，实测油耗挺亮眼",
+      "url": "http://vc.yiche.com/vplay/14188295.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-14T21:04:52.583436Z",
+      "last_seen_at": "2026-11-14T21:04:52.583436Z",
+      "title_original": "试驾星越L PLUS，空间大配置足，实测油耗挺亮眼",
+      "title_en": null,
+      "title_zh": "试驾星越L PLUS，空间大配置足，实测油耗挺亮眼",
+      "title_bilingual": "试驾星越L PLUS，空间大配置足，实测油耗挺亮眼",
+      "topic_tags": [
+        "购车决策"
+      ]
+    },
+    {
+      "id": "2943bfe9feb08d85e0170ddd7391a0072f218f21",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "经典NV200回归，插混加持，情怀能不能转化成销量？",
+      "url": "http://vc.yiche.com/vplay/14188785.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-14T21:04:52.583436Z",
+      "last_seen_at": "2026-11-14T21:04:52.583436Z",
+      "title_original": "经典NV200回归，插混加持，情怀能不能转化成销量？",
+      "title_en": null,
+      "title_zh": "经典NV200回归，插混加持，情怀能不能转化成销量？",
+      "title_bilingual": "经典NV200回归，插混加持，情怀能不能转化成销量？",
+      "topic_tags": [
+        "新能源",
+        "销量市场"
+      ]
+    },
+    {
+      "id": "2d4007784c8ba29de10a296f359d69c29262ed12",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "BYD chairman hands over new Seagull as sales are under pressure in China",
+      "url": "https://carnewschina.com/2026/11/14/byd-chairman-hands-over-new-seagull-as-geely-ex2-outsells-it-every-month-in-2026",
+      "published_at": "2026-11-14T05:16:24Z",
+      "first_seen_at": "2026-11-14T16:50:26.666697Z",
+      "last_seen_at": "2026-11-14T21:04:52.583436Z",
+      "title_original": "BYD chairman hands over new Seagull as sales are under pressure in China",
+      "title_en": "BYD chairman hands over new Seagull as sales are under pressure in China",
+      "title_zh": "由于中国销售面临压力，比亚迪董事长移交新海鸥",
+      "title_bilingual": "由于中国销售面临压力，比亚迪董事长移交新海鸥 / BYD chairman hands over new Seagull as sales are under pressure in China",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
       "id": "b63ac76ea1b2d192baea65fe42383b29db12d84c",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -268,25 +399,6 @@
       "topic_tags": [
         "新能源",
         "销量市场",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "2d4007784c8ba29de10a296f359d69c29262ed12",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "BYD chairman hands over new Seagull as sales are under pressure in China",
-      "url": "https://carnewschina.com/2026/11/14/byd-chairman-hands-over-new-seagull-as-geely-ex2-outsells-it-every-month-in-2026",
-      "published_at": "2026-11-14T05:16:24Z",
-      "first_seen_at": "2026-11-14T16:50:26.666697Z",
-      "last_seen_at": "2026-11-14T16:50:26.666697Z",
-      "title_original": "BYD chairman hands over new Seagull as sales are under pressure in China",
-      "title_en": "BYD chairman hands over new Seagull as sales are under pressure in China",
-      "title_zh": "由于中国销售面临压力，比亚迪董事长移交新海鸥",
-      "title_bilingual": "由于中国销售面临压力，比亚迪董事长移交新海鸥 / BYD chairman hands over new Seagull as sales are under pressure in China",
-      "topic_tags": [
-        "新能源",
         "车企竞争"
       ]
     },
@@ -319,7 +431,7 @@
       "url": "http://vc.yiche.com/vplay/14149312.html",
       "published_at": null,
       "first_seen_at": "2026-11-13T23:27:11.658030Z",
-      "last_seen_at": "2026-11-14T16:50:26.666697Z",
+      "last_seen_at": "2026-11-14T21:04:52.583436Z",
       "title_original": "七座MPV还是SUV？领克900L给出新答案",
       "title_en": null,
       "title_zh": "七座MPV还是SUV？领克900L给出新答案",
@@ -375,7 +487,7 @@
       "url": "https://auto.gasgoo.com/news/202611/13I70477941C109.shtml",
       "published_at": "2026-11-13T22:14:39Z",
       "first_seen_at": "2026-11-14T16:50:26.666697Z",
-      "last_seen_at": "2026-11-14T16:50:26.666697Z",
+      "last_seen_at": "2026-11-14T21:04:52.583436Z",
       "title_original": "奔驰冻结德国本土投资，拟关闭部分生产基地",
       "title_en": null,
       "title_zh": "奔驰冻结德国本土投资，拟关闭部分生产基地",
@@ -393,50 +505,12 @@
       "url": "https://auto.gasgoo.com/news/202611/13I70477940C107.shtml",
       "published_at": "2026-11-13T21:59:30Z",
       "first_seen_at": "2026-11-14T16:50:26.666697Z",
-      "last_seen_at": "2026-11-14T16:50:26.666697Z",
+      "last_seen_at": "2026-11-14T21:04:52.583436Z",
       "title_original": "全新领克03家族正式上市，推出多项赛级配置",
       "title_en": null,
       "title_zh": "全新领克03家族正式上市，推出多项赛级配置",
       "title_bilingual": "全新领克03家族正式上市，推出多项赛级配置",
       "topic_tags": [
-        "新车上市"
-      ]
-    },
-    {
-      "id": "c4d2ea3bbfe452d82644eef2c2da89e907d671c3",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "北汽携手新紫光集团，舱驾控一体芯片拟2028年量产上车",
-      "url": "https://auto.gasgoo.com/news/202611/13I70477902C109.shtml",
-      "published_at": "2026-11-13T17:22:39Z",
-      "first_seen_at": "2026-11-14T10:48:28.163618Z",
-      "last_seen_at": "2026-11-14T16:50:26.666697Z",
-      "title_original": "北汽携手新紫光集团，舱驾控一体芯片拟2028年量产上车",
-      "title_en": null,
-      "title_zh": "北汽携手新紫光集团，舱驾控一体芯片拟2028年量产上车",
-      "title_bilingual": "北汽携手新紫光集团，舱驾控一体芯片拟2028年量产上车",
-      "topic_tags": [
-        "车企竞争",
-        "供应链"
-      ]
-    },
-    {
-      "id": "337d22dcc0075eeceb4bb3189d6822c4562fba57",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新车",
-      "title": "启境GT7 Ultra舒享版增程纯电双车上新，限时22.19万起",
-      "url": "https://auto.gasgoo.com/news/202611/13I70477924C107.shtml",
-      "published_at": "2026-11-13T17:15:03Z",
-      "first_seen_at": "2026-11-14T10:48:28.163618Z",
-      "last_seen_at": "2026-11-14T16:50:26.666697Z",
-      "title_original": "启境GT7 Ultra舒享版增程纯电双车上新，限时22.19万起",
-      "title_en": null,
-      "title_zh": "启境GT7 Ultra舒享版增程纯电双车上新，限时22.19万起",
-      "title_bilingual": "启境GT7 Ultra舒享版增程纯电双车上新，限时22.19万起",
-      "topic_tags": [
-        "新能源",
         "新车上市"
       ]
     }
