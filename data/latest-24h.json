@@ -1,41 +1,49 @@
 {
-  "generated_at": "2026-11-15T08:09:26.150161Z",
+  "generated_at": "2026-11-15T15:46:10.925855Z",
   "window_hours": 24,
-  "total_items": 6,
-  "total_items_ai_raw": 6,
-  "total_items_raw": 2511,
-  "total_items_all_mode": 2223,
+  "total_items": 8,
+  "total_items_ai_raw": 8,
+  "total_items_raw": 2352,
+  "total_items_all_mode": 2125,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 52455,
+  "archive_total": 52169,
   "site_count": 3,
-  "source_count": 3,
+  "source_count": 4,
   "site_stats": [
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "count": 5,
-      "raw_count": 2378
+      "raw_count": 2219
     },
     {
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "count": 1,
-      "raw_count": 1
+      "count": 3,
+      "raw_count": 3
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "count": 0,
-      "raw_count": 132
+      "raw_count": 130
     }
   ],
   "topic_tag_stats": [
     {
-      "tag": "新车上市",
+      "tag": "新能源",
+      "count": 5
+    },
+    {
+      "tag": "车企竞争",
       "count": 3
     },
     {
-      "tag": "新能源",
+      "tag": "新车上市",
+      "count": 2
+    },
+    {
+      "tag": "购车决策",
       "count": 2
     },
     {
@@ -43,7 +51,11 @@
       "count": 2
     },
     {
-      "tag": "价格战",
+      "tag": "供应链",
+      "count": 1
+    },
+    {
+      "tag": "召回安全",
       "count": 1
     },
     {
@@ -53,13 +65,70 @@
     {
       "tag": "补能电池",
       "count": 1
-    },
-    {
-      "tag": "购车决策",
-      "count": 1
     }
   ],
   "items": [
+    {
+      "id": "37850b5d506544323695db06a4796d141401ff44",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Nio opens northernmost swap station in China, touting 3-minute swaps in extreme cold",
+      "url": "https://cnevpost.com/2026/11/15/nio-opens-northernmost-swap-station-china-heihe",
+      "published_at": "2026-11-15T12:28:00Z",
+      "first_seen_at": "2026-11-15T15:46:10.925855Z",
+      "last_seen_at": "2026-11-15T15:46:10.925855Z",
+      "title_original": "Nio opens northernmost swap station in China, touting 3-minute swaps in extreme cold",
+      "title_en": "Nio opens northernmost swap station in China, touting 3-minute swaps in extreme cold",
+      "title_zh": "蔚来在中国最北端开设交换站，宣传极寒条件下3分钟交换",
+      "title_bilingual": "蔚来在中国最北端开设交换站，宣传极寒条件下3分钟交换 / Nio opens northernmost swap station in China, touting 3-minute swaps in extreme cold",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "5c94279e95d4105d5b2536b0c782de7cd1e48c40",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Nio deploys battery swap station in a region with temperatures reaching -48°C",
+      "url": "https://carnewschina.com/2026/11/15/nio-deploys-battery-swap-station-in-a-region-with-temperatures-reaching-48c",
+      "published_at": "2026-11-15T10:55:49Z",
+      "first_seen_at": "2026-11-15T15:46:10.925855Z",
+      "last_seen_at": "2026-11-15T15:46:10.925855Z",
+      "title_original": "Nio deploys battery swap station in a region with temperatures reaching -48°C",
+      "title_en": "Nio deploys battery swap station in a region with temperatures reaching -48°C",
+      "title_zh": "蔚来在气温达到-48°C的地区部署电池交换站",
+      "title_bilingual": "蔚来在气温达到-48°C的地区部署电池交换站 / Nio deploys battery swap station in a region with temperatures reaching -48°C",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "42f9653dcf213cd4bddd79d3fb3c0a154ec16080",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Nio warns owners of 'airbag recall' scam texts as other automakers issue similar alerts",
+      "url": "https://cnevpost.com/2026/11/15/nio-warns-airbag-recall-scam-texts",
+      "published_at": "2026-11-15T09:34:33Z",
+      "first_seen_at": "2026-11-15T15:46:10.925855Z",
+      "last_seen_at": "2026-11-15T15:46:10.925855Z",
+      "title_original": "Nio warns owners of 'airbag recall' scam texts as other automakers issue similar alerts",
+      "title_en": "Nio warns owners of 'airbag recall' scam texts as other automakers issue similar alerts",
+      "title_zh": "蔚来警告车主警惕“安全气囊召回”诈骗短信，其他汽车制造商也发出类似警报",
+      "title_bilingual": "蔚来警告车主警惕“安全气囊召回”诈骗短信，其他汽车制造商也发出类似警报 / Nio warns owners of 'airbag recall' scam texts as other automakers issue similar alerts",
+      "topic_tags": [
+        "新能源",
+        "召回安全",
+        "车企竞争",
+        "供应链",
+        "购车决策"
+      ]
+    },
     {
       "id": "3ca149d8fae73abe98b5fae380c3612cceb7b5a5",
       "site_id": "tophub",
@@ -69,7 +138,7 @@
       "url": "https://www.dongchedi.com/article/7706497505824260633",
       "published_at": null,
       "first_seen_at": "2026-11-15T08:09:26.150161Z",
-      "last_seen_at": "2026-11-15T08:09:26.150161Z",
+      "last_seen_at": "2026-11-15T15:46:10.925855Z",
       "title_original": "旺季不旺的10月车市：榜单没换人，买家换了一茬",
       "title_en": null,
       "title_zh": "旺季不旺的10月车市：榜单没换人，买家换了一茬",
@@ -87,7 +156,7 @@
       "url": "http://vc.yiche.com/vplay/14190374.html",
       "published_at": null,
       "first_seen_at": "2026-11-14T21:04:52.583436Z",
-      "last_seen_at": "2026-11-15T08:09:26.150161Z",
+      "last_seen_at": "2026-11-15T15:46:10.925855Z",
       "title_original": "预售15.77万起，激光雷达+双腔空悬+后轮转向，星越L PLUS如何？",
       "title_en": null,
       "title_zh": "预售15.77万起，激光雷达+双腔空悬+后轮转向，星越L PLUS如何？",
@@ -106,7 +175,7 @@
       "url": "http://vc.yiche.com/vplay/14185915.html",
       "published_at": null,
       "first_seen_at": "2026-11-14T21:04:52.583436Z",
-      "last_seen_at": "2026-11-15T08:09:26.150161Z",
+      "last_seen_at": "2026-11-15T15:46:10.925855Z",
       "title_original": "“本田版揽胜”来了！全新冠道七座+混动，12月1日首发",
       "title_en": null,
       "title_zh": "“本田版揽胜”来了！全新冠道七座+混动，12月1日首发",
@@ -125,7 +194,7 @@
       "url": "http://vc.yiche.com/vplay/14188295.html",
       "published_at": null,
       "first_seen_at": "2026-11-14T21:04:52.583436Z",
-      "last_seen_at": "2026-11-15T08:09:26.150161Z",
+      "last_seen_at": "2026-11-15T15:46:10.925855Z",
       "title_original": "试驾星越L PLUS，空间大配置足，实测油耗挺亮眼",
       "title_en": null,
       "title_zh": "试驾星越L PLUS，空间大配置足，实测油耗挺亮眼",
@@ -143,7 +212,7 @@
       "url": "http://vc.yiche.com/vplay/14188785.html",
       "published_at": null,
       "first_seen_at": "2026-11-14T21:04:52.583436Z",
-      "last_seen_at": "2026-11-15T08:09:26.150161Z",
+      "last_seen_at": "2026-11-15T15:46:10.925855Z",
       "title_original": "经典NV200回归，插混加持，情怀能不能转化成销量？",
       "title_en": null,
       "title_zh": "经典NV200回归，插混加持，情怀能不能转化成销量？",
@@ -151,31 +220,72 @@
       "topic_tags": [
         "新能源",
         "销量市场"
-      ]
-    },
-    {
-      "id": "7a8ce92a0edfb3bf7cbc3df44080905788ad48e1",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新车",
-      "title": "​极狐发布“极+时代”换电生态，两款新车上市，租电价5.2万元起",
-      "url": "https://auto.gasgoo.com/news/202611/14I70477996C107.shtml",
-      "published_at": "2026-11-14T12:15:24Z",
-      "first_seen_at": "2026-11-15T08:09:26.150161Z",
-      "last_seen_at": "2026-11-15T08:09:26.150161Z",
-      "title_original": "​极狐发布“极+时代”换电生态，两款新车上市，租电价5.2万元起",
-      "title_en": null,
-      "title_zh": "​极狐发布“极+时代”换电生态，两款新车上市，租电价5.2万元起",
-      "title_bilingual": "​极狐发布“极+时代”换电生态，两款新车上市，租电价5.2万元起",
-      "topic_tags": [
-        "补能电池",
-        "价格战",
-        "新车上市"
       ]
     }
   ],
   "items_ai": [
     {
+      "id": "37850b5d506544323695db06a4796d141401ff44",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Nio opens northernmost swap station in China, touting 3-minute swaps in extreme cold",
+      "url": "https://cnevpost.com/2026/11/15/nio-opens-northernmost-swap-station-china-heihe",
+      "published_at": "2026-11-15T12:28:00Z",
+      "first_seen_at": "2026-11-15T15:46:10.925855Z",
+      "last_seen_at": "2026-11-15T15:46:10.925855Z",
+      "title_original": "Nio opens northernmost swap station in China, touting 3-minute swaps in extreme cold",
+      "title_en": "Nio opens northernmost swap station in China, touting 3-minute swaps in extreme cold",
+      "title_zh": "蔚来在中国最北端开设交换站，宣传极寒条件下3分钟交换",
+      "title_bilingual": "蔚来在中国最北端开设交换站，宣传极寒条件下3分钟交换 / Nio opens northernmost swap station in China, touting 3-minute swaps in extreme cold",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "5c94279e95d4105d5b2536b0c782de7cd1e48c40",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Nio deploys battery swap station in a region with temperatures reaching -48°C",
+      "url": "https://carnewschina.com/2026/11/15/nio-deploys-battery-swap-station-in-a-region-with-temperatures-reaching-48c",
+      "published_at": "2026-11-15T10:55:49Z",
+      "first_seen_at": "2026-11-15T15:46:10.925855Z",
+      "last_seen_at": "2026-11-15T15:46:10.925855Z",
+      "title_original": "Nio deploys battery swap station in a region with temperatures reaching -48°C",
+      "title_en": "Nio deploys battery swap station in a region with temperatures reaching -48°C",
+      "title_zh": "蔚来在气温达到-48°C的地区部署电池交换站",
+      "title_bilingual": "蔚来在气温达到-48°C的地区部署电池交换站 / Nio deploys battery swap station in a region with temperatures reaching -48°C",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "42f9653dcf213cd4bddd79d3fb3c0a154ec16080",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Nio warns owners of 'airbag recall' scam texts as other automakers issue similar alerts",
+      "url": "https://cnevpost.com/2026/11/15/nio-warns-airbag-recall-scam-texts",
+      "published_at": "2026-11-15T09:34:33Z",
+      "first_seen_at": "2026-11-15T15:46:10.925855Z",
+      "last_seen_at": "2026-11-15T15:46:10.925855Z",
+      "title_original": "Nio warns owners of 'airbag recall' scam texts as other automakers issue similar alerts",
+      "title_en": "Nio warns owners of 'airbag recall' scam texts as other automakers issue similar alerts",
+      "title_zh": "蔚来警告车主警惕“安全气囊召回”诈骗短信，其他汽车制造商也发出类似警报",
+      "title_bilingual": "蔚来警告车主警惕“安全气囊召回”诈骗短信，其他汽车制造商也发出类似警报 / Nio warns owners of 'airbag recall' scam texts as other automakers issue similar alerts",
+      "topic_tags": [
+        "新能源",
+        "召回安全",
+        "车企竞争",
+        "供应链",
+        "购车决策"
+      ]
+    },
+    {
       "id": "3ca149d8fae73abe98b5fae380c3612cceb7b5a5",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -184,7 +294,7 @@
       "url": "https://www.dongchedi.com/article/7706497505824260633",
       "published_at": null,
       "first_seen_at": "2026-11-15T08:09:26.150161Z",
-      "last_seen_at": "2026-11-15T08:09:26.150161Z",
+      "last_seen_at": "2026-11-15T15:46:10.925855Z",
       "title_original": "旺季不旺的10月车市：榜单没换人，买家换了一茬",
       "title_en": null,
       "title_zh": "旺季不旺的10月车市：榜单没换人，买家换了一茬",
@@ -202,7 +312,7 @@
       "url": "http://vc.yiche.com/vplay/14190374.html",
       "published_at": null,
       "first_seen_at": "2026-11-14T21:04:52.583436Z",
-      "last_seen_at": "2026-11-15T08:09:26.150161Z",
+      "last_seen_at": "2026-11-15T15:46:10.925855Z",
       "title_original": "预售15.77万起，激光雷达+双腔空悬+后轮转向，星越L PLUS如何？",
       "title_en": null,
       "title_zh": "预售15.77万起，激光雷达+双腔空悬+后轮转向，星越L PLUS如何？",
@@ -221,7 +331,7 @@
       "url": "http://vc.yiche.com/vplay/14185915.html",
       "published_at": null,
       "first_seen_at": "2026-11-14T21:04:52.583436Z",
-      "last_seen_at": "2026-11-15T08:09:26.150161Z",
+      "last_seen_at": "2026-11-15T15:46:10.925855Z",
       "title_original": "“本田版揽胜”来了！全新冠道七座+混动，12月1日首发",
       "title_en": null,
       "title_zh": "“本田版揽胜”来了！全新冠道七座+混动，12月1日首发",
@@ -240,7 +350,7 @@
       "url": "http://vc.yiche.com/vplay/14188295.html",
       "published_at": null,
       "first_seen_at": "2026-11-14T21:04:52.583436Z",
-      "last_seen_at": "2026-11-15T08:09:26.150161Z",
+      "last_seen_at": "2026-11-15T15:46:10.925855Z",
       "title_original": "试驾星越L PLUS，空间大配置足，实测油耗挺亮眼",
       "title_en": null,
       "title_zh": "试驾星越L PLUS，空间大配置足，实测油耗挺亮眼",
@@ -258,7 +368,7 @@
       "url": "http://vc.yiche.com/vplay/14188785.html",
       "published_at": null,
       "first_seen_at": "2026-11-14T21:04:52.583436Z",
-      "last_seen_at": "2026-11-15T08:09:26.150161Z",
+      "last_seen_at": "2026-11-15T15:46:10.925855Z",
       "title_original": "经典NV200回归，插混加持，情怀能不能转化成销量？",
       "title_en": null,
       "title_zh": "经典NV200回归，插混加持，情怀能不能转化成销量？",
@@ -266,26 +376,6 @@
       "topic_tags": [
         "新能源",
         "销量市场"
-      ]
-    },
-    {
-      "id": "7a8ce92a0edfb3bf7cbc3df44080905788ad48e1",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新车",
-      "title": "​极狐发布“极+时代”换电生态，两款新车上市，租电价5.2万元起",
-      "url": "https://auto.gasgoo.com/news/202611/14I70477996C107.shtml",
-      "published_at": "2026-11-14T12:15:24Z",
-      "first_seen_at": "2026-11-15T08:09:26.150161Z",
-      "last_seen_at": "2026-11-15T08:09:26.150161Z",
-      "title_original": "​极狐发布“极+时代”换电生态，两款新车上市，租电价5.2万元起",
-      "title_en": null,
-      "title_zh": "​极狐发布“极+时代”换电生态，两款新车上市，租电价5.2万元起",
-      "title_bilingual": "​极狐发布“极+时代”换电生态，两款新车上市，租电价5.2万元起",
-      "topic_tags": [
-        "补能电池",
-        "价格战",
-        "新车上市"
       ]
     }
   ],
