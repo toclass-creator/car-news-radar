@@ -1,53 +1,57 @@
 {
-  "generated_at": "2026-11-16T00:43:40.676178Z",
+  "generated_at": "2026-11-16T07:37:56.904868Z",
   "window_hours": 24,
-  "total_items": 10,
-  "total_items_ai_raw": 10,
-  "total_items_raw": 2116,
-  "total_items_all_mode": 1905,
+  "total_items": 15,
+  "total_items_ai_raw": 15,
+  "total_items_raw": 2487,
+  "total_items_all_mode": 2207,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 52036,
+  "archive_total": 51546,
   "site_count": 3,
-  "source_count": 5,
+  "source_count": 6,
   "site_stats": [
+    {
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "count": 9,
+      "raw_count": 9
+    },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "count": 5,
-      "raw_count": 2000
-    },
-    {
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "count": 5,
-      "raw_count": 5
+      "raw_count": 2352
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
-      "count": 0,
-      "raw_count": 111
+      "count": 1,
+      "raw_count": 126
     }
   ],
   "topic_tag_stats": [
     {
       "tag": "新能源",
-      "count": 6
+      "count": 10
     },
     {
       "tag": "车企竞争",
-      "count": 5
+      "count": 8
     },
     {
-      "tag": "召回安全",
-      "count": 2
+      "tag": "新车上市",
+      "count": 3
     },
     {
       "tag": "补能电池",
-      "count": 2
+      "count": 3
     },
     {
       "tag": "销量市场",
+      "count": 3
+    },
+    {
+      "tag": "召回安全",
       "count": 2
     },
     {
@@ -59,7 +63,7 @@
       "count": 1
     },
     {
-      "tag": "新车上市",
+      "tag": "智能驾驶",
       "count": 1
     },
     {
@@ -69,6 +73,103 @@
   ],
   "items": [
     {
+      "id": "d58078ae586510861aae9fb4ab5e52cf30ab174f",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "juejin",
+      "title": "DeepSeek Harness 实战与架构解析：让 Agent 从“会聊”到“能交付”",
+      "url": "https://juejin.cn/post/7708058421904392242",
+      "published_at": "2026-11-16T07:38:10.254000Z",
+      "first_seen_at": "2026-11-16T07:37:56.904868Z",
+      "last_seen_at": "2026-11-16T07:37:56.904868Z",
+      "title_original": "DeepSeek Harness 实战与架构解析：让 Agent 从“会聊”到“能交付”",
+      "title_en": null,
+      "title_zh": "DeepSeek Harness 实战与架构解析：让 Agent 从“会聊”到“能交付”",
+      "title_bilingual": "DeepSeek Harness 实战与架构解析：让 Agent 从“会聊”到“能交付”",
+      "topic_tags": [
+        "销量市场"
+      ]
+    },
+    {
+      "id": "39e71c8dd5215dcb0ce3ebcd175ea522c8c17927",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Brand-new BYD vehicle paid in full stolen inside dealership while buyer awaits pickup",
+      "url": "https://carnewschina.com/2026/11/16/brand-new-byd-vehicle-paid-in-full-stolen-inside-dealership-while-buyer-awaits-pickup",
+      "published_at": "2026-11-16T07:18:31Z",
+      "first_seen_at": "2026-11-16T07:37:56.904868Z",
+      "last_seen_at": "2026-11-16T07:37:56.904868Z",
+      "title_original": "Brand-new BYD vehicle paid in full stolen inside dealership while buyer awaits pickup",
+      "title_en": "Brand-new BYD vehicle paid in full stolen inside dealership while buyer awaits pickup",
+      "title_zh": "全新比亚迪汽车在经销店内全额付款，买家等待提货",
+      "title_bilingual": "全新比亚迪汽车在经销店内全额付款，买家等待提货 / Brand-new BYD vehicle paid in full stolen inside dealership while buyer awaits pickup",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "b6c924f5818ade9cc4eb8ce6ce5ad6e29467377d",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "BYD to launch third-gen Tang 5-seat electric SUV on November 24 with up to 850 km range",
+      "url": "https://cnevpost.com/2026/11/16/byd-to-launch-3rd-gen-tang-nov-24",
+      "published_at": "2026-11-16T06:40:29Z",
+      "first_seen_at": "2026-11-16T07:37:56.904868Z",
+      "last_seen_at": "2026-11-16T07:37:56.904868Z",
+      "title_original": "BYD to launch third-gen Tang 5-seat electric SUV on November 24 with up to 850 km range",
+      "title_en": "BYD to launch third-gen Tang 5-seat electric SUV on November 24 with up to 850 km range",
+      "title_zh": "比亚迪将于11月24日推出第三代唐5座电动SUV，续航里程可达850公里",
+      "title_bilingual": "比亚迪将于11月24日推出第三代唐5座电动SUV，续航里程可达850公里 / BYD to launch third-gen Tang 5-seat electric SUV on November 24 with up to 850 km range",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "1a92465798b21fb0fc11c1e2685f34de803f3082",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Pony AI and Toyota launch bZ4X robotaxi service in Guangzhou",
+      "url": "https://cnevpost.com/2026/11/16/pony-ai-toyota-bz4x-robotaxi-guangzhou",
+      "published_at": "2026-11-16T05:25:50Z",
+      "first_seen_at": "2026-11-16T07:37:56.904868Z",
+      "last_seen_at": "2026-11-16T07:37:56.904868Z",
+      "title_original": "Pony AI and Toyota launch bZ4X robotaxi service in Guangzhou",
+      "title_en": "Pony AI and Toyota launch bZ4X robotaxi service in Guangzhou",
+      "title_zh": null,
+      "title_bilingual": "Pony AI and Toyota launch bZ4X robotaxi service in Guangzhou",
+      "topic_tags": [
+        "新能源",
+        "智能驾驶"
+      ]
+    },
+    {
+      "id": "f2d085cc5847055eafb8dc19bb309996ba99e4a0",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Geely Galaxy previews new M8 5-seat hybrid SUV to expand lineup",
+      "url": "https://cnevpost.com/2026/11/16/geely-galaxy-previews-new-m8-hybrid-suv",
+      "published_at": "2026-11-16T02:18:51Z",
+      "first_seen_at": "2026-11-16T07:37:56.904868Z",
+      "last_seen_at": "2026-11-16T07:37:56.904868Z",
+      "title_original": "Geely Galaxy previews new M8 5-seat hybrid SUV to expand lineup",
+      "title_en": "Geely Galaxy previews new M8 5-seat hybrid SUV to expand lineup",
+      "title_zh": "吉利银河预览新款 M8 5 座混合动力 SUV 扩大产品阵容",
+      "title_bilingual": "吉利银河预览新款 M8 5 座混合动力 SUV 扩大产品阵容 / Geely Galaxy previews new M8 5-seat hybrid SUV to expand lineup",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
       "id": "90d85edebc3e038b2802d6e98dec3dbdc555b8e3",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -77,7 +178,7 @@
       "url": "http://vc.yiche.com/vplay/14182975.html",
       "published_at": null,
       "first_seen_at": "2026-11-15T20:48:01.250008Z",
-      "last_seen_at": "2026-11-16T00:43:40.676178Z",
+      "last_seen_at": "2026-11-16T07:37:56.904868Z",
       "title_original": "SUV+性价比，你可以同时拥有！探店2027款吉利博越",
       "title_en": null,
       "title_zh": "SUV+性价比，你可以同时拥有！探店2027款吉利博越",
@@ -97,7 +198,7 @@
       "url": "http://vc.yiche.com/vplay/14191109.html",
       "published_at": null,
       "first_seen_at": "2026-11-15T20:48:01.250008Z",
-      "last_seen_at": "2026-11-16T00:43:40.676178Z",
+      "last_seen_at": "2026-11-16T07:37:56.904868Z",
       "title_original": "2027款风云T11来了,保留增程 更添豪华",
       "title_en": null,
       "title_zh": "2027款风云T11来了,保留增程 更添豪华",
@@ -115,7 +216,7 @@
       "url": "http://vc.yiche.com/vplay/14167687.html",
       "published_at": null,
       "first_seen_at": "2026-11-15T20:48:01.250008Z",
-      "last_seen_at": "2026-11-16T00:43:40.676178Z",
+      "last_seen_at": "2026-11-16T07:37:56.904868Z",
       "title_original": "特斯拉Model Y销量断崖下滑#特斯拉#汽车销量",
       "title_en": null,
       "title_zh": "特斯拉Model Y销量断崖下滑#特斯拉#汽车销量",
@@ -134,7 +235,7 @@
       "url": "http://vc.yiche.com/vplay/14159175.html",
       "published_at": null,
       "first_seen_at": "2026-11-15T20:48:01.250008Z",
-      "last_seen_at": "2026-11-16T00:43:40.676178Z",
+      "last_seen_at": "2026-11-16T07:37:56.904868Z",
       "title_original": "13.38万的亚洲龙，别端着了，直接冲混动，燃油版别碰",
       "title_en": null,
       "title_zh": "13.38万的亚洲龙，别端着了，直接冲混动，燃油版别碰",
@@ -152,7 +253,7 @@
       "url": "https://carnewschina.com/2026/11/15/chinas-top-ev-charger-operator-bans-e-motos-and-e-bikes-from-juicing-up-citing-safety-concerns",
       "published_at": "2026-11-15T19:54:43Z",
       "first_seen_at": "2026-11-15T20:48:01.250008Z",
-      "last_seen_at": "2026-11-16T00:43:40.676178Z",
+      "last_seen_at": "2026-11-16T07:37:56.904868Z",
       "title_original": "China’s top EV charger operator bans e-motos and e-bikes from juicing up, citing safety concerns",
       "title_en": "China’s top EV charger operator bans e-motos and e-bikes from juicing up, citing safety concerns",
       "title_zh": "中国最大的电动汽车充电器运营商以安全为由禁止电动摩托车和电动自行车充电",
@@ -172,7 +273,7 @@
       "url": "https://cnevpost.com/2026/11/15/nio-opens-northernmost-swap-station-china-heihe",
       "published_at": "2026-11-15T12:28:00Z",
       "first_seen_at": "2026-11-15T15:46:10.925855Z",
-      "last_seen_at": "2026-11-16T00:43:40.676178Z",
+      "last_seen_at": "2026-11-16T07:37:56.904868Z",
       "title_original": "Nio opens northernmost swap station in China, touting 3-minute swaps in extreme cold",
       "title_en": "Nio opens northernmost swap station in China, touting 3-minute swaps in extreme cold",
       "title_zh": "蔚来在中国最北端开设交换站，宣传极寒条件下3分钟交换",
@@ -191,7 +292,7 @@
       "url": "https://carnewschina.com/2026/11/15/nio-deploys-battery-swap-station-in-a-region-with-temperatures-reaching-48c",
       "published_at": "2026-11-15T10:55:49Z",
       "first_seen_at": "2026-11-15T15:46:10.925855Z",
-      "last_seen_at": "2026-11-16T00:43:40.676178Z",
+      "last_seen_at": "2026-11-16T07:37:56.904868Z",
       "title_original": "Nio deploys battery swap station in a region with temperatures reaching -48°C",
       "title_en": "Nio deploys battery swap station in a region with temperatures reaching -48°C",
       "title_zh": "蔚来在气温达到-48°C的地区部署电池交换站",
@@ -211,7 +312,7 @@
       "url": "https://cnevpost.com/2026/11/15/nio-warns-airbag-recall-scam-texts",
       "published_at": "2026-11-15T09:34:33Z",
       "first_seen_at": "2026-11-15T15:46:10.925855Z",
-      "last_seen_at": "2026-11-16T00:43:40.676178Z",
+      "last_seen_at": "2026-11-16T07:37:56.904868Z",
       "title_original": "Nio warns owners of 'airbag recall' scam texts as other automakers issue similar alerts",
       "title_en": "Nio warns owners of 'airbag recall' scam texts as other automakers issue similar alerts",
       "title_zh": "蔚来警告车主警惕“安全气囊召回”诈骗短信，其他汽车制造商也发出类似警报",
@@ -251,7 +352,7 @@
       "url": "https://auto.gasgoo.com/news/202611/15I70478058C601.shtml",
       "published_at": "2026-11-15T07:54:26Z",
       "first_seen_at": "2026-11-16T00:43:40.676178Z",
-      "last_seen_at": "2026-11-16T00:43:40.676178Z",
+      "last_seen_at": "2026-11-16T07:37:56.904868Z",
       "title_original": "黄仁勋走了，英伟达在华短期稳，长期呢？",
       "title_en": null,
       "title_zh": "黄仁勋走了，英伟达在华短期稳，长期呢？",
@@ -261,6 +362,103 @@
   ],
   "items_ai": [
     {
+      "id": "d58078ae586510861aae9fb4ab5e52cf30ab174f",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "juejin",
+      "title": "DeepSeek Harness 实战与架构解析：让 Agent 从“会聊”到“能交付”",
+      "url": "https://juejin.cn/post/7708058421904392242",
+      "published_at": "2026-11-16T07:38:10.254000Z",
+      "first_seen_at": "2026-11-16T07:37:56.904868Z",
+      "last_seen_at": "2026-11-16T07:37:56.904868Z",
+      "title_original": "DeepSeek Harness 实战与架构解析：让 Agent 从“会聊”到“能交付”",
+      "title_en": null,
+      "title_zh": "DeepSeek Harness 实战与架构解析：让 Agent 从“会聊”到“能交付”",
+      "title_bilingual": "DeepSeek Harness 实战与架构解析：让 Agent 从“会聊”到“能交付”",
+      "topic_tags": [
+        "销量市场"
+      ]
+    },
+    {
+      "id": "39e71c8dd5215dcb0ce3ebcd175ea522c8c17927",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Brand-new BYD vehicle paid in full stolen inside dealership while buyer awaits pickup",
+      "url": "https://carnewschina.com/2026/11/16/brand-new-byd-vehicle-paid-in-full-stolen-inside-dealership-while-buyer-awaits-pickup",
+      "published_at": "2026-11-16T07:18:31Z",
+      "first_seen_at": "2026-11-16T07:37:56.904868Z",
+      "last_seen_at": "2026-11-16T07:37:56.904868Z",
+      "title_original": "Brand-new BYD vehicle paid in full stolen inside dealership while buyer awaits pickup",
+      "title_en": "Brand-new BYD vehicle paid in full stolen inside dealership while buyer awaits pickup",
+      "title_zh": "全新比亚迪汽车在经销店内全额付款，买家等待提货",
+      "title_bilingual": "全新比亚迪汽车在经销店内全额付款，买家等待提货 / Brand-new BYD vehicle paid in full stolen inside dealership while buyer awaits pickup",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "b6c924f5818ade9cc4eb8ce6ce5ad6e29467377d",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "BYD to launch third-gen Tang 5-seat electric SUV on November 24 with up to 850 km range",
+      "url": "https://cnevpost.com/2026/11/16/byd-to-launch-3rd-gen-tang-nov-24",
+      "published_at": "2026-11-16T06:40:29Z",
+      "first_seen_at": "2026-11-16T07:37:56.904868Z",
+      "last_seen_at": "2026-11-16T07:37:56.904868Z",
+      "title_original": "BYD to launch third-gen Tang 5-seat electric SUV on November 24 with up to 850 km range",
+      "title_en": "BYD to launch third-gen Tang 5-seat electric SUV on November 24 with up to 850 km range",
+      "title_zh": "比亚迪将于11月24日推出第三代唐5座电动SUV，续航里程可达850公里",
+      "title_bilingual": "比亚迪将于11月24日推出第三代唐5座电动SUV，续航里程可达850公里 / BYD to launch third-gen Tang 5-seat electric SUV on November 24 with up to 850 km range",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "1a92465798b21fb0fc11c1e2685f34de803f3082",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Pony AI and Toyota launch bZ4X robotaxi service in Guangzhou",
+      "url": "https://cnevpost.com/2026/11/16/pony-ai-toyota-bz4x-robotaxi-guangzhou",
+      "published_at": "2026-11-16T05:25:50Z",
+      "first_seen_at": "2026-11-16T07:37:56.904868Z",
+      "last_seen_at": "2026-11-16T07:37:56.904868Z",
+      "title_original": "Pony AI and Toyota launch bZ4X robotaxi service in Guangzhou",
+      "title_en": "Pony AI and Toyota launch bZ4X robotaxi service in Guangzhou",
+      "title_zh": null,
+      "title_bilingual": "Pony AI and Toyota launch bZ4X robotaxi service in Guangzhou",
+      "topic_tags": [
+        "新能源",
+        "智能驾驶"
+      ]
+    },
+    {
+      "id": "f2d085cc5847055eafb8dc19bb309996ba99e4a0",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Geely Galaxy previews new M8 5-seat hybrid SUV to expand lineup",
+      "url": "https://cnevpost.com/2026/11/16/geely-galaxy-previews-new-m8-hybrid-suv",
+      "published_at": "2026-11-16T02:18:51Z",
+      "first_seen_at": "2026-11-16T07:37:56.904868Z",
+      "last_seen_at": "2026-11-16T07:37:56.904868Z",
+      "title_original": "Geely Galaxy previews new M8 5-seat hybrid SUV to expand lineup",
+      "title_en": "Geely Galaxy previews new M8 5-seat hybrid SUV to expand lineup",
+      "title_zh": "吉利银河预览新款 M8 5 座混合动力 SUV 扩大产品阵容",
+      "title_bilingual": "吉利银河预览新款 M8 5 座混合动力 SUV 扩大产品阵容 / Geely Galaxy previews new M8 5-seat hybrid SUV to expand lineup",
+      "topic_tags": [
+        "新能源",
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
       "id": "90d85edebc3e038b2802d6e98dec3dbdc555b8e3",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -269,7 +467,7 @@
       "url": "http://vc.yiche.com/vplay/14182975.html",
       "published_at": null,
       "first_seen_at": "2026-11-15T20:48:01.250008Z",
-      "last_seen_at": "2026-11-16T00:43:40.676178Z",
+      "last_seen_at": "2026-11-16T07:37:56.904868Z",
       "title_original": "SUV+性价比，你可以同时拥有！探店2027款吉利博越",
       "title_en": null,
       "title_zh": "SUV+性价比，你可以同时拥有！探店2027款吉利博越",
@@ -289,7 +487,7 @@
       "url": "http://vc.yiche.com/vplay/14191109.html",
       "published_at": null,
       "first_seen_at": "2026-11-15T20:48:01.250008Z",
-      "last_seen_at": "2026-11-16T00:43:40.676178Z",
+      "last_seen_at": "2026-11-16T07:37:56.904868Z",
       "title_original": "2027款风云T11来了,保留增程 更添豪华",
       "title_en": null,
       "title_zh": "2027款风云T11来了,保留增程 更添豪华",
@@ -307,7 +505,7 @@
       "url": "http://vc.yiche.com/vplay/14167687.html",
       "published_at": null,
       "first_seen_at": "2026-11-15T20:48:01.250008Z",
-      "last_seen_at": "2026-11-16T00:43:40.676178Z",
+      "last_seen_at": "2026-11-16T07:37:56.904868Z",
       "title_original": "特斯拉Model Y销量断崖下滑#特斯拉#汽车销量",
       "title_en": null,
       "title_zh": "特斯拉Model Y销量断崖下滑#特斯拉#汽车销量",
@@ -326,7 +524,7 @@
       "url": "http://vc.yiche.com/vplay/14159175.html",
       "published_at": null,
       "first_seen_at": "2026-11-15T20:48:01.250008Z",
-      "last_seen_at": "2026-11-16T00:43:40.676178Z",
+      "last_seen_at": "2026-11-16T07:37:56.904868Z",
       "title_original": "13.38万的亚洲龙，别端着了，直接冲混动，燃油版别碰",
       "title_en": null,
       "title_zh": "13.38万的亚洲龙，别端着了，直接冲混动，燃油版别碰",
@@ -344,7 +542,7 @@
       "url": "https://carnewschina.com/2026/11/15/chinas-top-ev-charger-operator-bans-e-motos-and-e-bikes-from-juicing-up-citing-safety-concerns",
       "published_at": "2026-11-15T19:54:43Z",
       "first_seen_at": "2026-11-15T20:48:01.250008Z",
-      "last_seen_at": "2026-11-16T00:43:40.676178Z",
+      "last_seen_at": "2026-11-16T07:37:56.904868Z",
       "title_original": "China’s top EV charger operator bans e-motos and e-bikes from juicing up, citing safety concerns",
       "title_en": "China’s top EV charger operator bans e-motos and e-bikes from juicing up, citing safety concerns",
       "title_zh": "中国最大的电动汽车充电器运营商以安全为由禁止电动摩托车和电动自行车充电",
@@ -364,7 +562,7 @@
       "url": "https://cnevpost.com/2026/11/15/nio-opens-northernmost-swap-station-china-heihe",
       "published_at": "2026-11-15T12:28:00Z",
       "first_seen_at": "2026-11-15T15:46:10.925855Z",
-      "last_seen_at": "2026-11-16T00:43:40.676178Z",
+      "last_seen_at": "2026-11-16T07:37:56.904868Z",
       "title_original": "Nio opens northernmost swap station in China, touting 3-minute swaps in extreme cold",
       "title_en": "Nio opens northernmost swap station in China, touting 3-minute swaps in extreme cold",
       "title_zh": "蔚来在中国最北端开设交换站，宣传极寒条件下3分钟交换",
@@ -383,7 +581,7 @@
       "url": "https://carnewschina.com/2026/11/15/nio-deploys-battery-swap-station-in-a-region-with-temperatures-reaching-48c",
       "published_at": "2026-11-15T10:55:49Z",
       "first_seen_at": "2026-11-15T15:46:10.925855Z",
-      "last_seen_at": "2026-11-16T00:43:40.676178Z",
+      "last_seen_at": "2026-11-16T07:37:56.904868Z",
       "title_original": "Nio deploys battery swap station in a region with temperatures reaching -48°C",
       "title_en": "Nio deploys battery swap station in a region with temperatures reaching -48°C",
       "title_zh": "蔚来在气温达到-48°C的地区部署电池交换站",
@@ -403,7 +601,7 @@
       "url": "https://cnevpost.com/2026/11/15/nio-warns-airbag-recall-scam-texts",
       "published_at": "2026-11-15T09:34:33Z",
       "first_seen_at": "2026-11-15T15:46:10.925855Z",
-      "last_seen_at": "2026-11-16T00:43:40.676178Z",
+      "last_seen_at": "2026-11-16T07:37:56.904868Z",
       "title_original": "Nio warns owners of 'airbag recall' scam texts as other automakers issue similar alerts",
       "title_en": "Nio warns owners of 'airbag recall' scam texts as other automakers issue similar alerts",
       "title_zh": "蔚来警告车主警惕“安全气囊召回”诈骗短信，其他汽车制造商也发出类似警报",
@@ -443,7 +641,7 @@
       "url": "https://auto.gasgoo.com/news/202611/15I70478058C601.shtml",
       "published_at": "2026-11-15T07:54:26Z",
       "first_seen_at": "2026-11-16T00:43:40.676178Z",
-      "last_seen_at": "2026-11-16T00:43:40.676178Z",
+      "last_seen_at": "2026-11-16T07:37:56.904868Z",
       "title_original": "黄仁勋走了，英伟达在华短期稳，长期呢？",
       "title_en": null,
       "title_zh": "黄仁勋走了，英伟达在华短期稳，长期呢？",
