@@ -1,70 +1,257 @@
 {
-  "generated_at": "2026-11-17T19:16:03.777563Z",
+  "generated_at": "2026-11-18T01:46:06.817874Z",
   "window_hours": 24,
-  "total_items": 20,
-  "total_items_ai_raw": 20,
-  "total_items_raw": 1999,
-  "total_items_all_mode": 1823,
+  "total_items": 22,
+  "total_items_ai_raw": 22,
+  "total_items_raw": 2028,
+  "total_items_all_mode": 1809,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 51507,
+  "archive_total": 51149,
   "site_count": 3,
-  "source_count": 7,
+  "source_count": 6,
   "site_stats": [
     {
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "count": 12,
-      "raw_count": 12
+      "count": 13,
+      "raw_count": 13
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
-      "count": 7,
-      "raw_count": 1885
+      "count": 9,
+      "raw_count": 1917
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
-      "count": 1,
-      "raw_count": 102
+      "count": 0,
+      "raw_count": 98
     }
   ],
   "topic_tag_stats": [
     {
       "tag": "新能源",
-      "count": 12
-    },
-    {
-      "tag": "新车上市",
-      "count": 10
+      "count": 14
     },
     {
       "tag": "车企竞争",
-      "count": 10
+      "count": 11
     },
     {
-      "tag": "价格战",
-      "count": 3
+      "tag": "新车上市",
+      "count": 7
     },
     {
-      "tag": "智能驾驶",
-      "count": 3
+      "tag": "购车决策",
+      "count": 5
     },
     {
       "tag": "供应链",
       "count": 2
     },
     {
-      "tag": "销量市场",
-      "count": 2
+      "tag": "价格战",
+      "count": 1
     },
     {
-      "tag": "购车决策",
+      "tag": "补能电池",
+      "count": 1
+    },
+    {
+      "tag": "销量市场",
       "count": 1
     }
   ],
   "items": [
     {
+      "id": "1a6d1192ba6e8e2028084267a0850e56e8a124fa",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "捷途环游者EV 通勤山野一车兼顾",
+      "url": "http://vc.yiche.com/vplay/14207265.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-18T01:46:06.817874Z",
+      "last_seen_at": "2026-11-18T01:46:06.817874Z",
+      "title_original": "捷途环游者EV 通勤山野一车兼顾",
+      "title_en": null,
+      "title_zh": "捷途环游者EV 通勤山野一车兼顾",
+      "title_bilingual": "捷途环游者EV 通勤山野一车兼顾",
+      "topic_tags": [
+        "新能源"
+      ]
+    },
+    {
+      "id": "2174168bcb297c5153dfff403faf0c6289913204",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "静态体验吉利银河M8 旗舰家用大五座",
+      "url": "http://vc.yiche.com/vplay/14255201.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-18T01:46:06.817874Z",
+      "last_seen_at": "2026-11-18T01:46:06.817874Z",
+      "title_original": "静态体验吉利银河M8 旗舰家用大五座",
+      "title_en": null,
+      "title_zh": "静态体验吉利银河M8 旗舰家用大五座",
+      "title_bilingual": "静态体验吉利银河M8 旗舰家用大五座",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "e68094e7be054e1d752a530fce5fce8c0b5aa06b",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "五菱星光M或11万起 这台插混MPV 能否把七座家用车底价拉低？",
+      "url": "http://vc.yiche.com/vplay/14169052.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-18T01:46:06.817874Z",
+      "last_seen_at": "2026-11-18T01:46:06.817874Z",
+      "title_original": "五菱星光M或11万起 这台插混MPV 能否把七座家用车底价拉低？",
+      "title_en": null,
+      "title_zh": "五菱星光M或11万起 这台插混MPV 能否把七座家用车底价拉低？",
+      "title_bilingual": "五菱星光M或11万起 这台插混MPV 能否把七座家用车底价拉低？",
+      "topic_tags": [
+        "新能源",
+        "购车决策",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "cdb4c5e0d238a6d62b27759922517943fbb6f1a6",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "2027款凯美瑞：外观没变，座舱质感升级，家用B级车这次更精致了",
+      "url": "http://vc.yiche.com/vplay/14229371.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-18T01:46:06.817874Z",
+      "last_seen_at": "2026-11-18T01:46:06.817874Z",
+      "title_original": "2027款凯美瑞：外观没变，座舱质感升级，家用B级车这次更精致了",
+      "title_en": null,
+      "title_zh": "2027款凯美瑞：外观没变，座舱质感升级，家用B级车这次更精致了",
+      "title_bilingual": "2027款凯美瑞：外观没变，座舱质感升级，家用B级车这次更精致了",
+      "topic_tags": [
+        "购车决策"
+      ]
+    },
+    {
+      "id": "24b25cfe920aac40b24afd350d2e5bb35fc2c2db",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "第三代秦PLUS 购车指南",
+      "url": "http://vc.yiche.com/vplay/14223652.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-18T01:46:06.817874Z",
+      "last_seen_at": "2026-11-18T01:46:06.817874Z",
+      "title_original": "第三代秦PLUS 购车指南",
+      "title_en": null,
+      "title_zh": "第三代秦PLUS 购车指南",
+      "title_bilingual": "第三代秦PLUS 购车指南",
+      "topic_tags": [
+        "购车决策"
+      ]
+    },
+    {
+      "id": "953198744314eeb73c2fafb25fdf62a1b7f1c69f",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "插混四驱都有了！抢先体验日产NV200 PHEV",
+      "url": "http://vc.yiche.com/vplay/14212137.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-18T01:46:06.817874Z",
+      "last_seen_at": "2026-11-18T01:46:06.817874Z",
+      "title_original": "插混四驱都有了！抢先体验日产NV200 PHEV",
+      "title_en": null,
+      "title_zh": "插混四驱都有了！抢先体验日产NV200 PHEV",
+      "title_bilingual": "插混四驱都有了！抢先体验日产NV200 PHEV",
+      "topic_tags": [
+        "新能源",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "34e4954afd9a261ec8f701c92df8149d0141f31f",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "选燃油SUV，你绕不开这台全新奥迪Q5L。",
+      "url": "http://vc.yiche.com/vplay/14210100.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-18T01:46:06.817874Z",
+      "last_seen_at": "2026-11-18T01:46:06.817874Z",
+      "title_original": "选燃油SUV，你绕不开这台全新奥迪Q5L。",
+      "title_en": null,
+      "title_zh": "选燃油SUV，你绕不开这台全新奥迪Q5L。",
+      "title_bilingual": "选燃油SUV，你绕不开这台全新奥迪Q5L。",
+      "topic_tags": [
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "e96583b0de0474f9a388c1c63a375b9ed5bdb736",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "比亚迪第三代唐开启预售，99%核心配置公布",
+      "url": "http://vc.yiche.com/vplay/14207202.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-18T01:46:06.817874Z",
+      "last_seen_at": "2026-11-18T01:46:06.817874Z",
+      "title_original": "比亚迪第三代唐开启预售，99%核心配置公布",
+      "title_en": null,
+      "title_zh": "比亚迪第三代唐开启预售，99%核心配置公布",
+      "title_bilingual": "比亚迪第三代唐开启预售，99%核心配置公布",
+      "topic_tags": [
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "c721ae8a890de1ad96a037969b7f114383520929",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "BAIC trades its own swap stations for a place in CATL’s Choco-Swap Network",
+      "url": "https://carnewschina.com/2026/11/18/baic-trades-its-own-swap-stations-for-a-place-in-catls-choco-swap-network",
+      "published_at": "2026-11-18T01:45:58Z",
+      "first_seen_at": "2026-11-18T01:46:06.817874Z",
+      "last_seen_at": "2026-11-18T01:46:06.817874Z",
+      "title_original": "BAIC trades its own swap stations for a place in CATL’s Choco-Swap Network",
+      "title_en": "BAIC trades its own swap stations for a place in CATL’s Choco-Swap Network",
+      "title_zh": "北汽集团用自己的交换站换取宁德时代 Choco-Swap 网络中的一席之地",
+      "title_bilingual": "北汽集团用自己的交换站换取宁德时代 Choco-Swap 网络中的一席之地 / BAIC trades its own swap stations for a place in CATL’s Choco-Swap Network",
+      "topic_tags": [
+        "新能源",
+        "补能电池"
+      ]
+    },
+    {
+      "id": "01ee834a9f0c0db6f146071b3f4ecf26bec160a9",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Dongfeng's Voyah gains independent production qualification, strengthening operational autonomy",
+      "url": "https://cnevpost.com/2026/11/18/voyah-gains-independent-production-qualification",
+      "published_at": "2026-11-18T01:23:17Z",
+      "first_seen_at": "2026-11-18T01:46:06.817874Z",
+      "last_seen_at": "2026-11-18T01:46:06.817874Z",
+      "title_original": "Dongfeng's Voyah gains independent production qualification, strengthening operational autonomy",
+      "title_en": "Dongfeng's Voyah gains independent production qualification, strengthening operational autonomy",
+      "title_zh": "东风Voyah获得独立生产资质，强化运营自主权",
+      "title_bilingual": "东风Voyah获得独立生产资质，强化运营自主权 / Dongfeng's Voyah gains independent production qualification, strengthening operational autonomy",
+      "topic_tags": [
+        "新能源"
+      ]
+    },
+    {
       "id": "9d225afc7b51952a3b528e3cac2db3f7143d3d9b",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -73,7 +260,7 @@
       "url": "https://cnevpost.com/2026/11/17/2026-guangzhou-auto-show-kick-off-nov-27-1106-vehicles",
       "published_at": "2026-11-17T14:02:09Z",
       "first_seen_at": "2026-11-17T19:16:03.777563Z",
-      "last_seen_at": "2026-11-17T19:16:03.777563Z",
+      "last_seen_at": "2026-11-18T01:46:06.817874Z",
       "title_original": "2026 Guangzhou Auto Show to kick off on November 27 with 1,106 vehicles on display",
       "title_en": "2026 Guangzhou Auto Show to kick off on November 27 with 1,106 vehicles on display",
       "title_zh": "2026广州车展11月27日开幕 展出车辆1,106辆",
@@ -92,7 +279,7 @@
       "url": "https://www.dongchedi.com/article/7708027276919996990",
       "published_at": null,
       "first_seen_at": "2026-11-17T10:09:32.051698Z",
-      "last_seen_at": "2026-11-17T19:16:03.777563Z",
+      "last_seen_at": "2026-11-18T01:46:06.817874Z",
       "title_original": "比亚迪海豹05拆车：只要足够便宜，不管啥车都值得买！",
       "title_en": null,
       "title_zh": "比亚迪海豹05拆车：只要足够便宜，不管啥车都值得买！",
@@ -110,7 +297,7 @@
       "url": "https://carnewschina.com/2026/11/17/byds-312k-usd-rolls-royce-rival-yangwang-altior-to-debut-in-china-on-november-27",
       "published_at": "2026-11-17T10:08:27Z",
       "first_seen_at": "2026-11-17T10:09:32.051698Z",
-      "last_seen_at": "2026-11-17T19:16:03.777563Z",
+      "last_seen_at": "2026-11-18T01:46:06.817874Z",
       "title_original": "BYD’s 312K USD Rolls-Royce rival Yangwang Altior to debut in China on November 27",
       "title_en": "BYD’s 312K USD Rolls-Royce rival Yangwang Altior to debut in China on November 27",
       "title_zh": "比亚迪售价 31.2 万美元的劳斯莱斯竞争对手阳王 Altior 将于 11 月 27 日在中国首次亮相",
@@ -131,7 +318,7 @@
       "url": "https://cnevpost.com/2026/11/17/nio-schedules-q3-earnings-dec-1",
       "published_at": "2026-11-17T09:38:55Z",
       "first_seen_at": "2026-11-17T10:09:32.051698Z",
-      "last_seen_at": "2026-11-17T19:16:03.777563Z",
+      "last_seen_at": "2026-11-18T01:46:06.817874Z",
       "title_original": "Nio schedules Q3 earnings for December 1 after deliveries rise 25.4%",
       "title_en": "Nio schedules Q3 earnings for December 1 after deliveries rise 25.4%",
       "title_zh": "蔚来汽车交付量增长 25.4%，预计 12 月 1 日公布第三季度财报",
@@ -151,7 +338,7 @@
       "url": "https://cnevpost.com/2026/11/17/li-auto-mach-m100-chips-will-be-offered-to-outside-customers",
       "published_at": "2026-11-17T08:52:47Z",
       "first_seen_at": "2026-11-17T10:09:32.051698Z",
-      "last_seen_at": "2026-11-17T19:16:03.777563Z",
+      "last_seen_at": "2026-11-18T01:46:06.817874Z",
       "title_original": "Li Auto CEO says Mach M100 chips will gradually be offered to outside customers as robotics firms show interest",
       "title_en": "Li Auto CEO says Mach M100 chips will gradually be offered to outside customers as robotics firms show interest",
       "title_zh": "理想汽车首席执行官表示，随着机器人公司表现出兴趣，Mach M100芯片将逐步向外部客户提供",
@@ -171,13 +358,47 @@
       "url": "https://cnevpost.com/2026/11/17/elon-musk-visit-china-renewing-hopes-fsd",
       "published_at": "2026-11-17T07:38:50Z",
       "first_seen_at": "2026-11-17T10:09:32.051698Z",
-      "last_seen_at": "2026-11-17T19:16:03.777563Z",
+      "last_seen_at": "2026-11-18T01:46:06.817874Z",
       "title_original": "Elon Musk says he will visit China, renewing hopes for full FSD roll-out",
       "title_en": "Elon Musk says he will visit China, renewing hopes for full FSD roll-out",
       "title_zh": "埃隆·马斯克表示他将访问中国，重燃 FSD 全面推广的希望",
       "title_bilingual": "埃隆·马斯克表示他将访问中国，重燃 FSD 全面推广的希望 / Elon Musk says he will visit China, renewing hopes for full FSD roll-out",
       "topic_tags": [
         "新能源"
+      ]
+    },
+    {
+      "id": "dee39e752fc05c0a88e28b475c8b46f6f0726112",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "中国车市，快找不到让人换车的理由了",
+      "url": "https://auto.gasgoo.com/news/202611/17I70478158C108.shtml",
+      "published_at": "2026-11-17T07:06:05Z",
+      "first_seen_at": "2026-11-18T01:46:06.817874Z",
+      "last_seen_at": "2026-11-18T01:46:06.817874Z",
+      "title_original": "中国车市，快找不到让人换车的理由了",
+      "title_en": null,
+      "title_zh": "中国车市，快找不到让人换车的理由了",
+      "title_bilingual": "中国车市，快找不到让人换车的理由了",
+      "topic_tags": []
+    },
+    {
+      "id": "08413f094e121f91e7e192abc27fa37836f89d48",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-供应链",
+      "title": "C Talk | 德赛西威首席执行官徐建：四十向新，以“倔匠”之心兑现长期主义",
+      "url": "https://auto.gasgoo.com/news/202611/17I70478110C1207.shtml",
+      "published_at": "2026-11-17T07:00:31Z",
+      "first_seen_at": "2026-11-18T01:46:06.817874Z",
+      "last_seen_at": "2026-11-18T01:46:06.817874Z",
+      "title_original": "C Talk | 德赛西威首席执行官徐建：四十向新，以“倔匠”之心兑现长期主义",
+      "title_en": null,
+      "title_zh": "C Talk | 德赛西威首席执行官徐建：四十向新，以“倔匠”之心兑现长期主义",
+      "title_bilingual": "C Talk | 德赛西威首席执行官徐建：四十向新，以“倔匠”之心兑现长期主义",
+      "topic_tags": [
+        "供应链"
       ]
     },
     {
@@ -189,7 +410,7 @@
       "url": "https://cnevpost.com/2026/11/17/nio-reports-financial-rumors-to-police",
       "published_at": "2026-11-17T05:17:05Z",
       "first_seen_at": "2026-11-17T10:09:32.051698Z",
-      "last_seen_at": "2026-11-17T19:16:03.777563Z",
+      "last_seen_at": "2026-11-18T01:46:06.817874Z",
       "title_original": "Nio reports financial rumors to police as Hong Kong shares hover near record low",
       "title_en": "Nio reports financial rumors to police as Hong Kong shares hover near record low",
       "title_zh": "蔚来汽车向警方报告金融谣言，香港股市徘徊在历史低点附近",
@@ -208,7 +429,7 @@
       "url": "https://carnewschina.com/2026/11/17/china-made-mercedes-benz-vle-to-debut-in-guangzhou-on-november-27",
       "published_at": "2026-11-17T05:03:56Z",
       "first_seen_at": "2026-11-17T10:09:32.051698Z",
-      "last_seen_at": "2026-11-17T19:16:03.777563Z",
+      "last_seen_at": "2026-11-18T01:46:06.817874Z",
       "title_original": "China-made Mercedes-Benz VLE to debut in Guangzhou on November 27",
       "title_en": "China-made Mercedes-Benz VLE to debut in Guangzhou on November 27",
       "title_zh": "国产梅赛德斯-奔驰VLE将于11月27日广州首发",
@@ -228,7 +449,7 @@
       "url": "https://cnevpost.com/2026/11/17/geely-galaxy-m8-more-images",
       "published_at": "2026-11-17T04:49:36Z",
       "first_seen_at": "2026-11-17T10:09:32.051698Z",
-      "last_seen_at": "2026-11-17T19:16:03.777563Z",
+      "last_seen_at": "2026-11-18T01:46:06.817874Z",
       "title_original": "Geely Galaxy releases more M8 images ahead of Q4 launch of flagship 5-seat SUV",
       "title_en": "Geely Galaxy releases more M8 images ahead of Q4 launch of flagship 5-seat SUV",
       "title_zh": "吉利银河在旗舰 5 座 SUV 第四季度发布之前发布了更多 M8 图片",
@@ -248,7 +469,7 @@
       "url": "https://cnevpost.com/2026/11/17/byd-denza-enters-india",
       "published_at": "2026-11-17T02:16:19Z",
       "first_seen_at": "2026-11-17T10:09:32.051698Z",
-      "last_seen_at": "2026-11-17T19:16:03.777563Z",
+      "last_seen_at": "2026-11-18T01:46:06.817874Z",
       "title_original": "BYD Denza enters India with D9 and Z9GT EVs",
       "title_en": "BYD Denza enters India with D9 and Z9GT EVs",
       "title_zh": "比亚迪腾势携 D9 和 Z9GT 电动汽车进入印度",
@@ -256,200 +477,198 @@
       "topic_tags": [
         "新能源",
         "车企竞争"
-      ]
-    },
-    {
-      "id": "80d6752224a317c8759fb8372b389049a160ef32",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "星越L PLUS预售价15.77万起，尺寸、底盘、智驾全面进阶",
-      "url": "http://vc.yiche.com/vplay/14190661.html",
-      "published_at": null,
-      "first_seen_at": "2026-11-17T01:33:41.174488Z",
-      "last_seen_at": "2026-11-17T19:16:03.777563Z",
-      "title_original": "星越L PLUS预售价15.77万起，尺寸、底盘、智驾全面进阶",
-      "title_en": null,
-      "title_zh": "星越L PLUS预售价15.77万起，尺寸、底盘、智驾全面进阶",
-      "title_bilingual": "星越L PLUS预售价15.77万起，尺寸、底盘、智驾全面进阶",
-      "topic_tags": [
-        "智能驾驶",
-        "价格战",
-        "供应链",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "ffaee9571990f8f7a5d6f9271121854ac2544c3e",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "比亚迪宋Ultra买错必后悔，值得买的就这一个配置",
-      "url": "http://vc.yiche.com/vplay/14187210.html",
-      "published_at": null,
-      "first_seen_at": "2026-11-17T01:33:41.174488Z",
-      "last_seen_at": "2026-11-17T19:16:03.777563Z",
-      "title_original": "比亚迪宋Ultra买错必后悔，值得买的就这一个配置",
-      "title_en": null,
-      "title_zh": "比亚迪宋Ultra买错必后悔，值得买的就这一个配置",
-      "title_bilingual": "比亚迪宋Ultra买错必后悔，值得买的就这一个配置",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "7a9593e9a683350ae1e85810aeed9f341377d7e0",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "“铁汉+智能”有没有搞头？试驾北汽星钽5X",
-      "url": "http://vc.yiche.com/vplay/14181078.html",
-      "published_at": null,
-      "first_seen_at": "2026-11-17T01:33:41.174488Z",
-      "last_seen_at": "2026-11-17T19:16:03.777563Z",
-      "title_original": "“铁汉+智能”有没有搞头？试驾北汽星钽5X",
-      "title_en": null,
-      "title_zh": "“铁汉+智能”有没有搞头？试驾北汽星钽5X",
-      "title_bilingual": "“铁汉+智能”有没有搞头？试驾北汽星钽5X",
-      "topic_tags": [
-        "购车决策"
-      ]
-    },
-    {
-      "id": "20759d7f85312ec676441cdd1b2e9e591a412213",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "开上MPV，去中国最后一个通车的县城",
-      "url": "http://vc.yiche.com/vplay/14243448.html",
-      "published_at": null,
-      "first_seen_at": "2026-11-17T01:33:41.174488Z",
-      "last_seen_at": "2026-11-17T19:16:03.777563Z",
-      "title_original": "开上MPV，去中国最后一个通车的县城",
-      "title_en": null,
-      "title_zh": "开上MPV，去中国最后一个通车的县城",
-      "title_bilingual": "开上MPV，去中国最后一个通车的县城",
-      "topic_tags": [
-        "新车上市"
-      ]
-    },
-    {
-      "id": "7abdc9b26bccdf225ee1cb0a901e94f2beff4671",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "方程豹钛9开启预订，终于有全能的9系旗舰SUV了！",
-      "url": "http://vc.yiche.com/vplay/14186979.html",
-      "published_at": null,
-      "first_seen_at": "2026-11-17T01:33:41.174488Z",
-      "last_seen_at": "2026-11-17T19:16:03.777563Z",
-      "title_original": "方程豹钛9开启预订，终于有全能的9系旗舰SUV了！",
-      "title_en": null,
-      "title_zh": "方程豹钛9开启预订，终于有全能的9系旗舰SUV了！",
-      "title_bilingual": "方程豹钛9开启预订，终于有全能的9系旗舰SUV了！",
-      "topic_tags": [
-        "新车上市"
-      ]
-    },
-    {
-      "id": "1e7fd2512d3cfd0e0369a0eb518daea55ded0e47",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "郑州日产NV200 PHEV全球首秀 七座插混  同级唯一四驱+电动滑门",
-      "url": "http://vc.yiche.com/vplay/14211192.html",
-      "published_at": null,
-      "first_seen_at": "2026-11-17T01:33:41.174488Z",
-      "last_seen_at": "2026-11-17T19:16:03.777563Z",
-      "title_original": "郑州日产NV200 PHEV全球首秀 七座插混  同级唯一四驱+电动滑门",
-      "title_en": null,
-      "title_zh": "郑州日产NV200 PHEV全球首秀 七座插混  同级唯一四驱+电动滑门",
-      "title_bilingual": "郑州日产NV200 PHEV全球首秀 七座插混  同级唯一四驱+电动滑门",
-      "topic_tags": [
-        "新能源"
-      ]
-    },
-    {
-      "id": "c6fd5bae6ed55620fcf6b47cb8d028ab820d53ca",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Jetour’s first pure-electric model TX opens pre-sales in China, starting from 14,900 USD",
-      "url": "https://carnewschina.com/2026/11/17/jetours-first-pure-electric-model-tx-opens-pre-sales-in-china-starting-from-14900-usd",
-      "published_at": "2026-11-17T01:23:08Z",
-      "first_seen_at": "2026-11-17T01:33:41.174488Z",
-      "last_seen_at": "2026-11-17T19:16:03.777563Z",
-      "title_original": "Jetour’s first pure-electric model TX opens pre-sales in China, starting from 14,900 USD",
-      "title_en": "Jetour’s first pure-electric model TX opens pre-sales in China, starting from 14,900 USD",
-      "title_zh": "捷途首款纯电动车型TX在中国开启预售，起售价14,900美元",
-      "title_bilingual": "捷途首款纯电动车型TX在中国开启预售，起售价14,900美元 / Jetour’s first pure-electric model TX opens pre-sales in China, starting from 14,900 USD",
-      "topic_tags": [
-        "新能源",
-        "价格战",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "d87e470890e43ed402f62ced00a5b368e5143367",
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "juejin",
-      "title": "京东云推出全新JoyCode智能编码工具，让AI Coding从代码生成走向成果交付",
-      "url": "https://juejin.cn/post/7708572722204393507",
-      "published_at": "2026-11-17T01:13:27.239000Z",
-      "first_seen_at": "2026-11-17T01:33:41.174488Z",
-      "last_seen_at": "2026-11-17T01:33:41.174488Z",
-      "title_original": "京东云推出全新JoyCode智能编码工具，让AI Coding从代码生成走向成果交付",
-      "title_en": null,
-      "title_zh": "京东云推出全新JoyCode智能编码工具，让AI Coding从代码生成走向成果交付",
-      "title_bilingual": "京东云推出全新JoyCode智能编码工具，让AI Coding从代码生成走向成果交付",
-      "topic_tags": [
-        "销量市场"
-      ]
-    },
-    {
-      "id": "3347b6b1f5bfd6b2287fe6888e9f2e1b7a7e85b2",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "捷途环游者EV全球预售，旅行者7 C-DM华为乾崑智驾版上市",
-      "url": "https://auto.gasgoo.com/news/202611/17I70478180C109.shtml",
-      "published_at": "2026-11-17T00:06:48Z",
-      "first_seen_at": "2026-11-17T19:16:03.777563Z",
-      "last_seen_at": "2026-11-17T19:16:03.777563Z",
-      "title_original": "捷途环游者EV全球预售，旅行者7 C-DM华为乾崑智驾版上市",
-      "title_en": null,
-      "title_zh": "捷途环游者EV全球预售，旅行者7 C-DM华为乾崑智驾版上市",
-      "title_bilingual": "捷途环游者EV全球预售，旅行者7 C-DM华为乾崑智驾版上市",
-      "topic_tags": [
-        "新能源",
-        "智能驾驶",
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "ca9be4c206a15409936eaf785db8ac3227a30030",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新车",
-      "title": "新款极狐阿尔法S5上市，11.58万起全系标配激光雷达",
-      "url": "https://auto.gasgoo.com/news/202611/16I70478175C107.shtml",
-      "published_at": "2026-11-16T20:25:29Z",
-      "first_seen_at": "2026-11-17T19:16:03.777563Z",
-      "last_seen_at": "2026-11-17T19:16:03.777563Z",
-      "title_original": "新款极狐阿尔法S5上市，11.58万起全系标配激光雷达",
-      "title_en": null,
-      "title_zh": "新款极狐阿尔法S5上市，11.58万起全系标配激光雷达",
-      "title_bilingual": "新款极狐阿尔法S5上市，11.58万起全系标配激光雷达",
-      "topic_tags": [
-        "智能驾驶",
-        "新车上市"
       ]
     }
   ],
   "items_ai": [
     {
+      "id": "1a6d1192ba6e8e2028084267a0850e56e8a124fa",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "捷途环游者EV 通勤山野一车兼顾",
+      "url": "http://vc.yiche.com/vplay/14207265.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-18T01:46:06.817874Z",
+      "last_seen_at": "2026-11-18T01:46:06.817874Z",
+      "title_original": "捷途环游者EV 通勤山野一车兼顾",
+      "title_en": null,
+      "title_zh": "捷途环游者EV 通勤山野一车兼顾",
+      "title_bilingual": "捷途环游者EV 通勤山野一车兼顾",
+      "topic_tags": [
+        "新能源"
+      ]
+    },
+    {
+      "id": "2174168bcb297c5153dfff403faf0c6289913204",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "静态体验吉利银河M8 旗舰家用大五座",
+      "url": "http://vc.yiche.com/vplay/14255201.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-18T01:46:06.817874Z",
+      "last_seen_at": "2026-11-18T01:46:06.817874Z",
+      "title_original": "静态体验吉利银河M8 旗舰家用大五座",
+      "title_en": null,
+      "title_zh": "静态体验吉利银河M8 旗舰家用大五座",
+      "title_bilingual": "静态体验吉利银河M8 旗舰家用大五座",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "e68094e7be054e1d752a530fce5fce8c0b5aa06b",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "五菱星光M或11万起 这台插混MPV 能否把七座家用车底价拉低？",
+      "url": "http://vc.yiche.com/vplay/14169052.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-18T01:46:06.817874Z",
+      "last_seen_at": "2026-11-18T01:46:06.817874Z",
+      "title_original": "五菱星光M或11万起 这台插混MPV 能否把七座家用车底价拉低？",
+      "title_en": null,
+      "title_zh": "五菱星光M或11万起 这台插混MPV 能否把七座家用车底价拉低？",
+      "title_bilingual": "五菱星光M或11万起 这台插混MPV 能否把七座家用车底价拉低？",
+      "topic_tags": [
+        "新能源",
+        "购车决策",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "cdb4c5e0d238a6d62b27759922517943fbb6f1a6",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "2027款凯美瑞：外观没变，座舱质感升级，家用B级车这次更精致了",
+      "url": "http://vc.yiche.com/vplay/14229371.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-18T01:46:06.817874Z",
+      "last_seen_at": "2026-11-18T01:46:06.817874Z",
+      "title_original": "2027款凯美瑞：外观没变，座舱质感升级，家用B级车这次更精致了",
+      "title_en": null,
+      "title_zh": "2027款凯美瑞：外观没变，座舱质感升级，家用B级车这次更精致了",
+      "title_bilingual": "2027款凯美瑞：外观没变，座舱质感升级，家用B级车这次更精致了",
+      "topic_tags": [
+        "购车决策"
+      ]
+    },
+    {
+      "id": "24b25cfe920aac40b24afd350d2e5bb35fc2c2db",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "第三代秦PLUS 购车指南",
+      "url": "http://vc.yiche.com/vplay/14223652.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-18T01:46:06.817874Z",
+      "last_seen_at": "2026-11-18T01:46:06.817874Z",
+      "title_original": "第三代秦PLUS 购车指南",
+      "title_en": null,
+      "title_zh": "第三代秦PLUS 购车指南",
+      "title_bilingual": "第三代秦PLUS 购车指南",
+      "topic_tags": [
+        "购车决策"
+      ]
+    },
+    {
+      "id": "953198744314eeb73c2fafb25fdf62a1b7f1c69f",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "插混四驱都有了！抢先体验日产NV200 PHEV",
+      "url": "http://vc.yiche.com/vplay/14212137.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-18T01:46:06.817874Z",
+      "last_seen_at": "2026-11-18T01:46:06.817874Z",
+      "title_original": "插混四驱都有了！抢先体验日产NV200 PHEV",
+      "title_en": null,
+      "title_zh": "插混四驱都有了！抢先体验日产NV200 PHEV",
+      "title_bilingual": "插混四驱都有了！抢先体验日产NV200 PHEV",
+      "topic_tags": [
+        "新能源",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "34e4954afd9a261ec8f701c92df8149d0141f31f",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "选燃油SUV，你绕不开这台全新奥迪Q5L。",
+      "url": "http://vc.yiche.com/vplay/14210100.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-18T01:46:06.817874Z",
+      "last_seen_at": "2026-11-18T01:46:06.817874Z",
+      "title_original": "选燃油SUV，你绕不开这台全新奥迪Q5L。",
+      "title_en": null,
+      "title_zh": "选燃油SUV，你绕不开这台全新奥迪Q5L。",
+      "title_bilingual": "选燃油SUV，你绕不开这台全新奥迪Q5L。",
+      "topic_tags": [
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "e96583b0de0474f9a388c1c63a375b9ed5bdb736",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "比亚迪第三代唐开启预售，99%核心配置公布",
+      "url": "http://vc.yiche.com/vplay/14207202.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-18T01:46:06.817874Z",
+      "last_seen_at": "2026-11-18T01:46:06.817874Z",
+      "title_original": "比亚迪第三代唐开启预售，99%核心配置公布",
+      "title_en": null,
+      "title_zh": "比亚迪第三代唐开启预售，99%核心配置公布",
+      "title_bilingual": "比亚迪第三代唐开启预售，99%核心配置公布",
+      "topic_tags": [
+        "车企竞争",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "c721ae8a890de1ad96a037969b7f114383520929",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "BAIC trades its own swap stations for a place in CATL’s Choco-Swap Network",
+      "url": "https://carnewschina.com/2026/11/18/baic-trades-its-own-swap-stations-for-a-place-in-catls-choco-swap-network",
+      "published_at": "2026-11-18T01:45:58Z",
+      "first_seen_at": "2026-11-18T01:46:06.817874Z",
+      "last_seen_at": "2026-11-18T01:46:06.817874Z",
+      "title_original": "BAIC trades its own swap stations for a place in CATL’s Choco-Swap Network",
+      "title_en": "BAIC trades its own swap stations for a place in CATL’s Choco-Swap Network",
+      "title_zh": "北汽集团用自己的交换站换取宁德时代 Choco-Swap 网络中的一席之地",
+      "title_bilingual": "北汽集团用自己的交换站换取宁德时代 Choco-Swap 网络中的一席之地 / BAIC trades its own swap stations for a place in CATL’s Choco-Swap Network",
+      "topic_tags": [
+        "新能源",
+        "补能电池"
+      ]
+    },
+    {
+      "id": "01ee834a9f0c0db6f146071b3f4ecf26bec160a9",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Dongfeng's Voyah gains independent production qualification, strengthening operational autonomy",
+      "url": "https://cnevpost.com/2026/11/18/voyah-gains-independent-production-qualification",
+      "published_at": "2026-11-18T01:23:17Z",
+      "first_seen_at": "2026-11-18T01:46:06.817874Z",
+      "last_seen_at": "2026-11-18T01:46:06.817874Z",
+      "title_original": "Dongfeng's Voyah gains independent production qualification, strengthening operational autonomy",
+      "title_en": "Dongfeng's Voyah gains independent production qualification, strengthening operational autonomy",
+      "title_zh": "东风Voyah获得独立生产资质，强化运营自主权",
+      "title_bilingual": "东风Voyah获得独立生产资质，强化运营自主权 / Dongfeng's Voyah gains independent production qualification, strengthening operational autonomy",
+      "topic_tags": [
+        "新能源"
+      ]
+    },
+    {
       "id": "9d225afc7b51952a3b528e3cac2db3f7143d3d9b",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -458,7 +677,7 @@
       "url": "https://cnevpost.com/2026/11/17/2026-guangzhou-auto-show-kick-off-nov-27-1106-vehicles",
       "published_at": "2026-11-17T14:02:09Z",
       "first_seen_at": "2026-11-17T19:16:03.777563Z",
-      "last_seen_at": "2026-11-17T19:16:03.777563Z",
+      "last_seen_at": "2026-11-18T01:46:06.817874Z",
       "title_original": "2026 Guangzhou Auto Show to kick off on November 27 with 1,106 vehicles on display",
       "title_en": "2026 Guangzhou Auto Show to kick off on November 27 with 1,106 vehicles on display",
       "title_zh": "2026广州车展11月27日开幕 展出车辆1,106辆",
@@ -477,7 +696,7 @@
       "url": "https://www.dongchedi.com/article/7708027276919996990",
       "published_at": null,
       "first_seen_at": "2026-11-17T10:09:32.051698Z",
-      "last_seen_at": "2026-11-17T19:16:03.777563Z",
+      "last_seen_at": "2026-11-18T01:46:06.817874Z",
       "title_original": "比亚迪海豹05拆车：只要足够便宜，不管啥车都值得买！",
       "title_en": null,
       "title_zh": "比亚迪海豹05拆车：只要足够便宜，不管啥车都值得买！",
@@ -495,7 +714,7 @@
       "url": "https://carnewschina.com/2026/11/17/byds-312k-usd-rolls-royce-rival-yangwang-altior-to-debut-in-china-on-november-27",
       "published_at": "2026-11-17T10:08:27Z",
       "first_seen_at": "2026-11-17T10:09:32.051698Z",
-      "last_seen_at": "2026-11-17T19:16:03.777563Z",
+      "last_seen_at": "2026-11-18T01:46:06.817874Z",
       "title_original": "BYD’s 312K USD Rolls-Royce rival Yangwang Altior to debut in China on November 27",
       "title_en": "BYD’s 312K USD Rolls-Royce rival Yangwang Altior to debut in China on November 27",
       "title_zh": "比亚迪售价 31.2 万美元的劳斯莱斯竞争对手阳王 Altior 将于 11 月 27 日在中国首次亮相",
@@ -516,7 +735,7 @@
       "url": "https://cnevpost.com/2026/11/17/nio-schedules-q3-earnings-dec-1",
       "published_at": "2026-11-17T09:38:55Z",
       "first_seen_at": "2026-11-17T10:09:32.051698Z",
-      "last_seen_at": "2026-11-17T19:16:03.777563Z",
+      "last_seen_at": "2026-11-18T01:46:06.817874Z",
       "title_original": "Nio schedules Q3 earnings for December 1 after deliveries rise 25.4%",
       "title_en": "Nio schedules Q3 earnings for December 1 after deliveries rise 25.4%",
       "title_zh": "蔚来汽车交付量增长 25.4%，预计 12 月 1 日公布第三季度财报",
@@ -536,7 +755,7 @@
       "url": "https://cnevpost.com/2026/11/17/li-auto-mach-m100-chips-will-be-offered-to-outside-customers",
       "published_at": "2026-11-17T08:52:47Z",
       "first_seen_at": "2026-11-17T10:09:32.051698Z",
-      "last_seen_at": "2026-11-17T19:16:03.777563Z",
+      "last_seen_at": "2026-11-18T01:46:06.817874Z",
       "title_original": "Li Auto CEO says Mach M100 chips will gradually be offered to outside customers as robotics firms show interest",
       "title_en": "Li Auto CEO says Mach M100 chips will gradually be offered to outside customers as robotics firms show interest",
       "title_zh": "理想汽车首席执行官表示，随着机器人公司表现出兴趣，Mach M100芯片将逐步向外部客户提供",
@@ -556,13 +775,47 @@
       "url": "https://cnevpost.com/2026/11/17/elon-musk-visit-china-renewing-hopes-fsd",
       "published_at": "2026-11-17T07:38:50Z",
       "first_seen_at": "2026-11-17T10:09:32.051698Z",
-      "last_seen_at": "2026-11-17T19:16:03.777563Z",
+      "last_seen_at": "2026-11-18T01:46:06.817874Z",
       "title_original": "Elon Musk says he will visit China, renewing hopes for full FSD roll-out",
       "title_en": "Elon Musk says he will visit China, renewing hopes for full FSD roll-out",
       "title_zh": "埃隆·马斯克表示他将访问中国，重燃 FSD 全面推广的希望",
       "title_bilingual": "埃隆·马斯克表示他将访问中国，重燃 FSD 全面推广的希望 / Elon Musk says he will visit China, renewing hopes for full FSD roll-out",
       "topic_tags": [
         "新能源"
+      ]
+    },
+    {
+      "id": "dee39e752fc05c0a88e28b475c8b46f6f0726112",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "中国车市，快找不到让人换车的理由了",
+      "url": "https://auto.gasgoo.com/news/202611/17I70478158C108.shtml",
+      "published_at": "2026-11-17T07:06:05Z",
+      "first_seen_at": "2026-11-18T01:46:06.817874Z",
+      "last_seen_at": "2026-11-18T01:46:06.817874Z",
+      "title_original": "中国车市，快找不到让人换车的理由了",
+      "title_en": null,
+      "title_zh": "中国车市，快找不到让人换车的理由了",
+      "title_bilingual": "中国车市，快找不到让人换车的理由了",
+      "topic_tags": []
+    },
+    {
+      "id": "08413f094e121f91e7e192abc27fa37836f89d48",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-供应链",
+      "title": "C Talk | 德赛西威首席执行官徐建：四十向新，以“倔匠”之心兑现长期主义",
+      "url": "https://auto.gasgoo.com/news/202611/17I70478110C1207.shtml",
+      "published_at": "2026-11-17T07:00:31Z",
+      "first_seen_at": "2026-11-18T01:46:06.817874Z",
+      "last_seen_at": "2026-11-18T01:46:06.817874Z",
+      "title_original": "C Talk | 德赛西威首席执行官徐建：四十向新，以“倔匠”之心兑现长期主义",
+      "title_en": null,
+      "title_zh": "C Talk | 德赛西威首席执行官徐建：四十向新，以“倔匠”之心兑现长期主义",
+      "title_bilingual": "C Talk | 德赛西威首席执行官徐建：四十向新，以“倔匠”之心兑现长期主义",
+      "topic_tags": [
+        "供应链"
       ]
     },
     {
@@ -574,7 +827,7 @@
       "url": "https://cnevpost.com/2026/11/17/nio-reports-financial-rumors-to-police",
       "published_at": "2026-11-17T05:17:05Z",
       "first_seen_at": "2026-11-17T10:09:32.051698Z",
-      "last_seen_at": "2026-11-17T19:16:03.777563Z",
+      "last_seen_at": "2026-11-18T01:46:06.817874Z",
       "title_original": "Nio reports financial rumors to police as Hong Kong shares hover near record low",
       "title_en": "Nio reports financial rumors to police as Hong Kong shares hover near record low",
       "title_zh": "蔚来汽车向警方报告金融谣言，香港股市徘徊在历史低点附近",
@@ -593,7 +846,7 @@
       "url": "https://carnewschina.com/2026/11/17/china-made-mercedes-benz-vle-to-debut-in-guangzhou-on-november-27",
       "published_at": "2026-11-17T05:03:56Z",
       "first_seen_at": "2026-11-17T10:09:32.051698Z",
-      "last_seen_at": "2026-11-17T19:16:03.777563Z",
+      "last_seen_at": "2026-11-18T01:46:06.817874Z",
       "title_original": "China-made Mercedes-Benz VLE to debut in Guangzhou on November 27",
       "title_en": "China-made Mercedes-Benz VLE to debut in Guangzhou on November 27",
       "title_zh": "国产梅赛德斯-奔驰VLE将于11月27日广州首发",
@@ -613,7 +866,7 @@
       "url": "https://cnevpost.com/2026/11/17/geely-galaxy-m8-more-images",
       "published_at": "2026-11-17T04:49:36Z",
       "first_seen_at": "2026-11-17T10:09:32.051698Z",
-      "last_seen_at": "2026-11-17T19:16:03.777563Z",
+      "last_seen_at": "2026-11-18T01:46:06.817874Z",
       "title_original": "Geely Galaxy releases more M8 images ahead of Q4 launch of flagship 5-seat SUV",
       "title_en": "Geely Galaxy releases more M8 images ahead of Q4 launch of flagship 5-seat SUV",
       "title_zh": "吉利银河在旗舰 5 座 SUV 第四季度发布之前发布了更多 M8 图片",
@@ -633,7 +886,7 @@
       "url": "https://cnevpost.com/2026/11/17/byd-denza-enters-india",
       "published_at": "2026-11-17T02:16:19Z",
       "first_seen_at": "2026-11-17T10:09:32.051698Z",
-      "last_seen_at": "2026-11-17T19:16:03.777563Z",
+      "last_seen_at": "2026-11-18T01:46:06.817874Z",
       "title_original": "BYD Denza enters India with D9 and Z9GT EVs",
       "title_en": "BYD Denza enters India with D9 and Z9GT EVs",
       "title_zh": "比亚迪腾势携 D9 和 Z9GT 电动汽车进入印度",
@@ -641,195 +894,6 @@
       "topic_tags": [
         "新能源",
         "车企竞争"
-      ]
-    },
-    {
-      "id": "80d6752224a317c8759fb8372b389049a160ef32",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "星越L PLUS预售价15.77万起，尺寸、底盘、智驾全面进阶",
-      "url": "http://vc.yiche.com/vplay/14190661.html",
-      "published_at": null,
-      "first_seen_at": "2026-11-17T01:33:41.174488Z",
-      "last_seen_at": "2026-11-17T19:16:03.777563Z",
-      "title_original": "星越L PLUS预售价15.77万起，尺寸、底盘、智驾全面进阶",
-      "title_en": null,
-      "title_zh": "星越L PLUS预售价15.77万起，尺寸、底盘、智驾全面进阶",
-      "title_bilingual": "星越L PLUS预售价15.77万起，尺寸、底盘、智驾全面进阶",
-      "topic_tags": [
-        "智能驾驶",
-        "价格战",
-        "供应链",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "ffaee9571990f8f7a5d6f9271121854ac2544c3e",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "比亚迪宋Ultra买错必后悔，值得买的就这一个配置",
-      "url": "http://vc.yiche.com/vplay/14187210.html",
-      "published_at": null,
-      "first_seen_at": "2026-11-17T01:33:41.174488Z",
-      "last_seen_at": "2026-11-17T19:16:03.777563Z",
-      "title_original": "比亚迪宋Ultra买错必后悔，值得买的就这一个配置",
-      "title_en": null,
-      "title_zh": "比亚迪宋Ultra买错必后悔，值得买的就这一个配置",
-      "title_bilingual": "比亚迪宋Ultra买错必后悔，值得买的就这一个配置",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "7a9593e9a683350ae1e85810aeed9f341377d7e0",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "“铁汉+智能”有没有搞头？试驾北汽星钽5X",
-      "url": "http://vc.yiche.com/vplay/14181078.html",
-      "published_at": null,
-      "first_seen_at": "2026-11-17T01:33:41.174488Z",
-      "last_seen_at": "2026-11-17T19:16:03.777563Z",
-      "title_original": "“铁汉+智能”有没有搞头？试驾北汽星钽5X",
-      "title_en": null,
-      "title_zh": "“铁汉+智能”有没有搞头？试驾北汽星钽5X",
-      "title_bilingual": "“铁汉+智能”有没有搞头？试驾北汽星钽5X",
-      "topic_tags": [
-        "购车决策"
-      ]
-    },
-    {
-      "id": "20759d7f85312ec676441cdd1b2e9e591a412213",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "开上MPV，去中国最后一个通车的县城",
-      "url": "http://vc.yiche.com/vplay/14243448.html",
-      "published_at": null,
-      "first_seen_at": "2026-11-17T01:33:41.174488Z",
-      "last_seen_at": "2026-11-17T19:16:03.777563Z",
-      "title_original": "开上MPV，去中国最后一个通车的县城",
-      "title_en": null,
-      "title_zh": "开上MPV，去中国最后一个通车的县城",
-      "title_bilingual": "开上MPV，去中国最后一个通车的县城",
-      "topic_tags": [
-        "新车上市"
-      ]
-    },
-    {
-      "id": "7abdc9b26bccdf225ee1cb0a901e94f2beff4671",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "方程豹钛9开启预订，终于有全能的9系旗舰SUV了！",
-      "url": "http://vc.yiche.com/vplay/14186979.html",
-      "published_at": null,
-      "first_seen_at": "2026-11-17T01:33:41.174488Z",
-      "last_seen_at": "2026-11-17T19:16:03.777563Z",
-      "title_original": "方程豹钛9开启预订，终于有全能的9系旗舰SUV了！",
-      "title_en": null,
-      "title_zh": "方程豹钛9开启预订，终于有全能的9系旗舰SUV了！",
-      "title_bilingual": "方程豹钛9开启预订，终于有全能的9系旗舰SUV了！",
-      "topic_tags": [
-        "新车上市"
-      ]
-    },
-    {
-      "id": "1e7fd2512d3cfd0e0369a0eb518daea55ded0e47",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "郑州日产NV200 PHEV全球首秀 七座插混  同级唯一四驱+电动滑门",
-      "url": "http://vc.yiche.com/vplay/14211192.html",
-      "published_at": null,
-      "first_seen_at": "2026-11-17T01:33:41.174488Z",
-      "last_seen_at": "2026-11-17T19:16:03.777563Z",
-      "title_original": "郑州日产NV200 PHEV全球首秀 七座插混  同级唯一四驱+电动滑门",
-      "title_en": null,
-      "title_zh": "郑州日产NV200 PHEV全球首秀 七座插混  同级唯一四驱+电动滑门",
-      "title_bilingual": "郑州日产NV200 PHEV全球首秀 七座插混  同级唯一四驱+电动滑门",
-      "topic_tags": [
-        "新能源"
-      ]
-    },
-    {
-      "id": "c6fd5bae6ed55620fcf6b47cb8d028ab820d53ca",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Jetour’s first pure-electric model TX opens pre-sales in China, starting from 14,900 USD",
-      "url": "https://carnewschina.com/2026/11/17/jetours-first-pure-electric-model-tx-opens-pre-sales-in-china-starting-from-14900-usd",
-      "published_at": "2026-11-17T01:23:08Z",
-      "first_seen_at": "2026-11-17T01:33:41.174488Z",
-      "last_seen_at": "2026-11-17T19:16:03.777563Z",
-      "title_original": "Jetour’s first pure-electric model TX opens pre-sales in China, starting from 14,900 USD",
-      "title_en": "Jetour’s first pure-electric model TX opens pre-sales in China, starting from 14,900 USD",
-      "title_zh": "捷途首款纯电动车型TX在中国开启预售，起售价14,900美元",
-      "title_bilingual": "捷途首款纯电动车型TX在中国开启预售，起售价14,900美元 / Jetour’s first pure-electric model TX opens pre-sales in China, starting from 14,900 USD",
-      "topic_tags": [
-        "新能源",
-        "价格战",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "d87e470890e43ed402f62ced00a5b368e5143367",
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "juejin",
-      "title": "京东云推出全新JoyCode智能编码工具，让AI Coding从代码生成走向成果交付",
-      "url": "https://juejin.cn/post/7708572722204393507",
-      "published_at": "2026-11-17T01:13:27.239000Z",
-      "first_seen_at": "2026-11-17T01:33:41.174488Z",
-      "last_seen_at": "2026-11-17T01:33:41.174488Z",
-      "title_original": "京东云推出全新JoyCode智能编码工具，让AI Coding从代码生成走向成果交付",
-      "title_en": null,
-      "title_zh": "京东云推出全新JoyCode智能编码工具，让AI Coding从代码生成走向成果交付",
-      "title_bilingual": "京东云推出全新JoyCode智能编码工具，让AI Coding从代码生成走向成果交付",
-      "topic_tags": [
-        "销量市场"
-      ]
-    },
-    {
-      "id": "3347b6b1f5bfd6b2287fe6888e9f2e1b7a7e85b2",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "捷途环游者EV全球预售，旅行者7 C-DM华为乾崑智驾版上市",
-      "url": "https://auto.gasgoo.com/news/202611/17I70478180C109.shtml",
-      "published_at": "2026-11-17T00:06:48Z",
-      "first_seen_at": "2026-11-17T19:16:03.777563Z",
-      "last_seen_at": "2026-11-17T19:16:03.777563Z",
-      "title_original": "捷途环游者EV全球预售，旅行者7 C-DM华为乾崑智驾版上市",
-      "title_en": null,
-      "title_zh": "捷途环游者EV全球预售，旅行者7 C-DM华为乾崑智驾版上市",
-      "title_bilingual": "捷途环游者EV全球预售，旅行者7 C-DM华为乾崑智驾版上市",
-      "topic_tags": [
-        "新能源",
-        "智能驾驶",
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "ca9be4c206a15409936eaf785db8ac3227a30030",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新车",
-      "title": "新款极狐阿尔法S5上市，11.58万起全系标配激光雷达",
-      "url": "https://auto.gasgoo.com/news/202611/16I70478175C107.shtml",
-      "published_at": "2026-11-16T20:25:29Z",
-      "first_seen_at": "2026-11-17T19:16:03.777563Z",
-      "last_seen_at": "2026-11-17T19:16:03.777563Z",
-      "title_original": "新款极狐阿尔法S5上市，11.58万起全系标配激光雷达",
-      "title_en": null,
-      "title_zh": "新款极狐阿尔法S5上市，11.58万起全系标配激光雷达",
-      "title_bilingual": "新款极狐阿尔法S5上市，11.58万起全系标配激光雷达",
-      "topic_tags": [
-        "智能驾驶",
-        "新车上市"
       ]
     }
   ],
