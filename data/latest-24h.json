@@ -1,69 +1,175 @@
 {
-  "generated_at": "2026-11-21T12:05:17.386942Z",
+  "generated_at": "2026-11-21T19:37:44.843169Z",
   "window_hours": 24,
-  "total_items": 27,
-  "total_items_ai_raw": 29,
-  "total_items_raw": 2308,
-  "total_items_all_mode": 2047,
+  "total_items": 16,
+  "total_items_ai_raw": 16,
+  "total_items_raw": 2021,
+  "total_items_all_mode": 1790,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 50187,
+  "archive_total": 50025,
   "site_count": 3,
-  "source_count": 10,
+  "source_count": 7,
   "site_stats": [
-    {
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "count": 23,
-      "raw_count": 25
-    },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
-      "count": 4,
-      "raw_count": 2163
+      "count": 9,
+      "raw_count": 1899
+    },
+    {
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "count": 7,
+      "raw_count": 7
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "count": 0,
-      "raw_count": 120
+      "raw_count": 115
     }
   ],
   "topic_tag_stats": [
     {
-      "tag": "供应链",
-      "count": 10
-    },
-    {
-      "tag": "新能源",
-      "count": 7
-    },
-    {
-      "tag": "车企竞争",
-      "count": 7
-    },
-    {
-      "tag": "补能电池",
-      "count": 4
-    },
-    {
-      "tag": "召回安全",
-      "count": 3
-    },
-    {
       "tag": "新车上市",
-      "count": 3
+      "count": 6
     },
     {
       "tag": "购车决策",
-      "count": 3
+      "count": 6
+    },
+    {
+      "tag": "车企竞争",
+      "count": 6
+    },
+    {
+      "tag": "新能源",
+      "count": 5
     },
     {
       "tag": "销量市场",
-      "count": 3
+      "count": 2
+    },
+    {
+      "tag": "召回安全",
+      "count": 1
+    },
+    {
+      "tag": "补能电池",
+      "count": 1
     }
   ],
   "items": [
+    {
+      "id": "3f5458c2c910113648306cafe0d92c4f58eef4de",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "初晓敏：讲透升级点 试驾2027款领克08 EM-P",
+      "url": "http://vc.yiche.com/vplay/14336226.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-21T19:37:44.843169Z",
+      "last_seen_at": "2026-11-21T19:37:44.843169Z",
+      "title_original": "初晓敏：讲透升级点 试驾2027款领克08 EM-P",
+      "title_en": null,
+      "title_zh": "初晓敏：讲透升级点 试驾2027款领克08 EM-P",
+      "title_bilingual": "初晓敏：讲透升级点 试驾2027款领克08 EM-P",
+      "topic_tags": [
+        "购车决策"
+      ]
+    },
+    {
+      "id": "e42eec579b3a928faa14acf318a7e1b3a590c3f1",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "十周年之作 蔚来ES9 地平线鎏金特别版",
+      "url": "http://vc.yiche.com/vplay/14366291.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-21T19:37:44.843169Z",
+      "last_seen_at": "2026-11-21T19:37:44.843169Z",
+      "title_original": "十周年之作 蔚来ES9 地平线鎏金特别版",
+      "title_en": null,
+      "title_zh": "十周年之作 蔚来ES9 地平线鎏金特别版",
+      "title_bilingual": "十周年之作 蔚来ES9 地平线鎏金特别版",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "72ca6e4f0328cdd3d8880c20fcd72374201cedcb",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "配置给得足够高，采用全新平台架构，试驾方程豹钛9",
+      "url": "http://vc.yiche.com/vplay/14306070.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-21T19:37:44.843169Z",
+      "last_seen_at": "2026-11-21T19:37:44.843169Z",
+      "title_original": "配置给得足够高，采用全新平台架构，试驾方程豹钛9",
+      "title_en": null,
+      "title_zh": "配置给得足够高，采用全新平台架构，试驾方程豹钛9",
+      "title_bilingual": "配置给得足够高，采用全新平台架构，试驾方程豹钛9",
+      "topic_tags": [
+        "购车决策"
+      ]
+    },
+    {
+      "id": "ccf6b400dd14d1377b1b04f93bff0a739fd58160",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "试驾丨AMG G63 暴躁且细腻",
+      "url": "http://vc.yiche.com/vplay/14271084.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-21T19:37:44.843169Z",
+      "last_seen_at": "2026-11-21T19:37:44.843169Z",
+      "title_original": "试驾丨AMG G63 暴躁且细腻",
+      "title_en": null,
+      "title_zh": "试驾丨AMG G63 暴躁且细腻",
+      "title_bilingual": "试驾丨AMG G63 暴躁且细腻",
+      "topic_tags": [
+        "购车决策"
+      ]
+    },
+    {
+      "id": "c3819f33f2709ba6d236bd59e09c4a3bf396be38",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "大型SUV市场迎来新玩家 方程豹钛9上市",
+      "url": "http://vc.yiche.com/vplay/14339124.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-21T19:37:44.843169Z",
+      "last_seen_at": "2026-11-21T19:37:44.843169Z",
+      "title_original": "大型SUV市场迎来新玩家 方程豹钛9上市",
+      "title_en": null,
+      "title_zh": "大型SUV市场迎来新玩家 方程豹钛9上市",
+      "title_bilingual": "大型SUV市场迎来新玩家 方程豹钛9上市",
+      "topic_tags": [
+        "销量市场",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "836010fc80c702c754fc9da910df8088004718fa",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Nio apologizes for ES9 matrix headlight messaging fiasco after censoring child’s birthday wish",
+      "url": "https://carnewschina.com/2026/11/21/nio-apologizes-for-es9-matrix-headlight-messaging-fiasco-after-censoring-childs-birthday-wish",
+      "published_at": "2026-11-21T16:09:27Z",
+      "first_seen_at": "2026-11-21T19:37:44.843169Z",
+      "last_seen_at": "2026-11-21T19:37:44.843169Z",
+      "title_original": "Nio apologizes for ES9 matrix headlight messaging fiasco after censoring child’s birthday wish",
+      "title_en": "Nio apologizes for ES9 matrix headlight messaging fiasco after censoring child’s birthday wish",
+      "title_zh": "蔚来为 ES9 矩阵头灯消息发送失败道歉，原因是审查了孩子的生日愿望",
+      "title_bilingual": "蔚来为 ES9 矩阵头灯消息发送失败道歉，原因是审查了孩子的生日愿望 / Nio apologizes for ES9 matrix headlight messaging fiasco after censoring child’s birthday wish",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
     {
       "id": "c7cb0203d96cc29193a4e82bc5430413a1ef2793",
       "site_id": "tophub",
@@ -73,7 +179,7 @@
       "url": "https://www.dongchedi.com/article/7708949958519554585",
       "published_at": null,
       "first_seen_at": "2026-11-21T12:05:17.386942Z",
-      "last_seen_at": "2026-11-21T12:05:17.386942Z",
+      "last_seen_at": "2026-11-21T19:37:44.843169Z",
       "title_original": "质用车：10款车型无线充电性能测试对比(28)",
       "title_en": null,
       "title_zh": "质用车：10款车型无线充电性能测试对比(28)",
@@ -94,7 +200,7 @@
       "url": "https://www.dongchedi.com/article/7710067797909602840",
       "published_at": null,
       "first_seen_at": "2026-11-21T12:05:17.386942Z",
-      "last_seen_at": "2026-11-21T12:05:17.386942Z",
+      "last_seen_at": "2026-11-21T19:37:44.843169Z",
       "title_original": "11月车市没有反转；2026广州车展首发新车115台",
       "title_en": null,
       "title_zh": "11月车市没有反转；2026广州车展首发新车115台",
@@ -112,7 +218,7 @@
       "url": "https://cnevpost.com/2026/11/21/nio-launches-es9-special-edition",
       "published_at": "2026-11-21T11:40:18Z",
       "first_seen_at": "2026-11-21T12:05:17.386942Z",
-      "last_seen_at": "2026-11-21T12:05:17.386942Z",
+      "last_seen_at": "2026-11-21T19:37:44.843169Z",
       "title_original": "Nio launches ES9 special edition to mark brand's 10th anniversary",
       "title_en": "Nio launches ES9 special edition to mark brand's 10th anniversary",
       "title_zh": "蔚来推出ES9特别版庆祝品牌成立10周年",
@@ -131,7 +237,7 @@
       "url": "https://carnewschina.com/2026/11/21/xiaomi-recruits-former-xpeng-executives-to-lead-european-market-entry",
       "published_at": "2026-11-21T06:42:04Z",
       "first_seen_at": "2026-11-21T12:05:17.386942Z",
-      "last_seen_at": "2026-11-21T12:05:17.386942Z",
+      "last_seen_at": "2026-11-21T19:37:44.843169Z",
       "title_original": "Xiaomi recruits former Xpeng executives to lead European market entry",
       "title_en": "Xiaomi recruits former Xpeng executives to lead European market entry",
       "title_zh": "小米聘请小鹏汽车前高管领导欧洲市场进军",
@@ -140,6 +246,24 @@
         "新能源",
         "销量市场",
         "车企竞争"
+      ]
+    },
+    {
+      "id": "56f96beec0df1739ebae13dd65f3de7751c0ac3c",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新车",
+      "title": "尚界Z7T星野套装27.48万起 猎装车加了10处外观件",
+      "url": "https://auto.gasgoo.com/news/202611/20I70478683C107.shtml",
+      "published_at": "2026-11-20T23:31:42Z",
+      "first_seen_at": "2026-11-21T19:37:44.843169Z",
+      "last_seen_at": "2026-11-21T19:37:44.843169Z",
+      "title_original": "尚界Z7T星野套装27.48万起 猎装车加了10处外观件",
+      "title_en": null,
+      "title_zh": "尚界Z7T星野套装27.48万起 猎装车加了10处外观件",
+      "title_bilingual": "尚界Z7T星野套装27.48万起 猎装车加了10处外观件",
+      "topic_tags": [
+        "新车上市"
       ]
     },
     {
@@ -180,325 +304,37 @@
       ]
     },
     {
-      "id": "c67c2cb4ea4393fb08d82cb85f67697947100cc6",
+      "id": "818d0121840b11037671ee4cc8a2f5b5c1842eb6",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-供应链",
-      "title": "马威宁鹤颀：W-pin铜线平台已稳定量产，铝线电机进入客户验证阶段",
-      "url": "https://auto.gasgoo.com/news/202611/20I70478667C103.shtml",
-      "published_at": "2026-11-20T17:10:51Z",
-      "first_seen_at": "2026-11-21T12:05:17.386942Z",
-      "last_seen_at": "2026-11-21T12:05:17.386942Z",
-      "title_original": "马威宁鹤颀：W-pin铜线平台已稳定量产，铝线电机进入客户验证阶段",
+      "source": "盖世汽车-新车",
+      "title": "华为北汽再加码，享界进入体系作战",
+      "url": "https://auto.gasgoo.com/news/202611/21I70478691C107.shtml",
+      "published_at": "2026-11-20T22:21:49Z",
+      "first_seen_at": "2026-11-21T19:37:44.843169Z",
+      "last_seen_at": "2026-11-21T19:37:44.843169Z",
+      "title_original": "华为北汽再加码，享界进入体系作战",
       "title_en": null,
-      "title_zh": "马威宁鹤颀：W-pin铜线平台已稳定量产，铝线电机进入客户验证阶段",
-      "title_bilingual": "马威宁鹤颀：W-pin铜线平台已稳定量产，铝线电机进入客户验证阶段",
+      "title_zh": "华为北汽再加码，享界进入体系作战",
+      "title_bilingual": "华为北汽再加码，享界进入体系作战",
       "topic_tags": [
-        "供应链"
+        "新车上市"
       ]
     },
     {
-      "id": "41c03b1784cb8c210c13f67977a7dd61654ceee3",
+      "id": "51a708e59043eb06ecdbdd5281d8e33189267311",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-供应链",
-      "title": "Allegro曹姜威：从高压电驱到48V革新，双线布局动力系统能效与安全",
-      "url": "https://auto.gasgoo.com/news/202611/20I70478663C103.shtml",
-      "published_at": "2026-11-20T17:01:42Z",
-      "first_seen_at": "2026-11-21T12:05:17.386942Z",
-      "last_seen_at": "2026-11-21T12:05:17.386942Z",
-      "title_original": "Allegro曹姜威：从高压电驱到48V革新，双线布局动力系统能效与安全",
+      "source": "盖世汽车-车企",
+      "title": "零跑与欧宝签署联合开发协议，全新纯电SUV计划2028年上市",
+      "url": "https://auto.gasgoo.com/news/202611/20I70478676C109.shtml",
+      "published_at": "2026-11-20T20:22:06Z",
+      "first_seen_at": "2026-11-21T19:37:44.843169Z",
+      "last_seen_at": "2026-11-21T19:37:44.843169Z",
+      "title_original": "零跑与欧宝签署联合开发协议，全新纯电SUV计划2028年上市",
       "title_en": null,
-      "title_zh": "Allegro曹姜威：从高压电驱到48V革新，双线布局动力系统能效与安全",
-      "title_bilingual": "Allegro曹姜威：从高压电驱到48V革新，双线布局动力系统能效与安全",
-      "topic_tags": [
-        "召回安全",
-        "供应链"
-      ]
-    },
-    {
-      "id": "354c258733e6e59ed94f9e5865adde162542bbfb",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-供应链",
-      "title": "一边深耕本土，一边助力出海：采埃孚商用车的中国新打法",
-      "url": "https://auto.gasgoo.com/news/202611/20I70478638C103.shtml",
-      "published_at": "2026-11-20T16:10:51Z",
-      "first_seen_at": "2026-11-21T12:05:17.386942Z",
-      "last_seen_at": "2026-11-21T12:05:17.386942Z",
-      "title_original": "一边深耕本土，一边助力出海：采埃孚商用车的中国新打法",
-      "title_en": null,
-      "title_zh": "一边深耕本土，一边助力出海：采埃孚商用车的中国新打法",
-      "title_bilingual": "一边深耕本土，一边助力出海：采埃孚商用车的中国新打法",
-      "topic_tags": [
-        "供应链",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "52551100ac81e938c1e096915cb9c15d0065b6fe",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-供应链",
-      "title": "罗姆王天宇：第五代碳化硅转向平面型，2027年量产",
-      "url": "https://auto.gasgoo.com/news/202611/20I70478657C103.shtml",
-      "published_at": "2026-11-20T16:07:38Z",
-      "first_seen_at": "2026-11-21T12:05:17.386942Z",
-      "last_seen_at": "2026-11-21T12:05:17.386942Z",
-      "title_original": "罗姆王天宇：第五代碳化硅转向平面型，2027年量产",
-      "title_en": null,
-      "title_zh": "罗姆王天宇：第五代碳化硅转向平面型，2027年量产",
-      "title_bilingual": "罗姆王天宇：第五代碳化硅转向平面型，2027年量产",
-      "topic_tags": [
-        "供应链"
-      ]
-    },
-    {
-      "id": "be43352846fc6b161d227ffcffd46446c127a1d2",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新技术",
-      "title": "DGIST开发出用于电动汽车电机的高性能永磁体关键技术",
-      "url": "https://auto.gasgoo.com/news/202611/20I70478655C409.shtml",
-      "published_at": "2026-11-20T15:56:59Z",
-      "first_seen_at": "2026-11-21T12:05:17.386942Z",
-      "last_seen_at": "2026-11-21T12:05:17.386942Z",
-      "title_original": "DGIST开发出用于电动汽车电机的高性能永磁体关键技术",
-      "title_en": null,
-      "title_zh": "DGIST开发出用于电动汽车电机的高性能永磁体关键技术",
-      "title_bilingual": "DGIST开发出用于电动汽车电机的高性能永磁体关键技术",
-      "topic_tags": [
-        "供应链"
-      ]
-    },
-    {
-      "id": "1562b9eb1804c266fb599f51dc2d91d123b0f3c3",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-供应链",
-      "title": "意法半导体张培荣：“X in 1”中的“X”并非越多越好，集成度需综合多维度评估",
-      "url": "https://auto.gasgoo.com/news/202611/20I70478656C103.shtml",
-      "published_at": "2026-11-20T15:52:59Z",
-      "first_seen_at": "2026-11-21T12:05:17.386942Z",
-      "last_seen_at": "2026-11-21T12:05:17.386942Z",
-      "title_original": "意法半导体张培荣：“X in 1”中的“X”并非越多越好，集成度需综合多维度评估",
-      "title_en": null,
-      "title_zh": "意法半导体张培荣：“X in 1”中的“X”并非越多越好，集成度需综合多维度评估",
-      "title_bilingual": "意法半导体张培荣：“X in 1”中的“X”并非越多越好，集成度需综合多维度评估",
-      "topic_tags": [
-        "供应链"
-      ]
-    },
-    {
-      "id": "1001c4355d9770fb15ae8f373292e89937f84535",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新技术",
-      "title": "福特申请车辆灯光通信系统专利",
-      "url": "https://auto.gasgoo.com/news/202611/20I70478654C409.shtml",
-      "published_at": "2026-11-20T15:48:01Z",
-      "first_seen_at": "2026-11-21T12:05:17.386942Z",
-      "last_seen_at": "2026-11-21T12:05:17.386942Z",
-      "title_original": "福特申请车辆灯光通信系统专利",
-      "title_en": null,
-      "title_zh": "福特申请车辆灯光通信系统专利",
-      "title_bilingual": "福特申请车辆灯光通信系统专利",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "27bb0efab1f051717f8d0e23e98fc02fe1e355aa",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新技术",
-      "title": "香港科技大学研发出高分辨率仿生眼 集全彩广角视觉与事件驱动型运动检测于一体",
-      "url": "https://auto.gasgoo.com/news/202611/20I70478653C409.shtml",
-      "published_at": "2026-11-20T15:43:06Z",
-      "first_seen_at": "2026-11-21T12:05:17.386942Z",
-      "last_seen_at": "2026-11-21T12:05:17.386942Z",
-      "title_original": "香港科技大学研发出高分辨率仿生眼 集全彩广角视觉与事件驱动型运动检测于一体",
-      "title_en": null,
-      "title_zh": "香港科技大学研发出高分辨率仿生眼 集全彩广角视觉与事件驱动型运动检测于一体",
-      "title_bilingual": "香港科技大学研发出高分辨率仿生眼 集全彩广角视觉与事件驱动型运动检测于一体",
-      "topic_tags": []
-    },
-    {
-      "id": "894792e06e6a5db3017832441ef569aeeecf6c43",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新技术",
-      "title": "以菠萝叶纤维为原料 日产与 FOOD REBORN打造出汽车外车身覆盖件",
-      "url": "https://auto.gasgoo.com/news/202611/20I70478652C409.shtml",
-      "published_at": "2026-11-20T15:39:01Z",
-      "first_seen_at": "2026-11-21T12:05:17.386942Z",
-      "last_seen_at": "2026-11-21T12:05:17.386942Z",
-      "title_original": "以菠萝叶纤维为原料 日产与 FOOD REBORN打造出汽车外车身覆盖件",
-      "title_en": null,
-      "title_zh": "以菠萝叶纤维为原料 日产与 FOOD REBORN打造出汽车外车身覆盖件",
-      "title_bilingual": "以菠萝叶纤维为原料 日产与 FOOD REBORN打造出汽车外车身覆盖件",
-      "topic_tags": []
-    },
-    {
-      "id": "b03e0ebc87fa1945c1efb2d0e9f25e1cf493b7f0",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新技术",
-      "title": "MIT发明超轻型飞行机器人 自带传感器和计算机",
-      "url": "https://auto.gasgoo.com/news/202611/20I70478651C409.shtml",
-      "published_at": "2026-11-20T15:35:04Z",
-      "first_seen_at": "2026-11-21T12:05:17.386942Z",
-      "last_seen_at": "2026-11-21T12:05:17.386942Z",
-      "title_original": "MIT发明超轻型飞行机器人 自带传感器和计算机",
-      "title_en": null,
-      "title_zh": "MIT发明超轻型飞行机器人 自带传感器和计算机",
-      "title_bilingual": "MIT发明超轻型飞行机器人 自带传感器和计算机",
-      "topic_tags": []
-    },
-    {
-      "id": "d188a66133577812b3abd7a3911b055d0ee7fc24",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新技术",
-      "title": "福特申请车辆泊车系统专利 或许能为驾驶员留出更多空间",
-      "url": "https://auto.gasgoo.com/news/202611/20I70478650C409.shtml",
-      "published_at": "2026-11-20T15:32:27Z",
-      "first_seen_at": "2026-11-21T12:05:17.386942Z",
-      "last_seen_at": "2026-11-21T12:05:17.386942Z",
-      "title_original": "福特申请车辆泊车系统专利 或许能为驾驶员留出更多空间",
-      "title_en": null,
-      "title_zh": "福特申请车辆泊车系统专利 或许能为驾驶员留出更多空间",
-      "title_bilingual": "福特申请车辆泊车系统专利 或许能为驾驶员留出更多空间",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "8cf1a56795dd432f959798b18a9fdcd6d17d6d83",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新技术",
-      "title": "Sonatus推出基于人工智能的即插即用型硬件解决方案Fastlane® Copilo 旨在支持开发、测试与验证工作",
-      "url": "https://auto.gasgoo.com/news/202611/20I70478649C409.shtml",
-      "published_at": "2026-11-20T15:30:15Z",
-      "first_seen_at": "2026-11-21T12:05:17.386942Z",
-      "last_seen_at": "2026-11-21T12:05:17.386942Z",
-      "title_original": "Sonatus推出基于人工智能的即插即用型硬件解决方案Fastlane® Copilo 旨在支持开发、测试与验证工作",
-      "title_en": null,
-      "title_zh": "Sonatus推出基于人工智能的即插即用型硬件解决方案Fastlane® Copilo 旨在支持开发、测试与验证工作",
-      "title_bilingual": "Sonatus推出基于人工智能的即插即用型硬件解决方案Fastlane® Copilo 旨在支持开发、测试与验证工作",
-      "topic_tags": [
-        "召回安全"
-      ]
-    },
-    {
-      "id": "7ad2596fb14cf663099b2325e63b6ae31dd43335",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-供应链",
-      "title": "瑞萨阿尔里曲：从精准控制到智能化，单MCU支撑X-in-1高效电驱",
-      "url": "https://auto.gasgoo.com/news/202611/20I70478647C103.shtml",
-      "published_at": "2026-11-20T15:08:42Z",
-      "first_seen_at": "2026-11-21T12:05:17.386942Z",
-      "last_seen_at": "2026-11-21T12:05:17.386942Z",
-      "title_original": "瑞萨阿尔里曲：从精准控制到智能化，单MCU支撑X-in-1高效电驱",
-      "title_en": null,
-      "title_zh": "瑞萨阿尔里曲：从精准控制到智能化，单MCU支撑X-in-1高效电驱",
-      "title_bilingual": "瑞萨阿尔里曲：从精准控制到智能化，单MCU支撑X-in-1高效电驱",
-      "topic_tags": [
-        "供应链"
-      ]
-    },
-    {
-      "id": "02042e7dd4c42fd8055db88e4ef7ebf0cbfd225c",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新能源",
-      "title": "云山动力袁定凯：2030年大圆柱电池市场有望达834GWh",
-      "url": "https://auto.gasgoo.com/news/202611/20I70478646C501.shtml",
-      "published_at": "2026-11-20T15:04:19Z",
-      "first_seen_at": "2026-11-21T12:05:17.386942Z",
-      "last_seen_at": "2026-11-21T12:05:17.386942Z",
-      "title_original": "云山动力袁定凯：2030年大圆柱电池市场有望达834GWh",
-      "title_en": null,
-      "title_zh": "云山动力袁定凯：2030年大圆柱电池市场有望达834GWh",
-      "title_bilingual": "云山动力袁定凯：2030年大圆柱电池市场有望达834GWh",
-      "topic_tags": [
-        "新能源",
-        "补能电池",
-        "销量市场"
-      ]
-    },
-    {
-      "id": "9e9c36166ccdae943c233de1346dd5712944b75f",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-供应链",
-      "title": "长安闫博文：HEV是内燃机电动化的延续和必然",
-      "url": "https://auto.gasgoo.com/news/202611/20I70478627C103.shtml",
-      "published_at": "2026-11-20T14:55:43Z",
-      "first_seen_at": "2026-11-21T12:05:17.386942Z",
-      "last_seen_at": "2026-11-21T12:05:17.386942Z",
-      "title_original": "长安闫博文：HEV是内燃机电动化的延续和必然",
-      "title_en": null,
-      "title_zh": "长安闫博文：HEV是内燃机电动化的延续和必然",
-      "title_bilingual": "长安闫博文：HEV是内燃机电动化的延续和必然",
-      "topic_tags": [
-        "车企竞争",
-        "供应链"
-      ]
-    },
-    {
-      "id": "9b78801535f984620570bf2e69e4bc9cc5196972",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "聚合物基固态电池有望迭代液态电解质",
-      "url": "https://auto.gasgoo.com/news/202611/20I70478628C501.shtml",
-      "published_at": "2026-11-20T14:53:00Z",
-      "first_seen_at": "2026-11-21T12:05:17.386942Z",
-      "last_seen_at": "2026-11-21T12:05:17.386942Z",
-      "title_original": "聚合物基固态电池有望迭代液态电解质",
-      "title_en": null,
-      "title_zh": "聚合物基固态电池有望迭代液态电解质",
-      "title_bilingual": "聚合物基固态电池有望迭代液态电解质",
-      "topic_tags": [
-        "补能电池"
-      ]
-    },
-    {
-      "id": "7888dd3ef35a56b107f3294805fb96647a6cadb7",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-销量",
-      "title": "腾势Z9 GT连续7个月获新能源豪华GT销冠",
-      "url": "https://auto.gasgoo.com/news/202611/20I70478625C110.shtml",
-      "published_at": "2026-11-20T14:35:18Z",
-      "first_seen_at": "2026-11-21T12:05:17.386942Z",
-      "last_seen_at": "2026-11-21T12:05:17.386942Z",
-      "title_original": "腾势Z9 GT连续7个月获新能源豪华GT销冠",
-      "title_en": null,
-      "title_zh": "腾势Z9 GT连续7个月获新能源豪华GT销冠",
-      "title_bilingual": "腾势Z9 GT连续7个月获新能源豪华GT销冠",
-      "topic_tags": [
-        "新能源",
-        "销量市场"
-      ]
-    },
-    {
-      "id": "8aaa2c8cf9d9e6b9abdef657779d9da78907789c",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Leapmotor, Opel sign deal to develop new C-segment SUV for 2028 launch",
-      "url": "https://cnevpost.com/2026/11/20/leapmotor-opel-deal-develop-suv-2028-launch",
-      "published_at": "2026-11-20T13:11:02Z",
-      "first_seen_at": "2026-11-20T16:41:04.176787Z",
-      "last_seen_at": "2026-11-21T12:05:17.386942Z",
-      "title_original": "Leapmotor, Opel sign deal to develop new C-segment SUV for 2028 launch",
-      "title_en": "Leapmotor, Opel sign deal to develop new C-segment SUV for 2028 launch",
-      "title_zh": "零跑汽车与欧宝签署协议开发新款C级SUV 将于2028年上市",
-      "title_bilingual": "零跑汽车与欧宝签署协议开发新款C级SUV 将于2028年上市 / Leapmotor, Opel sign deal to develop new C-segment SUV for 2028 launch",
+      "title_zh": "零跑与欧宝签署联合开发协议，全新纯电SUV计划2028年上市",
+      "title_bilingual": "零跑与欧宝签署联合开发协议，全新纯电SUV计划2028年上市",
       "topic_tags": [
         "新能源",
         "车企竞争",
@@ -506,63 +342,136 @@
       ]
     },
     {
-      "id": "b5c1ac8be9ac4264b55f0f90759b9a80d9ff5a4d",
+      "id": "033cef875c2edd769035877e4cbbbd9890c06a79",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-供应链",
-      "title": "电驱高性能化带动防护升级，安普鲁二代滤油阀推进量产",
-      "url": "https://auto.gasgoo.com/news/202611/20I70478619C103.shtml",
-      "published_at": "2026-11-20T12:39:21Z",
-      "first_seen_at": "2026-11-21T12:05:17.386942Z",
-      "last_seen_at": "2026-11-21T12:05:17.386942Z",
-      "title_original": "电驱高性能化带动防护升级，安普鲁二代滤油阀推进量产",
+      "source": "盖世汽车-行业",
+      "title": "智能座舱体验，多了一把“AI尺子”",
+      "url": "https://auto.gasgoo.com/news/202611/20I70478675C108.shtml",
+      "published_at": "2026-11-20T20:18:58Z",
+      "first_seen_at": "2026-11-21T19:37:44.843169Z",
+      "last_seen_at": "2026-11-21T19:37:44.843169Z",
+      "title_original": "智能座舱体验，多了一把“AI尺子”",
       "title_en": null,
-      "title_zh": "电驱高性能化带动防护升级，安普鲁二代滤油阀推进量产",
-      "title_bilingual": "电驱高性能化带动防护升级，安普鲁二代滤油阀推进量产",
+      "title_zh": "智能座舱体验，多了一把“AI尺子”",
+      "title_bilingual": "智能座舱体验，多了一把“AI尺子”",
       "topic_tags": [
-        "供应链"
-      ]
-    },
-    {
-      "id": "61fd510988e57f16ecf23624970ddb0ec58ea706",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-Battery",
-      "title": "CATL and Hesai added to Hong Kong's Hang Seng Tech Index as Momenta joins Hang Seng Composite Index",
-      "url": "https://cnevpost.com/2026/11/20/catl-hesai-added-hk-hang-seng-tech-index",
-      "published_at": "2026-11-20T12:29:38Z",
-      "first_seen_at": "2026-11-20T16:41:04.176787Z",
-      "last_seen_at": "2026-11-21T12:05:17.386942Z",
-      "title_original": "CATL and Hesai added to Hong Kong's Hang Seng Tech Index as Momenta joins Hang Seng Composite Index",
-      "title_en": "CATL and Hesai added to Hong Kong's Hang Seng Tech Index as Momenta joins Hang Seng Composite Index",
-      "title_zh": "随着 Momenta 加入恒生综合指数，CATL 和禾赛被纳入香港恒生科技指数",
-      "title_bilingual": "随着 Momenta 加入恒生综合指数，CATL 和禾赛被纳入香港恒生科技指数 / CATL and Hesai added to Hong Kong's Hang Seng Tech Index as Momenta joins Hang Seng Composite Index",
-      "topic_tags": [
-        "补能电池"
-      ]
-    },
-    {
-      "id": "e5f9efad3a63101778ec71cb9e32848a218db027",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-供应链",
-      "title": "东风展示全场景混动方案，千伏同轴电驱年内推出",
-      "url": "https://auto.gasgoo.com/news/202611/20I70478618C103.shtml",
-      "published_at": "2026-11-20T12:14:30Z",
-      "first_seen_at": "2026-11-21T12:05:17.386942Z",
-      "last_seen_at": "2026-11-21T12:05:17.386942Z",
-      "title_original": "东风展示全场景混动方案，千伏同轴电驱年内推出",
-      "title_en": null,
-      "title_zh": "东风展示全场景混动方案，千伏同轴电驱年内推出",
-      "title_bilingual": "东风展示全场景混动方案，千伏同轴电驱年内推出",
-      "topic_tags": [
-        "新能源",
-        "供应链"
+        "购车决策"
       ]
     }
   ],
   "items_ai": [
     {
+      "id": "3f5458c2c910113648306cafe0d92c4f58eef4de",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "初晓敏：讲透升级点 试驾2027款领克08 EM-P",
+      "url": "http://vc.yiche.com/vplay/14336226.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-21T19:37:44.843169Z",
+      "last_seen_at": "2026-11-21T19:37:44.843169Z",
+      "title_original": "初晓敏：讲透升级点 试驾2027款领克08 EM-P",
+      "title_en": null,
+      "title_zh": "初晓敏：讲透升级点 试驾2027款领克08 EM-P",
+      "title_bilingual": "初晓敏：讲透升级点 试驾2027款领克08 EM-P",
+      "topic_tags": [
+        "购车决策"
+      ]
+    },
+    {
+      "id": "e42eec579b3a928faa14acf318a7e1b3a590c3f1",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "十周年之作 蔚来ES9 地平线鎏金特别版",
+      "url": "http://vc.yiche.com/vplay/14366291.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-21T19:37:44.843169Z",
+      "last_seen_at": "2026-11-21T19:37:44.843169Z",
+      "title_original": "十周年之作 蔚来ES9 地平线鎏金特别版",
+      "title_en": null,
+      "title_zh": "十周年之作 蔚来ES9 地平线鎏金特别版",
+      "title_bilingual": "十周年之作 蔚来ES9 地平线鎏金特别版",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "72ca6e4f0328cdd3d8880c20fcd72374201cedcb",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "配置给得足够高，采用全新平台架构，试驾方程豹钛9",
+      "url": "http://vc.yiche.com/vplay/14306070.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-21T19:37:44.843169Z",
+      "last_seen_at": "2026-11-21T19:37:44.843169Z",
+      "title_original": "配置给得足够高，采用全新平台架构，试驾方程豹钛9",
+      "title_en": null,
+      "title_zh": "配置给得足够高，采用全新平台架构，试驾方程豹钛9",
+      "title_bilingual": "配置给得足够高，采用全新平台架构，试驾方程豹钛9",
+      "topic_tags": [
+        "购车决策"
+      ]
+    },
+    {
+      "id": "ccf6b400dd14d1377b1b04f93bff0a739fd58160",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "试驾丨AMG G63 暴躁且细腻",
+      "url": "http://vc.yiche.com/vplay/14271084.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-21T19:37:44.843169Z",
+      "last_seen_at": "2026-11-21T19:37:44.843169Z",
+      "title_original": "试驾丨AMG G63 暴躁且细腻",
+      "title_en": null,
+      "title_zh": "试驾丨AMG G63 暴躁且细腻",
+      "title_bilingual": "试驾丨AMG G63 暴躁且细腻",
+      "topic_tags": [
+        "购车决策"
+      ]
+    },
+    {
+      "id": "c3819f33f2709ba6d236bd59e09c4a3bf396be38",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "大型SUV市场迎来新玩家 方程豹钛9上市",
+      "url": "http://vc.yiche.com/vplay/14339124.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-21T19:37:44.843169Z",
+      "last_seen_at": "2026-11-21T19:37:44.843169Z",
+      "title_original": "大型SUV市场迎来新玩家 方程豹钛9上市",
+      "title_en": null,
+      "title_zh": "大型SUV市场迎来新玩家 方程豹钛9上市",
+      "title_bilingual": "大型SUV市场迎来新玩家 方程豹钛9上市",
+      "topic_tags": [
+        "销量市场",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "836010fc80c702c754fc9da910df8088004718fa",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Nio apologizes for ES9 matrix headlight messaging fiasco after censoring child’s birthday wish",
+      "url": "https://carnewschina.com/2026/11/21/nio-apologizes-for-es9-matrix-headlight-messaging-fiasco-after-censoring-childs-birthday-wish",
+      "published_at": "2026-11-21T16:09:27Z",
+      "first_seen_at": "2026-11-21T19:37:44.843169Z",
+      "last_seen_at": "2026-11-21T19:37:44.843169Z",
+      "title_original": "Nio apologizes for ES9 matrix headlight messaging fiasco after censoring child’s birthday wish",
+      "title_en": "Nio apologizes for ES9 matrix headlight messaging fiasco after censoring child’s birthday wish",
+      "title_zh": "蔚来为 ES9 矩阵头灯消息发送失败道歉，原因是审查了孩子的生日愿望",
+      "title_bilingual": "蔚来为 ES9 矩阵头灯消息发送失败道歉，原因是审查了孩子的生日愿望 / Nio apologizes for ES9 matrix headlight messaging fiasco after censoring child’s birthday wish",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
       "id": "c7cb0203d96cc29193a4e82bc5430413a1ef2793",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -571,7 +480,7 @@
       "url": "https://www.dongchedi.com/article/7708949958519554585",
       "published_at": null,
       "first_seen_at": "2026-11-21T12:05:17.386942Z",
-      "last_seen_at": "2026-11-21T12:05:17.386942Z",
+      "last_seen_at": "2026-11-21T19:37:44.843169Z",
       "title_original": "质用车：10款车型无线充电性能测试对比(28)",
       "title_en": null,
       "title_zh": "质用车：10款车型无线充电性能测试对比(28)",
@@ -592,7 +501,7 @@
       "url": "https://www.dongchedi.com/article/7710067797909602840",
       "published_at": null,
       "first_seen_at": "2026-11-21T12:05:17.386942Z",
-      "last_seen_at": "2026-11-21T12:05:17.386942Z",
+      "last_seen_at": "2026-11-21T19:37:44.843169Z",
       "title_original": "11月车市没有反转；2026广州车展首发新车115台",
       "title_en": null,
       "title_zh": "11月车市没有反转；2026广州车展首发新车115台",
@@ -610,7 +519,7 @@
       "url": "https://cnevpost.com/2026/11/21/nio-launches-es9-special-edition",
       "published_at": "2026-11-21T11:40:18Z",
       "first_seen_at": "2026-11-21T12:05:17.386942Z",
-      "last_seen_at": "2026-11-21T12:05:17.386942Z",
+      "last_seen_at": "2026-11-21T19:37:44.843169Z",
       "title_original": "Nio launches ES9 special edition to mark brand's 10th anniversary",
       "title_en": "Nio launches ES9 special edition to mark brand's 10th anniversary",
       "title_zh": "蔚来推出ES9特别版庆祝品牌成立10周年",
@@ -629,7 +538,7 @@
       "url": "https://carnewschina.com/2026/11/21/xiaomi-recruits-former-xpeng-executives-to-lead-european-market-entry",
       "published_at": "2026-11-21T06:42:04Z",
       "first_seen_at": "2026-11-21T12:05:17.386942Z",
-      "last_seen_at": "2026-11-21T12:05:17.386942Z",
+      "last_seen_at": "2026-11-21T19:37:44.843169Z",
       "title_original": "Xiaomi recruits former Xpeng executives to lead European market entry",
       "title_en": "Xiaomi recruits former Xpeng executives to lead European market entry",
       "title_zh": "小米聘请小鹏汽车前高管领导欧洲市场进军",
@@ -638,6 +547,24 @@
         "新能源",
         "销量市场",
         "车企竞争"
+      ]
+    },
+    {
+      "id": "56f96beec0df1739ebae13dd65f3de7751c0ac3c",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新车",
+      "title": "尚界Z7T星野套装27.48万起 猎装车加了10处外观件",
+      "url": "https://auto.gasgoo.com/news/202611/20I70478683C107.shtml",
+      "published_at": "2026-11-20T23:31:42Z",
+      "first_seen_at": "2026-11-21T19:37:44.843169Z",
+      "last_seen_at": "2026-11-21T19:37:44.843169Z",
+      "title_original": "尚界Z7T星野套装27.48万起 猎装车加了10处外观件",
+      "title_en": null,
+      "title_zh": "尚界Z7T星野套装27.48万起 猎装车加了10处外观件",
+      "title_bilingual": "尚界Z7T星野套装27.48万起 猎装车加了10处外观件",
+      "topic_tags": [
+        "新车上市"
       ]
     },
     {
@@ -678,325 +605,37 @@
       ]
     },
     {
-      "id": "c67c2cb4ea4393fb08d82cb85f67697947100cc6",
+      "id": "818d0121840b11037671ee4cc8a2f5b5c1842eb6",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-供应链",
-      "title": "马威宁鹤颀：W-pin铜线平台已稳定量产，铝线电机进入客户验证阶段",
-      "url": "https://auto.gasgoo.com/news/202611/20I70478667C103.shtml",
-      "published_at": "2026-11-20T17:10:51Z",
-      "first_seen_at": "2026-11-21T12:05:17.386942Z",
-      "last_seen_at": "2026-11-21T12:05:17.386942Z",
-      "title_original": "马威宁鹤颀：W-pin铜线平台已稳定量产，铝线电机进入客户验证阶段",
+      "source": "盖世汽车-新车",
+      "title": "华为北汽再加码，享界进入体系作战",
+      "url": "https://auto.gasgoo.com/news/202611/21I70478691C107.shtml",
+      "published_at": "2026-11-20T22:21:49Z",
+      "first_seen_at": "2026-11-21T19:37:44.843169Z",
+      "last_seen_at": "2026-11-21T19:37:44.843169Z",
+      "title_original": "华为北汽再加码，享界进入体系作战",
       "title_en": null,
-      "title_zh": "马威宁鹤颀：W-pin铜线平台已稳定量产，铝线电机进入客户验证阶段",
-      "title_bilingual": "马威宁鹤颀：W-pin铜线平台已稳定量产，铝线电机进入客户验证阶段",
+      "title_zh": "华为北汽再加码，享界进入体系作战",
+      "title_bilingual": "华为北汽再加码，享界进入体系作战",
       "topic_tags": [
-        "供应链"
+        "新车上市"
       ]
     },
     {
-      "id": "41c03b1784cb8c210c13f67977a7dd61654ceee3",
+      "id": "51a708e59043eb06ecdbdd5281d8e33189267311",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-供应链",
-      "title": "Allegro曹姜威：从高压电驱到48V革新，双线布局动力系统能效与安全",
-      "url": "https://auto.gasgoo.com/news/202611/20I70478663C103.shtml",
-      "published_at": "2026-11-20T17:01:42Z",
-      "first_seen_at": "2026-11-21T12:05:17.386942Z",
-      "last_seen_at": "2026-11-21T12:05:17.386942Z",
-      "title_original": "Allegro曹姜威：从高压电驱到48V革新，双线布局动力系统能效与安全",
+      "source": "盖世汽车-车企",
+      "title": "零跑与欧宝签署联合开发协议，全新纯电SUV计划2028年上市",
+      "url": "https://auto.gasgoo.com/news/202611/20I70478676C109.shtml",
+      "published_at": "2026-11-20T20:22:06Z",
+      "first_seen_at": "2026-11-21T19:37:44.843169Z",
+      "last_seen_at": "2026-11-21T19:37:44.843169Z",
+      "title_original": "零跑与欧宝签署联合开发协议，全新纯电SUV计划2028年上市",
       "title_en": null,
-      "title_zh": "Allegro曹姜威：从高压电驱到48V革新，双线布局动力系统能效与安全",
-      "title_bilingual": "Allegro曹姜威：从高压电驱到48V革新，双线布局动力系统能效与安全",
-      "topic_tags": [
-        "召回安全",
-        "供应链"
-      ]
-    },
-    {
-      "id": "354c258733e6e59ed94f9e5865adde162542bbfb",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-供应链",
-      "title": "一边深耕本土，一边助力出海：采埃孚商用车的中国新打法",
-      "url": "https://auto.gasgoo.com/news/202611/20I70478638C103.shtml",
-      "published_at": "2026-11-20T16:10:51Z",
-      "first_seen_at": "2026-11-21T12:05:17.386942Z",
-      "last_seen_at": "2026-11-21T12:05:17.386942Z",
-      "title_original": "一边深耕本土，一边助力出海：采埃孚商用车的中国新打法",
-      "title_en": null,
-      "title_zh": "一边深耕本土，一边助力出海：采埃孚商用车的中国新打法",
-      "title_bilingual": "一边深耕本土，一边助力出海：采埃孚商用车的中国新打法",
-      "topic_tags": [
-        "供应链",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "52551100ac81e938c1e096915cb9c15d0065b6fe",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-供应链",
-      "title": "罗姆王天宇：第五代碳化硅转向平面型，2027年量产",
-      "url": "https://auto.gasgoo.com/news/202611/20I70478657C103.shtml",
-      "published_at": "2026-11-20T16:07:38Z",
-      "first_seen_at": "2026-11-21T12:05:17.386942Z",
-      "last_seen_at": "2026-11-21T12:05:17.386942Z",
-      "title_original": "罗姆王天宇：第五代碳化硅转向平面型，2027年量产",
-      "title_en": null,
-      "title_zh": "罗姆王天宇：第五代碳化硅转向平面型，2027年量产",
-      "title_bilingual": "罗姆王天宇：第五代碳化硅转向平面型，2027年量产",
-      "topic_tags": [
-        "供应链"
-      ]
-    },
-    {
-      "id": "be43352846fc6b161d227ffcffd46446c127a1d2",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新技术",
-      "title": "DGIST开发出用于电动汽车电机的高性能永磁体关键技术",
-      "url": "https://auto.gasgoo.com/news/202611/20I70478655C409.shtml",
-      "published_at": "2026-11-20T15:56:59Z",
-      "first_seen_at": "2026-11-21T12:05:17.386942Z",
-      "last_seen_at": "2026-11-21T12:05:17.386942Z",
-      "title_original": "DGIST开发出用于电动汽车电机的高性能永磁体关键技术",
-      "title_en": null,
-      "title_zh": "DGIST开发出用于电动汽车电机的高性能永磁体关键技术",
-      "title_bilingual": "DGIST开发出用于电动汽车电机的高性能永磁体关键技术",
-      "topic_tags": [
-        "供应链"
-      ]
-    },
-    {
-      "id": "1562b9eb1804c266fb599f51dc2d91d123b0f3c3",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-供应链",
-      "title": "意法半导体张培荣：“X in 1”中的“X”并非越多越好，集成度需综合多维度评估",
-      "url": "https://auto.gasgoo.com/news/202611/20I70478656C103.shtml",
-      "published_at": "2026-11-20T15:52:59Z",
-      "first_seen_at": "2026-11-21T12:05:17.386942Z",
-      "last_seen_at": "2026-11-21T12:05:17.386942Z",
-      "title_original": "意法半导体张培荣：“X in 1”中的“X”并非越多越好，集成度需综合多维度评估",
-      "title_en": null,
-      "title_zh": "意法半导体张培荣：“X in 1”中的“X”并非越多越好，集成度需综合多维度评估",
-      "title_bilingual": "意法半导体张培荣：“X in 1”中的“X”并非越多越好，集成度需综合多维度评估",
-      "topic_tags": [
-        "供应链"
-      ]
-    },
-    {
-      "id": "1001c4355d9770fb15ae8f373292e89937f84535",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新技术",
-      "title": "福特申请车辆灯光通信系统专利",
-      "url": "https://auto.gasgoo.com/news/202611/20I70478654C409.shtml",
-      "published_at": "2026-11-20T15:48:01Z",
-      "first_seen_at": "2026-11-21T12:05:17.386942Z",
-      "last_seen_at": "2026-11-21T12:05:17.386942Z",
-      "title_original": "福特申请车辆灯光通信系统专利",
-      "title_en": null,
-      "title_zh": "福特申请车辆灯光通信系统专利",
-      "title_bilingual": "福特申请车辆灯光通信系统专利",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "27bb0efab1f051717f8d0e23e98fc02fe1e355aa",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新技术",
-      "title": "香港科技大学研发出高分辨率仿生眼 集全彩广角视觉与事件驱动型运动检测于一体",
-      "url": "https://auto.gasgoo.com/news/202611/20I70478653C409.shtml",
-      "published_at": "2026-11-20T15:43:06Z",
-      "first_seen_at": "2026-11-21T12:05:17.386942Z",
-      "last_seen_at": "2026-11-21T12:05:17.386942Z",
-      "title_original": "香港科技大学研发出高分辨率仿生眼 集全彩广角视觉与事件驱动型运动检测于一体",
-      "title_en": null,
-      "title_zh": "香港科技大学研发出高分辨率仿生眼 集全彩广角视觉与事件驱动型运动检测于一体",
-      "title_bilingual": "香港科技大学研发出高分辨率仿生眼 集全彩广角视觉与事件驱动型运动检测于一体",
-      "topic_tags": []
-    },
-    {
-      "id": "894792e06e6a5db3017832441ef569aeeecf6c43",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新技术",
-      "title": "以菠萝叶纤维为原料 日产与 FOOD REBORN打造出汽车外车身覆盖件",
-      "url": "https://auto.gasgoo.com/news/202611/20I70478652C409.shtml",
-      "published_at": "2026-11-20T15:39:01Z",
-      "first_seen_at": "2026-11-21T12:05:17.386942Z",
-      "last_seen_at": "2026-11-21T12:05:17.386942Z",
-      "title_original": "以菠萝叶纤维为原料 日产与 FOOD REBORN打造出汽车外车身覆盖件",
-      "title_en": null,
-      "title_zh": "以菠萝叶纤维为原料 日产与 FOOD REBORN打造出汽车外车身覆盖件",
-      "title_bilingual": "以菠萝叶纤维为原料 日产与 FOOD REBORN打造出汽车外车身覆盖件",
-      "topic_tags": []
-    },
-    {
-      "id": "b03e0ebc87fa1945c1efb2d0e9f25e1cf493b7f0",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新技术",
-      "title": "MIT发明超轻型飞行机器人 自带传感器和计算机",
-      "url": "https://auto.gasgoo.com/news/202611/20I70478651C409.shtml",
-      "published_at": "2026-11-20T15:35:04Z",
-      "first_seen_at": "2026-11-21T12:05:17.386942Z",
-      "last_seen_at": "2026-11-21T12:05:17.386942Z",
-      "title_original": "MIT发明超轻型飞行机器人 自带传感器和计算机",
-      "title_en": null,
-      "title_zh": "MIT发明超轻型飞行机器人 自带传感器和计算机",
-      "title_bilingual": "MIT发明超轻型飞行机器人 自带传感器和计算机",
-      "topic_tags": []
-    },
-    {
-      "id": "d188a66133577812b3abd7a3911b055d0ee7fc24",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新技术",
-      "title": "福特申请车辆泊车系统专利 或许能为驾驶员留出更多空间",
-      "url": "https://auto.gasgoo.com/news/202611/20I70478650C409.shtml",
-      "published_at": "2026-11-20T15:32:27Z",
-      "first_seen_at": "2026-11-21T12:05:17.386942Z",
-      "last_seen_at": "2026-11-21T12:05:17.386942Z",
-      "title_original": "福特申请车辆泊车系统专利 或许能为驾驶员留出更多空间",
-      "title_en": null,
-      "title_zh": "福特申请车辆泊车系统专利 或许能为驾驶员留出更多空间",
-      "title_bilingual": "福特申请车辆泊车系统专利 或许能为驾驶员留出更多空间",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "8cf1a56795dd432f959798b18a9fdcd6d17d6d83",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新技术",
-      "title": "Sonatus推出基于人工智能的即插即用型硬件解决方案Fastlane® Copilo 旨在支持开发、测试与验证工作",
-      "url": "https://auto.gasgoo.com/news/202611/20I70478649C409.shtml",
-      "published_at": "2026-11-20T15:30:15Z",
-      "first_seen_at": "2026-11-21T12:05:17.386942Z",
-      "last_seen_at": "2026-11-21T12:05:17.386942Z",
-      "title_original": "Sonatus推出基于人工智能的即插即用型硬件解决方案Fastlane® Copilo 旨在支持开发、测试与验证工作",
-      "title_en": null,
-      "title_zh": "Sonatus推出基于人工智能的即插即用型硬件解决方案Fastlane® Copilo 旨在支持开发、测试与验证工作",
-      "title_bilingual": "Sonatus推出基于人工智能的即插即用型硬件解决方案Fastlane® Copilo 旨在支持开发、测试与验证工作",
-      "topic_tags": [
-        "召回安全"
-      ]
-    },
-    {
-      "id": "7ad2596fb14cf663099b2325e63b6ae31dd43335",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-供应链",
-      "title": "瑞萨阿尔里曲：从精准控制到智能化，单MCU支撑X-in-1高效电驱",
-      "url": "https://auto.gasgoo.com/news/202611/20I70478647C103.shtml",
-      "published_at": "2026-11-20T15:08:42Z",
-      "first_seen_at": "2026-11-21T12:05:17.386942Z",
-      "last_seen_at": "2026-11-21T12:05:17.386942Z",
-      "title_original": "瑞萨阿尔里曲：从精准控制到智能化，单MCU支撑X-in-1高效电驱",
-      "title_en": null,
-      "title_zh": "瑞萨阿尔里曲：从精准控制到智能化，单MCU支撑X-in-1高效电驱",
-      "title_bilingual": "瑞萨阿尔里曲：从精准控制到智能化，单MCU支撑X-in-1高效电驱",
-      "topic_tags": [
-        "供应链"
-      ]
-    },
-    {
-      "id": "02042e7dd4c42fd8055db88e4ef7ebf0cbfd225c",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新能源",
-      "title": "云山动力袁定凯：2030年大圆柱电池市场有望达834GWh",
-      "url": "https://auto.gasgoo.com/news/202611/20I70478646C501.shtml",
-      "published_at": "2026-11-20T15:04:19Z",
-      "first_seen_at": "2026-11-21T12:05:17.386942Z",
-      "last_seen_at": "2026-11-21T12:05:17.386942Z",
-      "title_original": "云山动力袁定凯：2030年大圆柱电池市场有望达834GWh",
-      "title_en": null,
-      "title_zh": "云山动力袁定凯：2030年大圆柱电池市场有望达834GWh",
-      "title_bilingual": "云山动力袁定凯：2030年大圆柱电池市场有望达834GWh",
-      "topic_tags": [
-        "新能源",
-        "补能电池",
-        "销量市场"
-      ]
-    },
-    {
-      "id": "9e9c36166ccdae943c233de1346dd5712944b75f",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-供应链",
-      "title": "长安闫博文：HEV是内燃机电动化的延续和必然",
-      "url": "https://auto.gasgoo.com/news/202611/20I70478627C103.shtml",
-      "published_at": "2026-11-20T14:55:43Z",
-      "first_seen_at": "2026-11-21T12:05:17.386942Z",
-      "last_seen_at": "2026-11-21T12:05:17.386942Z",
-      "title_original": "长安闫博文：HEV是内燃机电动化的延续和必然",
-      "title_en": null,
-      "title_zh": "长安闫博文：HEV是内燃机电动化的延续和必然",
-      "title_bilingual": "长安闫博文：HEV是内燃机电动化的延续和必然",
-      "topic_tags": [
-        "车企竞争",
-        "供应链"
-      ]
-    },
-    {
-      "id": "9b78801535f984620570bf2e69e4bc9cc5196972",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "聚合物基固态电池有望迭代液态电解质",
-      "url": "https://auto.gasgoo.com/news/202611/20I70478628C501.shtml",
-      "published_at": "2026-11-20T14:53:00Z",
-      "first_seen_at": "2026-11-21T12:05:17.386942Z",
-      "last_seen_at": "2026-11-21T12:05:17.386942Z",
-      "title_original": "聚合物基固态电池有望迭代液态电解质",
-      "title_en": null,
-      "title_zh": "聚合物基固态电池有望迭代液态电解质",
-      "title_bilingual": "聚合物基固态电池有望迭代液态电解质",
-      "topic_tags": [
-        "补能电池"
-      ]
-    },
-    {
-      "id": "7888dd3ef35a56b107f3294805fb96647a6cadb7",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-销量",
-      "title": "腾势Z9 GT连续7个月获新能源豪华GT销冠",
-      "url": "https://auto.gasgoo.com/news/202611/20I70478625C110.shtml",
-      "published_at": "2026-11-20T14:35:18Z",
-      "first_seen_at": "2026-11-21T12:05:17.386942Z",
-      "last_seen_at": "2026-11-21T12:05:17.386942Z",
-      "title_original": "腾势Z9 GT连续7个月获新能源豪华GT销冠",
-      "title_en": null,
-      "title_zh": "腾势Z9 GT连续7个月获新能源豪华GT销冠",
-      "title_bilingual": "腾势Z9 GT连续7个月获新能源豪华GT销冠",
-      "topic_tags": [
-        "新能源",
-        "销量市场"
-      ]
-    },
-    {
-      "id": "8aaa2c8cf9d9e6b9abdef657779d9da78907789c",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Leapmotor, Opel sign deal to develop new C-segment SUV for 2028 launch",
-      "url": "https://cnevpost.com/2026/11/20/leapmotor-opel-deal-develop-suv-2028-launch",
-      "published_at": "2026-11-20T13:11:02Z",
-      "first_seen_at": "2026-11-20T16:41:04.176787Z",
-      "last_seen_at": "2026-11-21T12:05:17.386942Z",
-      "title_original": "Leapmotor, Opel sign deal to develop new C-segment SUV for 2028 launch",
-      "title_en": "Leapmotor, Opel sign deal to develop new C-segment SUV for 2028 launch",
-      "title_zh": "零跑汽车与欧宝签署协议开发新款C级SUV 将于2028年上市",
-      "title_bilingual": "零跑汽车与欧宝签署协议开发新款C级SUV 将于2028年上市 / Leapmotor, Opel sign deal to develop new C-segment SUV for 2028 launch",
+      "title_zh": "零跑与欧宝签署联合开发协议，全新纯电SUV计划2028年上市",
+      "title_bilingual": "零跑与欧宝签署联合开发协议，全新纯电SUV计划2028年上市",
       "topic_tags": [
         "新能源",
         "车企竞争",
@@ -1004,58 +643,21 @@
       ]
     },
     {
-      "id": "b5c1ac8be9ac4264b55f0f90759b9a80d9ff5a4d",
+      "id": "033cef875c2edd769035877e4cbbbd9890c06a79",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-供应链",
-      "title": "电驱高性能化带动防护升级，安普鲁二代滤油阀推进量产",
-      "url": "https://auto.gasgoo.com/news/202611/20I70478619C103.shtml",
-      "published_at": "2026-11-20T12:39:21Z",
-      "first_seen_at": "2026-11-21T12:05:17.386942Z",
-      "last_seen_at": "2026-11-21T12:05:17.386942Z",
-      "title_original": "电驱高性能化带动防护升级，安普鲁二代滤油阀推进量产",
+      "source": "盖世汽车-行业",
+      "title": "智能座舱体验，多了一把“AI尺子”",
+      "url": "https://auto.gasgoo.com/news/202611/20I70478675C108.shtml",
+      "published_at": "2026-11-20T20:18:58Z",
+      "first_seen_at": "2026-11-21T19:37:44.843169Z",
+      "last_seen_at": "2026-11-21T19:37:44.843169Z",
+      "title_original": "智能座舱体验，多了一把“AI尺子”",
       "title_en": null,
-      "title_zh": "电驱高性能化带动防护升级，安普鲁二代滤油阀推进量产",
-      "title_bilingual": "电驱高性能化带动防护升级，安普鲁二代滤油阀推进量产",
+      "title_zh": "智能座舱体验，多了一把“AI尺子”",
+      "title_bilingual": "智能座舱体验，多了一把“AI尺子”",
       "topic_tags": [
-        "供应链"
-      ]
-    },
-    {
-      "id": "61fd510988e57f16ecf23624970ddb0ec58ea706",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-Battery",
-      "title": "CATL and Hesai added to Hong Kong's Hang Seng Tech Index as Momenta joins Hang Seng Composite Index",
-      "url": "https://cnevpost.com/2026/11/20/catl-hesai-added-hk-hang-seng-tech-index",
-      "published_at": "2026-11-20T12:29:38Z",
-      "first_seen_at": "2026-11-20T16:41:04.176787Z",
-      "last_seen_at": "2026-11-21T12:05:17.386942Z",
-      "title_original": "CATL and Hesai added to Hong Kong's Hang Seng Tech Index as Momenta joins Hang Seng Composite Index",
-      "title_en": "CATL and Hesai added to Hong Kong's Hang Seng Tech Index as Momenta joins Hang Seng Composite Index",
-      "title_zh": "随着 Momenta 加入恒生综合指数，CATL 和禾赛被纳入香港恒生科技指数",
-      "title_bilingual": "随着 Momenta 加入恒生综合指数，CATL 和禾赛被纳入香港恒生科技指数 / CATL and Hesai added to Hong Kong's Hang Seng Tech Index as Momenta joins Hang Seng Composite Index",
-      "topic_tags": [
-        "补能电池"
-      ]
-    },
-    {
-      "id": "e5f9efad3a63101778ec71cb9e32848a218db027",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-供应链",
-      "title": "东风展示全场景混动方案，千伏同轴电驱年内推出",
-      "url": "https://auto.gasgoo.com/news/202611/20I70478618C103.shtml",
-      "published_at": "2026-11-20T12:14:30Z",
-      "first_seen_at": "2026-11-21T12:05:17.386942Z",
-      "last_seen_at": "2026-11-21T12:05:17.386942Z",
-      "title_original": "东风展示全场景混动方案，千伏同轴电驱年内推出",
-      "title_en": null,
-      "title_zh": "东风展示全场景混动方案，千伏同轴电驱年内推出",
-      "title_bilingual": "东风展示全场景混动方案，千伏同轴电驱年内推出",
-      "topic_tags": [
-        "新能源",
-        "供应链"
+        "购车决策"
       ]
     }
   ],
