@@ -1,46 +1,46 @@
 {
-  "generated_at": "2026-11-22T00:04:11.320707Z",
+  "generated_at": "2026-11-22T07:14:38.242465Z",
   "window_hours": 24,
-  "total_items": 12,
-  "total_items_ai_raw": 14,
-  "total_items_raw": 1913,
-  "total_items_all_mode": 1711,
+  "total_items": 13,
+  "total_items_ai_raw": 13,
+  "total_items_raw": 2053,
+  "total_items_all_mode": 1835,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 49857,
+  "archive_total": 49862,
   "site_count": 3,
-  "source_count": 6,
+  "source_count": 5,
   "site_stats": [
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "count": 7,
-      "raw_count": 1805
+      "raw_count": 1940
     },
     {
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "count": 5,
-      "raw_count": 7
+      "count": 6,
+      "raw_count": 6
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "count": 0,
-      "raw_count": 101
+      "raw_count": 107
     }
   ],
   "topic_tag_stats": [
     {
       "tag": "车企竞争",
-      "count": 5
+      "count": 7
+    },
+    {
+      "tag": "新能源",
+      "count": 6
     },
     {
       "tag": "购车决策",
       "count": 4
-    },
-    {
-      "tag": "新能源",
-      "count": 3
     },
     {
       "tag": "新车上市",
@@ -48,26 +48,76 @@
     },
     {
       "tag": "销量市场",
-      "count": 2
+      "count": 3
     },
     {
-      "tag": "供应链",
-      "count": 1
+      "tag": "补能电池",
+      "count": 2
     },
     {
       "tag": "召回安全",
       "count": 1
-    },
-    {
-      "tag": "智能驾驶",
-      "count": 1
-    },
-    {
-      "tag": "补能电池",
-      "count": 1
     }
   ],
   "items": [
+    {
+      "id": "3a92bb97da1b349842d8c70eeef19391c862282d",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Volkswagen targets 300,000 China exports a year by 2030, bringing Xpeng-backed tech to global markets",
+      "url": "https://carnewschina.com/2026/11/22/volkswagen-targets-300000-china-exports-a-year-by-2030-bringing-xpeng-backed-tech-to-global-markets",
+      "published_at": "2026-11-22T05:21:31Z",
+      "first_seen_at": "2026-11-22T07:14:38.242465Z",
+      "last_seen_at": "2026-11-22T07:14:38.242465Z",
+      "title_original": "Volkswagen targets 300,000 China exports a year by 2030, bringing Xpeng-backed tech to global markets",
+      "title_en": "Volkswagen targets 300,000 China exports a year by 2030, bringing Xpeng-backed tech to global markets",
+      "title_zh": "大众汽车的目标是到 2030 年每年向中国出口 30 万辆，将小鹏汽车支持的技术推向全球市场",
+      "title_bilingual": "大众汽车的目标是到 2030 年每年向中国出口 30 万辆，将小鹏汽车支持的技术推向全球市场 / Volkswagen targets 300,000 China exports a year by 2030, bringing Xpeng-backed tech to global markets",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "592e41cb62e3cce65c1862a4034c8d5d93ccf3de",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Nio Firefly debuts Haven special edition in Oslo, plans spring 2027 launch in Europe",
+      "url": "https://cnevpost.com/2026/11/22/nio-firefly-debuts-haven-edition-oslo-spring-2027-launch-europe",
+      "published_at": "2026-11-22T02:12:05Z",
+      "first_seen_at": "2026-11-22T07:14:38.242465Z",
+      "last_seen_at": "2026-11-22T07:14:38.242465Z",
+      "title_original": "Nio Firefly debuts Haven special edition in Oslo, plans spring 2027 launch in Europe",
+      "title_en": "Nio Firefly debuts Haven special edition in Oslo, plans spring 2027 launch in Europe",
+      "title_zh": "Nio Firefly 在奥斯陆首次推出 Haven 特别版，计划于 2027 年春季在欧洲推出",
+      "title_bilingual": "Nio Firefly 在奥斯陆首次推出 Haven 特别版，计划于 2027 年春季在欧洲推出 / Nio Firefly debuts Haven special edition in Oslo, plans spring 2027 launch in Europe",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "9943170978b25055cc7dc3565c5b9b047aaac46a",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Dutch court bars EU sales of BYD Ti7, citing infringement of Land Rover Defender design rights",
+      "url": "https://cnevpost.com/2026/11/22/dutch-court-bars-eu-sales-byd-ti7-land-rover-defender-design",
+      "published_at": "2026-11-22T01:07:22Z",
+      "first_seen_at": "2026-11-22T07:14:38.242465Z",
+      "last_seen_at": "2026-11-22T07:14:38.242465Z",
+      "title_original": "Dutch court bars EU sales of BYD Ti7, citing infringement of Land Rover Defender design rights",
+      "title_en": "Dutch court bars EU sales of BYD Ti7, citing infringement of Land Rover Defender design rights",
+      "title_zh": "荷兰法院以侵犯路虎卫士设计权为由禁止在欧盟销售比亚迪Ti7",
+      "title_bilingual": "荷兰法院以侵犯路虎卫士设计权为由禁止在欧盟销售比亚迪Ti7 / Dutch court bars EU sales of BYD Ti7, citing infringement of Land Rover Defender design rights",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
     {
       "id": "3f5458c2c910113648306cafe0d92c4f58eef4de",
       "site_id": "tophub",
@@ -77,7 +127,7 @@
       "url": "http://vc.yiche.com/vplay/14336226.html",
       "published_at": null,
       "first_seen_at": "2026-11-21T19:37:44.843169Z",
-      "last_seen_at": "2026-11-22T00:04:11.320707Z",
+      "last_seen_at": "2026-11-22T07:14:38.242465Z",
       "title_original": "初晓敏：讲透升级点 试驾2027款领克08 EM-P",
       "title_en": null,
       "title_zh": "初晓敏：讲透升级点 试驾2027款领克08 EM-P",
@@ -95,7 +145,7 @@
       "url": "http://vc.yiche.com/vplay/14366291.html",
       "published_at": null,
       "first_seen_at": "2026-11-21T19:37:44.843169Z",
-      "last_seen_at": "2026-11-22T00:04:11.320707Z",
+      "last_seen_at": "2026-11-22T07:14:38.242465Z",
       "title_original": "十周年之作 蔚来ES9 地平线鎏金特别版",
       "title_en": null,
       "title_zh": "十周年之作 蔚来ES9 地平线鎏金特别版",
@@ -113,7 +163,7 @@
       "url": "http://vc.yiche.com/vplay/14306070.html",
       "published_at": null,
       "first_seen_at": "2026-11-21T19:37:44.843169Z",
-      "last_seen_at": "2026-11-22T00:04:11.320707Z",
+      "last_seen_at": "2026-11-22T07:14:38.242465Z",
       "title_original": "配置给得足够高，采用全新平台架构，试驾方程豹钛9",
       "title_en": null,
       "title_zh": "配置给得足够高，采用全新平台架构，试驾方程豹钛9",
@@ -131,7 +181,7 @@
       "url": "http://vc.yiche.com/vplay/14271084.html",
       "published_at": null,
       "first_seen_at": "2026-11-21T19:37:44.843169Z",
-      "last_seen_at": "2026-11-22T00:04:11.320707Z",
+      "last_seen_at": "2026-11-22T07:14:38.242465Z",
       "title_original": "试驾丨AMG G63 暴躁且细腻",
       "title_en": null,
       "title_zh": "试驾丨AMG G63 暴躁且细腻",
@@ -149,7 +199,7 @@
       "url": "http://vc.yiche.com/vplay/14339124.html",
       "published_at": null,
       "first_seen_at": "2026-11-21T19:37:44.843169Z",
-      "last_seen_at": "2026-11-22T00:04:11.320707Z",
+      "last_seen_at": "2026-11-22T07:14:38.242465Z",
       "title_original": "大型SUV市场迎来新玩家 方程豹钛9上市",
       "title_en": null,
       "title_zh": "大型SUV市场迎来新玩家 方程豹钛9上市",
@@ -168,13 +218,34 @@
       "url": "https://carnewschina.com/2026/11/21/nio-apologizes-for-es9-matrix-headlight-messaging-fiasco-after-censoring-childs-birthday-wish",
       "published_at": "2026-11-21T16:09:27Z",
       "first_seen_at": "2026-11-21T19:37:44.843169Z",
-      "last_seen_at": "2026-11-22T00:04:11.320707Z",
+      "last_seen_at": "2026-11-22T07:14:38.242465Z",
       "title_original": "Nio apologizes for ES9 matrix headlight messaging fiasco after censoring child’s birthday wish",
       "title_en": "Nio apologizes for ES9 matrix headlight messaging fiasco after censoring child’s birthday wish",
       "title_zh": "蔚来为 ES9 矩阵头灯消息发送失败道歉，原因是审查了孩子的生日愿望",
       "title_bilingual": "蔚来为 ES9 矩阵头灯消息发送失败道歉，原因是审查了孩子的生日愿望 / Nio apologizes for ES9 matrix headlight messaging fiasco after censoring child’s birthday wish",
       "topic_tags": [
         "新能源",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "ecf6ddf441e131aaa1615241886419960125f598",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新能源",
+      "title": "过度竞争的”火“，烧到补能市场",
+      "url": "https://auto.gasgoo.com/news/202611/21I70478716C501.shtml",
+      "published_at": "2026-11-21T12:35:21Z",
+      "first_seen_at": "2026-11-22T07:14:38.242465Z",
+      "last_seen_at": "2026-11-22T07:14:38.242465Z",
+      "title_original": "过度竞争的”火“，烧到补能市场",
+      "title_en": null,
+      "title_zh": "过度竞争的”火“，烧到补能市场",
+      "title_bilingual": "过度竞争的”火“，烧到补能市场",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "销量市场",
         "车企竞争"
       ]
     },
@@ -187,7 +258,7 @@
       "url": "https://www.dongchedi.com/article/7708949958519554585",
       "published_at": null,
       "first_seen_at": "2026-11-21T12:05:17.386942Z",
-      "last_seen_at": "2026-11-22T00:04:11.320707Z",
+      "last_seen_at": "2026-11-22T07:14:38.242465Z",
       "title_original": "质用车：10款车型无线充电性能测试对比(28)",
       "title_en": null,
       "title_zh": "质用车：10款车型无线充电性能测试对比(28)",
@@ -208,7 +279,7 @@
       "url": "https://www.dongchedi.com/article/7710067797909602840",
       "published_at": null,
       "first_seen_at": "2026-11-21T12:05:17.386942Z",
-      "last_seen_at": "2026-11-22T00:04:11.320707Z",
+      "last_seen_at": "2026-11-22T07:14:38.242465Z",
       "title_original": "11月车市没有反转；2026广州车展首发新车115台",
       "title_en": null,
       "title_zh": "11月车市没有反转；2026广州车展首发新车115台",
@@ -226,76 +297,77 @@
       "url": "https://cnevpost.com/2026/11/21/nio-launches-es9-special-edition",
       "published_at": "2026-11-21T11:40:18Z",
       "first_seen_at": "2026-11-21T12:05:17.386942Z",
-      "last_seen_at": "2026-11-22T00:04:11.320707Z",
+      "last_seen_at": "2026-11-22T07:14:38.242465Z",
       "title_original": "Nio launches ES9 special edition to mark brand's 10th anniversary",
       "title_en": "Nio launches ES9 special edition to mark brand's 10th anniversary",
       "title_zh": "蔚来推出ES9特别版庆祝品牌成立10周年",
       "title_bilingual": "蔚来推出ES9特别版庆祝品牌成立10周年 / Nio launches ES9 special edition to mark brand's 10th anniversary",
       "topic_tags": [
         "新能源",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "72b03c51610a4cf248f06de800f0030ff23df202",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-供应链",
-      "title": "中国Robotaxi出海，开始接受欧洲乘客检验",
-      "url": "https://auto.gasgoo.com/news/202611/21I70478583C601.shtml",
-      "published_at": "2026-11-21T07:05:38Z",
-      "first_seen_at": "2026-11-22T00:04:11.320707Z",
-      "last_seen_at": "2026-11-22T00:04:11.320707Z",
-      "title_original": "中国Robotaxi出海，开始接受欧洲乘客检验",
-      "title_en": null,
-      "title_zh": "中国Robotaxi出海，开始接受欧洲乘客检验",
-      "title_bilingual": "中国Robotaxi出海，开始接受欧洲乘客检验",
-      "topic_tags": [
-        "智能驾驶",
-        "供应链"
-      ]
-    },
-    {
-      "id": "92f46f84cae86a91b83bd41b43a68ac8a2a8b410",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "欧洲车企开始为中国造车技术付费",
-      "url": "https://auto.gasgoo.com/news/202611/21I70478679C109.shtml",
-      "published_at": "2026-11-21T07:05:24Z",
-      "first_seen_at": "2026-11-22T00:04:11.320707Z",
-      "last_seen_at": "2026-11-22T00:04:11.320707Z",
-      "title_original": "欧洲车企开始为中国造车技术付费",
-      "title_en": null,
-      "title_zh": "欧洲车企开始为中国造车技术付费",
-      "title_bilingual": "欧洲车企开始为中国造车技术付费",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "19b57606840bcba96699a3e18fd9c89b9e678ab2",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Xiaomi recruits former Xpeng executives to lead European market entry",
-      "url": "https://carnewschina.com/2026/11/21/xiaomi-recruits-former-xpeng-executives-to-lead-european-market-entry",
-      "published_at": "2026-11-21T06:42:04Z",
-      "first_seen_at": "2026-11-21T12:05:17.386942Z",
-      "last_seen_at": "2026-11-22T00:04:11.320707Z",
-      "title_original": "Xiaomi recruits former Xpeng executives to lead European market entry",
-      "title_en": "Xiaomi recruits former Xpeng executives to lead European market entry",
-      "title_zh": "小米聘请小鹏汽车前高管领导欧洲市场进军",
-      "title_bilingual": "小米聘请小鹏汽车前高管领导欧洲市场进军 / Xiaomi recruits former Xpeng executives to lead European market entry",
-      "topic_tags": [
-        "新能源",
-        "销量市场",
         "车企竞争"
       ]
     }
   ],
   "items_ai": [
     {
+      "id": "3a92bb97da1b349842d8c70eeef19391c862282d",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Volkswagen targets 300,000 China exports a year by 2030, bringing Xpeng-backed tech to global markets",
+      "url": "https://carnewschina.com/2026/11/22/volkswagen-targets-300000-china-exports-a-year-by-2030-bringing-xpeng-backed-tech-to-global-markets",
+      "published_at": "2026-11-22T05:21:31Z",
+      "first_seen_at": "2026-11-22T07:14:38.242465Z",
+      "last_seen_at": "2026-11-22T07:14:38.242465Z",
+      "title_original": "Volkswagen targets 300,000 China exports a year by 2030, bringing Xpeng-backed tech to global markets",
+      "title_en": "Volkswagen targets 300,000 China exports a year by 2030, bringing Xpeng-backed tech to global markets",
+      "title_zh": "大众汽车的目标是到 2030 年每年向中国出口 30 万辆，将小鹏汽车支持的技术推向全球市场",
+      "title_bilingual": "大众汽车的目标是到 2030 年每年向中国出口 30 万辆，将小鹏汽车支持的技术推向全球市场 / Volkswagen targets 300,000 China exports a year by 2030, bringing Xpeng-backed tech to global markets",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "592e41cb62e3cce65c1862a4034c8d5d93ccf3de",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Nio Firefly debuts Haven special edition in Oslo, plans spring 2027 launch in Europe",
+      "url": "https://cnevpost.com/2026/11/22/nio-firefly-debuts-haven-edition-oslo-spring-2027-launch-europe",
+      "published_at": "2026-11-22T02:12:05Z",
+      "first_seen_at": "2026-11-22T07:14:38.242465Z",
+      "last_seen_at": "2026-11-22T07:14:38.242465Z",
+      "title_original": "Nio Firefly debuts Haven special edition in Oslo, plans spring 2027 launch in Europe",
+      "title_en": "Nio Firefly debuts Haven special edition in Oslo, plans spring 2027 launch in Europe",
+      "title_zh": "Nio Firefly 在奥斯陆首次推出 Haven 特别版，计划于 2027 年春季在欧洲推出",
+      "title_bilingual": "Nio Firefly 在奥斯陆首次推出 Haven 特别版，计划于 2027 年春季在欧洲推出 / Nio Firefly debuts Haven special edition in Oslo, plans spring 2027 launch in Europe",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "9943170978b25055cc7dc3565c5b9b047aaac46a",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Dutch court bars EU sales of BYD Ti7, citing infringement of Land Rover Defender design rights",
+      "url": "https://cnevpost.com/2026/11/22/dutch-court-bars-eu-sales-byd-ti7-land-rover-defender-design",
+      "published_at": "2026-11-22T01:07:22Z",
+      "first_seen_at": "2026-11-22T07:14:38.242465Z",
+      "last_seen_at": "2026-11-22T07:14:38.242465Z",
+      "title_original": "Dutch court bars EU sales of BYD Ti7, citing infringement of Land Rover Defender design rights",
+      "title_en": "Dutch court bars EU sales of BYD Ti7, citing infringement of Land Rover Defender design rights",
+      "title_zh": "荷兰法院以侵犯路虎卫士设计权为由禁止在欧盟销售比亚迪Ti7",
+      "title_bilingual": "荷兰法院以侵犯路虎卫士设计权为由禁止在欧盟销售比亚迪Ti7 / Dutch court bars EU sales of BYD Ti7, citing infringement of Land Rover Defender design rights",
+      "topic_tags": [
+        "新能源",
+        "车企竞争"
+      ]
+    },
+    {
       "id": "3f5458c2c910113648306cafe0d92c4f58eef4de",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -304,7 +376,7 @@
       "url": "http://vc.yiche.com/vplay/14336226.html",
       "published_at": null,
       "first_seen_at": "2026-11-21T19:37:44.843169Z",
-      "last_seen_at": "2026-11-22T00:04:11.320707Z",
+      "last_seen_at": "2026-11-22T07:14:38.242465Z",
       "title_original": "初晓敏：讲透升级点 试驾2027款领克08 EM-P",
       "title_en": null,
       "title_zh": "初晓敏：讲透升级点 试驾2027款领克08 EM-P",
@@ -322,7 +394,7 @@
       "url": "http://vc.yiche.com/vplay/14366291.html",
       "published_at": null,
       "first_seen_at": "2026-11-21T19:37:44.843169Z",
-      "last_seen_at": "2026-11-22T00:04:11.320707Z",
+      "last_seen_at": "2026-11-22T07:14:38.242465Z",
       "title_original": "十周年之作 蔚来ES9 地平线鎏金特别版",
       "title_en": null,
       "title_zh": "十周年之作 蔚来ES9 地平线鎏金特别版",
@@ -340,7 +412,7 @@
       "url": "http://vc.yiche.com/vplay/14306070.html",
       "published_at": null,
       "first_seen_at": "2026-11-21T19:37:44.843169Z",
-      "last_seen_at": "2026-11-22T00:04:11.320707Z",
+      "last_seen_at": "2026-11-22T07:14:38.242465Z",
       "title_original": "配置给得足够高，采用全新平台架构，试驾方程豹钛9",
       "title_en": null,
       "title_zh": "配置给得足够高，采用全新平台架构，试驾方程豹钛9",
@@ -358,7 +430,7 @@
       "url": "http://vc.yiche.com/vplay/14271084.html",
       "published_at": null,
       "first_seen_at": "2026-11-21T19:37:44.843169Z",
-      "last_seen_at": "2026-11-22T00:04:11.320707Z",
+      "last_seen_at": "2026-11-22T07:14:38.242465Z",
       "title_original": "试驾丨AMG G63 暴躁且细腻",
       "title_en": null,
       "title_zh": "试驾丨AMG G63 暴躁且细腻",
@@ -376,7 +448,7 @@
       "url": "http://vc.yiche.com/vplay/14339124.html",
       "published_at": null,
       "first_seen_at": "2026-11-21T19:37:44.843169Z",
-      "last_seen_at": "2026-11-22T00:04:11.320707Z",
+      "last_seen_at": "2026-11-22T07:14:38.242465Z",
       "title_original": "大型SUV市场迎来新玩家 方程豹钛9上市",
       "title_en": null,
       "title_zh": "大型SUV市场迎来新玩家 方程豹钛9上市",
@@ -395,13 +467,34 @@
       "url": "https://carnewschina.com/2026/11/21/nio-apologizes-for-es9-matrix-headlight-messaging-fiasco-after-censoring-childs-birthday-wish",
       "published_at": "2026-11-21T16:09:27Z",
       "first_seen_at": "2026-11-21T19:37:44.843169Z",
-      "last_seen_at": "2026-11-22T00:04:11.320707Z",
+      "last_seen_at": "2026-11-22T07:14:38.242465Z",
       "title_original": "Nio apologizes for ES9 matrix headlight messaging fiasco after censoring child’s birthday wish",
       "title_en": "Nio apologizes for ES9 matrix headlight messaging fiasco after censoring child’s birthday wish",
       "title_zh": "蔚来为 ES9 矩阵头灯消息发送失败道歉，原因是审查了孩子的生日愿望",
       "title_bilingual": "蔚来为 ES9 矩阵头灯消息发送失败道歉，原因是审查了孩子的生日愿望 / Nio apologizes for ES9 matrix headlight messaging fiasco after censoring child’s birthday wish",
       "topic_tags": [
         "新能源",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "ecf6ddf441e131aaa1615241886419960125f598",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新能源",
+      "title": "过度竞争的”火“，烧到补能市场",
+      "url": "https://auto.gasgoo.com/news/202611/21I70478716C501.shtml",
+      "published_at": "2026-11-21T12:35:21Z",
+      "first_seen_at": "2026-11-22T07:14:38.242465Z",
+      "last_seen_at": "2026-11-22T07:14:38.242465Z",
+      "title_original": "过度竞争的”火“，烧到补能市场",
+      "title_en": null,
+      "title_zh": "过度竞争的”火“，烧到补能市场",
+      "title_bilingual": "过度竞争的”火“，烧到补能市场",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "销量市场",
         "车企竞争"
       ]
     },
@@ -414,7 +507,7 @@
       "url": "https://www.dongchedi.com/article/7708949958519554585",
       "published_at": null,
       "first_seen_at": "2026-11-21T12:05:17.386942Z",
-      "last_seen_at": "2026-11-22T00:04:11.320707Z",
+      "last_seen_at": "2026-11-22T07:14:38.242465Z",
       "title_original": "质用车：10款车型无线充电性能测试对比(28)",
       "title_en": null,
       "title_zh": "质用车：10款车型无线充电性能测试对比(28)",
@@ -435,7 +528,7 @@
       "url": "https://www.dongchedi.com/article/7710067797909602840",
       "published_at": null,
       "first_seen_at": "2026-11-21T12:05:17.386942Z",
-      "last_seen_at": "2026-11-22T00:04:11.320707Z",
+      "last_seen_at": "2026-11-22T07:14:38.242465Z",
       "title_original": "11月车市没有反转；2026广州车展首发新车115台",
       "title_en": null,
       "title_zh": "11月车市没有反转；2026广州车展首发新车115台",
@@ -453,70 +546,13 @@
       "url": "https://cnevpost.com/2026/11/21/nio-launches-es9-special-edition",
       "published_at": "2026-11-21T11:40:18Z",
       "first_seen_at": "2026-11-21T12:05:17.386942Z",
-      "last_seen_at": "2026-11-22T00:04:11.320707Z",
+      "last_seen_at": "2026-11-22T07:14:38.242465Z",
       "title_original": "Nio launches ES9 special edition to mark brand's 10th anniversary",
       "title_en": "Nio launches ES9 special edition to mark brand's 10th anniversary",
       "title_zh": "蔚来推出ES9特别版庆祝品牌成立10周年",
       "title_bilingual": "蔚来推出ES9特别版庆祝品牌成立10周年 / Nio launches ES9 special edition to mark brand's 10th anniversary",
       "topic_tags": [
         "新能源",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "72b03c51610a4cf248f06de800f0030ff23df202",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-供应链",
-      "title": "中国Robotaxi出海，开始接受欧洲乘客检验",
-      "url": "https://auto.gasgoo.com/news/202611/21I70478583C601.shtml",
-      "published_at": "2026-11-21T07:05:38Z",
-      "first_seen_at": "2026-11-22T00:04:11.320707Z",
-      "last_seen_at": "2026-11-22T00:04:11.320707Z",
-      "title_original": "中国Robotaxi出海，开始接受欧洲乘客检验",
-      "title_en": null,
-      "title_zh": "中国Robotaxi出海，开始接受欧洲乘客检验",
-      "title_bilingual": "中国Robotaxi出海，开始接受欧洲乘客检验",
-      "topic_tags": [
-        "智能驾驶",
-        "供应链"
-      ]
-    },
-    {
-      "id": "92f46f84cae86a91b83bd41b43a68ac8a2a8b410",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "欧洲车企开始为中国造车技术付费",
-      "url": "https://auto.gasgoo.com/news/202611/21I70478679C109.shtml",
-      "published_at": "2026-11-21T07:05:24Z",
-      "first_seen_at": "2026-11-22T00:04:11.320707Z",
-      "last_seen_at": "2026-11-22T00:04:11.320707Z",
-      "title_original": "欧洲车企开始为中国造车技术付费",
-      "title_en": null,
-      "title_zh": "欧洲车企开始为中国造车技术付费",
-      "title_bilingual": "欧洲车企开始为中国造车技术付费",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "19b57606840bcba96699a3e18fd9c89b9e678ab2",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Xiaomi recruits former Xpeng executives to lead European market entry",
-      "url": "https://carnewschina.com/2026/11/21/xiaomi-recruits-former-xpeng-executives-to-lead-european-market-entry",
-      "published_at": "2026-11-21T06:42:04Z",
-      "first_seen_at": "2026-11-21T12:05:17.386942Z",
-      "last_seen_at": "2026-11-22T00:04:11.320707Z",
-      "title_original": "Xiaomi recruits former Xpeng executives to lead European market entry",
-      "title_en": "Xiaomi recruits former Xpeng executives to lead European market entry",
-      "title_zh": "小米聘请小鹏汽车前高管领导欧洲市场进军",
-      "title_bilingual": "小米聘请小鹏汽车前高管领导欧洲市场进军 / Xiaomi recruits former Xpeng executives to lead European market entry",
-      "topic_tags": [
-        "新能源",
-        "销量市场",
         "车企竞争"
       ]
     }
