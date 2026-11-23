@@ -1,66 +1,304 @@
 {
-  "generated_at": "2026-11-23T10:59:52.057000Z",
+  "generated_at": "2026-11-23T22:31:26.886817Z",
   "window_hours": 24,
-  "total_items": 15,
-  "total_items_ai_raw": 16,
-  "total_items_raw": 2188,
-  "total_items_all_mode": 1957,
+  "total_items": 21,
+  "total_items_ai_raw": 21,
+  "total_items_raw": 1914,
+  "total_items_all_mode": 1712,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 49441,
+  "archive_total": 48749,
   "site_count": 3,
   "source_count": 5,
   "site_stats": [
     {
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "count": 10,
-      "raw_count": 11
+      "count": 14,
+      "raw_count": 14
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
-      "count": 4,
-      "raw_count": 2063
+      "count": 5,
+      "raw_count": 1802
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
-      "count": 1,
-      "raw_count": 114
+      "count": 2,
+      "raw_count": 98
     }
   ],
   "topic_tag_stats": [
     {
-      "tag": "车企竞争",
-      "count": 14
+      "tag": "新能源",
+      "count": 15
     },
     {
-      "tag": "新能源",
-      "count": 9
+      "tag": "车企竞争",
+      "count": 13
     },
     {
       "tag": "新车上市",
+      "count": 6
+    },
+    {
+      "tag": "供应链",
       "count": 5
     },
     {
       "tag": "销量市场",
-      "count": 3
-    },
-    {
-      "tag": "供应链",
-      "count": 2
+      "count": 4
     },
     {
       "tag": "购车决策",
+      "count": 3
+    },
+    {
+      "tag": "智能驾驶",
       "count": 2
     },
     {
       "tag": "补能电池",
+      "count": 2
+    },
+    {
+      "tag": "召回安全",
       "count": 1
     }
   ],
   "items": [
     {
+      "id": "4e7c39dd115c58ae18f48848389bdb53133d8287",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "producthunt",
+      "title": "Tesla Self-Driving V15",
+      "url": "https://www.producthunt.com/products/tesla",
+      "published_at": "2026-11-23T22:31:39.397000Z",
+      "first_seen_at": "2026-11-23T22:31:26.886817Z",
+      "last_seen_at": "2026-11-23T22:31:26.886817Z",
+      "title_original": "Tesla Self-Driving V15",
+      "title_en": "Tesla Self-Driving V15",
+      "title_zh": "特斯拉自动驾驶 V15",
+      "title_bilingual": "特斯拉自动驾驶 V15 / Tesla Self-Driving V15",
+      "topic_tags": [
+        "智能驾驶",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "fbaee6700324fd93d81683e77d8b6f02b71f78ba",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "没那么简单！除了3万转电机 易三方EVO把这些都改了",
+      "url": "http://vc.yiche.com/vplay/14337738.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-23T22:31:26.886817Z",
+      "last_seen_at": "2026-11-23T22:31:26.886817Z",
+      "title_original": "没那么简单！除了3万转电机 易三方EVO把这些都改了",
+      "title_en": null,
+      "title_zh": "没那么简单！除了3万转电机 易三方EVO把这些都改了",
+      "title_bilingual": "没那么简单！除了3万转电机 易三方EVO把这些都改了",
+      "topic_tags": [
+        "供应链"
+      ]
+    },
+    {
+      "id": "e9e02e45b984749d9d77eaff9e2923f262cdc155",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "兼顾油耗和动力，魏牌高山8 HEV油混MPV新选择",
+      "url": "http://vc.yiche.com/vplay/14380480.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-23T22:31:26.886817Z",
+      "last_seen_at": "2026-11-23T22:31:26.886817Z",
+      "title_original": "兼顾油耗和动力，魏牌高山8 HEV油混MPV新选择",
+      "title_en": null,
+      "title_zh": "兼顾油耗和动力，魏牌高山8 HEV油混MPV新选择",
+      "title_bilingual": "兼顾油耗和动力，魏牌高山8 HEV油混MPV新选择",
+      "topic_tags": [
+        "新车上市"
+      ]
+    },
+    {
+      "id": "9eaad0e4baa61a90ca34eb78820ad791952ae3ce",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "第四代吉利博越L i-HEV 油车车主省心的选择",
+      "url": "http://vc.yiche.com/vplay/14339481.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-23T22:31:26.886817Z",
+      "last_seen_at": "2026-11-23T22:31:26.886817Z",
+      "title_original": "第四代吉利博越L i-HEV 油车车主省心的选择",
+      "title_en": null,
+      "title_zh": "第四代吉利博越L i-HEV 油车车主省心的选择",
+      "title_bilingual": "第四代吉利博越L i-HEV 油车车主省心的选择",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "1d30343949fd9833a31ad391b2d901159d57e2ca",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "出众质感 以人为本 雷克萨斯全新一代ES纯电版",
+      "url": "http://vc.yiche.com/vplay/14381019.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-23T22:31:26.886817Z",
+      "last_seen_at": "2026-11-23T22:31:26.886817Z",
+      "title_original": "出众质感 以人为本 雷克萨斯全新一代ES纯电版",
+      "title_en": null,
+      "title_zh": "出众质感 以人为本 雷克萨斯全新一代ES纯电版",
+      "title_bilingual": "出众质感 以人为本 雷克萨斯全新一代ES纯电版",
+      "topic_tags": [
+        "新能源"
+      ]
+    },
+    {
+      "id": "4d5489d27f508f36ff667e48465ab7db3ed1d047",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "感受让大车“变小”的魔力 智己全线控底盘体验营",
+      "url": "http://vc.yiche.com/vplay/14385499.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-23T22:31:26.886817Z",
+      "last_seen_at": "2026-11-23T22:31:26.886817Z",
+      "title_original": "感受让大车“变小”的魔力 智己全线控底盘体验营",
+      "title_en": null,
+      "title_zh": "感受让大车“变小”的魔力 智己全线控底盘体验营",
+      "title_bilingual": "感受让大车“变小”的魔力 智己全线控底盘体验营",
+      "topic_tags": [
+        "供应链",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "eb0c26ece7b261f780082a2dcfd9d3de1c4de3b7",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "BYD cracks down on megawatt Flash Charger misuse, fines user 45 USD after occupying plug",
+      "url": "https://carnewschina.com/2026/11/23/byd-cracks-down-on-megawatt-flash-charger-misuse-fines-user-45-usd-after-occupying-plug",
+      "published_at": "2026-11-23T15:55:46Z",
+      "first_seen_at": "2026-11-23T22:31:26.886817Z",
+      "last_seen_at": "2026-11-23T22:31:26.886817Z",
+      "title_original": "BYD cracks down on megawatt Flash Charger misuse, fines user 45 USD after occupying plug",
+      "title_en": "BYD cracks down on megawatt Flash Charger misuse, fines user 45 USD after occupying plug",
+      "title_zh": "比亚迪严厉打击兆瓦级闪存充电器滥用行为，占用插头后罚款用户45美元",
+      "title_bilingual": "比亚迪严厉打击兆瓦级闪存充电器滥用行为，占用插头后罚款用户45美元 / BYD cracks down on megawatt Flash Charger misuse, fines user 45 USD after occupying plug",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "7bef0b353310737cb8deacb12318be265c46057f",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Volkswagen’s big China EV push starts to pay off as deliveries jump 347%",
+      "url": "https://carnewschina.com/2026/11/23/volkswagens-big-china-ev-push-starts-to-pay-off-as-deliveries-jump-347",
+      "published_at": "2026-11-23T14:51:06Z",
+      "first_seen_at": "2026-11-23T22:31:26.886817Z",
+      "last_seen_at": "2026-11-23T22:31:26.886817Z",
+      "title_original": "Volkswagen’s big China EV push starts to pay off as deliveries jump 347%",
+      "title_en": "Volkswagen’s big China EV push starts to pay off as deliveries jump 347%",
+      "title_zh": "大众汽车在中国电动汽车的大力推广开始取得成效，交付量猛增 347%",
+      "title_bilingual": "大众汽车在中国电动汽车的大力推广开始取得成效，交付量猛增 347% / Volkswagen’s big China EV push starts to pay off as deliveries jump 347%",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "7e93ab5b76b74f738c490e135730cd6b3977f413",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Xpeng offers public self-driving rides in Paris with its Tesla FSD rival",
+      "url": "https://carnewschina.com/2026/11/23/xpeng-offers-public-self-driving-rides-in-paris-with-its-tesla-fsd-rival",
+      "published_at": "2026-11-23T13:46:33Z",
+      "first_seen_at": "2026-11-23T22:31:26.886817Z",
+      "last_seen_at": "2026-11-23T22:31:26.886817Z",
+      "title_original": "Xpeng offers public self-driving rides in Paris with its Tesla FSD rival",
+      "title_en": "Xpeng offers public self-driving rides in Paris with its Tesla FSD rival",
+      "title_zh": "小鹏汽车与特斯拉 FSD 竞争对手在巴黎提供公共自动驾驶服务",
+      "title_bilingual": "小鹏汽车与特斯拉 FSD 竞争对手在巴黎提供公共自动驾驶服务 / Xpeng offers public self-driving rides in Paris with its Tesla FSD rival",
+      "topic_tags": [
+        "新能源",
+        "智能驾驶",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "b7eabad49f980da07a548bd9c7a2fa259d0128e7",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Tri-motor Avatr 06T handled four-wheel tire blowout test at 145 km/h",
+      "url": "https://carnewschina.com/2026/11/23/tri-motor-avatr-06t-handed-four-wheel-tire-blowout-test-at-145-km-h",
+      "published_at": "2026-11-23T12:07:14Z",
+      "first_seen_at": "2026-11-23T22:31:26.886817Z",
+      "last_seen_at": "2026-11-23T22:31:26.886817Z",
+      "title_original": "Tri-motor Avatr 06T handled four-wheel tire blowout test at 145 km/h",
+      "title_en": "Tri-motor Avatr 06T handled four-wheel tire blowout test at 145 km/h",
+      "title_zh": "三电机Avatr 06T进行145公里/小时四轮爆胎测试",
+      "title_bilingual": "三电机Avatr 06T进行145公里/小时四轮爆胎测试 / Tri-motor Avatr 06T handled four-wheel tire blowout test at 145 km/h",
+      "topic_tags": [
+        "新能源",
+        "召回安全",
+        "供应链"
+      ]
+    },
+    {
+      "id": "7d66d5964ecd03081331e148ee65acca531eb0b2",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Lynk & Co to begin pre-sales of 900L 7-seat PHEV SUV on November 27",
+      "url": "https://cnevpost.com/2026/11/23/lynk-co-pre-sales-900l-nov-27",
+      "published_at": "2026-11-23T11:53:25Z",
+      "first_seen_at": "2026-11-23T22:31:26.886817Z",
+      "last_seen_at": "2026-11-23T22:31:26.886817Z",
+      "title_original": "Lynk & Co to begin pre-sales of 900L 7-seat PHEV SUV on November 27",
+      "title_en": "Lynk & Co to begin pre-sales of 900L 7-seat PHEV SUV on November 27",
+      "title_zh": "领克900L 7座插电式SUV将于11月27日开始预售",
+      "title_bilingual": "领克900L 7座插电式SUV将于11月27日开始预售 / Lynk & Co to begin pre-sales of 900L 7-seat PHEV SUV on November 27",
+      "topic_tags": [
+        "新能源",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "f73b801389126d62fdfc0c5dcc9a85504889c7c0",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Dongfeng eπ EP7 to debut at Guangzhou Auto Show with up to 710 km of range",
+      "url": "https://carnewschina.com/2026/11/23/dongfeng-e%cf%80-ep7-to-debut-at-guangzhou-auto-show-with-up-to-710-km-of-range",
+      "published_at": "2026-11-23T11:27:55Z",
+      "first_seen_at": "2026-11-23T22:31:26.886817Z",
+      "last_seen_at": "2026-11-23T22:31:26.886817Z",
+      "title_original": "Dongfeng eπ EP7 to debut at Guangzhou Auto Show with up to 710 km of range",
+      "title_en": "Dongfeng eπ EP7 to debut at Guangzhou Auto Show with up to 710 km of range",
+      "title_zh": "东风eπ EP7亮相广州车展 续航可达710公里",
+      "title_bilingual": "东风eπ EP7亮相广州车展 续航可达710公里 / Dongfeng eπ EP7 to debut at Guangzhou Auto Show with up to 710 km of range",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "新车上市"
+      ]
+    },
+    {
       "id": "74ce17027bfeff687116e7bdb88b9730b10a1788",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -69,7 +307,7 @@
       "url": "https://carnewschina.com/2026/11/23/gwms-new-ora-7-launches-in-china-a-mid-size-ev-offers-coupe-and-wagon-options",
       "published_at": "2026-11-23T10:41:41Z",
       "first_seen_at": "2026-11-23T10:59:52.057000Z",
-      "last_seen_at": "2026-11-23T10:59:52.057000Z",
+      "last_seen_at": "2026-11-23T22:31:26.886817Z",
       "title_original": "GWM’s new Ora 7 launches in China: a mid-size EV offers coupe and wagon options",
       "title_en": "GWM’s new Ora 7 launches in China: a mid-size EV offers coupe and wagon options",
       "title_zh": "长城汽车全新欧拉7在华上市：中型电动车提供轿跑车和旅行车两种选择",
@@ -89,7 +327,7 @@
       "url": "https://cnevpost.com/2026/11/23/byd-foldable-steering-wheel-traces-back-to-e-seed-gt-concept",
       "published_at": "2026-11-23T09:51:02Z",
       "first_seen_at": "2026-11-23T10:59:52.057000Z",
-      "last_seen_at": "2026-11-23T10:59:52.057000Z",
+      "last_seen_at": "2026-11-23T22:31:26.886817Z",
       "title_original": "BYD's mass-produced foldable steering wheel traces back to E-SEED GT concept 7 years ago",
       "title_en": "BYD's mass-produced foldable steering wheel traces back to E-SEED GT concept 7 years ago",
       "title_zh": "比亚迪量产折叠方向盘可追溯到7年前的E-SEED GT概念",
@@ -108,7 +346,7 @@
       "url": "https://cnevpost.com/2026/11/23/xpeng-mona-l05-nov-deliveries-exceed-10000",
       "published_at": "2026-11-23T07:28:50Z",
       "first_seen_at": "2026-11-23T10:59:52.057000Z",
-      "last_seen_at": "2026-11-23T10:59:52.057000Z",
+      "last_seen_at": "2026-11-23T22:31:26.886817Z",
       "title_original": "Xpeng says Mona L05 November deliveries exceed 10,000 as Mona lineup set to top 400,000 owners",
       "title_en": "Xpeng says Mona L05 November deliveries exceed 10,000 as Mona lineup set to top 400,000 owners",
       "title_zh": "小鹏汽车称Mona L05 11月交付量突破10,000辆，Mona车主数量将突破40万",
@@ -129,7 +367,7 @@
       "url": "https://cnevpost.com/2026/11/23/nio-to-deliver-170000th-3rd-gen-es8-this-week",
       "published_at": "2026-11-23T06:27:55Z",
       "first_seen_at": "2026-11-23T10:59:52.057000Z",
-      "last_seen_at": "2026-11-23T10:59:52.057000Z",
+      "last_seen_at": "2026-11-23T22:31:26.886817Z",
       "title_original": "Nio to deliver 170,000th third-gen ES8 this week, about 1 month after last milestone",
       "title_en": "Nio to deliver 170,000th third-gen ES8 this week, about 1 month after last milestone",
       "title_zh": "蔚来将于本周交付第 17 万辆第三代 ES8，距上一个里程碑约 1 个月",
@@ -149,7 +387,7 @@
       "url": "https://cnevpost.com/2026/11/23/nio-to-begin-deliveries-refreshed-et5-touring-es6-h1-2027",
       "published_at": "2026-11-23T05:26:42Z",
       "first_seen_at": "2026-11-23T10:59:52.057000Z",
-      "last_seen_at": "2026-11-23T10:59:52.057000Z",
+      "last_seen_at": "2026-11-23T22:31:26.886817Z",
       "title_original": "Nio to begin deliveries of refreshed ET5 Touring and ES6 in H1 2027, no updates planned for ET5 and EC6 next year",
       "title_en": "Nio to begin deliveries of refreshed ET5 Touring and ES6 in H1 2027, no updates planned for ET5 and EC6 next year",
       "title_zh": "蔚来将于 2027 年上半年开始交付更新的 ET5 Touring 和 ES6，明年没有计划更新 ET5 和 EC6",
@@ -169,7 +407,7 @@
       "url": "https://carnewschina.com/2026/11/23/byds-tri-motor-denza-n9-flagship-suv-gets-a-new-face-in-china",
       "published_at": "2026-11-23T05:25:23Z",
       "first_seen_at": "2026-11-23T10:59:52.057000Z",
-      "last_seen_at": "2026-11-23T10:59:52.057000Z",
+      "last_seen_at": "2026-11-23T22:31:26.886817Z",
       "title_original": "BYD’s tri-motor Denza N9 flagship SUV gets a new face in China",
       "title_en": "BYD’s tri-motor Denza N9 flagship SUV gets a new face in China",
       "title_zh": "比亚迪三电机旗舰SUV腾势N9在中国焕然一新",
@@ -190,7 +428,7 @@
       "url": "https://carnewschina.com/2026/11/23/new-nio-et5-touring-spied-in-china-as-ceo-confirms-2027-rollout-amid-europe-delays",
       "published_at": "2026-11-23T04:35:02Z",
       "first_seen_at": "2026-11-23T10:59:52.057000Z",
-      "last_seen_at": "2026-11-23T10:59:52.057000Z",
+      "last_seen_at": "2026-11-23T22:31:26.886817Z",
       "title_original": "New Nio ET5 Touring spied in China as CEO confirms 2027 rollout amid Europe delays",
       "title_en": "New Nio ET5 Touring spied in China as CEO confirms 2027 rollout amid Europe delays",
       "title_zh": "新款 Nio ET5 Touring 在中国被监视，首席执行官确认 2027 年在欧洲推迟推出",
@@ -209,7 +447,7 @@
       "url": "https://cnevpost.com/2026/11/23/xpeng-launches-g9l-thailand-indonesia",
       "published_at": "2026-11-23T03:20:34Z",
       "first_seen_at": "2026-11-23T10:59:52.057000Z",
-      "last_seen_at": "2026-11-23T10:59:52.057000Z",
+      "last_seen_at": "2026-11-23T22:31:26.886817Z",
       "title_original": "Xpeng launches G9L in Thailand and Indonesia, accelerating global roll-out of flagship SUV",
       "title_en": "Xpeng launches G9L in Thailand and Indonesia, accelerating global roll-out of flagship SUV",
       "title_zh": "小鹏汽车G9L在泰国和印度尼西亚上市，加速旗舰SUV全球布局",
@@ -229,131 +467,248 @@
       "url": "https://juejin.cn/post/7710655615206621210",
       "published_at": "2026-11-23T02:12:26.236000Z",
       "first_seen_at": "2026-11-23T02:12:15.750951Z",
-      "last_seen_at": "2026-11-23T10:59:52.057000Z",
+      "last_seen_at": "2026-11-23T22:31:26.886817Z",
       "title_original": "被 pnpm 打包坑惨后，我彻底盘明白了硬链接与软链接",
       "title_en": null,
       "title_zh": "被 pnpm 打包坑惨后，我彻底盘明白了硬链接与软链接",
       "title_bilingual": "被 pnpm 打包坑惨后，我彻底盘明白了硬链接与软链接",
       "topic_tags": [
         "供应链"
-      ]
-    },
-    {
-      "id": "6d5b0657463d87b9b3e748148a71fb8fa4faaa36",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "比亚迪首发折叠座舱，成为继闪充技术后的第三大核心科技",
-      "url": "http://vc.yiche.com/vplay/14339712.html",
-      "published_at": null,
-      "first_seen_at": "2026-11-22T21:30:52.889052Z",
-      "last_seen_at": "2026-11-23T10:59:52.057000Z",
-      "title_original": "比亚迪首发折叠座舱，成为继闪充技术后的第三大核心科技",
-      "title_en": null,
-      "title_zh": "比亚迪首发折叠座舱，成为继闪充技术后的第三大核心科技",
-      "title_bilingual": "比亚迪首发折叠座舱，成为继闪充技术后的第三大核心科技",
-      "topic_tags": [
-        "补能电池",
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "a6a1b5b87269045311c4c7c18723be7c9b0d204f",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "开长城 H10探访样边长城 长途能耗实测",
-      "url": "http://vc.yiche.com/vplay/14296676.html",
-      "published_at": null,
-      "first_seen_at": "2026-11-22T21:30:52.889052Z",
-      "last_seen_at": "2026-11-23T10:59:52.057000Z",
-      "title_original": "开长城 H10探访样边长城 长途能耗实测",
-      "title_en": null,
-      "title_zh": "开长城 H10探访样边长城 长途能耗实测",
-      "title_bilingual": "开长城 H10探访样边长城 长途能耗实测",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "3681b7002bf85c2becac776546bb59eadb421ad0",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "六座变大五座 吉利银河M8年内上市",
-      "url": "http://vc.yiche.com/vplay/14338137.html",
-      "published_at": null,
-      "first_seen_at": "2026-11-22T21:30:52.889052Z",
-      "last_seen_at": "2026-11-23T10:59:52.057000Z",
-      "title_original": "六座变大五座 吉利银河M8年内上市",
-      "title_en": null,
-      "title_zh": "六座变大五座 吉利银河M8年内上市",
-      "title_bilingual": "六座变大五座 吉利银河M8年内上市",
-      "topic_tags": [
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "ef15e2ad1c88ccb979411f816d0088ce864eb6e0",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "场地试驾！星越L PLUS对比宝马X5/奔驰GLE，他行吗？",
-      "url": "http://vc.yiche.com/vplay/14311061.html",
-      "published_at": null,
-      "first_seen_at": "2026-11-22T21:30:52.889052Z",
-      "last_seen_at": "2026-11-23T10:59:52.057000Z",
-      "title_original": "场地试驾！星越L PLUS对比宝马X5/奔驰GLE，他行吗？",
-      "title_en": null,
-      "title_zh": "场地试驾！星越L PLUS对比宝马X5/奔驰GLE，他行吗？",
-      "title_bilingual": "场地试驾！星越L PLUS对比宝马X5/奔驰GLE，他行吗？",
-      "topic_tags": [
-        "车企竞争",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "ea9be5754c8d9156de7d674d6ef8ff7dc60be571",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "E周看点 | 两大车企拿到造车“准生证”；零跑汽车200万台整车下线",
-      "url": "https://auto.gasgoo.com/news/202611/22I70478767C501.shtml",
-      "published_at": "2026-11-22T16:46:19Z",
-      "first_seen_at": "2026-11-23T10:59:52.057000Z",
-      "last_seen_at": "2026-11-23T10:59:52.057000Z",
-      "title_original": "E周看点 | 两大车企拿到造车“准生证”；零跑汽车200万台整车下线",
-      "title_en": null,
-      "title_zh": "E周看点 | 两大车企拿到造车“准生证”；零跑汽车200万台整车下线",
-      "title_bilingual": "E周看点 | 两大车企拿到造车“准生证”；零跑汽车200万台整车下线",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "3fc94289a76dc077d2192eafc661bb26a66a45e3",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Leapmotor B03X “gives birth” to beer in China, plastic trunk detaches due to excess load",
-      "url": "https://carnewschina.com/2026/11/22/leapmotor-b03x-gives-birth-to-beer-in-china-plastic-trunk-detaches-due-to-excess-load",
-      "published_at": "2026-11-22T16:02:33Z",
-      "first_seen_at": "2026-11-22T21:30:52.889052Z",
-      "last_seen_at": "2026-11-23T10:59:52.057000Z",
-      "title_original": "Leapmotor B03X “gives birth” to beer in China, plastic trunk detaches due to excess load",
-      "title_en": "Leapmotor B03X “gives birth” to beer in China, plastic trunk detaches due to excess load",
-      "title_zh": "零跑B03X在中国“诞生”啤酒，塑料后备箱超载脱落",
-      "title_bilingual": "零跑B03X在中国“诞生”啤酒，塑料后备箱超载脱落 / Leapmotor B03X “gives birth” to beer in China, plastic trunk detaches due to excess load",
-      "topic_tags": [
-        "新能源",
-        "车企竞争"
       ]
     }
   ],
   "items_ai": [
     {
+      "id": "4e7c39dd115c58ae18f48848389bdb53133d8287",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "producthunt",
+      "title": "Tesla Self-Driving V15",
+      "url": "https://www.producthunt.com/products/tesla",
+      "published_at": "2026-11-23T22:31:39.397000Z",
+      "first_seen_at": "2026-11-23T22:31:26.886817Z",
+      "last_seen_at": "2026-11-23T22:31:26.886817Z",
+      "title_original": "Tesla Self-Driving V15",
+      "title_en": "Tesla Self-Driving V15",
+      "title_zh": "特斯拉自动驾驶 V15",
+      "title_bilingual": "特斯拉自动驾驶 V15 / Tesla Self-Driving V15",
+      "topic_tags": [
+        "智能驾驶",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "fbaee6700324fd93d81683e77d8b6f02b71f78ba",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "没那么简单！除了3万转电机 易三方EVO把这些都改了",
+      "url": "http://vc.yiche.com/vplay/14337738.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-23T22:31:26.886817Z",
+      "last_seen_at": "2026-11-23T22:31:26.886817Z",
+      "title_original": "没那么简单！除了3万转电机 易三方EVO把这些都改了",
+      "title_en": null,
+      "title_zh": "没那么简单！除了3万转电机 易三方EVO把这些都改了",
+      "title_bilingual": "没那么简单！除了3万转电机 易三方EVO把这些都改了",
+      "topic_tags": [
+        "供应链"
+      ]
+    },
+    {
+      "id": "e9e02e45b984749d9d77eaff9e2923f262cdc155",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "兼顾油耗和动力，魏牌高山8 HEV油混MPV新选择",
+      "url": "http://vc.yiche.com/vplay/14380480.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-23T22:31:26.886817Z",
+      "last_seen_at": "2026-11-23T22:31:26.886817Z",
+      "title_original": "兼顾油耗和动力，魏牌高山8 HEV油混MPV新选择",
+      "title_en": null,
+      "title_zh": "兼顾油耗和动力，魏牌高山8 HEV油混MPV新选择",
+      "title_bilingual": "兼顾油耗和动力，魏牌高山8 HEV油混MPV新选择",
+      "topic_tags": [
+        "新车上市"
+      ]
+    },
+    {
+      "id": "9eaad0e4baa61a90ca34eb78820ad791952ae3ce",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "第四代吉利博越L i-HEV 油车车主省心的选择",
+      "url": "http://vc.yiche.com/vplay/14339481.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-23T22:31:26.886817Z",
+      "last_seen_at": "2026-11-23T22:31:26.886817Z",
+      "title_original": "第四代吉利博越L i-HEV 油车车主省心的选择",
+      "title_en": null,
+      "title_zh": "第四代吉利博越L i-HEV 油车车主省心的选择",
+      "title_bilingual": "第四代吉利博越L i-HEV 油车车主省心的选择",
+      "topic_tags": [
+        "车企竞争",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "1d30343949fd9833a31ad391b2d901159d57e2ca",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "出众质感 以人为本 雷克萨斯全新一代ES纯电版",
+      "url": "http://vc.yiche.com/vplay/14381019.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-23T22:31:26.886817Z",
+      "last_seen_at": "2026-11-23T22:31:26.886817Z",
+      "title_original": "出众质感 以人为本 雷克萨斯全新一代ES纯电版",
+      "title_en": null,
+      "title_zh": "出众质感 以人为本 雷克萨斯全新一代ES纯电版",
+      "title_bilingual": "出众质感 以人为本 雷克萨斯全新一代ES纯电版",
+      "topic_tags": [
+        "新能源"
+      ]
+    },
+    {
+      "id": "4d5489d27f508f36ff667e48465ab7db3ed1d047",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "易车网 · 热门视频排行",
+      "title": "感受让大车“变小”的魔力 智己全线控底盘体验营",
+      "url": "http://vc.yiche.com/vplay/14385499.html",
+      "published_at": null,
+      "first_seen_at": "2026-11-23T22:31:26.886817Z",
+      "last_seen_at": "2026-11-23T22:31:26.886817Z",
+      "title_original": "感受让大车“变小”的魔力 智己全线控底盘体验营",
+      "title_en": null,
+      "title_zh": "感受让大车“变小”的魔力 智己全线控底盘体验营",
+      "title_bilingual": "感受让大车“变小”的魔力 智己全线控底盘体验营",
+      "topic_tags": [
+        "供应链",
+        "购车决策"
+      ]
+    },
+    {
+      "id": "eb0c26ece7b261f780082a2dcfd9d3de1c4de3b7",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "BYD cracks down on megawatt Flash Charger misuse, fines user 45 USD after occupying plug",
+      "url": "https://carnewschina.com/2026/11/23/byd-cracks-down-on-megawatt-flash-charger-misuse-fines-user-45-usd-after-occupying-plug",
+      "published_at": "2026-11-23T15:55:46Z",
+      "first_seen_at": "2026-11-23T22:31:26.886817Z",
+      "last_seen_at": "2026-11-23T22:31:26.886817Z",
+      "title_original": "BYD cracks down on megawatt Flash Charger misuse, fines user 45 USD after occupying plug",
+      "title_en": "BYD cracks down on megawatt Flash Charger misuse, fines user 45 USD after occupying plug",
+      "title_zh": "比亚迪严厉打击兆瓦级闪存充电器滥用行为，占用插头后罚款用户45美元",
+      "title_bilingual": "比亚迪严厉打击兆瓦级闪存充电器滥用行为，占用插头后罚款用户45美元 / BYD cracks down on megawatt Flash Charger misuse, fines user 45 USD after occupying plug",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "7bef0b353310737cb8deacb12318be265c46057f",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Volkswagen’s big China EV push starts to pay off as deliveries jump 347%",
+      "url": "https://carnewschina.com/2026/11/23/volkswagens-big-china-ev-push-starts-to-pay-off-as-deliveries-jump-347",
+      "published_at": "2026-11-23T14:51:06Z",
+      "first_seen_at": "2026-11-23T22:31:26.886817Z",
+      "last_seen_at": "2026-11-23T22:31:26.886817Z",
+      "title_original": "Volkswagen’s big China EV push starts to pay off as deliveries jump 347%",
+      "title_en": "Volkswagen’s big China EV push starts to pay off as deliveries jump 347%",
+      "title_zh": "大众汽车在中国电动汽车的大力推广开始取得成效，交付量猛增 347%",
+      "title_bilingual": "大众汽车在中国电动汽车的大力推广开始取得成效，交付量猛增 347% / Volkswagen’s big China EV push starts to pay off as deliveries jump 347%",
+      "topic_tags": [
+        "新能源",
+        "销量市场",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "7e93ab5b76b74f738c490e135730cd6b3977f413",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Xpeng offers public self-driving rides in Paris with its Tesla FSD rival",
+      "url": "https://carnewschina.com/2026/11/23/xpeng-offers-public-self-driving-rides-in-paris-with-its-tesla-fsd-rival",
+      "published_at": "2026-11-23T13:46:33Z",
+      "first_seen_at": "2026-11-23T22:31:26.886817Z",
+      "last_seen_at": "2026-11-23T22:31:26.886817Z",
+      "title_original": "Xpeng offers public self-driving rides in Paris with its Tesla FSD rival",
+      "title_en": "Xpeng offers public self-driving rides in Paris with its Tesla FSD rival",
+      "title_zh": "小鹏汽车与特斯拉 FSD 竞争对手在巴黎提供公共自动驾驶服务",
+      "title_bilingual": "小鹏汽车与特斯拉 FSD 竞争对手在巴黎提供公共自动驾驶服务 / Xpeng offers public self-driving rides in Paris with its Tesla FSD rival",
+      "topic_tags": [
+        "新能源",
+        "智能驾驶",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "b7eabad49f980da07a548bd9c7a2fa259d0128e7",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Tri-motor Avatr 06T handled four-wheel tire blowout test at 145 km/h",
+      "url": "https://carnewschina.com/2026/11/23/tri-motor-avatr-06t-handed-four-wheel-tire-blowout-test-at-145-km-h",
+      "published_at": "2026-11-23T12:07:14Z",
+      "first_seen_at": "2026-11-23T22:31:26.886817Z",
+      "last_seen_at": "2026-11-23T22:31:26.886817Z",
+      "title_original": "Tri-motor Avatr 06T handled four-wheel tire blowout test at 145 km/h",
+      "title_en": "Tri-motor Avatr 06T handled four-wheel tire blowout test at 145 km/h",
+      "title_zh": "三电机Avatr 06T进行145公里/小时四轮爆胎测试",
+      "title_bilingual": "三电机Avatr 06T进行145公里/小时四轮爆胎测试 / Tri-motor Avatr 06T handled four-wheel tire blowout test at 145 km/h",
+      "topic_tags": [
+        "新能源",
+        "召回安全",
+        "供应链"
+      ]
+    },
+    {
+      "id": "7d66d5964ecd03081331e148ee65acca531eb0b2",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CnEVPost-China EV",
+      "title": "Lynk & Co to begin pre-sales of 900L 7-seat PHEV SUV on November 27",
+      "url": "https://cnevpost.com/2026/11/23/lynk-co-pre-sales-900l-nov-27",
+      "published_at": "2026-11-23T11:53:25Z",
+      "first_seen_at": "2026-11-23T22:31:26.886817Z",
+      "last_seen_at": "2026-11-23T22:31:26.886817Z",
+      "title_original": "Lynk & Co to begin pre-sales of 900L 7-seat PHEV SUV on November 27",
+      "title_en": "Lynk & Co to begin pre-sales of 900L 7-seat PHEV SUV on November 27",
+      "title_zh": "领克900L 7座插电式SUV将于11月27日开始预售",
+      "title_bilingual": "领克900L 7座插电式SUV将于11月27日开始预售 / Lynk & Co to begin pre-sales of 900L 7-seat PHEV SUV on November 27",
+      "topic_tags": [
+        "新能源",
+        "新车上市"
+      ]
+    },
+    {
+      "id": "f73b801389126d62fdfc0c5dcc9a85504889c7c0",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "Dongfeng eπ EP7 to debut at Guangzhou Auto Show with up to 710 km of range",
+      "url": "https://carnewschina.com/2026/11/23/dongfeng-e%cf%80-ep7-to-debut-at-guangzhou-auto-show-with-up-to-710-km-of-range",
+      "published_at": "2026-11-23T11:27:55Z",
+      "first_seen_at": "2026-11-23T22:31:26.886817Z",
+      "last_seen_at": "2026-11-23T22:31:26.886817Z",
+      "title_original": "Dongfeng eπ EP7 to debut at Guangzhou Auto Show with up to 710 km of range",
+      "title_en": "Dongfeng eπ EP7 to debut at Guangzhou Auto Show with up to 710 km of range",
+      "title_zh": "东风eπ EP7亮相广州车展 续航可达710公里",
+      "title_bilingual": "东风eπ EP7亮相广州车展 续航可达710公里 / Dongfeng eπ EP7 to debut at Guangzhou Auto Show with up to 710 km of range",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "新车上市"
+      ]
+    },
+    {
       "id": "74ce17027bfeff687116e7bdb88b9730b10a1788",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -362,7 +717,7 @@
       "url": "https://carnewschina.com/2026/11/23/gwms-new-ora-7-launches-in-china-a-mid-size-ev-offers-coupe-and-wagon-options",
       "published_at": "2026-11-23T10:41:41Z",
       "first_seen_at": "2026-11-23T10:59:52.057000Z",
-      "last_seen_at": "2026-11-23T10:59:52.057000Z",
+      "last_seen_at": "2026-11-23T22:31:26.886817Z",
       "title_original": "GWM’s new Ora 7 launches in China: a mid-size EV offers coupe and wagon options",
       "title_en": "GWM’s new Ora 7 launches in China: a mid-size EV offers coupe and wagon options",
       "title_zh": "长城汽车全新欧拉7在华上市：中型电动车提供轿跑车和旅行车两种选择",
@@ -382,7 +737,7 @@
       "url": "https://cnevpost.com/2026/11/23/byd-foldable-steering-wheel-traces-back-to-e-seed-gt-concept",
       "published_at": "2026-11-23T09:51:02Z",
       "first_seen_at": "2026-11-23T10:59:52.057000Z",
-      "last_seen_at": "2026-11-23T10:59:52.057000Z",
+      "last_seen_at": "2026-11-23T22:31:26.886817Z",
       "title_original": "BYD's mass-produced foldable steering wheel traces back to E-SEED GT concept 7 years ago",
       "title_en": "BYD's mass-produced foldable steering wheel traces back to E-SEED GT concept 7 years ago",
       "title_zh": "比亚迪量产折叠方向盘可追溯到7年前的E-SEED GT概念",
@@ -401,7 +756,7 @@
       "url": "https://cnevpost.com/2026/11/23/xpeng-mona-l05-nov-deliveries-exceed-10000",
       "published_at": "2026-11-23T07:28:50Z",
       "first_seen_at": "2026-11-23T10:59:52.057000Z",
-      "last_seen_at": "2026-11-23T10:59:52.057000Z",
+      "last_seen_at": "2026-11-23T22:31:26.886817Z",
       "title_original": "Xpeng says Mona L05 November deliveries exceed 10,000 as Mona lineup set to top 400,000 owners",
       "title_en": "Xpeng says Mona L05 November deliveries exceed 10,000 as Mona lineup set to top 400,000 owners",
       "title_zh": "小鹏汽车称Mona L05 11月交付量突破10,000辆，Mona车主数量将突破40万",
@@ -422,7 +777,7 @@
       "url": "https://cnevpost.com/2026/11/23/nio-to-deliver-170000th-3rd-gen-es8-this-week",
       "published_at": "2026-11-23T06:27:55Z",
       "first_seen_at": "2026-11-23T10:59:52.057000Z",
-      "last_seen_at": "2026-11-23T10:59:52.057000Z",
+      "last_seen_at": "2026-11-23T22:31:26.886817Z",
       "title_original": "Nio to deliver 170,000th third-gen ES8 this week, about 1 month after last milestone",
       "title_en": "Nio to deliver 170,000th third-gen ES8 this week, about 1 month after last milestone",
       "title_zh": "蔚来将于本周交付第 17 万辆第三代 ES8，距上一个里程碑约 1 个月",
@@ -442,7 +797,7 @@
       "url": "https://cnevpost.com/2026/11/23/nio-to-begin-deliveries-refreshed-et5-touring-es6-h1-2027",
       "published_at": "2026-11-23T05:26:42Z",
       "first_seen_at": "2026-11-23T10:59:52.057000Z",
-      "last_seen_at": "2026-11-23T10:59:52.057000Z",
+      "last_seen_at": "2026-11-23T22:31:26.886817Z",
       "title_original": "Nio to begin deliveries of refreshed ET5 Touring and ES6 in H1 2027, no updates planned for ET5 and EC6 next year",
       "title_en": "Nio to begin deliveries of refreshed ET5 Touring and ES6 in H1 2027, no updates planned for ET5 and EC6 next year",
       "title_zh": "蔚来将于 2027 年上半年开始交付更新的 ET5 Touring 和 ES6，明年没有计划更新 ET5 和 EC6",
@@ -462,7 +817,7 @@
       "url": "https://carnewschina.com/2026/11/23/byds-tri-motor-denza-n9-flagship-suv-gets-a-new-face-in-china",
       "published_at": "2026-11-23T05:25:23Z",
       "first_seen_at": "2026-11-23T10:59:52.057000Z",
-      "last_seen_at": "2026-11-23T10:59:52.057000Z",
+      "last_seen_at": "2026-11-23T22:31:26.886817Z",
       "title_original": "BYD’s tri-motor Denza N9 flagship SUV gets a new face in China",
       "title_en": "BYD’s tri-motor Denza N9 flagship SUV gets a new face in China",
       "title_zh": "比亚迪三电机旗舰SUV腾势N9在中国焕然一新",
@@ -483,7 +838,7 @@
       "url": "https://carnewschina.com/2026/11/23/new-nio-et5-touring-spied-in-china-as-ceo-confirms-2027-rollout-amid-europe-delays",
       "published_at": "2026-11-23T04:35:02Z",
       "first_seen_at": "2026-11-23T10:59:52.057000Z",
-      "last_seen_at": "2026-11-23T10:59:52.057000Z",
+      "last_seen_at": "2026-11-23T22:31:26.886817Z",
       "title_original": "New Nio ET5 Touring spied in China as CEO confirms 2027 rollout amid Europe delays",
       "title_en": "New Nio ET5 Touring spied in China as CEO confirms 2027 rollout amid Europe delays",
       "title_zh": "新款 Nio ET5 Touring 在中国被监视，首席执行官确认 2027 年在欧洲推迟推出",
@@ -502,7 +857,7 @@
       "url": "https://cnevpost.com/2026/11/23/xpeng-launches-g9l-thailand-indonesia",
       "published_at": "2026-11-23T03:20:34Z",
       "first_seen_at": "2026-11-23T10:59:52.057000Z",
-      "last_seen_at": "2026-11-23T10:59:52.057000Z",
+      "last_seen_at": "2026-11-23T22:31:26.886817Z",
       "title_original": "Xpeng launches G9L in Thailand and Indonesia, accelerating global roll-out of flagship SUV",
       "title_en": "Xpeng launches G9L in Thailand and Indonesia, accelerating global roll-out of flagship SUV",
       "title_zh": "小鹏汽车G9L在泰国和印度尼西亚上市，加速旗舰SUV全球布局",
@@ -522,126 +877,13 @@
       "url": "https://juejin.cn/post/7710655615206621210",
       "published_at": "2026-11-23T02:12:26.236000Z",
       "first_seen_at": "2026-11-23T02:12:15.750951Z",
-      "last_seen_at": "2026-11-23T10:59:52.057000Z",
+      "last_seen_at": "2026-11-23T22:31:26.886817Z",
       "title_original": "被 pnpm 打包坑惨后，我彻底盘明白了硬链接与软链接",
       "title_en": null,
       "title_zh": "被 pnpm 打包坑惨后，我彻底盘明白了硬链接与软链接",
       "title_bilingual": "被 pnpm 打包坑惨后，我彻底盘明白了硬链接与软链接",
       "topic_tags": [
         "供应链"
-      ]
-    },
-    {
-      "id": "6d5b0657463d87b9b3e748148a71fb8fa4faaa36",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "比亚迪首发折叠座舱，成为继闪充技术后的第三大核心科技",
-      "url": "http://vc.yiche.com/vplay/14339712.html",
-      "published_at": null,
-      "first_seen_at": "2026-11-22T21:30:52.889052Z",
-      "last_seen_at": "2026-11-23T10:59:52.057000Z",
-      "title_original": "比亚迪首发折叠座舱，成为继闪充技术后的第三大核心科技",
-      "title_en": null,
-      "title_zh": "比亚迪首发折叠座舱，成为继闪充技术后的第三大核心科技",
-      "title_bilingual": "比亚迪首发折叠座舱，成为继闪充技术后的第三大核心科技",
-      "topic_tags": [
-        "补能电池",
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "a6a1b5b87269045311c4c7c18723be7c9b0d204f",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "开长城 H10探访样边长城 长途能耗实测",
-      "url": "http://vc.yiche.com/vplay/14296676.html",
-      "published_at": null,
-      "first_seen_at": "2026-11-22T21:30:52.889052Z",
-      "last_seen_at": "2026-11-23T10:59:52.057000Z",
-      "title_original": "开长城 H10探访样边长城 长途能耗实测",
-      "title_en": null,
-      "title_zh": "开长城 H10探访样边长城 长途能耗实测",
-      "title_bilingual": "开长城 H10探访样边长城 长途能耗实测",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "3681b7002bf85c2becac776546bb59eadb421ad0",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "六座变大五座 吉利银河M8年内上市",
-      "url": "http://vc.yiche.com/vplay/14338137.html",
-      "published_at": null,
-      "first_seen_at": "2026-11-22T21:30:52.889052Z",
-      "last_seen_at": "2026-11-23T10:59:52.057000Z",
-      "title_original": "六座变大五座 吉利银河M8年内上市",
-      "title_en": null,
-      "title_zh": "六座变大五座 吉利银河M8年内上市",
-      "title_bilingual": "六座变大五座 吉利银河M8年内上市",
-      "topic_tags": [
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "ef15e2ad1c88ccb979411f816d0088ce864eb6e0",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "易车网 · 热门视频排行",
-      "title": "场地试驾！星越L PLUS对比宝马X5/奔驰GLE，他行吗？",
-      "url": "http://vc.yiche.com/vplay/14311061.html",
-      "published_at": null,
-      "first_seen_at": "2026-11-22T21:30:52.889052Z",
-      "last_seen_at": "2026-11-23T10:59:52.057000Z",
-      "title_original": "场地试驾！星越L PLUS对比宝马X5/奔驰GLE，他行吗？",
-      "title_en": null,
-      "title_zh": "场地试驾！星越L PLUS对比宝马X5/奔驰GLE，他行吗？",
-      "title_bilingual": "场地试驾！星越L PLUS对比宝马X5/奔驰GLE，他行吗？",
-      "topic_tags": [
-        "车企竞争",
-        "购车决策"
-      ]
-    },
-    {
-      "id": "ea9be5754c8d9156de7d674d6ef8ff7dc60be571",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-行业",
-      "title": "E周看点 | 两大车企拿到造车“准生证”；零跑汽车200万台整车下线",
-      "url": "https://auto.gasgoo.com/news/202611/22I70478767C501.shtml",
-      "published_at": "2026-11-22T16:46:19Z",
-      "first_seen_at": "2026-11-23T10:59:52.057000Z",
-      "last_seen_at": "2026-11-23T10:59:52.057000Z",
-      "title_original": "E周看点 | 两大车企拿到造车“准生证”；零跑汽车200万台整车下线",
-      "title_en": null,
-      "title_zh": "E周看点 | 两大车企拿到造车“准生证”；零跑汽车200万台整车下线",
-      "title_bilingual": "E周看点 | 两大车企拿到造车“准生证”；零跑汽车200万台整车下线",
-      "topic_tags": [
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "3fc94289a76dc077d2192eafc661bb26a66a45e3",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CarNewsChina-EV",
-      "title": "Leapmotor B03X “gives birth” to beer in China, plastic trunk detaches due to excess load",
-      "url": "https://carnewschina.com/2026/11/22/leapmotor-b03x-gives-birth-to-beer-in-china-plastic-trunk-detaches-due-to-excess-load",
-      "published_at": "2026-11-22T16:02:33Z",
-      "first_seen_at": "2026-11-22T21:30:52.889052Z",
-      "last_seen_at": "2026-11-23T10:59:52.057000Z",
-      "title_original": "Leapmotor B03X “gives birth” to beer in China, plastic trunk detaches due to excess load",
-      "title_en": "Leapmotor B03X “gives birth” to beer in China, plastic trunk detaches due to excess load",
-      "title_zh": "零跑B03X在中国“诞生”啤酒，塑料后备箱超载脱落",
-      "title_bilingual": "零跑B03X在中国“诞生”啤酒，塑料后备箱超载脱落 / Leapmotor B03X “gives birth” to beer in China, plastic trunk detaches due to excess load",
-      "topic_tags": [
-        "新能源",
-        "车企竞争"
       ]
     }
   ],
