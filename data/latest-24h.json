@@ -1,38 +1,38 @@
 {
-  "generated_at": "2026-11-25T02:55:02.003459Z",
+  "generated_at": "2026-11-25T12:05:36.621480Z",
   "window_hours": 24,
-  "total_items": 20,
-  "total_items_ai_raw": 24,
-  "total_items_raw": 2277,
-  "total_items_all_mode": 2009,
+  "total_items": 25,
+  "total_items_ai_raw": 30,
+  "total_items_raw": 2258,
+  "total_items_all_mode": 2023,
   "topic_filter": "auto_ev_smart_driving",
-  "archive_total": 48800,
+  "archive_total": 48902,
   "site_count": 3,
-  "source_count": 7,
+  "source_count": 9,
   "site_stats": [
     {
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
-      "count": 15,
-      "raw_count": 19
+      "count": 20,
+      "raw_count": 25
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "count": 4,
-      "raw_count": 2180
+      "raw_count": 2132
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "count": 1,
-      "raw_count": 78
+      "raw_count": 101
     }
   ],
   "topic_tag_stats": [
     {
       "tag": "新能源",
-      "count": 15
+      "count": 14
     },
     {
       "tag": "车企竞争",
@@ -40,27 +40,27 @@
     },
     {
       "tag": "新车上市",
-      "count": 8
+      "count": 6
     },
     {
       "tag": "供应链",
       "count": 5
     },
     {
-      "tag": "价格战",
-      "count": 2
-    },
-    {
-      "tag": "智能驾驶",
-      "count": 2
+      "tag": "销量市场",
+      "count": 5
     },
     {
       "tag": "补能电池",
-      "count": 2
+      "count": 4
     },
     {
-      "tag": "销量市场",
-      "count": 2
+      "tag": "价格战",
+      "count": 3
+    },
+    {
+      "tag": "智能驾驶",
+      "count": 1
     },
     {
       "tag": "购车决策",
@@ -69,6 +69,44 @@
   ],
   "items": [
     {
+      "id": "c75d9cdfb1e2033fd9ded7a7172f82e4ffecb0b7",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "juejin",
+      "title": "前端转 Java 全栈：用 AI 两天交付一个能跑的 Demo，踩坑全记录",
+      "url": "https://juejin.cn/post/7711260888724291620",
+      "published_at": "2026-11-25T11:49:39.191000Z",
+      "first_seen_at": "2026-11-25T12:05:36.621480Z",
+      "last_seen_at": "2026-11-25T12:05:36.621480Z",
+      "title_original": "前端转 Java 全栈：用 AI 两天交付一个能跑的 Demo，踩坑全记录",
+      "title_en": null,
+      "title_zh": "前端转 Java 全栈：用 AI 两天交付一个能跑的 Demo，踩坑全记录",
+      "title_bilingual": "前端转 Java 全栈：用 AI 两天交付一个能跑的 Demo，踩坑全记录",
+      "topic_tags": [
+        "销量市场"
+      ]
+    },
+    {
+      "id": "89f8b5e290106f83fe07a0eb30c0cbb51e337647",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "All-new BMW iX3 launches in China: starting at 40,300 USD, featuring up to 919 km CLTC range",
+      "url": "https://carnewschina.com/2026/11/25/all-new-bmw-ix3-launches-in-china-starting-at-40300-usd-featuring-up-to-919-km-cltc-range",
+      "published_at": "2026-11-25T04:21:07Z",
+      "first_seen_at": "2026-11-25T12:05:36.621480Z",
+      "last_seen_at": "2026-11-25T12:05:36.621480Z",
+      "title_original": "All-new BMW iX3 launches in China: starting at 40,300 USD, featuring up to 919 km CLTC range",
+      "title_en": "All-new BMW iX3 launches in China: starting at 40,300 USD, featuring up to 919 km CLTC range",
+      "title_zh": "全新 BMW iX3 在中国上市：起价 40,300 美元，CLTC 续航里程长达 919 公里",
+      "title_bilingual": "全新 BMW iX3 在中国上市：起价 40,300 美元，CLTC 续航里程长达 919 公里 / All-new BMW iX3 launches in China: starting at 40,300 USD, featuring up to 919 km CLTC range",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "新车上市"
+      ]
+    },
+    {
       "id": "ecdccb3ae42e363c0ab35a0422471df76eae4ce9",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -77,7 +115,7 @@
       "url": "http://vc.yiche.com/vplay/14358192.html",
       "published_at": null,
       "first_seen_at": "2026-11-25T02:55:02.003459Z",
-      "last_seen_at": "2026-11-25T02:55:02.003459Z",
+      "last_seen_at": "2026-11-25T12:05:36.621480Z",
       "title_original": "零焦虑的硬核方盒子，长城猛龙HEV混动版即将上市！",
       "title_en": null,
       "title_zh": "零焦虑的硬核方盒子，长城猛龙HEV混动版即将上市！",
@@ -97,7 +135,7 @@
       "url": "http://vc.yiche.com/vplay/14350226.html",
       "published_at": null,
       "first_seen_at": "2026-11-25T02:55:02.003459Z",
-      "last_seen_at": "2026-11-25T02:55:02.003459Z",
+      "last_seen_at": "2026-11-25T12:05:36.621480Z",
       "title_original": "智驾分层明显：2026款铂智3X，不同版本该怎么选？",
       "title_en": null,
       "title_zh": "智驾分层明显：2026款铂智3X，不同版本该怎么选？",
@@ -115,7 +153,7 @@
       "url": "http://vc.yiche.com/vplay/14373431.html",
       "published_at": null,
       "first_seen_at": "2026-11-25T02:55:02.003459Z",
-      "last_seen_at": "2026-11-25T02:55:02.003459Z",
+      "last_seen_at": "2026-11-25T12:05:36.621480Z",
       "title_original": "能拉货，也能露营开灶 实拍：郑州日产NV200 PHEV",
       "title_en": null,
       "title_zh": "能拉货，也能露营开灶 实拍：郑州日产NV200 PHEV",
@@ -133,7 +171,7 @@
       "url": "http://vc.yiche.com/vplay/14383749.html",
       "published_at": null,
       "first_seen_at": "2026-11-25T02:55:02.003459Z",
-      "last_seen_at": "2026-11-25T02:55:02.003459Z",
+      "last_seen_at": "2026-11-25T12:05:36.621480Z",
       "title_original": "把席梦思搬进MPV？静态体验全新至境世家",
       "title_en": null,
       "title_zh": "把席梦思搬进MPV？静态体验全新至境世家",
@@ -152,7 +190,7 @@
       "url": "https://cnevpost.com/2026/11/25/byd-targets-acquisition-ineos-french-plant",
       "published_at": "2026-11-25T00:41:42Z",
       "first_seen_at": "2026-11-25T02:55:02.003459Z",
-      "last_seen_at": "2026-11-25T02:55:02.003459Z",
+      "last_seen_at": "2026-11-25T12:05:36.621480Z",
       "title_original": "BYD targets acquisition of Ineos French plant as Macron confirms January details",
       "title_en": "BYD targets acquisition of Ineos French plant as Macron confirms January details",
       "title_zh": "马克龙确认一月份细节 比亚迪计划收购英力士法国工厂",
@@ -172,7 +210,7 @@
       "url": "https://carnewschina.com/2026/11/25/volkswagen-plans-software-updates-for-xpeng-powered-evs-every-three-months-in-china",
       "published_at": "2026-11-24T23:09:44Z",
       "first_seen_at": "2026-11-25T02:55:02.003459Z",
-      "last_seen_at": "2026-11-25T02:55:02.003459Z",
+      "last_seen_at": "2026-11-25T12:05:36.621480Z",
       "title_original": "Volkswagen plans software updates for Xpeng-powered EVs every three months in China",
       "title_en": "Volkswagen plans software updates for Xpeng-powered EVs every three months in China",
       "title_zh": "大众汽车计划在中国每三个月更新小鹏电动汽车的软件",
@@ -191,13 +229,120 @@
       "url": "https://carnewschina.com/2026/11/24/macron-says-france-will-share-plans-for-byds-second-eu-car-plant-on-january-18",
       "published_at": "2026-11-24T22:05:06Z",
       "first_seen_at": "2026-11-25T02:55:02.003459Z",
-      "last_seen_at": "2026-11-25T02:55:02.003459Z",
+      "last_seen_at": "2026-11-25T12:05:36.621480Z",
       "title_original": "Macron says France will share plans for BYD’s second EU car plant on January 18",
       "title_en": "Macron says France will share plans for BYD’s second EU car plant on January 18",
       "title_zh": "马克龙表示法国将于 1 月 18 日分享比亚迪第二家欧盟汽车工厂的计划",
       "title_bilingual": "马克龙表示法国将于 1 月 18 日分享比亚迪第二家欧盟汽车工厂的计划 / Macron says France will share plans for BYD’s second EU car plant on January 18",
       "topic_tags": [
         "新能源",
+        "车企竞争",
+        "供应链"
+      ]
+    },
+    {
+      "id": "86dfd76f1f9ce0d87338fd3fe5ee28965669e0a6",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "欧盟正式对混合动力汽车进口设限：中国200天内配额19.18万辆",
+      "url": "https://auto.gasgoo.com/news/202611/24I70478957C108.shtml",
+      "published_at": "2026-11-24T18:37:53Z",
+      "first_seen_at": "2026-11-25T12:05:36.621480Z",
+      "last_seen_at": "2026-11-25T12:05:36.621480Z",
+      "title_original": "欧盟正式对混合动力汽车进口设限：中国200天内配额19.18万辆",
+      "title_en": null,
+      "title_zh": "欧盟正式对混合动力汽车进口设限：中国200天内配额19.18万辆",
+      "title_bilingual": "欧盟正式对混合动力汽车进口设限：中国200天内配额19.18万辆",
+      "topic_tags": []
+    },
+    {
+      "id": "b2aab1725d3a2aba63d07a97c0a6e2ef6b7fb8df",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "后市场服务出海，开始拼本地化了",
+      "url": "https://auto.gasgoo.com/news/202611/24I70478952C501.shtml",
+      "published_at": "2026-11-24T18:13:57Z",
+      "first_seen_at": "2026-11-25T12:05:36.621480Z",
+      "last_seen_at": "2026-11-25T12:05:36.621480Z",
+      "title_original": "后市场服务出海，开始拼本地化了",
+      "title_en": null,
+      "title_zh": "后市场服务出海，开始拼本地化了",
+      "title_bilingual": "后市场服务出海，开始拼本地化了",
+      "topic_tags": [
+        "销量市场"
+      ]
+    },
+    {
+      "id": "a96848bd32c9c372a5766050ac39b084a4b9ce19",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-销量",
+      "title": "11月车市零售下降25%，特斯拉率先将优惠延到12月底",
+      "url": "https://auto.gasgoo.com/news/202611/24I70478943C110.shtml",
+      "published_at": "2026-11-24T16:42:47Z",
+      "first_seen_at": "2026-11-25T12:05:36.621480Z",
+      "last_seen_at": "2026-11-25T12:05:36.621480Z",
+      "title_original": "11月车市零售下降25%，特斯拉率先将优惠延到12月底",
+      "title_en": null,
+      "title_zh": "11月车市零售下降25%，特斯拉率先将优惠延到12月底",
+      "title_bilingual": "11月车市零售下降25%，特斯拉率先将优惠延到12月底",
+      "topic_tags": [
+        "销量市场",
+        "价格战",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "8f6e963563bd863a5154ba1e4fead162fc12ad0c",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "RISC-V上车，车企开始排时间表",
+      "url": "https://auto.gasgoo.com/news/202611/24I70478926C108.shtml",
+      "published_at": "2026-11-24T16:39:01Z",
+      "first_seen_at": "2026-11-25T12:05:36.621480Z",
+      "last_seen_at": "2026-11-25T12:05:36.621480Z",
+      "title_original": "RISC-V上车，车企开始排时间表",
+      "title_en": null,
+      "title_zh": "RISC-V上车，车企开始排时间表",
+      "title_bilingual": "RISC-V上车，车企开始排时间表",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "cec7815a41feaf68b2c6850047c2ae85b33e573a",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "RISC-V，标准怎么定？",
+      "url": "https://auto.gasgoo.com/news/202611/24I70478936C108.shtml",
+      "published_at": "2026-11-24T16:24:41Z",
+      "first_seen_at": "2026-11-25T12:05:36.621480Z",
+      "last_seen_at": "2026-11-25T12:05:36.621480Z",
+      "title_original": "RISC-V，标准怎么定？",
+      "title_en": null,
+      "title_zh": "RISC-V，标准怎么定？",
+      "title_bilingual": "RISC-V，标准怎么定？",
+      "topic_tags": []
+    },
+    {
+      "id": "d29c6575fce7014b31d267a9933801390db5827b",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-供应链",
+      "title": "黄仁勋离任的11天，竞争对手也不好过",
+      "url": "https://auto.gasgoo.com/news/202611/24I70478942C108.shtml",
+      "published_at": "2026-11-24T16:14:25Z",
+      "first_seen_at": "2026-11-25T12:05:36.621480Z",
+      "last_seen_at": "2026-11-25T12:05:36.621480Z",
+      "title_original": "黄仁勋离任的11天，竞争对手也不好过",
+      "title_en": null,
+      "title_zh": "黄仁勋离任的11天，竞争对手也不好过",
+      "title_bilingual": "黄仁勋离任的11天，竞争对手也不好过",
+      "topic_tags": [
         "车企竞争",
         "供应链"
       ]
@@ -211,7 +356,7 @@
       "url": "https://carnewschina.com/2026/11/24/byd-confirms-talks-to-buy-ineos-factory-in-france-as-ineos-moves-grenadier-production-to-the-us",
       "published_at": "2026-11-24T15:36:43Z",
       "first_seen_at": "2026-11-24T18:36:56.888533Z",
-      "last_seen_at": "2026-11-25T02:55:02.003459Z",
+      "last_seen_at": "2026-11-25T12:05:36.621480Z",
       "title_original": "BYD confirms talks to buy Ineos factory in France as Grenadier production moves to the US",
       "title_en": "BYD confirms talks to buy Ineos factory in France as Grenadier production moves to the US",
       "title_zh": "随着掷弹兵生产转移到美国，比亚迪确认收购法国英力士工厂的谈判",
@@ -231,7 +376,7 @@
       "url": "https://carnewschina.com/2026/11/24/new-byd-tang-enters-china-with-up-to-850-km-of-ev-range-at-28195-usd",
       "published_at": "2026-11-24T15:04:21Z",
       "first_seen_at": "2026-11-24T18:36:56.888533Z",
-      "last_seen_at": "2026-11-25T02:55:02.003459Z",
+      "last_seen_at": "2026-11-25T12:05:36.621480Z",
       "title_original": "New BYD Tang enters China with up to 850 km of EV range at 28,195 USD",
       "title_en": "New BYD Tang enters China with up to 850 km of EV range at 28,195 USD",
       "title_zh": "新款比亚迪唐进入中国，电动车续航里程可达 850 公里，售价 28,195 美元",
@@ -252,7 +397,7 @@
       "url": "https://cnevpost.com/2026/11/24/geely-galaxy-starts-pre-sales-m8",
       "published_at": "2026-11-24T14:27:27Z",
       "first_seen_at": "2026-11-24T18:36:56.888533Z",
-      "last_seen_at": "2026-11-25T02:55:02.003459Z",
+      "last_seen_at": "2026-11-25T12:05:36.621480Z",
       "title_original": "Geely Galaxy starts pre-sales of M8, targeting large 5-seat plug-in hybrid SUV market",
       "title_en": "Geely Galaxy starts pre-sales of M8, targeting large 5-seat plug-in hybrid SUV market",
       "title_zh": "吉利银河M8开启预售，瞄准大型5座插电式混合动力SUV市场",
@@ -273,7 +418,7 @@
       "url": "https://carnewschina.com/2026/11/24/jetours-first-bev-hits-the-market-a-boxy-suv-priced-from-13400-usd-in-china",
       "published_at": "2026-11-24T13:43:50Z",
       "first_seen_at": "2026-11-24T18:36:56.888533Z",
-      "last_seen_at": "2026-11-25T02:55:02.003459Z",
+      "last_seen_at": "2026-11-25T12:05:36.621480Z",
       "title_original": "Jetour’s first BEV hits the market: a “boxy” SUV priced from 13,400 USD in China",
       "title_en": "Jetour’s first BEV hits the market: a “boxy” SUV priced from 13,400 USD in China",
       "title_zh": "捷途首款纯电动车上市：“四四方方”SUV，中国售价 13,400 美元起",
@@ -293,7 +438,7 @@
       "url": "https://cnevpost.com/2026/11/24/byd-launches-3rd-gen-tang-electric-suv",
       "published_at": "2026-11-24T13:36:49Z",
       "first_seen_at": "2026-11-24T18:36:56.888533Z",
-      "last_seen_at": "2026-11-25T02:55:02.003459Z",
+      "last_seen_at": "2026-11-25T12:05:36.621480Z",
       "title_original": "BYD launches third-gen Tang electric SUV starting at $28,000 with up to 850 km range",
       "title_en": "BYD launches third-gen Tang electric SUV starting at $28,000 with up to 850 km range",
       "title_zh": "比亚迪推出第三代唐电动SUV，起价28,000美元，续航里程可达850公里",
@@ -306,6 +451,41 @@
       ]
     },
     {
+      "id": "dd2a0a8559029934cfb2f86659ea618e4d183081",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新能源",
+      "title": "剥离电池回收业务，巴斯夫电池材料业务将聚焦正极活性材料",
+      "url": "https://auto.gasgoo.com/news/202611/24I70478925C501.shtml",
+      "published_at": "2026-11-24T13:12:30Z",
+      "first_seen_at": "2026-11-25T12:05:36.621480Z",
+      "last_seen_at": "2026-11-25T12:05:36.621480Z",
+      "title_original": "剥离电池回收业务，巴斯夫电池材料业务将聚焦正极活性材料",
+      "title_en": null,
+      "title_zh": "剥离电池回收业务，巴斯夫电池材料业务将聚焦正极活性材料",
+      "title_bilingual": "剥离电池回收业务，巴斯夫电池材料业务将聚焦正极活性材料",
+      "topic_tags": [
+        "新能源",
+        "补能电池"
+      ]
+    },
+    {
+      "id": "41b89cbcb92532e17b64f9e1154f69980fde411f",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "欧盟拟扩大混合动力汽车进口限制，日韩、英国和土耳其等均受影响",
+      "url": "https://auto.gasgoo.com/news/202611/24I70478920C108.shtml",
+      "published_at": "2026-11-24T13:07:07Z",
+      "first_seen_at": "2026-11-25T12:05:36.621480Z",
+      "last_seen_at": "2026-11-25T12:05:36.621480Z",
+      "title_original": "欧盟拟扩大混合动力汽车进口限制，日韩、英国和土耳其等均受影响",
+      "title_en": null,
+      "title_zh": "欧盟拟扩大混合动力汽车进口限制，日韩、英国和土耳其等均受影响",
+      "title_bilingual": "欧盟拟扩大混合动力汽车进口限制，日韩、英国和土耳其等均受影响",
+      "topic_tags": []
+    },
+    {
       "id": "80563727f9aa6d2e9918248383a506395686d2fb",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -314,13 +494,33 @@
       "url": "https://cnevpost.com/2026/11/24/eu-import-quotas-hybrids-dec-china-urges-adherence-consensus",
       "published_at": "2026-11-24T12:58:24Z",
       "first_seen_at": "2026-11-24T18:36:56.888533Z",
-      "last_seen_at": "2026-11-25T02:55:02.003459Z",
+      "last_seen_at": "2026-11-25T12:05:36.621480Z",
       "title_original": "EU to impose import quotas on hybrid cars from December, China urges adherence to consensus",
       "title_en": "EU to impose import quotas on hybrid cars from December, China urges adherence to consensus",
       "title_zh": "欧盟12月起对混合动力汽车实施进口配额 中方敦促各方遵守共识",
       "title_bilingual": "欧盟12月起对混合动力汽车实施进口配额 中方敦促各方遵守共识 / EU to impose import quotas on hybrid cars from December, China urges adherence to consensus",
       "topic_tags": [
         "新能源"
+      ]
+    },
+    {
+      "id": "d4de612d1db1e4aa7c8388762b921378a8f186fe",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "出口反超内销，特斯拉上海工厂“转身”",
+      "url": "https://auto.gasgoo.com/news/202611/24I70478836C109.shtml",
+      "published_at": "2026-11-24T12:45:28Z",
+      "first_seen_at": "2026-11-25T12:05:36.621480Z",
+      "last_seen_at": "2026-11-25T12:05:36.621480Z",
+      "title_original": "出口反超内销，特斯拉上海工厂“转身”",
+      "title_en": null,
+      "title_zh": "出口反超内销，特斯拉上海工厂“转身”",
+      "title_bilingual": "出口反超内销，特斯拉上海工厂“转身”",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争",
+        "供应链"
       ]
     },
     {
@@ -332,7 +532,7 @@
       "url": "https://carnewschina.com/2026/11/24/xiaomi-auto-will-start-eu-sales-in-germany-italy-spain-and-sweden-in-2027",
       "published_at": "2026-11-24T12:33:24Z",
       "first_seen_at": "2026-11-24T18:36:56.888533Z",
-      "last_seen_at": "2026-11-25T02:55:02.003459Z",
+      "last_seen_at": "2026-11-25T12:05:36.621480Z",
       "title_original": "Xiaomi Auto will start EU sales in Germany, Italy, Spain and Sweden in 2027",
       "title_en": "Xiaomi Auto will start EU sales in Germany, Italy, Spain and Sweden in 2027",
       "title_zh": "小米汽车将于2027年在德国、意大利、西班牙和瑞典开始欧盟销售",
@@ -340,127 +540,49 @@
       "topic_tags": [
         "新能源",
         "车企竞争"
-      ]
-    },
-    {
-      "id": "4be321a406302d3925d398172a84736442d643f1",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新能源",
-      "title": "科新动力两条PACK产线落地武汉，达产后可实现年产能约25万套",
-      "url": "https://auto.gasgoo.com/news/202611/24I70478905C501.shtml",
-      "published_at": "2026-11-24T10:08:14Z",
-      "first_seen_at": "2026-11-25T02:55:02.003459Z",
-      "last_seen_at": "2026-11-25T02:55:02.003459Z",
-      "title_original": "科新动力两条PACK产线落地武汉，达产后可实现年产能约25万套",
-      "title_en": null,
-      "title_zh": "科新动力两条PACK产线落地武汉，达产后可实现年产能约25万套",
-      "title_bilingual": "科新动力两条PACK产线落地武汉，达产后可实现年产能约25万套",
-      "topic_tags": [
-        "新能源",
-        "供应链"
-      ]
-    },
-    {
-      "id": "b797a3a25de504e9198699c1b5571c9c3a31e917",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Nio sets Nio Day 2026 for December 19 in Wuhan, to unveil all-new ET5 Touring",
-      "url": "https://cnevpost.com/2026/11/24/nio-day-2026-dec-19-unveil-new-et5-touring",
-      "published_at": "2026-11-24T09:22:41Z",
-      "first_seen_at": "2026-11-24T18:36:56.888533Z",
-      "last_seen_at": "2026-11-25T02:55:02.003459Z",
-      "title_original": "Nio sets Nio Day 2026 for December 19 in Wuhan, to unveil all-new ET5 Touring",
-      "title_en": "Nio sets Nio Day 2026 for December 19 in Wuhan, to unveil all-new ET5 Touring",
-      "title_zh": "蔚来2026年蔚来日将于12月19日在武汉举行，并发布全新ET5 Touring",
-      "title_bilingual": "蔚来2026年蔚来日将于12月19日在武汉举行，并发布全新ET5 Touring / Nio sets Nio Day 2026 for December 19 in Wuhan, to unveil all-new ET5 Touring",
-      "topic_tags": [
-        "新能源",
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "3fb97add62f0dbe5f82d2e24f1b3460f1425a533",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "BYD Fang Cheng Bao Shark pickup to launch in China on December 2 after Guangzhou Auto Show debut",
-      "url": "https://cnevpost.com/2026/11/24/byd-fang-cheng-bao-shark-launch-china-dec-2",
-      "published_at": "2026-11-24T08:46:15Z",
-      "first_seen_at": "2026-11-24T18:36:56.888533Z",
-      "last_seen_at": "2026-11-25T02:55:02.003459Z",
-      "title_original": "BYD Fang Cheng Bao Shark pickup to launch in China on December 2 after Guangzhou Auto Show debut",
-      "title_en": "BYD Fang Cheng Bao Shark pickup to launch in China on December 2 after Guangzhou Auto Show debut",
-      "title_zh": "比亚迪方成宝鲨皮卡将于12月2日在广州车展亮相后在中国上市",
-      "title_bilingual": "比亚迪方成宝鲨皮卡将于12月2日在广州车展亮相后在中国上市 / BYD Fang Cheng Bao Shark pickup to launch in China on December 2 after Guangzhou Auto Show debut",
-      "topic_tags": [
-        "新能源",
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "e480241c03b2f88b684578de614d719d9eb731ed",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "智驾险的“三重门”：赔不到、赔不够、赔不明白",
-      "url": "https://auto.gasgoo.com/news/202611/24I70478862C601.shtml",
-      "published_at": "2026-11-24T07:47:28Z",
-      "first_seen_at": "2026-11-25T02:55:02.003459Z",
-      "last_seen_at": "2026-11-25T02:55:02.003459Z",
-      "title_original": "智驾险的“三重门”：赔不到、赔不够、赔不明白",
-      "title_en": null,
-      "title_zh": "智驾险的“三重门”：赔不到、赔不够、赔不明白",
-      "title_bilingual": "智驾险的“三重门”：赔不到、赔不够、赔不明白",
-      "topic_tags": [
-        "智能驾驶",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "e58e22464ccf11cd5539b0fa8de09887aa0e7393",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新车",
-      "title": "鸿蒙智行家庭智慧旗舰SUV焕新，问界新M8核心零部件配套供应商一览",
-      "url": "https://auto.gasgoo.com/news/202611/24I70478831C107.shtml",
-      "published_at": "2026-11-24T07:00:00Z",
-      "first_seen_at": "2026-11-25T02:55:02.003459Z",
-      "last_seen_at": "2026-11-25T02:55:02.003459Z",
-      "title_original": "鸿蒙智行家庭智慧旗舰SUV焕新，问界新M8核心零部件配套供应商一览",
-      "title_en": null,
-      "title_zh": "鸿蒙智行家庭智慧旗舰SUV焕新，问界新M8核心零部件配套供应商一览",
-      "title_bilingual": "鸿蒙智行家庭智慧旗舰SUV焕新，问界新M8核心零部件配套供应商一览",
-      "topic_tags": [
-        "车企竞争",
-        "供应链",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "47bfe8a84112ef7ba207e3616036e314678989f7",
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "juejin",
-      "title": "你只说要什么，它负责拆活交付：任务编排插件上手指南",
-      "url": "https://juejin.cn/post/7710905800151269426",
-      "published_at": "2026-11-24T06:43:38.623000Z",
-      "first_seen_at": "2026-11-24T06:43:24.362718Z",
-      "last_seen_at": "2026-11-24T18:36:56.888533Z",
-      "title_original": "你只说要什么，它负责拆活交付：任务编排插件上手指南",
-      "title_en": null,
-      "title_zh": "你只说要什么，它负责拆活交付：任务编排插件上手指南",
-      "title_bilingual": "你只说要什么，它负责拆活交付：任务编排插件上手指南",
-      "topic_tags": [
-        "销量市场"
       ]
     }
   ],
   "items_ai": [
     {
+      "id": "c75d9cdfb1e2033fd9ded7a7172f82e4ffecb0b7",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "juejin",
+      "title": "前端转 Java 全栈：用 AI 两天交付一个能跑的 Demo，踩坑全记录",
+      "url": "https://juejin.cn/post/7711260888724291620",
+      "published_at": "2026-11-25T11:49:39.191000Z",
+      "first_seen_at": "2026-11-25T12:05:36.621480Z",
+      "last_seen_at": "2026-11-25T12:05:36.621480Z",
+      "title_original": "前端转 Java 全栈：用 AI 两天交付一个能跑的 Demo，踩坑全记录",
+      "title_en": null,
+      "title_zh": "前端转 Java 全栈：用 AI 两天交付一个能跑的 Demo，踩坑全记录",
+      "title_bilingual": "前端转 Java 全栈：用 AI 两天交付一个能跑的 Demo，踩坑全记录",
+      "topic_tags": [
+        "销量市场"
+      ]
+    },
+    {
+      "id": "89f8b5e290106f83fe07a0eb30c0cbb51e337647",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "CarNewsChina-EV",
+      "title": "All-new BMW iX3 launches in China: starting at 40,300 USD, featuring up to 919 km CLTC range",
+      "url": "https://carnewschina.com/2026/11/25/all-new-bmw-ix3-launches-in-china-starting-at-40300-usd-featuring-up-to-919-km-cltc-range",
+      "published_at": "2026-11-25T04:21:07Z",
+      "first_seen_at": "2026-11-25T12:05:36.621480Z",
+      "last_seen_at": "2026-11-25T12:05:36.621480Z",
+      "title_original": "All-new BMW iX3 launches in China: starting at 40,300 USD, featuring up to 919 km CLTC range",
+      "title_en": "All-new BMW iX3 launches in China: starting at 40,300 USD, featuring up to 919 km CLTC range",
+      "title_zh": "全新 BMW iX3 在中国上市：起价 40,300 美元，CLTC 续航里程长达 919 公里",
+      "title_bilingual": "全新 BMW iX3 在中国上市：起价 40,300 美元，CLTC 续航里程长达 919 公里 / All-new BMW iX3 launches in China: starting at 40,300 USD, featuring up to 919 km CLTC range",
+      "topic_tags": [
+        "新能源",
+        "补能电池",
+        "新车上市"
+      ]
+    },
+    {
       "id": "ecdccb3ae42e363c0ab35a0422471df76eae4ce9",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -469,7 +591,7 @@
       "url": "http://vc.yiche.com/vplay/14358192.html",
       "published_at": null,
       "first_seen_at": "2026-11-25T02:55:02.003459Z",
-      "last_seen_at": "2026-11-25T02:55:02.003459Z",
+      "last_seen_at": "2026-11-25T12:05:36.621480Z",
       "title_original": "零焦虑的硬核方盒子，长城猛龙HEV混动版即将上市！",
       "title_en": null,
       "title_zh": "零焦虑的硬核方盒子，长城猛龙HEV混动版即将上市！",
@@ -489,7 +611,7 @@
       "url": "http://vc.yiche.com/vplay/14350226.html",
       "published_at": null,
       "first_seen_at": "2026-11-25T02:55:02.003459Z",
-      "last_seen_at": "2026-11-25T02:55:02.003459Z",
+      "last_seen_at": "2026-11-25T12:05:36.621480Z",
       "title_original": "智驾分层明显：2026款铂智3X，不同版本该怎么选？",
       "title_en": null,
       "title_zh": "智驾分层明显：2026款铂智3X，不同版本该怎么选？",
@@ -507,7 +629,7 @@
       "url": "http://vc.yiche.com/vplay/14373431.html",
       "published_at": null,
       "first_seen_at": "2026-11-25T02:55:02.003459Z",
-      "last_seen_at": "2026-11-25T02:55:02.003459Z",
+      "last_seen_at": "2026-11-25T12:05:36.621480Z",
       "title_original": "能拉货，也能露营开灶 实拍：郑州日产NV200 PHEV",
       "title_en": null,
       "title_zh": "能拉货，也能露营开灶 实拍：郑州日产NV200 PHEV",
@@ -525,7 +647,7 @@
       "url": "http://vc.yiche.com/vplay/14383749.html",
       "published_at": null,
       "first_seen_at": "2026-11-25T02:55:02.003459Z",
-      "last_seen_at": "2026-11-25T02:55:02.003459Z",
+      "last_seen_at": "2026-11-25T12:05:36.621480Z",
       "title_original": "把席梦思搬进MPV？静态体验全新至境世家",
       "title_en": null,
       "title_zh": "把席梦思搬进MPV？静态体验全新至境世家",
@@ -544,7 +666,7 @@
       "url": "https://cnevpost.com/2026/11/25/byd-targets-acquisition-ineos-french-plant",
       "published_at": "2026-11-25T00:41:42Z",
       "first_seen_at": "2026-11-25T02:55:02.003459Z",
-      "last_seen_at": "2026-11-25T02:55:02.003459Z",
+      "last_seen_at": "2026-11-25T12:05:36.621480Z",
       "title_original": "BYD targets acquisition of Ineos French plant as Macron confirms January details",
       "title_en": "BYD targets acquisition of Ineos French plant as Macron confirms January details",
       "title_zh": "马克龙确认一月份细节 比亚迪计划收购英力士法国工厂",
@@ -564,7 +686,7 @@
       "url": "https://carnewschina.com/2026/11/25/volkswagen-plans-software-updates-for-xpeng-powered-evs-every-three-months-in-china",
       "published_at": "2026-11-24T23:09:44Z",
       "first_seen_at": "2026-11-25T02:55:02.003459Z",
-      "last_seen_at": "2026-11-25T02:55:02.003459Z",
+      "last_seen_at": "2026-11-25T12:05:36.621480Z",
       "title_original": "Volkswagen plans software updates for Xpeng-powered EVs every three months in China",
       "title_en": "Volkswagen plans software updates for Xpeng-powered EVs every three months in China",
       "title_zh": "大众汽车计划在中国每三个月更新小鹏电动汽车的软件",
@@ -583,13 +705,120 @@
       "url": "https://carnewschina.com/2026/11/24/macron-says-france-will-share-plans-for-byds-second-eu-car-plant-on-january-18",
       "published_at": "2026-11-24T22:05:06Z",
       "first_seen_at": "2026-11-25T02:55:02.003459Z",
-      "last_seen_at": "2026-11-25T02:55:02.003459Z",
+      "last_seen_at": "2026-11-25T12:05:36.621480Z",
       "title_original": "Macron says France will share plans for BYD’s second EU car plant on January 18",
       "title_en": "Macron says France will share plans for BYD’s second EU car plant on January 18",
       "title_zh": "马克龙表示法国将于 1 月 18 日分享比亚迪第二家欧盟汽车工厂的计划",
       "title_bilingual": "马克龙表示法国将于 1 月 18 日分享比亚迪第二家欧盟汽车工厂的计划 / Macron says France will share plans for BYD’s second EU car plant on January 18",
       "topic_tags": [
         "新能源",
+        "车企竞争",
+        "供应链"
+      ]
+    },
+    {
+      "id": "86dfd76f1f9ce0d87338fd3fe5ee28965669e0a6",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "欧盟正式对混合动力汽车进口设限：中国200天内配额19.18万辆",
+      "url": "https://auto.gasgoo.com/news/202611/24I70478957C108.shtml",
+      "published_at": "2026-11-24T18:37:53Z",
+      "first_seen_at": "2026-11-25T12:05:36.621480Z",
+      "last_seen_at": "2026-11-25T12:05:36.621480Z",
+      "title_original": "欧盟正式对混合动力汽车进口设限：中国200天内配额19.18万辆",
+      "title_en": null,
+      "title_zh": "欧盟正式对混合动力汽车进口设限：中国200天内配额19.18万辆",
+      "title_bilingual": "欧盟正式对混合动力汽车进口设限：中国200天内配额19.18万辆",
+      "topic_tags": []
+    },
+    {
+      "id": "b2aab1725d3a2aba63d07a97c0a6e2ef6b7fb8df",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "后市场服务出海，开始拼本地化了",
+      "url": "https://auto.gasgoo.com/news/202611/24I70478952C501.shtml",
+      "published_at": "2026-11-24T18:13:57Z",
+      "first_seen_at": "2026-11-25T12:05:36.621480Z",
+      "last_seen_at": "2026-11-25T12:05:36.621480Z",
+      "title_original": "后市场服务出海，开始拼本地化了",
+      "title_en": null,
+      "title_zh": "后市场服务出海，开始拼本地化了",
+      "title_bilingual": "后市场服务出海，开始拼本地化了",
+      "topic_tags": [
+        "销量市场"
+      ]
+    },
+    {
+      "id": "a96848bd32c9c372a5766050ac39b084a4b9ce19",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-销量",
+      "title": "11月车市零售下降25%，特斯拉率先将优惠延到12月底",
+      "url": "https://auto.gasgoo.com/news/202611/24I70478943C110.shtml",
+      "published_at": "2026-11-24T16:42:47Z",
+      "first_seen_at": "2026-11-25T12:05:36.621480Z",
+      "last_seen_at": "2026-11-25T12:05:36.621480Z",
+      "title_original": "11月车市零售下降25%，特斯拉率先将优惠延到12月底",
+      "title_en": null,
+      "title_zh": "11月车市零售下降25%，特斯拉率先将优惠延到12月底",
+      "title_bilingual": "11月车市零售下降25%，特斯拉率先将优惠延到12月底",
+      "topic_tags": [
+        "销量市场",
+        "价格战",
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "8f6e963563bd863a5154ba1e4fead162fc12ad0c",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "RISC-V上车，车企开始排时间表",
+      "url": "https://auto.gasgoo.com/news/202611/24I70478926C108.shtml",
+      "published_at": "2026-11-24T16:39:01Z",
+      "first_seen_at": "2026-11-25T12:05:36.621480Z",
+      "last_seen_at": "2026-11-25T12:05:36.621480Z",
+      "title_original": "RISC-V上车，车企开始排时间表",
+      "title_en": null,
+      "title_zh": "RISC-V上车，车企开始排时间表",
+      "title_bilingual": "RISC-V上车，车企开始排时间表",
+      "topic_tags": [
+        "车企竞争"
+      ]
+    },
+    {
+      "id": "cec7815a41feaf68b2c6850047c2ae85b33e573a",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "RISC-V，标准怎么定？",
+      "url": "https://auto.gasgoo.com/news/202611/24I70478936C108.shtml",
+      "published_at": "2026-11-24T16:24:41Z",
+      "first_seen_at": "2026-11-25T12:05:36.621480Z",
+      "last_seen_at": "2026-11-25T12:05:36.621480Z",
+      "title_original": "RISC-V，标准怎么定？",
+      "title_en": null,
+      "title_zh": "RISC-V，标准怎么定？",
+      "title_bilingual": "RISC-V，标准怎么定？",
+      "topic_tags": []
+    },
+    {
+      "id": "d29c6575fce7014b31d267a9933801390db5827b",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-供应链",
+      "title": "黄仁勋离任的11天，竞争对手也不好过",
+      "url": "https://auto.gasgoo.com/news/202611/24I70478942C108.shtml",
+      "published_at": "2026-11-24T16:14:25Z",
+      "first_seen_at": "2026-11-25T12:05:36.621480Z",
+      "last_seen_at": "2026-11-25T12:05:36.621480Z",
+      "title_original": "黄仁勋离任的11天，竞争对手也不好过",
+      "title_en": null,
+      "title_zh": "黄仁勋离任的11天，竞争对手也不好过",
+      "title_bilingual": "黄仁勋离任的11天，竞争对手也不好过",
+      "topic_tags": [
         "车企竞争",
         "供应链"
       ]
@@ -603,7 +832,7 @@
       "url": "https://carnewschina.com/2026/11/24/byd-confirms-talks-to-buy-ineos-factory-in-france-as-ineos-moves-grenadier-production-to-the-us",
       "published_at": "2026-11-24T15:36:43Z",
       "first_seen_at": "2026-11-24T18:36:56.888533Z",
-      "last_seen_at": "2026-11-25T02:55:02.003459Z",
+      "last_seen_at": "2026-11-25T12:05:36.621480Z",
       "title_original": "BYD confirms talks to buy Ineos factory in France as Grenadier production moves to the US",
       "title_en": "BYD confirms talks to buy Ineos factory in France as Grenadier production moves to the US",
       "title_zh": "随着掷弹兵生产转移到美国，比亚迪确认收购法国英力士工厂的谈判",
@@ -623,7 +852,7 @@
       "url": "https://carnewschina.com/2026/11/24/new-byd-tang-enters-china-with-up-to-850-km-of-ev-range-at-28195-usd",
       "published_at": "2026-11-24T15:04:21Z",
       "first_seen_at": "2026-11-24T18:36:56.888533Z",
-      "last_seen_at": "2026-11-25T02:55:02.003459Z",
+      "last_seen_at": "2026-11-25T12:05:36.621480Z",
       "title_original": "New BYD Tang enters China with up to 850 km of EV range at 28,195 USD",
       "title_en": "New BYD Tang enters China with up to 850 km of EV range at 28,195 USD",
       "title_zh": "新款比亚迪唐进入中国，电动车续航里程可达 850 公里，售价 28,195 美元",
@@ -644,7 +873,7 @@
       "url": "https://cnevpost.com/2026/11/24/geely-galaxy-starts-pre-sales-m8",
       "published_at": "2026-11-24T14:27:27Z",
       "first_seen_at": "2026-11-24T18:36:56.888533Z",
-      "last_seen_at": "2026-11-25T02:55:02.003459Z",
+      "last_seen_at": "2026-11-25T12:05:36.621480Z",
       "title_original": "Geely Galaxy starts pre-sales of M8, targeting large 5-seat plug-in hybrid SUV market",
       "title_en": "Geely Galaxy starts pre-sales of M8, targeting large 5-seat plug-in hybrid SUV market",
       "title_zh": "吉利银河M8开启预售，瞄准大型5座插电式混合动力SUV市场",
@@ -665,7 +894,7 @@
       "url": "https://carnewschina.com/2026/11/24/jetours-first-bev-hits-the-market-a-boxy-suv-priced-from-13400-usd-in-china",
       "published_at": "2026-11-24T13:43:50Z",
       "first_seen_at": "2026-11-24T18:36:56.888533Z",
-      "last_seen_at": "2026-11-25T02:55:02.003459Z",
+      "last_seen_at": "2026-11-25T12:05:36.621480Z",
       "title_original": "Jetour’s first BEV hits the market: a “boxy” SUV priced from 13,400 USD in China",
       "title_en": "Jetour’s first BEV hits the market: a “boxy” SUV priced from 13,400 USD in China",
       "title_zh": "捷途首款纯电动车上市：“四四方方”SUV，中国售价 13,400 美元起",
@@ -685,7 +914,7 @@
       "url": "https://cnevpost.com/2026/11/24/byd-launches-3rd-gen-tang-electric-suv",
       "published_at": "2026-11-24T13:36:49Z",
       "first_seen_at": "2026-11-24T18:36:56.888533Z",
-      "last_seen_at": "2026-11-25T02:55:02.003459Z",
+      "last_seen_at": "2026-11-25T12:05:36.621480Z",
       "title_original": "BYD launches third-gen Tang electric SUV starting at $28,000 with up to 850 km range",
       "title_en": "BYD launches third-gen Tang electric SUV starting at $28,000 with up to 850 km range",
       "title_zh": "比亚迪推出第三代唐电动SUV，起价28,000美元，续航里程可达850公里",
@@ -698,6 +927,41 @@
       ]
     },
     {
+      "id": "dd2a0a8559029934cfb2f86659ea618e4d183081",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-新能源",
+      "title": "剥离电池回收业务，巴斯夫电池材料业务将聚焦正极活性材料",
+      "url": "https://auto.gasgoo.com/news/202611/24I70478925C501.shtml",
+      "published_at": "2026-11-24T13:12:30Z",
+      "first_seen_at": "2026-11-25T12:05:36.621480Z",
+      "last_seen_at": "2026-11-25T12:05:36.621480Z",
+      "title_original": "剥离电池回收业务，巴斯夫电池材料业务将聚焦正极活性材料",
+      "title_en": null,
+      "title_zh": "剥离电池回收业务，巴斯夫电池材料业务将聚焦正极活性材料",
+      "title_bilingual": "剥离电池回收业务，巴斯夫电池材料业务将聚焦正极活性材料",
+      "topic_tags": [
+        "新能源",
+        "补能电池"
+      ]
+    },
+    {
+      "id": "41b89cbcb92532e17b64f9e1154f69980fde411f",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-行业",
+      "title": "欧盟拟扩大混合动力汽车进口限制，日韩、英国和土耳其等均受影响",
+      "url": "https://auto.gasgoo.com/news/202611/24I70478920C108.shtml",
+      "published_at": "2026-11-24T13:07:07Z",
+      "first_seen_at": "2026-11-25T12:05:36.621480Z",
+      "last_seen_at": "2026-11-25T12:05:36.621480Z",
+      "title_original": "欧盟拟扩大混合动力汽车进口限制，日韩、英国和土耳其等均受影响",
+      "title_en": null,
+      "title_zh": "欧盟拟扩大混合动力汽车进口限制，日韩、英国和土耳其等均受影响",
+      "title_bilingual": "欧盟拟扩大混合动力汽车进口限制，日韩、英国和土耳其等均受影响",
+      "topic_tags": []
+    },
+    {
       "id": "80563727f9aa6d2e9918248383a506395686d2fb",
       "site_id": "official_auto",
       "site_name": "车圈垂类 RSS",
@@ -706,13 +970,33 @@
       "url": "https://cnevpost.com/2026/11/24/eu-import-quotas-hybrids-dec-china-urges-adherence-consensus",
       "published_at": "2026-11-24T12:58:24Z",
       "first_seen_at": "2026-11-24T18:36:56.888533Z",
-      "last_seen_at": "2026-11-25T02:55:02.003459Z",
+      "last_seen_at": "2026-11-25T12:05:36.621480Z",
       "title_original": "EU to impose import quotas on hybrid cars from December, China urges adherence to consensus",
       "title_en": "EU to impose import quotas on hybrid cars from December, China urges adherence to consensus",
       "title_zh": "欧盟12月起对混合动力汽车实施进口配额 中方敦促各方遵守共识",
       "title_bilingual": "欧盟12月起对混合动力汽车实施进口配额 中方敦促各方遵守共识 / EU to impose import quotas on hybrid cars from December, China urges adherence to consensus",
       "topic_tags": [
         "新能源"
+      ]
+    },
+    {
+      "id": "d4de612d1db1e4aa7c8388762b921378a8f186fe",
+      "site_id": "official_auto",
+      "site_name": "车圈垂类 RSS",
+      "source": "盖世汽车-车企",
+      "title": "出口反超内销，特斯拉上海工厂“转身”",
+      "url": "https://auto.gasgoo.com/news/202611/24I70478836C109.shtml",
+      "published_at": "2026-11-24T12:45:28Z",
+      "first_seen_at": "2026-11-25T12:05:36.621480Z",
+      "last_seen_at": "2026-11-25T12:05:36.621480Z",
+      "title_original": "出口反超内销，特斯拉上海工厂“转身”",
+      "title_en": null,
+      "title_zh": "出口反超内销，特斯拉上海工厂“转身”",
+      "title_bilingual": "出口反超内销，特斯拉上海工厂“转身”",
+      "topic_tags": [
+        "销量市场",
+        "车企竞争",
+        "供应链"
       ]
     },
     {
@@ -724,7 +1008,7 @@
       "url": "https://carnewschina.com/2026/11/24/xiaomi-auto-will-start-eu-sales-in-germany-italy-spain-and-sweden-in-2027",
       "published_at": "2026-11-24T12:33:24Z",
       "first_seen_at": "2026-11-24T18:36:56.888533Z",
-      "last_seen_at": "2026-11-25T02:55:02.003459Z",
+      "last_seen_at": "2026-11-25T12:05:36.621480Z",
       "title_original": "Xiaomi Auto will start EU sales in Germany, Italy, Spain and Sweden in 2027",
       "title_en": "Xiaomi Auto will start EU sales in Germany, Italy, Spain and Sweden in 2027",
       "title_zh": "小米汽车将于2027年在德国、意大利、西班牙和瑞典开始欧盟销售",
@@ -732,122 +1016,6 @@
       "topic_tags": [
         "新能源",
         "车企竞争"
-      ]
-    },
-    {
-      "id": "4be321a406302d3925d398172a84736442d643f1",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新能源",
-      "title": "科新动力两条PACK产线落地武汉，达产后可实现年产能约25万套",
-      "url": "https://auto.gasgoo.com/news/202611/24I70478905C501.shtml",
-      "published_at": "2026-11-24T10:08:14Z",
-      "first_seen_at": "2026-11-25T02:55:02.003459Z",
-      "last_seen_at": "2026-11-25T02:55:02.003459Z",
-      "title_original": "科新动力两条PACK产线落地武汉，达产后可实现年产能约25万套",
-      "title_en": null,
-      "title_zh": "科新动力两条PACK产线落地武汉，达产后可实现年产能约25万套",
-      "title_bilingual": "科新动力两条PACK产线落地武汉，达产后可实现年产能约25万套",
-      "topic_tags": [
-        "新能源",
-        "供应链"
-      ]
-    },
-    {
-      "id": "b797a3a25de504e9198699c1b5571c9c3a31e917",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "Nio sets Nio Day 2026 for December 19 in Wuhan, to unveil all-new ET5 Touring",
-      "url": "https://cnevpost.com/2026/11/24/nio-day-2026-dec-19-unveil-new-et5-touring",
-      "published_at": "2026-11-24T09:22:41Z",
-      "first_seen_at": "2026-11-24T18:36:56.888533Z",
-      "last_seen_at": "2026-11-25T02:55:02.003459Z",
-      "title_original": "Nio sets Nio Day 2026 for December 19 in Wuhan, to unveil all-new ET5 Touring",
-      "title_en": "Nio sets Nio Day 2026 for December 19 in Wuhan, to unveil all-new ET5 Touring",
-      "title_zh": "蔚来2026年蔚来日将于12月19日在武汉举行，并发布全新ET5 Touring",
-      "title_bilingual": "蔚来2026年蔚来日将于12月19日在武汉举行，并发布全新ET5 Touring / Nio sets Nio Day 2026 for December 19 in Wuhan, to unveil all-new ET5 Touring",
-      "topic_tags": [
-        "新能源",
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "3fb97add62f0dbe5f82d2e24f1b3460f1425a533",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "CnEVPost-China EV",
-      "title": "BYD Fang Cheng Bao Shark pickup to launch in China on December 2 after Guangzhou Auto Show debut",
-      "url": "https://cnevpost.com/2026/11/24/byd-fang-cheng-bao-shark-launch-china-dec-2",
-      "published_at": "2026-11-24T08:46:15Z",
-      "first_seen_at": "2026-11-24T18:36:56.888533Z",
-      "last_seen_at": "2026-11-25T02:55:02.003459Z",
-      "title_original": "BYD Fang Cheng Bao Shark pickup to launch in China on December 2 after Guangzhou Auto Show debut",
-      "title_en": "BYD Fang Cheng Bao Shark pickup to launch in China on December 2 after Guangzhou Auto Show debut",
-      "title_zh": "比亚迪方成宝鲨皮卡将于12月2日在广州车展亮相后在中国上市",
-      "title_bilingual": "比亚迪方成宝鲨皮卡将于12月2日在广州车展亮相后在中国上市 / BYD Fang Cheng Bao Shark pickup to launch in China on December 2 after Guangzhou Auto Show debut",
-      "topic_tags": [
-        "新能源",
-        "车企竞争",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "e480241c03b2f88b684578de614d719d9eb731ed",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-车企",
-      "title": "智驾险的“三重门”：赔不到、赔不够、赔不明白",
-      "url": "https://auto.gasgoo.com/news/202611/24I70478862C601.shtml",
-      "published_at": "2026-11-24T07:47:28Z",
-      "first_seen_at": "2026-11-25T02:55:02.003459Z",
-      "last_seen_at": "2026-11-25T02:55:02.003459Z",
-      "title_original": "智驾险的“三重门”：赔不到、赔不够、赔不明白",
-      "title_en": null,
-      "title_zh": "智驾险的“三重门”：赔不到、赔不够、赔不明白",
-      "title_bilingual": "智驾险的“三重门”：赔不到、赔不够、赔不明白",
-      "topic_tags": [
-        "智能驾驶",
-        "车企竞争"
-      ]
-    },
-    {
-      "id": "e58e22464ccf11cd5539b0fa8de09887aa0e7393",
-      "site_id": "official_auto",
-      "site_name": "车圈垂类 RSS",
-      "source": "盖世汽车-新车",
-      "title": "鸿蒙智行家庭智慧旗舰SUV焕新，问界新M8核心零部件配套供应商一览",
-      "url": "https://auto.gasgoo.com/news/202611/24I70478831C107.shtml",
-      "published_at": "2026-11-24T07:00:00Z",
-      "first_seen_at": "2026-11-25T02:55:02.003459Z",
-      "last_seen_at": "2026-11-25T02:55:02.003459Z",
-      "title_original": "鸿蒙智行家庭智慧旗舰SUV焕新，问界新M8核心零部件配套供应商一览",
-      "title_en": null,
-      "title_zh": "鸿蒙智行家庭智慧旗舰SUV焕新，问界新M8核心零部件配套供应商一览",
-      "title_bilingual": "鸿蒙智行家庭智慧旗舰SUV焕新，问界新M8核心零部件配套供应商一览",
-      "topic_tags": [
-        "车企竞争",
-        "供应链",
-        "新车上市"
-      ]
-    },
-    {
-      "id": "47bfe8a84112ef7ba207e3616036e314678989f7",
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "juejin",
-      "title": "你只说要什么，它负责拆活交付：任务编排插件上手指南",
-      "url": "https://juejin.cn/post/7710905800151269426",
-      "published_at": "2026-11-24T06:43:38.623000Z",
-      "first_seen_at": "2026-11-24T06:43:24.362718Z",
-      "last_seen_at": "2026-11-24T18:36:56.888533Z",
-      "title_original": "你只说要什么，它负责拆活交付：任务编排插件上手指南",
-      "title_en": null,
-      "title_zh": "你只说要什么，它负责拆活交付：任务编排插件上手指南",
-      "title_bilingual": "你只说要什么，它负责拆活交付：任务编排插件上手指南",
-      "topic_tags": [
-        "销量市场"
       ]
     }
   ],
